@@ -1,0 +1,16 @@
+name: "Nix"
+on:
+  pull_request:
+  push:
+jobs:
+  tests:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-18.04, macos-10.15]
+    steps:
+      # v2.1.0
+    - uses: actions/checkout@01aecccf739ca6ff86c0539fbc67a7a5007bbc81
+      # v8
+    - uses: cachix/install-nix-action@ebed63b0a20f20951a06a507ea1a1596bfce35b6
+    - run: cat /etc/nix/nix.conf
