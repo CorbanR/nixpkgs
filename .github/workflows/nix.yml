@@ -1,7 +1,11 @@
 name: "Nix"
 on:
   pull_request:
+    branches-ignore:
+      - "gh-pages"
   push:
+    branches-ignore:
+      - "gh-pages"
 jobs:
   tests:
     runs-on: ${{ matrix.os }}
