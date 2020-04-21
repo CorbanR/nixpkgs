@@ -2,8 +2,10 @@
 Custom overrides, derivations, and other helpful nix expressions.
 
 ## Adding channel
+add channel with `raunco` alias
+
 ```bash
-nix-channel --add https://nixpkgs.raunco.co/
+nix-channel --add https://nixpkgs.raunco.co/ raunco
 nix-channel --update
 ```
 

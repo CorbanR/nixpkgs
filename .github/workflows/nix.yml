@@ -102,3 +102,34 @@ jobs:
         BRANCH: gh-pages
         FOLDER: _output
         CLEAN: true
+
+  test-channel:
+    needs: "tests-and-build"
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-18.04, macos-10.15]
+    steps:
+      # v2.1.0
+    - uses: actions/checkout@01aecccf73
+      # v8
+    - uses: cachix/install-nix-action@ebed63b0a2
+    - name: Print nix.conf
+      run: cat /etc/nix/nix.conf
+    - name: Add channel
+      run: |
+        nix-channel --add https://nixpkgs.raunco.co/ raunco
+        nix-channel --update
+        nix-channel --list
+    - name: Add cache to users nix config
+      run: |
+        mkdir  -p ~/.config/nix
+        cat <<EOT >> ~/.config/nix/nix.conf
+        substituters = https://cache.nixos.org https://nixpkgs.raunco.co/cache
+        trusted-public-keys = cache.nixos.org-1:6NCHdD59X431o0gWypbMrAURkbJ16ZPMQFGspcDShjY= nixpkgs.raunco.co:bb6Y8BB7fkbRlhaUFzbubClYT5OlHyqEmCG8uh9Kt2U=
+        EOT
+        cat ~/.config/nix/nix.conf
+    - name: Install package defined in channel raunco.nodejs-8_x
+      run: |
+        nix-env -iA raunco.nodejs-8_x
