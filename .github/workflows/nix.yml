@@ -51,7 +51,7 @@ jobs:
       run: nix-build
     - name: Sign the packages
       run: |
-        nix sign-paths --key-file <(echo $NIX_SECRET_KEY)
+        nix sign-paths --key-file <(printf "%s" "$NIX_SECRET_KEY")
         nix copy --to "file:///$PWD/_output/cache"
         nix path-info --store "file:///$PWD/_output/cache" --json | json_pp
       env:
