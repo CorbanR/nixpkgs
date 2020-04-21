@@ -6,10 +6,8 @@ on:
   push:
     branches-ignore:
       - "gh-pages"
-
-# See nix.yml.bak for how I would like this to work..
 jobs:
-  tests-and-build:
+  tests:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
@@ -23,16 +21,27 @@ jobs:
       run: cat /etc/nix/nix.conf
     - name: Build tests
       run: nix-build tests.nix
-    - name: Cleanup test results
-      run: rm -rf results*
-      # The below steps should be in a sepearate job, but cannot get cache plugin working on /nix/store
-      # see nix.yml.bak
+
+  # There is an issue with actions/cache, tried to use with /nix/store and ran into permissons issues
+  # https://github.com/actions/cache/issues/133, combining the test job and build-nix-cache into the same job.. until fixed
+  # Only deploy when commit is merged or pushed to master
+  build-nix-cache:
+    needs: "tests"
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-18.04, macos-10.15]
+    steps:
+      # v2.1.0
+    - uses: actions/checkout@01aecccf73
+      # v8
+    - uses: cachix/install-nix-action@ebed63b0a2
     - name: Create output path
-      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
       run: mkdir -p _output/cache
       # We only need to do this particular step once
     - name: Create channel archive
-      if: startsWith(matrix.os,'ubuntu') && success()
+      if: startsWith(matrix.os,'ubuntu')
       run: |
         tar -cJf "_output/nixexprs.tar.xz" ./*.nix \
             --transform "s,^,${PWD##*/}/," \
@@ -41,10 +50,8 @@ jobs:
         touch "_output/index.html"
         printf 'https://nixpkgs.raunco.co/cache' > "_output/binary-cache-url"
     - name: Build the packages
-      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
       run: nix-build
     - name: Sign the packages
-      if: success()
       run: |
         #nix sign-paths --key-file <(printf "%s" "$NIX_SECRET_KEY")
         export NIX_SECRET_KEY_FILE="$PWD/nix-cache-priv-key.pem"
@@ -55,13 +62,13 @@ jobs:
       env:
         NIX_SECRET_KEY: ${{ secrets.NIX_SECRET_KEY }}
     - name: Upload artifacts
-      if: success()
+      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
       uses: actions/upload-artifact@1283ca12b6
       with:
         name: nix-cache-${{ matrix.os }}-${{ github.sha }}
         path: _output
   deploy:
-    needs: "test-and-build"
+    needs: "build-nix-cache"
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
     runs-on: ubuntu-18.04
     steps:
