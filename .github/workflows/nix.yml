@@ -61,7 +61,7 @@ jobs:
         name: nix-cache-${{ matrix.os }}-${{ github.sha }}
         path: _output
   deploy:
-    needs: "test-and-build"
+    needs: "tests-and-build"
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
     runs-on: ubuntu-18.04
     steps:
