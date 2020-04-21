@@ -1,0 +1,10 @@
+StorePath: /nix/store/vl528cwr4mhh95pba8c18nbs7qswxpb8-dns-root-data-2019-01-11
+URL: nar/072frl92jik3g80pidvaighg0kafba3f2fxhl9ii5ycqyp7wmixg.nar.xz
+Compression: xz
+FileHash: sha256:072frl92jik3g80pidvaighg0kafba3f2fxhl9ii5ycqyp7wmixg
+FileSize: 1368
+NarHash: sha256:14gwa47rs3lma0v2rk78q7bww19nx2g78c6yafr307smcf9vxzvz
+NarSize: 4480
+References: 
+Deriver: 7md71p566dbqqmriiyhy3vs4zqsfr9ih-dns-root-data-2019-01-11.drv
+Sig: cache.nixos.org-1:yRcuWjX0IHgRFj3s6LDyNdqX7DYobuKeaER4joq/oQ9kAqY24xkSJ78ZrZO2EmG+OKl7CZITH6+98GIOoy0DAg==

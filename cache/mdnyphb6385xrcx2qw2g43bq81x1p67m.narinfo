@@ -1,0 +1,10 @@
+StorePath: /nix/store/mdnyphb6385xrcx2qw2g43bq81x1p67m-python-2.7.17
+URL: nar/14s0j1vyi3p3jr4p729m6zzvy9cc9jxiqzqw2rslh1kcv0p9sqgm.nar.xz
+Compression: xz
+FileHash: sha256:14s0j1vyi3p3jr4p729m6zzvy9cc9jxiqzqw2rslh1kcv0p9sqgm
+FileSize: 8196872
+NarHash: sha256:19wy2926f97m20dws9ky23kmfbbzrwsskh03f77lp9ri7qz41j3d
+NarSize: 46997432
+References: 0i4wbhkj6663nlh63ydhr01vx8w90s49-ncurses-6.2 54ck0amp142w7n107139nabba265b910-db-5.3.28 66bmzz2vhnrqwbgpp7mki4dbvqgyjhz3-bzip2-1.0.6.0.1 an6bdv4phxsz14q2sk57iscl2dc7bnj1-glibc-2.30 d107q6qzjb8a7zxng5ipnmhzhjsa63v4-sqlite-3.31.1 ffli6m23501dkiznwlkf6n4xvrj02snr-bash-4.4-p23 fs0h13zxb5hcv1vr6yf2ijzp943jb6hy-coreutils-8.31 g39cbah5km1rm4x0b884z2zr6ihy1p4b-openssl-1.1.1d mdnyphb6385xrcx2qw2g43bq81x1p67m-python-2.7.17 vqw8gcny555rkivz01na43k4k9yv511z-gdbm-1.18.1 zijyx49rya9hy1y273dffhnhgvhsfym8-readline-6.3p08 zsr1dksfh97yvb49k3rni00q5lppd9pd-zlib-1.2.11
+Deriver: akq8p6g7k5drz6b848akfiqifvajlp7b-python-2.7.17.drv
+Sig: cache.nixos.org-1:7yy46IskgKojKJcEPbFV9fH8LsVa0pGss6bZctDGtvUgeSE6r8WjytaW2lued+lXbAvzJIBj3MHpHFLaaASLBA==

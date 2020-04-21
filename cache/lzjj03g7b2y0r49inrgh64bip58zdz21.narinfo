@@ -1,0 +1,10 @@
+StorePath: /nix/store/lzjj03g7b2y0r49inrgh64bip58zdz21-p11-kit-0.23.20
+URL: nar/0h3f86l46ny85dqh8n7x77ryzpsnnvahidf6qq1cxlyc1w9gb5vf.nar.xz
+Compression: xz
+FileHash: sha256:0h3f86l46ny85dqh8n7x77ryzpsnnvahidf6qq1cxlyc1w9gb5vf
+FileSize: 317300
+NarHash: sha256:07skfwfzrax9a87hsz9cdbdhcs24xknhv49h59famgjmdm344kiw
+NarSize: 2409928
+References: 4p3bds5cknzwg72np1rzyn3jq0962z84-bash-4.4-p23 4vg7zbn2bgapipc721xih05w6n9b3nq9-libtasn1-4.16.0 7y6vn8wr00zwkcnv830qjkra37gvd11p-gettext-0.20.1 7zryalm91s9im117zvq1hcgzs42al0g7-libiconv-osx-10.12.6 9bvvaa06570pib2c9p8m2rjb47fsrfs5-libffi-3.3 i5p6snm3s4wmmbif4fkjjaqlaycj8fm5-Libsystem-osx-10.12.6 jlhva5dy674rm4w91bbnyip2p6ij7wa1-swift-corefoundation lzjj03g7b2y0r49inrgh64bip58zdz21-p11-kit-0.23.20
+Deriver: 8n4c07gfmhgpv5ksc7l7455mqgnqx2mb-p11-kit-0.23.20.drv
+Sig: cache.nixos.org-1:8MWL4qy6JaDLpddqv9qzaIOm+65jHdzSZSKmnuLt9+A2TkNv1jWsnH1ZMZxu5WzupqIAYehhhwr2cs9YCz6uBA==
