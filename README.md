@@ -31,15 +31,13 @@ Example: `darwin-configuration.nix`
 ```
 { config, lib, pkgs, options, ... }:
 
-
+# Adds to the list that already contains https://cache.nixos.org
 {
   nix.binaryCaches = [
-    https://cache.nixos.org
     https://nixpkgs.raunco.co/cache
   ];
 
   nix.binaryCachePublicKeys = [
-    cache.nixos.org-1:6NCHdD59X431o0gWypbMrAURkbJ16ZPMQFGspcDShjY=
     nixpkgs.raunco.co:bb6Y8BB7fkbRlhaUFzbubClYT5OlHyqEmCG8uh9Kt2U=
   ];
 }
