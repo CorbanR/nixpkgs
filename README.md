@@ -43,3 +43,21 @@ Example: `darwin-configuration.nix`
 }
 
 ```
+
+#### Example Usage
+Using `nix-env` you can install a package from this channel by running something like `nix-env -iA raunco.nodejs-8_x`,
+or install using nix configuration. The example below, uses [home-manager](https://github.com/rycee/home-manager)
+
+```
+{ ... }:
+
+let
+  raunco = import <raunco> {};
+in
+  {
+    home.packages = [
+      raunco.vaulted
+      raunco.rapture
+    ];
+  }
+```
