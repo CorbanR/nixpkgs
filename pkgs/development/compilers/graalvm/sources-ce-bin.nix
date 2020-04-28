@@ -36,11 +36,11 @@ in
         };
         llvm-toolchain = fetchurl {
           url = "${base}/llvm-toolchain-installable-java${javaVersion}-linux-amd64-${graalvmVersion}.jar";
-          sha256 = "455d68ada02d91234437ffb716a6ba2041afa7405c5be4b0612262306304634b";
+          sha256 = "636a4c71380e0c3d1b27aad63a4925ebae13e3e1d3303b0dea9485fbe9865c61";
         };
         wasm = fetchurl {
           url = "${base}/wasm-installable-svm-java${javaVersion}-linux-amd64-${graalvmVersion}.jar";
-          sha256 = "636a4c71380e0c3d1b27aad63a4925ebae13e3e1d3303b0dea9485fbe9865c61";
+          sha256 = "455d68ada02d91234437ffb716a6ba2041afa7405c5be4b0612262306304634b";
         };
       };
     };
