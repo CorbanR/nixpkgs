@@ -22,7 +22,7 @@ in stdenv.mkDerivation {
     mkdir -p $out
     ${if stdenv.isDarwin
     then "mv graalvm*/Contents/Home/* $out"
-    else "mv graalvm*/ $out/"}
+    else "mv graalvm*/* $out"}
 
     $out/bin/gu -L install ${system_src.native-image}
     $out/bin/gu -L install ${system_src.llvm-toolchain}
