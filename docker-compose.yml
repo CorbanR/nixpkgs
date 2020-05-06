@@ -1,0 +1,9 @@
+---
+version: '3.4'
+
+services:
+  nix:
+    image: lnl7/nix:2.3.3
+    command: ["/bin/sh"]
+    volumes:
+      - ".:/usr/src/app:cached"

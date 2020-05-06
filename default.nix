@@ -2,12 +2,17 @@
 
 let
   pkgs = import <nixpkgs> { inherit system; };
+  isDarwin = system == "x86_64-darwin";
 
   callPackage = pkgs.lib.callPackageWith (pkgs // self);
 
-  self = {
+  # Packages that are darwin only for now
+  darwinPlatformPackages = {
     graalvm11-ce-bin = callPackage ./pkgs/development/compilers/graalvm/graalvm-ce-bin.nix { javaVersion = "11"; };
     graalvm8-ce-bin = callPackage ./pkgs/development/compilers/graalvm/graalvm-ce-bin.nix { javaVersion = "8"; };
+  };
+
+  crossPlatformPackages = {
     nodejs-8_x = callPackage ./pkgs/development/web/nodejs-8_x {};
     rapture = callPackage ./pkgs/tools/security/rapture {};
     vaulted = callPackage ./pkgs/tools/security/vaulted {};
@@ -15,4 +20,6 @@ let
     vaulted-wrapped = callPackage ./pkgs/tools/security/vaulted { enableWrapper = true; };
     xmlsec-openssl = callPackage ./pkgs/development/libraries/xmlsec-openssl {};
   };
+
+  self = {} // (if isDarwin then (crossPlatformPackages // darwinPlatformPackages) else crossPlatformPackages);
 in self

@@ -1,4 +1,4 @@
-{ stdenv, fetchurl, unzip, setJavaClassPath, zlib, gcc
+{ stdenv, fetchurl, setJavaClassPath, zlib, gcc
 , javaVersion ? "11"
 , graalvmVersion ? "20.0.0" }:
 
@@ -14,8 +14,6 @@ in stdenv.mkDerivation {
 
   src = system_src.graalvm;
 
-  nativeBuildInputs = [ unzip ];
-
   sourceRoot = ".";
 
   installPhase = ''
@@ -29,7 +27,20 @@ in stdenv.mkDerivation {
     $out/bin/gu -L install ${system_src.wasm}
   '';
 
-  propagatedBuildInputs = [ setJavaClassPath zlib gcc];
+  propagatedBuildInputs = [ setJavaClassPath zlib] ++ stdenv.lib.optional stdenv.isDarwin [ gcc ];
+
+  preFixup = ''
+      # Propagate the setJavaClassPath setup hook from the JDK so that
+      # any package that depends on the JDK has $CLASSPATH set up
+      # properly.
+      mkdir -p $out/nix-support
+      printWords ${setJavaClassPath} > $out/nix-support/propagated-build-inputs
+
+      # Set JAVA_HOME automatically.
+      cat <<EOF >> $out/nix-support/setup-hook
+      if [ -z "\''${JAVA_HOME-}" ]; then export JAVA_HOME=$out; fi
+      EOF
+    '';
 
   doInstallCheck = true;
   installCheckPhase = ''
@@ -60,7 +71,8 @@ in stdenv.mkDerivation {
   meta = with stdenv.lib; {
     homepage = "https://www.graalvm.org/";
     description = "High-performance polyglot VM";
-    platforms = [ "x86_64-linux" "x86_64-darwin" ];
+    # Darwin only for now as linux is more of a pain
+    platforms = [ "x86_64-darwin" ];
     license = licenses.gpl2;
     maintainers = with maintainers; [ craun ];
   };
