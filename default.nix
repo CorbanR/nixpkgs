@@ -13,6 +13,7 @@ let
   };
 
   crossPlatformPackages = {
+    libpulsar = callPackage ./pkgs/development/libraries/libpulsar {};
     nodejs-8_x = callPackage ./pkgs/development/web/nodejs-8_x {};
     rapture = callPackage ./pkgs/tools/security/rapture {};
     vaulted = callPackage ./pkgs/tools/security/vaulted {};
