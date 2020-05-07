@@ -96,7 +96,7 @@ jobs:
 
       #v3
     - name: Deploy pages
-      uses: JamesIves/github-pages-deploy-action@f8bad71bf4
+      uses: JamesIves/github-pages-deploy-action@8fcf8339ce
       with:
         SSH: true
         BRANCH: gh-pages
