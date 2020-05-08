@@ -17,19 +17,25 @@ jobs:
     steps:
       # v2.1.0
     - uses: actions/checkout@01aecccf73
+
       # v8
     - uses: cachix/install-nix-action@ebed63b0a2
+
     - name: Print nix.conf
       run: cat /etc/nix/nix.conf
+
     - name: Build tests
       run: nix-build --max-jobs 2 --cores 2 tests.nix
+
     - name: Cleanup test results
       run: rm -rf results*
+
       # The below steps should be in a sepearate job, but cannot get cache plugin working on /nix/store
       # see nix.yml.bak
     - name: Create output path
       if: github.event_name == 'push' && github.ref == 'refs/heads/master'
       run: mkdir -p _output/cache
+
       # We only need to do this particular step once
     - name: Create channel archive
       if: startsWith(matrix.os,'ubuntu') && success()
@@ -40,12 +46,15 @@ jobs:
 
         touch "_output/index.html"
         printf 'https://nixpkgs.raunco.co/cache' > "_output/binary-cache-url"
+
     - name: Build the packages
       if: github.event_name == 'push' && github.ref == 'refs/heads/master'
       run: nix-build --max-jobs 2 --cores 2
+
     - name: optimize nix-store to reduce size
       if: success()
       run: nix-store --optimise
+
     - name: Sign the packages
       if: success()
       run: |
@@ -57,12 +66,14 @@ jobs:
         rm -rf "$NIX_SECRET_KEY_FILE"
       env:
         NIX_SECRET_KEY: ${{ secrets.NIX_SECRET_KEY }}
+
     - name: Upload artifacts
       if: success()
       uses: actions/upload-artifact@1283ca12b6
       with:
         name: nix-cache-${{ matrix.os }}-${{ github.sha }}
         path: _output
+
   deploy:
     needs: "tests-and-build"
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
@@ -72,19 +83,23 @@ jobs:
     - uses: actions/checkout@01aecccf73
       with:
         persist-credentials: false
+
     - name: Download linux artifacts
       uses: actions/download-artifact@b85295d276
       with:
         name: nix-cache-ubuntu-18.04-${{ github.sha }}
+
     - name: Download mac artifacts
       uses: actions/download-artifact@b85295d276
       with:
         name: nix-cache-macos-10.15-${{ github.sha }}
+
     - name: Combine cache files
       run: |
         mkdir -p _output
         cp -r nix-cache-macos-10.15-${GITHUB_SHA}/. _output
         cp -r nix-cache-ubuntu-18.04-${GITHUB_SHA}/. _output
+
     #- name: Upload combined artifacts
       #uses: actions/upload-artifact@v1
       #with:
@@ -117,15 +132,19 @@ jobs:
     steps:
       # v2.1.0
     - uses: actions/checkout@01aecccf73
+
       # v8
     - uses: cachix/install-nix-action@ebed63b0a2
+
     - name: Print nix.conf
       run: cat /etc/nix/nix.conf
+
     - name: Add channel
       run: |
         nix-channel --add https://nixpkgs.raunco.co/ raunco
         nix-channel --update
         nix-channel --list
+
     - name: Add cache to users nix config
       run: |
         mkdir  -p ~/.config/nix
@@ -134,6 +153,7 @@ jobs:
         trusted-public-keys = cache.nixos.org-1:6NCHdD59X431o0gWypbMrAURkbJ16ZPMQFGspcDShjY= nixpkgs.raunco.co:bb6Y8BB7fkbRlhaUFzbubClYT5OlHyqEmCG8uh9Kt2U=
         EOT
         cat ~/.config/nix/nix.conf
-    - name: Install package defined in channel raunco.nodejs-8_x
+
+    - name: Install package defined in channel raunco.nodejs-8_x (retry a couple times)
       run: |
-        nix-env -iA raunco.nodejs-8_x
+        nix-env -iA raunco.nodejs-8_x || nix-env -iA raunco.nodejs-8_x || nix-env -iA raunco.nodejs-8_x
