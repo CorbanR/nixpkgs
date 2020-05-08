@@ -1,0 +1,2 @@
+*.nar.br filter=lfs diff=lfs merge=lfs -text
+*.nar.xz filter=lfs diff=lfs merge=lfs -text
