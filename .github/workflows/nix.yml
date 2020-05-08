@@ -7,10 +7,6 @@ on:
     branches-ignore:
       - "gh-pages"
 
-env:
-  # use all available cores
-  NIX_BUILD_CORES: 0
-
 # See nix.yml.bak for how I would like this to work..
 jobs:
   tests-and-build:
@@ -26,7 +22,7 @@ jobs:
     - name: Print nix.conf
       run: cat /etc/nix/nix.conf
     - name: Build tests
-      run: nix-build tests.nix
+      run: nix-build --max-jobs 2 --cores 2 tests.nix
     - name: Cleanup test results
       run: rm -rf results*
       # The below steps should be in a sepearate job, but cannot get cache plugin working on /nix/store
@@ -46,7 +42,7 @@ jobs:
         printf 'https://nixpkgs.raunco.co/cache' > "_output/binary-cache-url"
     - name: Build the packages
       if: github.event_name == 'push' && github.ref == 'refs/heads/master'
-      run: nix-build
+      run: nix-build --max-jobs 2 --cores 2
     - name: optimize nix-store to reduce size
       if: success()
       run: nix-store --optimise
