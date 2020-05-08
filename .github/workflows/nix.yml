@@ -7,6 +7,10 @@ on:
     branches-ignore:
       - "gh-pages"
 
+env:
+  # use all available cores
+  NIX_BUILD_CORES: 0
+
 # See nix.yml.bak for how I would like this to work..
 jobs:
   tests-and-build:
@@ -43,13 +47,16 @@ jobs:
     - name: Build the packages
       if: github.event_name == 'push' && github.ref == 'refs/heads/master'
       run: nix-build
+    - name: optimize nix-store to reduce size
+      if: success()
+      run: nix-store --optimise
     - name: Sign the packages
       if: success()
       run: |
         export NIX_SECRET_KEY_FILE="$PWD/nix-cache-priv-key.pem"
         echo "$NIX_SECRET_KEY" > "$NIX_SECRET_KEY_FILE"
         nix sign-paths -k "$NIX_SECRET_KEY_FILE"
-        nix copy --to "file:///$PWD/_output/cache"
+        nix copy --to "file:///$PWD/_output/cache?compression=xz"
         nix path-info --store "file:///$PWD/_output/cache" --json | json_pp
         rm -rf "$NIX_SECRET_KEY_FILE"
       env:
