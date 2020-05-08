@@ -1,0 +1,10 @@
+StorePath: /nix/store/yw6fip0pmy5r7r89724yi349szlzk2c9-libpulsar-2.5.1
+URL: nar/093fz1yijnjjxax0wsl3n4vsg1n8xz6am2v06njg3gcn680747a3.nar.xz
+Compression: xz
+FileHash: sha256:093fz1yijnjjxax0wsl3n4vsg1n8xz6am2v06njg3gcn680747a3
+FileSize: 2350616
+NarHash: sha256:0b14rm1f8qa0h9r5vqvh6apjwv775ia2d9yxf32i3cn4rd6zdy7v
+NarSize: 20665088
+References: 29hpnfc1jzzbsc3ya71hhindayr5nanw-Libsystem-osx-10.12.6 37lyyv8g00k36zcmk3gix8fzwyvhmfcm-protobuf-3.7.1 43dnj61jjvvpjjy8d99032cjr3li6sfb-boost-1.72.0 4wi8h3d3jkysdh040bh6cd1x2f7f5min-snappy-1.1.8 9yn60b5022vw22nyvpblfwakslx4gsj5-openssl-1.1.1g j30jwscdf761kam1s7lr24b9gflcr133-libc++-10.0.0 lv2si5sm6xmbb82rcpwmavlin2jw9rnd-zstd-1.4.4 qjb5bmsy8wnmgpmn4p3hri9i5nix6cb8-log4cxx-0.10.0 wafcgnqn10nj2ic1y7157cymbi39pj3r-zlib-1.2.11 xcp33n9jv8hvy63mf1fx08xvvc0a7qyp-curl-7.69.1 y5d27qmy6chhll4dr0skaky5h02br4s1-swift-corefoundation yw6fip0pmy5r7r89724yi349szlzk2c9-libpulsar-2.5.1
+Deriver: kxckby23iamyqk2r8sc2b6ycj04g7ajf-libpulsar-2.5.1.drv
+Sig: nixpkgs.raunco.co:YMjewqExnOiIO9n88xN4CHSVWraoYsCoC/k60b2bgSp/UgHQ+BZKpdHwVPduKxeo6iN6f0EMsz1Rgz04BoLRBQ==

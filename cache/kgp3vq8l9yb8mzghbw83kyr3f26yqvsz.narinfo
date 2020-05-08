@@ -1,0 +1,10 @@
+StorePath: /nix/store/kgp3vq8l9yb8mzghbw83kyr3f26yqvsz-bash-4.4-p23
+URL: nar/0bli2j81nhd88agpxx9q5nqj17mkk3370wmcbwigxcz6pk8yj313.nar.xz
+Compression: xz
+FileHash: sha256:0bli2j81nhd88agpxx9q5nqj17mkk3370wmcbwigxcz6pk8yj313
+FileSize: 377956
+NarHash: sha256:11rzyiqmd1lxfcw60fiy7ahn7gcj5bs5dcwnm70blrmn8fjkyzhb
+NarSize: 1325208
+References: bwzra330vib0ik4d3l8rq6gp6y2ah1fr-glibc-2.30 kgp3vq8l9yb8mzghbw83kyr3f26yqvsz-bash-4.4-p23
+Deriver: md39vwk6mmi64f6z6z9cnnjksvv6xkf3-bash-4.4-p23.drv
+Sig: cache.nixos.org-1:3vlQG/Fe/aYdla5wCenm0LxDBkf7NN9Z+nV0Xbpa4RdrxB1zMBa5fAyJjgoG+eoOhtyEF4NmgtNOQ4LeInK+Dw==

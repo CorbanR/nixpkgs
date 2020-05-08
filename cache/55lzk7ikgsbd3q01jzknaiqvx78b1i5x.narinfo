@@ -1,0 +1,10 @@
+StorePath: /nix/store/55lzk7ikgsbd3q01jzknaiqvx78b1i5x-libunistring-0.9.10
+URL: nar/14l2l9qzqrxlzq8y094mxghmxygw7h6mz5dzla5xgfgpk1nrwp1w.nar.xz
+Compression: xz
+FileHash: sha256:14l2l9qzqrxlzq8y094mxghmxygw7h6mz5dzla5xgfgpk1nrwp1w
+FileSize: 379744
+NarHash: sha256:0390m1jsgnd8hdsz77kmw5lmxfwahjyrncvfs9sva4bwqr5vyvn7
+NarSize: 1566520
+References: 29hpnfc1jzzbsc3ya71hhindayr5nanw-Libsystem-osx-10.12.6 55lzk7ikgsbd3q01jzknaiqvx78b1i5x-libunistring-0.9.10 vlvgvaa1zsr7bsnjx2kv73jfqxrp86i3-libiconv-osx-10.12.6 y5d27qmy6chhll4dr0skaky5h02br4s1-swift-corefoundation
+Deriver: n8fqamf5g4gqph8xldmwwglvfkn6fky4-libunistring-0.9.10.drv
+Sig: cache.nixos.org-1:9DTL+JKJohELjIHhZ5dbvrHzZOy8NR9BK4XP3CwspoHqhNK7QtXaEPItAvtwZbk2+GvPUS6ko3cOCllEQAVbCQ==

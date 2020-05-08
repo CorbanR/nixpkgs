@@ -1,0 +1,10 @@
+StorePath: /nix/store/yn40ciym9snzw6q4n0ijzanx450fq6zs-gdbm-1.18.1
+URL: nar/1xyw84k82378j59f56hf5zv7d7nnd855z885vn7d9kav25mzdjil.nar.xz
+Compression: xz
+FileHash: sha256:1xyw84k82378j59f56hf5zv7d7nnd855z885vn7d9kav25mzdjil
+FileSize: 118332
+NarHash: sha256:166sinspwv3qp2wcmrayqm16cpibqnxvwn3jbx0vhwknzbbi2f97
+NarSize: 388312
+References: 29hpnfc1jzzbsc3ya71hhindayr5nanw-Libsystem-osx-10.12.6 y5d27qmy6chhll4dr0skaky5h02br4s1-swift-corefoundation yn40ciym9snzw6q4n0ijzanx450fq6zs-gdbm-1.18.1
+Deriver: n7dhsgq6bxdc3l245hiqnwpwc06c9r8z-gdbm-1.18.1.drv
+Sig: cache.nixos.org-1:t+ZvRF1py+irxaZN9zMcthdqGEmRPks6yBj2OJfBW1zfGZKbQUT5gPIJaFGASk60JpwDde6skQO8FCLPM3u9Ag==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/50zhcf015wzb7bysnxsam8nkk1h6ns3n-nettle-3.5.1
+URL: nar/1876gisyk7aciv1kzx9yhxsym9cg0img65mrlgiaj5039wr81k1x.nar.xz
+Compression: xz
+FileHash: sha256:1876gisyk7aciv1kzx9yhxsym9cg0img65mrlgiaj5039wr81k1x
+FileSize: 216244
+NarHash: sha256:158989ghbsqzci8r711icqiaa5ahsw0yqn92jinqklwsb7ink47v
+NarSize: 420616
+References: 29hpnfc1jzzbsc3ya71hhindayr5nanw-Libsystem-osx-10.12.6 477hk50gg90mfn2x5v5yhpq104xl94vp-gmp-6.2.0 50zhcf015wzb7bysnxsam8nkk1h6ns3n-nettle-3.5.1 y5d27qmy6chhll4dr0skaky5h02br4s1-swift-corefoundation
+Deriver: p6ln08n19big8ky0jzsvwsx6nk7nvffb-nettle-3.5.1.drv
+Sig: cache.nixos.org-1:1hGLD9124W6cqpjUHePjE5gNkS0Jr0Ndhhzu5Pc4atV7jfVwgEejPbU8ZTtSd3ssWnJhDT/dijK54DF3csTADQ==

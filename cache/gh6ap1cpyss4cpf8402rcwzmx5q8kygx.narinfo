@@ -1,0 +1,10 @@
+StorePath: /nix/store/gh6ap1cpyss4cpf8402rcwzmx5q8kygx-readline-6.3p08
+URL: nar/1bd769znk55398zh3r47nd9gwm1ynlsrxn76n46p1nk0rz9dj3jm.nar.xz
+Compression: xz
+FileHash: sha256:1bd769znk55398zh3r47nd9gwm1ynlsrxn76n46p1nk0rz9dj3jm
+FileSize: 100968
+NarHash: sha256:1fv8nhj3k0wj7lnapmars3k1igvsf08vm5h5wba63dva090j7845
+NarSize: 283696
+References: 29hpnfc1jzzbsc3ya71hhindayr5nanw-Libsystem-osx-10.12.6 63z0nmccxnpf0l4xniw6gwk7npgikf1m-ncurses-6.2 gh6ap1cpyss4cpf8402rcwzmx5q8kygx-readline-6.3p08 y5d27qmy6chhll4dr0skaky5h02br4s1-swift-corefoundation
+Deriver: p69w8n3yirk4pi4ykxdmpq7nzrbm700h-readline-6.3p08.drv
+Sig: cache.nixos.org-1:jiMkntCzDN40J11I6D0zoMPXjGO1uMBcXc2lfq3nT9y2Bs5c3A3vqiqbPD/snc7M9VQFOIwRlpp5Kcw5PUVCBQ==

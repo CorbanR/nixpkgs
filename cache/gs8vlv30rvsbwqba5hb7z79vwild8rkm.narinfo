@@ -1,0 +1,10 @@
+StorePath: /nix/store/gs8vlv30rvsbwqba5hb7z79vwild8rkm-readline-6.3p08
+URL: nar/0p71dlgckr89klnvw8sv7fm19p0dnj67nr8am4d6ppsr3nd322ag.nar.xz
+Compression: xz
+FileHash: sha256:0p71dlgckr89klnvw8sv7fm19p0dnj67nr8am4d6ppsr3nd322ag
+FileSize: 110888
+NarHash: sha256:18l4yk9djpnj6vixx09rsif14zl5ig76sz3lrwjgs9a95hsdrwar
+NarSize: 391888
+References: bwzra330vib0ik4d3l8rq6gp6y2ah1fr-glibc-2.30 fn92v9h7gxj9w4z0s2qxsjxb4awczl3h-ncurses-6.2
+Deriver: 5j5krn2nyqysily0rji83l7b66b4l6dc-readline-6.3p08.drv
+Sig: cache.nixos.org-1:a9YbXae9wBfmgcJviQL7D1700MrFodxygVAfjN/1wmAi4QaJQKAdrlWXEEU1yeIw7dVf4ki6L2ennVOUC+C3DA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/wjcdk6cx37kcxvi8a5gxh6s0m7c4hxa8-libffi-3.3
+URL: nar/09g4lamra22wi3nnib8n0pkr4c3dvmg0s1aqksxqdg7fa72ksac5.nar.xz
+Compression: xz
+FileHash: sha256:09g4lamra22wi3nnib8n0pkr4c3dvmg0s1aqksxqdg7fa72ksac5
+FileSize: 14932
+NarHash: sha256:08hmhxl4107zk5lhdn0msr9h7gbjgahdbp5iy7bbprcdsw2zv9g0
+NarSize: 40088
+References: 29hpnfc1jzzbsc3ya71hhindayr5nanw-Libsystem-osx-10.12.6 wjcdk6cx37kcxvi8a5gxh6s0m7c4hxa8-libffi-3.3
+Deriver: r7dz1ln5h5qbdrq8ywazwmwavqigz68x-libffi-3.3.drv
+Sig: cache.nixos.org-1:jN5BIg408TRic1AajtvMUyIB2cz+l4gJpHptYBiBKB0z7eiOhk6tyL+txWiqUGKZxABc16/+hgHkAPLDb1hpBg==
