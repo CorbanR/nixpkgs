@@ -105,6 +105,7 @@ jobs:
         BRANCH: gh-pages
         FOLDER: _output
         CLEAN: true
+        CLEAN_EXCLUDE: '[".gitattributes", ".gitignore"]'
 
   test-channel:
     needs: "deploy"
