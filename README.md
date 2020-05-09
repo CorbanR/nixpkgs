@@ -3,6 +3,13 @@
 
 Custom overrides, derivations, and other helpful nix expressions.
 
+## Branches
+**gh-pages:** Where the nix cache is deployed to. Fronted by cloudflare and a cloudflare worker that proxies gitlfs assests.
+
+**cg-worker:** The cloudflare worker code.
+
+**master:** Custom overrides, derivations, and other helpful nix expressions.
+
 ## Adding channel
 add channel with `raunco` alias
 
