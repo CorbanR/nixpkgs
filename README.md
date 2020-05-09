@@ -61,3 +61,31 @@ in
     ];
   }
 ```
+
+# Developing
+You can see the github actions located in .github/workflows/nix.yml. This action should test, build and deploy the cache.
+Eventually I would like to setup the docker/vagrant local testing with nix expressions!
+
+## Local testing
+Tools needed:
+  - docker
+  - docker-compose
+  - vagrant(osx testing)
+  - virtualbox (used by vagrant)
+
+For now, you can test via docker, docker-compose, and vagrant(for osx)
+
+Example Docker:
+  ```bash
+  # Get into a nix-ubuntu container where you can install / test building / test the channel etc
+  docker-compose run --rm nix-ubuntu /bin/bash
+
+  # Get into a nix container that is closer to nixos
+  docker-compose run --rm nix /bin/sh
+  ```
+
+Example Vagrant:
+  ```bash
+  # Start osx machine
+  vagrant up
+  ```
