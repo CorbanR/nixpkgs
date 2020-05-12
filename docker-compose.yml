@@ -3,11 +3,13 @@ version: '3.4'
 
 services:
   nix:
+    working_dir: "/usr/src/app"
     image: lnl7/nix:2.3.3
     command: ["/bin/sh"]
     volumes:
       - ".:/usr/src/app:cached"
   nix-ubuntu:
+    working_dir: "/usr/src/app"
     build:
       context: "."
     command: ["/bin/bash"]

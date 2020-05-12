@@ -6,11 +6,12 @@ let
 
   # Packages that are darwin only for now
   darwinPlatformPackages = {
-    graalvm11-ce-bin = callPackage ../development/compilers/graalvm/test-bin.nix { javaVersion = "11"; }; # Also see installCheckPhase
-    graalvm8-ce-bin = callPackage ../development/compilers/graalvm/test-bin.nix { javaVersion = "8"; }; # Also see installCheckPhase
+    graalvm11-ce-bin = callPackage ../development/compilers/graalvm/test-bin.nix { javaVersion = "11"; }; # See installCheckPhase
+    graalvm8-ce-bin = callPackage ../development/compilers/graalvm/test-bin.nix { javaVersion = "8"; }; # See installCheckPhase
   };
 
   crossPlatformPackages = {
+    dart = callPackage ../development/interpreters/dart {}; # See installCheckPhase
     hello = callPackage ./hello/test.nix {};
     libpulsar = callPackage ../development/libraries/libpulsar {}; # See installCheckPhase
     nodejs-8_x = callPackage ../development/web/nodejs-8_x/test.nix {};
