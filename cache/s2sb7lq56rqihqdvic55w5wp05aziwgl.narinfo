@@ -1,0 +1,10 @@
+StorePath: /nix/store/s2sb7lq56rqihqdvic55w5wp05aziwgl-python-2.7.18
+URL: nar/1782zmkb3kla921q41q94mzav69jxa239wx9x0gw1qd0a7fmypd1.nar.xz
+Compression: xz
+FileHash: sha256:1782zmkb3kla921q41q94mzav69jxa239wx9x0gw1qd0a7fmypd1
+FileSize: 8384536
+NarHash: sha256:1ww0al9ljdjb149mdfsjlcy1r9la4mi0n00d0vkjrrzv2qqhvv72
+NarSize: 48956408
+References: 21hif6wzw329hzlf3cyqnccfwzlvn8gv-gdbm-1.18.1 2bylgccfrwbfydgbjpcl67w0k1zlb15j-bash-4.4-p23 5k3i85cwvfbvawv2whgrpyyji318qvha-coreutils-8.31 930pfxxbsgmsl8qinbq3zl8q0y6f2id6-ncurses-6.2 9gr0fl1w1wm0vqgd9jkxg05l59a0pwh4-bzip2-1.0.6.0.1 a6n4gx8sl6ahb7yf6cy8mqmlwg33iz86-openssl-1.1.1g aax9j24s2l2b8r54k1m9wdjvdj7zvnia-zlib-1.2.11 gpjl24qmnnc1y1czv227ralywrvx57j9-configd-osx-10.8.5 l620mzy7rnqmdbjbhr4hwirxid21a1vh-readline-6.3p08 rvvzbmw0wcdk0pqj5qbqwzacw3469i8a-swift-corefoundation s2sb7lq56rqihqdvic55w5wp05aziwgl-python-2.7.18 w62g45ix1105fbz53r8v5k98bcpp3fn1-sqlite-3.31.1 yra78h52pynlz89c5ssx3534a61mjyk9-Libsystem-osx-10.12.6
+Deriver: 6d3gmmdbnr3swd5cpzj2c3rh42ycbl7g-python-2.7.18.drv
+Sig: cache.nixos.org-1:8yeRIE8jm3jOHfK8uHNU3+c4lBe3KxTA1UYD2BzFa1MIdbLHUdCVKj4FNueOBlYcKvuzlrjijEHmGz4c82VeDQ==

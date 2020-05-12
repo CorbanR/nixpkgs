@@ -1,0 +1,10 @@
+StorePath: /nix/store/j11510zfhcsxyfdj8ayhs93y99wj9h68-libiconv-osx-10.12.6
+URL: nar/035z9divrryxg2dniaw4003yygf08q5x2zj0bl5irgqkdaqpcinh.nar.xz
+Compression: xz
+FileHash: sha256:035z9divrryxg2dniaw4003yygf08q5x2zj0bl5irgqkdaqpcinh
+FileSize: 524848
+NarHash: sha256:091scs6nf3h76slcwczsfmilv4ahsm1qn16b02hsg3zsngqr1n7x
+NarSize: 1074632
+References: j11510zfhcsxyfdj8ayhs93y99wj9h68-libiconv-osx-10.12.6 yra78h52pynlz89c5ssx3534a61mjyk9-Libsystem-osx-10.12.6
+Deriver: i7swyqwipasyl1pdl8b41ym3nhbpx7cm-libiconv-osx-10.12.6.drv
+Sig: cache.nixos.org-1:CX+amCRgdTkwMO5GnqBStO0CHevrawORjHHMAbikof54fCFDSr2cep+1bpHGb/F+qXOCAETrE3lhiJ2/DZRVAw==

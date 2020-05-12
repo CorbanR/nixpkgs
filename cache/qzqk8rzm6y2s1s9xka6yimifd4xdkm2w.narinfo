@@ -1,0 +1,10 @@
+StorePath: /nix/store/qzqk8rzm6y2s1s9xka6yimifd4xdkm2w-apr-util-1.6.1
+URL: nar/07vw3kmrfqvwsdr2l1hiiq92i376dqwhdpayncn0clpa7h4hk6m3.nar.xz
+Compression: xz
+FileHash: sha256:07vw3kmrfqvwsdr2l1hiiq92i376dqwhdpayncn0clpa7h4hk6m3
+FileSize: 74152
+NarHash: sha256:0292szdvcrkvaysm54b3g5xrxjyz84md7qx14la4q5vrqihj9yvl
+NarSize: 223568
+References: 0ii408rizzzrf1nska1x909xrry0f9nf-openldap-2.4.50 9lppf7hxzfy91708484x1s4d2zzhyl9c-expat-2.2.8 a6n4gx8sl6ahb7yf6cy8mqmlwg33iz86-openssl-1.1.1g j11510zfhcsxyfdj8ayhs93y99wj9h68-libiconv-osx-10.12.6 jz703mysmy9ayxcndbkys9dan5kigwz7-apr-1.7.0 mcxa4f9qr09rixzrh8vwm9xz70bcvxjm-db-5.3.28 qzqk8rzm6y2s1s9xka6yimifd4xdkm2w-apr-util-1.6.1 rvvzbmw0wcdk0pqj5qbqwzacw3469i8a-swift-corefoundation yra78h52pynlz89c5ssx3534a61mjyk9-Libsystem-osx-10.12.6
+Deriver: qypnfd0z83slgcb78q0wiyh6br0s6gvc-apr-util-1.6.1.drv
+Sig: cache.nixos.org-1:qGbDrYwDkYAM7rSkoVLpHNvglSU2698JXD4pIjoYTtZ0u9p8Cq5jZ0IsXgpi0y6jg2CakL3m38nnsG2dyvhqAg==

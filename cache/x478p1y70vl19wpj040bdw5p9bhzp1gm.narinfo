@@ -1,0 +1,10 @@
+StorePath: /nix/store/x478p1y70vl19wpj040bdw5p9bhzp1gm-expand-response-params
+URL: nar/0j91267v42bjixraxyj94x4cvicaarwqx1rcgcl54sk0idzqsmp9.nar.xz
+Compression: xz
+FileHash: sha256:0j91267v42bjixraxyj94x4cvicaarwqx1rcgcl54sk0idzqsmp9
+FileSize: 2068
+NarHash: sha256:17294g19yq6paj2kn0izhqlmnyw2h1zlws6krspd04qm5qbliara
+NarSize: 9848
+References: yra78h52pynlz89c5ssx3534a61mjyk9-Libsystem-osx-10.12.6
+Deriver: gl0a8zk39lmz40h38db6m1y5bbnjwcwy-expand-response-params.drv
+Sig: cache.nixos.org-1:S3P6eA20p8MmcqtMyjWBpcnkG92L9sshMj8of5ffPn7YrPEz4r8+YrJkIcHCQc/innozSOMITxbI6xkPnXDcDg==

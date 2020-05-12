@@ -1,0 +1,10 @@
+StorePath: /nix/store/xfww6abn7qx11wzns3m9d2vrspcpsg0d-pcre-8.44
+URL: nar/03c9kgcnkvjwwcba67h12aqd9qsapkvpvxikn638w648iansjnzh.nar.xz
+Compression: xz
+FileHash: sha256:03c9kgcnkvjwwcba67h12aqd9qsapkvpvxikn638w648iansjnzh
+FileSize: 160004
+NarHash: sha256:13qki9izsbr8b0qmr7ml2ks5vn3a1c71zb6ddym4jmbwmmyr811n
+NarSize: 546664
+References: xfww6abn7qx11wzns3m9d2vrspcpsg0d-pcre-8.44 yra78h52pynlz89c5ssx3534a61mjyk9-Libsystem-osx-10.12.6
+Deriver: s4s3ch0wgmjnnjwjfmfg36b14pahxk7x-pcre-8.44.drv
+Sig: cache.nixos.org-1:HqPkzgblQjSQN8wy+2lE7h1+4xwOOjxb+YNvYGbrzgfUzPNINydisHSUV5bXVWEeQyS2q0F9+uV8JDh48EgHAw==

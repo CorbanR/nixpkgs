@@ -1,0 +1,10 @@
+StorePath: /nix/store/pasq7rqrs0n3ddbsyr6r1yy5wxg8java-libtool-2.4.6-lib
+URL: nar/0q39mijkh6172sl57ln6fl6w674jhraqxsvgrssczjnr0xnx7cb3.nar.xz
+Compression: xz
+FileHash: sha256:0q39mijkh6172sl57ln6fl6w674jhraqxsvgrssczjnr0xnx7cb3
+FileSize: 17076
+NarHash: sha256:0slcwsqv6yrc60w9yk6n3x59mqwhpv9h7n1br1crzgmi8byifa30
+NarSize: 58072
+References: bwzra330vib0ik4d3l8rq6gp6y2ah1fr-glibc-2.30 pasq7rqrs0n3ddbsyr6r1yy5wxg8java-libtool-2.4.6-lib
+Deriver: kqdvcq0aakpfxm5inss5243ifaa0w36k-libtool-2.4.6.drv
+Sig: cache.nixos.org-1:gieA19e6WTjljFQfVHGTFRwNtorqGCfse5/GwHH3NYxJKAg7mfZLg/y3p0rnkJPddbqLxSdp4FuCVAkwBpMLDA==

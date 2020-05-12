@@ -1,0 +1,10 @@
+StorePath: /nix/store/n67aw1jpz342rpflklw9psmild0ir32q-log4cxx-0.10.0
+URL: nar/06v5k9s3lqivwg5032dgjry0znjs9b21k26608xlpdwppmzsxzpd.nar.xz
+Compression: xz
+FileHash: sha256:06v5k9s3lqivwg5032dgjry0znjs9b21k26608xlpdwppmzsxzpd
+FileSize: 576668
+NarHash: sha256:19rmrivs1d3ymva4cwi8bms684nxaqsv9gn5mr17l5x9fwkfcvaa
+NarSize: 3592528
+References: 17hmlx01rkq9pwh5wqalam5qgivzyc28-openldap-2.4.50 18gn6yv14c2lfy8qprpxrli1cafsqav4-apr-util-1.6.1 727bv5vkbd48lg57c5mgcva01qpnxlsg-db-5.3.28 bwzra330vib0ik4d3l8rq6gp6y2ah1fr-glibc-2.30 n587ax9k9rc5cxm66aiibsss60pqk6b4-gcc-9.3.0-lib n67aw1jpz342rpflklw9psmild0ir32q-log4cxx-0.10.0 npvkihram1gjyng79z8hxgprqnwjscyb-expat-2.2.8 v4g9f8pf2iz099fjksgkr1aza4yhh6nl-apr-1.7.0
+Deriver: kv46ghswsbglqx5drsbli25rx84kjyrg-log4cxx-0.10.0.drv
+Sig: cache.nixos.org-1:rucu1u00T5dMKt4hVbxx72nLOjyAqAf1mDxvy35TqUC5hAqFofwLYWrTgi9Fu9/AC6TMZCGtdI7MP0LCFhFFCA==

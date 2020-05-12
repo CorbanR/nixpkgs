@@ -1,0 +1,10 @@
+StorePath: /nix/store/a469ns9ib3r845gqy2zwgadaw4ff9gfd-libc++abi-7.1.0
+URL: nar/001w5y9ipzi8v5s72xy05l5skfb35api48vcbg65jcwg3lpswc99.nar.xz
+Compression: xz
+FileHash: sha256:001w5y9ipzi8v5s72xy05l5skfb35api48vcbg65jcwg3lpswc99
+FileSize: 80196
+NarHash: sha256:0pspxy06sar9cxz0mp9r0klj7v7199vki5cwps6glxckzf8a8mrq
+NarSize: 542088
+References: a469ns9ib3r845gqy2zwgadaw4ff9gfd-libc++abi-7.1.0 yra78h52pynlz89c5ssx3534a61mjyk9-Libsystem-osx-10.12.6
+Deriver: 8rjl8dzdbwycvxlb316h4baq999n2anw-libc++abi-7.1.0.drv
+Sig: cache.nixos.org-1:X4U84yhRlahxCekatgcSlrW1CcziLnDWzcjSort8OiXWmtmkzEfKkSZzFytF5XLMrEej5mO65a6jgMPFnc/uDg==
