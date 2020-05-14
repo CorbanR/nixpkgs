@@ -11,6 +11,7 @@ let
   };
 
   crossPlatformPackages = {
+    _nyx = callPackage ./pkgs/tools/system/nyx {}; # name conflics with another nix package hence _nyx; See installCheckPhase
     dart = callPackage ../development/interpreters/dart {}; # See installCheckPhase
     hello = callPackage ./hello/test.nix {};
     libpulsar = callPackage ../development/libraries/libpulsar {}; # See installCheckPhase
