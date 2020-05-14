@@ -18,5 +18,6 @@ buildGoModule rec {
     description = "Shell-integrated CLI for assuming AWS IAM roles";
     platforms = platforms.linux ++ platforms.darwin;
     license = licenses.publicDomain;
+    maintainers = [ (import ../../../../maintainers/maintainer-list.nix).craun ];
   };
 }

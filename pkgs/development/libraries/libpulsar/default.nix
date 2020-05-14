@@ -78,6 +78,6 @@ in
 
       platforms = [ "x86_64-darwin" "x86_64-linux" ];
       license = licenses.asl20;
-      maintainers = with maintainers; [ craun ];
+      maintainers = [ (import ../../../../maintainers/maintainer-list.nix).craun ];
     };
   }

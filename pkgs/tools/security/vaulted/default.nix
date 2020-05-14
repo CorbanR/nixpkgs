@@ -25,5 +25,6 @@ buildGoModule rec {
     description = "Spawning and storage of secure environments";
     platforms = platforms.linux ++ platforms.darwin;
     license = licenses.mit;
+    maintainers = [ (import ../../../../maintainers/maintainer-list.nix).craun ];
   };
 }

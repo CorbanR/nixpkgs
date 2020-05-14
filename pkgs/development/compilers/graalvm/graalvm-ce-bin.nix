@@ -74,6 +74,6 @@ in stdenv.mkDerivation {
     # Darwin only for now as linux is more of a pain
     platforms = [ "x86_64-darwin" ];
     license = licenses.gpl2;
-    maintainers = with maintainers; [ craun ];
+    maintainers = [ (import ../../../../maintainers/maintainer-list.nix).craun ];
   };
 }

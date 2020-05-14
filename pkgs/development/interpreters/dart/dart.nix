@@ -65,7 +65,7 @@ stdenv.mkDerivation {
 
   meta = {
     homepage = "https://www.dartlang.org/";
-    maintainers = with maintainers; [ craun ];
+    maintainers = [ (import ../../../../maintainers/maintainer-list.nix).craun ];
     description = "Scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps";
     longDescription = ''
       Dart is a class-based, single inheritance, object-oriented language
