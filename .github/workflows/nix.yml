@@ -156,6 +156,8 @@ jobs:
         EOT
         cat ~/.config/nix/nix.conf
 
-    - name: Install package defined in channel raunco.nodejs-8_x (retry a couple times)
+    - name: Install some packages defined in raunco channel
       run: |
-        nix-env -iA raunco.nodejs-8_x || nix-env -iA raunco.nodejs-8_x || nix-env -iA raunco.nodejs-8_x
+        nix-env -iA raunco.nodejs-8_x
+        nix-env -iA raunco.vaulted
+        nix-env -iA raunco.rapture
