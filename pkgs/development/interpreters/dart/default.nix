@@ -9,6 +9,7 @@
 if stdenv.isDarwin then
 callPackage ./dart.nix { inherit stdenv fetchurl unzip version; }
 else
+# If using Linux proxy to Upstream nix derivation
 # Upstream maintains different versions by default.
 # So we ony want to use version if it's been explicitly set.
 let

@@ -15,7 +15,7 @@ buildGoModule rec {
 
   # Since vaulted spawns a new shell /etc/profile gets called(at least on OSX), which calls path_helper, which screws with the path
   # unsetting some environment variables makes it so nix paths(such as run/current-system/sw/bin) come before /bin /usr/bin.
-  nativeBuildInputs = stdenv.lib.optionals enableWrapper [ installShellFiles makeWrapper ];
+  nativeBuildInputs = [ installShellFiles ] ++ stdenv.lib.optionals enableWrapper [ makeWrapper ];
   postInstall = ''
     installManPage doc/man/*
 
