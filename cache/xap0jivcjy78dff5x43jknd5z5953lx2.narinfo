@@ -1,0 +1,10 @@
+StorePath: /nix/store/xap0jivcjy78dff5x43jknd5z5953lx2-cctools-port
+URL: nar/002f5a1sa9imm71b4sc431yc198wq8h6p238a7dcki28gcbb4l2b.nar.xz
+Compression: xz
+FileHash: sha256:002f5a1sa9imm71b4sc431yc198wq8h6p238a7dcki28gcbb4l2b
+FileSize: 1415572
+NarHash: sha256:094vji7y8044gjr8djhxlb3x7kms70qsqbzn0x570k9x5lmib983
+NarSize: 9208848
+References: 9qp50ibn03jkdcjvcvilzwmvz9va12g2-libc++-7.1.0 qrnw4az7lx99zxhacz9mj8r03fh1s183-Libsystem-osx-10.12.6 r49dqrkhvcwqfahx3cl6y0jc4fyickpi-libc++abi-7.1.0 xap0jivcjy78dff5x43jknd5z5953lx2-cctools-port
+Deriver: 9f96fpmmnnpbx4fkl1p32c7cfsc9rngh-cctools-port.drv
+Sig: cache.nixos.org-1:MV0EhfCLJLbPufQ5lSumCaAKXs0f1anSgDWMfEAAwQsMJgUHKxFxdydxP8fEdpImNH1ZwbOeLVAg30HrzeZuCA==

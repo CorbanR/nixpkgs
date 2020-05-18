@@ -1,0 +1,10 @@
+StorePath: /nix/store/c5wcx21rs980syy1v4dvyy9yfp5sjg3a-gmp-6.2.0
+URL: nar/023kxcsj6jr0blymxq6j2jlc713zy3csvcw2xzih5slmk3kcyaq5.nar.xz
+Compression: xz
+FileHash: sha256:023kxcsj6jr0blymxq6j2jlc713zy3csvcw2xzih5slmk3kcyaq5
+FileSize: 270696
+NarHash: sha256:1dzxqy175srspyps720h2pp04nb5cd1xm0vywdm8b55vdpai426p
+NarSize: 697496
+References: 9qp50ibn03jkdcjvcvilzwmvz9va12g2-libc++-7.1.0 c5wcx21rs980syy1v4dvyy9yfp5sjg3a-gmp-6.2.0 qrnw4az7lx99zxhacz9mj8r03fh1s183-Libsystem-osx-10.12.6
+Deriver: 3mva3ffnz3871r8dhajriv6jp2bzrcgz-gmp-6.2.0.drv
+Sig: cache.nixos.org-1:rZIYA8U2cAHcykjyKv0n08zzzsJ+tt2yJUGXUCO8ANSp/PUCaGleFy0Kpr39AyaR7i1d5jmx2sM4YaiaRpiWDg==

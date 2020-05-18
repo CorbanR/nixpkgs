@@ -1,0 +1,10 @@
+StorePath: /nix/store/wa4yqgwb5kicfxpla5xc4pr6yvxm8b5i-mpfr-4.0.2
+URL: nar/10mij8x5sk46inifjj98jv9vy81mzyld18hgb3yvkzs13ajjdgjc.nar.xz
+Compression: xz
+FileHash: sha256:10mij8x5sk46inifjj98jv9vy81mzyld18hgb3yvkzs13ajjdgjc
+FileSize: 189000
+NarHash: sha256:0y01fc9wbadkwa6wv94ic7y81fa8zk3qlksz2qn5pn9h3fapah8y
+NarSize: 455784
+References: c5wcx21rs980syy1v4dvyy9yfp5sjg3a-gmp-6.2.0 qrnw4az7lx99zxhacz9mj8r03fh1s183-Libsystem-osx-10.12.6 wa4yqgwb5kicfxpla5xc4pr6yvxm8b5i-mpfr-4.0.2 yrz75fyjkvyaf61mwnkqsyry34fl5w75-swift-corefoundation
+Deriver: m9w2fhyzgl64588x4xscrghilyc0nfij-mpfr-4.0.2.drv
+Sig: cache.nixos.org-1:Lfjli55puGgaouMf2iM6KE3Log30llxZA6l2ArWpdCJkalLEp4WDgoJqm3xQb66pyJOnHeDSjOHP+e9gZToBCQ==

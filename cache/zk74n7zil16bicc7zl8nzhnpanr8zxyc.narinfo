@@ -1,0 +1,10 @@
+StorePath: /nix/store/zk74n7zil16bicc7zl8nzhnpanr8zxyc-configd-osx-10.8.5
+URL: nar/1k5zxw3ym23vfyrvcpfms3n2hx5aac36j3sk4qqc5cf7i0c4jz91.nar.xz
+Compression: xz
+FileHash: sha256:1k5zxw3ym23vfyrvcpfms3n2hx5aac36j3sk4qqc5cf7i0c4jz91
+FileSize: 215304
+NarHash: sha256:00phg104gccb602r7g3zyqj9p1bl4fwvv40r9qdjyjjzlw5vpa90
+NarSize: 1095152
+References: hq2wwqmdiirmq7chwq7rh0m48nhncm0y-Security-osx-10.9.5 iqak4y6kxnjzz37idsffd2jha52wz31x-bash-4.4-p23 qrnw4az7lx99zxhacz9mj8r03fh1s183-Libsystem-osx-10.12.6 yrz75fyjkvyaf61mwnkqsyry34fl5w75-swift-corefoundation zk74n7zil16bicc7zl8nzhnpanr8zxyc-configd-osx-10.8.5
+Deriver: 25q12b7fyfx6x4jbs4l2z9gdvlg2ygvf-configd-osx-10.8.5.drv
+Sig: cache.nixos.org-1:cm2ZUDQLW9DBcsH25EumdyfkTgWOhyW5j9QKdQpsK75/q8t1P2sYonV7BZvwg15QIgnz5fFNHkLioPacWgocDw==

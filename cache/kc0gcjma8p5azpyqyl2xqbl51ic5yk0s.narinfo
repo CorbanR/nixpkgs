@@ -1,0 +1,10 @@
+StorePath: /nix/store/kc0gcjma8p5azpyqyl2xqbl51ic5yk0s-libffi-3.3
+URL: nar/1xymvnwfslzlqpqj5m91psxg4jwzvsrx8bb9y9kh0mcy1xmingfw.nar.xz
+Compression: xz
+FileHash: sha256:1xymvnwfslzlqpqj5m91psxg4jwzvsrx8bb9y9kh0mcy1xmingfw
+FileSize: 19416
+NarHash: sha256:0dnq500jc85gjn0y2yp2ydcifwihxkdhs55ngbr9yladdakx0xh3
+NarSize: 56728
+References: kc0gcjma8p5azpyqyl2xqbl51ic5yk0s-libffi-3.3 nwsn18fysga1n5s0bj4jp4wfwvlbx8b1-glibc-2.30
+Deriver: m7j2l31fhnkchs7zjbkymjpykkxkhs60-libffi-3.3.drv
+Sig: cache.nixos.org-1:ZukZQFTEcVBE16sle1w3N15BY7079yKLAxFtTvbY1Xxiv+I8l1NJppSTD9eE25WR67T61cFp1FkhOz9tpCjoCA==

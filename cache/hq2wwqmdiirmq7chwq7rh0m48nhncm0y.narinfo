@@ -1,0 +1,10 @@
+StorePath: /nix/store/hq2wwqmdiirmq7chwq7rh0m48nhncm0y-Security-osx-10.9.5
+URL: nar/1nvlmjhg16bg3fdcs631g6jsnp2gvav2g3fi4v53j5r6frywjbf5.nar.xz
+Compression: xz
+FileHash: sha256:1nvlmjhg16bg3fdcs631g6jsnp2gvav2g3fi4v53j5r6frywjbf5
+FileSize: 168000
+NarHash: sha256:0iambn2a9c2lran8lx9fwiav4scs29q3chg10migdbqdsm7z8a8h
+NarSize: 1196824
+References: 
+Deriver: m417pbr6mxn6fhs1v3b6pcl3hbs8qc8p-Security-osx-10.9.5.drv
+Sig: cache.nixos.org-1:9RtSxhixLcKVomimZxesdiY623YFAxGFG/wizQMhChw5M58iccwlrYNhZeSzNaWNUAfrtT18yz00oosnqpXuAw==

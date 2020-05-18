@@ -1,0 +1,10 @@
+StorePath: /nix/store/z9kwjxxxv64ygc0vad0g44zybr7g500y-cyrus-sasl-2.1.27
+URL: nar/0h3arsjkdv98yjcl0ymr1yb5x02hlyvkfvaj9vaqbvjidb7l3l1p.nar.xz
+Compression: xz
+FileHash: sha256:0h3arsjkdv98yjcl0ymr1yb5x02hlyvkfvaj9vaqbvjidb7l3l1p
+FileSize: 136160
+NarHash: sha256:1q4cv3dsmr328iyjzg6i4l0rm0l423isjs7d5hkjm9lzg2w3danh
+NarSize: 622360
+References: 5vd37kgp8vla92k3g1w9ka3fwkqqd3sp-db-5.3.28 b9yc1faqr159pwbrg9kabhl4zkpnk2v5-openssl-1.1.1g mi6i4ifqzj4afyzp12lhbgzbqqw9x9sa-libkrb5-1.18 nwsn18fysga1n5s0bj4jp4wfwvlbx8b1-glibc-2.30 z9kwjxxxv64ygc0vad0g44zybr7g500y-cyrus-sasl-2.1.27
+Deriver: rbf1ys31j4cc7dxsrv1a9wmx64m4zady-cyrus-sasl-2.1.27.drv
+Sig: cache.nixos.org-1:nLYiqWMkEqSDNXaK273j6B8UURqarbBbB8cyVMqwNUfYWs18tKl9M7hx6rzXpUh9Qh1B3RvXxdTJWkICYMj2CQ==

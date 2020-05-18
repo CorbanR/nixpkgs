@@ -1,0 +1,10 @@
+StorePath: /nix/store/z6r3znm46nqp3fympmikbl9ylrjawq33-cyrus-sasl-2.1.27
+URL: nar/0dhprkfsqd4kf90vklw78c5n4ccfiapyxl81mlqib8ir34jg13xn.nar.xz
+Compression: xz
+FileHash: sha256:0dhprkfsqd4kf90vklw78c5n4ccfiapyxl81mlqib8ir34jg13xn
+FileSize: 136412
+NarHash: sha256:15w24q48z2pm512dlw4ih0whh5wqainma0y7g9wmibc9wy2vl1ql
+NarSize: 562648
+References: 2q1s6xgv1k8d8f93z9d660jqsidlcnrr-libkrb5-1.18 d81730b86arkcm1bbjyws74bvdrgavap-openssl-1.1.1g i19112dqglrgdnz4g4bzyzmh873n67il-db-5.3.28 qrnw4az7lx99zxhacz9mj8r03fh1s183-Libsystem-osx-10.12.6 yfsblhkrcdbf284g0wh0b4w8ylzzndc3-openssl-1.1.1g-dev ypv4xcbm1pk4wzxgyjq1clb3szscabg9-gettext-0.20.1 yrz75fyjkvyaf61mwnkqsyry34fl5w75-swift-corefoundation z6r3znm46nqp3fympmikbl9ylrjawq33-cyrus-sasl-2.1.27
+Deriver: flmd5kvq5xz9j8a93bxhlmxjrzdkcymr-cyrus-sasl-2.1.27.drv
+Sig: cache.nixos.org-1:oE8vF3BQKK8e/85uqJg0IwG5z4Rs0A+7nA7Sb1aaZ7KT/8+tLsNc38fppDlMkp16tIDEMmoKGFYeLcvyDooQDw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/zailm2lj5gyygkr06d3qrs864iwpj0qf-libgcrypt-1.8.5
+URL: nar/0qml21z7bblq95m1wdf3jdd568hkv5cgl284fa5iri4rlh894f0f.nar.xz
+Compression: xz
+FileHash: sha256:0qml21z7bblq95m1wdf3jdd568hkv5cgl284fa5iri4rlh894f0f
+FileSize: 368040
+NarHash: sha256:0kzjjp4zg0vw8k8mi42c7grqqx3i34m5lzr6sr24d4ngn53ymkzq
+NarSize: 907184
+References: nw84sk5bqmwcg5sc5jn234g0jf504bs0-libgpg-error-1.36 qrnw4az7lx99zxhacz9mj8r03fh1s183-Libsystem-osx-10.12.6 ypv4xcbm1pk4wzxgyjq1clb3szscabg9-gettext-0.20.1 yrz75fyjkvyaf61mwnkqsyry34fl5w75-swift-corefoundation zailm2lj5gyygkr06d3qrs864iwpj0qf-libgcrypt-1.8.5
+Deriver: 2g4hd7y0npbz28fykrn9fgdadpdwdgxw-libgcrypt-1.8.5.drv
+Sig: cache.nixos.org-1:+8pohfjtUi0mLJ8bO64dUHRaPgVj99DarmarChgICJ8xZuRIQicbNVJ9SedfAu7AjnuEa3pbLmZX2EDnuCbnCw==

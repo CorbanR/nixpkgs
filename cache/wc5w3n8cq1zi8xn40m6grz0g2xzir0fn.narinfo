@@ -1,0 +1,10 @@
+StorePath: /nix/store/wc5w3n8cq1zi8xn40m6grz0g2xzir0fn-libtasn1-4.16.0
+URL: nar/0x1k2d9gf0l3g42sg5w3dpkv7cdpjp7an3lq0lzb880a8mxb8yhp.nar.xz
+Compression: xz
+FileHash: sha256:0x1k2d9gf0l3g42sg5w3dpkv7cdpjp7an3lq0lzb880a8mxb8yhp
+FileSize: 34760
+NarHash: sha256:0xfrhw8b3rrqiigvq1lja4jm0pb16n6gf6im9f1s7cmpin8xfk6s
+NarSize: 94592
+References: nwsn18fysga1n5s0bj4jp4wfwvlbx8b1-glibc-2.30 wc5w3n8cq1zi8xn40m6grz0g2xzir0fn-libtasn1-4.16.0
+Deriver: yqkd17k9n88kk8zcw6008ln8028jsp1z-libtasn1-4.16.0.drv
+Sig: cache.nixos.org-1:OXTP+MwpuoJmud/NrA2VJYnw/2Mf4NJJZ1nBSdujKfIPOvMVBDGF0AUGEV0+WCKS33evEJ+rS2RMEZ2FgLjzDw==
