@@ -1,4 +1,4 @@
-{ stdenv, buildGoModule, fetchFromGitHub }:
+{ stdenv, buildGoModule, fetchFromGitHub, writeText }:
 
 buildGoModule rec {
   pname = "rapture";
@@ -12,6 +12,10 @@ buildGoModule rec {
   };
 
   modSha256 = "0l6rlhcmqlh6kaxmbg1461mr793bzvh0aizy8hi1w05dxz5d48gk";
+
+  setupHook = writeText "setupHook.sh" ''
+     eval "$( command rapture shell-init )"
+  '';
 
   meta = with stdenv.lib; {
     homepage = "https://github.com/daveadams/go-rapture";
