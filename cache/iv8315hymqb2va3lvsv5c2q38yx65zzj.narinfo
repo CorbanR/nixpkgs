@@ -1,10 +1,10 @@
 StorePath: /nix/store/iv8315hymqb2va3lvsv5c2q38yx65zzj-libpulsar-2.5.1
-URL: nar/0gxn9lbfz6sq0d3z0b7zlbvmgld1znpk73afrg81l5n9g05iwwv5.nar.xz
+URL: nar/0kdrk0avsz6lag8qm0f18naqpfmcs2n7asymvx09pzbh3ylrn5dw.nar.xz
 Compression: xz
-FileHash: sha256:0gxn9lbfz6sq0d3z0b7zlbvmgld1znpk73afrg81l5n9g05iwwv5
-FileSize: 2398000
-NarHash: sha256:1qsxb1qbchz8cdmpb80i605saxr7fh9mcxrdcrn5sj2aq62b972s
+FileHash: sha256:0kdrk0avsz6lag8qm0f18naqpfmcs2n7asymvx09pzbh3ylrn5dw
+FileSize: 2402496
+NarHash: sha256:039dd84wc6zw1sl73ckf6bshz123qsgs3c1k41gcl9dc7xpssy5i
 NarSize: 20861720
 References: 04z6bfbdrj784cg6mw7mp85zjp26fasa-zlib-1.2.11 9qp50ibn03jkdcjvcvilzwmvz9va12g2-libc++-7.1.0 cb6jad1b9h9nqz0y11vxrzaaca08s2m7-snappy-1.1.8 d81730b86arkcm1bbjyws74bvdrgavap-openssl-1.1.1g h6q4a76vbgdpqk4kfk53i5j63bwgyhpx-zstd-1.4.4 hxpmj5hp8qj69r9dwrnqppnwzpg10rl2-log4cxx-0.10.0 ilrnfbmgiyfyxc4iy95scpvp7qw1wja6-curl-7.69.1 irblllkzzda7x0xwb5q8ncpriznhfg59-boost-1.72.0 iv8315hymqb2va3lvsv5c2q38yx65zzj-libpulsar-2.5.1 jy4lmd13015mcirzx6hn2azq4sbw2lqm-protobuf-3.8.0 qrnw4az7lx99zxhacz9mj8r03fh1s183-Libsystem-osx-10.12.6 yrz75fyjkvyaf61mwnkqsyry34fl5w75-swift-corefoundation
 Deriver: lchjb8clbpfmh59q8rpvspwiykif39a2-libpulsar-2.5.1.drv
-Sig: nixpkgs.raunco.co:809rIaHTsOz7/1POin3XjgigPs1Dp97tAauJjnI613czaqv4Pjpqtrrr78ckEQrcso1c7ZEtvSjo7HIaMqanAQ==
+Sig: nixpkgs.raunco.co:sXmERt39dHq5rRnSc9DNKIRizxYWP6P0lJI5qDCtR9Holt/HOXvY6uONLnNQePTSz5q2iFYdLWfYZsOHUdU6BA==
