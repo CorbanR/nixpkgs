@@ -90,11 +90,13 @@ jobs:
       uses: actions/download-artifact@1de1dea89c
       with:
         name: nix-cache-ubuntu-18.04-${{ github.sha }}
+        path: nix-cache-ubuntu-18.04-${{ github.sha }}
 
     - name: Download mac artifacts
       uses: actions/download-artifact@1de1dea89c
       with:
         name: nix-cache-macos-10.15-${{ github.sha }}
+        path: nix-cache-macos-10.15-${{ github.sha }}
 
     - name: Combine cache files
       run: |
