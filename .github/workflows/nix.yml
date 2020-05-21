@@ -18,7 +18,7 @@ jobs:
         os: [ubuntu-18.04, macos-10.15]
     steps:
       # v2.1.0
-    - uses: actions/checkout@01aecccf73
+    - uses: actions/checkout@86f86b36ef
 
       # v8
     - uses: cachix/install-nix-action@ebed63b0a2
@@ -71,7 +71,7 @@ jobs:
 
     - name: Upload artifacts
       if: success()
-      uses: actions/upload-artifact@1283ca12b6
+      uses: actions/upload-artifact@97b7dace6c
       with:
         name: nix-cache-${{ matrix.os }}-${{ github.sha }}
         path: _output
@@ -82,17 +82,17 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       # v2.1.0
-    - uses: actions/checkout@01aecccf73
+    - uses: actions/checkout@86f86b36ef
       with:
         persist-credentials: false
 
     - name: Download linux artifacts
-      uses: actions/download-artifact@b85295d276
+      uses: actions/download-artifact@1de1dea89c
       with:
         name: nix-cache-ubuntu-18.04-${{ github.sha }}
 
     - name: Download mac artifacts
-      uses: actions/download-artifact@b85295d276
+      uses: actions/download-artifact@1de1dea89c
       with:
         name: nix-cache-macos-10.15-${{ github.sha }}
 
@@ -110,18 +110,18 @@ jobs:
 
       #v0.2.0
     - name: Install SSH Client 🔑
-      uses: webfactory/ssh-agent@b6c65becb0
+      uses: webfactory/ssh-agent@4fcb25e7ef
       with:
         ssh-private-key: ${{ secrets.DEPLOY_SSH_KEY }}
 
       #v3
     - name: Deploy pages
-      uses: JamesIves/github-pages-deploy-action@8fcf8339ce
+      uses: JamesIves/github-pages-deploy-action@d2f2f7fe9b
       with:
         SSH: true
         BRANCH: gh-pages
         FOLDER: _output
-        CLEAN: true
+        CLEAN: false
         CLEAN_EXCLUDE: '[".gitattributes", ".gitignore", "CNAME"]'
 
   test-channel:
@@ -133,7 +133,7 @@ jobs:
         os: [ubuntu-18.04, macos-10.15]
     steps:
       # v2.1.0
-    - uses: actions/checkout@01aecccf73
+    - uses: actions/checkout@86f86b36ef
 
       # v8
     - uses: cachix/install-nix-action@ebed63b0a2
