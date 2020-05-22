@@ -11,12 +11,7 @@ buildGoModule rec {
     sha256 = "0r1alk2nkv5cyk4j2cdgih4zy82x55svhq8l6q7p9nl4m4xkz9ka";
   };
 
-  #modSha256 = "0l6rlhcmqlh6kaxmbg1461mr793bzvh0aizy8hi1w05dxz5d48gk";
   vendorSha256 = "0d0pbsk66glhd8phdjmvmq0iqmzj56jqz03fk8bshdgj69w966pv";
-
-  setupHook = writeText "setupHook.sh" ''
-     eval "$( command rapture shell-init )"
-  '';
 
   meta = with stdenv.lib; {
     homepage = "https://github.com/daveadams/go-rapture";

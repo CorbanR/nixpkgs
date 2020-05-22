@@ -11,7 +11,6 @@ buildGoModule rec {
     sha256 = "1pimcpl9karl9lmyyc6xdjb4sn3j3gwj16666kdiqfjvi85naldj";
   };
 
-  #modSha256 = "0rnxzv77fm3h0caaj7dgfbgy2z96ssn3vymp9bhbbdv54dqqjg1y";
   vendorSha256 = "1zj807wjaz2gy8hhva1vf67h6zr1vnmliv70h7w3arl0nk6rpch5";
 
   # Since vaulted spawns a new shell /etc/profile gets called(at least on OSX), which calls path_helper, which screws with the path
