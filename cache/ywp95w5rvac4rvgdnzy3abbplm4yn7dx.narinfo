@@ -6,5 +6,5 @@ FileSize: 9054324
 NarHash: sha256:1vkg2lbp67cpqhqga0k5qr87i6w2frxlsb4axqiw6x5h7zhrqg9g
 NarSize: 48456488
 References: 244yvw8fnxdv6zfkq2c6jqmw35jg6ib7-gcc-9.3.0-lib 38kz3j1a87cq5y59k5w7k9yk4cqgc5b2-python-2.7.18 81wybawvkr95c7j8gj5ab3y740mq1fli-bash-4.4-p23 a6sbfdmqnw16i0giiv2dnwfg83gznnfj-zlib-1.2.11 afwkyx0h1whgggbz4gclx6d6iyz4sv2w-zlib-1.2.11-dev b9yc1faqr159pwbrg9kabhl4zkpnk2v5-openssl-1.1.1g hya0y6slws66h99njc2yiz02irfv4n62-openssl-1.1.1g-dev nwsn18fysga1n5s0bj4jp4wfwvlbx8b1-glibc-2.30 qq0gdhjzz1mcpavprcykf609sm7prj1j-libuv-1.37.0 v4rqnzzknm3vlxk3mhay122npb7wslhi-icu4c-64.2 vym6iwzgznx5w87yin2ivzaahng0frl9-http-parser-2.9.4 ydncjm206c44qnl3zdhlnghrd7a30kkg-icu4c-64.2-dev ywp95w5rvac4rvgdnzy3abbplm4yn7dx-nodejs-8.17.0
-Deriver: xvvq3zxfq2cvhlvjk5wxqy9xnkhs2a5s-nodejs-8.17.0.drv
+Deriver: r9y3xdpci5a49x7r4dh0ig713zzkadip-nodejs-8.17.0.drv
 Sig: nixpkgs.raunco.co:tHsO1DaHj9Tf9wgjct9qrWsyNb7wiG+UGAqEewbJQQEkU4+DbLcieFzxcRnpMMB3ehYHm/RUjXqfHd/DoEaSDA==
