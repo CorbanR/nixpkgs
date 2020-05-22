@@ -1,8 +1,8 @@
 { stdenv
 , pkgs
 , fetchurl
-, version ? "2.5.1"
-, sha256 ? "0dgh8w039l99is79pqk428q44yy65q1f1rn6v5spgns9qm7p8sg2"
+, version ? "2.5.2"
+, sha256 ? "0bvksi52r07sx77gw3zvjizr0pnw06qng25sh9p0jcv875mfq0rr"
 , boost17x
 , clang
 , llvmPackages
