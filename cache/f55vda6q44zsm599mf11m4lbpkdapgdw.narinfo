@@ -1,0 +1,10 @@
+StorePath: /nix/store/f55vda6q44zsm599mf11m4lbpkdapgdw-dart-2.8.2
+URL: nar/1xcmsqw9vcx8i575l1hqb66rcmf09yssr4k46skligiax73y9yrr.nar.xz
+Compression: xz
+FileHash: sha256:1xcmsqw9vcx8i575l1hqb66rcmf09yssr4k46skligiax73y9yrr
+FileSize: 178365592
+NarHash: sha256:14bwg3v3xjlaxcgyipsp7zwzcjsa5hz2jlr7w20aa2k100mhmk6f
+NarSize: 509699208
+References: iqak4y6kxnjzz37idsffd2jha52wz31x-bash-4.4-p23
+Deriver: zvc12sswyyw95v1hp4yg748vg31ldmpd-dart-2.8.2.drv
+Sig: nixpkgs.raunco.co:sAA5cic+vc7HHTo5ukdDl76TPbeIcvCdpiA2aekZ6TT3TugMYWIdu/AhH5U0Z4RFODKW6tAP/lbFNlwvjBgoAg==

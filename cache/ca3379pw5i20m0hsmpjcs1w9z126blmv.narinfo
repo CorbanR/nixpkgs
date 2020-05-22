@@ -1,10 +1,10 @@
 StorePath: /nix/store/ca3379pw5i20m0hsmpjcs1w9z126blmv-nodejs-8.17.0
-URL: nar/1fkxbnccipsp8h461k3072rnvrh3yky16ivca5bllycz5f0nnf49.nar.xz
+URL: nar/1q2pwfv78cmprdl7hfnjmrag1rhrg8h4913vj117kkslnpd18a94.nar.xz
 Compression: xz
-FileHash: sha256:1fkxbnccipsp8h461k3072rnvrh3yky16ivca5bllycz5f0nnf49
-FileSize: 8053496
-NarHash: sha256:15alh1yq60i6hg7biszbkrr4ah7jkx40mf7j187yv29c3j011k8r
+FileHash: sha256:1q2pwfv78cmprdl7hfnjmrag1rhrg8h4913vj117kkslnpd18a94
+FileSize: 8055184
+NarHash: sha256:0a6b1blpr43mk3xf8jiv3v7y7g4pzqf07yax3kk3npwjg8n1iqyk
 NarSize: 45851736
 References: 04z6bfbdrj784cg6mw7mp85zjp26fasa-zlib-1.2.11 2xda1wnal2gyd3zn3ra4cai4wqnbs8yz-icu4c-64.2-dev 4ra20h9r250164ks8ssdikraxkx8igff-icu4c-64.2 54l0xqfcwrm3ddb607znn73qzp33kzvd-python-2.7.18 9qp50ibn03jkdcjvcvilzwmvz9va12g2-libc++-7.1.0 ca3379pw5i20m0hsmpjcs1w9z126blmv-nodejs-8.17.0 d81730b86arkcm1bbjyws74bvdrgavap-openssl-1.1.1g ii711z4izhrzcd5zzlcwqi6gfpvyvkgn-libuv-1.37.0 iqak4y6kxnjzz37idsffd2jha52wz31x-bash-4.4-p23 qrnw4az7lx99zxhacz9mj8r03fh1s183-Libsystem-osx-10.12.6 s2hf543gdb5nky4z3hlmwjv51qcl1lf5-zlib-1.2.11-dev yfsblhkrcdbf284g0wh0b4w8ylzzndc3-openssl-1.1.1g-dev
 Deriver: kzplqafrgfgs5msbshkl5aqq10hb7x3c-nodejs-8.17.0.drv
-Sig: nixpkgs.raunco.co:l4yDYY3PF+s+3OE5Dn8NO0qzb9gP8cHyGntM9dfUReyRgTNsnZXJEpYDeFstRYgmOPdsHNx0KVNlr20Puu7LAQ==
+Sig: nixpkgs.raunco.co:DGg/+9dtAJlLuTMU+IzTskblPqD1oG8LIn6NjwAWKqBDUD5Xb2wVu/ocLHyozKvlhieFPrLhM+ovZnISj1CtDQ==
