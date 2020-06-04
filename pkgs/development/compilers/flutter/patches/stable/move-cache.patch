@@ -1,0 +1,72 @@
+diff --git a/dev/devicelab/lib/framework/runner.dart b/dev/devicelab/lib/framework/runner.dart
+index 8e511eefd..a6659d6aa 100644
+--- a/dev/devicelab/lib/framework/runner.dart
++++ b/dev/devicelab/lib/framework/runner.dart
+@@ -10,6 +10,7 @@ import 'package:path/path.dart' as path;
+ import 'package:vm_service_client/vm_service_client.dart';
+
+ import 'package:flutter_devicelab/framework/utils.dart';
++import 'globals.dart' as globals;
+
+ /// Runs a task in a separate Dart VM and collects the result using the VM
+ /// service protocol.
+@@ -126,7 +127,7 @@ Future<void> cleanupSystem() async {
+     print('\nTelling Gradle to shut down (JAVA_HOME=$javaHome)');
+     final String gradlewBinaryName = Platform.isWindows ? 'gradlew.bat' : 'gradlew';
+     final Directory tempDir = Directory.systemTemp.createTempSync('flutter_devicelab_shutdown_gradle.');
+-    recursiveCopy(Directory(path.join(flutterDirectory.path, 'bin', 'cache', 'artifacts', 'gradle_wrapper')), tempDir);
++    recursiveCopy(Directory(path.join(globals.fsUtils.homeDirPath, '.cache', 'flutter', 'artifacts', 'gradle_wrapper')), tempDir);
+     copy(File(path.join(path.join(flutterDirectory.path, 'packages', 'flutter_tools'), 'templates', 'app', 'android.tmpl', 'gradle', 'wrapper', 'gradle-wrapper.properties')), Directory(path.join(tempDir.path, 'gradle', 'wrapper')));
+     if (!Platform.isWindows) {
+       await exec(
+diff --git a/packages/flutter_tools/lib/src/asset.dart b/packages/flutter_tools/lib/src/asset.dart
+index d8db4e086..3dfb6f33e 100644
+--- a/packages/flutter_tools/lib/src/asset.dart
++++ b/packages/flutter_tools/lib/src/asset.dart
+@@ -7,6 +7,7 @@ import 'dart:async';
+ import 'package:meta/meta.dart';
+ import 'package:yaml/yaml.dart';
+ 
++import 'base/common.dart';
+ import 'base/context.dart';
+ import 'base/file_system.dart';
+ import 'base/utils.dart';
+@@ -338,7 +339,7 @@ List<_Asset> _getMaterialAssets(String fontSet) {
+     for (final Map<dynamic, dynamic> font in (family['fonts'] as List<dynamic>).cast<Map<dynamic, dynamic>>()) {
+       final Uri entryUri = globals.fs.path.toUri(font['asset'] as String);
+       result.add(_Asset(
+-        baseDir: globals.fs.path.join(Cache.flutterRoot, 'bin', 'cache', 'artifacts', 'material_fonts'),
++        baseDir: globals.fs.path.join(globals.fsUtils.homeDirPath, '.cache', 'flutter', 'artifacts', 'material_fonts'),
+         relativeUri: Uri(path: entryUri.pathSegments.last),
+         entryUri: entryUri,
+       ));
+diff --git a/packages/flutter_tools/lib/src/cache.dart b/packages/flutter_tools/lib/src/cache.dart
+index 046b4d50c..75a5e023f 100644
+--- a/packages/flutter_tools/lib/src/cache.dart
++++ b/packages/flutter_tools/lib/src/cache.dart
+@@ -195,8 +195,15 @@ class Cache {
+       return;
+     }
+     assert(_lock == null);
++
++    final Directory lockDir = globals.fs.directory(globals.fs.path.join(globals.fsUtils.homeDirPath, '.cache', 'flutter'));
++    if (!lockDir.existsSync()) {
++      lockDir.createSync(recursive: true);
++      globals.os.chmod(lockDir, '755');
++    }
++
+     final File lockFile =
+-        globals.fs.file(globals.fs.path.join(flutterRoot, 'bin', 'cache', 'lockfile'));
++        globals.fs.file(globals.fs.path.join(globals.fsUtils.homeDirPath, '.cache', 'flutter', 'lockfile'));
+     try {
+       _lock = lockFile.openSync(mode: FileMode.write);
+     } on FileSystemException catch (e) {
+@@ -296,7 +303,7 @@ class Cache {
+     if (_rootOverride != null) {
+       return _fileSystem.directory(_fileSystem.path.join(_rootOverride.path, 'bin', 'cache'));
+     } else {
+-      return _fileSystem.directory(_fileSystem.path.join(flutterRoot, 'bin', 'cache'));
++      return _fileSystem.directory(_fileSystem.path.join(globals.fsUtils.homeDirPath, '.cache', 'flutter'));
+     }
+   }
+ 
