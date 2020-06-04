@@ -54,11 +54,11 @@ jobs:
       run: nix-build --max-jobs 2 --cores 2
 
     - name: optimize nix-store to reduce size
-      if: success()
+      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
       run: nix-store --optimise
 
     - name: Sign the packages
-      if: success()
+      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
       run: |
         export NIX_SECRET_KEY_FILE="$PWD/nix-cache-priv-key.pem"
         echo "$NIX_SECRET_KEY" > "$NIX_SECRET_KEY_FILE"
@@ -70,7 +70,7 @@ jobs:
         NIX_SECRET_KEY: ${{ secrets.NIX_SECRET_KEY }}
 
     - name: Upload artifacts
-      if: success()
+      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
       uses: actions/upload-artifact@97b7dace6c
       with:
         name: nix-cache-${{ matrix.os }}-${{ github.sha }}
