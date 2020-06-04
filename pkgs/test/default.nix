@@ -15,6 +15,7 @@ let
     dart = callPackage ../development/interpreters/dart {}; # See installCheckPhase
     hello = callPackage ./hello/test.nix {};
     libpulsar = callPackage ../development/libraries/libpulsar {}; # See installCheckPhase
+    muss = callPackage ../applications/virtualization/muss/test.nix {};
     nodejs-8_x = callPackage ../development/web/nodejs-8_x/test.nix {};
     rapture = callPackage ../tools/security/rapture/test.nix {};
     vaulted = callPackage ../tools/security/vaulted/test.nix {};

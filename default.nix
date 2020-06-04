@@ -19,6 +19,7 @@ let
     _nyx = callPackage ./pkgs/tools/system/nyx {}; # name conflics with another nix package hence _nyx
     dart = callPackage ./pkgs/development/interpreters/dart {};
     libpulsar = callPackage ./pkgs/development/libraries/libpulsar {};
+    muss = callPackage ./pkgs/applications/virtualization/muss {};
     nodejs-8_x = callPackage ./pkgs/development/web/nodejs-8_x {};
     rapture = callPackage ./pkgs/tools/security/rapture {};
     vaulted = vaulted-wrapped;
