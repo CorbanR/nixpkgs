@@ -1,0 +1,10 @@
+StorePath: /nix/store/wanv6w6qybm2fbiql1gxjzyvwr77lmpa-libgpg-error-1.36
+URL: nar/0v0qmsh1nkqls5hkf078hgl7811mhgbq3c309z3wdb676ysdywra.nar.xz
+Compression: xz
+FileHash: sha256:0v0qmsh1nkqls5hkf078hgl7811mhgbq3c309z3wdb676ysdywra
+FileSize: 139624
+NarHash: sha256:1x7hkqspkspmar0g59k4qwwjxyzkjs79k017xl63p97yz8kg1gph
+NarSize: 687208
+References: b7qbiwggfcj7hp3zllzfmqvxnqcdx9ji-swift-corefoundation m2bvqsr17grmb5p9xpyqj0wmhvgan5zp-gettext-0.20.1 nb3ag6cn5s856vykaiaz43qpc0ajkira-Libsystem-osx-10.12.6 wanv6w6qybm2fbiql1gxjzyvwr77lmpa-libgpg-error-1.36
+Deriver: h7mzj9x2fl43fbn14fkz0ppykfafr5j1-libgpg-error-1.36.drv
+Sig: cache.nixos.org-1:OmV9YxTmbO00B8dOVP1Ffb2GuNVUAVeshy4lFe4TOe32GpaxQUFHQ9UVJl8aH/1HcQgPcq4fxJyUBR+y1hpJDQ==

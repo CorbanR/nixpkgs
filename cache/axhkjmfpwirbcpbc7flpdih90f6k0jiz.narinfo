@@ -1,0 +1,10 @@
+StorePath: /nix/store/axhkjmfpwirbcpbc7flpdih90f6k0jiz-libuv-1.37.0
+URL: nar/0v023g8xhgy4an8hsiar5r3y69bynzfchip9k8f9dqlybqbk65ay.nar.xz
+Compression: xz
+FileHash: sha256:0v023g8xhgy4an8hsiar5r3y69bynzfchip9k8f9dqlybqbk65ay
+FileSize: 80576
+NarHash: sha256:1ds26lpqxp97d73myb6vz71dwnkdc43dcbqcn1szdms5s0qmmgnb
+NarSize: 272832
+References: axhkjmfpwirbcpbc7flpdih90f6k0jiz-libuv-1.37.0 nb3ag6cn5s856vykaiaz43qpc0ajkira-Libsystem-osx-10.12.6
+Deriver: lbkkqqzq9swl8h95cv7g9gf53zvzj2qy-libuv-1.37.0.drv
+Sig: cache.nixos.org-1:6KyEve7qk7jx8IkMc5iM5ic67YAErQjy3dJz8ZR86VTJTKcrVrJLQe7rjDFkmHnDaCSvtELtVI9QXyt+OuX1DQ==

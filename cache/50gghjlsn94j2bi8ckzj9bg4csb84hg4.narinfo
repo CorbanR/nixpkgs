@@ -1,0 +1,10 @@
+StorePath: /nix/store/50gghjlsn94j2bi8ckzj9bg4csb84hg4-libkrb5-1.18
+URL: nar/0jhaxqx49r52r489d4m50wb08k57r6ikvg4nvhd2rwsg4rjvm56v.nar.xz
+Compression: xz
+FileHash: sha256:0jhaxqx49r52r489d4m50wb08k57r6ikvg4nvhd2rwsg4rjvm56v
+FileSize: 649820
+NarHash: sha256:0vhw4cr5k3rmfbkij5icby7y3bv6djdmgs1z3z7bivynyxk8z0n2
+NarSize: 2354872
+References: 50gghjlsn94j2bi8ckzj9bg4csb84hg4-libkrb5-1.18 cs35zh08x2z95h7qmw86sqjwpyhpb97y-keyutils-1.6.1-lib jx19wa4xlh9n4324xdl9rjnykd19mmq3-glibc-2.30 xfbmj7sl2ikicym9x3yq7cms5qx1w39k-bash-4.4-p23
+Deriver: iiz8hh78x0nwi8wpbdzjffrp2qi5w6pl-libkrb5-1.18.drv
+Sig: cache.nixos.org-1:NdKlgB1BhgN9Qxe4cGoGTDHejtXxa2O0qJmL0td/+9IojBqiBvzpt9FhCBBvdCw6GqpLUq/nhKWJY7xIQjZOBw==

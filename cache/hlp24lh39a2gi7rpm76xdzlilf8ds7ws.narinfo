@@ -1,0 +1,10 @@
+StorePath: /nix/store/hlp24lh39a2gi7rpm76xdzlilf8ds7ws-zlib-1.2.11-dev
+URL: nar/1xanjyiqbl0frj15waf4yk6d6ypg5cc4jmq18ny7ikk993xf0nfa.nar.xz
+Compression: xz
+FileHash: sha256:1xanjyiqbl0frj15waf4yk6d6ypg5cc4jmq18ny7ikk993xf0nfa
+FileSize: 27092
+NarHash: sha256:0wkvgv94i85h0nqvzjz9gh00jjy81mxjvwlx089ivv2500rcscnz
+NarSize: 114456
+References: hlp24lh39a2gi7rpm76xdzlilf8ds7ws-zlib-1.2.11-dev mi9z1dmjp95n90lfy3rqifqzxphvnyzh-zlib-1.2.11
+Deriver: 2jgpi40d2d43x79y9dqkzgx95vpbnz6k-zlib-1.2.11.drv
+Sig: cache.nixos.org-1:ISqU5mzvND2N1ZyFgbjD8X8LaNq//xDvr45IMEYJ8Pg28Kgle1big7uTQa2EITgIJ9ILCNHiXDVyJfcsTMogBQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/zkx8jzy26fvjmkzjh5ljkhrs9i48c5rp-libmpc-1.1.0
+URL: nar/07z0ly0bi3pix0yq4n694hfnhzbxmk99xdkqann8995fnrdzzws6.nar.xz
+Compression: xz
+FileHash: sha256:07z0ly0bi3pix0yq4n694hfnhzbxmk99xdkqann8995fnrdzzws6
+FileSize: 56940
+NarHash: sha256:0vvzn7h1pdq76db638b5j6cvpdnk0d32l93mnca56nwy41kjcq1n
+NarSize: 191872
+References: 1v27jz329ngx1s7i3qvb9r7gfk73k2jx-gmp-6.2.0 3hl9jc7dgk2qg38xfwg14w10kbdnpj78-mpfr-4.0.2 b7qbiwggfcj7hp3zllzfmqvxnqcdx9ji-swift-corefoundation nb3ag6cn5s856vykaiaz43qpc0ajkira-Libsystem-osx-10.12.6 zkx8jzy26fvjmkzjh5ljkhrs9i48c5rp-libmpc-1.1.0
+Deriver: g076g8bhcr2kbkqzf0yfv7cwa6hah0h8-libmpc-1.1.0.drv
+Sig: cache.nixos.org-1:tvE6Z/+3VYeixz+XC7jkTbZkn0nbgzzW8PTWIXHv6HX+6ubdsATCpdKxQQ2KM53GYU/50IJx4VygLORBJUbFDQ==

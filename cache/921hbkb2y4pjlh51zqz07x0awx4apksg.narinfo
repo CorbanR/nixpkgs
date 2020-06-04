@@ -1,0 +1,10 @@
+StorePath: /nix/store/921hbkb2y4pjlh51zqz07x0awx4apksg-libssh2-1.9.0
+URL: nar/07iyh03f5n1bly4lc0w42s8qy96szgnbcj86yhw6x5p7pd2sv9wd.nar.xz
+Compression: xz
+FileHash: sha256:07iyh03f5n1bly4lc0w42s8qy96szgnbcj86yhw6x5p7pd2sv9wd
+FileSize: 88932
+NarHash: sha256:1r1v0dfpcd3q4mkflkrkgjcskdjca3x8ql2msb0mgw3rspfxbil7
+NarSize: 239064
+References: 27aszd2yq42n25prv67spcwr7x7g74np-openssl-1.1.1g 921hbkb2y4pjlh51zqz07x0awx4apksg-libssh2-1.9.0 mi9z1dmjp95n90lfy3rqifqzxphvnyzh-zlib-1.2.11 nb3ag6cn5s856vykaiaz43qpc0ajkira-Libsystem-osx-10.12.6
+Deriver: 2wjs7gy2kf1pxi7h9gmwwjz94azk07bv-libssh2-1.9.0.drv
+Sig: cache.nixos.org-1:H/H7I5sS2qIjfFcRyZeRpceTg7/GbPpAyhUrukNsCtB9SOG6WcSjafJYD1Po4dQcby9e0NTg9bCkgN2OZW9qAQ==
