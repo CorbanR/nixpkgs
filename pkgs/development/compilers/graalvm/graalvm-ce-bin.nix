@@ -1,6 +1,6 @@
-{ stdenv, fetchurl, setJavaClassPath, zlib, gcc
+{ stdenv, fetchurl, setJavaClassPath, zlib
 , javaVersion ? "11"
-, graalvmVersion ? "20.0.0" }:
+, graalvmVersion ? "20.1.0" }:
 
 let
   sources = import ./sources-ce-bin.nix {
@@ -16,6 +16,8 @@ in stdenv.mkDerivation {
 
   sourceRoot = ".";
 
+  dontStrip = true;
+
   installPhase = ''
     mkdir -p $out
     ${if stdenv.isDarwin
@@ -27,7 +29,7 @@ in stdenv.mkDerivation {
     $out/bin/gu -L install ${system_src.wasm}
   '';
 
-  propagatedBuildInputs = [ setJavaClassPath zlib] ++ stdenv.lib.optional stdenv.isDarwin [ gcc ];
+  propagatedBuildInputs = [ setJavaClassPath zlib];
 
   preFixup = ''
       # Propagate the setJavaClassPath setup hook from the JDK so that
@@ -56,9 +58,10 @@ in stdenv.mkDerivation {
     $out/bin/java -XX:+UnlockExperimentalVMOptions -XX:+EnableJVMCI -XX:+UseJVMCICompiler HelloWorld
     $out/bin/java -XX:+UnlockExperimentalVMOptions -XX:+EnableJVMCI -XX:+UseJVMCICompiler HelloWorld | fgrep 'Hello World'
     # Ahead-Of-Time compilation
-    $out/bin/native-image --no-server HelloWorld
-    ./helloworld
-    ./helloworld | fgrep 'Hello World'
+    #
+    #$out/bin/native-image -H:+ReportExceptionStackTraces --verbose --no-server HelloWorld
+    #./helloworld
+    #./helloworld | fgrep 'Hello World'
     ${stdenv.lib.optionalString stdenv.isLinux
       ''
         # Ahead-Of-Time compilation with --static
