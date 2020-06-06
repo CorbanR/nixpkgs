@@ -86,6 +86,12 @@ jobs:
       with:
         persist-credentials: false
 
+    - name: Cleanup tasks
+      run: |
+        sudo apt clean
+        sudo rm -rf "/usr/local/share/boost"
+        sudo rm -rf "$AGENT_TOOLSDIRECTORY"
+
     - name: Download linux artifacts
       uses: actions/download-artifact@1de1dea89c
       with:
