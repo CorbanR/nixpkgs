@@ -1,0 +1,10 @@
+StorePath: /nix/store/qf9a44q8bmyjjzcajigkljxyahzavpaj-python-2.7.18
+URL: nar/1nymhpd4h2lcmgm4vwwy3a8rrg6yxv3wbkh0is1cpm8jcxga29zk.nar.xz
+Compression: xz
+FileHash: sha256:1nymhpd4h2lcmgm4vwwy3a8rrg6yxv3wbkh0is1cpm8jcxga29zk
+FileSize: 8795992
+NarHash: sha256:12cm4b8kllkdzaic98dkkg9rx38z06j78fk5z8fipcr8k3vj52ib
+NarSize: 48476200
+References: 4a85hgirfagicxwx1b9h4vhjaaikv8az-bzip2-1.0.6.0.1 4f4ldan6xlf1nw018cc6d9x7cc71y0pf-sqlite-3.32.2 5kd84ipivzpm84zc60q8563sqd8qwihc-ncurses-6.2 6f82pqvs2jd2w65ffzri004sj1h6160z-gdbm-1.18.1 88n7yv0xqhk91qvp26cfjz4wb5g846r5-openssl-1.1.1g c2rlh7xa8fcgg7qz8pl76ipvvb172c6k-glibc-2.30 g9dkn6v4zz0wa71r5c2clsdw0ar53nxp-bash-4.4-p23 jfg54j5x8bzw8kzdzxgiz3939wwg33zn-zlib-1.2.11 ks3scd05gifsynshf188rwvnlj13sgqc-coreutils-8.31 qf9a44q8bmyjjzcajigkljxyahzavpaj-python-2.7.18 v2i7p6mnz6fs56a6gsk4qli0yq57nmjp-readline-6.3p08 zzspaaaz6fs0an435ja0qnk4qmgbhhs9-db-5.3.28
+Deriver: qrx5a1ifbjxyfshn5rqvyj8074c5k37s-python-2.7.18.drv
+Sig: cache.nixos.org-1:RiA3aRW9KAypLjB8WapTx3S6eA0SbqzMpE75x6ZT7xG/UnVZegMaFo84im3YTNWs/+roP+NMQPkzue/bO+9UDA==

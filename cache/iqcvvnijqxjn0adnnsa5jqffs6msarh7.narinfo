@@ -1,0 +1,10 @@
+StorePath: /nix/store/iqcvvnijqxjn0adnnsa5jqffs6msarh7-log4cxx-0.10.0
+URL: nar/0053vpbdi5zpzg6ppjmys119y44kqriprq9b64sirnq03p1pi5sz.nar.xz
+Compression: xz
+FileHash: sha256:0053vpbdi5zpzg6ppjmys119y44kqriprq9b64sirnq03p1pi5sz
+FileSize: 454380
+NarHash: sha256:0h36vjr38l9mnxlxags7zs86zas65dyzljnzajs2c9k55lvilh8c
+NarSize: 2599024
+References: 1fybshxmnajay96c8rxx6fpaivhaxhmm-openldap-2.4.50 4a3mw3kg40zafd54f84h53chb0m5wlsy-libc++-7.1.0 4xdfxrp85wg238nw7qzfll8lv4db03cs-apr-util-1.6.1 hpid8hp7cqyhgmsq85f0aghrdawmkxpv-libiconv-osx-10.12.6 ibinhl8nqa94s6h1f6ivga4f8p202vkm-apr-1.7.0 iqcvvnijqxjn0adnnsa5jqffs6msarh7-log4cxx-0.10.0 kjzhj2m110xg8by1q1iajsihj2q9lmfs-Libsystem-osx-10.12.6 m45lr9xhns0g65f79n55xrwsqbrrxjfy-swift-corefoundation qbj21m9hngcp7qs302kkjzx4ly8hw9zf-expat-2.2.8 vad8i7qkkxd17gc8m84zyckaclpc8j1f-db-5.3.28
+Deriver: skf1xmsgzghr449h5rjp00y940lsh2xk-log4cxx-0.10.0.drv
+Sig: cache.nixos.org-1:pvPVD5fgJK7TZgQCfsM6ZynVl//QedGAm5pFuUmCPrD7RqjxNKwC0700sguh65EPmdHcDF/ysoBXcFzHedvZBg==

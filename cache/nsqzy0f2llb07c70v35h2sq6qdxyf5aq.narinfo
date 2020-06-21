@@ -1,0 +1,10 @@
+StorePath: /nix/store/nsqzy0f2llb07c70v35h2sq6qdxyf5aq-ICU-osx-10.10.5
+URL: nar/1fhki3ixs24s0ny75pih6cdjn2w3c9j9n9f0jhrs69s35gqaxnj7.nar.xz
+Compression: xz
+FileHash: sha256:1fhki3ixs24s0ny75pih6cdjn2w3c9j9n9f0jhrs69s35gqaxnj7
+FileSize: 1558408
+NarHash: sha256:04vwpcx2zjpgks7qg34yjdqv3cgcyrdgqsd08r3nbs4v8s7kix6r
+NarSize: 6961592
+References: 4a3mw3kg40zafd54f84h53chb0m5wlsy-libc++-7.1.0 kjzhj2m110xg8by1q1iajsihj2q9lmfs-Libsystem-osx-10.12.6 nsqzy0f2llb07c70v35h2sq6qdxyf5aq-ICU-osx-10.10.5
+Deriver: 1kcgxh4kpjibcd9s28cr8wxzpy416mgc-ICU-osx-10.10.5.drv
+Sig: cache.nixos.org-1:OlpLB7Q3TfOkcqfT/v43T/ZAyJswr4FIqh+ezblPaTHxAs35xI0DiTG7sv/dNwhjzdREG5uXNatmfFnQjV+vCA==

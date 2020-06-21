@@ -1,0 +1,10 @@
+StorePath: /nix/store/ks3scd05gifsynshf188rwvnlj13sgqc-coreutils-8.31
+URL: nar/0wwz9swnkapsb0j6hng8pb9hijlbip3f409c2fklf86wzz177rmh.nar.xz
+Compression: xz
+FileHash: sha256:0wwz9swnkapsb0j6hng8pb9hijlbip3f409c2fklf86wzz177rmh
+FileSize: 666404
+NarHash: sha256:0iq5zjbcq7f6grdp512is9wzh1aic88m2663mff6z19k37mrmcw9
+NarSize: 1839848
+References: c2rlh7xa8fcgg7qz8pl76ipvvb172c6k-glibc-2.30 ks3scd05gifsynshf188rwvnlj13sgqc-coreutils-8.31 mx3v2s6wa549mb4k6nv0sym4gix7vlv0-acl-2.2.53 xswsxfas6a0vrk8y7dfv8ipq2qxvj4fm-attr-2.4.48
+Deriver: 5rrh3imkvid9s6py2i4y49gdrjzajxk0-coreutils-8.31.drv
+Sig: cache.nixos.org-1:2H/G109e73y2v0ynqBfByAY0csICJceRWDLo1C03Hs6o9OSiitVDt7s4CGR+zpIsR14IpeEdzYY5P9rCX71lCA==

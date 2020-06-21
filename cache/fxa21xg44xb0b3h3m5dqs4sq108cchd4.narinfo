@@ -1,0 +1,10 @@
+StorePath: /nix/store/fxa21xg44xb0b3h3m5dqs4sq108cchd4-nghttp2-1.40.0-lib
+URL: nar/1fzhkbsxns455ir6ikxw59xwpka6v49hyj7lx6s4k1qx3ymf51lw.nar.xz
+Compression: xz
+FileHash: sha256:1fzhkbsxns455ir6ikxw59xwpka6v49hyj7lx6s4k1qx3ymf51lw
+FileSize: 56928
+NarHash: sha256:0zgr2gm3zmnnr1l26jlz4qp34r91nz17f8qz3r2f5kii7ji7gbfm
+NarSize: 162048
+References: fxa21xg44xb0b3h3m5dqs4sq108cchd4-nghttp2-1.40.0-lib kjzhj2m110xg8by1q1iajsihj2q9lmfs-Libsystem-osx-10.12.6 m45lr9xhns0g65f79n55xrwsqbrrxjfy-swift-corefoundation
+Deriver: j07zwmx555wz677z1ivzhhxkp2p2b3mz-nghttp2-1.40.0.drv
+Sig: cache.nixos.org-1:T+S1Qc87PoG7u//JYdrAaw7y76jtb+xxN4xiTHn+/LCXLc/6c6DlJ0fINbNTUsg8fec0fIr20WOggAwcJD2nDQ==

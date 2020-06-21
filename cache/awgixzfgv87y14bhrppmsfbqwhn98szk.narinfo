@@ -1,0 +1,10 @@
+StorePath: /nix/store/awgixzfgv87y14bhrppmsfbqwhn98szk-snappy-1.1.8
+URL: nar/1jimpyfadrzxqjjy82bkjq4dz7v90smw4v47nmyrfx27ypaj8lmy.nar.xz
+Compression: xz
+FileHash: sha256:1jimpyfadrzxqjjy82bkjq4dz7v90smw4v47nmyrfx27ypaj8lmy
+FileSize: 16044
+NarHash: sha256:0h9yksp2xc2icgdjz61igcxn7xfmsw5a6qsz3cd2ddnh6mhaq47n
+NarSize: 52488
+References: 7w0ixsxzv2y3d6h59cm8vck26988m61g-gcc-9.3.0-lib c2rlh7xa8fcgg7qz8pl76ipvvb172c6k-glibc-2.30
+Deriver: j257dswa3x4z5kvgyq2wgmilgfqbcbv3-snappy-1.1.8.drv
+Sig: cache.nixos.org-1:mJoguXwkyiq3semwYgC+5o8Ghzy8QTtg+A1LxjeleD1PhY9I5pa488YZc1wGVDh+BTSdwHgj5+tIS8ORr704Dg==

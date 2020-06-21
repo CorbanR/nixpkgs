@@ -1,0 +1,10 @@
+StorePath: /nix/store/9pxp9l59kdbjih0702q1gz7y8p0ymy9j-boost-1.72.0
+URL: nar/0fpvxz9da5kf058n8yivqinjyj7d5z57k6cidg1rb03sg9dqc926.nar.xz
+Compression: xz
+FileHash: sha256:0fpvxz9da5kf058n8yivqinjyj7d5z57k6cidg1rb03sg9dqc926
+FileSize: 1784132
+NarHash: sha256:0ksw5xzbblm3g76ninrq1n098lcdq6wr0vg0ijcd978774f14fck
+NarSize: 12080376
+References: 4a3mw3kg40zafd54f84h53chb0m5wlsy-libc++-7.1.0 4w3xan1a8qsl88brfw7bh969b56pfszq-zlib-1.2.11 65ysz57jx2wrnilmq3ks4ws77vavykbx-bzip2-1.0.6.0.1 9pxp9l59kdbjih0702q1gz7y8p0ymy9j-boost-1.72.0 cllc6ys47387bbrvhmclxzdlnx042rrf-icu4c-64.2 hpid8hp7cqyhgmsq85f0aghrdawmkxpv-libiconv-osx-10.12.6 kjzhj2m110xg8by1q1iajsihj2q9lmfs-Libsystem-osx-10.12.6 m45lr9xhns0g65f79n55xrwsqbrrxjfy-swift-corefoundation
+Deriver: 7syd5db27jprks272dpmamp3psvrwgac-boost-1.72.0.drv
+Sig: cache.nixos.org-1:x0AZXTGIpCx10e/ulmMc+CiEZRRkLUn/mt3bJKrysSr0XDBSp1rT1YiAlp338zgX1wa0bI1k57Mtf+Os2+6QBg==

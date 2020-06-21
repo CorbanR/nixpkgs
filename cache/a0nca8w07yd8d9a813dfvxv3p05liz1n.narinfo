@@ -1,0 +1,10 @@
+StorePath: /nix/store/a0nca8w07yd8d9a813dfvxv3p05liz1n-openldap-2.4.50
+URL: nar/1ympadpdks5zih31j4gi3d9n1hf7li3ci8yclc32cj9f8b0cif84.nar.xz
+Compression: xz
+FileHash: sha256:1ympadpdks5zih31j4gi3d9n1hf7li3ci8yclc32cj9f8b0cif84
+FileSize: 1102272
+NarHash: sha256:0am3ydk1xdyvhv4id6gwl324b01yc8x7dbxs3wrd77bqkk34qvvr
+NarSize: 4271872
+References: 1xb490p8f6x7ls0a38927riim1f5ndfm-libtool-2.4.6-lib 88n7yv0xqhk91qvp26cfjz4wb5g846r5-openssl-1.1.1g a0nca8w07yd8d9a813dfvxv3p05liz1n-openldap-2.4.50 c2rlh7xa8fcgg7qz8pl76ipvvb172c6k-glibc-2.30 rx5kmii71z6qf358z4bfj5m1p51wirq2-cyrus-sasl-2.1.27 zzspaaaz6fs0an435ja0qnk4qmgbhhs9-db-5.3.28
+Deriver: 7j6j8mvb3lgc1ngzk90b8ig0lm92slaf-openldap-2.4.50.drv
+Sig: cache.nixos.org-1:qk8pKVJDNPx2YbXIVuKev++RsF2Bfz6kja3V68tdRcRL7ixWNW8qJiSGaaSb/sIhKechiiVkLZFNQ7Vu5f4XAg==
