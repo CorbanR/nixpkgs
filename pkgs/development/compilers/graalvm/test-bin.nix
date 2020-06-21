@@ -1,6 +1,6 @@
 { pkgs ? import <nixpkgs> {}
 , javaVersion ? "11"
-, graalvmVersion ? "20.0.0" }:
+, graalvmVersion ? "20.1.0" }:
 
 let
   graalvm-ce = pkgs.callPackage ./graalvm-ce-bin.nix {inherit javaVersion graalvmVersion;};
