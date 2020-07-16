@@ -18,7 +18,7 @@ in mkShell rec {
 
   buildInputs = [
     nodejs
-    cloudflare-wrangler
+    wrangler
   ] ++ nodePkgs ++ stdenv.lib.optional stdenv.isDarwin darwin_packages;
 
   shellHook = ''
