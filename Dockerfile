@@ -1,6 +1,6 @@
 FROM ubuntu:bionic
 
-ARG NIX_VERSION=2.3.4
+ARG NIX_VERSION=2.3.7
 
 RUN apt-get update && apt-get install -qqy curl vim-tiny xz-utils \
       tar gzip ca-certificates sudo --no-install-recommends \

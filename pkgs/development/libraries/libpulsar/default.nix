@@ -1,8 +1,8 @@
 { stdenv
 , pkgs
 , fetchurl
-, version ? "2.5.2"
-, sha256 ? "0bvksi52r07sx77gw3zvjizr0pnw06qng25sh9p0jcv875mfq0rr"
+, version ? "2.6.0"
+, sha256 ? "70013be17c00cbefecb70962c4f0484a8b4421495b9a9a2ded65cbb19716ef94"
 , boost17x
 , clang
 , llvmPackages
@@ -49,11 +49,6 @@ in
     "-DBUILD_TESTS=OFF"
     "-DBUILD_PYTHON_WRAPPER=OFF"
     "-DClangTools_PATH=${clang-tools}/bin"
-    "-DUSE_LOG4CXX=ON"
-    #"-DBoost_INCLUDE_DIRS=${boost17x}/include"
-    #"-DLINK_STATIC=ON"
-    #"-DProtobuf_INCLUDE_DIR=${protobuf}/include"
-    #"-DProtobuf_LIBRARIES=${protobuf}/lib/libprotobuf.dylib"
   ];
 
   enableParallelBuilding = true;

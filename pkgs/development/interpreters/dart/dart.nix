@@ -22,13 +22,13 @@ let
       url = "${base}/${stable_version}/release/${version}/sdk/dartsdk-macos-${x86_64}-release.zip";
       sha256 = "0f576e249e22f61301d46a5bde267f08a330a1ad0954be348a10e44e43bdd94c";
     };
-    "2.9.0-8.2.beta-x86_64-darwin" = fetchurl {
+    "2.9.0-21.4.beta-x86_64-darwin" = fetchurl {
       url = "${base}/${beta_version}/release/${version}/sdk/dartsdk-macos-${x86_64}-release.zip";
-      sha256 = "aea422e0104c65657103e23baa0b6ffdd2883c05e48eccfcf5aab605ffb8c02c";
+      sha256 = "6e56da254c170027819f508f1965599a78d226a7b5e9bcff1b2c5e179989afa9";
     };
-    "2.9.0-13.0.dev-x86_64-darwin" = fetchurl {
+    "2.9.0-21.0.dev-x86_64-darwin" = fetchurl {
       url = "${base}/${dev_version}/release/${version}/sdk/dartsdk-macos-${x86_64}-release.zip";
-      sha256 = "0467ffeb06503f794e5d55a7bfdb52c831e483d03ba41758c16eccda5f2a0289";
+      sha256 = "e9cee3b56bc95e8a48047348216c6a143f888a14c65d7d1b6cb11768bc2fc0d5";
     };
   };
 

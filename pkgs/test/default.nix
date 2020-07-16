@@ -16,6 +16,7 @@ let
     hello = callPackage ./hello/test.nix {};
     libpulsar = callPackage ../development/libraries/libpulsar {}; # See installCheckPhase
     muss = callPackage ../applications/virtualization/muss/test.nix {};
+    muss-dev = callPackage ../applications/virtualization/muss/test-dev.nix {};
     nodejs-8_x = callPackage ../development/web/nodejs-8_x/test.nix {};
     rapture = callPackage ../tools/security/rapture/test.nix {};
     vaulted = callPackage ../tools/security/vaulted/test.nix {};
