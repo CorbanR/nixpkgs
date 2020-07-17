@@ -1,0 +1,10 @@
+StorePath: /nix/store/sqkv1lnmkn3vfi4ls1sm1hm5nyzmm728-gnutls-3.6.14
+URL: nar/1y9w3ypaqzvp3ccfkwpxm8zk58349sy6iy28gv2d61h2lq6569k0.nar.xz
+Compression: xz
+FileHash: sha256:1y9w3ypaqzvp3ccfkwpxm8zk58349sy6iy28gv2d61h2lq6569k0
+FileSize: 704772
+NarHash: sha256:0ra0nam521qwy4qsdcrbanjvm9023gs73kxqvb7my57fwfxh8g1g
+NarSize: 2331240
+References: 37rmzhb41jlb7jbn2bcqm3ls894b21dn-unbound-1.10.1-lib 5fhbfyjshrd108piq7vj4asw1psnmqsl-swift-corefoundation 9ys9yn3c27pmp75v62jhbxy465a5zwmf-p11-kit-0.23.20 czjfycv1xa5xc91gamd33m9cm78a6ars-nettle-3.6 irbnf14qy25pmjq6sj3a9rbhqd06mv4l-libunistring-0.9.10 j6zmzpiskk8lbfq5vrm80a1sm52n834v-libtasn1-4.16.0 p29k4yb0zd0af7bf3cp7vr6rqmhxhlvq-gmp-6.2.0 ph994by7ljdy8pqxi65hf1igg31i3yia-libc++-7.1.0 sp5x2g976rxdz33mfczb0if6apnslphq-libiconv-osx-10.12.6 sqkv1lnmkn3vfi4ls1sm1hm5nyzmm728-gnutls-3.6.14 w0w8vpqk6pssygnxjpmlby4r5s6rv306-gettext-0.20.1 z4f1bq363m0ydmbyncfi2srij8vlsx32-Libsystem-osx-10.12.6 z4hpjc3h7hwkskfc247na71jz33wjc34-dns-root-data-2019-01-11
+Deriver: 8bpzf0glwcv1rjaac2afanp962vgnwvx-gnutls-3.6.14.drv
+Sig: cache.nixos.org-1:bKSBb/rPc0ucOKNJa5jtESKySDuw6r2huKi5YD6IB5ulWM7qNPiYAw8DSQ/v3Cj/Xc3KbrjMXgh1QG5VmA8aBg==

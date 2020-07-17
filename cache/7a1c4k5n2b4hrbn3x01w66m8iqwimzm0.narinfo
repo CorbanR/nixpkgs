@@ -1,0 +1,10 @@
+StorePath: /nix/store/7a1c4k5n2b4hrbn3x01w66m8iqwimzm0-vaulted-3.0.0
+URL: nar/01x6yz2r8l196hnhfvpdwmbrfk74r7gphawfxn17m0a1za6f9z38.nar.xz
+Compression: xz
+FileHash: sha256:01x6yz2r8l196hnhfvpdwmbrfk74r7gphawfxn17m0a1za6f9z38
+FileSize: 7166648
+NarHash: sha256:11m6srn3qvc4v0irxcf55xjwrd7w5hb7s3vlrx0yng3cvxbswgrf
+NarSize: 19666832
+References: i44v58wzc2sijqmj29k3d9638nd71b5v-iana-etc-20200407 r2wvgnr54vmwnjvzyqdixv8xbn362jgh-mailcap-2.1.48 z4f1bq363m0ydmbyncfi2srij8vlsx32-Libsystem-osx-10.12.6
+Deriver: x0b4vk56hgb56nbv5piy20iqagqgaaif-vaulted-3.0.0.drv
+Sig: nixpkgs.raunco.co:eN9VsCPWeeXfXjkLHFFbgixqGQ/Nx0pP/tbO96oaewjCvNeFGJEtkmxeGdWNwd9u0jsJSfgOkvcbkZOjPL0bDQ==

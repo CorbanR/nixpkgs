@@ -1,0 +1,10 @@
+StorePath: /nix/store/kqkm4y5s4zhmk7avkwhdyxc0z6hxznhn-xmlsec-1.2.28
+URL: nar/0sv6fvpzcb761588hn5v8g526riwz6lpfrcagpfhw6mvbb6sglnn.nar.xz
+Compression: xz
+FileHash: sha256:0sv6fvpzcb761588hn5v8g526riwz6lpfrcagpfhw6mvbb6sglnn
+FileSize: 598920
+NarHash: sha256:1kpsrpjv3amd66dv7827lwmh8lxjdsm6xhwnc6nnaqycvmw878kg
+NarSize: 4465600
+References: 1jk9mzl7qmndkl76rif0110w33c30nc5-libgpg-error-1.38 5fhbfyjshrd108piq7vj4asw1psnmqsl-swift-corefoundation br9cp327ya59x0lai9knrjqw5gyiyc30-nspr-4.25 bywabag1q4jnx0wkvyyjyrdnym3la0dq-libgcrypt-1.8.5 h4m36cbr3gp6xwi4abwl1fhhw8v0rs08-libxslt-1.1.34 knd85yc7iwli8344ghav3zli8d9gril0-bash-4.4-p23 kqkm4y5s4zhmk7avkwhdyxc0z6hxznhn-xmlsec-1.2.28 plb9gx4zjd3llwq6qwbpw7wd03hzgn0k-libxml2-2.9.10 sqkv1lnmkn3vfi4ls1sm1hm5nyzmm728-gnutls-3.6.14 xb8y1ip2r0zgvi1ahm2n8yjbr2pcra74-openssl-1.1.1g y48hifdpacxv7s9hvkrza4i9af93q5hm-nss-3.52.1 z4f1bq363m0ydmbyncfi2srij8vlsx32-Libsystem-osx-10.12.6
+Deriver: 0ahjs8k6jcpnl73hkfdjhibjzrdszwxd-xmlsec-1.2.28.drv
+Sig: nixpkgs.raunco.co:driVmn2OkFGZVTEdRhMvIxkb81t3wU6GtPg4dSSHZlYDxZegMb1oTpdQ5QyB3KmIDV0Z0E3mFxE9TxuRiMKADA==

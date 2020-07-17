@@ -1,0 +1,10 @@
+StorePath: /nix/store/j4ksd6par8d2b1jjyridv40wig8z6szx-libpulsar-2.6.0
+URL: nar/0x1sxcgnmns3hx9p8p90dprkp3dv62230vv3a3d1wm4rng875zvi.nar.xz
+Compression: xz
+FileHash: sha256:0x1sxcgnmns3hx9p8p90dprkp3dv62230vv3a3d1wm4rng875zvi
+FileSize: 2483764
+NarHash: sha256:01rcg76aazxyabyk9fzbsb6xxyrw7zz91x0kdc0f8xsdxcjjrcsa
+NarSize: 21653440
+References: 1j1qsdmgyx96njcbrz6il74npx58z636-boost-1.72.0 35q938v1xv31c9ph8p4vqcf81rff0q89-zstd-1.4.5 5fhbfyjshrd108piq7vj4asw1psnmqsl-swift-corefoundation acsjaw04hrf4rv8gizai7gx1ibq92ksa-zlib-1.2.11 c9yl96aflys50davh6s9s7qhjm6sprsn-curl-7.71.0 j4ksd6par8d2b1jjyridv40wig8z6szx-libpulsar-2.6.0 j5wqd7d9fm9snq5lmw402ph42gwhmni5-protobuf-3.8.0 padqf6qpn88a5mkkhi8drm718x89cfks-snappy-1.1.8 ph994by7ljdy8pqxi65hf1igg31i3yia-libc++-7.1.0 xb8y1ip2r0zgvi1ahm2n8yjbr2pcra74-openssl-1.1.1g z4f1bq363m0ydmbyncfi2srij8vlsx32-Libsystem-osx-10.12.6
+Deriver: 1jybf4vja1kqn0630cn2llj2zd72l8sg-libpulsar-2.6.0.drv
+Sig: nixpkgs.raunco.co:2pEGJtb0OzFWU0R/Lm2658VBPo+HkdgOiC43GyicxPwP/RAFeo7x6MKapqC4bVKfi4xtCsd4j/217KHvd7S5Ag==
