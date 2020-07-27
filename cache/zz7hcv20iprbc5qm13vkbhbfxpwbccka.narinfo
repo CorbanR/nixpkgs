@@ -1,0 +1,10 @@
+StorePath: /nix/store/zz7hcv20iprbc5qm13vkbhbfxpwbccka-libyaml-0.2.5
+URL: nar/04i43iav8f1h0pdi8v0ifnvmfn0ngvqsnlx3pc5iwlncp1hsgiap.nar.xz
+Compression: xz
+FileHash: sha256:04i43iav8f1h0pdi8v0ifnvmfn0ngvqsnlx3pc5iwlncp1hsgiap
+FileSize: 56296
+NarHash: sha256:1g7y8jwmy40d7id7ygc3xfwdg8sp6z9szpsq3vqaa0byzshafl9j
+NarSize: 205256
+References: 7p1v1b6ys9fydg5kdqvr5mpr8svhwf4p-glibc-2.31 zz7hcv20iprbc5qm13vkbhbfxpwbccka-libyaml-0.2.5
+Deriver: 7l0kgpa0xhdqlgj4lbma27sc6wnymryd-libyaml-0.2.5.drv
+Sig: cache.nixos.org-1:9aBHlEcbDTCt5t3EsTfRI9FoHbHjLqFPe6rkZ+QLjhHkQkZ7eyY+aiFUM9wtGiANAKJsyJRa/CntN5F6svzUDg==

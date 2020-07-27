@@ -1,0 +1,10 @@
+StorePath: /nix/store/lxscprclln1fgphkwz5xrzdgjkpp5f23-gettext-0.20.1
+URL: nar/0177n6whlfgs41a29s9b269c2ynj5ybjs9sj8ak9x4pbr43ccv7l.nar.xz
+Compression: xz
+FileHash: sha256:0177n6whlfgs41a29s9b269c2ynj5ybjs9sj8ak9x4pbr43ccv7l
+FileSize: 1964868
+NarHash: sha256:1fzxk5nc9yps6v546xphy2lnn167frhxggzdk2ijxpnyfixrgsjr
+NarSize: 8406096
+References: jazx3md1cfgc542mf19wnykjc3lsmb9l-Libsystem-osx-10.12.6 ldiv7140gwyij8db6wp0h0pgc3vnk2yv-libc++-7.1.0 lpqq5knklpr4v7s7nf2lzx6jx6615q6y-bash-4.4-p23 lxscprclln1fgphkwz5xrzdgjkpp5f23-gettext-0.20.1 q9shf44izj44mi19jq68gcrni32s619c-libiconv-osx-10.12.6
+Deriver: 982vm6kfwy4drs9z2i8r68b70mal1dgg-gettext-0.20.1.drv
+Sig: cache.nixos.org-1:zvDHp5Q2zL3HJBQ4Nr81gOaaH0+IXeyVaalsWpTxRdY8IYkb9qEWPrXXWnzO5zIQHVXHxuUnDVkrZo99cxYhBw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/8xxv1il4q76940xrcznlgcfs0mxrbpnn-keyutils-1.6.1-lib
+URL: nar/0g612lgpbnh07kxvm651ix546a3rv64vg3wp0k7b5hc9cqid7vfa.nar.xz
+Compression: xz
+FileHash: sha256:0g612lgpbnh07kxvm651ix546a3rv64vg3wp0k7b5hc9cqid7vfa
+FileSize: 7920
+NarHash: sha256:0jjfbm06199azs1qza3y9i0hpi014wjf03np5iqixwh5r8jkahly
+NarSize: 42872
+References: 7p1v1b6ys9fydg5kdqvr5mpr8svhwf4p-glibc-2.31
+Deriver: kvgzr5w0k980iga0z5hbfim19wpx3yml-keyutils-1.6.1.drv
+Sig: cache.nixos.org-1:LCnTnMfHCUudrkchl91GQ7KElqd89Gw9u6q4X/ec6uslTHLs37aQC35xHskoZlKnMWuGuvYDoLcqP+8pml7hBQ==

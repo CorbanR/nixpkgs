@@ -1,0 +1,10 @@
+StorePath: /nix/store/ldiv7140gwyij8db6wp0h0pgc3vnk2yv-libc++-7.1.0
+URL: nar/0ifnl6s4fldi8736kjb9hdh1xwigrx3pcra5i738rbc4a9400zmn.nar.xz
+Compression: xz
+FileHash: sha256:0ifnl6s4fldi8736kjb9hdh1xwigrx3pcra5i738rbc4a9400zmn
+FileSize: 704240
+NarHash: sha256:19hapv0qr2ljiwsw76hklk2fy52kyiz10dp2i6bw2m8699mdcszn
+NarSize: 6941416
+References: 9kwkf4m4m8f7j7kni1dqzvkviap6ghpx-libc++abi-7.1.0 jazx3md1cfgc542mf19wnykjc3lsmb9l-Libsystem-osx-10.12.6 ldiv7140gwyij8db6wp0h0pgc3vnk2yv-libc++-7.1.0
+Deriver: wjs7lsws8i9l0arbgblcfig0182vagnn-libc++-7.1.0.drv
+Sig: cache.nixos.org-1:inbCs+c8LGcjCzKfyaaWY7WDeZtm13dJ5FWlPKk/2QXWDvTWiL/5MvFvy7lEs9KPEZ6fVb0tAxVyK2SwBESODg==

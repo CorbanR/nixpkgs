@@ -1,0 +1,10 @@
+StorePath: /nix/store/np0si1g2c6g6jifaipwygix02d7biksa-snappy-1.1.8
+URL: nar/064nlgdm32qsmwv83y5hqlg7mw0m6xfbfa5zk26yaqrz3a58bzla.nar.xz
+Compression: xz
+FileHash: sha256:064nlgdm32qsmwv83y5hqlg7mw0m6xfbfa5zk26yaqrz3a58bzla
+FileSize: 12252
+NarHash: sha256:15z8rcwrjw38l3f7rixzcd505hsm48qlghxjqmjzq6rxarmq20z9
+NarSize: 39296
+References: jazx3md1cfgc542mf19wnykjc3lsmb9l-Libsystem-osx-10.12.6 ldiv7140gwyij8db6wp0h0pgc3vnk2yv-libc++-7.1.0 np0si1g2c6g6jifaipwygix02d7biksa-snappy-1.1.8 xl1dh8rjgj4xj77zrqzjg846qlx9b26y-swift-corefoundation
+Deriver: 8gspsrisbysxq23ky36ai90fzh5w4ls8-snappy-1.1.8.drv
+Sig: cache.nixos.org-1:HJePOaLCSvz3fSwGIuXvJL9RH96lXa/AWLS19XOM6gqydJ5P9H4r+lFJF+kmDttkLK3duYy40hNVqjgLxnsIAw==

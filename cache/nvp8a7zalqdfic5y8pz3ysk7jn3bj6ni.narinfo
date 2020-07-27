@@ -1,0 +1,10 @@
+StorePath: /nix/store/nvp8a7zalqdfic5y8pz3ysk7jn3bj6ni-protobuf-3.8.0
+URL: nar/1whrfg7y0bly2fv1966h0da4dgvlvqr5ff4zi170pydy03xzav8q.nar.xz
+Compression: xz
+FileHash: sha256:1whrfg7y0bly2fv1966h0da4dgvlvqr5ff4zi170pydy03xzav8q
+FileSize: 2258072
+NarHash: sha256:03a713v5j86cc5kqa5sgg3kq40fc7qgfdckj4dqklc8s7lhi1rma
+NarSize: 18680064
+References: hz9limf8b7hkr0isif2ncx777bjb97l1-clang-wrapper-7.1.0 jazx3md1cfgc542mf19wnykjc3lsmb9l-Libsystem-osx-10.12.6 ldiv7140gwyij8db6wp0h0pgc3vnk2yv-libc++-7.1.0 nvp8a7zalqdfic5y8pz3ysk7jn3bj6ni-protobuf-3.8.0 smbchfhj343g1i1qsi5y3gnq1ggcwwrp-zlib-1.2.11 xl1dh8rjgj4xj77zrqzjg846qlx9b26y-swift-corefoundation
+Deriver: d2zmw5czzka4rib4xr3vxjfcrhnxjs7y-protobuf-3.8.0.drv
+Sig: cache.nixos.org-1:BVQFxt4q7MGo8lqe3AbkEYvhuA9HZA7GC4sR3DCFEm+a0eFcKFZ0g4iTs7FdI2Ig4GMjG70k2s2XGrB8aSVjCg==

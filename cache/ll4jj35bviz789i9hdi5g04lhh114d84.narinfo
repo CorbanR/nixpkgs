@@ -1,0 +1,10 @@
+StorePath: /nix/store/ll4jj35bviz789i9hdi5g04lhh114d84-unbound-1.10.1-lib
+URL: nar/1nm9gi5l7yymk88s27lbxjf9mhbrvm5yl98mws3gi6igzjp1mw2i.nar.xz
+Compression: xz
+FileHash: sha256:1nm9gi5l7yymk88s27lbxjf9mhbrvm5yl98mws3gi6igzjp1mw2i
+FileSize: 316712
+NarHash: sha256:1vz9lsizm04pr83zck668d5xygifr0k8rxml3ysvhkcdlkd1h4ls
+NarSize: 848704
+References: 6qfix6jbb3adxpdzyn2nh0nv8vn41ysc-openssl-1.1.1g 9ryyw8943zcrz5h4hd2hsg9cynvv4bls-libevent-2.1.12 jazx3md1cfgc542mf19wnykjc3lsmb9l-Libsystem-osx-10.12.6 ll4jj35bviz789i9hdi5g04lhh114d84-unbound-1.10.1-lib xl1dh8rjgj4xj77zrqzjg846qlx9b26y-swift-corefoundation
+Deriver: jx95vgz5wfhdgp464jkprzapfppjswsp-unbound-1.10.1.drv
+Sig: cache.nixos.org-1:BOQg5d0ZBKl6IcXFoi4vq48SqndryJytzekMHaVpK9KanFJMnhhPer9tK9A3a3OS4RAVIpWTShKuxUSsui0UDA==

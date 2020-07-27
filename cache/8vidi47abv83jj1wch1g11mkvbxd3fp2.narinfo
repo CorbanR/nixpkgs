@@ -1,0 +1,10 @@
+StorePath: /nix/store/8vidi47abv83jj1wch1g11mkvbxd3fp2-zstd-1.4.5
+URL: nar/0153096h101djl4s1s654wcgsxrr34gs4602jpj728r8zmvi28wx.nar.xz
+Compression: xz
+FileHash: sha256:0153096h101djl4s1s654wcgsxrr34gs4602jpj728r8zmvi28wx
+FileSize: 257600
+NarHash: sha256:1ha3m2ffysbfzzgwg5b55rgap924nznd4c38k9xm68i299yc9hv1
+NarSize: 773168
+References: 7p1v1b6ys9fydg5kdqvr5mpr8svhwf4p-glibc-2.31
+Deriver: n0q5xg4qydksky6mxir5l60w292z5nvl-zstd-1.4.5.drv
+Sig: cache.nixos.org-1:cDBgXQYhFr8kjblERO68QjYH1qqoTKguspYDAgU9JIQYX2nsPfzA7Dj4mXfAiTAuewPX9H7+k4lJREe0aiotBQ==

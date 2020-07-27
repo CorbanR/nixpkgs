@@ -1,0 +1,10 @@
+StorePath: /nix/store/cdrar8mmp2maq9ydqplaivz27vdsm95s-openssl-1.1.1g
+URL: nar/1h19d3l16kgcldvzzk2fa2n5lmr94w2wfblv5v35iissfs5jif7w.nar.xz
+Compression: xz
+FileHash: sha256:1h19d3l16kgcldvzzk2fa2n5lmr94w2wfblv5v35iissfs5jif7w
+FileSize: 1200412
+NarHash: sha256:055mnrxnrz6lhd8rgbiz6hvd7jk187wfmi2iv7wamqp0c7mwj34b
+NarSize: 3182520
+References: cdrar8mmp2maq9ydqplaivz27vdsm95s-openssl-1.1.1g jazx3md1cfgc542mf19wnykjc3lsmb9l-Libsystem-osx-10.12.6
+Deriver: 3nyf5x83gnv3ba585g4szj5dr44wbrdx-openssl-1.1.1g.drv
+Sig: cache.nixos.org-1:OkSaw0LwfsDCabE+xysLlF81K9btZfoaom80nGW+t9LpPg2tzA8Q57TaeGKEdrxRZ8fqmN+yaLXW86UsKyzGAA==

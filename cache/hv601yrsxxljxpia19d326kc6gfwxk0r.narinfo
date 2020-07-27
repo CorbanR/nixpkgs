@@ -1,0 +1,10 @@
+StorePath: /nix/store/hv601yrsxxljxpia19d326kc6gfwxk0r-llvm-7.1.0
+URL: nar/070mrknprz38fjjqrc9bnh8vj54pv62rd6jhxmhpq6jx0xwshqgm.nar.xz
+Compression: xz
+FileHash: sha256:070mrknprz38fjjqrc9bnh8vj54pv62rd6jhxmhpq6jx0xwshqgm
+FileSize: 21631148
+NarHash: sha256:1xh0cykgyrjhmcsxfarjlcn9p2d3cqv1imsijvfrcbzmdh3h7gic
+NarSize: 133495296
+References: 4d3v3zz1f546314cvhxq97crcgfy73iw-llvm-7.1.0-lib dy43620sq9g2g0z76nv3da0ybihsv4yc-ncurses-6.2 fc2d4bzpkwgyyqa2a7m4lygddg8wm4sk-libffi-3.3 jazx3md1cfgc542mf19wnykjc3lsmb9l-Libsystem-osx-10.12.6 ldiv7140gwyij8db6wp0h0pgc3vnk2yv-libc++-7.1.0 mwaqhww5c7hqiqz8wib49a40723y8hqm-zlib-1.2.11-dev n0s8h250d3db0pfpx92ppvra8s0grl18-ncurses-6.2-dev smbchfhj343g1i1qsi5y3gnq1ggcwwrp-zlib-1.2.11
+Deriver: rs71xqxghsmxrha3bm57a9pxx3qny868-llvm-7.1.0.drv
+Sig: cache.nixos.org-1:WRvr18nu6bcTF82PNjbNoQaZm0/aVhRHMYpb7sG4M6CeHWr1g5yLAeK9pZJVeiJ/Q+6Mdp4R+qOqjT0/CfwsDw==

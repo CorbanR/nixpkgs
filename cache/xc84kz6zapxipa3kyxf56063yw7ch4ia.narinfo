@@ -1,0 +1,10 @@
+StorePath: /nix/store/xc84kz6zapxipa3kyxf56063yw7ch4ia-protobuf-3.8.0
+URL: nar/16vd38l7pmi7sgnlpqdqwa8p0w8xjwvmqvbpzrq2qhzgl973z36c.nar.xz
+Compression: xz
+FileHash: sha256:16vd38l7pmi7sgnlpqdqwa8p0w8xjwvmqvbpzrq2qhzgl973z36c
+FileSize: 2813444
+NarHash: sha256:0gynvphjhdwzk5ycljlpa9aj25fi12krk4w1dipra5sp9sp7a35p
+NarSize: 24946432
+References: 7k9qr9k34j695fc5ls6pld8vhq0cy45j-zlib-1.2.11 7p1v1b6ys9fydg5kdqvr5mpr8svhwf4p-glibc-2.31 rnx85wkx3fdrwmj5x1s4h31jqr50l8s1-gcc-9.3.0-lib xc84kz6zapxipa3kyxf56063yw7ch4ia-protobuf-3.8.0
+Deriver: 6ha77f8kx6kfs98wrnnfrqifk0fci5wy-protobuf-3.8.0.drv
+Sig: cache.nixos.org-1:dKr5KsKjpNo0StJF7tOgC1caNHkrSeiHoeyGLh9gDlu2OcUZSHX9/H9OeQ2AkPrBeRUevS/WKavaxOE+CfVADw==

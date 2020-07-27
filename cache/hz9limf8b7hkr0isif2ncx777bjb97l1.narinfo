@@ -1,0 +1,10 @@
+StorePath: /nix/store/hz9limf8b7hkr0isif2ncx777bjb97l1-clang-wrapper-7.1.0
+URL: nar/0n29xqx0ghfgv6j5053wngq8iz5fgdjjf31ji9fw3kjk2lx3gsc3.nar.xz
+Compression: xz
+FileHash: sha256:0n29xqx0ghfgv6j5053wngq8iz5fgdjjf31ji9fw3kjk2lx3gsc3
+FileSize: 7500
+NarHash: sha256:03m8fnzbsi5x8qll7xklmlm5bcbvi0l009gwrsk4283cfh6a1x3j
+NarSize: 43392
+References: 418rdv74x3506xrhryqm5wj2arf0x9cq-coreutils-8.31 55d9ac8n9glxrjghnvlgssy5c8x9hmca-compiler-rt-7.1.0-dev 5vfcs5xy7ajbsaczs8xhyxw29mwpsd8z-compiler-rt-7.1.0 7gqssa2v4swpfzmn07hsyjzywp7wf8zv-cctools-binutils-darwin-wrapper-927.0.2 9kwkf4m4m8f7j7kni1dqzvkviap6ghpx-libc++abi-7.1.0 9lhg46zfb4i3sl7faaknhfimh3pliwhw-gnugrep-3.4 f1ff1rvk09jy35712ab7yydklvkb3mk4-clang-7.1.0 fp6f4yrkl98z6652a6i1hqc7i7is5nv4-clang-7.1.0-lib hz9limf8b7hkr0isif2ncx777bjb97l1-clang-wrapper-7.1.0 ia1lsdnjd3faanq4wmaz8xn2plhnlvws-expand-response-params jazx3md1cfgc542mf19wnykjc3lsmb9l-Libsystem-osx-10.12.6 ldiv7140gwyij8db6wp0h0pgc3vnk2yv-libc++-7.1.0 lpqq5knklpr4v7s7nf2lzx6jx6615q6y-bash-4.4-p23
+Deriver: 0pxhbn8m7a79zlm4bqhlp5nbc64vr8w3-clang-wrapper-7.1.0.drv
+Sig: cache.nixos.org-1:lCZKdZTdCj0lN9jsq1mRHywDwE4ynUt2yypqWo9QewGD8qwvLK80xHMJ04RerfwbEOf4QmK80dh3QUhAyhVtAw==
