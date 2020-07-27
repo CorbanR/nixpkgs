@@ -14,7 +14,7 @@ on:
       - "cf-worker"
     inputs:
       deploy:
-        description: "Deploy or just run the tests"
+        description: "Deploy: [true, false]"
         required: true
         default: false
 
@@ -77,9 +77,10 @@ jobs:
       env:
         NIX_SECRET_KEY: ${{ secrets.NIX_SECRET_KEY }}
 
+      #v2.1.1
     - name: Upload artifacts
       if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
-      uses: actions/upload-artifact@97b7dace6c
+      uses: actions/upload-artifact@5f948bc1f0
       with:
         name: nix-cache-${{ matrix.os }}-${{ github.sha }}
         path: _output
@@ -100,14 +101,16 @@ jobs:
         sudo rm -rf "/usr/local/share/boost"
         sudo rm -rf "$AGENT_TOOLSDIRECTORY"
 
+      #v2.0.1
     - name: Download linux artifacts
-      uses: actions/download-artifact@1de1dea89c
+      uses: actions/download-artifact@1ac47ba4b6
       with:
         name: nix-cache-ubuntu-18.04-${{ github.sha }}
         path: nix-cache-ubuntu-18.04-${{ github.sha }}
 
+      #v2.0.1
     - name: Download mac artifacts
-      uses: actions/download-artifact@1de1dea89c
+      uses: actions/download-artifact@1ac47ba4b6
       with:
         name: nix-cache-macos-10.15-${{ github.sha }}
         path: nix-cache-macos-10.15-${{ github.sha }}
@@ -118,21 +121,22 @@ jobs:
         cp -r nix-cache-macos-10.15-${GITHUB_SHA}/. _output
         cp -r nix-cache-ubuntu-18.04-${GITHUB_SHA}/. _output
 
+      #v2.0.1
     #- name: Upload combined artifacts
-      #uses: actions/upload-artifact@v1
+      #uses: actions/upload-artifact@5f948bc1f0
       #with:
-        #name: nix-cache-combined-${{ github.sha }}
+        #name: nix-combined-${{ github.sha }}
         #path: _output
 
-      #v0.2.0
+      #v0.4.0
     - name: Install SSH Client 🔑
-      uses: webfactory/ssh-agent@4fcb25e7ef
+      uses: webfactory/ssh-agent@ef0ce0cab8
       with:
         ssh-private-key: ${{ secrets.DEPLOY_SSH_KEY }}
 
-      #v3
+      #v3.5.9
     - name: Deploy pages
-      uses: JamesIves/github-pages-deploy-action@dcb66bba22
+      uses: JamesIves/github-pages-deploy-action@5406604520
       with:
         SSH: true
         BRANCH: gh-pages
