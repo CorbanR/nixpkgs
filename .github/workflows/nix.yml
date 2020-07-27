@@ -8,8 +8,16 @@ on:
     branches-ignore:
       - "gh-pages"
       - "cf-worker"
+  workflow_dispatch:
+    branches-ignore:
+      - "gh-pages"
+      - "cf-worker"
+    inputs:
+      deploy:
+        description: "Deploy or just run the tests"
+        required: true
+        default: false
 
-# See nix.yml.bak for how I would like this to work..
 jobs:
   tests-and-build:
     runs-on: ${{ matrix.os }}
@@ -35,7 +43,7 @@ jobs:
       # The below steps should be in a sepearate job, but cannot get cache plugin working on /nix/store
       # see nix.yml.bak
     - name: Create output path
-      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+      if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
       run: mkdir -p _output/cache
 
       # We only need to do this particular step once
@@ -50,15 +58,15 @@ jobs:
         printf 'https://nixpkgs.raunco.co/cache' > "_output/binary-cache-url"
 
     - name: Build the packages
-      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+      if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
       run: nix-build --max-jobs 2 --cores 2
 
     - name: optimize nix-store to reduce size
-      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+      if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
       run: nix-store --optimise
 
     - name: Sign the packages
-      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+      if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
       run: |
         export NIX_SECRET_KEY_FILE="$PWD/nix-cache-priv-key.pem"
         echo "$NIX_SECRET_KEY" > "$NIX_SECRET_KEY_FILE"
@@ -70,7 +78,7 @@ jobs:
         NIX_SECRET_KEY: ${{ secrets.NIX_SECRET_KEY }}
 
     - name: Upload artifacts
-      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+      if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
       uses: actions/upload-artifact@97b7dace6c
       with:
         name: nix-cache-${{ matrix.os }}-${{ github.sha }}
@@ -78,7 +86,7 @@ jobs:
 
   deploy:
     needs: "tests-and-build"
-    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
     runs-on: ubuntu-18.04
     steps:
       # v2.3.1
@@ -134,7 +142,7 @@ jobs:
 
   test-channel:
     needs: "deploy"
-    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
