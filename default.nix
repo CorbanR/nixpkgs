@@ -23,6 +23,7 @@ let
     muss-dev = callPackage ./pkgs/applications/virtualization/muss/dev.nix {};
     nodejs-8_x = callPackage ./pkgs/development/web/nodejs-8_x {};
     rapture = callPackage ./pkgs/tools/security/rapture {};
+    truss-cli = callPackage ./pkgs/applications/virtualization/truss-cli {};
     vaulted = vaulted-wrapped;
     vaulted-unwrapped = callPackage ./pkgs/tools/security/vaulted { enableWrapper = false; };
     vaulted-wrapped = callPackage ./pkgs/tools/security/vaulted { enableWrapper = true; };

@@ -1,22 +1,22 @@
-name: "Nixpkgs"
+name: 'Nixpkgs'
 on:
   pull_request:
     branches-ignore:
-      - "gh-pages"
-      - "cf-worker"
+      - 'gh-pages'
+      - 'cf-worker'
   push:
     branches-ignore:
-      - "gh-pages"
-      - "cf-worker"
+      - 'gh-pages'
+      - 'cf-worker'
   workflow_dispatch:
     branches-ignore:
-      - "gh-pages"
-      - "cf-worker"
+      - 'gh-pages'
+      - 'cf-worker'
     inputs:
       deploy:
-        description: "Deploy: [true, false]"
+        description: 'Deploy: [true, false]'
         required: true
-        default: false
+        default: 'false'
 
 jobs:
   tests-and-build:
@@ -43,7 +43,7 @@ jobs:
       # The below steps should be in a sepearate job, but cannot get cache plugin working on /nix/store
       # see nix.yml.bak
     - name: Create output path
-      if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
+      if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
       run: mkdir -p _output/cache
 
       # We only need to do this particular step once
@@ -58,15 +58,15 @@ jobs:
         printf 'https://nixpkgs.raunco.co/cache' > "_output/binary-cache-url"
 
     - name: Build the packages
-      if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
+      if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
       run: nix-build --max-jobs 2 --cores 2
 
     - name: optimize nix-store to reduce size
-      if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
+      if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
       run: nix-store --optimise
 
     - name: Sign the packages
-      if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
+      if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
       run: |
         export NIX_SECRET_KEY_FILE="$PWD/nix-cache-priv-key.pem"
         echo "$NIX_SECRET_KEY" > "$NIX_SECRET_KEY_FILE"
@@ -79,7 +79,7 @@ jobs:
 
       #v2.1.1
     - name: Upload artifacts
-      if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
+      if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
       uses: actions/upload-artifact@5f948bc1f0
       with:
         name: nix-cache-${{ matrix.os }}-${{ github.sha }}
@@ -87,7 +87,7 @@ jobs:
 
   deploy:
     needs: "tests-and-build"
-    if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
+    if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
     runs-on: ubuntu-18.04
     steps:
       # v2.3.1
@@ -146,7 +146,7 @@ jobs:
 
   test-channel:
     needs: "deploy"
-    if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
+    if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
