@@ -48,7 +48,7 @@ jobs:
 
       # We only need to do this particular step once
     - name: Create channel archive
-      if: startsWith(matrix.os,'ubuntu') && success() && github.ref == 'refs/heads/master'
+      if: startsWith(matrix.os,'ubuntu') && (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
       run: |
         tar -cJf "_output/nixexprs.tar.xz" ./*.nix pkgs/ maintainers/ \
             --transform "s,^,${PWD##*/}/," \
