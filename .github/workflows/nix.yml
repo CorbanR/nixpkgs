@@ -25,8 +25,8 @@ jobs:
       matrix:
         os: [ubuntu-18.04, macos-10.15]
     steps:
-      # v2.3.1
-    - uses: actions/checkout@28c7f3d2b5
+      # v2.3.2
+    - uses: actions/checkout@2036a08e25
 
       # v10
     - uses: cachix/install-nix-action@63cf434de4
@@ -77,10 +77,10 @@ jobs:
       env:
         NIX_SECRET_KEY: ${{ secrets.NIX_SECRET_KEY }}
 
-      #v2.1.1
+      #v2.1.4
     - name: Upload artifacts
       if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
-      uses: actions/upload-artifact@5f948bc1f0
+      uses: actions/upload-artifact@58740802ef
       with:
         name: nix-cache-${{ matrix.os }}-${{ github.sha }}
         path: _output
@@ -90,8 +90,8 @@ jobs:
     if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
     runs-on: ubuntu-18.04
     steps:
-      # v2.3.1
-    - uses: actions/checkout@28c7f3d2b5
+      # v2.3.2
+    - uses: actions/checkout@2036a08e25
       with:
         persist-credentials: false
 
@@ -101,16 +101,16 @@ jobs:
         sudo rm -rf "/usr/local/share/boost"
         sudo rm -rf "$AGENT_TOOLSDIRECTORY"
 
-      #v2.0.1
+      #v2.0.5
     - name: Download linux artifacts
-      uses: actions/download-artifact@1ac47ba4b6
+      uses: actions/download-artifact@c3f5d00c87
       with:
         name: nix-cache-ubuntu-18.04-${{ github.sha }}
         path: nix-cache-ubuntu-18.04-${{ github.sha }}
 
-      #v2.0.1
+      #v2.0.5
     - name: Download mac artifacts
-      uses: actions/download-artifact@1ac47ba4b6
+      uses: actions/download-artifact@c3f5d00c87
       with:
         name: nix-cache-macos-10.15-${{ github.sha }}
         path: nix-cache-macos-10.15-${{ github.sha }}
@@ -121,9 +121,9 @@ jobs:
         cp -r nix-cache-macos-10.15-${GITHUB_SHA}/. _output
         cp -r nix-cache-ubuntu-18.04-${GITHUB_SHA}/. _output
 
-      #v2.0.1
+      #v2.1.4
     #- name: Upload combined artifacts
-      #uses: actions/upload-artifact@5f948bc1f0
+      #uses: actions/upload-artifact@58740802ef
       #with:
         #name: nix-combined-${{ github.sha }}
         #path: _output
@@ -152,8 +152,8 @@ jobs:
       matrix:
         os: [ubuntu-18.04, macos-10.15]
     steps:
-      # v2.3.1
-    - uses: actions/checkout@28c7f3d2b5
+      # v2.3.2
+    - uses: actions/checkout@2036a08e25
 
       # v10
     - uses: cachix/install-nix-action@63cf434de4
