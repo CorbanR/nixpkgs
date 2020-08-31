@@ -12,6 +12,7 @@ buildGoModule rec {
     sha256 = "0prnadwvbx5y4pjqiksa92djdmzws3995yl40638rp8zc3ivbasy";
   };
 
+  doCheck = false;
   vendorSha256 = "01p79qwrj2kqwkc7bpljrilpb4aglxfl7ksnmj8mscscpl8as13y";
 
   buildFlagsArray = ''
