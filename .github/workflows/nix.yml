@@ -118,8 +118,8 @@ jobs:
     - name: Combine cache files
       run: |
         mkdir -p _output
-        cp -r nix-cache-macos-10.15-${GITHUB_SHA}/. _output
-        cp -r nix-cache-ubuntu-18.04-${GITHUB_SHA}/. _output
+        mv nix-cache-macos-10.15-${GITHUB_SHA}/* _output/
+        mv nix-cache-ubuntu-18.04-${GITHUB_SHA}/* _output/
 
       #v2.1.4
     #- name: Upload combined artifacts
