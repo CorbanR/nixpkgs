@@ -11,6 +11,6 @@ in
     exit 1
     }
 
-    gh version | grep "" &> /dev/null || expected "Some output yo"
-    gh version > $out
+    gh --version | grep "" &> /dev/null || expected "Some output yo"
+    gh --version > $out
   ''
