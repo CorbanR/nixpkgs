@@ -13,6 +13,7 @@ let
   crossPlatformPackages = {
     _nyx = callPackage ../tools/system/nyx {}; # name conflics with another nix package hence _nyx; See installCheckPhase
     dart = callPackage ../development/interpreters/dart {}; # See installCheckPhase
+    github-cli = callPackage ../development/tools/gh/test.nix {};
     hello = callPackage ./hello/test.nix {};
     libpulsar = callPackage ../development/libraries/libpulsar {}; # See installCheckPhase
     muss = callPackage ../applications/virtualization/muss/test.nix {};
