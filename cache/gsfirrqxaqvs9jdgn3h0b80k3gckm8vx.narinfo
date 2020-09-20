@@ -1,0 +1,10 @@
+StorePath: /nix/store/gsfirrqxaqvs9jdgn3h0b80k3gckm8vx-nyx-1.9.7
+URL: nar/0awxqaj3wdk96rvd3y995fkld65hs2pvrvl9isv4g4aaw50vzfwc.nar.xz
+Compression: xz
+FileHash: sha256:0awxqaj3wdk96rvd3y995fkld65hs2pvrvl9isv4g4aaw50vzfwc
+FileSize: 45224
+NarHash: sha256:1yj7w8irskaavnkfnmdzkbgjy22qbxd0kapgk7i4gjjqvhsk6svq
+NarSize: 124784
+References: hw4x6gakgd43f13zys92ng0hj0acisls-Libsystem-osx-10.12.6 rc7bjj6rq9hi3p3ylpxvcx5yv3qn0hfk-swift-corefoundation s3mllhxa4429an13c9r7fxlva8rl52wl-libyaml-0.2.5 whmwp70qvfhl4yf2vgrcxpld20h3nyxq-openssl-1.1.1g
+Deriver: rj4adbmbr11jwmgmbbr3mkrb7p1zyjlz-nyx-1.9.7.drv
+Sig: nixpkgs.raunco.co:OPAxPAT55GssiNkKewOj2raSm4ejOHzWJ1oXZCVZ211Ao5KC0V4cGScA1gA/zT3EGOaPzBPxw8A2p3q0+fVSAg==

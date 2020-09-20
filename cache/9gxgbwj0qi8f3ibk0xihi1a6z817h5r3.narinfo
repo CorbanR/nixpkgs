@@ -1,0 +1,9 @@
+StorePath: /nix/store/9gxgbwj0qi8f3ibk0xihi1a6z817h5r3-libgcrypt-1.8.6
+URL: nar/0nwcwdmyq1r2vradp90igxcichhw8j25cxv3pvlkknpwxm6pmh98.nar.xz
+Compression: xz
+FileHash: sha256:0nwcwdmyq1r2vradp90igxcichhw8j25cxv3pvlkknpwxm6pmh98
+FileSize: 369000
+NarHash: sha256:0hig0gmyri8ic3x9k1vdc44z9hnn73gzd39szr62wb40m2ish7vs
+NarSize: 911288
+References: 9gxgbwj0qi8f3ibk0xihi1a6z817h5r3-libgcrypt-1.8.6 fi8jdm3s01z32fs1vd3yflrrsh3v0z4d-libgpg-error-1.38 hw4x6gakgd43f13zys92ng0hj0acisls-Libsystem-osx-10.12.6 rc7bjj6rq9hi3p3ylpxvcx5yv3qn0hfk-swift-corefoundation vrxrz8fqi2cmv0z7kxfza2nycbbbkh1k-gettext-0.21
+Sig: cache.nixos.org-1:FA5GNCvkaXV7LcI7xHZOFCf/HQpkjQAylG10W40HRIeqkV7emJVndS454Bp4hFEufUmdn4IhbH1oL9Fj4R0TDw==
