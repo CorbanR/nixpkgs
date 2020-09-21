@@ -19,6 +19,7 @@ let
     _nyx = callPackage ./pkgs/tools/system/nyx {}; # name conflics with another nix package hence _nyx
     dart = callPackage ./pkgs/development/interpreters/dart {};
     github-cli = callPackage ./pkgs/development/tools/gh {};
+    goaccess = callPackage ./pkgs/tools/misc/goaccess {};
     libpulsar = callPackage ./pkgs/development/libraries/libpulsar {};
     muss = callPackage ./pkgs/applications/virtualization/muss {};
     muss-dev = callPackage ./pkgs/applications/virtualization/muss/dev.nix {};
