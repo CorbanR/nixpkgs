@@ -9,8 +9,8 @@ let
   # Packages that are darwin only for now
   darwinPlatformPackages = {
     dart_stable = callPackage ./pkgs/development/interpreters/dart {};
-    dart_beta = callPackage ./pkgs/development/interpreters/dart {version="2.9.0-21.4.beta";};
-    dart_dev = callPackage ./pkgs/development/interpreters/dart {version="2.9.0-21.0.dev";};
+    dart_beta = callPackage ./pkgs/development/interpreters/dart {version="2.10.0-110.5.beta";};
+    dart_dev = callPackage ./pkgs/development/interpreters/dart {version="2.10.0-110.0.dev";};
     graalvm11-ce-bin = callPackage ./pkgs/development/compilers/graalvm/graalvm-ce-bin.nix { javaVersion = "11"; };
     graalvm8-ce-bin = callPackage ./pkgs/development/compilers/graalvm/graalvm-ce-bin.nix { javaVersion = "8"; };
   };

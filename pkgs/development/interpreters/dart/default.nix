@@ -2,7 +2,7 @@
 ,callPackage
 ,fetchurl
 ,unzip
-,version ? (if stdenv.isDarwin then "2.8.4" else "") }:
+,version ? (if stdenv.isDarwin then "2.9.3" else "") }:
 
 # Upstream nix appears to only support linux.
 # So, if were on osx, use the custom derivation, otherwise use upstream
