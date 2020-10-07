@@ -1,0 +1,10 @@
+StorePath: /nix/store/mm8xvn87zccilji79l0j76yjwa3jwvvr-graalvm-ce-java8
+URL: nar/1zcmsh1v7ar9ay11092xcms3cm1kwqxzpip9gabjhz5x9s1lxqiz.nar.xz
+Compression: xz
+FileHash: sha256:1zcmsh1v7ar9ay11092xcms3cm1kwqxzpip9gabjhz5x9s1lxqiz
+FileSize: 294105832
+NarHash: sha256:0na2679x7268h0jhv5bi0ry0n3lrw9agmmn5rkzg29jspxx9a6m4
+NarSize: 1050857312
+References: mm8xvn87zccilji79l0j76yjwa3jwvvr-graalvm-ce-java8 smimdn17mp2ih6nfxwl78mswwdkmcm56-bash-4.4-p23 w24k006hvyygjpkjpzq5djkbfs43nn1n-hook y0i2ki3i32b2rfvmzaaq85k40k5lwqmc-zlib-1.2.11-dev
+Deriver: b16y8q2daqwip2rv1zrb4f1g100q9c64-graalvm-ce-java8.drv
+Sig: nixpkgs.raunco.co:hbs2jhnypmMS9PO3Q+qJbRYympev+6nqfmim3sFQ9Z7H0ZmAiD7in+q4OlcROAQq4wdltoCt4jA8ireuzjaIAg==

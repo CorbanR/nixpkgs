@@ -1,0 +1,9 @@
+StorePath: /nix/store/ds88kjj0ivviba20wbjib77zk2k68yy1-libssh2-1.9.0
+URL: nar/0v575nb5y7lnm2m61ykyzah8l5lx80s5knc4sjcmsa6gi67zyvyy.nar.xz
+Compression: xz
+FileHash: sha256:0v575nb5y7lnm2m61ykyzah8l5lx80s5knc4sjcmsa6gi67zyvyy
+FileSize: 100428
+NarHash: sha256:1hryl3433f1wgddv8pbbb6d053jcxv0bk2hhakw06xjgi8kmkh61
+NarSize: 290520
+References: 9df65igwjmf2wbw0gbrrgair6piqjgmi-glibc-2.31 9sfmwj09ij65qnc8dgv8h56gf12b60nn-zlib-1.2.11 aqafh2kgahm2hv3nkihmgnvsg7y4ihcj-openssl-1.1.1g ds88kjj0ivviba20wbjib77zk2k68yy1-libssh2-1.9.0
+Sig: cache.nixos.org-1:dqs9oCBl7gGWpgGs0gzOkjH9Omqq257Z8piEHiEW0C0NKZsjg7D86T6COZEcfqd2kFHm0eJG/T/aGmTezWB4Aw==

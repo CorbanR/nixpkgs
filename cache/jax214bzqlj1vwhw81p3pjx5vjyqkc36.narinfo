@@ -1,0 +1,9 @@
+StorePath: /nix/store/jax214bzqlj1vwhw81p3pjx5vjyqkc36-libgcrypt-1.8.6
+URL: nar/0bc8vvgfdrqm6gbbc141xidad8pqzay4vim4gyd0x88d5a8c9wgz.nar.xz
+Compression: xz
+FileHash: sha256:0bc8vvgfdrqm6gbbc141xidad8pqzay4vim4gyd0x88d5a8c9wgz
+FileSize: 404052
+NarHash: sha256:0j0x8m0j6k6z87i1hj8fz8r1wgna23m96mklh59bwlpaji9yia5b
+NarSize: 1261032
+References: 9df65igwjmf2wbw0gbrrgair6piqjgmi-glibc-2.31 iw11lnyjhmf1nl9x1jg94n0bz9gvrvfv-libgpg-error-1.38 jax214bzqlj1vwhw81p3pjx5vjyqkc36-libgcrypt-1.8.6
+Sig: cache.nixos.org-1:fYQxQOZs/cn0x41RX1vs1RHDbGAwTtVYBsWYAntDxVxyRPHIoiVKwwDqo+hZTXjTDN20BdCY2m1eGPb2O9lNAw==

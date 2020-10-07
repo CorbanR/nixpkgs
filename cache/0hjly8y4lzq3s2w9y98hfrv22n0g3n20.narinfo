@@ -1,0 +1,10 @@
+StorePath: /nix/store/0hjly8y4lzq3s2w9y98hfrv22n0g3n20-nodejs-8.17.0
+URL: nar/06rvmxc98g3zrcbnad2pnyap11ys2hxz0ic4aj7airzqdrgfy4c1.nar.xz
+Compression: xz
+FileHash: sha256:06rvmxc98g3zrcbnad2pnyap11ys2hxz0ic4aj7airzqdrgfy4c1
+FileSize: 9053040
+NarHash: sha256:02pyigkmbjwhkh9kcxb14yjv25pnvhppwjmk8xhvz7dpdx4h0808
+NarSize: 48456680
+References: 0hjly8y4lzq3s2w9y98hfrv22n0g3n20-nodejs-8.17.0 2jysm3dfsgby5sw5jgj43qjrb5v79ms9-bash-4.4-p23 3c9b59p36qq8g2dxaa70k6l1gy9cxr72-libuv-1.38.1 5r503z502ign3045p957svdajs574fny-python-2.7.18 60n3cmhrsbdmdrn3z1mbaazzajs3amrj-icu4c-67.1-dev 9df65igwjmf2wbw0gbrrgair6piqjgmi-glibc-2.31 9sfmwj09ij65qnc8dgv8h56gf12b60nn-zlib-1.2.11 aqafh2kgahm2hv3nkihmgnvsg7y4ihcj-openssl-1.1.1g dr20b66cz7xya8gwkqpv8yz53k55dy54-icu4c-67.1 lwcrmj44j6s5ww3j0ybar2jc7kf9ddzq-openssl-1.1.1g-dev qjyayk5hmlyfia7z81fg8ndhfvsh8410-http-parser-2.9.4 vran8acwir59772hj4vscr7zribvp7l5-gcc-9.3.0-lib yc2npbij60jxn3fvdys5pyvnjb1wasa6-zlib-1.2.11-dev
+Deriver: a94yjsh9dj0nny19l3509awj1sd4in3w-nodejs-8.17.0.drv
+Sig: nixpkgs.raunco.co:U8+1gA4j3S77Zl2v+RLGjS7cNb2KStTMgjjF9rLnN/p8QVkpDDcgBod2RvYr5dXmO3sPU3kGSFB3YAe56jj5Dg==
