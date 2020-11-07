@@ -1,0 +1,10 @@
+StorePath: /nix/store/w8qk5wpkcsx0s1ypr0ca5a10cdcjbxgn-nodejs-8.17.0
+URL: nar/0iqgr0dhkpq6kkyaqzjkwann048la8qly5i3lm2jna0rh8y1rw3m.nar.xz
+Compression: xz
+FileHash: sha256:0iqgr0dhkpq6kkyaqzjkwann048la8qly5i3lm2jna0rh8y1rw3m
+FileSize: 7886004
+NarHash: sha256:1bl35ah85fzsn3pjbnki1jvsxn3ijasnk2j0syqg4kriwq1r49mk
+NarSize: 44259904
+References: 13q9cw926r4qcwwyb9by3wghwghp6a7p-libuv-1.40.0 4115fabrf3hcccwa760057pqxvssmh13-openssl-1.1.1g 7dw65jc4r4vkaqizzcx1njyryi8vw7vm-zlib-1.2.11-dev 8i9kyqfxhk2s9dzx32x0sgdk7kyx9wjc-bash-4.4-p23 bid8wmf6fb5kg702ywnl7zjzh5158dnr-openssl-1.1.1g-dev bkbw8vp4g3fnkcsrw9ayfazk096rjd7n-zlib-1.2.11 dmy9q4cm6c9nzdar7nqgn06gvkgxsid1-icu4c-67.1-dev qbbl5g6l5kx3zwjmkbcwflrzfrk6by0g-Libsystem-osx-10.12.6 w8qk5wpkcsx0s1ypr0ca5a10cdcjbxgn-nodejs-8.17.0 wpq19c3ydw2zgqcaz1hban52nh4nizsd-libc++-7.1.0 x2r6z8m6h8aaq4g0sgkw8amfscdk1f6q-icu4c-67.1 ys6xv41f2lbi4mqnrp1b5v326545f6qc-python-2.7.18
+Deriver: d3dpzm005z4ib6cjd6zlhaxwhlaa88qw-nodejs-8.17.0.drv
+Sig: nixpkgs.raunco.co:hCzQDD0yVqSvvfbU86KkHD0M85KMKezB3Rn72R1BqqQD44Ft9kqEAPyeFAzEGCAtWNIW5tmpQquwqLbx3i1tBg==
