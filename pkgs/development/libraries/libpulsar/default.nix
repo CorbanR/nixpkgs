@@ -1,8 +1,8 @@
 { stdenv
 , pkgs
 , fetchurl
-, version ? "2.6.0"
-, sha256 ? "70013be17c00cbefecb70962c4f0484a8b4421495b9a9a2ded65cbb19716ef94"
+, version ? "2.6.1"
+, sha512 ? "0b09891b0af5cff4856564acaab6d93fdbd5425315b3eb27bc8ff4a519c1e18601f2d93ccc9f0e313ae76d61685422bcc6bea37a47e463e3270f9bba51cc7434"
 , boost17x
 , clang
 , llvmPackages
@@ -28,7 +28,7 @@ in
     inherit version;
 
     src = fetchurl {
-      inherit sha256;
+      inherit sha512;
       url = "https://archive.apache.org/dist/pulsar/pulsar-${version}/apache-pulsar-${version}-src.tar.gz";
     };
 

@@ -1,4 +1,4 @@
-{ stdenv, fetchurl, writeTextFile, unzip, version ? "2.9.3" }:
+{ stdenv, fetchurl, writeTextFile, unzip, version ? "2.10.3" }:
 
 let
   # Add a little helper script to start the dart language server
@@ -18,17 +18,17 @@ let
     x86_64 = "x64";
 
   in {
-    "2.9.3-x86_64-darwin" = fetchurl {
+    "2.10.3-x86_64-darwin" = fetchurl {
       url = "${base}/${stable_version}/release/${version}/sdk/dartsdk-macos-${x86_64}-release.zip";
-      sha256 = "f29ff9955b024bcf2aa6ffed6f8f66dc37a95be594496c9a2d695e67ac34b7ac";
+      sha256 = "ab1375fecf79ef592c6eedb6910e01c6b076ce5a5077f487d1cc665432b8ca36";
     };
-    "2.10.0-110.5.beta-x86_64-darwin" = fetchurl {
+    "2.11.0-213.5.beta-x86_64-darwin" = fetchurl {
       url = "${base}/${beta_version}/release/${version}/sdk/dartsdk-macos-${x86_64}-release.zip";
-      sha256 = "a80aed10942fda812646a8cf5bcc57ff62d55f2055994c91ade86bee905396fe";
+      sha256 = "ac424d362b27c7583a509064f4d241368c5e42202a8a42285f469e1c065645ef";
     };
-    "2.10.0-110.0.dev-x86_64-darwin" = fetchurl {
+    "2.12.0-13.0.dev-x86_64-darwin" = fetchurl {
       url = "${base}/${dev_version}/release/${version}/sdk/dartsdk-macos-${x86_64}-release.zip";
-      sha256 = "f9ee3241424aca8d76f366997dcabb8db889586e660940e84249bbb669794cb7";
+      sha256 = "a4cd33a2fd5630ad548d3941c5dcddced2b24e71833e051ddf20eb2d396dafd7";
     };
   };
 

@@ -1,6 +1,6 @@
 { fetchurl
 , javaVersion ? "11"
-, graalvmVersion ? "20.1.0" }:
+, graalvmVersion ? "20.2.0" }:
 
 let
   base = "https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-${graalvmVersion}";
@@ -10,37 +10,37 @@ in
       "11" = {
         graalvm = fetchurl {
           url = "${base}/graalvm-ce-java${javaVersion}-darwin-amd64-${graalvmVersion}.tar.gz";
-          sha256 = "04efcb7bdd2e94715d0f3fddcc754594da032887e6aec94a3701bd4774d1a92e";
+          sha256 = "e9df2caace6f90fcfbc623c184ef1bbb053de20eb4cf5b002d708c609340ba7a";
         };
         native-image = fetchurl {
           url = "${base}/native-image-installable-svm-java${javaVersion}-darwin-amd64-${graalvmVersion}.jar";
-          sha256 = "ebf81045af7408e0eddf879f3ccf0171377e219155bbbe78ed9182c2a290b346";
+          sha256 = "d60c321d6e680028f37954121eeebff0839a0a49a4436e5b41c636c3dd951de3";
         };
         llvm-toolchain = fetchurl {
           url = "${base}/llvm-toolchain-installable-java${javaVersion}-darwin-amd64-${graalvmVersion}.jar";
-          sha256 = "4480735148dc0621d1e764dfea5228d43a28859191cfbfe00d693619a4e30b08";
+          sha256 = "239804e1a37f754f191e039f28aa26437604749a6e3390086f65397e8435ea99";
         };
         wasm = fetchurl {
           url = "${base}/wasm-installable-svm-java${javaVersion}-darwin-amd64-${graalvmVersion}.jar";
-          sha256 = "31a04a9c976fd08c368129a3f727128f7eb33fb3d7faee14df86b453563a01cc";
+          sha256 = "f07182c354b137262d793a4558a7437f800c63fb189000e395081341926ebcfe";
         };
       };
       "8" = {
         graalvm = fetchurl {
           url = "${base}/graalvm-ce-java${javaVersion}-darwin-amd64-${graalvmVersion}.tar.gz";
-          sha256 = "3b9fd8ce84c9162a188fde88907c66990db22af0ff6ae2c04430113253a9a634";
+          sha256 = "a1f524788354cfd2434566f0de972372f4a7743919bae49a9d508f2080385e7b";
         };
         native-image = fetchurl {
           url = "${base}/native-image-installable-svm-java${javaVersion}-darwin-amd64-${graalvmVersion}.jar";
-          sha256 = "a8f975e276485d09d073b3534dcb955cb5e8740292e294cd7a1b4f83c6991e21";
+          sha256 = "4852abafe92e13cb6bf655bba4ba36721b93324ccc6777504f34c70094c583fb";
         };
         llvm-toolchain = fetchurl {
           url = "${base}/llvm-toolchain-installable-java${javaVersion}-darwin-amd64-${graalvmVersion}.jar";
-          sha256 = "b9935fccd50a4b6a1f9736201b199c47792b5f926971846869689e5aa1c4583b";
+          sha256 = "a0f91f97ffc736d4f3eb084ccf7c230ffb4749b1ce27a1bac3833ff15a01ba7b";
         };
         wasm = fetchurl {
           url = "${base}/wasm-installable-svm-java${javaVersion}-darwin-amd64-${graalvmVersion}.jar";
-          sha256 = "6f1fbe88dbe80dcb658119b692e34bcacefbf884bae18ab49e5d047da6c330b7";
+          sha256 = "75d9b0ec960804cfd196caaabeb0ca3f094a02aa621b54cd20d7523cd5fda3d5";
         };
       };
     };

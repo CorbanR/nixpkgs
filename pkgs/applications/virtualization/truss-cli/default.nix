@@ -2,18 +2,18 @@
 
 buildGoModule rec {
   pname = "truss-cli";
-  version = "0.1.0";
+  version = "0.2.1";
 
   src = fetchFromGitHub {
     owner = "instructure-bridge";
     repo = "truss-cli";
     rev = "v${version}";
-    sha256 = "02pgsrznkwhvi32gfnvwnys14inbbwgbv2mjh158pb6r57d31i1y";
+    sha256 = "0ydmhiz9wmbih8lp3cgvlacmh91fjfyij35w8c2x0wg61zygcw67";
   };
 
   doCheck = false;
 
-  vendorSha256 = "1rgf4lykl3ay04l1hgj8xys8w8s9wsv7ixbsgr45l4i6gr9ha7p1";
+  vendorSha256 = "07hcgf3kh6pd9gd11ixa493i77dmiawsnz4zjyby1wq0slnk0vxc";
 
   meta = with stdenv.lib; {
     homepage = "https://github.com/instructure-bridge/truss-cli";
