@@ -1,6 +1,6 @@
 { stdenv, fetchurl, setJavaClassPath, zlib
 , javaVersion ? "11"
-, graalvmVersion ? "20.2.0" }:
+, graalvmVersion ? "20.3.0" }:
 
 let
   sources = import ./sources-ce-bin.nix {

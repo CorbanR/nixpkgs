@@ -1,8 +1,8 @@
 { stdenv
 , pkgs
 , fetchurl
-, version ? "2.6.1"
-, sha512 ? "0b09891b0af5cff4856564acaab6d93fdbd5425315b3eb27bc8ff4a519c1e18601f2d93ccc9f0e313ae76d61685422bcc6bea37a47e463e3270f9bba51cc7434"
+, version ? "2.6.2"
+, sha512 ? "0c7qhhbn2rvgyh2fqqf78ddryy4fvy93hsav0rbnjzmdnwnhqfyb69wb5ls6fkd8z6ksfxbihnazlsa00sh2klvm3vnb5xkmxj96wlf"
 , boost17x
 , clang
 , llvmPackages

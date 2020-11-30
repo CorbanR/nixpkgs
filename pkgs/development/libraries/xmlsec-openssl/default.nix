@@ -9,7 +9,7 @@ let
 
 in
   pkgs.xmlsec.overrideAttrs (oldAttrs: rec {
-    version = "1.2.28";
-    sha256 = "1m12caglhyx08g8lh2sl3nkldlpryzdx2d572q73y3m33s0w9vhk";
-    configureFlags = xmlsecConfigFlags;
+    version = "1.2.31";
+    sha256 = "mxC8Uswx5PdhYuOXXlDbJrcatJxXHYELMRymJr5aCyY=";
+    configureFlags = oldAttrs.configureFlags ++ xmlsecConfigFlags;
   })
