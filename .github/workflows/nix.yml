@@ -25,11 +25,13 @@ jobs:
       matrix:
         os: [ubuntu-18.04, macos-10.15]
     steps:
-      # v2.3.2
-    - uses: actions/checkout@2036a08e25
+      # v2.3.4
+    - uses: actions/checkout@5a4ac9002d
 
-      # v10
-    - uses: cachix/install-nix-action@63cf434de4
+      # v12
+    - uses: cachix/install-nix-action@07da2520ee
+      with:
+        install_url: https://releases.nixos.org/nix/nix-2.3.8/install
 
     - name: Print nix.conf
       run: cat /etc/nix/nix.conf
@@ -77,10 +79,10 @@ jobs:
       env:
         NIX_SECRET_KEY: ${{ secrets.NIX_SECRET_KEY }}
 
-      #v2.1.4
+      #v2.2.1
     - name: Upload artifacts
       if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
-      uses: actions/upload-artifact@58740802ef
+      uses: actions/upload-artifact@726a6dcd01
       with:
         name: nix-cache-${{ matrix.os }}-${{ github.sha }}
         path: _output
@@ -90,8 +92,8 @@ jobs:
     if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
     runs-on: ubuntu-18.04
     steps:
-      # v2.3.2
-    - uses: actions/checkout@2036a08e25
+      # v2.3.4
+    - uses: actions/checkout@5a4ac9002d
       with:
         persist-credentials: false
 
@@ -101,16 +103,16 @@ jobs:
         sudo rm -rf "/usr/local/share/boost"
         sudo rm -rf "$AGENT_TOOLSDIRECTORY"
 
-      #v2.0.5
+      #v2.0.6
     - name: Download linux artifacts
-      uses: actions/download-artifact@c3f5d00c87
+      uses: actions/download-artifact@f8e41fbffe
       with:
         name: nix-cache-ubuntu-18.04-${{ github.sha }}
         path: nix-cache-ubuntu-18.04-${{ github.sha }}
 
-      #v2.0.5
+      #v2.0.6
     - name: Download mac artifacts
-      uses: actions/download-artifact@c3f5d00c87
+      uses: actions/download-artifact@f8e41fbffe
       with:
         name: nix-cache-macos-10.15-${{ github.sha }}
         path: nix-cache-macos-10.15-${{ github.sha }}
@@ -125,20 +127,20 @@ jobs:
 
       #v2.1.4
     #- name: Upload combined artifacts
-      #uses: actions/upload-artifact@58740802ef
+      #uses: actions/upload-artifact@726a6dcd01
       #with:
         #name: nix-combined-${{ github.sha }}
         #path: _output
 
-      #v0.4.0
+      #v0.4.1
     - name: Install SSH Client 🔑
-      uses: webfactory/ssh-agent@ef0ce0cab8
+      uses: webfactory/ssh-agent@ee29fafb6a
       with:
         ssh-private-key: ${{ secrets.DEPLOY_SSH_KEY }}
 
-      #v3.5.9
+      #v3.7.1
     - name: Deploy pages
-      uses: JamesIves/github-pages-deploy-action@5406604520
+      uses: JamesIves/github-pages-deploy-action@132898c54c
       with:
         SSH: true
         BRANCH: gh-pages
@@ -154,11 +156,13 @@ jobs:
       matrix:
         os: [ubuntu-18.04, macos-10.15]
     steps:
-      # v2.3.2
-    - uses: actions/checkout@2036a08e25
+      # v2.3.4
+    - uses: actions/checkout@5a4ac9002d
 
-      # v10
-    - uses: cachix/install-nix-action@63cf434de4
+      # v12
+    - uses: cachix/install-nix-action@07da2520ee
+      with:
+        install_url: https://releases.nixos.org/nix/nix-2.3.8/install
 
     - name: Print nix.conf
       run: cat /etc/nix/nix.conf
