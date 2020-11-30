@@ -32,6 +32,7 @@ jobs:
     - uses: cachix/install-nix-action@07da2520ee
       with:
         install_url: https://releases.nixos.org/nix/nix-2.3.8/install
+        nix_path: nixpkgs=channel:nixpkgs:/nix/var/nix/profiles/per-user/root/channels
 
     - name: Print nix.conf
       run: cat /etc/nix/nix.conf
@@ -163,6 +164,7 @@ jobs:
     - uses: cachix/install-nix-action@07da2520ee
       with:
         install_url: https://releases.nixos.org/nix/nix-2.3.8/install
+        nix_path: nixpkgs=channel:nixpkgs:/nix/var/nix/profiles/per-user/root/channels
 
     - name: Print nix.conf
       run: cat /etc/nix/nix.conf
