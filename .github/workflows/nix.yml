@@ -31,7 +31,6 @@ jobs:
       # v12
     - uses: cachix/install-nix-action@07da2520ee
       with:
-        install_url: https://releases.nixos.org/nix/nix-2.3.9/install
         nix_path: nixpkgs=channel:nixpkgs-unstable
 
     - name: Print nix.conf
@@ -77,11 +76,14 @@ jobs:
         export NIX_SECRET_KEY_FILE="$PWD/nix-cache-priv-key.pem"
         echo "$NIX_SECRET_KEY" > "$NIX_SECRET_KEY_FILE"
         nix sign-paths -k "$NIX_SECRET_KEY_FILE"
-        nix copy --to "file:///$PWD/_output/cache?compression=xz"
-        nix path-info --store "file:///$PWD/_output/cache" --json | json_pp
         rm -rf "$NIX_SECRET_KEY_FILE"
       env:
         NIX_SECRET_KEY: ${{ secrets.NIX_SECRET_KEY }}
+
+    - name: nix copy to file
+      run: |
+        nix copy --to "file:///$PWD/_output/cache?compression=xz"
+        nix path-info --store "file:///$PWD/_output/cache" --json | json_pp
 
       #v2.2.1
     - name: Upload artifacts
@@ -129,13 +131,6 @@ jobs:
         cp -r nix-cache-ubuntu-18.04-${GITHUB_SHA}/. _output
         rm -rf nix-cache-ubuntu-18.04-${GITHUB_SHA}/
 
-      #v2.1.4
-    #- name: Upload combined artifacts
-      #uses: actions/upload-artifact@726a6dcd01
-      #with:
-        #name: nix-combined-${{ github.sha }}
-        #path: _output
-
       #v0.4.1
     - name: Install SSH Client 🔑
       uses: webfactory/ssh-agent@ee29fafb6a
@@ -166,7 +161,6 @@ jobs:
       # v12
     - uses: cachix/install-nix-action@07da2520ee
       with:
-        install_url: https://releases.nixos.org/nix/nix-2.3.9/install
         nix_path: nixpkgs=channel:nixpkgs-unstable
 
     - name: Print nix.conf
