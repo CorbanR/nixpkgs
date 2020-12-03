@@ -36,11 +36,8 @@ jobs:
     - name: Print nix.conf
       run: cat /etc/nix/nix.conf
 
-    - name: list channels
-      run: nix-channel --list
-
     - name: Build tests
-      run: nix-build --max-jobs 2 --cores 2 tests.nix
+      run: nix-build tests.nix
 
     - name: Cleanup test results
       run: rm -rf results*
@@ -64,7 +61,7 @@ jobs:
 
     - name: Build the packages
       if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
-      run: nix-build --max-jobs 2 --cores 2
+      run: nix-build
 
     - name: optimize nix-store to reduce size
       if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
@@ -83,7 +80,12 @@ jobs:
     - name: nix copy to file
       run: |
         nix copy --to "file:///$PWD/_output/cache?compression=xz"
-        nix path-info --store "file:///$PWD/_output/cache" --json | json_pp
+
+      # For some reason this command is failing.
+      # https://github.com/cachix/install-nix-action/issues/60
+    - name: nix path-info
+      run: |
+        nix path-info --store "file:///$PWD/_output/cache" --json | json_pp || true
 
       #v2.2.1
     - name: Upload artifacts
