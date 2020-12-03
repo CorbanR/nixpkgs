@@ -1,9 +1,0 @@
-StorePath: /nix/store/bnhx497ididydzf97hhghngbcb3rnvn0-unbound-1.11.0-lib
-URL: nar/03i4m6fflkwhn427wg9lhppd0bcs8qjk931dpvbby6bvq1famp5v.nar.xz
-Compression: xz
-FileHash: sha256:03i4m6fflkwhn427wg9lhppd0bcs8qjk931dpvbby6bvq1famp5v
-FileSize: 339080
-NarHash: sha256:0r9hpmdznbxg03mck09d3z5lk9gwz0v8rp2bg1f6w0s38qypli44
-NarSize: 931528
-References: 1k7f9k0hx25xllbh08kbqbwcfgincr68-libevent-2.1.12 6qp2gdi9jc3hcjpa4bqmxalzxwvgb7sa-nettle-3.6 bdf8iipzya03h2amgfncqpclf6bmy3a1-glibc-2.32 bnhx497ididydzf97hhghngbcb3rnvn0-unbound-1.11.0-lib idlvwd5b8c0qhq12nlj839b3imh34qjl-gmp-6.2.0
-Sig: cache.nixos.org-1:4fm07MzS1zP+xomjMb+sU5d7L2FRrWaOe3zibPoA35lARUySQC8/kikx90yxWz/HkJjws0ei+Fj+QiA5C101Dg==

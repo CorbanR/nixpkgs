@@ -1,0 +1,10 @@
+StorePath: /nix/store/lalyki7b19g2m5c80qd0mpfax6101h7f-nss-3.53.1
+URL: nar/035c3w21cdivib6aj03n04cl381j5s0n54crs9r3qb22jm6qkwr4.nar.xz
+Compression: xz
+FileHash: sha256:035c3w21cdivib6aj03n04cl381j5s0n54crs9r3qb22jm6qkwr4
+FileSize: 1241560
+NarHash: sha256:0nkvsdgnklp8gcmxd763v4n02iajwy7fhyn5h6phpiwzal4q863c
+NarSize: 4347880
+References: 51hq0xxp9nng3xxfz7dpkhb9lzy7sz84-gcc-9.3.0-lib 763qv5bhipxib0prgnw9zmm770g44dcs-sqlite-3.33.0 a6rnjp15qgp8a699dlffqj94hzy1nldg-glibc-2.32 lalyki7b19g2m5c80qd0mpfax6101h7f-nss-3.53.1 mypq59dnk7ww21cx72nj9cgs8fa84f04-nspr-4.29
+Deriver: zc1gllpcjh16sk3mn7mbr899h75z2qn1-nss-3.53.1.drv
+Sig: cache.nixos.org-1:mIcybhe0sEDFbhDbYd+L6CoWSLUopfFESOHsG3/yPbhaZ7QFWpqGvlp1J0lO+pTtz9d9x3ybrtrnm6dmoLBCAQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/iviglhghz4wik736mf397z8f3kcrghg3-libuv-1.40.0
+URL: nar/1q441zlin474a7gnhnnci23ijx8kq3hr05hl9m52nhsxg6d5g3q9.nar.xz
+Compression: xz
+FileHash: sha256:1q441zlin474a7gnhnnci23ijx8kq3hr05hl9m52nhsxg6d5g3q9
+FileSize: 82320
+NarHash: sha256:0svp5mp84n7wv9whb6g8nqgj3s4ls6b0ghrnshavjid3s0fsix5d
+NarSize: 278752
+References: iviglhghz4wik736mf397z8f3kcrghg3-libuv-1.40.0
+Deriver: is76izkabc5k87hmh7km0fnpjxiv7nnw-libuv-1.40.0.drv
+Sig: cache.nixos.org-1:t2WwEH+TkyvmLHRmipJgzg/O3VJJqopgRd+DsagqI0iPalkPpnEFBXInleZlykMdiRbm6FnQz2qEE6C47YJgAA==

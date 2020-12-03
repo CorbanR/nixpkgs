@@ -1,0 +1,10 @@
+StorePath: /nix/store/fh18a880wmmms27f7gg3aiicpw3c2ijb-xmlsec-1.2.31
+URL: nar/1w75dmq63z9x2rz3lvqh0wfv6aj0rsv2wiwq8bmgh1k5b8cldkl9.nar.xz
+Compression: xz
+FileHash: sha256:1w75dmq63z9x2rz3lvqh0wfv6aj0rsv2wiwq8bmgh1k5b8cldkl9
+FileSize: 602504
+NarHash: sha256:1l56n1yb5jfk3vnwyp8ywvm2xp1ww78bw6nil457qxzda3z96pzf
+NarSize: 4481160
+References: 02008j3yn1hs92wncj170j3przajm7j9-libxml2-2.9.10 675iw0alg2icwhcplqan9kxvnz33mfnr-openssl-1.1.1h cmsxm28rcilzn8y494ch5ly7p7gnyx5k-nss-3.53.1 d7vj152awkx6l6y0v3jdc4b15k0mc09y-libxslt-1.1.34 fh18a880wmmms27f7gg3aiicpw3c2ijb-xmlsec-1.2.31 fj6sm555ig63q10dwqn3y95gr9i912jj-libgcrypt-1.8.7 lyzlvsbn14910qpnl87bn6bpffv13hlk-gnutls-3.6.15 p6pnqgprdydqw5b2j10jy8l0h331kxki-libgpg-error-1.38 papsknpb20qmb8w3970fbbqiihjdfn8i-nspr-4.29 sx4w30maiq2il1ql0rmlhax1y04ij150-swift-corefoundation
+Deriver: b2r4smkbiln4vwkpsvc8ig4avdngxdw8-xmlsec-1.2.31.drv
+Sig: nixpkgs.raunco.co:/BPH6p+Y//Np07PbJnJJtaZ2G0i+KMRWZ3uK3SkOmW8mlprh/snMC5GC3w/kHjEAl1MQYR15PMLP5jVl0cQ9Aw==

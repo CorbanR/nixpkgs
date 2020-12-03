@@ -1,0 +1,10 @@
+StorePath: /nix/store/rh8fs5wxar5h5ijiqfvhfkgww4a9nj47-xmlsec-1.2.31
+URL: nar/18fyck5jy2z3halnammmnpgc46amn50src1mp3fa09q744fs9vx1.nar.xz
+Compression: xz
+FileHash: sha256:18fyck5jy2z3halnammmnpgc46amn50src1mp3fa09q744fs9vx1
+FileSize: 685064
+NarHash: sha256:0mg8m3zcrgs0lyg9hb3ygja9d6j79cljpz2pskcycpvbmyhkkcch
+NarSize: 4964648
+References: 63kr49rnk23n5d9pkl4pi2rr2l151nph-gnutls-3.6.15 a6rnjp15qgp8a699dlffqj94hzy1nldg-glibc-2.32 fzflhbm04mn4v6fvaakxa5j5wkaaxf0i-libgpg-error-1.38 l1azc5s229z6nzn5lj1r4zzm9wp38j55-openssl-1.1.1h lalyki7b19g2m5c80qd0mpfax6101h7f-nss-3.53.1 mypq59dnk7ww21cx72nj9cgs8fa84f04-nspr-4.29 qk25d2vqc2g2rpsn4s0dyvwpf8frb445-libxslt-1.1.34 rh8fs5wxar5h5ijiqfvhfkgww4a9nj47-xmlsec-1.2.31 z0gk52icp4yckkgrfsxnnzh4p3hsy3w4-libxml2-2.9.10 zrafm8dpjyhrfc1q4gybwqn2s1ql99wq-libgcrypt-1.8.7
+Deriver: 125ja9l65hv8fzwxfy3blp6bbkb6w3z4-xmlsec-1.2.31.drv
+Sig: nixpkgs.raunco.co:99OrZIutRxJjCy/cm1KZeXd0QayAA+KDbjzXq863c8kQP8cPZA9M15mK2h+QXt2vyD1hzyjP1o0siNl2qyzNDQ==

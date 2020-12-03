@@ -1,0 +1,10 @@
+StorePath: /nix/store/cbs1calcw6xh6dz7r1mxkijw4v4rgd1a-libc++-7.1.0
+URL: nar/1z4qfyjlaanhd4a453l6by5pw1yyal11b151k0595ly6akw0jz3r.nar.xz
+Compression: xz
+FileHash: sha256:1z4qfyjlaanhd4a453l6by5pw1yyal11b151k0595ly6akw0jz3r
+FileSize: 714252
+NarHash: sha256:08fb926b7avib3r04jwnlykdxi729hz93vvn2bw7nhz8hcqbag4z
+NarSize: 6962696
+References: cbs1calcw6xh6dz7r1mxkijw4v4rgd1a-libc++-7.1.0 d2h2j9knkfn311dm8b95zyc8djl09rsh-libc++abi-7.1.0
+Deriver: zmn306h0yb996sqccc56i7h2x043nx7m-libc++-7.1.0.drv
+Sig: cache.nixos.org-1:gP15G9LdMkDGmLog0U9rwcEeSnnnIYnB+tFHr0ugWED93H3DH83Y9ufEgdUHjS32mK4N1H/x4UtL/dQAjLzXAw==

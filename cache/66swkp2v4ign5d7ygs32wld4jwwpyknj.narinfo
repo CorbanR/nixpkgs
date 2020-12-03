@@ -1,0 +1,10 @@
+StorePath: /nix/store/66swkp2v4ign5d7ygs32wld4jwwpyknj-coreutils-8.32
+URL: nar/0lbxxs7rcb9sbry8asdw9xphc21gn81gl6v4irxdkmp7dsj19rx2.nar.xz
+Compression: xz
+FileHash: sha256:0lbxxs7rcb9sbry8asdw9xphc21gn81gl6v4irxdkmp7dsj19rx2
+FileSize: 518340
+NarHash: sha256:0y49ghqlv8w2byz30585i0alq32xarr6619dkc1jg3w129kaq5ac
+NarSize: 1360648
+References: 66swkp2v4ign5d7ygs32wld4jwwpyknj-coreutils-8.32 8fqg99nwx4a5qlzvjrzcahp6xln8a9gm-gmp-6.2.0
+Deriver: 8f40ahyqp181bkk8yabkp94m0xawvqan-coreutils-8.32.drv
+Sig: cache.nixos.org-1:L5tRJsJBMMqxHJeoQmp265ywjirmu1/h6b0MCFw66AQFQjvCo2baeS1r3P0qu3NNYlX7ZSBtT8Na/pFKLEs6Cg==

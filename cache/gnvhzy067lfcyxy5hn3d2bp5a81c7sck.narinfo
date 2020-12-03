@@ -1,0 +1,10 @@
+StorePath: /nix/store/gnvhzy067lfcyxy5hn3d2bp5a81c7sck-libpulsar-2.6.2
+URL: nar/0lr3q8zac71dww5avq2hzs83mq5qibjy0g2m2xj27hkplr287535.nar.xz
+Compression: xz
+FileHash: sha256:0lr3q8zac71dww5avq2hzs83mq5qibjy0g2m2xj27hkplr287535
+FileSize: 2426936
+NarHash: sha256:0cx98s0xrd75ls3yvjzhlz95glrd5fdv68cyvpp4xv850jjlly48
+NarSize: 21159224
+References: 46cppi19z4zlav88z193vxb0knsi5xl6-zstd-1.4.5 675iw0alg2icwhcplqan9kxvnz33mfnr-openssl-1.1.1h 7gvqlv2qks4ix18g31x8rdkgzm0sspbi-snappy-1.1.8 cbs1calcw6xh6dz7r1mxkijw4v4rgd1a-libc++-7.1.0 gnvhzy067lfcyxy5hn3d2bp5a81c7sck-libpulsar-2.6.2 kfvijz70yb12djdmsz91snzjwliszals-curl-7.73.0 rxyxwnzz2bx15myzy9q2fi1g1sn7ssyh-protobuf-3.14.0 sj6r01pg23kh3ga4jw58aq6pgzm2pgsm-zlib-1.2.11 sx4w30maiq2il1ql0rmlhax1y04ij150-swift-corefoundation xd9fp8s4fww1q0v78jcsm5r95vwaj9i3-boost-1.74.0
+Deriver: 417nandg110g9plb84kkxa3vwsqxjpkr-libpulsar-2.6.2.drv
+Sig: nixpkgs.raunco.co:4Ixu0mHFSyKMX+3fmZh1DqYSLkI9di/IbyHaaF9Gz8KFFRkU4YIu/QaFQmzch0ZBJyilqY+PghwP4do6aXl0Bg==
