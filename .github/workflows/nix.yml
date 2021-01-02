@@ -122,14 +122,14 @@ jobs:
     - name: Download mac artifacts
       uses: actions/download-artifact@f8e41fbffe
       with:
-        name: nix-cache-macos-10.15-${{ github.sha }}
-        path: nix-cache-macos-10.15-${{ github.sha }}
+        name: nix-cache-macos-11.0-${{ github.sha }}
+        path: nix-cache-macos-11.0-${{ github.sha }}
 
     - name: Combine cache files
       run: |
         mkdir -p _output
-        cp -r nix-cache-macos-10.15-${GITHUB_SHA}/. _output
-        rm -rf nix-cache-macos-10.15-${GITHUB_SHA}/
+        cp -r nix-cache-macos-11.0-${GITHUB_SHA}/. _output
+        rm -rf nix-cache-macos-11.0-${GITHUB_SHA}/
         cp -r nix-cache-ubuntu-18.04-${GITHUB_SHA}/. _output
         rm -rf nix-cache-ubuntu-18.04-${GITHUB_SHA}/
 
@@ -155,7 +155,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: [ubuntu-18.04, macos-10.15]
+        os: [ubuntu-18.04, macos-11.0]
     steps:
       # v2.3.4
     - uses: actions/checkout@5a4ac9002d
