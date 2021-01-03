@@ -1,0 +1,10 @@
+StorePath: /nix/store/60ficlmwyiwvkmyzarjz2p8xfxpyk5if-python-2.7.18
+URL: nar/0fmmrj1wkpalyima98yr3y3zjpksvqdb253j1vrkkjmdkfzfghr6.nar.xz
+Compression: xz
+FileHash: sha256:0fmmrj1wkpalyima98yr3y3zjpksvqdb253j1vrkkjmdkfzfghr6
+FileSize: 8387124
+NarHash: sha256:1blxvaqwxn8z76k5h4z1r472nw8dchlqvpz93y4kagv185nhadv0
+NarSize: 48955048
+References: 60ficlmwyiwvkmyzarjz2p8xfxpyk5if-python-2.7.18 9h3bam3k6q6wh2kdjjzds9whlwnlz2rm-swift-corefoundation alm049wnwxyy1m6vpb9wckqnq0ls2dv6-ncurses-6.2 aslh9hb3z7f3fsg7ylzy26r44z9dzx9r-zlib-1.2.11 bd7dwsd8pmnf0q4n4nfdfcyc20wf14kx-readline-6.3p08 d5bywxxfpkfh7x5jrl2ijcivha758r15-bzip2-1.0.6.0.1 h0rjbwazsy167bvz07vys7djwmnsiqqk-sqlite-3.34.0 hrm8vqy7dnn8y296bsyb1dvq30if6s9z-gdbm-1.18.1 kg0k930xb7ybp3n9grp4x1y4w0x5alis-openssl-1.1.1i nml6rgrg41w14dzl44gc5zh2m484rbmw-configd-osx-10.8.5 rdbq2q75ysh13gis328k7vwwf4s22hvw-bash-4.4-p23 rv9ff7sr4r30rin89ki1v5vqr0dndwad-coreutils-8.32 s63pwd4a2yp8kcgjjbdgwxf2i132wvc7-gettext-0.21
+Deriver: hxv71vrm7ac5mjlwl2gszizdr9q3q18l-python-2.7.18.drv
+Sig: cache.nixos.org-1:iMYuTLR+qYp2iAz3/Ny2LVLX7SyHsZ8Le2MIqpltDwGBmiyQ2h8Re54BoYFoPjuC9n8wLwhDE3J0/g3H1L+FCg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/nx6prpja5rm0iyxyd9va9blyshvrrmxm-libgcrypt-1.8.7
+URL: nar/1832glg9nhgz85yphy0bf727b4dxp4rr189lbvhirdzip5kmkmvz.nar.xz
+Compression: xz
+FileHash: sha256:1832glg9nhgz85yphy0bf727b4dxp4rr189lbvhirdzip5kmkmvz
+FileSize: 404148
+NarHash: sha256:0cimq7d5pb919sf5ldhvbkr6jr5vxw5ghik1z384fwvkwx27dihd
+NarSize: 1261032
+References: 1yvpgm763b3hvg8q4fzpzmflr5674x4j-glibc-2.32-10 asc3gxka6a8m6z32a6scfihx0imhg4dl-libgpg-error-1.38 nx6prpja5rm0iyxyd9va9blyshvrrmxm-libgcrypt-1.8.7
+Deriver: ghd6w61jbkbziym7yy95j89982rck990-libgcrypt-1.8.7.drv
+Sig: cache.nixos.org-1:9LaO3qS6r7BZJoQzL747Znor7gSjfPPOs9MjcD/BjeRklU7aRoHtbZ7lICmhDsqshdn+Jwu6lrxfSrJ+3rftCA==

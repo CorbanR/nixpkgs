@@ -1,0 +1,10 @@
+StorePath: /nix/store/6bwpdgnv13h9agfx7zzsnzdh8gigw2vv-gnugrep-3.6
+URL: nar/01s7v4ray7dzsv49p8qdj706jdqk0n83af66k11s39f9l9nlwv3r.nar.xz
+Compression: xz
+FileHash: sha256:01s7v4ray7dzsv49p8qdj706jdqk0n83af66k11s39f9l9nlwv3r
+FileSize: 131192
+NarHash: sha256:0vbkrgxpwpzd2n6hz26xghrf9piz8i7y59jvdd4y7v1cqbfaakc3
+NarSize: 285304
+References: 4zg4h3klldv1vcp818g8gd56cg2f0g9g-pcre-8.44 6bwpdgnv13h9agfx7zzsnzdh8gigw2vv-gnugrep-3.6 q8xcp8hsa35wjki8mad0sbk4nzqrdkb5-libiconv-osx-10.12.6 rdbq2q75ysh13gis328k7vwwf4s22hvw-bash-4.4-p23
+Deriver: 6xiy6f7fmgicjxq2bn92bd0r1jslfa3a-gnugrep-3.6.drv
+Sig: cache.nixos.org-1:sB3l0wwpqnzxLj1zGgnMLiLc6ueegBdSve8MFr6gSDKSe/3cLo0JcP99G+kf6YQD/5A7C+xlKdrkKnnJ7eToAQ==

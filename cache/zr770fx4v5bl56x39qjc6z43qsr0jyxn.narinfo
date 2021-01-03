@@ -1,0 +1,10 @@
+StorePath: /nix/store/zr770fx4v5bl56x39qjc6z43qsr0jyxn-nghttp2-1.41.0-lib
+URL: nar/1i3bc4653b5z5s4vlcwrmy4r71wf250x32bgbwfj9kw8rk46mkgs.nar.xz
+Compression: xz
+FileHash: sha256:1i3bc4653b5z5s4vlcwrmy4r71wf250x32bgbwfj9kw8rk46mkgs
+FileSize: 57072
+NarHash: sha256:0hv2z7cjkmxgpm1mlq6813hgfx0zgq39qbnkdwq8118w5iki4ff2
+NarSize: 162128
+References: 9h3bam3k6q6wh2kdjjzds9whlwnlz2rm-swift-corefoundation zr770fx4v5bl56x39qjc6z43qsr0jyxn-nghttp2-1.41.0-lib
+Deriver: j8zl1zwbjypc3m2rw41ikpjdfvpg1xr8-nghttp2-1.41.0.drv
+Sig: cache.nixos.org-1:ljqhhmg1NbdUaQVzNeCWGL0BWwqL7nqmgUMzcCI+daI3Ot5glkdAZd22ApKFgIELAXvVmvJC9oqoj+49jNV0Aw==

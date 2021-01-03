@@ -1,0 +1,10 @@
+StorePath: /nix/store/gkjm2q20ivwb27rmldc6mmvslfljdcyy-nodejs-8.17.0
+URL: nar/13fip9yfsd26w6ksvwq7xwwxlvbckazvvb2hlkvd8flkfa4aylm5.nar.xz
+Compression: xz
+FileHash: sha256:13fip9yfsd26w6ksvwq7xwwxlvbckazvvb2hlkvd8flkfa4aylm5
+FileSize: 8054300
+NarHash: sha256:1rr7r03fai7h7r585scsls91wrx0f3h7pji4ldd1wvjhgdanb9qm
+NarSize: 45853648
+References: 0jj05cyma647rywsqpq3darnzl6a520s-libc++-7.1.0 3iwi37r20vqsfz69ciwh0swx6z4az6a9-icu4c-67.1 60ficlmwyiwvkmyzarjz2p8xfxpyk5if-python-2.7.18 amk4rcyjk9ql2917i5jwq4y81ggmx3wm-icu4c-67.1-dev aslh9hb3z7f3fsg7ylzy26r44z9dzx9r-zlib-1.2.11 bmvpb0csnhkm3fwjbq8ajlfp32ahhj52-libuv-1.40.0 gkjm2q20ivwb27rmldc6mmvslfljdcyy-nodejs-8.17.0 kg0k930xb7ybp3n9grp4x1y4w0x5alis-openssl-1.1.1i mkncpjh706pqp21bmz9z5bvw1fk5mlhs-zlib-1.2.11-dev r7glhc06wpn3bvsyd7aaw0b1nlf5im7n-openssl-1.1.1i-dev rdbq2q75ysh13gis328k7vwwf4s22hvw-bash-4.4-p23
+Deriver: vs4q20lifmav5w5b4bf75ka1fwwy0h9v-nodejs-8.17.0.drv
+Sig: nixpkgs.raunco.co:4tvmP567dtfXT+9TUWGfe6Xqe6zr2is+9NOSUQ75sA33yCsI9fnQari2Svky4k8vJIc8SQ76KOCHY69pcbIIAA==

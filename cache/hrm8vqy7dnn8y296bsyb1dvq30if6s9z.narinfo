@@ -1,0 +1,10 @@
+StorePath: /nix/store/hrm8vqy7dnn8y296bsyb1dvq30if6s9z-gdbm-1.18.1
+URL: nar/072yx9qszcg5aa6p63i9hg0fdn0f9rj13p7cd19pdpzly6xw2wg5.nar.xz
+Compression: xz
+FileHash: sha256:072yx9qszcg5aa6p63i9hg0fdn0f9rj13p7cd19pdpzly6xw2wg5
+FileSize: 118252
+NarHash: sha256:087qppkwqd2k3x2vqplqx7kxwd31br7yr65ga5pczm4jdkmsmqdp
+NarSize: 388264
+References: 9h3bam3k6q6wh2kdjjzds9whlwnlz2rm-swift-corefoundation hrm8vqy7dnn8y296bsyb1dvq30if6s9z-gdbm-1.18.1
+Deriver: 7m0ngs8nva5sgs77z8i9m0np3d1n7fri-gdbm-1.18.1.drv
+Sig: cache.nixos.org-1:NHQ4efohtFbksvOSnBVCF9rAG/6/4eorWmsZ3/i8N1sCeMaILvJNVyejAKXX23FLDvBsdn9tQE+raj7/EwAABA==
