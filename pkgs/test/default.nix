@@ -16,6 +16,7 @@ let
     github-cli = callPackage ../development/tools/gh/test.nix {};
     goaccess = callPackage ../tools/misc/goaccess {};
     hello = callPackage ./hello/test.nix {};
+    hurl = callPackage ../tools/networking/hurl { inherit (darwin.apple_sdk.frameworks) Security; };
     libpulsar = callPackage ../development/libraries/libpulsar {}; # See installCheckPhase
     muss = callPackage ../applications/virtualization/muss/test.nix {};
     muss-dev = callPackage ../applications/virtualization/muss/test-dev.nix {};
