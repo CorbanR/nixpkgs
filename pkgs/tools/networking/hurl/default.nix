@@ -39,6 +39,8 @@ rustPlatform.buildRustPackage rec {
   buildInputs = [ libxml2 openssl curl  ] ++ stdenv.lib.optionals stdenv.isDarwin [ Security ];
 
   preFixup = ''
+    patchShebangs ci/man.sh
+    patchShebangs ci/gen_manpage.py
     bash ci/man.sh
     installManPage target/man/hurl.1.gz
     installManPage target/man/hurlfmt.1.gz
