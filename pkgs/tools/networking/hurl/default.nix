@@ -11,6 +11,7 @@
 , bash
 , python3
 , gzip
+, coreutils-full
 }:
 
 rustPlatform.buildRustPackage rec {
@@ -35,7 +36,7 @@ rustPlatform.buildRustPackage rec {
 
   cargoSha256 = "0wddz1ng8pbg9b1mqvadhmgq3ns09plvjsvlp7ij8nran61h6887";
 
-  nativeBuildInputs = [ asciidoctor installShellFiles pkgconfig bash python3 gzip ];
+  nativeBuildInputs = [ asciidoctor installShellFiles pkgconfig bash python3 gzip coreutils-full ];
   buildInputs = [ libxml2 openssl curl  ] ++ stdenv.lib.optionals stdenv.isDarwin [ Security ];
 
   preFixup = ''
