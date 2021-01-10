@@ -24,8 +24,11 @@ rustPlatform.buildRustPackage rec {
 
   doInstallCheck = true;
   installCheckPhase = ''
-    echo "GET https://www.google.com" | $out/bin/hurl &> /dev/null
+    $out/bin/hurl --version
   '';
+  #installCheckPhase = ''
+    #echo "GET https://www.google.com" | $out/bin/hurl &> /dev/null
+  #'';
 
   src = fetchFromGitHub {
     owner = "Orange-OpenSource";
