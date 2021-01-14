@@ -1,0 +1,10 @@
+StorePath: /nix/store/sylh15pml1cphys55sy0dr28cp8c42d0-attr-2.4.48
+URL: nar/0775y4r25abmyj79h80cxzgcbxz9n4wn104wxvy7lhs4pqhisd4x.nar.xz
+Compression: xz
+FileHash: sha256:0775y4r25abmyj79h80cxzgcbxz9n4wn104wxvy7lhs4pqhisd4x
+FileSize: 15960
+NarHash: sha256:1hwv9fyh8mrrcnsl5g6wcwbl6a1xj5i7563pmlxrkw54ll730rcz
+NarSize: 89144
+References: sylh15pml1cphys55sy0dr28cp8c42d0-attr-2.4.48 vbr3p4y2azrgwq2s7h2hbip8x06w50z5-glibc-2.32-24
+Deriver: cyvrzxq6hbnkv2j544r5w73fsdqr5ivy-attr-2.4.48.drv
+Sig: cache.nixos.org-1:ckGaev3t2LEui49VCQzRyA5rxLEbG78VqGbX0VR7JQKOEuxMyQdZZQqx4WpWJJQmHjE+UEc7OfKvGyqJOc0vCQ==

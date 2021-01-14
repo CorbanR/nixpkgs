@@ -1,0 +1,10 @@
+StorePath: /nix/store/rjd033qwszzam0v6jggqkhyqdkm4gfy4-nghttp2-1.41.0-lib
+URL: nar/08y9iyzc5jcamwiqivrlwwaygfmnycq28rda8xlqmpprrc2r6qnw.nar.xz
+Compression: xz
+FileHash: sha256:08y9iyzc5jcamwiqivrlwwaygfmnycq28rda8xlqmpprrc2r6qnw
+FileSize: 57044
+NarHash: sha256:1qz1isnp9mw99fdgdn2znqglgxvbcizqbprpwc045fkjka1pdb3h
+NarSize: 162128
+References: rjd033qwszzam0v6jggqkhyqdkm4gfy4-nghttp2-1.41.0-lib
+Deriver: pbwzb5r2nrglg9zldclp2f3q7y3i6j6c-nghttp2-1.41.0.drv
+Sig: cache.nixos.org-1:t3tEifGNJe5h8fTh7Iq8nMAgNd7wuXFZ3CSpbcG6ijx5SKMZ6feg3SAaUzI5kRW4Y5Tqi8L7aVMsN/xG11KXDw==

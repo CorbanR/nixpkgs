@@ -1,0 +1,10 @@
+StorePath: /nix/store/msd0dajby787169ajrl0054xl8gjpfzc-gh-1.3.0
+URL: nar/04qsfj1qn0i1vykk3yh7isbj034dpiz7l3q2hm61ahx71av26dxv.nar.xz
+Compression: xz
+FileHash: sha256:04qsfj1qn0i1vykk3yh7isbj034dpiz7l3q2hm61ahx71av26dxv
+FileSize: 4493436
+NarHash: sha256:0rikczb8j94myh8sllnw2nh6qzybl9r0cjdxmdbjasgyc1ip0pl1
+NarSize: 17315496
+References: ifnmhjrvk3f0hbz3f25s3izlb9yk8x0f-iana-etc-20200729 r2wvgnr54vmwnjvzyqdixv8xbn362jgh-mailcap-2.1.48
+Deriver: dg60hz0rfr8hlblich56w4dghvr7q15j-gh-1.3.0.drv
+Sig: nixpkgs.raunco.co:HbIjbtLnL8vVQC5pZLd4lStcbcxrCvXoO1EQsrD0yvgHhfJb5pfP/IX0ZQGk7f6Kl8xDUuaa9DMR6sziC1lMAQ==

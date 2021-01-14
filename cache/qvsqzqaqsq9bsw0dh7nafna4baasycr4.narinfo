@@ -1,0 +1,10 @@
+StorePath: /nix/store/qvsqzqaqsq9bsw0dh7nafna4baasycr4-tzdata-2020f
+URL: nar/0df9rgw8nh0p98fi800n9ln5csrf1pxraaikx6krpy14l1gd43mv.nar.xz
+Compression: xz
+FileHash: sha256:0df9rgw8nh0p98fi800n9ln5csrf1pxraaikx6krpy14l1gd43mv
+FileSize: 128856
+NarHash: sha256:08lpw2ywf1nirgjhl6xa1z65128l3x0xmay06mv1n30vf792flpv
+NarSize: 2003224
+References: 
+Deriver: jyfv3a3c5932hrcz5iz5m3235yywdyds-tzdata-2020f.drv
+Sig: cache.nixos.org-1:Y/AfwhYzq9c8LCrCvRGEHnVfgU1jBStzxdXj1tbXZqPLU7XKFPGGHIWme+QTw2xQeYL68BdcnW78M1vbfVrGCg==

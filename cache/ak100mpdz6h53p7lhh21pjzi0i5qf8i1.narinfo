@@ -1,0 +1,10 @@
+StorePath: /nix/store/ak100mpdz6h53p7lhh21pjzi0i5qf8i1-libmaxminddb-1.4.3
+URL: nar/0s18s9j36hak713p9rmbdh6nf1qjksrkm25biz8105srdpdwalkd.nar.xz
+Compression: xz
+FileHash: sha256:0s18s9j36hak713p9rmbdh6nf1qjksrkm25biz8105srdpdwalkd
+FileSize: 29860
+NarHash: sha256:16hlc3gr3p1nrlcjjkh4h4bki5wfi69hwh9h0n0bryjy7vi0gzza
+NarSize: 80976
+References: ak100mpdz6h53p7lhh21pjzi0i5qf8i1-libmaxminddb-1.4.3 vbr3p4y2azrgwq2s7h2hbip8x06w50z5-glibc-2.32-24
+Deriver: lxxd78mj2nkwisr8y0488y68bvcwl0x3-libmaxminddb-1.4.3.drv
+Sig: cache.nixos.org-1:4jewMYlHKGJn3ftHF2cWgbMRAnV37sgKu9tuTCGwC7l+f1xBHmEb0dD/fk7GzupcMVFsVaOGwK46NmsuNibaAA==

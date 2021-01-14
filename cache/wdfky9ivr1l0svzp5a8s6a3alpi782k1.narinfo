@@ -1,0 +1,10 @@
+StorePath: /nix/store/wdfky9ivr1l0svzp5a8s6a3alpi782k1-libc++abi-7.1.0
+URL: nar/0zax57gswhsdq4axf5jvpr6fhk57adhc4d824sbbwfb40l2wy1cl.nar.xz
+Compression: xz
+FileHash: sha256:0zax57gswhsdq4axf5jvpr6fhk57adhc4d824sbbwfb40l2wy1cl
+FileSize: 83968
+NarHash: sha256:0cniihf74clv4dvp3pjd7z0cv8md3xml1mi2ddwmr5sckyyagiik
+NarSize: 555848
+References: wdfky9ivr1l0svzp5a8s6a3alpi782k1-libc++abi-7.1.0
+Deriver: w5nh4filw1wkg1czhajgbf2sr5l2p9n0-libc++abi-7.1.0.drv
+Sig: cache.nixos.org-1:r3tg+pw/TBB41tc+aNSSX22jIuSigr3JdbCZ6amYGAXEtJ6DJ2H4YuPDj8LlM/y8jfYXGlIWaoNv3DXi6EK9CQ==

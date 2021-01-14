@@ -1,0 +1,10 @@
+StorePath: /nix/store/nd40lmr1k1ap9zxcg1gcfszk1pprrqj3-libpulsar-2.6.2
+URL: nar/1mvrdb3c8gr8ahbdmqp5f200yfq1851argrsmnbqkkrqs2am8bbv.nar.xz
+Compression: xz
+FileHash: sha256:1mvrdb3c8gr8ahbdmqp5f200yfq1851argrsmnbqkkrqs2am8bbv
+FileSize: 2077872
+NarHash: sha256:13ijf2mqsqmg7w40acrdg1y30gj4iycyxclcmizy3jsirfpp89h4
+NarSize: 24290312
+References: 1km6x93knmaa1xz84b8j6fvx7cx66wsh-boost-1.75.0 44k87w427hxjkdz7yn8i7x8g2i3lkwmg-snappy-1.1.8 795yj9pbckifps6dxgshfi4ld904lq6b-curl-7.74.0 digsnjxzb85hfxfn78si8gxzscjy4c7r-openssl-1.1.1i nnqw9pa10j11r3jjc0fw2rwdipram6gc-zlib-1.2.11 vbr3p4y2azrgwq2s7h2hbip8x06w50z5-glibc-2.32-24 xsqxamd86mh21dk0b775acaqgdijgf6p-gcc-10.2.0-lib ykq2y64f5kh2s5i2x0pfxdah04k5rkp0-zstd-1.4.8 yxixzi4cmp5swd1zjyg77fpda1i6zsnf-protobuf-3.14.0
+Deriver: 4m1fm6mxzapy78168ag2q208fxffyccq-libpulsar-2.6.2.drv
+Sig: nixpkgs.raunco.co:AFpgCvpI47EnFxntoyL9oFoDq9GfOO35/n8JKNfGgXz26UX4YtLnkeSY0cLgForOSP8tklDs3YSkbSGJek1RBQ==
