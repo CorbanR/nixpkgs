@@ -143,6 +143,7 @@ jobs:
     - name: Deploy pages
       uses: JamesIves/github-pages-deploy-action@132898c54c
       with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SSH: true
         BRANCH: gh-pages
         FOLDER: _output
