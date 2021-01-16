@@ -1,10 +1,10 @@
 StorePath: /nix/store/x1jzmg74h16083p9rrks7amarkxi9hlr-goaccess-1.4
-URL: nar/02g3cb9ypmsm8jld4d4qwlydxyznkblyhgqnr0h9jh9my9gingah.nar.xz
+URL: nar/1v7aqsacn37yf00g1zgvakq433014ww5ly3b5cmlmjbkwxnpw9rq.nar.xz
 Compression: xz
-FileHash: sha256:02g3cb9ypmsm8jld4d4qwlydxyznkblyhgqnr0h9jh9my9gingah
-FileSize: 251304
-NarHash: sha256:0dci5ghdqqkjlc8d1zb6rfkfjk7bf5mgrakxz36srl4p6aqxp0iq
+FileHash: sha256:1v7aqsacn37yf00g1zgvakq433014ww5ly3b5cmlmjbkwxnpw9rq
+FileSize: 251292
+NarHash: sha256:0yig09prcijb08vjvqkqa74v702smdi7nls1lf32ndjwncqfhlmy
 NarSize: 847888
 References: 29wlrk5ysygkf3f9y6mmsygipkwydz38-gettext-0.21 7z683z063glnh857hcs0fbrb6833cil2-swift-corefoundation a64vib7qncm8mb4n0vs0wnrgxyv2jvqi-ncurses-6.2 x1jzmg74h16083p9rrks7amarkxi9hlr-goaccess-1.4 y14ks8xdnlvw3xwq1ym03lxx27dfzikp-libmaxminddb-1.4.3 zzcxvnywlxhdbrnzszppv4xcjz1zjybf-libiconv-osx-10.12.6
 Deriver: 7bxadlvdhvbkxpmdjnis90hqqh79x458-goaccess-1.4.drv
-Sig: nixpkgs.raunco.co:leKEiBNw0lQk3NBK9tzjzIhsUN0xhBRCjcT4IFWR3dLW3zngnXTc3OkLHTSdPIXB1teSVvAEpkd6XQ99EBLpCQ==
+Sig: nixpkgs.raunco.co:H7KPaCQRyT7Qx1sM4BF8rrTnovrhKsKkkhE6RYvatKAui4DSJ0CJcUu19KsCBP5TOMHjtkNn1vgK2jVnlC2bAQ==
