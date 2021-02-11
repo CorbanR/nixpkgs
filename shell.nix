@@ -13,12 +13,17 @@ let
     typescript
   ];
 
+  ruby = ruby_2_7;
+  rakeVersion = { version = "13.0.3"; pname = "rake"; source.sha256 = "1iik52mf9ky4cgs38fp2m8r6skdkq1yz23vh18lk95fhbcxb6a67"; };
+  rubyPackages = ruby.withPackages (ps: with ps; [ (rake.override rakeVersion ) pry ]);
+
 in mkShell rec {
   name = "raunco.nixpkgs";
 
   buildInputs = [
     nodejs
     wrangler
+    rubyPackages
   ] ++ nodePkgs ++ stdenv.lib.optional stdenv.isDarwin darwin_packages;
 
   shellHook = ''
