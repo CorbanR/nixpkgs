@@ -1,4 +1,4 @@
-{ stdenv, fetchurl, writeTextFile, unzip, version ? "2.10.4" }:
+{ stdenv, lib, fetchurl, writeTextFile, unzip, version ? "2.10.4" }:
 
 let
   # Add a little helper script to start the dart language server
@@ -34,7 +34,7 @@ let
 
 in
 
-with stdenv.lib;
+with lib;
 
 stdenv.mkDerivation {
 
@@ -57,7 +57,7 @@ stdenv.mkDerivation {
 
   doInstallCheck = true;
   installCheckPhase = ''
-    echo ${stdenv.lib.escapeShellArg ''
+    echo ${lib.escapeShellArg ''
       void main() {
         print('Hello, World!');
       }

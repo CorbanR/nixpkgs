@@ -1,4 +1,4 @@
-{ stdenv, buildGoModule, fetchFromGitHub, installShellFiles, makeWrapper, enableWrapper ? true}:
+{ stdenv, lib, buildGoModule, fetchFromGitHub, installShellFiles, makeWrapper, enableWrapper ? true}:
 
 buildGoModule rec {
   pname = "vaulted";
@@ -15,21 +15,21 @@ buildGoModule rec {
 
   # Since vaulted spawns a new shell /etc/profile gets called(at least on OSX), which calls path_helper, which screws with the path
   # unsetting some environment variables makes it so nix paths(such as run/current-system/sw/bin) come before /bin /usr/bin.
-  nativeBuildInputs = [ installShellFiles ] ++ stdenv.lib.optionals enableWrapper [ makeWrapper ];
+  nativeBuildInputs = [ installShellFiles ] ++ lib.optionals enableWrapper [ makeWrapper ];
   postInstall = ''
     installManPage doc/man/*
 
-  ''+ stdenv.lib.optionalString enableWrapper ''
+  ''+ lib.optionalString enableWrapper ''
     wrapProgram $out/bin/vaulted \
       --set __ETC_BASHRC_SOURCED "" \
       --set __ETC_ZPROFILE_SOURCED  "" \
       --set __ETC_ZSHENV_SOURCED "" \
       --set __ETC_ZSHRC_SOURCED "" \
-      ${stdenv.lib.optionalString (enableWrapper && stdenv.isDarwin)
+      ${lib.optionalString (enableWrapper && stdenv.isDarwin)
       ''--set __NIX_DARWIN_SET_ENVIRONMENT_DONE ""''}
   '';
 
-  meta = with stdenv.lib; {
+  meta = with lib; {
     homepage = "https://github.com/miquella/vaulted";
     description = "Spawning and storage of secure environments";
     platforms = platforms.linux ++ platforms.darwin;

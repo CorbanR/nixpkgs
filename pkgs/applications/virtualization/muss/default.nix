@@ -1,4 +1,4 @@
-{ stdenv, buildGoModule, fetchFromGitHub }:
+{ lib, buildGoModule, fetchFromGitHub }:
 
 buildGoModule rec {
   pname = "muss";
@@ -21,7 +21,7 @@ buildGoModule rec {
 
   buildFlags = [ "-tags netgo" ];
 
-  meta = with stdenv.lib; {
+  meta = with lib; {
     homepage = "https://github.com/instructure/muss";
     description = "For when your docker-compose projects are a mess";
     platforms = platforms.linux ++ platforms.darwin;

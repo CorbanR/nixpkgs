@@ -1,4 +1,5 @@
 { stdenv
+, lib
 ,callPackage
 ,fetchurl
 ,unzip
@@ -13,6 +14,6 @@ else
 # Upstream maintains different versions by default.
 # So we ony want to use version if it's been explicitly set.
 let
-  options = { inherit stdenv fetchurl unzip; } // stdenv.lib.optionalAttrs (version != "") {inherit version;};
+  options = { inherit stdenv fetchurl unzip; } // lib.optionalAttrs (version != "") {inherit version;};
 in
 callPackage <nixpkgs/pkgs/development/interpreters/dart> options

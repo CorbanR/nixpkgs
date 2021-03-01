@@ -1,4 +1,4 @@
-{ stdenv, buildGoModule, fetchFromGitHub, writeText, installShellFiles, pkgs }:
+{ lib, buildGoModule, fetchFromGitHub, writeText, installShellFiles, pkgs }:
 
 buildGoModule rec {
   pname = "gh";
@@ -33,7 +33,7 @@ buildGoModule rec {
     make test
   '';
 
-  meta = with stdenv.lib; {
+  meta = with lib; {
     homepage = "https://cli.github.com/";
     description = "GitHub’s official command line tool";
     platforms = platforms.linux ++ platforms.darwin;

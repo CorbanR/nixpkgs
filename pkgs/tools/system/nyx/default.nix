@@ -1,4 +1,5 @@
 { stdenv
+, lib
 , pkgs
 , fetchFromGitHub
 , libyaml
@@ -23,7 +24,7 @@ in
     inherit version src;
 
     buildInputs = [ libyaml openssl ];
-    makeFlags = [ "PREFIX=$(out)" "SSL=1" ] ++ stdenv.lib.optional withPlugins [ "PLUGINS=1" ];
+    makeFlags = [ "PREFIX=$(out)" "SSL=1" ] ++ lib.optional withPlugins [ "PLUGINS=1" ];
 
   doInstallCheck = true;
   installCheckPhase = ''
@@ -33,7 +34,7 @@ in
     $out/bin/nyx quit
     '';
 
-    meta = with stdenv.lib; {
+    meta = with lib; {
       homepage = "https://github.com/kongo2002/nyx";
       description = "Lean linux and OSX process monitoring written in C";
 

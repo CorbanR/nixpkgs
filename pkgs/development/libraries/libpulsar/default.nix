@@ -1,4 +1,5 @@
 { stdenv
+, lib
 , pkgs
 , fetchurl
 , version ? "2.6.2"
@@ -37,8 +38,8 @@ in
   # python37 used in cmake script to calculate some values
   # clang-tools needed for clang-format etc
   nativeBuildInputs = [ cmake python37 pkgconfig ]
-  ++ stdenv.lib.optional stdenv.isDarwin [ clang clang-tools ]
-  ++ stdenv.lib.optional stdenv.isLinux [ gcc clang-tools ];
+  ++ lib.optional stdenv.isDarwin [ clang clang-tools ]
+  ++ lib.optional stdenv.isLinux [ gcc clang-tools ];
 
   buildInputs = [ boost17x jsoncpp log4cxx openssl protobuf snappy zstd curl zlib ];
 
@@ -55,7 +56,7 @@ in
 
   doInstallCheck = true;
   installCheckPhase = ''
-    echo ${stdenv.lib.escapeShellArg ''
+    echo ${lib.escapeShellArg ''
       #include <pulsar/Client.h>
       int main (int argc, char **argv) {
         pulsar::Client client("pulsar://localhost:6650");
@@ -67,7 +68,7 @@ in
         else "g++ test.cc -L $out/lib -I $out/include -lpulsar -o test" }
     '';
 
-    meta = with stdenv.lib; {
+    meta = with lib; {
       homepage = "https://pulsar.apache.org/docs/en/client-libraries-cpp";
       description = "Apache Pulsar C++ library";
 

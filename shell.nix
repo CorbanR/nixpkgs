@@ -6,7 +6,7 @@ let
   inherit (darwin.apple_sdk.frameworks) CoreServices ApplicationServices Security;
   darwin_packages = [ CoreServices ApplicationServices Security];
 
-  nodejs = nodejs-12_x;
+  nodejs = nodejs-14_x;
   nodePackages = pkgs.nodePackages.override {inherit nodejs;};
 
   nodePkgs = with nodePackages; [
@@ -24,7 +24,7 @@ in mkShell rec {
     nodejs
     wrangler
     rubyPackages
-  ] ++ nodePkgs ++ stdenv.lib.optional stdenv.isDarwin darwin_packages;
+  ] ++ nodePkgs ++ lib.optional stdenv.isDarwin darwin_packages;
 
   shellHook = ''
     # Add additional folders to to XDG_DATA_DIRS if they exists, which will get sourced by bash-completion

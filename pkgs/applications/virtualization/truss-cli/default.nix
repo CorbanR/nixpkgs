@@ -1,4 +1,4 @@
-{ stdenv, buildGoModule, fetchFromGitHub }:
+{ lib, buildGoModule, fetchFromGitHub }:
 
 buildGoModule rec {
   pname = "truss-cli";
@@ -16,7 +16,7 @@ buildGoModule rec {
   vendorSha256 = "1kqvw85l6jqk69j399aqrrjcf9sgbqx34javqqzbvq26dj4i42qs";
   buildFlagsArray = [ "-ldflags= -s -w -X github.com/instructure-bridge/truss-cli/cmd.Version=${version}" ];
 
-  meta = with stdenv.lib; {
+  meta = with lib; {
     homepage = "https://github.com/instructure-bridge/truss-cli";
     description = "CLI to help you manage many k8s clusters";
     platforms = platforms.linux ++ platforms.darwin;

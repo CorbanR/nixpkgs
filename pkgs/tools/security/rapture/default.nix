@@ -1,4 +1,4 @@
-{ stdenv, buildGoModule, fetchFromGitHub, writeText }:
+{ lib, buildGoModule, fetchFromGitHub, writeText }:
 
 buildGoModule rec {
   pname = "rapture";
@@ -13,7 +13,7 @@ buildGoModule rec {
 
   vendorSha256 = "0d0pbsk66glhd8phdjmvmq0iqmzj56jqz03fk8bshdgj69w966pv";
 
-  meta = with stdenv.lib; {
+  meta = with lib; {
     homepage = "https://github.com/daveadams/go-rapture";
     description = "Shell-integrated CLI for assuming AWS IAM roles";
     platforms = platforms.linux ++ platforms.darwin;
