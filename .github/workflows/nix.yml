@@ -23,7 +23,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: [ubuntu-18.04, macos-11.0]
+        os: [ubuntu-20.04, macos-11.0]
     steps:
       # v2.3.4
     - uses: actions/checkout@5a4ac9002d
@@ -42,8 +42,6 @@ jobs:
     - name: Cleanup test results
       run: rm -rf results*
 
-      # The below steps should be in a sepearate job, but cannot get cache plugin working on /nix/store
-      # see nix.yml.bak
     - name: Create output path
       if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
       run: mkdir -p _output/cache
@@ -62,6 +60,12 @@ jobs:
     - name: Build the packages
       if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
       run: nix-build
+
+    - name: Remove graalvm packages from cache, as they are already compiled binaries
+      if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
+      run: |
+        nix-store --delete /nix/store/*graalvm-ce*
+        nix-store --delete /nix/store/*installable*java*
 
     - name: optimize nix-store to reduce size
       if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
@@ -98,7 +102,7 @@ jobs:
   deploy:
     needs: "tests-and-build"
     if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       # v2.3.4
     - uses: actions/checkout@5a4ac9002d
@@ -115,8 +119,8 @@ jobs:
     - name: Download linux artifacts
       uses: actions/download-artifact@4a7a711286
       with:
-        name: nix-cache-ubuntu-18.04-${{ github.sha }}
-        path: nix-cache-ubuntu-18.04-${{ github.sha }}
+        name: nix-cache-ubuntu-20.04-${{ github.sha }}
+        path: nix-cache-ubuntu-20.04-${{ github.sha }}
 
       #v2.0.8
     - name: Download mac artifacts
@@ -130,18 +134,18 @@ jobs:
         mkdir -p _output
         cp -r nix-cache-macos-11.0-${GITHUB_SHA}/. _output
         rm -rf nix-cache-macos-11.0-${GITHUB_SHA}/
-        cp -r nix-cache-ubuntu-18.04-${GITHUB_SHA}/. _output
-        rm -rf nix-cache-ubuntu-18.04-${GITHUB_SHA}/
+        cp -r nix-cache-ubuntu-20.04-${GITHUB_SHA}/. _output
+        rm -rf nix-cache-ubuntu-20.04-${GITHUB_SHA}/
 
-      #v0.4.1
+      #v0.5.1
     - name: Install SSH Client 🔑
-      uses: webfactory/ssh-agent@ee29fafb6a
+      uses: webfactory/ssh-agent@4b6f4eb000
       with:
         ssh-private-key: ${{ secrets.DEPLOY_SSH_KEY }}
 
-      #v3.7.1
+      #v4
     - name: Deploy pages
-      uses: JamesIves/github-pages-deploy-action@132898c54c
+      uses: JamesIves/github-pages-deploy-action@3dbacc7e69
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SSH: true
@@ -156,7 +160,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: [ubuntu-18.04, macos-11.0]
+        os: [ubuntu-20.04, macos-11.0]
     steps:
       # v2.3.4
     - uses: actions/checkout@5a4ac9002d
@@ -184,8 +188,15 @@ jobs:
         EOT
         cat ~/.config/nix/nix.conf
 
+      # nix-shell -E 'with import <nixpkgs> { }; with import <raunco> {}; runCommand"dummy" { buildInputs = [ vaulted nodejs-8_x rapture ]; } ""'
     - name: Install some packages defined in raunco channel
       run: |
         nix-env -iA raunco.nodejs-8_x
         nix-env -iA raunco.vaulted
         nix-env -iA raunco.rapture
+
+    - name: Check that packages were actually installed
+      run: |
+        rapture version
+        vaulted --version
+        node --version
