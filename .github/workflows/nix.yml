@@ -26,10 +26,10 @@ jobs:
         os: [ubuntu-20.04, macos-11.0]
     steps:
       # v2.3.4
-    - uses: actions/checkout@5a4ac9002d
+    - uses: actions/checkout@5a4ac9002d0be2fb38bd78e4b4dbde5606d7042f
 
       # v12
-    - uses: cachix/install-nix-action@07da2520ee
+    - uses: cachix/install-nix-action@07da2520eebede906fbeefa9dd0a2b635323909d
       with:
         nix_path: nixpkgs=channel:nixpkgs-unstable
 
@@ -94,7 +94,7 @@ jobs:
       #v2.2.2
     - name: Upload artifacts
       if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
-      uses: actions/upload-artifact@e448a9b857
+      uses: actions/upload-artifact@e448a9b857ee2131e752b06002bf0e093c65e571
       with:
         name: nix-cache-${{ matrix.os }}-${{ github.sha }}
         path: _output
@@ -105,7 +105,7 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       # v2.3.4
-    - uses: actions/checkout@5a4ac9002d
+    - uses: actions/checkout@5a4ac9002d0be2fb38bd78e4b4dbde5606d7042f
       with:
         persist-credentials: false
 
@@ -117,14 +117,14 @@ jobs:
 
       #v2.0.8
     - name: Download linux artifacts
-      uses: actions/download-artifact@4a7a711286
+      uses: actions/download-artifact@4a7a711286f30c025902c28b541c10e147a9b843
       with:
         name: nix-cache-ubuntu-20.04-${{ github.sha }}
         path: nix-cache-ubuntu-20.04-${{ github.sha }}
 
       #v2.0.8
     - name: Download mac artifacts
-      uses: actions/download-artifact@4a7a711286
+      uses: actions/download-artifact@4a7a711286f30c025902c28b541c10e147a9b843
       with:
         name: nix-cache-macos-11.0-${{ github.sha }}
         path: nix-cache-macos-11.0-${{ github.sha }}
@@ -139,13 +139,13 @@ jobs:
 
       #v0.5.1
     - name: Install SSH Client 🔑
-      uses: webfactory/ssh-agent@4b6f4eb000
+      uses: webfactory/ssh-agent@4b6f4eb000f167422aa955c5a7e848a432931c6f
       with:
         ssh-private-key: ${{ secrets.DEPLOY_SSH_KEY }}
 
       #v4
     - name: Deploy pages
-      uses: JamesIves/github-pages-deploy-action@3dbacc7e69
+      uses: JamesIves/github-pages-deploy-action@3dbacc7e69578703f91f077118b3475862cb09b8
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SSH: true
@@ -163,10 +163,10 @@ jobs:
         os: [ubuntu-20.04, macos-11.0]
     steps:
       # v2.3.4
-    - uses: actions/checkout@5a4ac9002d
+    - uses: actions/checkout@5a4ac9002d0be2fb38bd78e4b4dbde5606d7042f
 
       # v12
-    - uses: cachix/install-nix-action@07da2520ee
+    - uses: cachix/install-nix-action@07da2520eebede906fbeefa9dd0a2b635323909d
       with:
         nix_path: nixpkgs=channel:nixpkgs-unstable
 
