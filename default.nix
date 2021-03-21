@@ -13,6 +13,7 @@ let
     dart_dev = callPackage ./pkgs/development/interpreters/dart {version="2.12.0-79.0.dev";};
     graalvm11-ce-bin = callPackage ./pkgs/development/compilers/graalvm/graalvm-ce-bin.nix { javaVersion = "11"; };
     graalvm8-ce-bin = callPackage ./pkgs/development/compilers/graalvm/graalvm-ce-bin.nix { javaVersion = "8"; };
+    nodejs-8_x = callPackage ./pkgs/development/web/nodejs-8_x {}; # Not sure what broke this package in Ubuntu.. but moving here for now as I primarily use this on OSX only
   };
 
   crossPlatformPackages = rec {
@@ -25,7 +26,6 @@ let
     libpulsar = callPackage ./pkgs/development/libraries/libpulsar {};
     muss = callPackage ./pkgs/applications/virtualization/muss {};
     muss-dev = callPackage ./pkgs/applications/virtualization/muss/dev.nix {};
-    nodejs-8_x = callPackage ./pkgs/development/web/nodejs-8_x {};
     rapture = callPackage ./pkgs/tools/security/rapture {};
     truss-cli = callPackage ./pkgs/applications/virtualization/truss-cli {};
     vaulted = vaulted-wrapped;

@@ -4,7 +4,7 @@ version: '3.4'
 services:
   nix:
     working_dir: "/usr/src/app"
-    image: lnl7/nix:2.3.7
+    image: nixos/nix
     command: ["/bin/sh"]
     volumes:
       - ".:/usr/src/app:cached"

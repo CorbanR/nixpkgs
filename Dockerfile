@@ -1,6 +1,6 @@
-FROM ubuntu:bionic
+FROM ubuntu:focal
 
-ARG NIX_VERSION=2.3.9
+ARG NIX_VERSION=2.3.10
 
 RUN apt-get update && apt-get install -qqy curl vim-tiny xz-utils \
       tar gzip ca-certificates sudo --no-install-recommends \

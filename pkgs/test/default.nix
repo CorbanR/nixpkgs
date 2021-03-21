@@ -8,6 +8,7 @@ let
   darwinPlatformPackages = {
     graalvm11-ce-bin = callPackage ../development/compilers/graalvm/test-bin.nix { javaVersion = "11"; }; # See installCheckPhase
     graalvm8-ce-bin = callPackage ../development/compilers/graalvm/test-bin.nix { javaVersion = "8"; }; # See installCheckPhase
+    nodejs-8_x = callPackage ../development/web/nodejs-8_x/test.nix {};
   };
 
   crossPlatformPackages = {
@@ -21,7 +22,6 @@ let
     libpulsar = callPackage ../development/libraries/libpulsar {}; # See installCheckPhase
     muss = callPackage ../applications/virtualization/muss/test.nix {};
     muss-dev = callPackage ../applications/virtualization/muss/test-dev.nix {};
-    nodejs-8_x = callPackage ../development/web/nodejs-8_x/test.nix {};
     rapture = callPackage ../tools/security/rapture/test.nix {};
     truss-cli = callPackage ../applications/virtualization/truss-cli/test.nix {};
     vaulted = callPackage ../tools/security/vaulted/test.nix {};

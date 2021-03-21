@@ -1,7 +1,10 @@
-{ callPackage, enableNpm ? true, openssl, darwin }:
+{ callPackage, openssl, icu, python2, lib, stdenv, enableNpm ? true }:
 
 let
-  buildNodejs = callPackage <nixpkgs/pkgs/development/web/nodejs/nodejs.nix> {inherit openssl darwin;};
+  buildNodejs = callPackage <nixpkgs/pkgs/development/web/nodejs/nodejs.nix> {
+    inherit icu openssl stdenv;
+    python = python2;
+  };
 in
   buildNodejs {
     inherit enableNpm;
