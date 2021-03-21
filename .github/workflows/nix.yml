@@ -64,8 +64,8 @@ jobs:
     - name: Remove graalvm packages from cache, as they are already compiled binaries
       if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
       run: |
-        nix-store --delete /nix/store/*graalvm-ce*
-        nix-store --delete /nix/store/*installable*java*
+        nix-store --delete /nix/store/*graalvm-ce* || true
+        nix-store --delete /nix/store/*installable*java* || true
 
     - name: optimize nix-store to reduce size
       if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
