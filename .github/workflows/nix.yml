@@ -106,8 +106,6 @@ jobs:
     steps:
       # v2.3.4
     - uses: actions/checkout@5a4ac9002d0be2fb38bd78e4b4dbde5606d7042f
-      with:
-        persist-credentials: false
 
     - name: Cleanup tasks
       run: |
@@ -137,22 +135,17 @@ jobs:
         cp -r nix-cache-ubuntu-20.04-${GITHUB_SHA}/. _output
         rm -rf nix-cache-ubuntu-20.04-${GITHUB_SHA}/
 
-      #v0.5.1
-    - name: Install SSH Client 🔑
-      uses: webfactory/ssh-agent@4b6f4eb000f167422aa955c5a7e848a432931c6f
-      with:
-        ssh-private-key: ${{ secrets.DEPLOY_SSH_KEY }}
-
       #v4
     - name: Deploy pages
       uses: JamesIves/github-pages-deploy-action@3dbacc7e69578703f91f077118b3475862cb09b8
       with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        SSH: true
-        BRANCH: gh-pages
-        FOLDER: _output
-        CLEAN: true
-        CLEAN_EXCLUDE: '[".gitattributes", ".gitignore", "CNAME"]'
+        token: ${{ secrets.GITHUB_TOKEN }}
+        ssh-key: ${{ secrets.DEPLOY_KEY }}
+        branch: gh-pages
+        folder: _output
+        clean: true
+        clean-exclude: '[".gitattributes", ".gitignore", "CNAME"]'
+        single-commit: true
 
   test-channel:
     needs: "deploy"
