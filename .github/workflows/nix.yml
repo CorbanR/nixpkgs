@@ -144,7 +144,7 @@ jobs:
         branch: gh-pages
         folder: _output
         clean: true
-        clean-exclude: '[".gitattributes", ".gitignore", "CNAME"]'
+        clean-exclude: '[".gitattributes", "CNAME"]'
         single-commit: true
 
   test-channel:
