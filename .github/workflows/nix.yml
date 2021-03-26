@@ -184,7 +184,6 @@ jobs:
       # nix-shell -E 'with import <nixpkgs> { }; with import <raunco> {}; runCommand"dummy" { buildInputs = [ vaulted nodejs-8_x rapture ]; } ""'
     - name: Install some packages defined in raunco channel
       run: |
-        nix-env -iA raunco.nodejs-8_x
         nix-env -iA raunco.vaulted
         nix-env -iA raunco.rapture
 
