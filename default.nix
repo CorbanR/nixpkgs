@@ -18,7 +18,6 @@ let
 
   crossPlatformPackages = rec {
     _nyx = callPackage ./pkgs/tools/system/nyx {}; # name conflics with another nix package hence _nyx
-    _deno = callPackage ./pkgs/development/web/deno { inherit (pkgs.darwin.apple_sdk.frameworks) CoreServices Security; }; # name conflics with upstream nix package deno
     dart = callPackage ./pkgs/development/interpreters/dart {};
     github-cli = callPackage ./pkgs/development/tools/gh {};
     goaccess = callPackage ./pkgs/tools/misc/goaccess {};

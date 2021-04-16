@@ -13,7 +13,6 @@ let
 
   crossPlatformPackages = {
     _nyx = callPackage ../tools/system/nyx {}; # name conflics with another nix package hence _nyx; See installCheckPhase
-    _deno = callPackage ../development/web/deno { inherit (pkgs.darwin.apple_sdk.frameworks) CoreServices Security; }; # name conflics with upstream nix deno package hence _deno; See installCheckPhase
     dart = callPackage ../development/interpreters/dart {}; # See installCheckPhase
     github-cli = callPackage ../development/tools/gh/test.nix {};
     goaccess = callPackage ../tools/misc/goaccess {};
