@@ -2,36 +2,46 @@
 
 buildGoModule rec {
   pname = "gh";
-  version = "1.3.0";
+  version = "1.9.1";
 
   src = fetchFromGitHub {
     owner = "cli";
     repo = "cli";
     rev = "v${version}";
-    sha256 = "1d15nrba53yk75n610wnyziq9x5v515i8pqi97iyrsz2gm2lbi3p";
+    sha256 = "1nrbz049nizrrfxdpws05gj0bqk47l4mrl4wcvfb6nwispc74ib0";
   };
 
-  vendorSha256 = "009dv2brr4h71z78cxikgm0az3hxh28mwm94kn2sgx3pd4r5gir5";
+  vendorSha256 = "0j2jy7n7hca5ybwwgh7cvm77j96ngaq1a1l5bl70vjpd8hz2qapc";
 
   nativeBuildInputs = [ installShellFiles pkgs.git];
 
+  # upstream unsets these to handle cross but it breaks our build
+  postPatch = ''
+    substituteInPlace Makefile \
+      --replace "GOOS= GOARCH= GOARM= GOFLAGS= CGO_ENABLED=" ""
+  '';
+
   buildPhase = ''
-    export GO_LDFLAGS="-s -w"
-    make GH_VERSION=${version} bin/gh manpages
+    runHook preBuild
+    make GO_LDFLAGS="-s -w" GH_VERSION=${version} bin/gh manpages
+    runHook postBuild
   '';
 
   installPhase = ''
+    runHook preInstall
     install -Dm755 bin/gh -t $out/bin
     installManPage share/man/*/*.[1-9]
     for shell in bash fish zsh; do
       $out/bin/gh completion -s $shell > gh.$shell
       installShellCompletion gh.$shell
     done
+    runHook postInstall
   '';
 
-  checkPhase = ''
-    make test
-  '';
+  doCheck = false;
+  #checkPhase = ''
+    #make test
+  #'';
 
   meta = with lib; {
     homepage = "https://cli.github.com/";
