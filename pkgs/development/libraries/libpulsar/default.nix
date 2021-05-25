@@ -2,8 +2,8 @@
 , lib
 , pkgs
 , fetchurl
-, version ? "2.6.2"
-, sha512 ? "0c7qhhbn2rvgyh2fqqf78ddryy4fvy93hsav0rbnjzmdnwnhqfyb69wb5ls6fkd8z6ksfxbihnazlsa00sh2klvm3vnb5xkmxj96wlf"
+, version ? "2.7.2"
+, sha512 ? "0ydz2330nyc0pd5d7ic58yacg0dr41pmd5h7n8jzwr7j9jqfdyin40arwlq53nzxz601bw5jajh9ndvlwfg1hbmfa8ncbfpg38l5rzp"
 , boost17x
 , clang
 , llvmPackages

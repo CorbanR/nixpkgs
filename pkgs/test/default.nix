@@ -14,7 +14,6 @@ let
   crossPlatformPackages = {
     _nyx = callPackage ../tools/system/nyx {}; # name conflics with another nix package hence _nyx; See installCheckPhase
     dart = callPackage ../development/interpreters/dart {}; # See installCheckPhase
-    github-cli = callPackage ../development/tools/gh/test.nix {};
     goaccess = callPackage ../tools/misc/goaccess {};
     hello = callPackage ./hello/test.nix {};
     hurl = callPackage ../tools/networking/hurl { inherit (darwin.apple_sdk.frameworks) Security; };
