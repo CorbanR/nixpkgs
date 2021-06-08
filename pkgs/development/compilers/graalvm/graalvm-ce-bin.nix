@@ -1,6 +1,7 @@
 { stdenv, fetchurl, setJavaClassPath, zlib
 , javaVersion ? "11"
-, graalvmVersion ? "20.3.0" }:
+, graalvmVersion ? "20.3.0"
+, lib}:
 
 let
   sources = import ./sources-ce-bin.nix {
@@ -46,7 +47,7 @@ in stdenv.mkDerivation {
 
   doInstallCheck = true;
   installCheckPhase = ''
-    echo ${stdenv.lib.escapeShellArg ''
+    echo ${lib.escapeShellArg ''
              public class HelloWorld {
                public static void main(String[] args) {
                  System.out.println("Hello World");
@@ -62,7 +63,7 @@ in stdenv.mkDerivation {
     #$out/bin/native-image -H:+ReportExceptionStackTraces --verbose --no-server HelloWorld
     #./helloworld
     #./helloworld | fgrep 'Hello World'
-    ${stdenv.lib.optionalString stdenv.isLinux
+    ${lib.optionalString stdenv.isLinux
       ''
         # Ahead-Of-Time compilation with --static
         $out/bin/native-image --no-server --static HelloWorld
@@ -71,7 +72,7 @@ in stdenv.mkDerivation {
       ''}
   '';
 
-  meta = with stdenv.lib; {
+  meta = with lib; {
     homepage = "https://www.graalvm.org/";
     description = "High-performance polyglot VM";
     # Darwin only for now as linux is more of a pain
