@@ -1,0 +1,10 @@
+StorePath: /nix/store/xj6w2ydhg8qmwm57k0xi8ykpjax4g537-nodejs-8.17.0
+URL: nar/1l61709sm8zhjc2nrg189n9jp8r4q474cjd7mdr37hwxag04rxy4.nar.xz
+Compression: xz
+FileHash: sha256:1l61709sm8zhjc2nrg189n9jp8r4q474cjd7mdr37hwxag04rxy4
+FileSize: 8055252
+NarHash: sha256:0ahhr2mlcfvbzbgmyhg51m4d11awr6hg7z9myz4fqvh2z5f25xps
+NarSize: 45854256
+References: 64d69jqbz4s8ziqbpam41sd70w338ars-libcxx-7.1.0 6p0v8pgpywhdlyg0mvcslc6vb5xq87sy-icu4c-69.1-dev 7zc07q84ksf6n5vak65m1bsyh63b7jab-icu4c-69.1 8f4wp5sdl08wrnj3ajsqrjbv7fw5lgv7-zlib-1.2.11 96j2ai9h4f5kaqcnp9kvgbp2srr79xhx-openssl-1.1.1k a98fnfgs4pla2h2a9x5qlh0fb6gybynd-openssl-1.1.1k-dev hsg6zc53fmv6p2r4sqrs32xc3gi4frmx-zlib-1.2.11-dev i3719gs514i6061s99rv6r9q5adnj8p9-python-2.7.18 pcjan45rssdn01cxx3sjg70avjg6c3ni-bash-4.4-p23 qx1wi94d5b72hhwwxg90c3w6iwvbah2s-libuv-1.41.0 xj6w2ydhg8qmwm57k0xi8ykpjax4g537-nodejs-8.17.0
+Deriver: nz0wn7q6d69lkjmlsk38gwrqgljvrw5j-nodejs-8.17.0.drv
+Sig: nixpkgs.raunco.co:4g4XTMwbAjfZ89y6EY5avzYZ7vV3jwqUUlsd8emIoa0OfZguKDtDpaUNC7lRuWuVQS2fYn9+NrBXXDlECUibCg==

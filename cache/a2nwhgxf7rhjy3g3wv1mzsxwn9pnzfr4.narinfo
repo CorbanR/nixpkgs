@@ -1,0 +1,10 @@
+StorePath: /nix/store/a2nwhgxf7rhjy3g3wv1mzsxwn9pnzfr4-sqlite-3.35.2
+URL: nar/1ixz3x750xpdd5s3hckrfrd7la8xxcqc1s9lar48cx7nrw3bnn41.nar.xz
+Compression: xz
+FileHash: sha256:1ixz3x750xpdd5s3hckrfrd7la8xxcqc1s9lar48cx7nrw3bnn41
+FileSize: 713172
+NarHash: sha256:0zy6b26gzpa4symivaz6qya0frbpla9i0zhvv0jykj5x68fy5r59
+NarSize: 1699008
+References: 8f4wp5sdl08wrnj3ajsqrjbv7fw5lgv7-zlib-1.2.11 a2nwhgxf7rhjy3g3wv1mzsxwn9pnzfr4-sqlite-3.35.2 f7f3gz636cqxkav7cy1nlldkwv2b22n1-swift-corefoundation
+Deriver: w8jvcm30byyawig8y61cp72knkgq6qzr-sqlite-3.35.2.drv
+Sig: cache.nixos.org-1:qJvHmfHC3T3kKDz8d+xL2DxnRT+NE9pf/cpMBe1dnxXniGRIyu3UhrgRHU4QJGJ1jRfNh54ldj0t6OE+sQpzCA==

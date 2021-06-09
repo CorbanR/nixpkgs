@@ -1,0 +1,10 @@
+StorePath: /nix/store/qhz9xpqbj6xvwmzxwspdixpr4px2l22j-ICU-66108
+URL: nar/152m516gckxcc6h0gyhkd3wkp3zwx2kc2gg0yfsvyn2v919mf6g3.nar.xz
+Compression: xz
+FileHash: sha256:152m516gckxcc6h0gyhkd3wkp3zwx2kc2gg0yfsvyn2v919mf6g3
+FileSize: 9085276
+NarHash: sha256:0ckmwfm3pyal4sgrmjyizvkp60aid6xkjf1f86v3zh26arshf89b
+NarSize: 41266216
+References: 64d69jqbz4s8ziqbpam41sd70w338ars-libcxx-7.1.0 qhz9xpqbj6xvwmzxwspdixpr4px2l22j-ICU-66108
+Deriver: xfv3rbclvpgv6jhdfd0x1xxjqvxq7c8c-ICU-66108.drv
+Sig: cache.nixos.org-1:qnGS9OqG0Y3WEd8qeUWchBEq4gJOnT9deZAqrJHkE7QsiwsbM/Cnk8zV8kPrjbkI/wjqmvIALs9h4ki8dqUZDQ==

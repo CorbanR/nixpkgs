@@ -1,0 +1,10 @@
+StorePath: /nix/store/zzbnn13hn1ak8g0qrcwd6qmn0abd5wng-perl-5.32.1
+URL: nar/1xsyz9qx2cj8hhdi2khi6mlk7irq6pwv0v4f3i0jmdmbqmba51ww.nar.xz
+Compression: xz
+FileHash: sha256:1xsyz9qx2cj8hhdi2khi6mlk7irq6pwv0v4f3i0jmdmbqmba51ww
+FileSize: 8002716
+NarHash: sha256:1vj7kadq5mdps3i3nva7aihrw706v2sddcvmzb0q0vm1wyk2pw04
+NarSize: 47633256
+References: f7f3gz636cqxkav7cy1nlldkwv2b22n1-swift-corefoundation i8mm0yixkl8c10a4kmwz68zp99cb3nrs-libcxxabi-7.1.0-dev mw8cdz4nbq523xa33zyamsylci73cd63-libcxx-7.1.0-dev xcix5ygyy05z2q9v6901xlm4ljw2yvs8-compiler-rt-libc-7.1.0-dev yzvj23zkg314xjywc3dmzdlqchkqq4m0-coreutils-8.32 zzbnn13hn1ak8g0qrcwd6qmn0abd5wng-perl-5.32.1
+Deriver: r4yh42vjic27hgfmn516dv0k0wb3hzrp-perl-5.32.1.drv
+Sig: cache.nixos.org-1:mMnUzN1X3yMzkq4f7tTbNEebDONI7hAlehrLud8fk7FG3LlBwIaFqOcs29G4TL80TxpP5qUm4QMRi96O1LALBg==

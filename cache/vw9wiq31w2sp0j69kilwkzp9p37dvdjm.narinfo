@@ -1,0 +1,10 @@
+StorePath: /nix/store/vw9wiq31w2sp0j69kilwkzp9p37dvdjm-libtapi-1100.0.11
+URL: nar/0h4bqh6spxnv9mhnncp7ldxz75xylws26hxnicy50gjhnirpwvlk.nar.xz
+Compression: xz
+FileHash: sha256:0h4bqh6spxnv9mhnncp7ldxz75xylws26hxnicy50gjhnirpwvlk
+FileSize: 5727272
+NarHash: sha256:1vwbzazpf38klv5ma9419crxzdlk4a4x354ij3rw3i3lzbf1p9rh
+NarSize: 28518008
+References: 64d69jqbz4s8ziqbpam41sd70w338ars-libcxx-7.1.0 kdydav4gqzd91qlpprnjascbs5hs8qmg-ncurses-6.2 vw9wiq31w2sp0j69kilwkzp9p37dvdjm-libtapi-1100.0.11
+Deriver: 33y6yjgq3igwxrvf57brqzxc5pvhkish-libtapi-1100.0.11.drv
+Sig: cache.nixos.org-1:bOXkivliyNy0e/GvA8NLojKx6Nag943RsUjG3mJYpcg6iz5jXEZL1/9n+OuJBBGlWTcsb5/B5xF/LLmS0NEZBw==

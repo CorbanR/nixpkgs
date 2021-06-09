@@ -1,0 +1,10 @@
+StorePath: /nix/store/m72jkik2983084gcppiv7czlyp815in9-p11-kit-0.23.22
+URL: nar/16dwsikvh6m583wvfz8mvzzxwnz0i76hg68pl26jrxlxxzkdbzwj.nar.xz
+Compression: xz
+FileHash: sha256:16dwsikvh6m583wvfz8mvzzxwnz0i76hg68pl26jrxlxxzkdbzwj
+FileSize: 440488
+NarHash: sha256:0mjyzas3hy9zic6i9jvd0m5af5yxnsv2lrdiqdbxq7lcwc54qvn0
+NarSize: 3660728
+References: 0d71ygfwbmy1xjlbj1v027dfmy9cqavy-libffi-3.3 a4yw1svqqk4d8lhwinn9xp847zz9gfma-bash-4.4-p23 m72jkik2983084gcppiv7czlyp815in9-p11-kit-0.23.22 sbbifs2ykc05inws26203h0xwcadnf0l-glibc-2.32-46 shbrnwda5xanyr3k9xgjzryjcl7fgvms-libtasn1-4.16.0
+Deriver: y825jfwrh00divbrmj2wm67jx78gcz5d-p11-kit-0.23.22.drv
+Sig: cache.nixos.org-1:olfl0GtKiR8mQ+OJpXEi7z+Q7F6DZGwW23A9NJxdEkfQhQrs5Nb/NXm/LnUtCRRkZ15tE5OKwY+zUJ0mJkm/Cg==

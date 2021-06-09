@@ -1,0 +1,10 @@
+StorePath: /nix/store/3n81slg9qrldnnfyfxjyhscqbmz19i7s-truss-cli-0.2.3
+URL: nar/1jgssgfm1hm03wpw04kny8xm4ylw8z812gb41bmfhlz404pc1yvj.nar.xz
+Compression: xz
+FileHash: sha256:1jgssgfm1hm03wpw04kny8xm4ylw8z812gb41bmfhlz404pc1yvj
+FileSize: 7286576
+NarHash: sha256:001ydcyxgq7zrz2bw1vk1h96svjd3aai5l2a7xlxqkmlpschb8m3
+NarSize: 35145728
+References: 7xp1yxk8d67ik4rfcbxxjrfv6fnch0p5-iana-etc-20210225 bjxkrk1pd65z5gz5y62jyqdsjkicvvck-tzdata-2020f rya2s79k5ncqbas09rwhq43lrbr4s3m0-mailcap-2.1.52 sbbifs2ykc05inws26203h0xwcadnf0l-glibc-2.32-46
+Deriver: rj58hhw2j4l0jrllv0n4f3yqxlj5yhjr-truss-cli-0.2.3.drv
+Sig: nixpkgs.raunco.co:Tbd8696B+/dWRctmt5aCTAdjxLq7JNI52MAD0vYlCR4ZEpJchYX3voWApbmvrAMj3PiXORoCFbMyDItxbzCZCA==
