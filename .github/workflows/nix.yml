@@ -136,10 +136,11 @@ jobs:
         rm -rf nix-cache-macos-11.0-${GITHUB_SHA}/
         cp -r nix-cache-ubuntu-20.04-${GITHUB_SHA}/. _output
         rm -rf nix-cache-ubuntu-20.04-${GITHUB_SHA}/
+        ls -lart -hu _output/
 
       #v4
     - name: Deploy pages
-      uses: JamesIves/github-pages-deploy-action@93065a8b71cd5d57c379528f7a43a2e38d908af0
+      uses: JamesIves/github-pages-deploy-action@5dc1d5a192aeb5ab5b7d5a77b7d36aea4a7f5c92
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         ssh-key: ${{ secrets.DEPLOY_KEY }}
@@ -147,7 +148,7 @@ jobs:
         folder: _output
         clean: true
         clean-exclude: '[".gitattributes", "CNAME"]'
-        single-commit: true
+        single-commit: false # Setting to true is causing issues with deploying changes see https://github.com/JamesIves/github-pages-deploy-action/issues/665
 
   test-channel:
     needs: "deploy"
