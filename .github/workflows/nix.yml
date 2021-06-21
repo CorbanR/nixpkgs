@@ -147,7 +147,14 @@ jobs:
         ssh-key: ${{ secrets.DEPLOY_KEY }}
         branch: gh-pages
         folder: _output
+        clean: true
+        clean-exclude: |
+          .gitattributes
+          CNAME
       env:
+        GIT_TRACE_PACKET: 1
+        GIT_TRACE: 1
+        GIT_CURL_VERBOSE: 1
         GIT_CONFIG_COUNT: 1
         GIT_CONFIG_KEY_0: "http.postBuffer"
         GIT_CONFIG_VALUE_0: "524288000"
