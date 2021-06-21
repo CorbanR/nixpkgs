@@ -147,6 +147,10 @@ jobs:
         ssh-key: ${{ secrets.DEPLOY_KEY }}
         branch: gh-pages
         folder: _output
+      env:
+        GIT_CONFIG_COUNT: 1
+        GIT_CONFIG_KEY_0: "http.postBuffer"
+        GIT_CONFIG_VALUE_0: "524288000"
 
   test-channel:
     needs: "deploy"
