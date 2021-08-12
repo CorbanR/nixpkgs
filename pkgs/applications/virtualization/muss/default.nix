@@ -2,13 +2,13 @@
 
 buildGoModule rec {
   pname = "muss";
-  version = "0.7";
+  version = "0.9";
 
   src = fetchFromGitHub {
-    owner = "instructure";
+    owner = "get-bridge";
     repo = "muss";
     rev = "v${version}";
-    sha256 = "12mglzjbwdsmixnwajzpp9qvhmabcgszyjfcssk0bxs8pk1zvyz6";
+    sha256 = "11s4qvy2c9qdbfa57f4k4f3z7z6ml8apd2q8vn0bdd8cgkavh5v6";
   };
 
   doCheck = false;
@@ -16,13 +16,13 @@ buildGoModule rec {
 
   buildFlagsArray = ''
     -ldflags=
-       -X gerrit.instructure.com/muss/cmd.Version=v${version}
+       -X github.com/get-bridge/muss/cmd.Version=v${version}
   '';
 
   buildFlags = [ "-tags netgo" ];
 
   meta = with lib; {
-    homepage = "https://github.com/instructure/muss";
+    homepage = "https://github.com/get-bridge/muss";
     description = "For when your docker-compose projects are a mess";
     platforms = platforms.linux ++ platforms.darwin;
     license = licenses.mit;
