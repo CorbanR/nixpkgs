@@ -3,13 +3,13 @@
 buildGoModule rec {
   pname = "muss";
   #TODO add a script to automatically do this(prefetch and update from latest master)
-  version = "548d2c42e84d5090ff44a0bcd08dfc2430e59c52";
+  version = "e94f1e61625a97de7bfb0c673578073087302b87";
 
   src = fetchFromGitHub {
     owner = "get-bridge";
     repo = "muss";
     rev = "${version}";
-    sha256 = "0xbwzjxzrlrrb5a6k038zphci4bldjzpy600slnc9k694asmqdqg";
+    sha256 = "11s4qvy2c9qdbfa57f4k4f3z7z6ml8apd2q8vn0bdd8cgkavh5v6";
   };
 
   doCheck = false;
