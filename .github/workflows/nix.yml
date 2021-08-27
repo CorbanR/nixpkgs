@@ -96,7 +96,7 @@ jobs:
       #v2.2.2
     - name: Upload artifacts
       if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
-      uses: actions/upload-artifact@ee69f02b3dfdecd58bb31b4d133da38ba6fe3700
+      uses: actions/upload-artifact@27121b0bdffd731efa15d66772be8dc71245d074
       with:
         name: nix-cache-${{ matrix.os }}-${{ github.sha }}
         path: _output
@@ -117,14 +117,14 @@ jobs:
 
       #v2.0.8
     - name: Download linux artifacts
-      uses: actions/download-artifact@158ca71f7c614ae705e79f25522ef4658df18253
+      uses: actions/download-artifact@3be87be14a055c47b01d3bd88f8fe02320a9bb60
       with:
         name: nix-cache-ubuntu-20.04-${{ github.sha }}
         path: nix-cache-ubuntu-20.04-${{ github.sha }}
 
       #v2.0.8
     - name: Download mac artifacts
-      uses: actions/download-artifact@158ca71f7c614ae705e79f25522ef4658df18253
+      uses: actions/download-artifact@3be87be14a055c47b01d3bd88f8fe02320a9bb60
       with:
         name: nix-cache-macos-11.0-${{ github.sha }}
         path: nix-cache-macos-11.0-${{ github.sha }}
@@ -141,7 +141,7 @@ jobs:
 
       #v4
     - name: Deploy pages
-      uses: JamesIves/github-pages-deploy-action@5dc1d5a192aeb5ab5b7d5a77b7d36aea4a7f5c92
+      uses: JamesIves/github-pages-deploy-action@0f24da7de3e7e135102609a4c9633b025be8411b
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         ssh-key: ${{ secrets.DEPLOY_KEY }}

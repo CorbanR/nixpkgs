@@ -13,9 +13,9 @@ let
     typescript
   ];
 
-  ruby = ruby_2_7;
-  rakeVersion = { version = "13.0.3"; pname = "rake"; source.sha256 = "1iik52mf9ky4cgs38fp2m8r6skdkq1yz23vh18lk95fhbcxb6a67"; };
-  rubyPackages = ruby.withPackages (ps: with ps; [ (rake.override rakeVersion ) pry ]);
+  ruby = ruby_3_0;
+  rakeVersion = { version = "13.0.6"; pname = "rake"; source.sha256 = "15whn7p9nrkxangbs9hh75q585yfn66lv0v2mhj6q6dl6x8bzr2w"; };
+  rubyPackages = ruby.withPackages (ps: with ps; [ (rake.override rakeVersion ) pry solargraph brakeman rubocop concurrent-ruby ]);
 
 in mkShell rec {
   name = "raunco.nixpkgs";
