@@ -1,4 +1,4 @@
-{ lib, buildGoModule, fetchFromGitHub, writeText }:
+{ lib, buildGoModule, fetchFromGitHub }:
 
 buildGoModule rec {
   pname = "rapture";
