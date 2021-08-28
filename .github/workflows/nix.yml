@@ -1,4 +1,6 @@
 name: 'Nixpkgs'
+env:
+  ACTIONS_RUNNER_DEBUG: true
 on:
   pull_request:
     branches-ignore:
@@ -157,7 +159,26 @@ jobs:
         GIT_CURL_VERBOSE: 1
         GIT_CONFIG_COUNT: 1
         GIT_CONFIG_KEY_0: "http.postBuffer"
-        GIT_CONFIG_VALUE_0: "524288000"
+        GIT_CONFIG_VALUE_0: 104857600
+        GIT_CONFIG_KEY_1: "lfs.dialtimeout"
+        GIT_CONFIG_VALUE_1: 60
+        GIT_CONFIG_KEY_2: "lfs.tlstimeout"
+        GIT_CONFIG_VALUE_2: 60
+        GIT_CONFIG_KEY_3: "lfs.activitytimeout"
+        GIT_CONFIG_VALUE_3: 60
+        GIT_CONFIG_KEY_4: "lfs.keepalive"
+        GIT_CONFIG_VALUE_4: 60
+        GIT_CONFIG_KEY_5: "lfs.transfer.maxretries"
+        GIT_CONFIG_VALUE_5: 10
+        GIT_CONFIG_KEY_6: "lfs.pruneverifyremotealways"
+        GIT_CONFIG_VALUE_6: true
+
+    - name: Setup tmate session
+      if: ${{ failure() }}
+      uses: mxschmitt/action-tmate@v3
+      with:
+        limit-access-to-actor: true
+        timeout-minutes: 30
 
   test-channel:
     needs: "deploy"
