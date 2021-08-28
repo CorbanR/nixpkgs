@@ -1,0 +1,10 @@
+StorePath: /nix/store/339hll12z1ibv87gnlfpjvy36v5wdznc-goaccess-1.4
+URL: nar/13a9g9dc9nxaxa7rpaqcml5slfhvfrhaqwqg28s4c0zjgg2kf3vm.nar.xz
+Compression: xz
+FileHash: sha256:13a9g9dc9nxaxa7rpaqcml5slfhvfrhaqwqg28s4c0zjgg2kf3vm
+FileSize: 262648
+NarHash: sha256:0rc0xflw0yiiscziy2zk23hzyg4h77s8l5n8m9hqbvp36ycdmyhm
+NarSize: 895856
+References: 339hll12z1ibv87gnlfpjvy36v5wdznc-goaccess-1.4 3la43l2mgdyhfplz9vajxfqfvkfapm2d-libmaxminddb-1.6.0 9bh3986bpragfjmr32gay8p95k91q4gy-glibc-2.33-47 iz7bgfvjmwdz3vgmzryhfkqwbn8zr2jn-ncurses-6.2
+Deriver: i4aqchp46ljxdw9jc314r4cp2b9q748g-goaccess-1.4.drv
+Sig: nixpkgs.raunco.co:4f+xmlWrbuDwFuZ5U41b1Uncfb+7fVqGvdtN7TNWB1o829KfqWvnJnTYjcmllozd70GF1CgljtPQMbtRYaXMBw==

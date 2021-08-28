@@ -1,0 +1,10 @@
+StorePath: /nix/store/ixc0bw32xlnhgz106j43va1zwxbva847-curl-7.76.1
+URL: nar/0006gn0d52y16pkx03kmgiy3fy2q8wc0ydah5wkzyag0bx0hci3z.nar.xz
+Compression: xz
+FileHash: sha256:0006gn0d52y16pkx03kmgiy3fy2q8wc0ydah5wkzyag0bx0hci3z
+FileSize: 225588
+NarHash: sha256:0g8favbswka9c51afymxf6kn5kk9j21i161j80jmxmayglgpvgi6
+NarSize: 574448
+References: 78varx1cfszlc4dvqz7kz3c6c4v67lcz-Libsystem-1238.60.2 9syy1w8nmw1fvwvvvyizf1nb8rm8r6gr-libssh2-1.9.0 dk6xfkigq5bzq5z50y3l5pim5xwhm9jy-brotli-1.0.9-lib iq8rgplybpl1ym2zwlrjwqvz81x6jpwl-nghttp2-1.43.0-lib ixc0bw32xlnhgz106j43va1zwxbva847-curl-7.76.1 ld7rs20840hxbfgl64xkiz321jhdx8jh-libkrb5-1.18 rpkfbd9x6ahm805hdp2i1iplsfz8vjjx-openssl-1.1.1k zwq2ahix3s9zmx36yb0613sf04lipzd1-zlib-1.2.11
+Deriver: ssr8a4c900jcgc5rkd76knsfb0myq71n-curl-7.76.1.drv
+Sig: cache.nixos.org-1:X9r7oKUpaAJ6G7rorUG2trhpeJIsczih3uiIO+9iNQuPWBNIJDepwJzIfgdSaStjkADBfg2VUB6JvSn2SAZ9Aw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/7invyd9p3q98hdjprp9i1q3w8alw9pz9-compiler-rt-libc-7.1.0
+URL: nar/12zffbbklh031z3pzmw9jdv785c919vsnnhysn4fgga1ngbpk0n7.nar.xz
+Compression: xz
+FileHash: sha256:12zffbbklh031z3pzmw9jdv785c919vsnnhysn4fgga1ngbpk0n7
+FileSize: 526464
+NarHash: sha256:06j1ny29ky2zkfrnhvsx7zfcvd20pk9sxfxrrg60dq4z6g1g1v28
+NarSize: 4626312
+References: 7invyd9p3q98hdjprp9i1q3w8alw9pz9-compiler-rt-libc-7.1.0 qwvd8rq6ydsafyqhn0n4gxjxk8mvrr45-libcxx-7.1.0 y884fbr2va68yzpa1395ixg9wzgiq65q-libcxxabi-7.1.0
+Deriver: w5ywvv6554cash8p39hd20icaiiqlr00-compiler-rt-libc-7.1.0.drv
+Sig: cache.nixos.org-1:Iwrlv1Y0yuAKonmwDGPLB9x7u9TFAGylRfaoZdd+P8hGmUgmrmdQpouaIePjIKm0WKTacWorZydmM6sXgwtwDg==

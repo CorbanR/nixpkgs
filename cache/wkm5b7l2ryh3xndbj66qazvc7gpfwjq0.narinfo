@@ -1,0 +1,10 @@
+StorePath: /nix/store/wkm5b7l2ryh3xndbj66qazvc7gpfwjq0-nettle-3.7.3
+URL: nar/0f8m7xmwbybnimn0y640pks35z90p3vcxcq9b4b3kzk9a7zdnvzy.nar.xz
+Compression: xz
+FileHash: sha256:0f8m7xmwbybnimn0y640pks35z90p3vcxcq9b4b3kzk9a7zdnvzy
+FileSize: 292012
+NarHash: sha256:125jhpckikqhgcwn1ahzmw02xfw2jdb408g0smajhpahbrbhzgqp
+NarSize: 526944
+References: ffd9cirdvch4d32ll2n3n2rc3yw5g2ry-swift-corefoundation hhi9a2s9mmd3f5kylvpskvzcqdhvxcpn-gmp-6.2.1 wkm5b7l2ryh3xndbj66qazvc7gpfwjq0-nettle-3.7.3
+Deriver: whmga5nlqiln3nkj5xfc2ss55nch7kbc-nettle-3.7.3.drv
+Sig: cache.nixos.org-1:DzSWLnvgPcLOd1V+BKGWsLTGyJqWnLqjpowhJpKhcQco5O6+rcGidr3lNHDXZFuDt1VMzJIdAW/mpSdozNCLBA==
