@@ -154,10 +154,10 @@ jobs:
           .gitattributes
           CNAME
       env:
-        GIT_TRACE_PACKET: 1
+        #GIT_TRACE_PACKET: 1
         GIT_TRACE: 1
-        GIT_CURL_VERBOSE: 1
-        GIT_CONFIG_COUNT: 1
+        #GIT_CURL_VERBOSE: 1
+        GIT_CONFIG_COUNT: 7
         GIT_CONFIG_KEY_0: "http.postBuffer"
         GIT_CONFIG_VALUE_0: 104857600
         GIT_CONFIG_KEY_1: "lfs.dialtimeout"
