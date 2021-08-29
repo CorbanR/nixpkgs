@@ -1,10 +1,10 @@
 StorePath: /nix/store/0j8xqjxcw6g3vh0dx5pbx4njg895m7cx-hurl-1.2.0
-URL: nar/0vs1y9djkdkjlqdcmsnz6nm4lw377g1wrpgnxkjazxnj8qc47i30.nar.xz
+URL: nar/0fdgz41z7hjn6y76bxw514f7sc7q6x36fi6fb8mkf2aa8hc9dqal.nar.xz
 Compression: xz
-FileHash: sha256:0vs1y9djkdkjlqdcmsnz6nm4lw377g1wrpgnxkjazxnj8qc47i30
-FileSize: 1606160
-NarHash: sha256:19yz3vcrzd75wgfmirzkb3f8d1fwgiwar1c2mzj8pnwjrx2kngfv
-NarSize: 8172760
+FileHash: sha256:0fdgz41z7hjn6y76bxw514f7sc7q6x36fi6fb8mkf2aa8hc9dqal
+FileSize: 1606172
+NarHash: sha256:0rm2cfc81p4s36jjkrpb5r5mvypbw9rd2fby4xa28z6ndbfh0mwa
+NarSize: 8172768
 References: 78varx1cfszlc4dvqz7kz3c6c4v67lcz-Libsystem-1238.60.2 7lbcxm226g4nwacj92gil6665f8iyd13-libiconv-50 dyf5axcb63pk3arq1zs5s4mkm8d41ypj-curl-7.76.1 szbk2kywx3gjva8vzjvl4rg8lcwz6ymg-libxml2-2.9.12
 Deriver: 5iwskk7pplg1abwrqw7vcrv7g4v01gb1-hurl-1.2.0.drv
-Sig: nixpkgs.raunco.co:5eebOQQRhDbqnyGpUzxRt/CJYk4UquQzcdRKet3SytP54rdTa+ac0DSq+LxHj0yrgQWylVx+wK0KC0jqv38UDw==
+Sig: nixpkgs.raunco.co:+CB+V2VVQJ0ZOwEyXIgbjH+iIxQIeQ0mCI2yq8uo/2Eou01azE2t9qnMrKh+TnjzKn/Q2Srp1fR8QZFx4tWlBg==
