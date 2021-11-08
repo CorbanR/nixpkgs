@@ -13,6 +13,7 @@ let
 
   crossPlatformPackages = {
     _nyx = callPackage ../tools/system/nyx {}; # name conflics with another nix package hence _nyx; See installCheckPhase
+    artichoke = callPackage ../development/compilers/artichoke {}; # See installCheckPhase
     dart = callPackage ../development/interpreters/dart {}; # See installCheckPhase
     goaccess = callPackage ../tools/misc/goaccess {};
     hello = callPackage ./hello/test.nix {};
