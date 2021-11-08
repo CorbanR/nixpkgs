@@ -18,6 +18,7 @@ let
 
   crossPlatformPackages = rec {
     _nyx = callPackage ./pkgs/tools/system/nyx {}; # name conflics with another nix package hence _nyx
+    artichoke = callPackage ./pkgs/development/compilers/artichoke {};
     dart = callPackage ./pkgs/development/interpreters/dart {};
     goaccess = callPackage ./pkgs/tools/misc/goaccess {};
     hurl = callPackage ./pkgs/tools/networking/hurl { inherit (pkgs.darwin.apple_sdk.frameworks) Security; };
