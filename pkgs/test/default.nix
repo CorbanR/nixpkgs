@@ -2,13 +2,17 @@
 
 with pkgs;
 let
-  isDarwin = pkgs.system == "x86_64-darwin";
+  isDarwin = pkgs.stdenv.hostPlatform.isDarwin;
+  isx86_64 = pkgs.stdenv.hostPlatform.isx86_64;
+
+  x86_64-darwinOnly = {
+    nodejs-8_x = callPackage ../development/web/nodejs-8_x/test.nix {};
+  };
 
   # Packages that are darwin only for now
   darwinPlatformPackages = {
     graalvm11-ce-bin = callPackage ../development/compilers/graalvm/test-bin.nix { javaVersion = "11"; }; # See installCheckPhase
     graalvm8-ce-bin = callPackage ../development/compilers/graalvm/test-bin.nix { javaVersion = "8"; }; # See installCheckPhase
-    nodejs-8_x = callPackage ../development/web/nodejs-8_x/test.nix {};
   };
 
   crossPlatformPackages = {
@@ -27,6 +31,6 @@ let
     xmlsec-openssl = callPackage ../development/libraries/xmlsec-openssl/test.nix {};
   };
 
-  tests = {} // (if isDarwin then (crossPlatformPackages // darwinPlatformPackages) else crossPlatformPackages);
+  tests = {} // crossPlatformPackages // pkgs.lib.optionalAttrs isDarwin darwinPlatformPackages // pkgs.lib.optionalAttrs isx86_64 x86_64-darwinOnly;
 
 in tests

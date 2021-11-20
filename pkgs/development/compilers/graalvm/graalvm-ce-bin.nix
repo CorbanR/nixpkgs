@@ -76,7 +76,7 @@ in stdenv.mkDerivation {
     homepage = "https://www.graalvm.org/";
     description = "High-performance polyglot VM";
     # Darwin only for now as linux is more of a pain
-    platforms = [ "x86_64-darwin" ];
+    platforms = [ "x86_64-darwin" "aarch64-darwin"];
     license = licenses.gpl2;
     maintainers = [ (import ../../../../maintainers/maintainer-list.nix).craun ];
   };

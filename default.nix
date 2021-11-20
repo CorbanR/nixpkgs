@@ -2,18 +2,22 @@
 
 let
   pkgs = import <nixpkgs> { inherit system; };
-  isDarwin = system == "x86_64-darwin";
+  isDarwin = pkgs.stdenv.hostPlatform.isDarwin;
+  isx86_64 = pkgs.stdenv.hostPlatform.isx86_64;
 
   callPackage = pkgs.lib.callPackageWith (pkgs // self);
+
+  x86_64-darwinOnly = {
+    nodejs-8_x = callPackage ./pkgs/development/web/nodejs-8_x {}; # Not sure what broke this package in Ubuntu.. but moving here for now as I primarily use this on OSX only
+  };
 
   # Packages that are darwin only for now
   darwinPlatformPackages = {
     dart_stable = callPackage ./pkgs/development/interpreters/dart {};
-    dart_beta = callPackage ./pkgs/development/interpreters/dart {version="2.12.0-29.10.beta";};
-    dart_dev = callPackage ./pkgs/development/interpreters/dart {version="2.12.0-79.0.dev";};
+    dart_beta = callPackage ./pkgs/development/interpreters/dart {version="2.15.0-268.18.beta";};
+    dart_dev = callPackage ./pkgs/development/interpreters/dart {version="2.16.0-21.0.dev";};
     graalvm11-ce-bin = callPackage ./pkgs/development/compilers/graalvm/graalvm-ce-bin.nix { javaVersion = "11"; };
     graalvm8-ce-bin = callPackage ./pkgs/development/compilers/graalvm/graalvm-ce-bin.nix { javaVersion = "8"; };
-    nodejs-8_x = callPackage ./pkgs/development/web/nodejs-8_x {}; # Not sure what broke this package in Ubuntu.. but moving here for now as I primarily use this on OSX only
   };
 
   crossPlatformPackages = rec {
@@ -33,5 +37,5 @@ let
     xmlsec-openssl = callPackage ./pkgs/development/libraries/xmlsec-openssl {};
   };
 
-  self = {} // (if isDarwin then (crossPlatformPackages // darwinPlatformPackages) else crossPlatformPackages);
+  self = {} // crossPlatformPackages // pkgs.lib.optionalAttrs isDarwin darwinPlatformPackages // pkgs.lib.optionalAttrs isx86_64 x86_64-darwinOnly;
 in self
