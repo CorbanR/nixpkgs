@@ -72,7 +72,7 @@ in
       homepage = "https://pulsar.apache.org/docs/en/client-libraries-cpp";
       description = "Apache Pulsar C++ library";
 
-      platforms = [ "x86_64-darwin" "x86_64-linux" ];
+      platforms = [ "x86_64-darwin" "x86_64-linux" "aarch64-darwin"];
       license = licenses.asl20;
       maintainers = [ (import ../../../../maintainers/maintainer-list.nix).craun ];
     };

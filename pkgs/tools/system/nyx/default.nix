@@ -38,7 +38,7 @@ in
       homepage = "https://github.com/kongo2002/nyx";
       description = "Lean linux and OSX process monitoring written in C";
 
-      platforms = [ "x86_64-darwin" "x86_64-linux" ];
+      platforms = [ "x86_64-darwin" "x86_64-linux" "aarch64-darwin" ];
       license = licenses.asl20;
       maintainers = [ (import ../../../../maintainers/maintainer-list.nix).craun ];
     };
