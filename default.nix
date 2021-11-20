@@ -8,7 +8,7 @@ let
   callPackage = pkgs.lib.callPackageWith (pkgs // self);
 
   x86_64-darwinOnly = {
-    nodejs-8_x = callPackage ./pkgs/development/web/nodejs-8_x {}; # Not sure what broke this package in Ubuntu.. but moving here for now as I primarily use this on OSX only
+    # nodejs-8_x = callPackage ./pkgs/development/web/nodejs-8_x {}; # Not sure what broke this package in Ubuntu.. but moving here for now as I primarily use this on OSX only
   };
 
   # Packages that are darwin only for now
