@@ -6,7 +6,7 @@ let
   isx86_64 = pkgs.stdenv.hostPlatform.isx86_64;
 
   x86_64-darwinOnly = {
-    nodejs-8_x = callPackage ../development/web/nodejs-8_x/test.nix {};
+    # nodejs-8_x = callPackage ../development/web/nodejs-8_x/test.nix {};
   };
 
   # Packages that are darwin only for now
