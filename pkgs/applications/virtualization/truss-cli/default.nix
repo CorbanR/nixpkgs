@@ -14,7 +14,7 @@ buildGoModule rec {
   doCheck = false;
 
   vendorSha256 = "1kqvw85l6jqk69j399aqrrjcf9sgbqx34javqqzbvq26dj4i42qs";
-  buildFlagsArray = [ "-ldflags= -s -w -X github.com/get-bridge/truss-cli/cmd.Version=${version}" ];
+  ldflags = ["-s -w -X github.com/get-bridge/truss-cli/cmd.Version=${version}"];
 
   meta = with lib; {
     homepage = "https://github.com/get-bridge/truss-cli";

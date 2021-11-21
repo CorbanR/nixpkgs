@@ -1,7 +1,6 @@
-{ system ? builtins.currentSystem }:
+{ system ? builtins.currentSystem, pkgs, ... }:
 
 let
-  pkgs = import <nixpkgs> { inherit system; };
   isDarwin = pkgs.stdenv.hostPlatform.isDarwin;
   isx86_64 = pkgs.stdenv.hostPlatform.isx86_64;
 
