@@ -1,4 +1,4 @@
-{ system ? builtins.currentSystem, pkgs, ... }:
+{ system ? builtins.currentSystem, pkgs ? import <nixpkgs> {}, ... }:
 
 let
   isDarwin = pkgs.stdenv.hostPlatform.isDarwin;
