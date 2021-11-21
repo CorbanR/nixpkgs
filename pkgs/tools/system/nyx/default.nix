@@ -28,6 +28,7 @@ in
 
   doInstallCheck = true;
   installCheckPhase = ''
+    $out/bin/nyx terminate &> /dev/null || true
     $out/bin/nyx --run sleep 20
     sleep 3
     $out/bin/nyx stop __run__

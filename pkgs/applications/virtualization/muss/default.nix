@@ -14,12 +14,8 @@ buildGoModule rec {
   doCheck = false;
   vendorSha256 = "01p79qwrj2kqwkc7bpljrilpb4aglxfl7ksnmj8mscscpl8as13y";
 
-  buildFlagsArray = ''
-    -ldflags=
-       -X github.com/get-bridge/muss/cmd.Version=v${version}
-  '';
-
-  buildFlags = [ "-tags netgo" ];
+  ldflags = ["-X github.com/get-bridge/muss/cmd.Version=${version}"];
+  tags = ["netgo"];
 
   meta = with lib; {
     homepage = "https://github.com/get-bridge/muss";
