@@ -1,0 +1,9 @@
+StorePath: /nix/store/8dyklcjw3c1660vki4rid20wmv8r9qhz-boost-1.69.0.drv
+URL: nar/1kji4dp3yikwr88sq3ilz7w5k4pr9zf5c2bp77i3amzy2ax3vm60.nar.xz
+Compression: xz
+FileHash: sha256:1kji4dp3yikwr88sq3ilz7w5k4pr9zf5c2bp77i3amzy2ax3vm60
+FileSize: 1880
+NarHash: sha256:01v1wfq909nzdrn8i0r1hfkah0hbsnf832sy7n7hvzmwam76xq5r
+NarSize: 4448
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv aabk07zyrnchafakm8r27skpqldlqi4q-glibc-iconv-2.33.drv ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv ing6g8am6sfzi2dsz3vdj5f3c3gq9d26-expat-2.4.1.drv ivs0vlsxxrfqrm1d5yac213z2wy5hiwf-boost-build-boost-1.69.0.drv p1jw2hf4686j8yv6kqf4yw16cjk2aybj-bzip2-1.0.6.0.2.drv qjq49q5xlbs8s9am0hhd2116j9icmb6g-icu4c-70.1.drv r6xyji8snlcq3lj94mdqxqq92h0x08hf-which-2.21.drv vjr3pj9y1xbbzr7shq5kfhnprb6s76g4-2354eca9b776a6739112833f64754108cc0d1dc5.patch.drv z916075g62xa9zzs3k40ms760x30k8q1-boost_1_69_0.tar.bz2.drv
+CA: text:sha256:1cnl490inwsy19h7g74nd80lqkkpqkqrswhgnjdlgc4d8rd0mg35

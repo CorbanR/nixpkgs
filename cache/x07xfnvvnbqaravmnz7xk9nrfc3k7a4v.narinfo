@@ -1,0 +1,10 @@
+StorePath: /nix/store/x07xfnvvnbqaravmnz7xk9nrfc3k7a4v-libpulsar-2.7.2
+URL: nar/0ilyzk3v2r6jgn9la7jscfk5mhpys079qvffddhmh5j1wxxnqi1c.nar.xz
+Compression: xz
+FileHash: sha256:0ilyzk3v2r6jgn9la7jscfk5mhpys079qvffddhmh5j1wxxnqi1c
+FileSize: 2086536
+NarHash: sha256:1n4lfzmcb3fhjf5kflfyhxmzxb6dh6bn5jjvyc2qmn5jiav87r9k
+NarSize: 24466224
+References: 0vx5lr4639brlghdwn8fzgzvn7ca0hwp-zlib-1.2.11 23hmhznkarra9b2g0c0ni4afxg623rfr-openssl-1.1.1l 3m3bh78qlizlywqkqnixqldghyy5lx38-curl-7.79.1 593f2cvplisa8vwj7fjj9k1zvwnydzz4-snappy-1.1.9 c5cbnnsnj8fgdzfs9khhn1gw2l78irsf-protobuf-3.19.0 ddkrxvqbrsqi61ivmva0j680wnm16a8z-boost-1.75.0 ff88p8pnhdmf8bflzbxldys21djw9dp0-glibc-2.33-56 mbmzpmpq0q2mm0b4bysqm1wbjk88kb1k-zstd-1.5.0 r6hnfzkm1q6awqmgr04nc8nfxrpbjvsq-gcc-10.3.0-lib
+Deriver: ca3zsxljaan1xrpz11zkmfv2jkzs3gry-libpulsar-2.7.2.drv
+Sig: nixpkgs.raunco.co:gfaX6WmXfMdITDOBu6cw/P0yJkufpokEoMgS62nlFjJcjKnhM9spgqEN4tewRYqq1T+wG0rtLQHByE8D0jKGAA==

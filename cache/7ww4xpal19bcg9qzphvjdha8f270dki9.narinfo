@@ -1,0 +1,9 @@
+StorePath: /nix/store/7ww4xpal19bcg9qzphvjdha8f270dki9-dartsdk-linux-x64-release.zip.drv
+URL: nar/0zdfilp4dvlgwcdv8m8782qpngw836dxd7aw345k30swpsw0bzk5.nar.xz
+Compression: xz
+FileHash: sha256:0zdfilp4dvlgwcdv8m8782qpngw836dxd7aw345k30swpsw0bzk5
+FileSize: 1300
+NarHash: sha256:05vc1j7s2z2p5cjh558j39w3dfympmv35yazzfjd3lpmfn9mp6rx
+NarSize: 2960
+References: 1151zln3c3j1q6f5jdm5c6509n1rf9y9-curl-7.79.1.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 93g01qi589sgyhyim0rcii7j945yma6a-mirrors-list.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv j2x2lsbacglr9zgzl6abp8sd2kf2j4j7-stdenv-linux.drv
+CA: text:sha256:10x1y66r4m7f2h0c5f898iwvmsda58iflxfscrqwfzp77hx0vw58

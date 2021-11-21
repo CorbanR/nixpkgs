@@ -1,0 +1,9 @@
+StorePath: /nix/store/hm952mj53gcj2bcc1x7pqvcl8ypab1f1-freetype-2.11.0.drv
+URL: nar/1vi2pv4aamn4w6cxbid4hrc5r2lbxgjzpvrpdwp2gskaqqm7063b.nar.xz
+Compression: xz
+FileHash: sha256:1vi2pv4aamn4w6cxbid4hrc5r2lbxgjzpvrpdwp2gskaqqm7063b
+FileSize: 1540
+NarHash: sha256:0v756ysfmskfx9s58wv1lsmm2hm251gbcfirrjjbhy8igfjfmqp4
+NarSize: 3616
+References: 2zrzrqy4r3bxdzcnjcxlaiirf24bzmkb-enable-subpixel-rendering.patch 3ki6s9wm7kfm4pm60jk6z89aijzsv408-enable-table-validation.patch 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 8xxchkb6r8qp143mmy7szrsd08dfc5sv-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv d230rcn8fxw14mqi9k1i5h9km0kcaphs-freetype-2.11.0.tar.xz.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv p1jw2hf4686j8yv6kqf4yw16cjk2aybj-bzip2-1.0.6.0.2.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv r6xyji8snlcq3lj94mdqxqq92h0x08hf-which-2.21.drv s96m1yg1zh4x1k9c0lswnrrn8dyixfc0-libpng-apng-1.6.37.drv
+CA: text:sha256:0w48ij71kfprl6z32dn8gdnm6baws7a4pmjh2p78px2njq2q4l3z

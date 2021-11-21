@@ -1,0 +1,9 @@
+StorePath: /nix/store/l6l1q0anqjcsqsan05ygca2s2nf32qfz-Libm-2026.drv
+URL: nar/1352k9llyah5hrc4vskjjk24w171kfsfgq1ai275z7cx5ii3s8f1.nar.xz
+Compression: xz
+FileHash: sha256:1352k9llyah5hrc4vskjjk24w171kfsfgq1ai275z7cx5ii3s8f1
+FileSize: 1104
+NarHash: sha256:0dyzqm3cr9xj0m7l23zxgiksr5kfwbh4ya5gsk1ibbcn0wx8md8k
+NarSize: 2400
+References: 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 8b1aara3jqcj7g5l9ngq394mw35cm9m1-Libm-2026.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh jskzifpxhhm2q6gx8569p81lqfqhbcb4-bootstrap-stage1-stdenv-darwin.drv
+CA: text:sha256:0br7hzcf1y8ydqr91flhdg8kgf2qip1lqrz3h33dhw9ndv6pw6il

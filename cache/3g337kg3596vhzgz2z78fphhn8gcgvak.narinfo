@@ -1,0 +1,9 @@
+StorePath: /nix/store/3g337kg3596vhzgz2z78fphhn8gcgvak-ruby2.7.4-asciidoctor-mathematical-0.3.5.drv
+URL: nar/0yxm85xlvjqa2720s12dr0lcxlj0vpnz98ra5g9fj69qwl9nizq2.nar.xz
+Compression: xz
+FileHash: sha256:0yxm85xlvjqa2720s12dr0lcxlj0vpnz98ra5g9fj69qwl9nizq2
+FileSize: 2380
+NarHash: sha256:02jpz07k8xsb17sshb6348sfh4iaz9nplsi4dmzhk9gilysv0h7m
+NarSize: 5984
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a2yynnb67rcn16kghgh20yzlqd1abk3m-asciidoctor-mathematical-0.3.5.gem.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv lddb4nzfkd9kxhlaaad83yfkxp32mjjw-ruby-2.7.4.drv q2k6krklsv05bi7y4zwwgjpjb78ia417-ruby2.7.4-asciimath-2.0.3.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb s1cfn6krk7d6q96yk4ynl6fn4gh9fv2x-ruby2.7.4-mathematical-1.6.14.drv s5zyhx3minxki7qxa5pw9w2zxgy4r1yq-ruby2.7.4-asciidoctor-2.0.16.drv
+CA: text:sha256:1xv3bwmdwj60p9c28amk4za2k7baj39jwp6yky1dpqmaslzn1ll2

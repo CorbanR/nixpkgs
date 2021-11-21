@@ -1,0 +1,9 @@
+StorePath: /nix/store/dqmw14gnshp1d0if2paigzrb77k14a10-fribidi-1.0.10.drv
+URL: nar/039zmksa6sd2djy7y1w55fxxzll5m9fy6gwmcgsbmxqhk5qbvg0l.nar.xz
+Compression: xz
+FileHash: sha256:039zmksa6sd2djy7y1w55fxxzll5m9fy6gwmcgsbmxqhk5qbvg0l
+FileSize: 1064
+NarHash: sha256:181zm1xf763ffpa3wl3iga17pq0kiqkysdy7m5aj7341ghgawax2
+NarSize: 2368
+References: 0dk5d0lnjb2r4y3yykagabmcgxjzn46d-fribidi-1.0.10.tar.xz.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 8xxchkb6r8qp143mmy7szrsd08dfc5sv-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv c2y93ncjfr22hf735hybf48ldfrx6bjr-ninja-1.10.2.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv xfbzw9mbi5cjfx3qfs1yardhmi515zdq-meson-0.57.1.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv
+CA: text:sha256:0rs4i4s0zii2in9zhx35a51ih3943mjp8dkk43r6n8kkh3c4l3xr

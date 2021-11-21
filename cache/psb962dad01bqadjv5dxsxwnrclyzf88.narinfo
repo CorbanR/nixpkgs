@@ -1,0 +1,9 @@
+StorePath: /nix/store/psb962dad01bqadjv5dxsxwnrclyzf88-ruby2.7.4-prawn-2.4.0.drv
+URL: nar/1jk7hzxvbxpbvbxrn2mwqs0agzx0ak0jqydkflkl8bgvghxa6wyl.nar.xz
+Compression: xz
+FileHash: sha256:1jk7hzxvbxpbvbxrn2mwqs0agzx0ak0jqydkflkl8bgvghxa6wyl
+FileSize: 2300
+NarHash: sha256:1mmsj8cn61d9ql2f1fwxq9s449xbm2cn48h871n0rbwvvw5giwnm
+NarSize: 5512
+References: 1wfxmykvxwjsi040zb15nsz9124x434k-prawn-2.4.0.gem.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 5h95czyfhra3whnhk858gs56jr6j58hl-ruby2.7.4-ttfunk-1.7.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv b1rj6xbxwpgwsryli4r9sk1yjn4lzkl3-ruby2.7.4-pdf-core-0.9.0.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv lddb4nzfkd9kxhlaaad83yfkxp32mjjw-ruby-2.7.4.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb
+CA: text:sha256:12852qjkrlkwz2zflwhp4nxcjs2431abknndw3flm9g98gbrqs6m

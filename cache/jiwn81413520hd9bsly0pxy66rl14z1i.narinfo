@@ -1,0 +1,10 @@
+StorePath: /nix/store/jiwn81413520hd9bsly0pxy66rl14z1i-openssl-1.1.1l
+URL: nar/17pjiq94n0mhdfspkv0zlvwyrxvvb5f1gw3yamswwh35s15w0la0.nar.xz
+Compression: xz
+FileHash: sha256:17pjiq94n0mhdfspkv0zlvwyrxvvb5f1gw3yamswwh35s15w0la0
+FileSize: 1232248
+NarHash: sha256:1wprc9sdsbsd5xknmax17zyh701a0747ba08wamfjw9isjxpkcdr
+NarSize: 3255752
+References: jiwn81413520hd9bsly0pxy66rl14z1i-openssl-1.1.1l
+Deriver: mb3p3zxas6zxj2hrwi0ghak646fcsabz-openssl-1.1.1l.drv
+Sig: cache.nixos.org-1:WlGJyaItcGf3wsf0oZggeRT/DlHya/Q/1ZMPmHy/hd8yIQtxxERNCvh6r/QmkAZXauw4D00nQnxh70brhSZuAQ==

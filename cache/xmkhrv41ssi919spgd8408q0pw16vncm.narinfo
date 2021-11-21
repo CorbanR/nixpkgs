@@ -1,0 +1,9 @@
+StorePath: /nix/store/xmkhrv41ssi919spgd8408q0pw16vncm-gdk-pixbuf-2.42.6.drv
+URL: nar/1815phhmj9dnmid8g3n4kqzk996bx5d815s8gf6ksiad9wnx7b0f.nar.xz
+Compression: xz
+FileHash: sha256:1815phhmj9dnmid8g3n4kqzk996bx5d815s8gf6ksiad9wnx7b0f
+FileSize: 2404
+NarHash: sha256:1cr0zwpx3g60mxbii08ign8i0dhzwgz53w5d7hai1vz77nalmc5w
+NarSize: 5736
+References: 4jf6yk0iz1rifyfg3k7nba3g88dj3fh4-separate-debug-info.sh 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 78x1ypfnrpngjhjb7wvjb28256jpsigq-gobject-introspection-1.70.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv c2y93ncjfr22hf735hybf48ldfrx6bjr-ninja-1.10.2.drv cpnw58zn8llcv5lh7vw2fxb0ip697446-glib-2.70.1.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv hklhgd2pjykkh5i5jbn3j64j4y910b0d-gdk-pixbuf-2.42.6.tar.xz.drv m1618v05z4ibnmz5dg25hwlcrkpcxk2j-docbook-xsl-nons-1.79.2.drv p9fdk3cjidj191kpabgzalmip55rv0x2-gettext-0.21.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv r2w4lhzksj12zyfsz0px15iv9m2szwg2-gi-docgen-2021.8.drv s96m1yg1zh4x1k9c0lswnrrn8dyixfc0-libpng-apng-1.6.37.drv sqczr9pb5rwbqs75phz1wmzq500qvxyr-libtiff-4.3.0.drv v0f4by2a8z13lnkz1rc6s1c5n2m5bsjh-setup-hook.sh w42m6wv4m81ifvbg50jjhqr2cd8y473s-libjpeg-turbo-2.1.0.drv xfbzw9mbi5cjfx3qfs1yardhmi515zdq-meson-0.57.1.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv y0dwlj2mdkzkz97h08x56as3bqyg92bp-libxslt-1.1.34.drv z2nswdyvrp7h4gh3a22ix5q629cw9f5g-docbook-xml-4.3.drv znxr6xcwkdcqgdaknidfsrq3h2azz9mq-installed-tests-path.patch
+CA: text:sha256:1vmm8151sa9p26p0i8xb7p2ixmx7mzxcw5nyxf2ivx9fsigs8p7i

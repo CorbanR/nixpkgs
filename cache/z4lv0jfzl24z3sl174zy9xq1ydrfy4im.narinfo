@@ -1,0 +1,9 @@
+StorePath: /nix/store/z4lv0jfzl24z3sl174zy9xq1ydrfy4im-flex-2.6.4.drv
+URL: nar/0h0bpfpw59rplqvvqk3azb8m0ka2z1x1c2wgm84z2jmnqy9f8xzr.nar.xz
+Compression: xz
+FileHash: sha256:0h0bpfpw59rplqvvqk3azb8m0ka2z1x1c2wgm84z2jmnqy9f8xzr
+FileSize: 1264
+NarHash: sha256:1pn00b9hn3yflfbd0hgkjjynyh5q7i01wpkyrsg16fbyigfh292k
+NarSize: 2720
+References: 34w6f83kvqhjlcvw8zldbpv3f9ggjwra-glibc-2.26.patch.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 8hdgriw4vka9cn4n0zdsqfxxggps4mfa-help2man-1.48.5.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh id7zmzz87apbj5a4i8iwlcc75hcx94if-bison-3.8.2.drv jm81z84bk7j7as1qib2cm7bc69ij76vi-gnum4-1.4.19.drv p8w59ji1i8g3x4vcnrbxx9wng71js1n4-bootstrap-stage1-stdenv-darwin.drv q9687vxan8p287r452giaf4xhlyiapnj-bootstrap-stage0-clang-wrapper-7.1.0.drv r4y9rrj3s88l8c7sv3gasi9kbf69lf6x-hook.drv wgcj71v3fqdiqbzs2w327lbik10sh1cq-flex-2.6.4.tar.gz.drv
+CA: text:sha256:160l96k7im7av3bii5nc7223ns7iqhwmd1f4774481wvxgcw4jb7

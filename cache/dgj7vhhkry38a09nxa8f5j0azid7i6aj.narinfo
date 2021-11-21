@@ -1,0 +1,9 @@
+StorePath: /nix/store/dgj7vhhkry38a09nxa8f5j0azid7i6aj-flex-2.6.4.drv
+URL: nar/1cb18f0yayjs41n26p8chmi3p83l7rzz789g6bp4kxn4l483hak6.nar.xz
+Compression: xz
+FileHash: sha256:1cb18f0yayjs41n26p8chmi3p83l7rzz789g6bp4kxn4l483hak6
+FileSize: 1264
+NarHash: sha256:0v52riql1b0gm915y73wzii1c89h776z3z41wa7bqyhnpfp96q9n
+NarSize: 2680
+References: 5apgzqypahn9lfrg28mmbg3w7mmms1jf-hook.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 95bm85qh1hr8bskdzfawqsyl83vyrgyr-help2man-1.48.5.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bk3ddd0pbplkzsdccj0vbjhnx33pcif6-bootstrap-stage4-stdenv-darwin.drv ii2s45rlq24wyf43sx6fmxz504dkvmkf-gnum4-1.4.19.drv kxxiz08dnij6kihbv968mixz41x66gqz-clang-wrapper-7.1.0.drv m2g5jv584cxg8rjvqvzb6addvq2acbid-glibc-2.26.patch.drv nz9pia22ky648qqs7i08b5vaf4c0r8nx-bison-3.8.2.drv wgcj71v3fqdiqbzs2w327lbik10sh1cq-flex-2.6.4.tar.gz.drv
+CA: text:sha256:0ds8dxi1j36hdiy98q6lg2fwnmhzb98qcxcbf4a79h4np01yixkf

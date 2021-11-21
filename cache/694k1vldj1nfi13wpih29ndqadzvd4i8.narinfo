@@ -1,0 +1,9 @@
+StorePath: /nix/store/694k1vldj1nfi13wpih29ndqadzvd4i8-python3.9-bootstrapped-pip-21.1.3.drv
+URL: nar/1g88x7nf1lzcfnih56j12ycsh8m2l7kgnb8fg1875sx356c9ds9h.nar.xz
+Compression: xz
+FileHash: sha256:1g88x7nf1lzcfnih56j12ycsh8m2l7kgnb8fg1875sx356c9ds9h
+FileSize: 1560
+NarHash: sha256:0hrr9r2hgqjaslm7hm5xwf6s77vcmndn2b6rggnpq4zw8v700fsv
+NarSize: 3784
+References: 2d7jaj5krrkiccrqkx55wwqrlrijxf97-pip-install-hook.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv jac9sx5l9ywhhj2hiygph72lmfg6rmnx-setuptools-setup-hook.drv qjc4rhzl86h0j8dyrv3vnb3yqrwfvb3m-setuptools-57.2.0-sdist.tar.gz.drv rkw8jdji7rzhicmx2bnl2vbgww1np190-unzip-6.0.drv s1y5dn8j4irvaqlvg2xadh3w2k6d5g6w-pip-21.1.3-source.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv ysaggk0ak1bv81dr2rawj00gz2lf5h68-wheel-0.36.2-source.drv
+CA: text:sha256:1qykqaaib9zw2hr2j8c0j2rql4yqclw5gsbs40bhpxn63lg2vc5s

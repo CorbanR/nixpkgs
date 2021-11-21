@@ -1,0 +1,9 @@
+StorePath: /nix/store/znr6qycpc94p45ik5vbm15d7p2a3hg7x-rust-minimal-1.58.0-nightly-2021-11-21.drv
+URL: nar/11djlcih0z76hw4z1gyqir6y80ilj06qwh7vispqmccfgb8f2alb.nar.xz
+Compression: xz
+FileHash: sha256:11djlcih0z76hw4z1gyqir6y80ilj06qwh7vispqmccfgb8f2alb
+FileSize: 1308
+NarHash: sha256:0f04a7nch625zwvdijqg7m65b3c19b9dvcx89iaxzx6bcq6djp90
+NarSize: 3112
+References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv a6da3bnksjkr30riwsyv10mxc3p66lkc-rust-std-1.58.0-nightly-2021-11-21.drv fsr2gx84ddg6i3lbcird4aq940sidv0z-cargo-1.58.0-nightly-2021-11-21.drv j2x2lsbacglr9zgzl6abp8sd2kf2j4j7-stdenv-linux.drv ngy2f9sx80mnsc9cfgi24x81787h34hw-lndir-1.0.3.drv nnscrmv4wx0vh2hm41sr7jc5h3sqbn89-cargo-miri-wrapper.sh qnic72pdhv0xy79lbc9cwjxxrd5xz0ys-rustc-1.58.0-nightly-2021-11-21.drv
+CA: text:sha256:14iszncqbkp8q9cnxqby20b0gmakpgwf7b3l719dhdzfniv205i7

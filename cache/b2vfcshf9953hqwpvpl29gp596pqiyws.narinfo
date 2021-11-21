@@ -1,0 +1,9 @@
+StorePath: /nix/store/b2vfcshf9953hqwpvpl29gp596pqiyws-boost-1.75.0.drv
+URL: nar/18vbyj620vjbiq1l7d1zd6qpv7j64n2kn021mxgdyxk8976cdqnz.nar.xz
+Compression: xz
+FileHash: sha256:18vbyj620vjbiq1l7d1zd6qpv7j64n2kn021mxgdyxk8976cdqnz
+FileSize: 1836
+NarHash: sha256:1rm8glhpz1vj7vlzr4k708l83myjy76c1h799pc1ji61bzggx7xn
+NarSize: 4384
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 608q9rifp2llx63qp18a891pds7c4c2r-boost-build-boost-1.75.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv aabk07zyrnchafakm8r27skpqldlqi4q-glibc-iconv-2.33.drv ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv ing6g8am6sfzi2dsz3vdj5f3c3gq9d26-expat-2.4.1.drv p1jw2hf4686j8yv6kqf4yw16cjk2aybj-bzip2-1.0.6.0.2.drv qjq49q5xlbs8s9am0hhd2116j9icmb6g-icu4c-70.1.drv r6xyji8snlcq3lj94mdqxqq92h0x08hf-which-2.21.drv vymq4by6j4fa27mp3q692mdqb41y6qy1-boost_1_75_0.tar.bz2.drv wpbcp7kf7xcjaf7kd7nqx23y6n8h86lf-cmake-paths-173.patch
+CA: text:sha256:1yjq7pmgylvkx5bhvz9wxvlhyij4z1q41zkfqvsndx5iyfhwbaad

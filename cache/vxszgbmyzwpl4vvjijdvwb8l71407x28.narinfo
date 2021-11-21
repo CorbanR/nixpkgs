@@ -1,0 +1,9 @@
+StorePath: /nix/store/vxszgbmyzwpl4vvjijdvwb8l71407x28-IOSerialFamily-74.20.1.tar.gz.drv
+URL: nar/053k3py6zdpf312qs3xzi9vn0afqwbs920ppxwzx7ibz5zjmzfn0.nar.xz
+Compression: xz
+FileHash: sha256:053k3py6zdpf312qs3xzi9vn0afqwbs920ppxwzx7ibz5zjmzfn0
+FileSize: 1336
+NarHash: sha256:04cj2waza8snqnn815b8wxsfri05q498s12fbhpjzg8pwqwbyzcs
+NarSize: 3176
+References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
+CA: text:sha256:189m779ji4400hn7jbxsg2fb5nsg7jhxv7napfa3h3igrgygc2aw

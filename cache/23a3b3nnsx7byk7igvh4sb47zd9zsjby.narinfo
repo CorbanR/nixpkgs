@@ -1,0 +1,9 @@
+StorePath: /nix/store/23a3b3nnsx7byk7igvh4sb47zd9zsjby-hidapi-0.10.1.drv
+URL: nar/124p8n8ias0ckkcgb7ccmqy19nysxf37i2mjinjxfyki4n82pzl2.nar.xz
+Compression: xz
+FileHash: sha256:124p8n8ias0ckkcgb7ccmqy19nysxf37i2mjinjxfyki4n82pzl2
+FileSize: 1068
+NarHash: sha256:1s7vxxy3f19a1by1b0dx0spk7kgyj6ml6fpl99mdxasn4f40jfvn
+NarSize: 2328
+References: 1cwq69dmm46zi48xz49jjl7wsy711kwy-source.drv 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 6k7n1bjxg188ypac8kk6y5b89kc39qdz-apple-framework-Cocoa.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c2kgmg7fs673l1dfyg9b58qkfi2im328-pkg-config-wrapper-0.29.2.drv q0hqvnsmi8iya5cdqcccjh65m3jg2f7v-hook.drv wia0r3nj2xq2nmc5d9l9459anp6ngj8n-apple-framework-IOKit.drv
+CA: text:sha256:0n0wjin0d1ax323y47balg9q2njz2w1viap9bxvi88x5pgh80gqg

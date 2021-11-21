@@ -1,0 +1,9 @@
+StorePath: /nix/store/g9z10hzv699x5va6pmgb6hwg2jig4yhw-cppunit-1.15.1.drv
+URL: nar/0amz5k2q8g0rbhyy7zarq39c50c8gpckb9gx31hai6ldcck65vda.nar.xz
+Compression: xz
+FileHash: sha256:0amz5k2q8g0rbhyy7zarq39c50c8gpckb9gx31hai6ldcck65vda
+FileSize: 672
+NarHash: sha256:1ida075cg76ncgs2d2x49ms6pjqxzhj0cxcyjki6fm1zh3pjgiiv
+NarSize: 1472
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 83mdi2ylhmqpihx48yxqi96b4zi6zhjy-cppunit-1.15.1.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv
+CA: text:sha256:1b7ikkpkv91bqj9q6rf7h6gzjzddfw2sv225r8khnww3bf68n9jp

@@ -1,0 +1,9 @@
+StorePath: /nix/store/f75f3fvgkpxwb5qf5q3iy0cn9z0bhlsv-apple-framework-CoreAudio.drv
+URL: nar/15bmynwpi6jm660l1sfvhma34g0lfnkch22k1r58w0b85afyisf9.nar.xz
+Compression: xz
+FileHash: sha256:15bmynwpi6jm660l1sfvhma34g0lfnkch22k1r58w0b85afyisf9
+FileSize: 2032
+NarHash: sha256:1s758b66wjkdm931i6zkhgj2s34nzvqkjr8vnaxsxxgxpsm8fivy
+NarSize: 6328
+References: 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh ssji0dyn753mdb2i5hnmki98ijy8jq2r-MacOS_SDK-10.12.drv wa2i3hkqa97idw0pyf7f28932ccsqb3h-print-reexports.drv wia0r3nj2xq2nmc5d9l9459anp6ngj8n-apple-framework-IOKit.drv z5wgxrzclfhd74cr8hhlj0xcxmk0d6pv-darwin-stubs-10.12.drv
+CA: text:sha256:1qf4b4lzxgk5lw3z2k8bii7j5bc87pd3hyx4migkpzc666r1i8c0

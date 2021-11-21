@@ -1,0 +1,9 @@
+StorePath: /nix/store/9vqq05nrzw6nixb58fj4ch5l0dfbm3dj-libmnl-1.0.4.drv
+URL: nar/1gdhxvfap0sy5nmglwd37d6dif9r6200zqadm8yxs5nf73jvsq6w.nar.xz
+Compression: xz
+FileHash: sha256:1gdhxvfap0sy5nmglwd37d6dif9r6200zqadm8yxs5nf73jvsq6w
+FileSize: 676
+NarHash: sha256:0gvqhn1pa7rx8flxqh0cn4y751b5gibm61z1w6qj9z0r7926nxdp
+NarSize: 1464
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv rkawnvfssjqnd7gslbgj53q1606hfrbk-libmnl-1.0.4.tar.bz2.drv
+CA: text:sha256:0vinjb5cyjz7n6piazivpxh33vz5zp67x3nlybsysybkk0mmc5nk

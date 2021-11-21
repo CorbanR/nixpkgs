@@ -1,0 +1,10 @@
+StorePath: /nix/store/arnzmzk43bnwzyljnwvrx7hnflsaimb1-gettext-0.21
+URL: nar/16psq7k7lciib4x2d1cb42yhaxy2g5dr19lw0rcjswjw0ppsjhxw.nar.xz
+Compression: xz
+FileHash: sha256:16psq7k7lciib4x2d1cb42yhaxy2g5dr19lw0rcjswjw0ppsjhxw
+FileSize: 2010988
+NarHash: sha256:027ldv6dbpczdiy9b0kkrddaa14vsn2860drmdsqxrv86rxa12zi
+NarSize: 8563736
+References: arnzmzk43bnwzyljnwvrx7hnflsaimb1-gettext-0.21 d9n33knjgihd2aafcsw57d3g53072vc7-swift-corefoundation dp6w2v2lk4pkrvyvb50f0d3ci91hr6ls-libcxx-7.1.0 lxx8lma1jiw6i9c8w46nx953cl1p5n5v-bash-5.1-p8 rbvk36dni1jzygzk0s15sqxm5lmaxbsy-libiconv-50
+Deriver: cz5vi3kx25slrdi6gyj3mqz9y1f1nj3m-gettext-0.21.drv
+Sig: cache.nixos.org-1:c4dP+Qto1ljd+gS3QAIWXE2tL3ID/7CiSLqZuGmGHt6hyrlBrbv8qERo/uUgORd3sdhbBPg3lvWtmt1q4SdhAw==

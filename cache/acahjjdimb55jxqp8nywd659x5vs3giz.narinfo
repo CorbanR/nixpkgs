@@ -1,0 +1,9 @@
+StorePath: /nix/store/acahjjdimb55jxqp8nywd659x5vs3giz-fontforge-20201107.drv
+URL: nar/0ladv82mirppazdzpmvgy5d392a58nw1m93glrn01r3779pxffhv.nar.xz
+Compression: xz
+FileHash: sha256:0ladv82mirppazdzpmvgy5d392a58nw1m93glrn01r3779pxffhv
+FileSize: 2368
+NarHash: sha256:0yix4qvg95m6gbxcp82ccycbgp0k53h6shvr8zg9yxad3j54hlzs
+NarSize: 5224
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 841n4ma2lpsr82dh8ra4dbwjjvizzwrb-woff2-1.0.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv acz07dnp7vfrmsd9snsvilid6z03ylk2-69e263b2aff29ad22f97f13935cfa97a1eabf207.patch.drv bci0d4r40gvc9iyxjb5ysavd35jk7xmd-cmake-3.21.2.drv cpnw58zn8llcv5lh7vw2fxb0ip697446-glib-2.70.1.drv dawnrwapwzn4jw88s7qw9ryzlcmcgr00-0001-add-extra-cmake-install-rules.patch.drv hc1bsdh199ylnj9xvb982h1h2lrp924r-readline-6.3p08.drv hhvxbb4zxq9c5mhq3wmi1xjmw69bdb0x-uthash-2.3.0.drv hjw3wa6m7bdgq98naa97dfwlvjivihzr-source.drv hm952mj53gcj2bcc1x7pqvcl8ypab1f1-freetype-2.11.0.drv i0ymgpqrwplk8ghqwhmkd32mbchs5856-giflib-5.2.1.drv ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv mfcbyjp7aan86pyrif170w6i5yaak7j3-libuninameslist-20200413.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv s96m1yg1zh4x1k9c0lswnrrn8dyixfc0-libpng-apng-1.6.37.drv sn5mmp3hjvv9krlj1dhmqaxnhs7l09hm-zeromq-4.3.4.drv sqczr9pb5rwbqs75phz1wmzq500qvxyr-libtiff-4.3.0.drv w42m6wv4m81ifvbg50jjhqr2cd8y473s-libjpeg-turbo-2.1.0.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv zayghcdvc215sxjq8c2y18a6a7b15fr3-libxml2-2.9.12.drv
+CA: text:sha256:1529s64mbbfa7wx0zkkw8h7yihpjccxacx785gfwms1z3pqfwmih

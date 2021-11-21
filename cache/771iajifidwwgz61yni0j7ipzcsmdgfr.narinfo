@@ -1,0 +1,9 @@
+StorePath: /nix/store/771iajifidwwgz61yni0j7ipzcsmdgfr-pango-1.48.10.drv
+URL: nar/0fp9n0wsq42701yk50jfyx0rskn1a76rnc9vi89x3a3xw075y2yb.nar.xz
+Compression: xz
+FileHash: sha256:0fp9n0wsq42701yk50jfyx0rskn1a76rnc9vi89x3a3xw075y2yb
+FileSize: 1792
+NarHash: sha256:1bwr5dvy4v42d4zk6r1ah6p0j6d8kz43ppmlh9b8lqgkhpkl1qzw
+NarSize: 4016
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 67cg7d1pvzfcdyd80840v1zxsbikfh71-pango-1.48.10.tar.xz.drv 78x1ypfnrpngjhjb7wvjb28256jpsigq-gobject-introspection-1.70.0.drv 80pfp6bak2xqbmyjlqikbxqngp3fjpd2-libXft-2.3.4.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv c2y93ncjfr22hf735hybf48ldfrx6bjr-ninja-1.10.2.drv cpnw58zn8llcv5lh7vw2fxb0ip697446-glib-2.70.1.drv dqmw14gnshp1d0if2paigzrb77k14a10-fribidi-1.0.10.drv lx1vs60sk1sc4mv5g3xp8pnz6iymq5x6-cairo-1.16.0.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv r2w4lhzksj12zyfsz0px15iv9m2szwg2-gi-docgen-2021.8.drv rzk4s17v0li6ni5lfmas4gnzs26r7rkn-harfbuzz-2.8.2.drv xfbzw9mbi5cjfx3qfs1yardhmi515zdq-meson-0.57.1.drv zkk9xl1qgw4nx1nijld0hd0qpm41kh3y-libthai-0.1.28.drv zmbcdqdcbfy92g0f98dp9i2s7y8mr39j-fonts.conf.drv
+CA: text:sha256:0sy21c9gl68r071v33ig10y64lfjf1vcy99afbdgwiah7807ih0h

@@ -1,0 +1,9 @@
+StorePath: /nix/store/vplq0xy4wd93l9iqvyrblynqi1yadr66-absolute_shlib_path.patch.drv
+URL: nar/1nwrnx09qk3khhg5p4d08fiyz8i0dw1kp5c5s0qqdkpxm6smffc4.nar.xz
+Compression: xz
+FileHash: sha256:1nwrnx09qk3khhg5p4d08fiyz8i0dw1kp5c5s0qqdkpxm6smffc4
+FileSize: 668
+NarHash: sha256:04p3kz93qmz4dxrfpk0a6jl4clpa5difjp54pdrfwlnrchj1ky8a
+NarSize: 1536
+References: 4vq3350zc6sqnibkqpgic2d6cvi1r9hq-substitute-all.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv j2x2lsbacglr9zgzl6abp8sd2kf2j4j7-stdenv-linux.drv ypzir6sgnjcdy6fclxig6kgk6mwynzdm-absolute_shlib_path.patch
+CA: text:sha256:0rqfcvzmvq2ysq4vilk9vsca53w1gpsc5qqsz3mr5il29ar0af2j

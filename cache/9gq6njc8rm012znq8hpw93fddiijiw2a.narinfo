@@ -1,0 +1,9 @@
+StorePath: /nix/store/9gq6njc8rm012znq8hpw93fddiijiw2a-e2fsprogs-1.46.4.drv
+URL: nar/0aakkb63xi35s7b0ik7mfzg6gphxnw3vwjnr13iwwlwp89p9s5v9.nar.xz
+Compression: xz
+FileHash: sha256:0aakkb63xi35s7b0ik7mfzg6gphxnw3vwjnr13iwwlwp89p9s5v9
+FileSize: 1540
+NarHash: sha256:0596g8dkfrfxrhi20s6pii70mjh31l4dgdhd3nn2jcwn69zp4wff
+NarSize: 3536
+References: 2hq3yjmkqh8zw7z3pwdiyydwvv84g6is-texinfo-6.8.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 706nr2ywj41a8r1kd84a957dsgidrkh9-e2fsprogs-1.46.4.tar.gz.drv 8xxchkb6r8qp143mmy7szrsd08dfc5sv-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv lzb1mg6jy5y42mr70m2xiybnanlpa1f6-perl-5.34.0.drv p9fdk3cjidj191kpabgzalmip55rv0x2-gettext-0.21.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv s2kzd3qla1kkblb72az3y45r1isxcnlg-util-linux-2.36.2.drv
+CA: text:sha256:1accy1myrd3n567jzn5s2q3fyjxns5iz30jkp07hsibhrhhn6113

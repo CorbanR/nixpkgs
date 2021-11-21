@@ -1,0 +1,9 @@
+StorePath: /nix/store/78x1ypfnrpngjhjb7wvjb28256jpsigq-gobject-introspection-1.70.0.drv
+URL: nar/0mi6x0vwv2jk5vfw0xds04bfsyx11wlvyq734km90hgpg3vc5pzx.nar.xz
+Compression: xz
+FileHash: sha256:0mi6x0vwv2jk5vfw0xds04bfsyx11wlvyq734km90hgpg3vc5pzx
+FileSize: 2048
+NarHash: sha256:1c6k13gfgcaznryvi3q85h5vl7k1sqys3b7kz1cdi86ym0jsb9hk
+NarSize: 4824
+References: 3aiys5bwdcklm9kk44yrca7339mbvyx8-absolute_gir_path.patch.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv arsfwwr1w2z8npxy8k477r0pq25wlm98-libffi-3.4.2.drv bq2dip102z6dlp7jp4jnxi8mqa91a2kd-gtk-doc-1.33.2.drv c2y93ncjfr22hf735hybf48ldfrx6bjr-ninja-1.10.2.drv cpnw58zn8llcv5lh7vw2fxb0ip697446-glib-2.70.1.drv cysdrdrhld1jqgcw4igxwm14s50184gg-flex-2.6.4.drv fy4fr4ciy7hnqcy6la7z539yp7llvc7j-setup-hook.sh kwg26hrp0j5c0f11m21dn57cyyll35il-docbook-xml-4.5.drv m1618v05z4ibnmz5dg25hwlcrkpcxk2j-docbook-xsl-nons-1.79.2.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv viaz32nv2qxdygyq2a2c355ys3d95m2p-bison-3.8.2.drv vplq0xy4wd93l9iqvyrblynqi1yadr66-absolute_shlib_path.patch.drv wbhz3d22whakdb15vhx1hrcrz87fs9k0-gobject-introspection-1.70.0.tar.xz.drv xfbzw9mbi5cjfx3qfs1yardhmi515zdq-meson-0.57.1.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv
+CA: text:sha256:1jk7brv0zipfffgrqfxbkgcivc44zy4p159h13fgyjimxj5nhj9y

@@ -1,0 +1,9 @@
+StorePath: /nix/store/gyrcn9wahqrjw0h3fvqbm9qdjrz4cry5-libdatrie-2019-12-20.drv
+URL: nar/0gaaz345rq2f9bb8k341wkzc3n9dgx27syx299qnm46n8cmpsfw1.nar.xz
+Compression: xz
+FileHash: sha256:0gaaz345rq2f9bb8k341wkzc3n9dgx27syx299qnm46n8cmpsfw1
+FileSize: 1120
+NarHash: sha256:1flip4vm1iv922nzvgj6rhq4sa5imaxmf6m4rixiwiq9fzykcwbc
+NarSize: 2600
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv dbscxvh92gc2dlsn5prrzsf3ndhvjsk1-install-shell-files.drv sdr2mc55r48v00ngy9pfsprknmdg8k19-hook.drv y3k7zqvg1x9l2qxw45fy6w5r3bqnw8gv-source.drv zvscjzkvr9chgxqggzdhbj6j7dd2qcxc-autoconf-archive-2021.02.19.drv
+CA: text:sha256:0frzl4vsg6dnsl7p1ag8p10g8bn3prmvh5al7pswcj5mb334313j

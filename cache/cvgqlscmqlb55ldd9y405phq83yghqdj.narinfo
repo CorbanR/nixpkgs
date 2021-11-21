@@ -1,0 +1,9 @@
+StorePath: /nix/store/cvgqlscmqlb55ldd9y405phq83yghqdj-bsdmake-24.tar.gz.drv
+URL: nar/056qd5dy5z68vvwaxz2hzs8c9bmh38qczi6hgfr49ry1sqw90yqp.nar.xz
+Compression: xz
+FileHash: sha256:056qd5dy5z68vvwaxz2hzs8c9bmh38qczi6hgfr49ry1sqw90yqp
+FileSize: 1320
+NarHash: sha256:1cv4yms4vk67j4nx083yibrsbfz2azarzlw6v4xw19q2zj4nj5hc
+NarSize: 3120
+References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
+CA: text:sha256:1zjfb8l864prjj86ykvlm91ql467w6hl31w58xidqagq8xah5xqf

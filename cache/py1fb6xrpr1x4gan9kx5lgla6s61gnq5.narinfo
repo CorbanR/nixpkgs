@@ -1,0 +1,10 @@
+StorePath: /nix/store/py1fb6xrpr1x4gan9kx5lgla6s61gnq5-libgcrypt-1.9.4
+URL: nar/0ly3m80b5d559drvczha79kxx65ysj4znydyw8qb8rr8irh3wxfc.nar.xz
+Compression: xz
+FileHash: sha256:0ly3m80b5d559drvczha79kxx65ysj4znydyw8qb8rr8irh3wxfc
+FileSize: 449164
+NarHash: sha256:1rf1y14mwgikhwvzd22ygdnc5jvhpbijj0pn39pww5qmmhylk6cx
+NarSize: 1385920
+References: ff88p8pnhdmf8bflzbxldys21djw9dp0-glibc-2.33-56 py1fb6xrpr1x4gan9kx5lgla6s61gnq5-libgcrypt-1.9.4 x4byprb9ma1g9z3lsjclr4hsch6z6c97-libgpg-error-1.42
+Deriver: l9jrx64x7g3iyrjavyylfbjb1rfc99k5-libgcrypt-1.9.4.drv
+Sig: cache.nixos.org-1:6LvbVgLqQ0h76u2ZWDVuHtJi8mH/Ydi2ILFVnVkG8vR33VeaagfqwfX6fjpR8iziMjNYxlOjuk4DURCQZB5+Aw==

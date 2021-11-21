@@ -1,0 +1,9 @@
+StorePath: /nix/store/60f5f153xlhx87snqg8bnqlsfnvky8m4-openssh-8.8p1.drv
+URL: nar/0zdkk03154jg0q7mwm2yk624g76ay28shnkyk755qaj1amfsvq1f.nar.xz
+Compression: xz
+FileHash: sha256:0zdkk03154jg0q7mwm2yk624g76ay28shnkyk755qaj1amfsvq1f
+FileSize: 1848
+NarHash: sha256:11mlz367v7ch4drhlwl6zhrp0h957msnh3hszxdh606sb27rwrjb
+NarSize: 4072
+References: 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 5f4n15jj0qc03gp5h6q3myq95jjrfxix-openssh-8.8p1.tar.gz.drv 7jbzj9s2wkbznn93ga3aqka6vfx06gjg-ssh-keysign-8.5.patch 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a19wwxzl1ppfjpycg2f0gxpfj11hnwz1-openssl-1.1.1l.drv c2kgmg7fs673l1dfyg9b58qkfi2im328-pkg-config-wrapper-0.29.2.drv d9bzyg94727ssywvq507p4ql3fcs9vcx-libkrb5-1.18.drv isik6ifcjxpw22sfh3kz37galficc78c-locale_archive.patch m1wlmhmzbkl0wp46mqal1snprlkhvhcr-zlib-1.2.11.drv na0a318q8savhczqrpfssm1za6njry1c-libfido2-1.8.0.drv vkcvlzfldi0q6wgw08ai9chmjzawjv9i-libedit-20210714-3.1.drv ybb4xs45dkngdf3x1xnxqgzn5zmv5alf-dont_create_privsep_path.patch
+CA: text:sha256:0m3yg7x4cw0h325lnf98xsw79idj3s5rnik0y8dbghkik21xcrhb

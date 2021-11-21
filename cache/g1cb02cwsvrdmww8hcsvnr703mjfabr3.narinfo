@@ -1,0 +1,10 @@
+StorePath: /nix/store/g1cb02cwsvrdmww8hcsvnr703mjfabr3-libxml2-2.9.12
+URL: nar/1q6s7jkf9lhs792xnf6za1krjazydgb4vg55w6dpm04r2hb76xyf.nar.xz
+Compression: xz
+FileHash: sha256:1q6s7jkf9lhs792xnf6za1krjazydgb4vg55w6dpm04r2hb76xyf
+FileSize: 511020
+NarHash: sha256:125h6wmxqk1ch2wb703scmksgypxysp16nbyzxnj4w76z926bcqx
+NarSize: 1424032
+References: d9n33knjgihd2aafcsw57d3g53072vc7-swift-corefoundation g1cb02cwsvrdmww8hcsvnr703mjfabr3-libxml2-2.9.12 rbvk36dni1jzygzk0s15sqxm5lmaxbsy-libiconv-50 wcy62ywnzwqiafvx0z7idwhv8mck0xjw-zlib-1.2.11
+Deriver: zrhm0xvl9nvr2n563fjmbkl7ghw2n69r-libxml2-2.9.12.drv
+Sig: cache.nixos.org-1:PRqNJurytJwav+t5lkY7zadQUVQL7HA6mZWh5Xb/iQKYNiZt2sm1ySEBN4Au0aNXVXJTCMa1kEwj1kszsDoMAg==

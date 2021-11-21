@@ -1,0 +1,9 @@
+StorePath: /nix/store/4qzki9421rrlmnia5w11vypacdjbx63n-python3.9-tomli-1.2.1.drv
+URL: nar/1xbgp4jvs9ppmzxw4pdc0i9hks7azbbdv2802sf2lbf7mhganxsh.nar.xz
+Compression: xz
+FileHash: sha256:1xbgp4jvs9ppmzxw4pdc0i9hks7azbbdv2802sf2lbf7mhganxsh
+FileSize: 1588
+NarHash: sha256:0kpssf83p22an1ciy686bwnhwjn4gbp5x61azcpbg4q52kkg0hyl
+NarSize: 3680
+References: 53njwf8dmv4x46qin6fp1amc91sr2wv6-pip-build-hook.sh.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 65ja89nfb2zl29vghqmxsj4cwlyd2lys-python-namespaces-hook.sh.drv 6bmj73x60crjih1s2gp0byl56h168558-python3.9-flit-core-3.2.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv byrf5agdn1q7ka5s53xnzpv6b2pyn66p-hook.drv gdvnwf06ip4s5vp2krxh80brk3ywdp5q-python-catch-conflicts-hook.drv gwmqv5jxlipbxhb8d3azbkfs2ih6x3j7-python-imports-check-hook.sh.drv gzs0mqf9zp406gs8r8zm8yg3x2dp8dhy-python-remove-bin-bytecode-hook.drv iz3qiggndvpzrlh2sbmi9dsnp20v90rh-hook.drv ldyzphv9ysmbq6k47h6zw01a8z6rsggy-pip-install-hook.drv mngjqd9v6dgfrxrr47d7nzfp7vm3c5iy-python-remove-tests-dir-hook.drv mv2dxaa2v1g7d9gjdpnqhimn9bcfq930-python3.9-setuptools-57.2.0.drv qllbx2kpbnkz7z5jkcy7wqga06fpxsxl-source.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv
+CA: text:sha256:1ickppl8x19i17sz2wfnsv5m3d0qpppfj4q5y8dqz3mk25rdqyv1

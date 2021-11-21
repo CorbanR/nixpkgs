@@ -1,0 +1,9 @@
+StorePath: /nix/store/h8p7bkdf0hn0p0a7vlhi9hwxmqs45pia-ppp-838.50.1.tar.gz.drv
+URL: nar/1dzp5h5jssdv1v2l0kp6lma7p7gr20751ckjmpc8bbxkxg47f4xn.nar.xz
+Compression: xz
+FileHash: sha256:1dzp5h5jssdv1v2l0kp6lma7p7gr20751ckjmpc8bbxkxg47f4xn
+FileSize: 1328
+NarHash: sha256:15dlgsnjia3slh1nhay2za3hdiirnfngzik5wcqfqz3x6zmkmnjd
+NarSize: 3128
+References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
+CA: text:sha256:0bvvhglaq9i0af31sf6kjrmdj757k8b8mlp00k08vs9sg9r78xym

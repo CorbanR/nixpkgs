@@ -1,0 +1,9 @@
+StorePath: /nix/store/7jzh8yk85f4xlbqff340f1wv3snydn1p-adv_cmds-119.drv
+URL: nar/1x55xa3ckn82cbq3za5b4si1ap8zg5nvkzldncj1hlnsn5rycjjl.nar.xz
+Compression: xz
+FileHash: sha256:1x55xa3ckn82cbq3za5b4si1ap8zg5nvkzldncj1hlnsn5rycjjl
+FileSize: 2124
+NarHash: sha256:1dy5qqy7zd0kkp29c70fg8gym8hxsfblnw9hyr6fkxsyxq911nnc
+NarSize: 5104
+References: 2pgdsbjvj6rh1f4a932sr9vrrbqj6jbw-adv_cmds-119.tar.gz.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 44ra4f8iaa5r26bs9z3xb78immaly2fc-bootstrap-stage2-stdenv-darwin.drv 6rzbh57icqdlvzvi6n4nvw6qi6qapyza-bsdmake-24.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh fr50q2gy6wyjc94w22kmpjaqcpv6si5n-source.drv id7zmzz87apbj5a4i8iwlcc75hcx94if-bison-3.8.2.drv pnycsqlbyj8s2ykl39p5w31j19r6ry00-perl-5.34.0.drv qcxdnq9kd5jcj61482v84zkbv3ygapv6-bootstrap-stage0-clang-wrapper-7.1.0.drv z4lv0jfzl24z3sl174zy9xq1ydrfy4im-flex-2.6.4.drv
+CA: text:sha256:1ahwmk5921dy55mp364n3y3cghd6jyg453d07s62mfqpl53xyb23

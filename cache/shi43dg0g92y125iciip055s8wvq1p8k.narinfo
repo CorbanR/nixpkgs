@@ -1,0 +1,9 @@
+StorePath: /nix/store/shi43dg0g92y125iciip055s8wvq1p8k-python3.9-Pygments-2.10.0.drv
+URL: nar/1panbkym7wl8dm3bkzhhjiwccaxy1hsh7h4lza0jx1a55zgs9243.nar.xz
+Compression: xz
+FileHash: sha256:1panbkym7wl8dm3bkzhhjiwccaxy1hsh7h4lza0jx1a55zgs9243
+FileSize: 1624
+NarHash: sha256:08vsyjip9qv6qxyih5sbkirbd75vss9a979l6q1afcwf7r6zixdl
+NarSize: 3720
+References: 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 3ykvy9nrwl91yb50a48sjxfqw1lyshi3-python-remove-tests-dir-hook.drv 42b41a7qb5p40qksjpdg7kmh21b5a03p-python3.9-setuptools-57.2.0.drv 5ga6ph1jhyajjdvr4d7vsm86gfq711mx-python-remove-bin-bytecode-hook.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ac2fi34nwrkkrnjk02k23lq7f21jy1ja-python-namespaces-hook.sh.drv g7f3gv2lwd3hl9h7ajvk0pchaz5dq2n1-pip-install-hook.drv il8rh9lnffhfl5ha5wgdc75m8myxxyvm-python3.9-docutils-0.17.1.drv js2cqpbsxvg6lckilm3kqpvwjghr54c9-python-imports-check-hook.sh.drv k4nbqp85cnq74k926ymi9am3ball5al9-hook.drv k7rvszva1gz7a018n9vwgjcak6wwxxbw-python-catch-conflicts-hook.drv q0m24pv6a5mc3fqziv64jvc4glxsy0w5-python3-3.9.6.drv qbpg5yskmnxf80r9fx6w9xr83i2bnzc8-hook.drv qrpnaykrciyx5rybk0j9hds3ddhgjjp4-Pygments-2.10.0.tar.gz.drv wn70076niw8cdhdyyq4fi7b7gq5zblcl-setuptools-setup-hook.drv
+CA: text:sha256:1xvhs1psb8yy0fcgm0af2nfp337n7hgagg6my9r9szvkxsdryd9z

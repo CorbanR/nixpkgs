@@ -1,0 +1,9 @@
+StorePath: /nix/store/jyp28s2bjwyihxqza7qyjwn033gd1far-libmicrohttpd-0.9.71.drv
+URL: nar/18da7jwkyv4y12d38g2jvva8bzkawf2fy77l44grvj2y997m50fc.nar.xz
+Compression: xz
+FileHash: sha256:18da7jwkyv4y12d38g2jvva8bzkawf2fy77l44grvj2y997m50fc
+FileSize: 1240
+NarHash: sha256:1w66x9y91sfq3kwd93r66f8d4gdhwah7sfaajxda765x4g2sdyhs
+NarSize: 2872
+References: 1hhh5m8vplrfymm6nxgirxvdj7gnni8r-gnutls-3.7.2.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 5vg92gazby4ipljbjpjqwxpjjna0g9ib-libmicrohttpd-0.9.71.tar.gz.drv 7w8vsr0dvdb5nz5cpdqzfigf60hhkwfy-libgcrypt-1.9.4.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv aabk07zyrnchafakm8r27skpqldlqi4q-glibc-iconv-2.33.drv cjgc57jwn74s55p84vpgskmhb016kaib-curl-7.79.1.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv
+CA: text:sha256:0ykh7za8aqdj6hvivf934hxihcvapyykh5b1sgqfh387jyx2f16n

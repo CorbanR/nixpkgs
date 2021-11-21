@@ -1,0 +1,9 @@
+StorePath: /nix/store/4yskxz2w3g78ik96h8ddzqisbxia0la5-asciidoc-9.1.0.drv
+URL: nar/17c3nynjdzfvs1s99amcrwgcnswwv0gfl7yralzss3nrz7479q0w.nar.xz
+Compression: xz
+FileHash: sha256:17c3nynjdzfvs1s99amcrwgcnswwv0gfl7yralzss3nrz7479q0w
+FileSize: 1952
+NarHash: sha256:0xlfkxz96imvqxsr3il3sqrbldwf58ir1jcll8489dzwi5d6dh18
+NarSize: 4248
+References: 5fxzl9yrkvhk6dr442hwrg0dg6622nyz-source.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv bs25i9iz23n3v2m7bgfxkdiw1ma5s6al-source-highlight-3.1.9.drv kwg26hrp0j5c0f11m21dn57cyyll35il-docbook-xml-4.5.drv m1618v05z4ibnmz5dg25hwlcrkpcxk2j-docbook-xsl-nons-1.79.2.drv qxjfp3n6m0mkl6c3w582xq0sr6n3bwbd-docbook-xsl-ns-1.79.2.drv rkw8jdji7rzhicmx2bnl2vbgww1np190-unzip-6.0.drv sdr2mc55r48v00ngy9pfsprknmdg8k19-hook.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv y0dwlj2mdkzkz97h08x56as3bqyg92bp-libxslt-1.1.34.drv zayghcdvc215sxjq8c2y18a6a7b15fr3-libxml2-2.9.12.drv
+CA: text:sha256:09yb86dmjb9gwpsm9k15q8wi4ch8ihpp4g0isap8lvfgbxwsxyba

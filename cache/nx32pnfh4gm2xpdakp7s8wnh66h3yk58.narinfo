@@ -1,0 +1,9 @@
+StorePath: /nix/store/nx32pnfh4gm2xpdakp7s8wnh66h3yk58-libcxxabi-11.1.0.src.tar.xz.drv
+URL: nar/1kmwknff2s3y4spm324y08cbrbllvy1rl9lmqpdaadc1mg4vgbr4.nar.xz
+Compression: xz
+FileHash: sha256:1kmwknff2s3y4spm324y08cbrbllvy1rl9lmqpdaadc1mg4vgbr4
+FileSize: 1396
+NarHash: sha256:07ip9bcjwbbkrk96knikknyn19bsd5m138rbasm4wirwi97da1f2
+NarSize: 3208
+References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv aaphdbkpxq8r4c6g794nbmj2lj3l7k5a-mirrors-list.drv dwvimxgx1kxrapkk1393kap4xb9abgfh-curl-7.79.1.drv jvvsqmlmkypqcalcghrh06q6w460dw3c-stdenv-darwin.drv
+CA: text:sha256:075b80pg6n1cinbp2kwkzaw1f97k9r8d60936fqvkl4a66k6s6iq

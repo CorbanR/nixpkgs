@@ -1,0 +1,9 @@
+StorePath: /nix/store/jjss548ghmb9qbl8q999bg72nyfar0d1-llvm-11.1.0.drv
+URL: nar/1shddlkwrf8lyvflrvaw6jsl6w6yngnqsk0vgvrng3g2h3q3f7j8.nar.xz
+Compression: xz
+FileHash: sha256:1shddlkwrf8lyvflrvaw6jsl6w6yngnqsk0vgvrng3g2h3q3f7j8
+FileSize: 2336
+NarHash: sha256:0365v72sh5dvqdfqh10ila4frl9mvxsviv82rqcq7jpwkqxqhzw7
+NarSize: 5536
+References: 097zrhg9xpz9vnckba8nvdy8b2kama2j-cmake-3.21.2.drv 0qj1wl6y94a7c09l44imhpahg6arh2qz-outputs.patch 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 44f0s840wcxyhw62rvshkvvf712jakbg-ncurses-6.2.drv 5sdccygblb207s77gg8q193j5wchv9qk-libxml2-2.9.12.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9fd3xdcfv1dw93y99a18lw735fx8kvgy-gnu-install-dirs.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dg8ma1l4id21xgdbs3zhbnfqdzwdmz74-uops-CMOV16rm-noreg.diff.drv hpa14111qw99n83nirmldiz0sb7fglnw-libffi-3.4.2.drv il379jhra5dmxqbqz009k4syzxyvvj1d-llvm-11.1.0.src.tar.xz.drv m1wlmhmzbkl0wp46mqal1snprlkhvhcr-zlib-1.2.11.drv q0m24pv6a5mc3fqziv64jvc4glxsy0w5-python3-3.9.6.drv xfmq0fr7p2yix3fswpyxgmi91pz1sgly-polly-11.1.0.src.tar.xz.drv
+CA: text:sha256:1mqgjy0majil4cd4ngyv0zdbmvsrnyyvs6jczaxhg6ynjhs3my93

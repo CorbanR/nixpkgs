@@ -1,0 +1,9 @@
+StorePath: /nix/store/1s2nhf5cgf6vi6x0k76nhwadc0v8ljrb-curl-7.79.1.drv
+URL: nar/1758axvpk6iy58pw0fpq7rq6l28wmbbkcs2hry6y1fr89r134vch.nar.xz
+Compression: xz
+FileHash: sha256:1758axvpk6iy58pw0fpq7rq6l28wmbbkcs2hry6y1fr89r134vch
+FileSize: 1952
+NarHash: sha256:0ficrar0l98xa63wqkzb9lg3chr6szlaswc45cg38dxn7n90s3rv
+NarSize: 4720
+References: 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ank4di9m3xy6iqa14gbhrbxiixx07gxs-libssh2-1.10.0.drv axg9k0638rjqx7k834wdbvi2k2k91vp2-perl-5.34.0.drv bk3ddd0pbplkzsdccj0vbjhnx33pcif6-bootstrap-stage4-stdenv-darwin.drv c6sqlih3wnrp4ld1icav2z0yixwcpawh-curl-7.79.1.tar.bz2.drv gdqnvkbp6nnrvww108adb7nvjgrpdxzb-7.79.1-darwin-no-systemconfiguration.patch h6qxf69j4irz32xfhby74p98wnadqjaw-openssl-1.1.1l.drv jqydnr8rnh18hrn1jnwj210j6ankihz7-pkg-config-wrapper-0.29.2.drv jrgkyj50jv0yj7i54ffiiaf1biv3jm2i-brotli-1.0.9.drv la2syga897nhakjm14mhl46c29asz7jy-libkrb5-1.18.drv m1wlmhmzbkl0wp46mqal1snprlkhvhcr-zlib-1.2.11.drv szvw942zdd0aj09lcxksfnfn8r7qi9p8-libidn-1.38.drv xyjmzqzjjmlhbn7qmm8vrr8j0kl99xdv-nghttp2-1.43.0.drv
+CA: text:sha256:18c0g1z8ipxa11g057kqg4ns0jbdbmimvfbscbnmy9irayxra8vx

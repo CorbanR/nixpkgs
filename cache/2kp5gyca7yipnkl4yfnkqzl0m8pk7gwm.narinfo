@@ -1,0 +1,9 @@
+StorePath: /nix/store/2kp5gyca7yipnkl4yfnkqzl0m8pk7gwm-libGL-1.3.4.drv
+URL: nar/0zkq6q47l6s62iw4778vngj20x59inx0253fvb79hk6qwqpv2xym.nar.xz
+Compression: xz
+FileHash: sha256:0zkq6q47l6s62iw4778vngj20x59inx0253fvb79hk6qwqpv2xym
+FileSize: 1020
+NarHash: sha256:0i2lrb2h5xh58nfi19zh4wmlpbl8lr7q8ihw7yvfy99ypn1g2lig
+NarSize: 2416
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv zg002jv064lrb5wrp5fps71h46mlz6g5-libglvnd-1.3.4.drv
+CA: text:sha256:1n6hfm7ddxa9k7c6p8w78bfzghk25akwmi3x75iq5hi78g8mj9hv

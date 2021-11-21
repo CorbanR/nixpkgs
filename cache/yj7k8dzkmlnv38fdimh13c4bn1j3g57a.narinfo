@@ -1,0 +1,9 @@
+StorePath: /nix/store/yj7k8dzkmlnv38fdimh13c4bn1j3g57a-IOFireWireAVC-423.tar.gz.drv
+URL: nar/1kvhkncp0zyvcw9xz9hms0262wcig30jryd2qsl5p51q087qyqak.nar.xz
+Compression: xz
+FileHash: sha256:1kvhkncp0zyvcw9xz9hms0262wcig30jryd2qsl5p51q087qyqak
+FileSize: 1332
+NarHash: sha256:0a30mqq9bzkd8698xa4p9r63bhrsc7j706cpddn71lakzw2cgfs5
+NarSize: 3152
+References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
+CA: text:sha256:1pmd9n9w2bqrdy0bzyrnv7rpgl8qn6nqc9pqp5h5f5ll48xiiz6q

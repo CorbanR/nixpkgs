@@ -1,0 +1,9 @@
+StorePath: /nix/store/vkcvlzfldi0q6wgw08ai9chmjzawjv9i-libedit-20210714-3.1.drv
+URL: nar/16gcg773bnh0v3r2czfvljk6hz0gnwc1yx2r8cd6qvsd69rixxjv.nar.xz
+Compression: xz
+FileHash: sha256:16gcg773bnh0v3r2czfvljk6hz0gnwc1yx2r8cd6qvsd69rixxjv
+FileSize: 1064
+NarHash: sha256:1diq9p45xhvxd7z8qikbryk355sb9c00b0v1mkmrvk2paafwkd7n
+NarSize: 2384
+References: 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 44f0s840wcxyhw62rvshkvvf712jakbg-ncurses-6.2.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh g3b8qdwdcgqvi5j6xh096ivrnln30f3h-01-cygwin.patch wag2a12wzz0d8n0g74ji75z90c3iklkc-libedit-20210714-3.1.tar.gz.drv
+CA: text:sha256:1yzbsf58mn74a1z67brkl372ribf2w02azqi83ib05y3b4ripxgy

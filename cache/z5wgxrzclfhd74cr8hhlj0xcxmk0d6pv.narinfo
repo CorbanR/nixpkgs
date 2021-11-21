@@ -1,0 +1,9 @@
+StorePath: /nix/store/z5wgxrzclfhd74cr8hhlj0xcxmk0d6pv-darwin-stubs-10.12.drv
+URL: nar/1vk1lszz4lgz4gzrik1fm8azsxwkpdxcwzzz8qcyryh83khi7654.nar.xz
+Compression: xz
+FileHash: sha256:1vk1lszz4lgz4gzrik1fm8azsxwkpdxcwzzz8qcyryh83khi7654
+FileSize: 824
+NarHash: sha256:0as0ibjwcm3sb7c9sv5g993a6xsdyyamiy5jbh9hkjiinm80dj2a
+NarSize: 1840
+References: 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh jskzifpxhhm2q6gx8569p81lqfqhbcb4-bootstrap-stage1-stdenv-darwin.drv y1df8xmhgrwaknwgh871my8cbnkpx4z9-10.12.tar.gz.drv
+CA: text:sha256:12if28f379snwvv28dbm3h97adb2jc0z4gg1vjkhnwrscwpj3pfw

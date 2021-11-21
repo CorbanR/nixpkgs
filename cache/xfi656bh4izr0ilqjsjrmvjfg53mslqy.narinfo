@@ -1,0 +1,9 @@
+StorePath: /nix/store/xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv
+URL: nar/0jlp0ls9a8c4sylx841pqrz5xkvf1lvq3m3lafzh6jwz4ijf7rp1.nar.xz
+Compression: xz
+FileHash: sha256:0jlp0ls9a8c4sylx841pqrz5xkvf1lvq3m3lafzh6jwz4ijf7rp1
+FileSize: 4352
+NarHash: sha256:1qqbzm6plwv1rvdhj48qrcnxbmsy5k32yq50wxxav8d448jqg3j5
+NarSize: 11440
+References: 252lmyysdj175h3fhxdxgc9rgwp9pm8g-mime-types-9.drv 4jf6yk0iz1rifyfg3k7nba3g88dj3fh4-separate-debug-info.sh 57kclla9vza2n87xgwg1ap54d20cz6lb-fix-finding-headers-when-cross-compiling.patch 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 5pqww4birs2qhirnq86n4c8wl0nmsana-ncurses-6.2.drv 7vap3q9gzyl33vnzzp6w6n72qvalq077-Python-3.9.6.tar.xz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv adz88z1laih6z9lwl3mzpdi1kgm7qj2l-openssl-1.1.1l.drv arsfwwr1w2z8npxy8k477r0pq25wlm98-libffi-3.4.2.drv cv1ynpzvjjr0s72jkbblbzz3ymr87lpi-0001-On-all-posix-systems-not-just-Darwin-set-LDSHARED-if.patch dkb2rjyj7lwmvsn4zzwx85kx8r61nk9w-darwin-libutil.patch dqac00gm0klh3nazjxqgxrwprfh04vv6-gdbm-1.20.drv dyjqv2pdabmmlniy2n67khlv19njdmvl-nuke-references.drv hc1bsdh199ylnj9xvb982h1h2lrp924r-readline-6.3p08.drv i3ldqi56znag6g1rlqzmmn1m8vwdanyz-xz-5.2.5.drv ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv ing6g8am6sfzi2dsz3vdj5f3c3gq9d26-expat-2.4.1.drv kclys2xfrg0zjmpa37gyp33nyg1c7j0q-sitecustomize.py lpfs02z2i2hamz9f50p4bz6v0fs0600j-mimetypes.patch my7inv9bw3dzqxc0n67y63sgzm8yhk8w-sqlite-3.36.0.drv p1jw2hf4686j8yv6kqf4yw16cjk2aybj-bzip2-1.0.6.0.2.drv p4qar37zn2892m83b2lkp8fw5dsjkzxy-no-ldconfig.patch r112dk8w7zvdjipki58ch00m825li7fq-virtualenv-permissions.patch sdr2mc55r48v00ngy9pfsprknmdg8k19-hook.drv srdpr6x2cgbaccshs33hw82ii98nq4c2-tzdata-2021c.drv v8rmjidl4rbfdxr6q0vrqm1afsry2gz9-python-setup-hook.sh.drv
+CA: text:sha256:16h8wwaq3nl14b41rg3vqfqnf3mmp4xcmmrqilq3kbhl4nv6lbby

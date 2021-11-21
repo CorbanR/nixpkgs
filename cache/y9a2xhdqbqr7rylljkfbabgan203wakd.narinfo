@@ -1,0 +1,9 @@
+StorePath: /nix/store/y9a2xhdqbqr7rylljkfbabgan203wakd-ruby2.7.4-racc-1.6.0.drv
+URL: nar/144cph1a0gwr0kqj1hyjsqdvknn5gq2vczx42cbxjny5iyfrrqz0.nar.xz
+Compression: xz
+FileHash: sha256:144cph1a0gwr0kqj1hyjsqdvknn5gq2vczx42cbxjny5iyfrrqz0
+FileSize: 2144
+NarHash: sha256:0hi2zcdy30vz9sgnk1810jk7hkynh1f5xp3migazpzx2fpb8ciwn
+NarSize: 4896
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv lddb4nzfkd9kxhlaaad83yfkxp32mjjw-ruby-2.7.4.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb yf5pxk0z4k7vdjaswmcbq5shf7km3ba0-racc-1.6.0.gem.drv
+CA: text:sha256:1i62z9gpyswzvizann12mkv2phjjvbk9lgpkzihca1kzckp1nzy1

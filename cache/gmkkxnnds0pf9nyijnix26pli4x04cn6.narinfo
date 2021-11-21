@@ -1,0 +1,9 @@
+StorePath: /nix/store/gmkkxnnds0pf9nyijnix26pli4x04cn6-pkg-config-0.29.2.tar.gz.drv
+URL: nar/0r5i2r299hbzmxmdlk4n5ydf0gq1lj7ihml90q4bgf2yg199vvcv.nar.xz
+Compression: xz
+FileHash: sha256:0r5i2r299hbzmxmdlk4n5ydf0gq1lj7ihml90q4bgf2yg199vvcv
+FileSize: 1372
+NarHash: sha256:08rirx9ngy5m3j09djw7x34sqqa0qikbsami0xfwx2610sygx9b7
+NarSize: 3168
+References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv aaphdbkpxq8r4c6g794nbmj2lj3l7k5a-mirrors-list.drv dwvimxgx1kxrapkk1393kap4xb9abgfh-curl-7.79.1.drv jvvsqmlmkypqcalcghrh06q6w460dw3c-stdenv-darwin.drv
+CA: text:sha256:0aw3ihx7whbn6qs8l2w5lwvwgrcrmy9wx3gd6fb808yrjf2yk68a

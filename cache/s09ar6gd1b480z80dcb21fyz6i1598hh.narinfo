@@ -1,0 +1,9 @@
+StorePath: /nix/store/s09ar6gd1b480z80dcb21fyz6i1598hh-cyrus-sasl-2.1.27.drv
+URL: nar/1vaanbpqixzi2ldzlpxg1pwj6a3lq2a66ghvm3161c1fipa6bxhx.nar.xz
+Compression: xz
+FileHash: sha256:1vaanbpqixzi2ldzlpxg1pwj6a3lq2a66ghvm3161c1fipa6bxhx
+FileSize: 1608
+NarHash: sha256:081japv6q4xsvfly0nirkh4f8ysh85dnkjl9gadkpziw0z1s77sd
+NarSize: 3888
+References: 05vda37lyy96yx3ch75glchsjik8bi93-prune-libtool-files.drv 1yycjz9fl4yk5iyxhivjc653qpbjhqsb-db-5.3.28.drv 3kbs3zx9hvw0zgjfvkihl6n9n27k7lwz-cyrus-sasl-ac-try-run-fix.patch 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 7d39ffz07swmsnxsndk4l01lr9yk1him-cyrus-sasl-2.1.27.tar.gz.drv 8xxchkb6r8qp143mmy7szrsd08dfc5sv-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv adz88z1laih6z9lwl3mzpdi1kgm7qj2l-openssl-1.1.1l.drv ixwr6zvbrhyql4vw47gm5pnxag1nmnd1-libkrb5-1.18.drv jf5yhp1i3nsh1q1r9kk6c575bw54yxpv-linux-pam-1.5.1.drv lddf0lz0g6xqynv1qi0qmmwk2v263y94-CVE-2019-19906.patch.drv p9fdk3cjidj191kpabgzalmip55rv0x2-gettext-0.21.drv s88ghhri7aq8g4r2p955n71zsiwfmm8h-missing-size_t.patch sdr2mc55r48v00ngy9pfsprknmdg8k19-hook.drv
+CA: text:sha256:06yxfx82f7p822qlfkrjc91v3hs2grqm2zayvn5rphn4gq10fr64

@@ -1,0 +1,9 @@
+StorePath: /nix/store/wbhz3d22whakdb15vhx1hrcrz87fs9k0-gobject-introspection-1.70.0.tar.xz.drv
+URL: nar/1as9318y7yvnl1afajndp2navgqz79bi0wlip7yh5m2c01v8axdb.nar.xz
+Compression: xz
+FileHash: sha256:1as9318y7yvnl1afajndp2navgqz79bi0wlip7yh5m2c01v8axdb
+FileSize: 1284
+NarHash: sha256:0vwcq1a9nhpr6gd5vb5hk0ha0cz3rbxzrpmrlpcxlnzp1zx2shql
+NarSize: 2960
+References: 1151zln3c3j1q6f5jdm5c6509n1rf9y9-curl-7.79.1.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 93g01qi589sgyhyim0rcii7j945yma6a-mirrors-list.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv j2x2lsbacglr9zgzl6abp8sd2kf2j4j7-stdenv-linux.drv
+CA: text:sha256:1vcsipvids73dc41k6h0mb0hf699sskzwc6vpw2fj8mqqrqq52vg

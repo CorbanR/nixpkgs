@@ -1,0 +1,10 @@
+StorePath: /nix/store/x20lc6gld5c6ghlli4lbkixs2nj6scmm-curl-7.79.1
+URL: nar/0qvd1graqq2di14p5qnj5nbfzj1ybs7x04v522qq5q0rk5c183mr.nar.xz
+Compression: xz
+FileHash: sha256:0qvd1graqq2di14p5qnj5nbfzj1ybs7x04v522qq5q0rk5c183mr
+FileSize: 230140
+NarHash: sha256:0x97xczkcial4dxr7lzxfryglv93pzsgw4vh1ikzyhsyypwrbiv2
+NarSize: 588096
+References: 3nahqyla1q5qxh7xl93vih9nxpiqq8f4-Libsystem-1238.60.2 3rgwzinh07qa4l6yf6bjb4f1fv023rim-openssl-1.1.1l 8a9l7n2772j4aa8b11s9mwgpzr55g04d-brotli-1.0.9-lib d9n33knjgihd2aafcsw57d3g53072vc7-swift-corefoundation ick031g8hhb4d25i1hpm3wi8vxyq95i3-libkrb5-1.18 pryhfwrz78p7i5dhpsk2cj5kkmdi3rsn-nghttp2-1.43.0-lib rzfpjd14dmpplh8dmxjy8dgm2mb848l9-libssh2-1.10.0 wcy62ywnzwqiafvx0z7idwhv8mck0xjw-zlib-1.2.11 x20lc6gld5c6ghlli4lbkixs2nj6scmm-curl-7.79.1
+Deriver: l087i4pyjnwpydbwrgmr69df6w237a2f-curl-7.79.1.drv
+Sig: cache.nixos.org-1:qIp9gE6e5pfF3kXFCvnr1jBvjXOI8eA6PuU0OmRnoW0+qFvcUk0dpB23sT3TI7VXNLhv8AZT7pbQl1ysbOSPDQ==

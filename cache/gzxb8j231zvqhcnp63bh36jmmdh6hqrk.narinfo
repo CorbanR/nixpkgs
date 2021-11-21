@@ -1,0 +1,9 @@
+StorePath: /nix/store/gzxb8j231zvqhcnp63bh36jmmdh6hqrk-freezegun-1.1.0.tar.gz.drv
+URL: nar/1ib4ar96na13cg5a07z874dqf2cwvcc9l4dxnx8ki49kc95v9v4g.nar.xz
+Compression: xz
+FileHash: sha256:1ib4ar96na13cg5a07z874dqf2cwvcc9l4dxnx8ki49kc95v9v4g
+FileSize: 1228
+NarHash: sha256:0xn6knisdw80q0igx4y5857wm9jyjagnnqlf0p8l8157v5mgz11a
+NarSize: 2896
+References: 1151zln3c3j1q6f5jdm5c6509n1rf9y9-curl-7.79.1.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 93g01qi589sgyhyim0rcii7j945yma6a-mirrors-list.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv j2x2lsbacglr9zgzl6abp8sd2kf2j4j7-stdenv-linux.drv
+CA: text:sha256:0b1jhf3rrr4w2gbkcdp590dxz2bjym0w032lhv3v83b6398gpvvg

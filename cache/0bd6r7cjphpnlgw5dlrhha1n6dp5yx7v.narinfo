@@ -1,0 +1,9 @@
+StorePath: /nix/store/0bd6r7cjphpnlgw5dlrhha1n6dp5yx7v-IOFireWireFamily-458.tar.gz.drv
+URL: nar/1xgk1284z1wvrm2svxv8p2p8fd9assnzchsj9z0m9fmvr5rqi8ig.nar.xz
+Compression: xz
+FileHash: sha256:1xgk1284z1wvrm2svxv8p2p8fd9assnzchsj9z0m9fmvr5rqi8ig
+FileSize: 1328
+NarHash: sha256:13v1fj74xkcn7rm5fhfdwn1514bgns9yahpfmjgzwcdxg0csw6c8
+NarSize: 3168
+References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
+CA: text:sha256:0z2xshnicj9dvh24l56dil000d8r9kv510m83rfjmf6i6qm9pcfa

@@ -1,0 +1,9 @@
+StorePath: /nix/store/3iy7ib2akn2mvbznl2z9xc5v1pgl1kb7-xtrans-1.4.0.drv
+URL: nar/1w0iyh1pybricr4azpb66ipaq46cqy2m01vx5x1g9svrbbcbfygk.nar.xz
+Compression: xz
+FileHash: sha256:1w0iyh1pybricr4azpb66ipaq46cqy2m01vx5x1g9svrbbcbfygk
+FileSize: 820
+NarHash: sha256:0plca9cfs16m1r0vj19phk4pdkfmw4lpx215w13z3i3qxnmngf7h
+NarSize: 1720
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv ks9r2bg1jyvfnzdrx6syqj7b4fpx8wvy-xtrans-1.4.0.tar.bz2.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv vh1cpdrgrbipscys6lzr0sfcamr0r2vk-builder.sh
+CA: text:sha256:0i0x5707d3iw1dijair8n0mcr4pg91mrz6b82bhxnadx2j5hm3i7

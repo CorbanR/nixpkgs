@@ -1,0 +1,9 @@
+StorePath: /nix/store/bci0d4r40gvc9iyxjb5ysavd35jk7xmd-cmake-3.21.2.drv
+URL: nar/1knvyh3blxyk2dkm8ngmqlmkj3yac82mg76gw5lhp0p8180rlz6n.nar.xz
+Compression: xz
+FileHash: sha256:1knvyh3blxyk2dkm8ngmqlmkj3yac82mg76gw5lhp0p8180rlz6n
+FileSize: 2088
+NarHash: sha256:0740g8bjs0mw2w3173xgaz6npjf5n2f6r8bydrl5nqiq1x36zmbw
+NarSize: 4832
+References: 3pl661b3g524a146qq65mcvyycp0pi4p-libarchive-3.5.2.drv 4smkbnn899zxsmg5zfiibabk3mw0xms6-libuv-1.42.0.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 7n2b0329xqvwrpqwk3vvlfp7s3vglpi3-application-services.patch 8bp0ywzi397bmp9506l4vlzdabwl6rk4-rhash-1.4.1.drv 8ci16d92gw844rvacwysp3m4pqym0pqn-setup-hook.sh 8xxchkb6r8qp143mmy7szrsd08dfc5sv-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a0i0a09n86p92p1s8ic482ldv974q517-search-path.patch a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv adz88z1laih6z9lwl3mzpdi1kgm7qj2l-openssl-1.1.1l.drv i3ldqi56znag6g1rlqzmmn1m8vwdanyz-xz-5.2.5.drv ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv ing6g8am6sfzi2dsz3vdj5f3c3gq9d26-expat-2.4.1.drv jr4g7xrz7yxd2a1yjjh4dph1b90ryi2i-cmake-3.21.2.tar.gz.drv l334vv83h8sch9v6a1xsl22zpmllgxcp-glibc-2.33-56.drv m2mzxhlgcxmma18bjiai7dk1zcp9k9x3-curl-7.79.1.drv p1jw2hf4686j8yv6kqf4yw16cjk2aybj-bzip2-1.0.6.0.2.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv scbgacx2m0h3f3nsp89hl4bz3lmxd0av-libuv-application-services.patch y4vw9gz1abs7n5jr85widykqwkga0yi5-binutils-2.35.2.drv
+CA: text:sha256:114qhq6rsl5v0kwfpx138k0mkvjzbsizmm4gl3gw96nz17y7bs54

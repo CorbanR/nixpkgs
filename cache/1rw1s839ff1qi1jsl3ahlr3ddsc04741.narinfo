@@ -1,0 +1,9 @@
+StorePath: /nix/store/1rw1s839ff1qi1jsl3ahlr3ddsc04741-IOUSBFamily-560.4.2.tar.gz.drv
+URL: nar/1i80xqcn1ykjw0gzzl0zmz5h2wkcyph3h2skkj4cyjkcv95fjkn2.nar.xz
+Compression: xz
+FileHash: sha256:1i80xqcn1ykjw0gzzl0zmz5h2wkcyph3h2skkj4cyjkcv95fjkn2
+FileSize: 1384
+NarHash: sha256:0pb4qk6z6icn6aczg2ix026a88alx8595sd19zv8310s2zp38gf1
+NarSize: 3184
+References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv aaphdbkpxq8r4c6g794nbmj2lj3l7k5a-mirrors-list.drv dwvimxgx1kxrapkk1393kap4xb9abgfh-curl-7.79.1.drv jvvsqmlmkypqcalcghrh06q6w460dw3c-stdenv-darwin.drv
+CA: text:sha256:12ydrv3gjhjcm6523ryh5y06avzcyrlmqpqlh5rylzzq9kzyffp7

@@ -1,0 +1,9 @@
+StorePath: /nix/store/fcvbm3mgarq532s9yj64aaxwpf4wfrdx-libnetfilter_conntrack-1.0.8.tar.bz2.drv
+URL: nar/004r8m46hc4c826d09fs14xw35mx8c6b0jpm0mvfsifl5z905mis.nar.xz
+Compression: xz
+FileHash: sha256:004r8m46hc4c826d09fs14xw35mx8c6b0jpm0mvfsifl5z905mis
+FileSize: 1284
+NarHash: sha256:1vg71z7i06whm6qg7sgx15g78dmf1hhp12irdajskprwjs1mfn8k
+NarSize: 2968
+References: 1151zln3c3j1q6f5jdm5c6509n1rf9y9-curl-7.79.1.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 93g01qi589sgyhyim0rcii7j945yma6a-mirrors-list.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv j2x2lsbacglr9zgzl6abp8sd2kf2j4j7-stdenv-linux.drv
+CA: text:sha256:0fx5v7mjj49k8fb9h2qlgyd3qdc0y574fvkl3k3mr2jgskmrz83p

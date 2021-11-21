@@ -1,0 +1,9 @@
+StorePath: /nix/store/486qvwbnlbxqyzr4q4avjm3i52risp23-libfido2-1.8.0.drv
+URL: nar/13vv29h5y7yir0gayqwd6hwqv3mvpldgmh14286zibfjqagnhn3q.nar.xz
+Compression: xz
+FileHash: sha256:13vv29h5y7yir0gayqwd6hwqv3mvpldgmh14286zibfjqagnhn3q
+FileSize: 1188
+NarHash: sha256:1dbnc5wvnkbl3xsiizbc74ch1mic17zr0r0g588566im24j4fcbh
+NarSize: 2456
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv adz88z1laih6z9lwl3mzpdi1kgm7qj2l-openssl-1.1.1l.drv bci0d4r40gvc9iyxjb5ysavd35jk7xmd-cmake-3.21.2.drv gpm96zwy6q73lqhrn3miabjswsqkvmyx-libcbor-0.8.0.drv h3nia0r6rz4qak33mrn2xa9l84w525xd-systemd-minimal-249.5.drv ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv vwq62jd99cmw2pgiarrd3c3a3lv655wf-libfido2-1.8.0.tar.gz.drv
+CA: text:sha256:161l3m4bqmq6bf5h3cfypnpjkqnl7qzavbvs6rmd3api1xch727x

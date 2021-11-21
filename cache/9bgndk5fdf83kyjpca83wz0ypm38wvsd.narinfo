@@ -1,0 +1,9 @@
+StorePath: /nix/store/9bgndk5fdf83kyjpca83wz0ypm38wvsd-coreutils-9.0.drv
+URL: nar/04lq0jsvs68ygy8i4285v4ba3ms92lysvfj7n7y7hcbgasm524km.nar.xz
+Compression: xz
+FileHash: sha256:04lq0jsvs68ygy8i4285v4ba3ms92lysvfj7n7y7hcbgasm524km
+FileSize: 2180
+NarHash: sha256:1n68s7mry71s77z8dl0wbx81hz9841d6lfbqwiw2a7307b3xj2da
+NarSize: 5184
+References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 2j8nv5xpgw7js9lr3dnspc2vk04jifzv-fix-chmod-exit-code.patch 39qzl9b10chc0wkn2jl8hqcbmsb9m9yp-perl-5.34.0.drv 4dk9jfhw46cyk9c5n3vw8r6kcyp0gjgm-coreutils-9.0.tar.xz.drv 6vb9fi9n7n45ghpcc3m845d3lsi8kd1i-attr-2.5.1.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh amaykpsx0dxj28jr0ny8knxfqa2whszy-gmp-6.2.1.drv fa8jmnzk27jmxa5s0l96mkxyzgxlyzyp-acl-2.3.1.drv i3ldqi56znag6g1rlqzmmn1m8vwdanyz-xz-5.2.5.drv ip7163ql342lslzljl80l4axcd8vdif9-hook.drv m6ixcki4cjqacw41z0ci694fh4b0pz6l-openssl-1.1.1l.drv snhl0w63mc0s3q6y386g061bgc7jdwwn-disable-seek-hole.patch yzw5la0mh7gs60vp10mv4sax9kzw4rib-bootstrap-stage4-stdenv-linux.drv
+CA: text:sha256:0gjic4w53pw4a065bccx6s3q1bflb651vd95xigza6rx0c9m28ig

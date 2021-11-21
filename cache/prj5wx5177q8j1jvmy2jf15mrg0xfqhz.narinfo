@@ -1,0 +1,9 @@
+StorePath: /nix/store/prj5wx5177q8j1jvmy2jf15mrg0xfqhz-tzdata-2021c.drv
+URL: nar/1j1sq12g9xy917jvn4ksabyi284gg92y1zwzs93m6py698hmccg2.nar.xz
+Compression: xz
+FileHash: sha256:1j1sq12g9xy917jvn4ksabyi284gg92y1zwzs93m6py698hmccg2
+FileSize: 1420
+NarHash: sha256:1hlk8nxg92zmj2h9hpmls0pghqc2gr6n4c0q2b8x3n6qg8jj60xa
+NarSize: 3368
+References: 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 3q9vpdf0bqlbqr3s867nisz8phx4c9kb-tzdata-setup-hook.sh 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c8s87nl342gnpb8j38zpkqk485va17va-tzcode2021c.tar.gz.drv csqv7dk51byxfngz6gdakggd0y3w4niq-tzdata2021c.tar.gz.drv z8fpa31ijqf7wjrx8fqa0fw782szyspf-clang-wrapper-7.1.0.drv
+CA: text:sha256:05rbf610ffvadxxqkfjj1ni6nrpjm85jif6n4kyjmrw10yg1vkn7

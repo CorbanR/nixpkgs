@@ -1,0 +1,9 @@
+StorePath: /nix/store/097zrhg9xpz9vnckba8nvdy8b2kama2j-cmake-3.21.2.drv
+URL: nar/1snh1gx7w3l5iprk5qdhm1z87gyzqfnmizslylyjsq093fvl56k3.nar.xz
+Compression: xz
+FileHash: sha256:1snh1gx7w3l5iprk5qdhm1z87gyzqfnmizslylyjsq093fvl56k3
+FileSize: 2348
+NarHash: sha256:0g5mkxik2ddr1zk1nmwszq93csgrnry89q1hh12n1dnqsnxwffbv
+NarSize: 5640
+References: 02hvx9pf1i16zjyr9lsxnsrnp87kdi3x-xz-5.2.5.drv 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 4f7zp4pxhfhg0nipvhvc4fjhjmld87b9-libuv-1.42.0.drv 7n2b0329xqvwrpqwk3vvlfp7s3vglpi3-application-services.patch 7v2xi28y2hxnfm8r8rfx8yghxp7f27zb-Libsystem-1238.60.2.drv 8ci16d92gw844rvacwysp3m4pqym0pqn-setup-hook.sh 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a0i0a09n86p92p1s8ic482ldv974q517-search-path.patch a19wwxzl1ppfjpycg2f0gxpfj11hnwz1-openssl-1.1.1l.drv a1dkqfrbr9wpqc476vf9pmwfgg1gs036-expat-2.4.1.drv bhmp3c1nq0djg9qbq8l9ra8m82dafrsh-bzip2-1.0.6.0.2.drv c1msrizikqsfi28wc66vc8h9h8c0bd9q-ps-adv_cmds-119.drv c2kgmg7fs673l1dfyg9b58qkfi2im328-pkg-config-wrapper-0.29.2.drv cf0ybxsfc5yab8jmmlkmf4pk98lx52wq-apple-framework-SystemConfiguration.drv i24yk6qs5kc24zhydbi3czrwcc29i881-libarchive-3.5.2.drv k7xxb1cq4pv4wpj5fiklsjxdsjsqx2mi-darwin-always-set-runtime-c-flag.patch lz7xic7z5qwjndgk19fhh7ga57wn4yvw-rhash-1.4.1.drv m1wlmhmzbkl0wp46mqal1snprlkhvhcr-zlib-1.2.11.drv scbgacx2m0h3f3nsp89hl4bz3lmxd0av-libuv-application-services.patch xxhs41x6pk1ybg9n63r8wbg1yc793jyi-cctools-binutils-darwin-949.0.1.drv ya0ld0rnqybyn2ngmh17m3p8aac03qfr-cmake-3.21.2.tar.gz.drv z8a77wf0hb6fvf4iyplz1x565wpwgcpj-curl-7.79.1.drv z8fpa31ijqf7wjrx8fqa0fw782szyspf-clang-wrapper-7.1.0.drv
+CA: text:sha256:1hj7cw0lhcxnbg4rbcp7i7rb1n140vgd296lnzkfs4s042mavnx0

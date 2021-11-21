@@ -1,0 +1,9 @@
+StorePath: /nix/store/fswd78nvxzf2n7c5rqjdybn8j8rjpssz-ruby2.7.4-ruby-enum-0.9.0.drv
+URL: nar/0535hm8v499nxri8xcnli06n7m6mcfpg9rg1kjj21ds0vza0i01m.nar.xz
+Compression: xz
+FileHash: sha256:0535hm8v499nxri8xcnli06n7m6mcfpg9rg1kjj21ds0vza0i01m
+FileSize: 2228
+NarHash: sha256:12hyws96sk2lh901hsh33k7hsgj846wszh5skd3ljzc36aww4b3f
+NarSize: 5224
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv lddb4nzfkd9kxhlaaad83yfkxp32mjjw-ruby-2.7.4.drv p1pimd9ixinw6wf2q4fy9w56ivjqaawl-ruby2.7.4-i18n-1.8.11.drv qb64f95sfa3xgyav1ck3573g0y6qas4k-ruby-enum-0.9.0.gem.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb
+CA: text:sha256:0z4lnn4hy7fl8ln6ahsb2zhg3np8w0jf4s5hil490v6mh82z0qln

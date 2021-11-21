@@ -1,0 +1,9 @@
+StorePath: /nix/store/l54wbfz51q0ipp746v248s5p3yy8kd40-ruby2.7.4-afm-0.2.2.drv
+URL: nar/1p18a7i34846mbnlx7az9grzl04rc2xy2vz9p4cqazzlxic6mr77.nar.xz
+Compression: xz
+FileHash: sha256:1p18a7i34846mbnlx7az9grzl04rc2xy2vz9p4cqazzlxic6mr77
+FileSize: 2144
+NarHash: sha256:0v56vvkmfh3sv39p19v9jxf2mh688gb592c3bymj04rxskp29lg7
+NarSize: 4888
+References: 54lvxas7205k2n37bcaqi21iff9g04v3-afm-0.2.2.gem.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv lddb4nzfkd9kxhlaaad83yfkxp32mjjw-ruby-2.7.4.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb
+CA: text:sha256:0p5gpfiagq4b5yf91amfprgxgjid403mfnk86rxx6n9ls8vp0khi

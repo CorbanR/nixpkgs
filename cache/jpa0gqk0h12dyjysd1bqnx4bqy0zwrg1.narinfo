@@ -1,0 +1,9 @@
+StorePath: /nix/store/jpa0gqk0h12dyjysd1bqnx4bqy0zwrg1-perl5.34.0-gettext-1.07.drv
+URL: nar/0wlwbiila7y4v2bgyjw2d6b4x3x8bpapk9wn5lzj7g5f7mcjf490.nar.xz
+Compression: xz
+FileHash: sha256:0wlwbiila7y4v2bgyjw2d6b4x3x8bpapk9wn5lzj7g5f7mcjf490
+FileSize: 936
+NarHash: sha256:1mj9qq1b67j9dixhs91i27b4y6blcfdjxd8y7nvysx9d7z960fz5
+NarSize: 2184
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9w0gfycx9ksbq70p92g7kr782zivfqbk-gettext-1.07.tar.gz.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv lzb1mg6jy5y42mr70m2xiybnanlpa1f6-perl-5.34.0.drv p9fdk3cjidj191kpabgzalmip55rv0x2-gettext-0.21.drv qf3mzpvsmkrw963xchbivcci06078n13-builder.sh
+CA: text:sha256:0g5rdvhvlgihqb1y84111bdg0j7k88p9f9j3jksz6541gg78da9j

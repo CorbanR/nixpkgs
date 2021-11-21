@@ -1,0 +1,9 @@
+StorePath: /nix/store/cy3znvpbhxv23lpqkfknp84s4qf207a2-libselinux-3.0.drv
+URL: nar/0qj7zwhd46fkgwknq5fgkid255v0yj2zjmazq95mmc7dfsplk82h.nar.xz
+Compression: xz
+FileHash: sha256:0qj7zwhd46fkgwknq5fgkid255v0yj2zjmazq95mmc7dfsplk82h
+FileSize: 1556
+NarHash: sha256:0pr1379bywaqj348bazibn7iqg69q7fp0ykwys1n1ndc1ag9ihdn
+NarSize: 3648
+References: 14g1gcm3ljam06lrcwc8b3c5gdjxg6fs-swig-3.0.12.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv c7gyxz16khc52ap8s3vr1fq75x573304-libsepol-3.0.drv jk471dxbwvbq5ba93i069sdyzdmn9qsh-pcre-8.44.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv x6nl0dmk6jh9cm19bqig8xqhghcnb9l0-libselinux-3.0.tar.gz.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv
+CA: text:sha256:1142qr92rskn5gcjxd3vpl8pa96mz4m2z52ilisirlmfqy37bxxc

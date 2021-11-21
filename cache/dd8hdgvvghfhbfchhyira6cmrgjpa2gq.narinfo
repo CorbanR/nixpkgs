@@ -1,0 +1,9 @@
+StorePath: /nix/store/dd8hdgvvghfhbfchhyira6cmrgjpa2gq-ibm-sw-tpm2-1661.drv
+URL: nar/0sc13k1j39l3528m1dwbrqb8lfvp9zc7jrs2ys35xflx9wf4fhsj.nar.xz
+Compression: xz
+FileHash: sha256:0sc13k1j39l3528m1dwbrqb8lfvp9zc7jrs2ys35xflx9wf4fhsj
+FileSize: 1104
+NarHash: sha256:09ffdzfhnm6qz8yg6cal7zlc58ds2plcr35rz7fgjapkas90cpm7
+NarSize: 2312
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 8xxchkb6r8qp143mmy7szrsd08dfc5sv-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv adz88z1laih6z9lwl3mzpdi1kgm7qj2l-openssl-1.1.1l.drv vqazbdy1djgny4jay2b1lgn7vbkibyar-ibmtpm1661.tar.gz.drv y7a75plhn3rlm9k0f6v0q76f4rjirpqr-e6684009aff9c1bad38875e3319c2e02ef791424.patch.drv
+CA: text:sha256:1nxwv16mkqc9yyvq82m09z4klmxr5m15l7d5zsnqsgrmkk4sq8yr

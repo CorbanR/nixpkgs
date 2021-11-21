@@ -1,0 +1,9 @@
+StorePath: /nix/store/yx86jb7y1jj1n8a2l84xsgmldivgqvcz-gmp-6.2.1.drv
+URL: nar/0lp0fkadsc68c414s8b7arfppy6f5qbyp6nq8s2xpvp39rri0ap4.nar.xz
+Compression: xz
+FileHash: sha256:0lp0fkadsc68c414s8b7arfppy6f5qbyp6nq8s2xpvp39rri0ap4
+FileSize: 960
+NarHash: sha256:0a1bqnx8i0a6k5aih3mvhhv2lkvxyyy5jxba48myp5fy0ajqhrsi
+NarSize: 2136
+References: 2szd07rq7gjawcdkhxa6xdb0gpq9q31a-gnum4-1.4.19.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 8xxchkb6r8qp143mmy7szrsd08dfc5sv-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv pjjcj68gw5fbd6z5l6xh41f0l3dwm5bd-gmp-6.2.1.tar.bz2.drv
+CA: text:sha256:0jpha2w9blivq33ln983jflmx0kg2p7hz5g7gzmb95zvhh5zwbyi

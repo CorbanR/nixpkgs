@@ -1,0 +1,9 @@
+StorePath: /nix/store/bbp77dlki80z160811hh2fiz1pv4mycr-architecture-268.drv
+URL: nar/1mkqknnfnycn3nmpnnwyh601ff7mw37nzgqvib3fsq16rz7849q8.nar.xz
+Compression: xz
+FileHash: sha256:1mkqknnfnycn3nmpnnwyh601ff7mw37nzgqvib3fsq16rz7849q8
+FileSize: 1256
+NarHash: sha256:13hi33ds6bzvvy0p0vzzjfi3nap3nh9qkd2q10gs9fngg0dmgqgn
+NarSize: 2936
+References: 3ajw6wy3g9j8vq1wphry693a404hka8c-architecture-268.tar.gz.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh jskzifpxhhm2q6gx8569p81lqfqhbcb4-bootstrap-stage1-stdenv-darwin.drv
+CA: text:sha256:1pq6xv2h5fawhpxpfmmm1z9i47cx9pd4x5qriikviha0rsskdmlk

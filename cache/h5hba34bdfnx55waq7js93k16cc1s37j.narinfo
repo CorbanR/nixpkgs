@@ -1,0 +1,9 @@
+StorePath: /nix/store/h5hba34bdfnx55waq7js93k16cc1s37j-clang-13.0.0.drv
+URL: nar/1iqrawn7s4izpaxrzhfbwxglj4178fdrdrcmya7z27kxgjqna8nz.nar.xz
+Compression: xz
+FileHash: sha256:1iqrawn7s4izpaxrzhfbwxglj4178fdrdrcmya7z27kxgjqna8nz
+FileSize: 1728
+NarHash: sha256:1kq8aw0wpjcicgjb5gx66hgz09nw4i71vc3w60i12sd6cg4mh3gl
+NarSize: 4072
+References: 34zhl915l308dpa7v2786z3xgbvy6398-purity.patch 4pmrpr1mc317wmfia94k2dmhm3mfvgjn-clang-11-12-LLVMgold-path.patch.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9mda4dix3blzjwjybilycpf0vqqf3rm8-gnu-install-dirs.patch a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv amzwc8a7nhfj7jn72zwmaxyhnlf500d1-source.drv bci0d4r40gvc9iyxjb5ysavd35jk7xmd-cmake-3.21.2.drv nmkap7x88agdfwnqyxrnpqzyk6jvig0q-llvm-13.0.0.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv zayghcdvc215sxjq8c2y18a6a7b15fr3-libxml2-2.9.12.drv
+CA: text:sha256:0dv0allfvs5g5rhd6hsz1pffvvdxan53ajcc77gy50g26m6c43c5

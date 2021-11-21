@@ -1,0 +1,9 @@
+StorePath: /nix/store/fsr2gx84ddg6i3lbcird4aq940sidv0z-cargo-1.58.0-nightly-2021-11-21.drv
+URL: nar/1xlhs5xq70iw11r6lklf636cf36zb073nyagab6rfnl89kph8k6l.nar.xz
+Compression: xz
+FileHash: sha256:1xlhs5xq70iw11r6lklf636cf36zb073nyagab6rfnl89kph8k6l
+FileSize: 1596
+NarHash: sha256:0lb95wghj5jddlwjm943q7bi7hblwpy8azc1abqglmi7kl4gx8mz
+NarSize: 3608
+References: 4ivd75nyk4k4fvpn1dm7a1h72kpgviac-cargo-nightly-x86_64-unknown-linux-gnu.tar.xz.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 8ky90x3zzbnlyjwzyzzn6zn8y2rfg2ha-gnutar-1.34.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv
+CA: text:sha256:0mq7h824rmyzqjnqyv7in16v7iicg9871zj701rlfj9gih6w1d0r

@@ -1,0 +1,9 @@
+StorePath: /nix/store/5w9vm9bcapnx3xr6djisr6ham8grbi5d-libpthread-218.60.3.tar.gz.drv
+URL: nar/0asv52hpah14j14728ixw0jidw3zkb6l9rkr7qy609m36fij631b.nar.xz
+Compression: xz
+FileHash: sha256:0asv52hpah14j14728ixw0jidw3zkb6l9rkr7qy609m36fij631b
+FileSize: 1332
+NarHash: sha256:05ssq7p0wdpy7gzwlr9rfrl45jpw3xnj25xcjh83r6zm0p3x72gl
+NarSize: 3160
+References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
+CA: text:sha256:081p2mzdf0y0mssvcd1iz3sxqhkc7g7sxm3la4wbm5xlcxwp8dyq

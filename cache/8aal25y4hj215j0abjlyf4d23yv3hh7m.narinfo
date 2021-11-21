@@ -1,0 +1,9 @@
+StorePath: /nix/store/8aal25y4hj215j0abjlyf4d23yv3hh7m-pciutils-3.7.0.tar.xz.drv
+URL: nar/1lxigknfvw7an1fgg8zdqkkq6qsag1ycj9f2djwzy41106wb5kj6.nar.xz
+Compression: xz
+FileHash: sha256:1lxigknfvw7an1fgg8zdqkkq6qsag1ycj9f2djwzy41106wb5kj6
+FileSize: 1268
+NarHash: sha256:0yfvinn9fcphvbknlj921fj7bc8i7660c3hid2d4117lf9j6lgf9
+NarSize: 2888
+References: 1151zln3c3j1q6f5jdm5c6509n1rf9y9-curl-7.79.1.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 93g01qi589sgyhyim0rcii7j945yma6a-mirrors-list.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv j2x2lsbacglr9zgzl6abp8sd2kf2j4j7-stdenv-linux.drv
+CA: text:sha256:0g0dlj2ik1sqflpc3vry6kfv4z9fp39ljhni12kpdk0gnq12v8cp

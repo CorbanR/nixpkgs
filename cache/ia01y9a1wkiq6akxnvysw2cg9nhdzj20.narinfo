@@ -1,0 +1,9 @@
+StorePath: /nix/store/ia01y9a1wkiq6akxnvysw2cg9nhdzj20-libpthread-stubs-0.4.drv
+URL: nar/03avi9zj7q1xkprrhj0yzdxflbyh50vbjnjswi7wp27z76z3vp2y.nar.xz
+Compression: xz
+FileHash: sha256:03avi9zj7q1xkprrhj0yzdxflbyh50vbjnjswi7wp27z76z3vp2y
+FileSize: 828
+NarHash: sha256:1w2apz610v0lkx5dc2niwbkzk0hkqh4h80gbpf1lw2xaj14mz2ja
+NarSize: 1768
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv ixvfrg9yycw47jp23l9d9spv0vv5faxk-libpthread-stubs-0.4.tar.bz2.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv vh1cpdrgrbipscys6lzr0sfcamr0r2vk-builder.sh
+CA: text:sha256:19y294vacfwaq4m8cys2z4lm3raa6l9rvazifsqbl0zmr4vpbldn

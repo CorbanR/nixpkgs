@@ -1,0 +1,9 @@
+StorePath: /nix/store/iidwinihlkvfrxnphnck385yrpi96zfz-cargo-bootstrap-1.55.0.drv
+URL: nar/08icjdsg3052297qyrw5p2wyp8gfw2w71ar9i3y8kmbblb2h1f4d.nar.xz
+Compression: xz
+FileHash: sha256:08icjdsg3052297qyrw5p2wyp8gfw2w71ar9i3y8kmbblb2h1f4d
+FileSize: 1140
+NarHash: sha256:1wr76m545fd7g6ww5rdyykifw9qadwa5hp1v2d1hdvxrz3n6q3rw
+NarSize: 2456
+References: 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 96d8m8873bi6crdm6iix9wswvzj7igr8-apple-framework-Security.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh i4j1rvnjid6lsi7zyp006xq47g0na4py-hook.drv k4v0m7n70657k93psv2d7qpss2ym5f1i-rust-1.55.0-x86_64-apple-darwin.tar.gz.drv x5lzc6af6wsqjqh7gykfr7dpb0130nlr-rustc-bootstrap-1.55.0.drv
+CA: text:sha256:049kv17mq3s5l6hq6ca71hcvk3x9c2wncjs4rx6bx3ml8pa386na

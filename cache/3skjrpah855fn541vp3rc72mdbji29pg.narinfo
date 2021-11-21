@@ -1,0 +1,9 @@
+StorePath: /nix/store/3skjrpah855fn541vp3rc72mdbji29pg-packaging-20.9.tar.gz.drv
+URL: nar/10f0dv6aq018qyfzajsrcgxlvjndcl8fw6cff200ak210xw8ns55.nar.xz
+Compression: xz
+FileHash: sha256:10f0dv6aq018qyfzajsrcgxlvjndcl8fw6cff200ak210xw8ns55
+FileSize: 1368
+NarHash: sha256:0wngcigpy4afd7k8gj7cwnk446hbhld8xwdrc06bz0qvs9nmsfz4
+NarSize: 3136
+References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv aaphdbkpxq8r4c6g794nbmj2lj3l7k5a-mirrors-list.drv dwvimxgx1kxrapkk1393kap4xb9abgfh-curl-7.79.1.drv jvvsqmlmkypqcalcghrh06q6w460dw3c-stdenv-darwin.drv
+CA: text:sha256:0jibbihxqpp13kl4c48i7bjfihlswk31sffl8piai2cgs3y6rs00

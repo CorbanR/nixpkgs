@@ -1,0 +1,9 @@
+StorePath: /nix/store/x9pmc1lg7d0f2jvgkcm3703ahq1xdg4l-ruby2.7.4-hashery-2.1.2.drv
+URL: nar/1g6i87dfd0vpdwfi9h4m0qlyr4200d0f4qii8l4w6fq7knmv5z0q.nar.xz
+Compression: xz
+FileHash: sha256:1g6i87dfd0vpdwfi9h4m0qlyr4200d0f4qii8l4w6fq7knmv5z0q
+FileSize: 2148
+NarHash: sha256:1jdc2yvas65lqncv6cz6rrxgb667lpin7mf3y9a364am39ryyhpd
+NarSize: 4912
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv lddb4nzfkd9kxhlaaad83yfkxp32mjjw-ruby-2.7.4.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb vivdgkyfyp8wi7ib0pi2smwhv1vf3kfi-hashery-2.1.2.gem.drv
+CA: text:sha256:0dm6ijybgwv3rh3g6zhqphj2dacc9454dw2p0hnrsldawrbv0pyv

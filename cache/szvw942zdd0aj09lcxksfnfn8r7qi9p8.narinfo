@@ -1,0 +1,9 @@
+StorePath: /nix/store/szvw942zdd0aj09lcxksfnfn8r7qi9p8-libidn-1.38.drv
+URL: nar/0l7vva22vj6fg5xdjm4ys5zq8ybjsvy7b650wclg9yvdfxfj7ydl.nar.xz
+Compression: xz
+FileHash: sha256:0l7vva22vj6fg5xdjm4ys5zq8ybjsvy7b650wclg9yvdfxfj7ydl
+FileSize: 1096
+NarHash: sha256:0fp85zp7vsbd8c28zlmqlhma4pwpqy1h54a2xypmvznf74ffdz3w
+NarSize: 2616
+References: 8dzmgz6ir39l1av5ji3gmjnphqx2wqfq-libidn-1.38.tar.gz.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b86llh34rw4y5nmbjg5il0gvkkyh8aw8-libiconv-50.drv bk3ddd0pbplkzsdccj0vbjhnx33pcif6-bootstrap-stage4-stdenv-darwin.drv
+CA: text:sha256:05hrhbk4hm663z0c2pyc4djdx0xs8f4y6z5l7wv9kznnkm2w048j

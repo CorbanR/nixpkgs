@@ -1,0 +1,9 @@
+StorePath: /nix/store/vp4s6yjahx8a6i4l4h8c99x1sn6a79d1-coreutils-9.0.drv
+URL: nar/1s60pyzxldscjfkd5h6y3m0n8gz4252v4qzv5w3qzbxk35n5ghyz.nar.xz
+Compression: xz
+FileHash: sha256:1s60pyzxldscjfkd5h6y3m0n8gz4252v4qzv5w3qzbxk35n5ghyz
+FileSize: 1940
+NarHash: sha256:1da4b1sqap9091b7sk6hs9gbb8g4qxdifji1h92zxm7lclxgvs76
+NarSize: 4672
+References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 2j8nv5xpgw7js9lr3dnspc2vk04jifzv-fix-chmod-exit-code.patch 4dk9jfhw46cyk9c5n3vw8r6kcyp0gjgm-coreutils-9.0.tar.xz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh i3ldqi56znag6g1rlqzmmn1m8vwdanyz-xz-5.2.5.drv ip7163ql342lslzljl80l4axcd8vdif9-hook.drv rg6jp1xmf2ipblwkb6brkazqql7j7vmj-perl-5.34.0.drv snhl0w63mc0s3q6y386g061bgc7jdwwn-disable-seek-hole.patch yzw5la0mh7gs60vp10mv4sax9kzw4rib-bootstrap-stage4-stdenv-linux.drv
+CA: text:sha256:1dnl15razgkvi52arq193hk3qf3pgy4xjs7sd6g0shfbpmgabwbi

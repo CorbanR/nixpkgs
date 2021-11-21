@@ -1,0 +1,9 @@
+StorePath: /nix/store/dqk8jp0ynshj03vwgvc0qx3ix3mkwy41-IOKitUser-1050.20.2.tar.gz.drv
+URL: nar/1ndazkq1vpnfjvyk6rwkh0s7k092shil6a0nymplkazzjhwb3g1v.nar.xz
+Compression: xz
+FileHash: sha256:1ndazkq1vpnfjvyk6rwkh0s7k092shil6a0nymplkazzjhwb3g1v
+FileSize: 1332
+NarHash: sha256:0vh9lwlrmg8rrmwnfqfx0faan5cfcnracvsm56i1b2lqv0hcf7gh
+NarSize: 3160
+References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
+CA: text:sha256:1kfalvy7ik3mhsnlphy4gplkavlv2l1annczhah65h0w5fm5qafq

@@ -1,0 +1,9 @@
+StorePath: /nix/store/0z6sssgg8qkxhg1aqjas8hp7bhf51yc4-xorgproto-2021.5.drv
+URL: nar/1jv65kbc21lsqvzpbjm7zngi0ci1j7n9537hbynj1n5rha9kf3f3.nar.xz
+Compression: xz
+FileHash: sha256:1jv65kbc21lsqvzpbjm7zngi0ci1j7n9537hbynj1n5rha9kf3f3
+FileSize: 1024
+NarHash: sha256:1x36zd964v60yfjcqslwzwi2csxlnr3jvphlfq5msbbxdvj9r3nb
+NarSize: 2160
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv c2y93ncjfr22hf735hybf48ldfrx6bjr-ninja-1.10.2.drv lh5a734j5hrgin5z951dik3r2zayrw2r-xorgproto-2021.5.tar.bz2.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv vh1cpdrgrbipscys6lzr0sfcamr0r2vk-builder.sh xfbzw9mbi5cjfx3qfs1yardhmi515zdq-meson-0.57.1.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv
+CA: text:sha256:1hfvby5fm2n4cwcfsncr6dhwaxdn4kl7fn83c8xmy1zcrc210yrb

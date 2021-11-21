@@ -1,0 +1,9 @@
+StorePath: /nix/store/25lgmas2ggm75v6sbpi7gjavapyd2k50-openssl-1.1.1l.drv
+URL: nar/0xxnbwxqrdzqsb0yqpz8vbgq1dzzs7gq5cs39r14q7hq4v9cf2zg.nar.xz
+Compression: xz
+FileHash: sha256:0xxnbwxqrdzqsb0yqpz8vbgq1dzzs7gq5cs39r14q7hq4v9cf2zg
+FileSize: 1648
+NarHash: sha256:1a0v1j0ry9ar0q1isn2nzg1v0s6wr91cc7l4k8na70x09j3ajrqn
+NarSize: 4152
+References: 3xk9ps0qz073k641b88swpa4fgx3hzwg-nix-ssl-cert-file.patch 4jf6yk0iz1rifyfg3k7nba3g88dj3fh4-separate-debug-info.sh 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 6v3wc7dqwsvjkpvj11xkv4k4j99s0nc7-openssl-1.1.1l.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv lzmcfv2m4ripknpvbsv8wcg1ik1kif4h-use-etc-ssl-certs.patch rg6jp1xmf2ipblwkb6brkazqql7j7vmj-perl-5.34.0.drv vp4s6yjahx8a6i4l4h8c99x1sn6a79d1-coreutils-9.0.drv
+CA: text:sha256:0xsh1x47lqdd4ii90k05cwma3qayig0xdyyc4bx8izng3c2nqkvf

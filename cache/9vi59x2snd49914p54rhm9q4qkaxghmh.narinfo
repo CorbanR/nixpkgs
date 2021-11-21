@@ -1,0 +1,9 @@
+StorePath: /nix/store/9vi59x2snd49914p54rhm9q4qkaxghmh-libtasn1-4.17.0.tar.gz.drv
+URL: nar/1yl45z5qpcf98djnl1m7qnlzklgagx3x6ldsml9ly6jc1nc4k3py.nar.xz
+Compression: xz
+FileHash: sha256:1yl45z5qpcf98djnl1m7qnlzklgagx3x6ldsml9ly6jc1nc4k3py
+FileSize: 1268
+NarHash: sha256:1yb8d206fjvyqp942nm8mimq1rnshcmgfhw6lxxxdm5944ygg9hd
+NarSize: 2880
+References: 1151zln3c3j1q6f5jdm5c6509n1rf9y9-curl-7.79.1.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 93g01qi589sgyhyim0rcii7j945yma6a-mirrors-list.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv j2x2lsbacglr9zgzl6abp8sd2kf2j4j7-stdenv-linux.drv
+CA: text:sha256:13c7v235gmsrz87n9vc0aa7dshri1sh0z3jbi2k9fzrkra5bhxj5

@@ -1,0 +1,9 @@
+StorePath: /nix/store/lygcg23wxl55r1mfn54xnl0jnhq1qx1k-curl-7.79.1.drv
+URL: nar/0mvzmjcznwmypwpcav7w4755z48g6l5vbbm275gf5xm5qkdjj9s6.nar.xz
+Compression: xz
+FileHash: sha256:0mvzmjcznwmypwpcav7w4755z48g6l5vbbm275gf5xm5qkdjj9s6
+FileSize: 1932
+NarHash: sha256:0dd0yy7rsx0arf5g9f89wlz18201ynpf76dq60wm2ng4sdklsq28
+NarSize: 4680
+References: 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9hwsa67dk65fyaryx7a8lr74ilfb3xxh-perl-5.34.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a19wwxzl1ppfjpycg2f0gxpfj11hnwz1-openssl-1.1.1l.drv b5imkcsl19niymib5qa7xirdnmybmrsa-libssh2-1.10.0.drv c2kgmg7fs673l1dfyg9b58qkfi2im328-pkg-config-wrapper-0.29.2.drv cyjmixlims8ah6jz6ncq9vi2mfnh26x0-curl-7.79.1.tar.bz2.drv d9bzyg94727ssywvq507p4ql3fcs9vcx-libkrb5-1.18.drv dsxvqwnln11s7frmzcbhf547g8pybnpy-nghttp2-1.43.0.drv gdqnvkbp6nnrvww108adb7nvjgrpdxzb-7.79.1-darwin-no-systemconfiguration.patch m1wlmhmzbkl0wp46mqal1snprlkhvhcr-zlib-1.2.11.drv pzxxk0snck4rg40ky4cg7w5gzxnx57iv-brotli-1.0.9.drv yzn07n96ywcr7m7z8waa0bs4p1243nhp-libidn-1.38.drv
+CA: text:sha256:10n3l7avxa9p2dxq2vp5q6677hwgrgfvvfdbjc7yg6kpdmlcjaq8

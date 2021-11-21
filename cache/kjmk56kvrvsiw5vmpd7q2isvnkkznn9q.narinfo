@@ -1,0 +1,9 @@
+StorePath: /nix/store/kjmk56kvrvsiw5vmpd7q2isvnkkznn9q-clang-7.1.0.drv
+URL: nar/15ab2gfsdivljqj8cmlirijzzw11ypjb8bi7m6h7hbhf1shrpjgc.nar.xz
+Compression: xz
+FileHash: sha256:15ab2gfsdivljqj8cmlirijzzw11ypjb8bi7m6h7hbhf1shrpjgc
+FileSize: 2148
+NarHash: sha256:0bb4s6sbham31ybx6gkw19w11i2nsimx2rcj2aihgxw8md1kxqj1
+NarSize: 5040
+References: 66l7hczw6hkl2cyi2c3bbphphwj4z1rr-purity.patch 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 99bcv23m6vvzpvpw5ggns6fmbm259ddc-cmake-boot-3.21.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bk3ddd0pbplkzsdccj0vbjhnx33pcif6-bootstrap-stage4-stdenv-darwin.drv d76j6111kn1gc6lfvsdlb62brjawivji-libxml2-2.9.12.drv f293jrsip9mxmc8gbws74ixb5s6pxbk6-clang-6-10-LLVMgold-path.patch.drv jkmf3l4h0z0qy0mr0xgrr6j1hr72wl0b-HIP-use-PATH-7.patch mydqbqs8irv1byk150rk4f9vzrrb9qwc-unwindlib.patch q0m48q98wlf7mbig7wz3wv905bgn147s-gnu-install-dirs.patch vdvzggwf9l3r0clq0qpx0psb917nyy6i-llvm-7.1.0.drv x1mjqr5dkb9x3s77wawj91fivbkhw6xl-clang-tools-extra-7.1.0.src.tar.xz.drv xwsbwkl1c6hcla6ijpn94zvd5gf7fg59-hook.drv yskbwr1w84y85s72afd1mn6my3x9lb11-python3-minimal-3.9.6.drv zp8l1j7xmalajjcdzzh47nxzs26iflca-cfe-7.1.0.src.tar.xz.drv
+CA: text:sha256:1ykk0bqsdx2vkrcv77gbczvc5i5psqschz70ld3gbzdk8hg0bvjz

@@ -1,0 +1,9 @@
+StorePath: /nix/store/vy1d95xyzwyq03yl0fz2awf25l4jjfy2-automake-1.16.3.tar.xz.drv
+URL: nar/0fd4sbvahixaxbmcjnc4vb8ry6rybnqgcq8rvvkh88hnr0rz6mii.nar.xz
+Compression: xz
+FileHash: sha256:0fd4sbvahixaxbmcjnc4vb8ry6rybnqgcq8rvvkh88hnr0rz6mii
+FileSize: 1304
+NarHash: sha256:01ppmpiymxlb1y1rdai23pb0v55r2pp0jqa0r2ynd5hw488qx53b
+NarSize: 3112
+References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
+CA: text:sha256:1y8lk6qx7ssxfykg3wcg53sj10kq79683cdfqhmlf27x0lcqnibn

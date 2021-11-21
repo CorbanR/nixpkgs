@@ -1,0 +1,9 @@
+StorePath: /nix/store/9l2sr61qb370zhld4jjabv7x7pssf3nj-lasem-0.4.4.drv
+URL: nar/1q1pv01lpgppgiili9sqh79i17fsb9byzvl49rj34ln43vqx4888.nar.xz
+Compression: xz
+FileHash: sha256:1q1pv01lpgppgiili9sqh79i17fsb9byzvl49rj34ln43vqx4888
+FileSize: 1424
+NarHash: sha256:0ngqv28rv4gvv8hrpmd2jv2a2mvc0nzq2a1mx0rijp9mzr9qi4vy
+NarSize: 3424
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 771iajifidwwgz61yni0j7ipzcsmdgfr-pango-1.48.10.drv 78x1ypfnrpngjhjb7wvjb28256jpsigq-gobject-introspection-1.70.0.drv 8jyyy84gama4a33rk5h3m71ls0fmkng1-intltool-0.51.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv cpnw58zn8llcv5lh7vw2fxb0ip697446-glib-2.70.1.drv lx1vs60sk1sc4mv5g3xp8pnz6iymq5x6-cairo-1.16.0.drv mzy0jswh5px6n27pdv1h3gas40m1hnqa-lasem-0.4.4.tar.xz.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv xmkhrv41ssi919spgd8408q0pw16vncm-gdk-pixbuf-2.42.6.drv zayghcdvc215sxjq8c2y18a6a7b15fr3-libxml2-2.9.12.drv
+CA: text:sha256:0namhzr41vgf33yp5s09jmi7wz5vmqj3x4g926hrb8x9hl1kk5hq

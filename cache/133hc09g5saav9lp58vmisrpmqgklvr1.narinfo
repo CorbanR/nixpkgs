@@ -1,0 +1,9 @@
+StorePath: /nix/store/133hc09g5saav9lp58vmisrpmqgklvr1-cmake-boot-3.21.2.drv
+URL: nar/1bhjiiy0df21q1qqslddlihk95b8127fzjm00bz5vsnjishllcdj.nar.xz
+Compression: xz
+FileHash: sha256:1bhjiiy0df21q1qqslddlihk95b8127fzjm00bz5vsnjishllcdj
+FileSize: 1536
+NarHash: sha256:0cpl42wf1q3qf5i1fd8ykp4jpx1nq94nsxq6066bhfc3qj49vm4c
+NarSize: 3640
+References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 7n2b0329xqvwrpqwk3vvlfp7s3vglpi3-application-services.patch 8ci16d92gw844rvacwysp3m4pqym0pqn-setup-hook.sh 8xxchkb6r8qp143mmy7szrsd08dfc5sv-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a0i0a09n86p92p1s8ic482ldv974q517-search-path.patch a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv jr4g7xrz7yxd2a1yjjh4dph1b90ryi2i-cmake-3.21.2.tar.gz.drv l334vv83h8sch9v6a1xsl22zpmllgxcp-glibc-2.33-56.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv scbgacx2m0h3f3nsp89hl4bz3lmxd0av-libuv-application-services.patch y4vw9gz1abs7n5jr85widykqwkga0yi5-binutils-2.35.2.drv
+CA: text:sha256:0jcrs6hv1c5bq0mzzck9k2hcnq49k2cnqi98815wdims8yw85qmm

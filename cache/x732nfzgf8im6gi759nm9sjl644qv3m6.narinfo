@@ -1,0 +1,9 @@
+StorePath: /nix/store/x732nfzgf8im6gi759nm9sjl644qv3m6-IOGraphics-485.40.1.tar.gz.drv
+URL: nar/04xs4q42l4xa423z8qmhqs5nkm2r0w9pvlg2130cyr0zxikf543f.nar.xz
+Compression: xz
+FileHash: sha256:04xs4q42l4xa423z8qmhqs5nkm2r0w9pvlg2130cyr0zxikf543f
+FileSize: 1332
+NarHash: sha256:0b4xibr1ljzdw71b2b517akqjl5lbb0kg8n4sy5kylapm5yvxw1i
+NarSize: 3160
+References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
+CA: text:sha256:0fdfnky4xgv690v6d4p3ljdr7r6jsrksplb9f7ysrg7lcxl6r55m
