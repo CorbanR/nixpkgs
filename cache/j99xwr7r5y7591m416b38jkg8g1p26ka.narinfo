@@ -1,9 +1,0 @@
-StorePath: /nix/store/j99xwr7r5y7591m416b38jkg8g1p26ka-Try-Tiny-0.30.tar.gz.drv
-URL: nar/11zp9ayrhk6qqaca06198zwfb41rkl6jdxwf2rif47wbmbg3ybp2.nar.xz
-Compression: xz
-FileHash: sha256:11zp9ayrhk6qqaca06198zwfb41rkl6jdxwf2rif47wbmbg3ybp2
-FileSize: 1344
-NarHash: sha256:0z4adxl3ay5yqws5rz7fb7hkv1jz5gfm8cavi8hl9jvan9bcpm8l
-NarSize: 3160
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv aaphdbkpxq8r4c6g794nbmj2lj3l7k5a-mirrors-list.drv dwvimxgx1kxrapkk1393kap4xb9abgfh-curl-7.79.1.drv jvvsqmlmkypqcalcghrh06q6w460dw3c-stdenv-darwin.drv
-CA: text:sha256:0yq422frv73ma53b3zgamq8f0iv54rc3ra5ik6k0ljirrs9ibdnb

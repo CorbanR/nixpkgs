@@ -1,9 +1,0 @@
-StorePath: /nix/store/x6nl0dmk6jh9cm19bqig8xqhghcnb9l0-libselinux-3.0.tar.gz.drv
-URL: nar/1nbz8z33g023ppvzlif4ivlmw8nsb8cjlk3kc83gcq9fmx11q0pw.nar.xz
-Compression: xz
-FileHash: sha256:1nbz8z33g023ppvzlif4ivlmw8nsb8cjlk3kc83gcq9fmx11q0pw
-FileSize: 1292
-NarHash: sha256:1lxzi3lj089di0xc29z9z0i3dicm90rcw0a7gq9d1n4mx0lw8hp5
-NarSize: 2920
-References: 1151zln3c3j1q6f5jdm5c6509n1rf9y9-curl-7.79.1.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 93g01qi589sgyhyim0rcii7j945yma6a-mirrors-list.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv j2x2lsbacglr9zgzl6abp8sd2kf2j4j7-stdenv-linux.drv
-CA: text:sha256:07q72qs693c73s8sxbbm1hx53vbjz84fjm8nsn73ivdbcjn1fr6c

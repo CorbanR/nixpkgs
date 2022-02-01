@@ -1,9 +1,0 @@
-StorePath: /nix/store/a97nw0p1q31as4dbmr7bn1cg0wlm3c7b-bootstrap-stage0-clang-wrapper-7.1.0.drv
-URL: nar/19nibzlp8bkc3fpczg2frbdv5xppb51qpqhvjrxjq6hgd9nd5qdi.nar.xz
-Compression: xz
-FileHash: sha256:19nibzlp8bkc3fpczg2frbdv5xppb51qpqhvjrxjq6hgd9nd5qdi
-FileSize: 2600
-NarHash: sha256:0nrl41v8lg5xy236s2l5zig621zrm3bccnaxj0r90849z35caf9c
-NarSize: 8328
-References: 08brsmv99w5vyrkbvx3iz87blj5wwgkz-utils.bash 29mjzkai0jil6prs0nvhq07h47kfi490-add-flags.sh 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 5y9z91005kfvdryb7hzncvii7f5dpc2z-gnugrep-3.7.drv 7v2xi28y2hxnfm8r8rfx8yghxp7f27zb-Libsystem-1238.60.2.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh clayqmjn2dv0m2z9pxyawjnj4r83gp48-bootstrap-stage0-compiler-rt.drv gi8lnqhlqip7x8sbpzva0sl6hhi23y0c-cc-wrapper.sh hc3z14jhqg35x5286hw5wmc3injg62fa-add-hardening.sh nc4bvrgb8jxh4k1fq2zgzh4mmxqavp54-setup-hook.sh nmw3l1zkkhfc2fg1vi2ya700zn3r56j9-expand-response-params.drv qy5734q2z2n8q2jdkywc78x37wh3vsis-role.bash raz8z1bpz8yrd1lk4f5p06cb618wx0wi-bootstrap-stage2-stdenv-darwin.drv wyik1jwmpx1p3wym36i8p31llmligg22-libcxxabi-7.1.0.drv xva9ydgcx5sbsl6gcp47by8qwlpycqjr-bootstrap-stage0-clang.drv yn3j3h1drh3im23nhwi0za71fmv5221b-coreutils-9.0.drv z4s38d57kg80v80ykqpx0wgn65f4hb5w-libcxx-7.1.0.drv zwarsbcdwww89jkiipcry70rz4djsi3c-bootstrap-stage0-binutils-wrapper-.drv
-CA: text:sha256:0zpdj9hgygd0a4d9zd84xrq36pfjqa94iax7kcrdpr4d3mhq20vk

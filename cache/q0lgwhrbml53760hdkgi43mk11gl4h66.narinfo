@@ -1,0 +1,9 @@
+StorePath: /nix/store/q0lgwhrbml53760hdkgi43mk11gl4h66-re2c-2.2.drv
+URL: nar/1jy11akshpzf1lhp9f9as2aw9gdrzx5156wyvlzyfkz7rqyf2l9s.nar.xz
+Compression: xz
+FileHash: sha256:1jy11akshpzf1lhp9f9as2aw9gdrzx5156wyvlzyfkz7rqyf2l9s
+FileSize: 968
+NarHash: sha256:002qb5y3yasn1lbk08fks10fzhgn4ap6ck0aja3iy0zzrsmy64a4
+NarSize: 2096
+References: 9fwnhgz4v44dg93mbqg9nsqz2hg5mfdm-source.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9n46g74z930k45q7sc4cw3mxydxwmswd-python3-minimal-3.9.9.drv kcfj0a0f2lzvqq8xypkxga131qs46d4d-hook.drv rpiackywakmkarc3ahab2ja3sf5frgsn-bootstrap-stage1-stdenv-darwin.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:09akjx61f5rbv1bqy69hnd32vj5bksmd52kiv87ca3g4wnlp53q8

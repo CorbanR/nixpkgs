@@ -1,9 +1,0 @@
-StorePath: /nix/store/r1bc7fmj03ykcx8l34b18qwx347lsv4v-log4cxx-0.10.0.drv
-URL: nar/06dfndn27yq8ldbkpwvpw0qr7k3lggsfcdmzgg3csr6262wfaqfr.nar.xz
-Compression: xz
-FileHash: sha256:06dfndn27yq8ldbkpwvpw0qr7k3lggsfcdmzgg3csr6262wfaqfr
-FileSize: 1360
-NarHash: sha256:1fm73k0dyyvvg083rzm07rrab06qdv80ck16hvnlq7glnv0ygman
-NarSize: 2944
-References: 1yycjz9fl4yk5iyxhivjc653qpbjhqsb-db-5.3.28.drv 53rhrpb8mmf4dcyrn4f9wd2hml7dznch-apr-util-1.6.1.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 75l5y4a1vzv41gwkikchl8l9i86zvbvw-narrowing-fixes.patch 8dyklcjw3c1660vki4rid20wmv8r9qhz-boost-1.69.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv byhls469ksf371dxrin3dbfxyr4qxg1n-apache-log4cxx-0.10.0.tar.gz.drv g9z10hzv699x5va6pmgb6hwg2jig4yhw-cppunit-1.15.1.drv ing6g8am6sfzi2dsz3vdj5f3c3gq9d26-expat-2.4.1.drv wpv19l2hp8f73ibqq1946q67rxp9njdp-libtool-2.4.6.drv z1xk1x5qp26wh36fw5xxvagf4bxrfs5k-apr-1.7.0.drv zayghcdvc215sxjq8c2y18a6a7b15fr3-libxml2-2.9.12.drv
-CA: text:sha256:0yp701mdb9dxpmfs1lb38k2wdgvsqq3w7xkdlz9gbfk28nnkdh61

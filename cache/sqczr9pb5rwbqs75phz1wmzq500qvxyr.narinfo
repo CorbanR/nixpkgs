@@ -1,9 +1,0 @@
-StorePath: /nix/store/sqczr9pb5rwbqs75phz1wmzq500qvxyr-libtiff-4.3.0.drv
-URL: nar/0ywlcwra43k1xfskjacf3i6lcfz8c44j4wq3r8hbjfpdkjncpkvk.nar.xz
-Compression: xz
-FileHash: sha256:0ywlcwra43k1xfskjacf3i6lcfz8c44j4wq3r8hbjfpdkjncpkvk
-FileSize: 1384
-NarHash: sha256:0633xbyqf7sg3jv2r310b8pczwkpg6md1shv574ci4sksib74kwn
-NarSize: 3416
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv f9ps518w5w051zxvgj6wdpmgp94xf3gc-libdeflate-1.8.drv i3ldqi56znag6g1rlqzmmn1m8vwdanyz-xz-5.2.5.drv ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv pgcas80cjg87a9xix5h3dm387la4jpga-headers.patch pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv sdr2mc55r48v00ngy9pfsprknmdg8k19-hook.drv w42m6wv4m81ifvbg50jjhqr2cd8y473s-libjpeg-turbo-2.1.0.drv zsk99b3jhks66h05035pf3h423ni4j72-tiff-4.3.0.tar.gz.drv
-CA: text:sha256:13xzhda8s4cbpvj1d751q6wz0l2kywqsnzii5h73rf8g8yqvjciq

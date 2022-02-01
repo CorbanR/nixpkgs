@@ -1,0 +1,9 @@
+StorePath: /nix/store/vjrd8mch93j24172i4xzm2qhswa03jr0-gnupg-2.3.3.drv
+URL: nar/0jpl3dzzp3zra04j99zxdlzn2rm1dv2hy5rs0rhc6bph52cjw1jl.nar.xz
+Compression: xz
+FileHash: sha256:0jpl3dzzp3zra04j99zxdlzn2rm1dv2hy5rs0rhc6bph52cjw1jl
+FileSize: 1984
+NarHash: sha256:0dilh40ggffa1s08s8npjhy5hwpkr3i8mp5snjsf651a0r1zd2ll
+NarSize: 4680
+References: 09ysgw8zj28zy31l02dcrjrvs9mibvav-tests-add-test-cases-for-import-without-uid.patch 0s8c0livm51y7jvr470cs4mil016hwsk-libksba-1.6.0.drv 19qhbik67skkha4p7crvsldbza9h05k4-tpm2-tss-3.0.3.drv 3gzcrpdbvhgvik8x1wypg98svm96gjvc-gettext-0.21.drv 3lagjzkz6ks6qrwi0bmjj9agrz51lrh0-pkg-config-wrapper-0.29.2.drv 634lrx5bacshlnv1rzpvggazwlbpn6b9-gcc-wrapper-10.3.0.drv 896ji3ynxi12mcn0rk85avsisjyzaw30-allow-import-of-previously-known-keys-even-without-UI.patch 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh aqqqi141ci6gm6z45z5l03zzsqm5bv6w-libgpg-error-1.42.drv gk00fs82xwg3ymr4xzipby24adl8z7di-gnupg-2.3.3.tar.bz2.drv hkazljyykj4wl8lp126ali2pzj9cg2j0-libassuan-2.5.5.drv ml6k7sqh826hy2cilhq7n44fnbh0zbd9-accept-subkeys-with-a-good-revocation-but-no-self-sig.patch mw6v0hi3jfjfc42h14h2jkc2apbi5691-texinfo-6.8.drv n14rxg9lby5gz2vr5q4y5nijv90cm9bv-fix-libusb-include-path.patch r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv vg14bzvqpc0w3x9mz15d1v7d9amqmy3r-npth-1.6.drv x6b3zwhz66n7lg19z3pi4cjhffqln8i3-glibc-iconv-2.33.drv xamyc1d9jcal0b3xhrgnkhw8wnpbdwfb-libgcrypt-1.9.4.drv
+CA: text:sha256:1chn548x7i0l5mxyp4k1vm39nnmxp8dbk3jlfwn62maa0byxdix2

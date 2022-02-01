@@ -1,9 +1,0 @@
-StorePath: /nix/store/5s3707jqv9l2sk765vygxqkpzxkhyv4y-llvm-7.1.0.drv
-URL: nar/1siyppyybpdrnfdwwlka9mbaqqmny90g3ram0fkm4wrsydjs53cb.nar.xz
-Compression: xz
-FileHash: sha256:1siyppyybpdrnfdwwlka9mbaqqmny90g3ram0fkm4wrsydjs53cb
-FileSize: 2340
-NarHash: sha256:1f3glix1b2ff9qv52sx3k5d4ja6zb6absgva9xk42cs0mmy6b7l7
-NarSize: 5416
-References: 0qj1wl6y94a7c09l44imhpahg6arh2qz-outputs.patch 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 5pqww4birs2qhirnq86n4c8wl0nmsana-ncurses-6.2.drv 95vibiwb1w7vgi6jhry7wqg63gpv53sj-llvm-7.1.0.src.tar.xz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv arsfwwr1w2z8npxy8k477r0pq25wlm98-libffi-3.4.2.drv bci0d4r40gvc9iyxjb5ysavd35jk7xmd-cmake-3.21.2.drv bijn270jyp716xkv7bdmv0nzvqhil2j0-libpfm-4.11.0.drv f5lgimx7qbvl7dnc48yrvxwnwmqi3wwi-da1fb72bb305d6bc1f3899d541414146934bf80f.patch.drv fq1rhg6vphkcn328kvagcvjw6an4fg6b-cc1f2a595ead516812a6c50398f0f3480ebe031f.patch.drv ggjiyj0xpw1pgj85v8fhaygih1wcl6vl-libbfd-2.35.2.drv ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv ph5wbrvnldyzm0m8n9wlmcdy5brw9rr3-polly-7.1.0.src.tar.xz.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv zayghcdvc215sxjq8c2y18a6a7b15fr3-libxml2-2.9.12.drv zx8mhw8snlvkl3v16nzpmz23wsksdc50-gnu-install-dirs.patch
-CA: text:sha256:0j6mlzc7fb97zdp1v8wkd656lh3nhwmvzcj4m6j6qnd05zg92lny

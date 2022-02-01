@@ -1,9 +1,0 @@
-StorePath: /nix/store/w8mhnrpij2xn7y5vjfh2n9l4m9x9z0m6-cpio-2.13.drv
-URL: nar/0hcgl24ska3zjdvv0rlp5x7bc1099y56fg53h3zv1x9r9af9xssv.nar.xz
-Compression: xz
-FileHash: sha256:0hcgl24ska3zjdvv0rlp5x7bc1099y56fg53h3zv1x9r9af9xssv
-FileSize: 952
-NarHash: sha256:1fbqcs9dfvr0kmani4q71raky0b7l38r83npx8xcz4drskcz4q49
-NarSize: 2120
-References: 16wrwxpql6by8ay9al5q4rvn32yg68b9-cpio-2.13.tar.bz2.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 8iayi1s1dh8dn1mik1wp96njaf3a6pa4-CVE-2021-38185-1.patch.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv hy4406506r96w8wnjjjm97hmblprky5w-CVE-2021-38185-3.patch.drv v3hx2s96n5iq8q3fbkvb27lpirdcpiyv-CVE-2021-38185-2.patch.drv x3kpy2mnv7znmzvnvz9cnl9b711jb6y5-fno-common-fix.patch.drv
-CA: text:sha256:08q1rp6lxyzw1gbjkz2m8gz14qd4rj7j54crwlv5mlz3jgnkfk6s

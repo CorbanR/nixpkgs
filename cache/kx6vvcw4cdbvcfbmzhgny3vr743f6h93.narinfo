@@ -1,9 +1,0 @@
-StorePath: /nix/store/kx6vvcw4cdbvcfbmzhgny3vr743f6h93-cctools-port-949.0.1.drv
-URL: nar/079hixgxrk9jlsdp5rjhi37p5asf06vasvhpw1crvwynpwh75d3g.nar.xz
-Compression: xz
-FileHash: sha256:079hixgxrk9jlsdp5rjhi37p5asf06vasvhpw1crvwynpwh75d3g
-FileSize: 2028
-NarHash: sha256:1gmafxvfwgkjgd0pp8xh67cdpxrdj4xb5mmymj0qwv8j2mahgip4
-NarSize: 4696
-References: 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 9ivqvmm15l1s04aaxldj7zs1h89lj9jw-install-shell-files.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c64ii4d737xkrd2bj9qa2m7r5b7mv023-libtool-2.4.6.drv dz89056wxcyhmqxs654qggmci1s355d1-source.drv h7ycyka4hch1fq2j8nsdfy67vqrqmdji-autoconf-2.71.drv ixlpd8w46b6ar5b047ha4zzkbirh6brs-objc4-709.1.drv p8w59ji1i8g3x4vcnrbxx9wng71js1n4-bootstrap-stage1-stdenv-darwin.drv r4y9rrj3s88l8c7sv3gasi9kbf69lf6x-hook.drv r9iy2wdkq3w0n1hbyg92c2sqg3vcbkhl-ld-ignore-rpath-link.patch rmdjafrigrqr9ywgs31082ial0h2z9h6-libtapi-1100.0.11.drv vw6qpnnafzgfzpym7b47v8x0p3xp8nzb-automake-1.16.3.drv zr59kiajvksmks3vl1hja2ybix9z2zqk-ld-rpath-nonfinal.patch
-CA: text:sha256:1krhbv4gvv1kvpxq0m0hc5ryzc165550pn5q76b4dparsq4k8bcv

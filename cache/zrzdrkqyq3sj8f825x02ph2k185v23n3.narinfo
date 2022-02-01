@@ -1,0 +1,9 @@
+StorePath: /nix/store/zrzdrkqyq3sj8f825x02ph2k185v23n3-cyrus-sasl-2.1.27.drv
+URL: nar/1wp68mfhn0rdvq4mqm7m2szvw464ryywcc5sfynv0p38ysyf3aif.nar.xz
+Compression: xz
+FileHash: sha256:1wp68mfhn0rdvq4mqm7m2szvw464ryywcc5sfynv0p38ysyf3aif
+FileSize: 1756
+NarHash: sha256:1gxqqw58yc9dqvf4iz220dblpvmn2zvhba51q03sw6w4h3lv41pf
+NarSize: 4184
+References: 0x2dqzvq6jhyhyr74i9p2m8myl9m3f79-libkrb5-1.18.drv 3kbs3zx9hvw0zgjfvkihl6n9n27k7lwz-cyrus-sasl-ac-try-run-fix.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9z57ahalsbw6w133f36xhncp9gm2n1cx-cyrus-sasl-2.1.27.tar.gz.drv dd8a4b7zf6wwbw396irzmqr8jymp924w-gettext-0.21.drv f4vkyrc13y2lsv9w1s9prmix1lkgm2qy-CVE-2019-19906.patch.drv gs3mqgx3iy21bz15ya5c7ghk8bamh7sd-hook.drv hccrnjag2sbxg0a9fainrpnfffqj0pf5-openssl-1.1.1m.drv mnhcz6gcy65h2r4i0kqplczs5jd1ns2f-clang-wrapper-11.1.0.drv pa9rm9k3a35z6s64kw7qm638nf6gqls7-db-5.3.28.drv s88ghhri7aq8g4r2p955n71zsiwfmm8h-missing-size_t.patch sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv xqb6ny3mn7p8nnmwm8gw4riwq9x05711-prune-libtool-files.drv yd1csq2gph2b06b0g691nr5mc9ci5dsc-hook.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:09psbxd7kk01xxv4md0wjq104phcinn5g5587wx498g7g8dsm6jr

@@ -1,0 +1,9 @@
+StorePath: /nix/store/8ig88rqf8s3g2b83ffbc8aid2yzx0l8w-openssh-8.8p1.drv
+URL: nar/171hxjw47hllm1bf0ljk0lrwn8bi5vhi6wgcr2v3jdf2bd8k9mf5.nar.xz
+Compression: xz
+FileHash: sha256:171hxjw47hllm1bf0ljk0lrwn8bi5vhi6wgcr2v3jdf2bd8k9mf5
+FileSize: 2636
+NarHash: sha256:1qhfabv2f95mr78acxjbsg8gv3sjk7db7f06cdx4mhxhh5ycfph1
+NarSize: 5840
+References: 3lagjzkz6ks6qrwi0bmjj9agrz51lrh0-pkg-config-wrapper-0.29.2.drv 7jbzj9s2wkbznn93ga3aqka6vfx06gjg-ssh-keysign-8.5.patch 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9kp5f3s2i13amkfh9y5p0nlnh5zks42l-zlib-1.2.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh d6da4yyk0qz9gn6ymrslp062w0ylij3a-linux-pam-1.5.1.drv ic9mbfkm2gk3nvaw5klw4ss8wz3pa1pw-openssh-8.8p1.tar.gz.drv isik6ifcjxpw22sfh3kz37galficc78c-locale_archive.patch j0q23m7vh125y0h4a593agrndf3425cf-libkrb5-1.18.drv jrgd2y7dd0pr6bwphr4vvi9bm805i0b2-libedit-20210910-3.1.drv r25g3m403k5hnsz6rwhpmr9j07d2jsg6-libredirect-0.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv w8ljr7zq98f9yzq88mcb30z7d37d1hlg-hostname-net-tools-2.10.drv wvniv7v93j84h65pknf2nzfsbl9ckilg-libfido2-1.9.0.drv yahi7vx9spk1bfsj7p71n0235lbw41py-openssl-1.1.1m.drv ybb4xs45dkngdf3x1xnxqgzn5zmv5alf-dont_create_privsep_path.patch
+CA: text:sha256:0xzxzc8l26f8adddvjyh2kw6vnx4s9dpn2qa7m1hyygp0vqcdb2d

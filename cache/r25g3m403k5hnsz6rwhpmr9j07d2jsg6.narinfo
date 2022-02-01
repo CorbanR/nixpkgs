@@ -1,0 +1,9 @@
+StorePath: /nix/store/r25g3m403k5hnsz6rwhpmr9j07d2jsg6-libredirect-0.drv
+URL: nar/01wvrf17lkzr7wc3aw57m9l6898l1d37yv5hdjh334qjn5p55ngm.nar.xz
+Compression: xz
+FileHash: sha256:01wvrf17lkzr7wc3aw57m9l6898l1d37yv5hdjh334qjn5p55ngm
+FileSize: 1152
+NarHash: sha256:09ls2zz6wy4sz3h0skayh6v9pkzs0s1dblg3blx2zh2rlkg0vwlb
+NarSize: 2600
+References: 45vxalsgj329fwsgszbbkkdfn7sli933-libredirect.c 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh nvq0p6jvw4q463vp2j8v07zhpnspl11p-coreutils-9.0.drv q9ygr7i5qhldd0k5dr08s32m12833id5-test.c r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv
+CA: text:sha256:1skxhkwvf2hichi79kl3ihdhhbqmg6w7daw884szw668g0673wnk

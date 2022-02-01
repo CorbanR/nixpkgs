@@ -1,0 +1,10 @@
+StorePath: /nix/store/rjial44ljaqv58y005wsdss3gi3ivw49-apr-util-1.6.1
+URL: nar/0xigz2ds422ks3jda5ddmh2q1q2fi25y4fn8h093l91dpv47zc9q.nar.xz
+Compression: xz
+FileHash: sha256:0xigz2ds422ks3jda5ddmh2q1q2fi25y4fn8h093l91dpv47zc9q
+FileSize: 73748
+NarHash: sha256:02a694mj9f0miii71yh4dy5609wd61ah27baz17ib76pib2ybs30
+NarSize: 219416
+References: 8shn81yh43cpp589dax54qicvm4dhlw5-swift-corefoundation-unstable-2018-09-14 cp7cr0c6q5cl4zxmpv21xzpaj131q9n8-libiconv-50 hbhirs4jrwnllygqws525ik7hglrylnz-apr-1.7.0 idz7d76yka1ir25if3c38f6q5h6jsz4b-db-5.3.28 ky9kp4an4nqhngd4lg7ydxk8gwwl20rm-openssl-1.1.1m q3vxmy3n5s0ip9f1am1pvznn4knc42kg-expat-2.4.2 qsl0lpx587gd3b648da5h47nxjwwx96a-openldap-2.4.58 rjial44ljaqv58y005wsdss3gi3ivw49-apr-util-1.6.1
+Deriver: 6mglvdhi9pdi132a86g0hy164j2jkqk7-apr-util-1.6.1.drv
+Sig: cache.nixos.org-1:dbRwibO6CTkxCcadxsAn627BXwyvyyLYqTBidWxa0dlbEhyLUeNI+1eCtmrvqlmUmspqeq/kSn639cU08du7Dg==

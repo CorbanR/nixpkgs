@@ -1,9 +1,0 @@
-StorePath: /nix/store/b9gr9icy5hq6myw1rs6jz3p68xr821wf-rustfmt-1.56.1.drv
-URL: nar/18zfbjs006g5h4zws9xmrpjppl5h8fk7v828fhb31rbb1mfxywsv.nar.xz
-Compression: xz
-FileHash: sha256:18zfbjs006g5h4zws9xmrpjppl5h8fk7v828fhb31rbb1mfxywsv
-FileSize: 1412
-NarHash: sha256:0fsqnppkryns49ydlg11r4w4ywz2a7jngg463nhicmkdnr0dars9
-NarSize: 3152
-References: 3vm33wlb1f43kxhnnd2rs706bjw1i19i-git-2.33.1.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv k595ppbl2pac4qf4kb5cdwhm3d557rv4-nss-cacert-3.71.drv kcf972gbaxzc597bk1c50wvbsnwpv2qa-cargo-build-hook.sh.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps paxcmr3b186cjzvdx48ipcdy25n9ycy5-cargo-check-hook.sh.drv pcrhl4rff5v2dc7agi3284zkmc0hklq0-cargo-install-hook.sh.drv vyl2cksndxz5x1i6a9fn9pg18whzw9yk-cargo-setup-hook.sh.drv xn968vp450f90fk245nzfyhymgyix9zi-rustc-1.56.1.drv ywf4l408zyg0543hia04zqcl81r8d5bg-rustc-1.56.1-src.tar.gz.drv
-CA: text:sha256:170x7nqc8qy3231nyfj2sgrdhdiyy9zb3v90qi9xn0z17wn1dks0

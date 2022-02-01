@@ -1,9 +1,0 @@
-StorePath: /nix/store/z4s38d57kg80v80ykqpx0wgn65f4hb5w-libcxx-7.1.0.drv
-URL: nar/1mj71n0a0vqrfqa1q3kg1g7c5sqvbjkznavi81fsgf2fpllyyvc4.nar.xz
-Compression: xz
-FileHash: sha256:1mj71n0a0vqrfqa1q3kg1g7c5sqvbjkznavi81fsgf2fpllyyvc4
-FileSize: 1436
-NarHash: sha256:019clipggjwdxdhc3p1xdad5z9wfdg7s1vd0g8wskdswsncp9spr
-NarSize: 3232
-References: 102lj7h3yw7343qbpyvgzb401xphmmzd-libcxx-7.1.0.src.tar.xz.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 99bcv23m6vvzpvpw5ggns6fmbm259ddc-cmake-boot-3.21.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh byj349952a5n78arln6bn89f7h7vpki6-hook.drv c1vajsjh5q07kf1dzc1jp2ylqr4k8zv7-bootstrap-stage2-stdenv-darwin.drv g7327fdq1xj9yfj6av603dlg1jc9494s-gnu-install-dirs.patch j3mrx7az15gbcvrw04miksnfyazn51m8-libcxxabi-7.1.0.src.tar.xz.drv wyik1jwmpx1p3wym36i8p31llmligg22-libcxxabi-7.1.0.drv
-CA: text:sha256:02q24k9my0y36wc6i0kkg7sgaf79pxk7a32wm2myq9bsjbfp7hlz

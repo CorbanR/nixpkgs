@@ -1,0 +1,10 @@
+StorePath: /nix/store/cjwfisc4yxxw2442ng4gra6cqqzkgy6m-libtool-2.4.6-lib
+URL: nar/1ihwfnxycban4b85jl0v3hq9619gg0v0nlaz7a75cj8w5wd595mn.nar.xz
+Compression: xz
+FileHash: sha256:1ihwfnxycban4b85jl0v3hq9619gg0v0nlaz7a75cj8w5wd595mn
+FileSize: 13804
+NarHash: sha256:14ppmdyi3ccyw8apfwba3qb0in4zldg7imh8l33m7v6qrasvnmfs
+NarSize: 37504
+References: 8shn81yh43cpp589dax54qicvm4dhlw5-swift-corefoundation-unstable-2018-09-14 cjwfisc4yxxw2442ng4gra6cqqzkgy6m-libtool-2.4.6-lib
+Deriver: xzsvbrwsv82g7ll58na074js9f95dl8n-libtool-2.4.6.drv
+Sig: cache.nixos.org-1:6/ue+3dmDQOW1c9zqwoM5bbHj+eOFYq9rgzmlmGCkds7+fny9YczFmYoSLdd6HOMcisg0RmPfKleUrcRlSSCDQ==

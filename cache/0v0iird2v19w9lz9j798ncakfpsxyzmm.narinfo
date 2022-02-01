@@ -1,9 +1,0 @@
-StorePath: /nix/store/0v0iird2v19w9lz9j798ncakfpsxyzmm-Python-3.9.6.tar.xz.drv
-URL: nar/1bbdq81xlq7q45jkhmgpr8nwvb80d15kw1nr5z854a7i7khnk964.nar.xz
-Compression: xz
-FileHash: sha256:1bbdq81xlq7q45jkhmgpr8nwvb80d15kw1nr5z854a7i7khnk964
-FileSize: 1316
-NarHash: sha256:0jwdnhf9r1fxx0fmj2gi8csk5x717pkxah2d60mk8ygrxyh3a3fm
-NarSize: 3120
-References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
-CA: text:sha256:15pl7hls5ynwx7pdxfwhl6d3m22df1fs7rqz94w25c1mxdx5lhvl

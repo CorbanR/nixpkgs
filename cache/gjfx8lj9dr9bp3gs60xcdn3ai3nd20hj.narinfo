@@ -1,9 +1,0 @@
-StorePath: /nix/store/gjfx8lj9dr9bp3gs60xcdn3ai3nd20hj-perl5.34.0-CGI-4.51.drv
-URL: nar/0jh14w9r9kzlhg16ns3b9aa0x2rjigj0jqala6vkz2vya9va9lix.nar.xz
-Compression: xz
-FileHash: sha256:0jh14w9r9kzlhg16ns3b9aa0x2rjigj0jqala6vkz2vya9va9lix
-FileSize: 1244
-NarHash: sha256:0b72z00vk4j0fqc8z4dwgbcbaxml8v5wdsr9p5dmswhfl6qbkik5
-NarSize: 2912
-References: 23fkz0ijvnr15qlwzzzccyvab9vrz7x9-perl5.34.0-Test-NoWarnings-1.04.drv 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 425p2k7qnk70fl4fmj4dgiw82b9k1bzk-CGI-4.51.tar.gz.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9hwsa67dk65fyaryx7a8lr74ilfb3xxh-perl-5.34.0.drv ghyv602qzdblpfagjjhxgr404vrbd7rp-perl5.34.0-Test-Warn-0.36.drv iw7kahf7kal80psi8mrj3wxn5lb196lz-perl5.34.0-HTML-Parser-3.75.drv nrnq8kr7y439ihnpnk383l2ryz0xd7h5-perl5.34.0-Test-Deep-1.130.drv qf3mzpvsmkrw963xchbivcci06078n13-builder.sh
-CA: text:sha256:1l2kzfmzdgwwx3s8lkldjrfdlk5n8wiyzs27lan7naiwyhvf35rj

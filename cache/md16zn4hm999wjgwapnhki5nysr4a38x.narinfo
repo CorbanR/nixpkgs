@@ -1,0 +1,9 @@
+StorePath: /nix/store/md16zn4hm999wjgwapnhki5nysr4a38x-gtest-1.11.0.drv
+URL: nar/0j26i7jpsj132drl5kyx9q1gf0ismrjx4s2l43nzz7qg5cychmfd.nar.xz
+Compression: xz
+FileHash: sha256:0j26i7jpsj132drl5kyx9q1gf0ismrjx4s2l43nzz7qg5cychmfd
+FileSize: 1028
+NarHash: sha256:01yx5252qv2wxi1fv5yf13kdrzr5l1gi4f43bci8km562sfd1q3h
+NarSize: 2312
+References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh fkwg3625q6zc377fd453zy9dm9fdylky-fix-cmake-config-includedir.patch i965qzlrpl9s3wdjazylr7d50rx2hc3y-ninja-1.10.2.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv szn3815c24z2l2ayg2yw7jk7s3bjpafb-source.drv wfh6p2lv903in87ry8j91rbawfrfi4bs-cmake-3.22.1.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:0rg8xj11x34py6i59gsmnbky7nzhw1gm51nhavbs478d6iasfn8c

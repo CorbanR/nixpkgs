@@ -1,9 +1,0 @@
-StorePath: /nix/store/k6zhcjll1ks5za7cld5qqvc69qm5fgm9-0001-dirmngr-Only-use-SKS-pool-CA-for-SKS-pool.patch
-URL: nar/08xfd9h4k0k9gxkn5vmw352w3k8qlxaf5xcxvlw3jywy0fyqdx2v.nar.xz
-Compression: xz
-FileHash: sha256:08xfd9h4k0k9gxkn5vmw352w3k8qlxaf5xcxvlw3jywy0fyqdx2v
-FileSize: 836
-NarHash: sha256:1j3i0zjy38ls6k4l5hdfnm3vaqyn1wcvyd4q3yjcy7h8azk2kbbi
-NarSize: 1416
-References: 
-CA: fixed:r:sha256:1j3i0zjy38ls6k4l5hdfnm3vaqyn1wcvyd4q3yjcy7h8azk2kbbi

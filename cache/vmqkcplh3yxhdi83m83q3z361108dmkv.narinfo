@@ -1,9 +1,0 @@
-StorePath: /nix/store/vmqkcplh3yxhdi83m83q3z361108dmkv-perl5.34.0-Test-Fatal-0.016.drv
-URL: nar/14vckg32zzlkkwas780gdjyxw8n6px7kbx0r4ksr545a6bwr1qp2.nar.xz
-Compression: xz
-FileHash: sha256:14vckg32zzlkkwas780gdjyxw8n6px7kbx0r4ksr545a6bwr1qp2
-FileSize: 1044
-NarHash: sha256:11ibk9nlx6p9jk5qk6s1lm0viax1pf5dxybna4ap8104qn5jp1vm
-NarSize: 2488
-References: 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9hwsa67dk65fyaryx7a8lr74ilfb3xxh-perl-5.34.0.drv qf3mzpvsmkrw963xchbivcci06078n13-builder.sh skcll6azckkv6f9py51yjzzygd463w18-Test-Fatal-0.016.tar.gz.drv z9nq43a9h72346rgxqi5v909dm6qwh8h-perl5.34.0-Try-Tiny-0.30.drv
-CA: text:sha256:1vcw590f452k0n2hw5i7n0wf07cafafgrnr9q1jmwrgalzbpdhb8

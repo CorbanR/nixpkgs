@@ -1,0 +1,10 @@
+StorePath: /nix/store/6p1ki134s0wix3kp76l4s7xqvk1rmc1y-libsodium-1.0.18
+URL: nar/01zgmlgyh4bxphf576qhawnn6b2d8y8s8ixrj921kywy2i6xr6k3.nar.xz
+Compression: xz
+FileHash: sha256:01zgmlgyh4bxphf576qhawnn6b2d8y8s8ixrj921kywy2i6xr6k3
+FileSize: 205124
+NarHash: sha256:12flxmdj28c0kcavc00fyip3blfrbqjj716zgkjn3dd501s3231p
+NarSize: 664320
+References: 6p1ki134s0wix3kp76l4s7xqvk1rmc1y-libsodium-1.0.18 8shn81yh43cpp589dax54qicvm4dhlw5-swift-corefoundation-unstable-2018-09-14
+Deriver: 30pdazgn37i90bidcwij6fmx36v92xd7-libsodium-1.0.18.drv
+Sig: cache.nixos.org-1:s1GR3EtOB5HL7VHndAgxv+04T0Jf5xxEUqhigKEGBLQGGBRSAbhxZzJvO5uuOAVo2tnlXeM/UitJYsNuU9flBQ==

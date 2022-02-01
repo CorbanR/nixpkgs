@@ -1,9 +1,0 @@
-StorePath: /nix/store/as3ynkz0jn826zj6fb3vb0f5rk4b374q-unbound-1.13.2.drv
-URL: nar/18imdd8pycgqfkk60smpavdd7fsxmw95brm19vbxqghymsk8zwgc.nar.xz
-Compression: xz
-FileHash: sha256:18imdd8pycgqfkk60smpavdd7fsxmw95brm19vbxqghymsk8zwgc
-FileSize: 1700
-NarHash: sha256:09jav4dg4grbpmzfrda2n83m6b5gc19klzz8f3jgk7d1qp8qzf75
-NarSize: 4768
-References: 1c1yr9fi8nxbpanjx2lr8zxljl6p65y6-dns-root-data-2019-01-11.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 8kz78ckyhimnk6l5hiv2mdqs65pkbay1-unbound-1.13.2.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv adz88z1laih6z9lwl3mzpdi1kgm7qj2l-openssl-1.1.1l.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv ilfk0rbpqbkzgnp30r8m0sc1m8pgazrh-libevent-2.1.12.drv ing6g8am6sfzi2dsz3vdj5f3c3gq9d26-expat-2.4.1.drv ljmqpvhp7119fdx97sbhfaxc255xcj7s-nettle-3.7.3.drv
-CA: text:sha256:007fv7sybgh00470kkv9lsqv2131cfkn39dm59vfjwhkl473xqar

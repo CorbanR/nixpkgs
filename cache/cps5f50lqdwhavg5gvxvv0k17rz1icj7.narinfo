@@ -1,0 +1,9 @@
+StorePath: /nix/store/cps5f50lqdwhavg5gvxvv0k17rz1icj7-rake-12.3.2.drv
+URL: nar/06cq11wjmjs7aawgxa2a2ayhlrn0g6f0iy00y8qdxswj9377js7d.nar.xz
+Compression: xz
+FileHash: sha256:06cq11wjmjs7aawgxa2a2ayhlrn0g6f0iy00y8qdxswj9377js7d
+FileSize: 1248
+NarHash: sha256:0d1zx256zsni745hshsw6n3gfn9crasy03hcnwmjlpynbs71dxnq
+NarSize: 2928
+References: 5sq0n82644kc00za2qi42gr7m4xshc8k-bundler-2.3.6.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh as3wld2i25jcz3df4pcz7nf8c83rpgi6-builder.pl.drv asanpy130wrz374p440cgccyd47mdy5w-gemfile-and-lockfile.drv cp60vfc62rc7rzn4ic1jv0z5rjy9b9v1-stdenv-linux.drv nqs1646v7dayrilq742n90wyvr9wqbq9-ruby2.7.5-rake-12.3.2.drv pb7gdqrbf2dj58588rsak26sq3nm6acf-ruby-2.7.5.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv y4abap6zqvwrxb8fbbnbidhghrixakpv-perl-5.34.0.drv zhh0pbcdknhjp5s2kc1jkfyrdna8va86-gen-bin-stubs.rb
+CA: text:sha256:0n4mkxljmv6j4kcwm85va2y932b6m5n5fscnk44wdhccaa991smi

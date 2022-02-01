@@ -1,9 +1,0 @@
-StorePath: /nix/store/lw1m6yhnn6x5rkvzvd4gvc28py5kc5lg-IOHIDFamily-606.40.1.tar.gz.drv
-URL: nar/16jpzz3w1fmpjzifj6l2pnmyw760b0vsv6jk06fvkdjxlw6manlj.nar.xz
-Compression: xz
-FileHash: sha256:16jpzz3w1fmpjzifj6l2pnmyw760b0vsv6jk06fvkdjxlw6manlj
-FileSize: 1332
-NarHash: sha256:0n4xlv10wz8ismn7w63643rvwynx9d9adgls6dx3br6vwn7y2i5h
-NarSize: 3168
-References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
-CA: text:sha256:1h5z6vff1h5yr2xnbbyz63s948mzpii01z5n1v5ay833c2p4z35c

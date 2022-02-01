@@ -1,9 +1,0 @@
-StorePath: /nix/store/ds2ddk6h32j123s9n7ipgvir66lmvk8s-libxcb-1.14.drv
-URL: nar/11j882j20b00j9gcsh7wsfrq92q60wjaxi362xgg3c1vcyc33vcg.nar.xz
-Compression: xz
-FileHash: sha256:11j882j20b00j9gcsh7wsfrq92q60wjaxi362xgg3c1vcyc33vcg
-FileSize: 1340
-NarHash: sha256:1rrby5mma90wi815xn21r4asvpn2k29m8x5vcvzjz1c96smxh1cw
-NarSize: 3008
-References: 57qq9ypp3yc7rzidymbxcan9jdx41pil-libxcb-1.14.tar.xz.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv ia01y9a1wkiq6akxnvysw2cg9nhdzj20-libpthread-stubs-0.4.drv mqgx12g5ywqsc7m30frgzd3nc3vd1v48-xcb-proto-1.14.1.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv sih3jsazph13rafrvwxa300y6s9b6001-libXdmcp-1.1.3.drv vh1cpdrgrbipscys6lzr0sfcamr0r2vk-builder.sh x28zjsmygkr5hfy36s011npw0hrbmh28-libXau-1.0.9.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv y0dwlj2mdkzkz97h08x56as3bqyg92bp-libxslt-1.1.34.drv
-CA: text:sha256:0hjsgi6mrknga7762bif4mjxqnm2gfpdrnl6nnhvqz35gkw7lp01

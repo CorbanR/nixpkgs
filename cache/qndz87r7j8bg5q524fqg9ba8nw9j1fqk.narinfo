@@ -1,9 +1,0 @@
-StorePath: /nix/store/qndz87r7j8bg5q524fqg9ba8nw9j1fqk-cacert-blocklist.txt.drv
-URL: nar/02gl6rz7c93aqq0hg57qasj1pj3zahgvyn80hjw317mkqbg2c20v.nar.xz
-Compression: xz
-FileHash: sha256:02gl6rz7c93aqq0hg57qasj1pj3zahgvyn80hjw317mkqbg2c20v
-FileSize: 896
-NarHash: sha256:0jm0h9r1drs5afhcdapwz5fkmbg7ynv0vb6hmxnidm7iqwx2541m
-NarSize: 1928
-References: 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh jvvsqmlmkypqcalcghrh06q6w460dw3c-stdenv-darwin.drv
-CA: text:sha256:1i7a1m01xrl9kmhs5xcirjqvbap1dlv3czrjkr5pv7f0giqsyxmj

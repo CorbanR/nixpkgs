@@ -1,9 +1,0 @@
-StorePath: /nix/store/abwrqwyrjk152n2gimrpc7lzvv1307fv-audit-2.8.5.drv
-URL: nar/0bpn61nwbm7dmxrhhb0yzsv6pxr8wvbd8vlwsa506wl9nxmhax2p.nar.xz
-Compression: xz
-FileHash: sha256:0bpn61nwbm7dmxrhhb0yzsv6pxr8wvbd8vlwsa506wl9nxmhax2p
-FileSize: 1112
-NarHash: sha256:15cgpmfmfmy7cdjgqijli6qcv6zg36r11h2iz4s2j81g71rcy997
-NarSize: 2608
-References: 2hq1f4qh962xpj3isd1nnkbp4vw0s9n8-audit-2.8.5.tar.gz.drv 2zqk53fyirrj961nd06vnfb6p68dlqsv-weak-symbols.patch 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 8xxchkb6r8qp143mmy7szrsd08dfc5sv-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv kghaf0sa5hyjwx67x9iwwrvdwz1xc7fa-017e6c6ab95df55f34e339d2139def83e5dada1f.patch.drv
-CA: text:sha256:18yifbyfckzp5pv7bhrapg9dq5887msn31qay1nimzcpy30jm2vj

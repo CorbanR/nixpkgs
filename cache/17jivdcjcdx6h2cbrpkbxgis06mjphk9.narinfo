@@ -1,9 +1,0 @@
-StorePath: /nix/store/17jivdcjcdx6h2cbrpkbxgis06mjphk9-gdbm-1.20.drv
-URL: nar/1magx0d7qsk9hsyanb9wv272837qr5k5mn2m3qddfbb6gvcdpm7p.nar.xz
-Compression: xz
-FileHash: sha256:1magx0d7qsk9hsyanb9wv272837qr5k5mn2m3qddfbb6gvcdpm7p
-FileSize: 892
-NarHash: sha256:1i4ym7y6gzsddhkakw5xw2alw076j64jn2yskmgazj7v3zd3dj1n
-NarSize: 1968
-References: 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh h5vy12w6bp9cvi0p1yfx8dpkslznl4ys-gdbm-1.20.tar.gz.drv
-CA: text:sha256:19ldqziffxwzc57z7pqw8b735b4wzva2gdbl0hdvf7rv3fcb8imy

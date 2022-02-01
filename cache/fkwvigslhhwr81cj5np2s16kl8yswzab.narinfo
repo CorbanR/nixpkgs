@@ -1,9 +1,0 @@
-StorePath: /nix/store/fkwvigslhhwr81cj5np2s16kl8yswzab-CarbonHeaders-18.1.drv
-URL: nar/0m8hd7vsia1jwwwd7vfghyz458sj7gvhkpdmnz1bj8bpqcfzz6bh.nar.xz
-Compression: xz
-FileHash: sha256:0m8hd7vsia1jwwwd7vfghyz458sj7gvhkpdmnz1bj8bpqcfzz6bh
-FileSize: 1152
-NarHash: sha256:001z8x3s21207b11iykaq1zw52nazwdg66b4w5l6444dvlg9012i
-NarSize: 2520
-References: 3lamyj54qdbsdj1ypdcmkjprjihn0xda-CarbonHeaders-18.1.tar.gz.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh jskzifpxhhm2q6gx8569p81lqfqhbcb4-bootstrap-stage1-stdenv-darwin.drv
-CA: text:sha256:0p5y29p07yk7zl91ir7qd3ks46136n7lj3id1r9a431vx69bvswq

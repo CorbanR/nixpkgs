@@ -1,0 +1,9 @@
+StorePath: /nix/store/5ngwll3clbb6jzyr75m4q6z2iird5r9q-perl-5.34.0.drv
+URL: nar/0fzfph3kaiaqj81f2f4drxzlnf14cac0h862p91ivmq3blaxddp7.nar.xz
+Compression: xz
+FileHash: sha256:0fzfph3kaiaqj81f2f4drxzlnf14cac0h862p91ivmq3blaxddp7
+FileSize: 1900
+NarHash: sha256:0wfbyhnx6f8zh06x567lddhpxcv727zpjm671791lc8gx239awn3
+NarSize: 4704
+References: 6qi8j22g16r5cmbrhfc50ydc4c52qh9i-Libsystem-1238.60.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh d7p96abid6170q60c5dhlr359p8haxcr-clang-wrapper-11.1.0.drv dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh hqf0wskdr7ycd9my8qpbqiadfjqj7cd8-bootstrap-stage4-stdenv-darwin.drv i56pzjdh6f27w7hwf3rkhsrrpq0cshra-perl-5.34.0.tar.gz.drv mb381gpm9k5wdl37l5ad5pp8w11qzhjg-no-sys-dirs-5.31.patch n315a3g9bcxlypqzbm36nzrrg40h6lcj-cpp-precomp.patch p011sjmh3g7bs87wn46v1v94myrl96c2-clang-11.1.0.drv x0ll5lnagy6lg7hgvqb26il3qnmsqisd-sw_vers.patch z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:0x27i4s4axya920s52p6x1z6vpzlvpixf4hx9j9s60qg3qcr0zpz

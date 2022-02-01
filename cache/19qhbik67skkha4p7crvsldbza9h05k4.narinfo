@@ -1,0 +1,9 @@
+StorePath: /nix/store/19qhbik67skkha4p7crvsldbza9h05k4-tpm2-tss-3.0.3.drv
+URL: nar/1akrij2nnx2ai2cqkd2w7mp2jcw1wwxjxj34mwkn3nnn72d9yjfm.nar.xz
+Compression: xz
+FileHash: sha256:1akrij2nnx2ai2cqkd2w7mp2jcw1wwxjxj34mwkn3nnn72d9yjfm
+FileSize: 2104
+NarHash: sha256:1ixmaskjb33llfgw4wnf43bzi2qgvxf6xv7dcf1fgdbmmkxgj84d
+NarSize: 4512
+References: 15y6g0niacf3isa0gwqbw8n0jqszcsj7-which-2.21.drv 3lagjzkz6ks6qrwi0bmjj9agrz51lrh0-pkg-config-wrapper-0.29.2.drv 567nvwibml1qkgz3454lainghrhpkk90-autoconf-archive-2021.02.19.drv 6zz95bb5j6ws4yk5krj07hby2cvx9gl1-iproute2-5.14.0.drv 89qyh2vciwsr49csjsh57znwhav2x4da-procps-3.3.16.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b24w319wpnizivz1jy8ms4lkzwqik1kj-curl-7.81.0.drv gqyl9swfvmhg3ndwg5ih7xchy68zmy47-ibm-sw-tpm2-1661.drv k0jdn40ci4pfvbaxpcz9rpli69kw2cci-json-c-0.15.drv q77k74761cp3lfd8zsadjxz1n99i058j-doxygen-1.8.20.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv s9wsb1fj5lamnvdajjb98wdwvj91i6w3-uthash-2.3.0.drv sq3l7ql63yrvbbcyg5vjxqw4vh91xjah-cmocka-1.1.5.drv xamyc1d9jcal0b3xhrgnkhw8wnpbdwfb-libgcrypt-1.9.4.drv y4abap6zqvwrxb8fbbnbidhghrixakpv-perl-5.34.0.drv y4gplhl6qz1l6bvs0k0f92dk2wxsd17b-hook.drv yahi7vx9spk1bfsj7p71n0235lbw41py-openssl-1.1.1m.drv yblaqfn2y4jmrjpgx9na4xrwwi0p0rw0-source.drv yrrsskydxvc395awm1a3ws1jpbp000x7-no-dynamic-loader-path.patch
+CA: text:sha256:05nig288zy5cac8ix62vcihn39ag9m8c6rqcvkb2sc7djc3j9p77

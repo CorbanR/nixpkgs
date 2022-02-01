@@ -1,9 +1,0 @@
-StorePath: /nix/store/0623r906hd2vkzcvpyrb3gcss5ib1ldf-pytest-check-hook.drv
-URL: nar/05f30yslyazfdwz7pglbvbclyknnarpih0a7408d8kw6lwkzb2w6.nar.xz
-Compression: xz
-FileHash: sha256:05f30yslyazfdwz7pglbvbclyknnarpih0a7408d8kw6lwkzb2w6
-FileSize: 868
-NarHash: sha256:17fdr8znbrpy16yavwz3n84nflxd0rz3j3p826xwad7nq08lhs6d
-NarSize: 2016
-References: 4bd8vh5j05crj66rwi7g357qk949ckhv-pytest-check-hook.sh 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv fgjm1q5j8fv7wd8fb4w047r5g4lxj8a7-python3.9-pytest-6.2.5.drv j2x2lsbacglr9zgzl6abp8sd2kf2j4j7-stdenv-linux.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv
-CA: text:sha256:1samxvpba1bg4g6kpj37p2b9b0nqyi0qk1v2c8q8l5kvys2djxr8

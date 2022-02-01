@@ -1,9 +1,0 @@
-StorePath: /nix/store/ackrxbqw62ncq9vzl662lk694y8lvzbp-libgpg-error-1.42.drv
-URL: nar/0s3fjq91mk2blc7mj19bz5yix27pv5bdiz3ha1hxsr60qhwzxglm.nar.xz
-Compression: xz
-FileHash: sha256:0s3fjq91mk2blc7mj19bz5yix27pv5bdiz3ha1hxsr60qhwzxglm
-FileSize: 1024
-NarHash: sha256:1afn0zdh8520ib11imsn6106m2ph3v3ma42gbbrfvvnzc19fvn8x
-NarSize: 2376
-References: 3l8bksr6fgavgq42hmvdgqc4snv65635-fix-1.42-cross-compilation.patch 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 8xxchkb6r8qp143mmy7szrsd08dfc5sv-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv p9fdk3cjidj191kpabgzalmip55rv0x2-gettext-0.21.drv s4cgflfzz009lcipz425sly3wjlvk8lp-libgpg-error-1.42.tar.bz2.drv
-CA: text:sha256:12ri8k4k2v3fpm08c2gcal065wsymzvdszxwyi63fsywzm7n0239

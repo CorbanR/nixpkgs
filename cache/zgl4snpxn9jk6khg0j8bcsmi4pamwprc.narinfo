@@ -1,9 +1,0 @@
-StorePath: /nix/store/zgl4snpxn9jk6khg0j8bcsmi4pamwprc-w3m-0.5.3+git20190105.drv
-URL: nar/1bsn6d803d2ia9x57wmm8azzv51sgggxqik3fnxjmgqqg4lczpw5.nar.xz
-Compression: xz
-FileHash: sha256:1bsn6d803d2ia9x57wmm8azzv51sgggxqik3fnxjmgqqg4lczpw5
-FileSize: 1564
-NarHash: sha256:0ichs1jjc07780d3856m49qj43dp9ydprlx68ld1xwz40dqxclhq
-NarSize: 3456
-References: 3xjw5aiis7g90fdk6vahb1667clvvxiq-source.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 5pqww4birs2qhirnq86n4c8wl0nmsana-ncurses-6.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv adz88z1laih6z9lwl3mzpdi1kgm7qj2l-openssl-1.1.1l.drv d6y2rgl3n5rmyg00nckmiwg1b83f96yp-boehm-gc-8.0.6.drv dil04c0w3283n4znmp7whpm4dcd4iyz1-RAND_egd.libressl.patch ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv lzb1mg6jy5y42mr70m2xiybnanlpa1f6-perl-5.34.0.drv n1wqnm2wzi12cx7mma3855d6h8i15vpf-man-db-2.9.4.drv p9fdk3cjidj191kpabgzalmip55rv0x2-gettext-0.21.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv zak2863kd5qbywpk6qifizn6jf7kynpy-https.patch.drv
-CA: text:sha256:0h20zhckvxwfyr5ayml8r2pzgzxxkxsvn10w15w9xgrpmi1n301h

@@ -1,9 +1,0 @@
-StorePath: /nix/store/xkm5l0d8mlqp74rp3v6np1r8xq3yp8v8-keyutils-1.6.3.drv
-URL: nar/03srq4pjkqfj141knbrjn5kn0cvwnycs0kspx6s0fq90qkihjwi1.nar.xz
-Compression: xz
-FileHash: sha256:03srq4pjkqfj141knbrjn5kn0cvwnycs0kspx6s0fq90qkihjwi1
-FileSize: 1004
-NarHash: sha256:12l3dffvjisf5vz491gc0ap7yp3sp966vnx2nkpn3gkz7nsccxir
-NarSize: 2376
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 88a62ypvi5xpa3m8znhrl6l7jc307i8r-conf-symlink.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv bc3pzg7f5sd3f5k6ybmvgf873kfzlfc4-Make-build-reproducible.patch.drv nq1wp2dpxw27s0b0z3sdrs381qm8zi65-keyutils-1.6.3.tar.gz.drv
-CA: text:sha256:1b5p33xisjhmwlmf2if62wzayqa8r4m391jlga5vs0jhga7fp24p

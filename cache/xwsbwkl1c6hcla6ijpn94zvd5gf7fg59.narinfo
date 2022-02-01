@@ -1,9 +1,0 @@
-StorePath: /nix/store/xwsbwkl1c6hcla6ijpn94zvd5gf7fg59-hook.drv
-URL: nar/1887g24blzbihlq3yd1vd8cv0v6cjs1p2wm8y1yj11zmvhi7ymb0.nar.xz
-Compression: xz
-FileHash: sha256:1887g24blzbihlq3yd1vd8cv0v6cjs1p2wm8y1yj11zmvhi7ymb0
-FileSize: 828
-NarHash: sha256:1j8p9fbw9cnaqqw29s0krqia08dy43dwhj48c2xpy4262jz1qr9s
-NarSize: 1928
-References: 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c9w69kl4caarcs2j84hck0icrdj9jqr6-fix-darwin-dylib-names.sh qyiig6g801g9z7r20iiqxk3h0qkyri33-bootstrap-stage4-stdenv-darwin.drv
-CA: text:sha256:17z5al94xxngawp56rr981shhr8nbr6xz4w3r46phavkhm1cc0vw

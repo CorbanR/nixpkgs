@@ -1,0 +1,9 @@
+StorePath: /nix/store/1c01xz70s501phiagjf9sfydwk10pz3g-rust-bindgen-0.59.2.drv
+URL: nar/0zc25v55almfahs6qgrkjd7rjvgi8w8bak1kdf2qjsnvazb43rb8.nar.xz
+Compression: xz
+FileHash: sha256:0zc25v55almfahs6qgrkjd7rjvgi8w8bak1kdf2qjsnvazb43rb8
+FileSize: 2024
+NarHash: sha256:12z2f4qjapl2ylb4h4rbm2vvzljpnyxpgi3hvmxrqlpsrnfaw77z
+NarSize: 4704
+References: 11qyy5mb5d7hgcixsi4ss6pxi5vrk1j3-git-2.34.1.drv 23m7rr8rzn6z676xmm5zhfnygi6fzkqx-cargo-setup-hook.sh.drv 56n910rky3czr4v5bla344r995cl9q42-rustfmt-1.57.0.drv 5rc8ki2iddwzjbvlzanvqw3yp76m20zm-clang-13.0.0.drv 9fyw1m3xa2hgdlrdbw4wwx2id6gk6k0c-cargo-build-hook.sh.drv 9kgvr5dzx1gr6rkpgn03vgmkv0gljgh9-fake-rustup.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cgpkkb3ki0azb0kqngndmz52fgvik5g8-wrapper.sh fxjx96pwfw3ncz1jfr6xw9gw1fxwpyg0-rustc-1.57.0.drv h9yz2skycm8fq36dr30xwm3gjf9z6rdv-nss-cacert-3.74.drv m3ikhmldcmws183ysdph4ml423z1kg0j-cargo-install-hook.sh.drv mnhcz6gcy65h2r4i0kqplczs5jd1ns2f-clang-wrapper-11.1.0.drv n2d20szf67asfp04m04bcpd42782n18s-libiconv-50.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps pfiz43fsr9rj9r96112kcfas8p4kby8y-source.drv r36b0r43n1d6sxf8hhykdysrj2y0wpy4-cargo-check-hook.sh.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv z88hcjbl7k8ryj5qpwyb0k505w2raglx-rust-bindgen-0.59.2-vendor.tar.gz.drv
+CA: text:sha256:1kx4lb0dnybw0r9xk1bq59qz078851vmszrfkvplvp5qz5wiasi3

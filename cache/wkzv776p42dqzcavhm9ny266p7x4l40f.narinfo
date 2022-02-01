@@ -1,9 +1,0 @@
-StorePath: /nix/store/wkzv776p42dqzcavhm9ny266p7x4l40f-perl-5.34.0.drv
-URL: nar/0r0j5hnv8i38471rq212v13c46g2asz84pz93zymxizfrl00b1nx.nar.xz
-Compression: xz
-FileHash: sha256:0r0j5hnv8i38471rq212v13c46g2asz84pz93zymxizfrl00b1nx
-FileSize: 1724
-NarHash: sha256:12z5ix63xyqrgkl05ipgc694qzs3gv97k2xc5yljk9k92dcf4xxm
-NarSize: 4224
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh l334vv83h8sch9v6a1xsl22zpmllgxcp-glibc-2.33-56.drv mb381gpm9k5wdl37l5ad5pp8w11qzhjg-no-sys-dirs-5.31.patch qpi0b8mjzyzccglbzqb9k1pvj64clmbj-bootstrap-stage4-gcc-wrapper-10.3.0.drv v9mm4yb56xasg61bjxqlkjhpd1my5qc7-gcc-10.3.0.drv xycsk1n4cbmih12bkvwwwxhwpzwinnf7-perl-5.34.0.tar.gz.drv yzw5la0mh7gs60vp10mv4sax9kzw4rib-bootstrap-stage4-stdenv-linux.drv
-CA: text:sha256:0kamca670lhcpf2an89p510w4pr74470s3nqz7nbqf755fy9nprr

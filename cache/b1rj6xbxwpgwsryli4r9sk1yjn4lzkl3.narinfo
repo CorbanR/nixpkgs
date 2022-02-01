@@ -1,9 +1,0 @@
-StorePath: /nix/store/b1rj6xbxwpgwsryli4r9sk1yjn4lzkl3-ruby2.7.4-pdf-core-0.9.0.drv
-URL: nar/0fg1izdgc64wqj1x6jkwpzwg0ysycjzq6qbr373ansjqw8f0vnmm.nar.xz
-Compression: xz
-FileHash: sha256:0fg1izdgc64wqj1x6jkwpzwg0ysycjzq6qbr373ansjqw8f0vnmm
-FileSize: 2152
-NarHash: sha256:0z3yhq5ln50avj5myifvrpc2bbvp3b8jbs6f1ggjbw8rar9yq734
-NarSize: 4920
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv d8hfmj7nydr433gas8h0vcps428177vz-pdf-core-0.9.0.gem.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv lddb4nzfkd9kxhlaaad83yfkxp32mjjw-ruby-2.7.4.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb
-CA: text:sha256:0mgyxlkxjdd46ih16zr58fgxccjv8jq5npn22rilsa2bxg8x8z8a

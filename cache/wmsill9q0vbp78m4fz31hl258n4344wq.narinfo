@@ -1,0 +1,9 @@
+StorePath: /nix/store/wmsill9q0vbp78m4fz31hl258n4344wq-groff-1.22.4.tar.gz.drv
+URL: nar/01k5wn1d1zfbrm8m0rz4mgqqk1dlvh046xjzgwpbz8yw7dx1m7bi.nar.xz
+Compression: xz
+FileHash: sha256:01k5wn1d1zfbrm8m0rz4mgqqk1dlvh046xjzgwpbz8yw7dx1m7bi
+FileSize: 1264
+NarHash: sha256:12c1hw2h8zzxh2hkwwv5nlka9cqlyp5lkc88vzpkkiri6f380fza
+NarSize: 2864
+References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh cp60vfc62rc7rzn4ic1jv0z5rjy9b9v1-stdenv-linux.drv jv7i8m6h1lagiz8rl11prgn76vqvhr1s-mirrors-list.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv s94w6q7nbzs2iyhd67j8sp6gcr62xkgz-curl-7.81.0.drv
+CA: text:sha256:0fsmqr42g4cndm3k30i16jc9ylcww8irwq59z1c1147m7rm6m5m7

@@ -1,9 +1,0 @@
-StorePath: /nix/store/f9ps518w5w051zxvgj6wdpmgp94xf3gc-libdeflate-1.8.drv
-URL: nar/01ia245nl4ljm29c2gjd6l5529s66l43nnrh5qxh8z2ajd0yz0wp.nar.xz
-Compression: xz
-FileHash: sha256:01ia245nl4ljm29c2gjd6l5529s66l43nnrh5qxh8z2ajd0yz0wp
-FileSize: 768
-NarHash: sha256:0hrg0v2c7b81y934b6za766lllqi1kxaqmz1y55szx55qpfzdil3
-NarSize: 1624
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv q7f14rhlxyz6cfxa2ml1lg5hny7wh6px-source.drv
-CA: text:sha256:1g1skrm2xg91g4j9di8nsckgg6nb61a48qabj9ii57pshf62ab75

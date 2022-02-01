@@ -1,9 +1,0 @@
-StorePath: /nix/store/w42m6wv4m81ifvbg50jjhqr2cd8y473s-libjpeg-turbo-2.1.0.drv
-URL: nar/0la8c8qlc950f1alfa3gsr53p9xsk2x2jmjgc3v0458r3minrfxb.nar.xz
-Compression: xz
-FileHash: sha256:0la8c8qlc950f1alfa3gsr53p9xsk2x2jmjgc3v0458r3minrfxb
-FileSize: 1160
-NarHash: sha256:1frbf2dfag05l8vpz5c8nya4vnlpjjdwra5rvphb2qfw639yxy48
-NarSize: 2936
-References: 083fm3sir0xibknkzpjbvpv8yhfpd6y9-source.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv bci0d4r40gvc9iyxjb5ysavd35jk7xmd-cmake-3.21.2.drv njzhjvw048dpycza6qfacgvsri98b8dd-0001-Compile-transupp.c-as-part-of-the-library.patch vz9m93pa0wgfx19x4yhfah56gpf44z45-nasm-2.15.05.drv
-CA: text:sha256:0iz8nzia2fy3b6v8fv4mfxqw11ikc9sk4gsixqmnb2l86r4f8mc6

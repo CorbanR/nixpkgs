@@ -1,9 +1,0 @@
-StorePath: /nix/store/gqai6jlakpd7rz4ily0ms0x73vn66xqw-libutil-47.30.1.tar.gz.drv
-URL: nar/1nxn1yqr80p8m8kfq30ri1zy668q2zl210yixah6jblslc4m7yjc.nar.xz
-Compression: xz
-FileHash: sha256:1nxn1yqr80p8m8kfq30ri1zy668q2zl210yixah6jblslc4m7yjc
-FileSize: 1328
-NarHash: sha256:18d60nl8wjl23w8hz6mxh0wm4p8sh00wq3drg9xh7kk49sqk9bn5
-NarSize: 3144
-References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
-CA: text:sha256:06qp2h608y5xg80n9zgwpnrhvc04mb28bkyrjrh1i83hqqpmirgm

@@ -1,9 +1,0 @@
-StorePath: /nix/store/z1bd62h1l3n6x5j88vx4pkycb79f4f0a-python3.9-more-itertools-8.10.0.drv
-URL: nar/0allc6m5dq7aiw1swh0d2y9ns6sffjnyy3w56p08phn19b7gsayr.nar.xz
-Compression: xz
-FileHash: sha256:0allc6m5dq7aiw1swh0d2y9ns6sffjnyy3w56p08phn19b7gsayr
-FileSize: 1720
-NarHash: sha256:1lpfapda5d8y941xqlpnm2wz2k7dm0239y8awrgbky9vb2a8ypfz
-NarSize: 4008
-References: 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 3ykvy9nrwl91yb50a48sjxfqw1lyshi3-python-remove-tests-dir-hook.drv 42b41a7qb5p40qksjpdg7kmh21b5a03p-python3.9-setuptools-57.2.0.drv 5ga6ph1jhyajjdvr4d7vsm86gfq711mx-python-remove-bin-bytecode-hook.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 8mwdna9pxnym7znc9qawi3mp24bq9691-python3.9-nose-1.3.7.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ac2fi34nwrkkrnjk02k23lq7f21jy1ja-python-namespaces-hook.sh.drv briicjr3dfidqkwxra5xfs8h3fbxsyfs-python3.9-six-1.16.0.drv g7f3gv2lwd3hl9h7ajvk0pchaz5dq2n1-pip-install-hook.drv jdf81iip14cvdvp0gcqdkq9xsizsshnz-setuptools-check-hook.drv js2cqpbsxvg6lckilm3kqpvwjghr54c9-python-imports-check-hook.sh.drv k4nbqp85cnq74k926ymi9am3ball5al9-hook.drv k7rvszva1gz7a018n9vwgjcak6wwxxbw-python-catch-conflicts-hook.drv q0m24pv6a5mc3fqziv64jvc4glxsy0w5-python3-3.9.6.drv qbpg5yskmnxf80r9fx6w9xr83i2bnzc8-hook.drv wn70076niw8cdhdyyq4fi7b7gq5zblcl-setuptools-setup-hook.drv zg7dk2wb81a4s5pdwghyhn46232drq5x-more-itertools-8.10.0.tar.gz.drv
-CA: text:sha256:0wi6471nzj7ki6plp3cmxy0qjh9myhdrrr6y4s93iprl11764s0f

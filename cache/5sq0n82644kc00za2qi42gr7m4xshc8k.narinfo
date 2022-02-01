@@ -1,0 +1,9 @@
+StorePath: /nix/store/5sq0n82644kc00za2qi42gr7m4xshc8k-bundler-2.3.6.drv
+URL: nar/0271xng1f2xqf0m61m2gpx9v91b44pi115q4ir1fwqfpz4mr0f61.nar.xz
+Compression: xz
+FileHash: sha256:0271xng1f2xqf0m61m2gpx9v91b44pi115q4ir1fwqfpz4mr0f61
+FileSize: 2176
+NarHash: sha256:1p5q82dqs7yfgcnyi2r4glyhmbnipndxyy5g22hwdkssfisxx8ni
+NarSize: 4936
+References: 11j5m6ds93pjvy2dc725r56zla62xl7v-hook.drv 2lhzhdm452yyyhdz83kfbxqqvk8j89x7-bundler-2.3.6.gem.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh pb7gdqrbf2dj58588rsak26sq3nm6acf-ruby-2.7.5.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv
+CA: text:sha256:0fd9jlpvd7x55xrw3q8sbmd15x00ki23lbmln8b3wsp5b960rl1k

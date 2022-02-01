@@ -1,0 +1,9 @@
+StorePath: /nix/store/gmzqldy508agvgm6v958x0cfa5qh48ij-python3.9-bootstrapped-pip-21.3.1.drv
+URL: nar/1kbbalqpm0kc798hkl57lyzh7z30k3khf5dx72baf9lcyppwwjs0.nar.xz
+Compression: xz
+FileHash: sha256:1kbbalqpm0kc798hkl57lyzh7z30k3khf5dx72baf9lcyppwwjs0
+FileSize: 1660
+NarHash: sha256:1qfq65w51y0inr43i3v0lc9ggd1rwgqmyxragzr7jdy9i85vr4md
+NarSize: 4048
+References: 231kl8bl28mhn4rv57hrinqwzk19dwz0-wheel-0.36.2-source.drv 7qsv5fbh0gph7hh7nxn41i99ybwm04gw-pip-21.3.1-source.drv 9dpgkfl6vxqwla9vxarhj05wyha1gdg5-python3-3.9.9.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cxwsgx1cpmmd1zmi6ymqs72rshn61syr-unzip-6.0.drv gjsq5rnp08smw789zqpfn0qwgv32kczp-setuptools-57.2.0-sdist.tar.gz.drv hx6i3nxh2capnwmmzcwri8sv6qq4msnx-setuptools-setup-hook.drv lfhlqh9i6m2qyzm3xdhjhkf72bnv8ry7-hook.drv mfrmd8q224m7lz2svpynlrr6yvq8zwc8-pip-install-hook.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:0g8r2xhyqjhbp2ma3fj9lrj41s0kgyd8hbh36kfzki55ygam0r1m

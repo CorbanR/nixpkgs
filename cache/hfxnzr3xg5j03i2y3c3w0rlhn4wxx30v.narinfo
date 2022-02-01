@@ -1,9 +1,0 @@
-StorePath: /nix/store/hfxnzr3xg5j03i2y3c3w0rlhn4wxx30v-make-4.3.tar.gz.drv
-URL: nar/1kbi7y7pp9pdc3p712r6saafry9d5gdhmyrka4d7fs367k8lyfzy.nar.xz
-Compression: xz
-FileHash: sha256:1kbi7y7pp9pdc3p712r6saafry9d5gdhmyrka4d7fs367k8lyfzy
-FileSize: 1300
-NarHash: sha256:132cpazv10ym4lqaax9k9qvshwzfz8ah6rrdz6q4qmjz76j76ipx
-NarSize: 3080
-References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
-CA: text:sha256:1d1wxy314af61c3plz0c9jwwzcgsqa80fzq09ngpxl35fv4xnr7r

@@ -1,0 +1,10 @@
+StorePath: /nix/store/l2s4ddbzv3dyp8iyxdf08n58r487c3v0-goaccess-1.4
+URL: nar/0mzmwm1pb6xnss59g1ryx588bxm7559b3z6qxdrliqvh9h1p1v0m.nar.xz
+Compression: xz
+FileHash: sha256:0mzmwm1pb6xnss59g1ryx588bxm7559b3z6qxdrliqvh9h1p1v0m
+FileSize: 249552
+NarHash: sha256:093ggis4v999v3falkcs9j5z3ncbsjz2bbrj0z0idq75y1yga376
+NarSize: 839664
+References: 16xf8mihc6cmsq13d4ixb883s14igm9m-libmaxminddb-1.6.0 5dmd4cq2mwhd0d7kmppjk7ql00ygfkh3-ncurses-6.3 8shn81yh43cpp589dax54qicvm4dhlw5-swift-corefoundation-unstable-2018-09-14 cp7cr0c6q5cl4zxmpv21xzpaj131q9n8-libiconv-50 l2s4ddbzv3dyp8iyxdf08n58r487c3v0-goaccess-1.4 rp1gn1pirkgyx7ifw41agkx9bcc94r66-gettext-0.21
+Deriver: 7bppc5px50ynrn2z23zbfj4bsgkqdbmb-goaccess-1.4.drv
+Sig: nixpkgs.raunco.co:epPn90cpdG8DUSVhrqd5T8wP4MJM1dIYPyEaOHjMijvkb9Zqt03cqV1tHTmlD/aOe0UTIPMkt97QNUMuTPqfBg==

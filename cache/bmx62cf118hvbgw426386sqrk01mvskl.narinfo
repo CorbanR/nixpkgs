@@ -1,9 +1,0 @@
-StorePath: /nix/store/bmx62cf118hvbgw426386sqrk01mvskl-python3.9-freezegun-1.1.0.drv
-URL: nar/07zzji81jmamprc51ba2dsm04w1sg8ik4xnb61hgr256p54qkjb3.nar.xz
-Compression: xz
-FileHash: sha256:07zzji81jmamprc51ba2dsm04w1sg8ik4xnb61hgr256p54qkjb3
-FileSize: 1608
-NarHash: sha256:00vb5xrzwhq2jw33ipsfsg7h6yp9xjz5dwgwi83xfj8imyxhhn21
-NarSize: 3720
-References: 0623r906hd2vkzcvpyrb3gcss5ib1ldf-pytest-check-hook.drv 5cw3wiwh2xhmigk21fr058w68yyci3if-setuptools-setup-hook.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 65ja89nfb2zl29vghqmxsj4cwlyd2lys-python-namespaces-hook.sh.drv 9532wxmnz73p9mixrlyi5dijzypjj3yl-setuptools-check-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv byrf5agdn1q7ka5s53xnzpv6b2pyn66p-hook.drv g7yhwwhck1w50b0zp80y5ljig54fylv6-python3.9-python-dateutil-2.8.2.drv gdvnwf06ip4s5vp2krxh80brk3ywdp5q-python-catch-conflicts-hook.drv gwmqv5jxlipbxhb8d3azbkfs2ih6x3j7-python-imports-check-hook.sh.drv gzs0mqf9zp406gs8r8zm8yg3x2dp8dhy-python-remove-bin-bytecode-hook.drv gzxb8j231zvqhcnp63bh36jmmdh6hqrk-freezegun-1.1.0.tar.gz.drv iz3qiggndvpzrlh2sbmi9dsnp20v90rh-hook.drv ldyzphv9ysmbq6k47h6zw01a8z6rsggy-pip-install-hook.drv mngjqd9v6dgfrxrr47d7nzfp7vm3c5iy-python-remove-tests-dir-hook.drv mv2dxaa2v1g7d9gjdpnqhimn9bcfq930-python3.9-setuptools-57.2.0.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv
-CA: text:sha256:0k5cnnqvjyj4hz5b4cvgbrv6j8nc153s7ndfwfwphvj11ik6fwva

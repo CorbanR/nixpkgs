@@ -1,0 +1,9 @@
+StorePath: /nix/store/fnky33i1saqvjsld66mhnb5yciv6p26w-apr-1.7.0.drv
+URL: nar/0zwbzw0yasryqcm0yh8k45d0k3n6ahsa8sj438l8sdwxiq1iwia3.nar.xz
+Compression: xz
+FileHash: sha256:0zwbzw0yasryqcm0yh8k45d0k3n6ahsa8sj438l8sdwxiq1iwia3
+FileSize: 1124
+NarHash: sha256:0k067xzcda5vnkyxmlb5w6pw9ny2wbivj53ifl41iqdx81irivdd
+NarSize: 2456
+References: 3kwk2yn2iwlrrw676blafsxrzz1ihxca-866e1df66be6704a584feaf5c3d241e3d631d03a.patch.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh apirc2ypndg06zdbwxznf6yxx70cfwwf-apr-1.7.0.tar.bz2.drv b6ggg2vi8zhgv88qfvbhpqrsjah72sp1-CVE-2021-35940.patch.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv vp6mf30xcxfgbn5ys69nw9ki1cg4l1fl-374210c50ee9f4dbf265f0172dcf2d45b97d0550.patch.drv y4gplhl6qz1l6bvs0k0f92dk2wxsd17b-hook.drv
+CA: text:sha256:14jxwin3idg0yd2j7lyq25dr489fa8q1rf5dvhd35bq17r47f9a3

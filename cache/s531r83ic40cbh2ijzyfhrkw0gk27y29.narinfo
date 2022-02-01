@@ -1,9 +1,0 @@
-StorePath: /nix/store/s531r83ic40cbh2ijzyfhrkw0gk27y29-docutils-0.17.1.tar.gz.drv
-URL: nar/0ii57ki9k614clfwwc2kwc3pv907m9fkz6ijd5rpcg8dshbz84hr.nar.xz
-Compression: xz
-FileHash: sha256:0ii57ki9k614clfwwc2kwc3pv907m9fkz6ijd5rpcg8dshbz84hr
-FileSize: 1328
-NarHash: sha256:0ff4yll9gcgw6lmwjpnbffjgcvnrswv5bmwdn2xc1jgqhwl0089s
-NarSize: 3152
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv aaphdbkpxq8r4c6g794nbmj2lj3l7k5a-mirrors-list.drv dwvimxgx1kxrapkk1393kap4xb9abgfh-curl-7.79.1.drv jvvsqmlmkypqcalcghrh06q6w460dw3c-stdenv-darwin.drv
-CA: text:sha256:0n17m4fdbv87zjz0gz2zqa4rcdwksdk7klkf7r198xp3kmgiy6n0

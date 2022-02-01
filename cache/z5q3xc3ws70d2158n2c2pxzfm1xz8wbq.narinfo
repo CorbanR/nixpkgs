@@ -1,9 +1,0 @@
-StorePath: /nix/store/z5q3xc3ws70d2158n2c2pxzfm1xz8wbq-ninja-1.10.2.drv
-URL: nar/03jwpyi5nb18lyzrkmchmgrz7laaaisaw53xz611njq5vzghszps.nar.xz
-Compression: xz
-FileHash: sha256:03jwpyi5nb18lyzrkmchmgrz7laaaisaw53xz611njq5vzghszps
-FileSize: 1076
-NarHash: sha256:1sgr5sdj3w67nznxaja33g5z0rx5ckai9smj65d53wwdb53dhp3q
-NarSize: 2408
-References: 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 8a74p3vl9r9lmhxhb665l95z6sjgyjcl-source.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh j7qpfmch5nkc2rg9y7vnhmqc4imsyd1f-setup-hook.sh p8w59ji1i8g3x4vcnrbxx9wng71js1n4-bootstrap-stage1-stdenv-darwin.drv qg14yqiz92kd7d5m3v898dc0f2nfkrap-re2c-2.2.drv yskbwr1w84y85s72afd1mn6my3x9lb11-python3-minimal-3.9.6.drv
-CA: text:sha256:0il7nc52di8ndjdw959f9w7a0l5201b9i07w2jr17salrf7nn5zi

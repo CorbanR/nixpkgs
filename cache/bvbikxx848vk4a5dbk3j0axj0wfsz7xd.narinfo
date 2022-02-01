@@ -1,9 +1,0 @@
-StorePath: /nix/store/bvbikxx848vk4a5dbk3j0axj0wfsz7xd-ruby2.7.4-pdf-reader-2.5.0.drv
-URL: nar/1zgkx6kprg789ckscymx6ldnx432ib9knhv0n9ycp5iwpj19cx38.nar.xz
-Compression: xz
-FileHash: sha256:1zgkx6kprg789ckscymx6ldnx432ib9knhv0n9ycp5iwpj19cx38
-FileSize: 2520
-NarHash: sha256:1gfwajd5q6m157272yl38xhrkg4d425iqzjvvml5c7l1l0wb1vrr
-NarSize: 6408
-References: 4v7iwnlsjz13kckvbq7j4b4nv5d3dhhm-pdf-reader-2.5.0.gem.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 5h95czyfhra3whnhk858gs56jr6j58hl-ruby2.7.4-ttfunk-1.7.0.drv 9jhw5r2hq1d2bpz036yvy8yfbnrc3l1a-ruby2.7.4-Ascii85-1.1.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv l54wbfz51q0ipp746v248s5p3yy8kd40-ruby2.7.4-afm-0.2.2.drv lddb4nzfkd9kxhlaaad83yfkxp32mjjw-ruby-2.7.4.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb w9fb08pr9jgiyxkhb3kq7z7asj4xzhn5-ruby2.7.4-ruby-rc4-0.1.5.drv x9pmc1lg7d0f2jvgkcm3703ahq1xdg4l-ruby2.7.4-hashery-2.1.2.drv
-CA: text:sha256:11k6pvx13fsfs33lplyzc5s8r9bj8h7issda0k408kpskls2gk0v

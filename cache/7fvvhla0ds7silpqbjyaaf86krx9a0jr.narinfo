@@ -1,9 +1,0 @@
-StorePath: /nix/store/7fvvhla0ds7silpqbjyaaf86krx9a0jr-IOFWDVComponents-207.4.1.tar.gz.drv
-URL: nar/0z3iimivbhdv61f4rfficj1m7hd00vndxqywf9gn2j3vll36b10b.nar.xz
-Compression: xz
-FileHash: sha256:0z3iimivbhdv61f4rfficj1m7hd00vndxqywf9gn2j3vll36b10b
-FileSize: 1332
-NarHash: sha256:1h8gdbz060a71dr0xqrxpprl8nk3bkgdb7glxbpipgpja92801ry
-NarSize: 3184
-References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
-CA: text:sha256:0frb2pjaaja3fw10d78jd0845cs72nzn1bsigh7q540avcqjwxw9

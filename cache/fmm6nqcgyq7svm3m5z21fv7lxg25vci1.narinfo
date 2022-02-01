@@ -1,9 +1,0 @@
-StorePath: /nix/store/fmm6nqcgyq7svm3m5z21fv7lxg25vci1-coverage-5.5.tar.gz.drv
-URL: nar/0imjvfps73jvpq369ds3m7fk4mj81jyp0x7z0jjg7w8wy0i112a9.nar.xz
-Compression: xz
-FileHash: sha256:0imjvfps73jvpq369ds3m7fk4mj81jyp0x7z0jjg7w8wy0i112a9
-FileSize: 1328
-NarHash: sha256:14p9f037a8l1w8zvfy802danwax8gh6p8hi35q5lhzbhslxkdhlb
-NarSize: 3144
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv aaphdbkpxq8r4c6g794nbmj2lj3l7k5a-mirrors-list.drv dwvimxgx1kxrapkk1393kap4xb9abgfh-curl-7.79.1.drv jvvsqmlmkypqcalcghrh06q6w460dw3c-stdenv-darwin.drv
-CA: text:sha256:136wga3giwx1qh7xw4ln7rwlp5a3sfvckviklhhl3kibn16saf4n

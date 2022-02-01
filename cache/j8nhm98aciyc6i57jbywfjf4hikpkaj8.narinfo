@@ -1,0 +1,10 @@
+StorePath: /nix/store/j8nhm98aciyc6i57jbywfjf4hikpkaj8-libcxxabi-11.1.0-dev
+URL: nar/0sp2c3yx2yd3aivk1z64g97flrvpvachla37da4pss28ngfr3zjj.nar.xz
+Compression: xz
+FileHash: sha256:0sp2c3yx2yd3aivk1z64g97flrvpvachla37da4pss28ngfr3zjj
+FileSize: 2344
+NarHash: sha256:03ckz2v21dr0cicl6ig8dvri56apphrj1y9flj86bhlbk5yq79iy
+NarSize: 10848
+References: 3ahlc26kzhydk2650fv3q5p2yyj5qn75-libcxxabi-11.1.0
+Deriver: 383fdlxavjx6zgp9rr3lv262v12hv8f4-libcxxabi-11.1.0.drv
+Sig: cache.nixos.org-1:RVXWsRa081XRkNOKttYFS6WlGMvjuAy6YUmRKUpHDk8hjNjSIxsdB6MAuurOrzAqZcpPS04R5iRYiL7ffg60DQ==

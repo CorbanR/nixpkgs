@@ -1,9 +1,0 @@
-StorePath: /nix/store/92n3kzbfcff5843l97rn73fc342psl6y-libpcap-1.10.1.drv
-URL: nar/1qa2d2qc6wl6j0c5r1a7ps3521bp1va4gmhmwrzrlf3yyikrh6ca.nar.xz
-Compression: xz
-FileHash: sha256:1qa2d2qc6wl6j0c5r1a7ps3521bp1va4gmhmwrzrlf3yyikrh6ca
-FileSize: 912
-NarHash: sha256:131yg23csfipal22i0743hl3kzx9fbpabak86sm3qm1afnay9nm2
-NarSize: 1864
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv cysdrdrhld1jqgcw4igxwm14s50184gg-flex-2.6.4.drv fm0ahm7jrqd1kzhdrlqzhnrdxss24i97-libpcap-1.10.1.tar.gz.drv viaz32nv2qxdygyq2a2c355ys3d95m2p-bison-3.8.2.drv
-CA: text:sha256:12sgw2qzmmwikrj0l8rsikfwvhps1c8bizm7qz39waasxfy2x3lv

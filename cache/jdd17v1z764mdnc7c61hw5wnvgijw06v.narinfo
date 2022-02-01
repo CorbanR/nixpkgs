@@ -1,0 +1,9 @@
+StorePath: /nix/store/jdd17v1z764mdnc7c61hw5wnvgijw06v-cmake-boot-3.22.1.drv
+URL: nar/0n6p3izqijmj156zskkxvskkl0mr60xlv72zz88wc71il9r9fqbk.nar.xz
+Compression: xz
+FileHash: sha256:0n6p3izqijmj156zskkxvskkl0mr60xlv72zz88wc71il9r9fqbk
+FileSize: 1712
+NarHash: sha256:1a8b52h35wn02xpb7ymgwz73h9hcd0ib328ccs6g2523xr4zjpfl
+NarSize: 4448
+References: 29rrkicb62w9w5izrxbgfccngvp1g7fa-ps-adv_cmds-119.drv 7n2b0329xqvwrpqwk3vvlfp7s3vglpi3-application-services.patch 8ci16d92gw844rvacwysp3m4pqym0pqn-setup-hook.sh 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a0i0a09n86p92p1s8ic482ldv974q517-search-path.patch fy076b1llz4skf9rhripzr5nrgk0zwak-remove-systemconfiguration-dep.patch h4qx6j6qxkbgww0kff2spkmc9ha4x72z-pkg-config-wrapper-0.29.2.drv i85icdb2n477c6ribzfbywkrnhhwrp7h-bootstrap-stage0-clang-wrapper-11.1.0.drv k7xxb1cq4pv4wpj5fiklsjxdsjsqx2mi-darwin-always-set-runtime-c-flag.patch l0gmqp73bhg8p4a00gjpas0ri5hdybxz-bootstrap-stage0-Libsystem.drv p1hn3c1ki3v53sh63kpiyi4c62zs8rbl-cmake-3.22.1.tar.gz.drv rpiackywakmkarc3ahab2ja3sf5frgsn-bootstrap-stage1-stdenv-darwin.drv scbgacx2m0h3f3nsp89hl4bz3lmxd0av-libuv-application-services.patch wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:1f7w6acyy2r34aq0si6jiph5phx88b6v60y9fgzdmqd4bf7v37dm

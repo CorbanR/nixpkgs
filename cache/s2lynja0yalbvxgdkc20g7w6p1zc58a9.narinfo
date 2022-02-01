@@ -1,9 +1,0 @@
-StorePath: /nix/store/s2lynja0yalbvxgdkc20g7w6p1zc58a9-libcbor-0.8.0.drv
-URL: nar/1mxlnafrhc94mn9ldryrrz5g0fcan3scls7b01clacnxldjsha76.nar.xz
-Compression: xz
-FileHash: sha256:1mxlnafrhc94mn9ldryrrz5g0fcan3scls7b01clacnxldjsha76
-FileSize: 896
-NarHash: sha256:12zcai12m4q6lmk2ryarkjl5m6rn77acns281mg5d9f3m5cg0467
-NarSize: 1896
-References: 097zrhg9xpz9vnckba8nvdy8b2kama2j-cmake-3.21.2.drv 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dp58sbfy95p2c61p03wsi1s31zy8h1wr-source.drv
-CA: text:sha256:0r873f9ssni9kplpfyzpvwln14bxqd1b7aj7sv94a9f1hk7iyqy0

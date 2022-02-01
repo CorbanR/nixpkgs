@@ -1,9 +1,0 @@
-StorePath: /nix/store/czd7rqfrdsjj72hl0vfqab3slzcgzv78-iptables-1.8.7.drv
-URL: nar/0az5qbs5nd1sl5f4m869y3fwdji4ww74ywdcxz168cg829giqk7y.nar.xz
-Compression: xz
-FileHash: sha256:0az5qbs5nd1sl5f4m869y3fwdji4ww74ywdcxz168cg829giqk7y
-FileSize: 1480
-NarHash: sha256:1max9a1mksdf186m1s7q024y1k70nya4r5r07nj14zj7w42k3ps0
-NarSize: 3456
-References: 05vda37lyy96yx3ch75glchsjik8bi93-prune-libtool-files.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 92n3kzbfcff5843l97rn73fc342psl6y-libpcap-1.10.1.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9vqq05nrzw6nixb58fj4ch5l0dfbm3dj-libmnl-1.0.4.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv cysdrdrhld1jqgcw4igxwm14s50184gg-flex-2.6.4.drv p2p8wjf8hkks26g3j93h88rz1q3z4cqh-libnftnl-1.2.0.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv pvfcz3w0lmz2fz2z91g1jahl1sf6ps8y-libnfnetlink-1.0.1.drv viaz32nv2qxdygyq2a2c355ys3d95m2p-bison-3.8.2.drv vw1bkvw53sxx89z3qilvmgs0hx934lk7-iptables-1.8.7.tar.bz2.drv x80ngpcnkrjk7csc502sm2zgq4qjxbaf-libnetfilter_conntrack-1.0.8.drv
-CA: text:sha256:1j78xmipxn9j3mb831h5gz0h8wx1yh05w2kbx6dy6a72hgdc649h

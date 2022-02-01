@@ -1,9 +1,0 @@
-StorePath: /nix/store/4x1dpnk176bckw6bf2wq80n7ma3i7dgk-xmlto-0.0.28.drv
-URL: nar/1f9fbqwlwpmpk481a6k2pj2kwglwvgrh7cyk7qqijqgyq71s9ih0.nar.xz
-Compression: xz
-FileHash: sha256:1f9fbqwlwpmpk481a6k2pj2kwglwvgrh7cyk7qqijqgyq71s9ih0
-FileSize: 1440
-NarHash: sha256:0njs6y0ifv41vlcw4qp6ddiva7ba7i47jh38bmii6rdwm22i5s18
-NarSize: 3216
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv k2sxp7kmsqs5xzbhh451hb3cplvjhqmp-xmlto-0.0.28.tar.bz2.drv kwg26hrp0j5c0f11m21dn57cyyll35il-docbook-xml-4.5.drv m1618v05z4ibnmz5dg25hwlcrkpcxk2j-docbook-xsl-nons-1.79.2.drv wy8a3gzc0kn460wk2i5xkqfdw733kxdq-getopt-1.1.6.drv y0dwlj2mdkzkz97h08x56as3bqyg92bp-libxslt-1.1.34.drv zayghcdvc215sxjq8c2y18a6a7b15fr3-libxml2-2.9.12.drv zgl4snpxn9jk6khg0j8bcsmi4pamwprc-w3m-0.5.3+git20190105.drv
-CA: text:sha256:0c4qfj1r9m5j08m3dnz9nayk5wk0qs9q9l7a4gahdb2ga415gs8h

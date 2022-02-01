@@ -1,0 +1,9 @@
+StorePath: /nix/store/g3jhlc6qpxxzlr61aynlk9ghnrwcllwl-brotli-1.0.9.drv
+URL: nar/0k09l0ak9qx2hb5ihnizydghmcxr1fmzxwp4xz5y286mrs4brjdw.nar.xz
+Compression: xz
+FileHash: sha256:0k09l0ak9qx2hb5ihnizydghmcxr1fmzxwp4xz5y286mrs4brjdw
+FileSize: 1148
+NarHash: sha256:101bz3afv23hm5xbmcysly89wg5ps1b46whpwap1lk4qp8mq8160
+NarSize: 2544
+References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh nzhj85dxf5cijcb7y6r88pjdrk2wc3nq-source.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv wfh6p2lv903in87ry8j91rbawfrfi4bs-cmake-3.22.1.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:1lfqrcs290dxmpzlfyblmylgklf7rrgp6r9ynxw4jgglr84mrl9k

@@ -1,0 +1,9 @@
+StorePath: /nix/store/c0nvqp81g4fjc1prsffirgcsrylhy45p-llvm-13.0.0.drv
+URL: nar/0yxclg6rm78s01m9jm7bj0chsvpvw4l4bljbixjk9lggl9jivnwn.nar.xz
+Compression: xz
+FileHash: sha256:0yxclg6rm78s01m9jm7bj0chsvpvw4l4bljbixjk9lggl9jivnwn
+FileSize: 2304
+NarHash: sha256:0ll6q8bjpfdz7gjkrn0r5fdzhlf60fv489lyi1rls0kiazkmwmdj
+NarSize: 5488
+References: 43k87x0d8nzfqvl4f9dcwk64dvcpn1b5-ncurses-6.3.drv 6wv8acdd7bm7npixgr3rk86mf55fj47c-llvm-config-link-static.patch 9dpgkfl6vxqwla9vxarhj05wyha1gdg5-python3-3.9.9.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh fsri1cp66sqyjb83yzy1pgbfpfy6nqxn-gnu-install-dirs.patch fvhf3pgm2q5gp9qf1rhjv9kafmg32nw5-libffi-3.4.2.drv fvj1bkz7gxqxyg3038bwciwf22w70jz9-source.drv nwh46w60vcwnhb22phi5g5g2l6pc0mqg-no-strict-aliasing-DwarfCompileUnit.patch.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv wfh6p2lv903in87ry8j91rbawfrfi4bs-cmake-3.22.1.drv x10j3iplms29iw4hyxr1y2b5a9dr19a8-libxml2-2.9.12.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv zk2mfxirbjcmdk97fh3krdgb4ab8x4bb-zlib-1.2.11.drv
+CA: text:sha256:0pz6nwnffd2j66yc2q97is6a4irp6r4jrf5xckaakk8f1rghqcpm

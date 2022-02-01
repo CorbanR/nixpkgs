@@ -1,9 +1,0 @@
-StorePath: /nix/store/7pcfpccpyjn488n3s4kqlj763g3g2bfl-libX11-1.7.2.drv
-URL: nar/0jnpkldm9sbrp676cpksd3sibif9rkxkvf4lzfmhd4ljysncbs2k.nar.xz
-Compression: xz
-FileHash: sha256:0jnpkldm9sbrp676cpksd3sibif9rkxkvf4lzfmhd4ljysncbs2k
-FileSize: 1268
-NarHash: sha256:0xhyaszarpblk2dxfkyj2lpqac41g8drk8fhgrj56nzvchzrw08d
-NarSize: 2784
-References: 0z6sssgg8qkxhg1aqjas8hp7bhf51yc4-xorgproto-2021.5.drv 3iy7ib2akn2mvbznl2z9xc5v1pgl1kb7-xtrans-1.4.0.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 5hbnwaazb468wk728aaqci5qbfnayw1h-libX11-1.7.2.tar.bz2.drv 8xxchkb6r8qp143mmy7szrsd08dfc5sv-gcc-wrapper-10.3.0.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv ds2ddk6h32j123s9n7ipgvir66lmvk8s-libxcb-1.14.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv vh1cpdrgrbipscys6lzr0sfcamr0r2vk-builder.sh
-CA: text:sha256:0zsh7iqmlh59h58nglk0bmhd3is9s7y1aj7xk5zgajbh68x8m38x

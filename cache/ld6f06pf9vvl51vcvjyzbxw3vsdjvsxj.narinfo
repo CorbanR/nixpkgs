@@ -1,9 +1,0 @@
-StorePath: /nix/store/ld6f06pf9vvl51vcvjyzbxw3vsdjvsxj-IOFireWireSBP2-427.tar.gz.drv
-URL: nar/1jy252kg4mai2mpd50lsnrawny8q2d5m8fivjg2l15xli9xxl02x.nar.xz
-Compression: xz
-FileHash: sha256:1jy252kg4mai2mpd50lsnrawny8q2d5m8fivjg2l15xli9xxl02x
-FileSize: 1332
-NarHash: sha256:0y73w32sh1bjhbbs3643ca0h4kv9pm77zfsh3igzj9kr37v14gg6
-NarSize: 3160
-References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
-CA: text:sha256:0hln34hiw63djfs9hvkrdqzb2zxb09n1v03w70i5islkq38x5lh9

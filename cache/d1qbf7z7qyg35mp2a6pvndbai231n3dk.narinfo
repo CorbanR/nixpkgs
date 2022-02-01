@@ -1,9 +1,0 @@
-StorePath: /nix/store/d1qbf7z7qyg35mp2a6pvndbai231n3dk-libdispatch-442.1.4.tar.gz.drv
-URL: nar/12m0f995hc1xgn6xhnbsmhbxfrsjqbi8rj079bghw5anh8n8i7d5.nar.xz
-Compression: xz
-FileHash: sha256:12m0f995hc1xgn6xhnbsmhbxfrsjqbi8rj079bghw5anh8n8i7d5
-FileSize: 1332
-NarHash: sha256:1rd58rkfzhhplfc5sra870s514c4bma4k1n9ddrmqfwdy9c1vgr2
-NarSize: 3160
-References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
-CA: text:sha256:1s23rgzwrrjfangjf0c8zrj00xb56ci6xw4i2n1999ipk83nwlgm

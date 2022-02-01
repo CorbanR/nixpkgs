@@ -1,0 +1,9 @@
+StorePath: /nix/store/m32klqs3f78apjk8h7jbacb4r0scnjga-p11-kit-0.24.0.drv
+URL: nar/1phn4i955bbf1d9n5yx4dzxpygch0xayd89nx0aldv4kpxjflqfw.nar.xz
+Compression: xz
+FileHash: sha256:1phn4i955bbf1d9n5yx4dzxpygch0xayd89nx0aldv4kpxjflqfw
+FileSize: 1556
+NarHash: sha256:13nyfmff6w2xk0xb76myaszs1vmnyyk9mq4naj51r0gavx20slra
+NarSize: 3312
+References: 5qr9ydr0078vfcyr48qaw0cbv2giirwm-pkg-config-wrapper-0.29.2.drv 7wfpggcm4zqpl94d1j503plrwwhzj4rl-which-2.21.drv 8yk4324nwmikpm425halk6p1nlkvajaz-libtasn1-4.18.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dd8a4b7zf6wwbw396irzmqr8jymp924w-gettext-0.21.drv f8dyxg4z2ld221yyjjazsb8052s66b5h-source.drv fvhf3pgm2q5gp9qf1rhjv9kafmg32nw5-libffi-3.4.2.drv gs3mqgx3iy21bz15ya5c7ghk8bamh7sd-hook.drv n2d20szf67asfp04m04bcpd42782n18s-libiconv-50.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:1nbdiawbigbipa0zl55q5ib5jkhh1r94vhp24p53kvmfx54iw5bi

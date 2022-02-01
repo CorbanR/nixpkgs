@@ -1,9 +1,0 @@
-StorePath: /nix/store/a1fcjg0a482byq554q7znx7kpblny87h-sqlparse-0.4.2.tar.gz.drv
-URL: nar/10lz73wh2v2fjknlcwr75wnjrci12w3q4ph2jmyydzp07wi5ksq4.nar.xz
-Compression: xz
-FileHash: sha256:10lz73wh2v2fjknlcwr75wnjrci12w3q4ph2jmyydzp07wi5ksq4
-FileSize: 1228
-NarHash: sha256:1xdzvzkchida4kh8jhn6i81593gyfjw36cqni5d1gnvh21zb5rd5
-NarSize: 2888
-References: 1151zln3c3j1q6f5jdm5c6509n1rf9y9-curl-7.79.1.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 93g01qi589sgyhyim0rcii7j945yma6a-mirrors-list.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv j2x2lsbacglr9zgzl6abp8sd2kf2j4j7-stdenv-linux.drv
-CA: text:sha256:16qm5bjjg4ip035lik4k26nhmjrgg171ial2xnpvsxk2n3fcbi3x

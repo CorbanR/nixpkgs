@@ -1,9 +1,0 @@
-StorePath: /nix/store/dwvimxgx1kxrapkk1393kap4xb9abgfh-curl-7.79.1.drv
-URL: nar/139gbzcczbf3z3gb1dmn3kpli8y8ivks13m32w2frwvyrcsfjb5g.nar.xz
-Compression: xz
-FileHash: sha256:139gbzcczbf3z3gb1dmn3kpli8y8ivks13m32w2frwvyrcsfjb5g
-FileSize: 1736
-NarHash: sha256:0fwvxz3r9yf1vvy1s5jsrygjvvll4s2570m2javk9bmgg7nc60ii
-NarSize: 4152
-References: 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 6n0ai26zcvnwyq34xllrk8g45ym7hhh9-pkg-config-wrapper-0.29.2.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c6sqlih3wnrp4ld1icav2z0yixwcpawh-curl-7.79.1.tar.bz2.drv d5bnbrhf12m076hvp3jzagpm409adg9g-nghttp2-1.43.0.drv digwknfc92q1fawnfddkv8k6jlykrn20-perl-5.34.0.drv fik2viwvd1prgh1pk6l34frdvzxv2d80-libssh2-1.10.0.drv gdqnvkbp6nnrvww108adb7nvjgrpdxzb-7.79.1-darwin-no-systemconfiguration.patch m1wlmhmzbkl0wp46mqal1snprlkhvhcr-zlib-1.2.11.drv zbm2yxfbij6lr5qd45h64cpdbvhvgw45-openssl-1.1.1l.drv
-CA: text:sha256:0p5pv1lsx2xskylkgcqfic7v454dg9ajkbxjsf47gs91ww3lgl0s

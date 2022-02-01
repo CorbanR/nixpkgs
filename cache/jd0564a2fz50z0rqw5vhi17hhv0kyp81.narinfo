@@ -1,0 +1,9 @@
+StorePath: /nix/store/jd0564a2fz50z0rqw5vhi17hhv0kyp81-log4cxx-0.10.0.drv
+URL: nar/15q5y66l125r4dxxm078vx0j2wjhqdn41zk58nhnxw6ikzxkcmny.nar.xz
+Compression: xz
+FileHash: sha256:15q5y66l125r4dxxm078vx0j2wjhqdn41zk58nhnxw6ikzxkcmny
+FileSize: 1360
+NarHash: sha256:1ymj5p07bnjcknrlpc8bqjc5h01288md5sjjf0dlylv35rs942qx
+NarSize: 2944
+References: 09axwvn26cb2hj9zmb2052d90idj4njf-libxml2-2.9.12.drv 3xcizvid9gar2kz49ip8xhqv1ccjb9jg-expat-2.4.2.drv 75l5y4a1vzv41gwkikchl8l9i86zvbvw-narrowing-fixes.patch 7xpbfvlb6ayjz9cqkv3lld0qw0qpsq5b-apache-log4cxx-0.10.0.tar.gz.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bnni53bzffif4wqnc00865fzif0ym2am-db-5.3.28.drv dncd40szdx701a7abhj89wrxmhbfsmmx-libtool-2.4.6.drv fnky33i1saqvjsld66mhnb5yciv6p26w-apr-1.7.0.drv iig9ra75i606jl0jihhprhylg59ryv65-boost-1.77.0.drv im67psc6cg9sp30rsf6xfq00gav1h1rf-apr-util-1.6.1.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv s7qrvrkn5xiz0h11iw95dxghb8vmlwv6-cppunit-1.15.1.drv
+CA: text:sha256:0vwqljrpj1kiq6f0v6lcz3a123f7wqxxxaw232g881yiyg7jk2l6

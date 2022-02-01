@@ -1,0 +1,10 @@
+StorePath: /nix/store/z5wsbi2pyj4m65rkmn94qn7pz42b8wra-compiler-rt-libc-11.1.0
+URL: nar/051z4294ikw8cilk28kl1mmwn0fwxrwmm3pw25ff9k2787b6614w.nar.xz
+Compression: xz
+FileHash: sha256:051z4294ikw8cilk28kl1mmwn0fwxrwmm3pw25ff9k2787b6614w
+FileSize: 552376
+NarHash: sha256:05zwr1jbr65fhc8m918fk2hqwscy77gkqd4hcv7jfc159s46kph5
+NarSize: 4734928
+References: 3ahlc26kzhydk2650fv3q5p2yyj5qn75-libcxxabi-11.1.0 xc4576d0ax1s3fc5by01dpwvy10l2l9m-libcxx-11.1.0 z5wsbi2pyj4m65rkmn94qn7pz42b8wra-compiler-rt-libc-11.1.0
+Deriver: 6kqxjqxp0vi7s5nz31jia0lb67vqrm6f-compiler-rt-libc-11.1.0.drv
+Sig: cache.nixos.org-1:7ojPeI9PZXwTiWaEbvwwzJ10hNDwzihycrxHBPYHvGd8aHeTRNwnZBIv0pFw6J1ZLXAHQNdvcl2sVlSRtQr/Bg==

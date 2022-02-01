@@ -1,9 +1,0 @@
-StorePath: /nix/store/d7rvxw6wj2mj674b6zcaxrvh07mlzja7-ruby2.7.4-css_parser-1.10.0.drv
-URL: nar/12hjr2c5vq523l10gj9psbkkds9zm0i82qvgxs9fyhvp6sqh7ckq.nar.xz
-Compression: xz
-FileHash: sha256:12hjr2c5vq523l10gj9psbkkds9zm0i82qvgxs9fyhvp6sqh7ckq
-FileSize: 2236
-NarHash: sha256:10sb62x6zjj3xydq682066xmkwif0r255rllk6hlww2hqqqjwnw8
-NarSize: 5272
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv jn4w962kfsckdv7bq1p0rvk2vsvzj9k9-css_parser-1.10.0.gem.drv lddb4nzfkd9kxhlaaad83yfkxp32mjjw-ruby-2.7.4.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb yqp8z491j4nkd6a8mm648s9k3fpqc237-ruby2.7.4-addressable-2.8.0.drv
-CA: text:sha256:1m04m8qwncx768r5xhnx1y09ifdbi1x2hyqcgbbkxmmkbvzva77x

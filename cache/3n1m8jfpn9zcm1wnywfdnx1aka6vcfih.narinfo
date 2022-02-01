@@ -1,9 +1,0 @@
-StorePath: /nix/store/3n1m8jfpn9zcm1wnywfdnx1aka6vcfih-truss-cli-0.2.3-go-modules.drv
-URL: nar/0nkx27qd2j7a9pnrbzb3m1qbgi70jmcrimzmgdfmr28rkwj3cmgk.nar.xz
-Compression: xz
-FileHash: sha256:0nkx27qd2j7a9pnrbzb3m1qbgi70jmcrimzmgdfmr28rkwj3cmgk
-FileSize: 1348
-NarHash: sha256:0ypgdb1x596ivx123w8i5w6y0g1fc9ys6bsvyzvhz4xap5v2ry3c
-NarSize: 2720
-References: 0w3zcf70plb2ircm4hrimiqgshy1gmd1-source.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv c9l740j631zg3f22374fq5iildqx2224-git-2.33.1.drv k595ppbl2pac4qf4kb5cdwhm3d557rv4-nss-cacert-3.71.drv mj7iwp5q4c00vpzi9vhv6q3siyaz9f8j-go-1.16.9.drv
-CA: text:sha256:06z251f8lzmg1knwmza7kly6qbg1k3ihmpc6y67ny8wbwpavkqq9

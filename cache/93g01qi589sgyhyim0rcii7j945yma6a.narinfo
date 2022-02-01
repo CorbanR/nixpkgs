@@ -1,9 +1,0 @@
-StorePath: /nix/store/93g01qi589sgyhyim0rcii7j945yma6a-mirrors-list.drv
-URL: nar/0mawmf67p5jni8r871r0jwsdmcmm17iz7wlvixv5kmfk37g9rb94.nar.xz
-Compression: xz
-FileHash: sha256:0mawmf67p5jni8r871r0jwsdmcmm17iz7wlvixv5kmfk37g9rb94
-FileSize: 2704
-NarHash: sha256:1psl358vsqxpy8z3jj13j3gn81i2g5d9a5m6x6iam7fdnf4q8kz6
-NarSize: 9320
-References: a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv j2x2lsbacglr9zgzl6abp8sd2kf2j4j7-stdenv-linux.drv ycwm35msmsdi2qgjax1slmjffsmwy8am-write-mirror-list.sh
-CA: text:sha256:0vc7nc7wz1xgblf2cyifpqvwr73m50hxinpkwmyx0r6bdwfsn77q

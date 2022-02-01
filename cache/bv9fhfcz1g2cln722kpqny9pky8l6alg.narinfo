@@ -1,9 +1,0 @@
-StorePath: /nix/store/bv9fhfcz1g2cln722kpqny9pky8l6alg-eap8021x-222.40.1.drv
-URL: nar/003spavcrd7r30clj1bj967c5fmd9n5zdffi3kp50zzd9cfx2rvw.nar.xz
-Compression: xz
-FileHash: sha256:003spavcrd7r30clj1bj967c5fmd9n5zdffi3kp50zzd9cfx2rvw
-FileSize: 1136
-NarHash: sha256:05bzmiv8wbk6r3s5xzwdpnd1qym26lffihhs14292hljjr0sakw9
-NarSize: 2488
-References: 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh p8w59ji1i8g3x4vcnrbxx9wng71js1n4-bootstrap-stage1-stdenv-darwin.drv sxswxxg4ai2va7hcpdwhaqlcy65s0z8a-eap8021x-222.40.1.tar.gz.drv
-CA: text:sha256:0r2saf2z25hk0dy3p6jacgvmbbszcg3rmf7kcgqvv7my80px9iw6

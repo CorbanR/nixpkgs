@@ -1,9 +1,0 @@
-StorePath: /nix/store/3krlsjkgikphzw35vw00jfhpzxpz9x9p-python3.9-lxml-4.6.3.drv
-URL: nar/1c9z179i84812lgkgvywffjl4cq2k31l7jy2k45kf2gh254znfq7.nar.xz
-Compression: xz
-FileHash: sha256:1c9z179i84812lgkgvywffjl4cq2k31l7jy2k45kf2gh254znfq7
-FileSize: 1696
-NarHash: sha256:1gijw2vcavxhpzmklhwbxgdv86v0nmixcch13yax9qyqgr9zl1qb
-NarSize: 3944
-References: 5cw3wiwh2xhmigk21fr058w68yyci3if-setuptools-setup-hook.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 65ja89nfb2zl29vghqmxsj4cwlyd2lys-python-namespaces-hook.sh.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv byrf5agdn1q7ka5s53xnzpv6b2pyn66p-hook.drv gdvnwf06ip4s5vp2krxh80brk3ywdp5q-python-catch-conflicts-hook.drv gwmqv5jxlipbxhb8d3azbkfs2ih6x3j7-python-imports-check-hook.sh.drv gzs0mqf9zp406gs8r8zm8yg3x2dp8dhy-python-remove-bin-bytecode-hook.drv ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv iz3qiggndvpzrlh2sbmi9dsnp20v90rh-hook.drv ldyzphv9ysmbq6k47h6zw01a8z6rsggy-pip-install-hook.drv mngjqd9v6dgfrxrr47d7nzfp7vm3c5iy-python-remove-tests-dir-hook.drv mv2dxaa2v1g7d9gjdpnqhimn9bcfq930-python3.9-setuptools-57.2.0.drv r850sab830dps1zy3jxp27c7hfgamwi0-python3.9-Cython-0.29.24.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv y0dwlj2mdkzkz97h08x56as3bqyg92bp-libxslt-1.1.34.drv z07nk1wl3k02lx9si0ykqsz1g6yqa0sz-source.drv zayghcdvc215sxjq8c2y18a6a7b15fr3-libxml2-2.9.12.drv
-CA: text:sha256:15wb4bgc4xham4yaw12xgzb82kcmi76041lfvln5d4svqm6l9mxw

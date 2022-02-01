@@ -1,9 +1,0 @@
-StorePath: /nix/store/y0dwlj2mdkzkz97h08x56as3bqyg92bp-libxslt-1.1.34.drv
-URL: nar/19lgczxqqzddmc7250il7gmw12zkliy3gd5zdidg2ipdn57ps1r0.nar.xz
-Compression: xz
-FileHash: sha256:19lgczxqqzddmc7250il7gmw12zkliy3gd5zdidg2ipdn57ps1r0
-FileSize: 1316
-NarHash: sha256:0h6rq2g4wkrjcgaxp8pwi502k3fmiq058rbn1n1y001b0zdydl6y
-NarSize: 3296
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 86als4gp1xlhfkh0r0hjxn013apv6w62-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv g1xd85lq3cmvi7izg7z5mjh4p94mj0ds-libxslt-1.1.34.tar.gz.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv zayghcdvc215sxjq8c2y18a6a7b15fr3-libxml2-2.9.12.drv
-CA: text:sha256:1jrsb63v5hy2wbbsl97ih5wy55lcbq3hgjxjrclsnqi36n5g3bgx

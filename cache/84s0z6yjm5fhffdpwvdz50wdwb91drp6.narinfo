@@ -1,9 +1,0 @@
-StorePath: /nix/store/84s0z6yjm5fhffdpwvdz50wdwb91drp6-add-opengl-runpath.drv
-URL: nar/1j2bfs9khg7mz4rlc7g1vl48rhlrhy759i69m77p3li8bdrw6xp4.nar.xz
-Compression: xz
-FileHash: sha256:1j2bfs9khg7mz4rlc7g1vl48rhlrhy759i69m77p3li8bdrw6xp4
-FileSize: 700
-NarHash: sha256:0hrvnch1jc5qrpbil52raj249i642drfq1adxw16z5f9yphbdjbc
-NarSize: 1528
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv i1w2jdgcbinymw9i4bxmxm0x1lwaxnav-setup-hook.sh
-CA: text:sha256:1szc6banvvinh3ldqsjdibbs8wc8d4r4yj4b5dpk5nzy74fxd8pg

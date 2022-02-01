@@ -1,9 +1,0 @@
-StorePath: /nix/store/189w2nqz4bsjlzz2s1r75fl6vacmq1dj-IOKit-.drv
-URL: nar/1l1dv08d9sfq0d7yyfqg3ynjrvc75sl2ryw4jfq17687d28s44g9.nar.xz
-Compression: xz
-FileHash: sha256:1l1dv08d9sfq0d7yyfqg3ynjrvc75sl2ryw4jfq17687d28s44g9
-FileSize: 3700
-NarHash: sha256:0k2yg59hyympa2vzy5mii4b4afw4wpkam61d4skhfpghlzsbhc88
-NarSize: 14768
-References: 1rw1s839ff1qi1jsl3ahlr3ddsc04741-IOUSBFamily-560.4.2.tar.gz.drv 2ijwzjff2v3c29mmr4hh7y1366paryak-IOHIDFamily-606.40.1.tar.gz.drv 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 2wzcxqib8mfdzlyk92ysdg4cvlllaqxb-IOUSBFamily-630.4.5.tar.gz.drv 5kmwvrgx19p1p94afj3fmdjj10dpp9zp-IOGraphics-485.40.1.tar.gz.drv 75wgc2vqic66v23gkjhdfbjpn4l8irwn-IONetworkingFamily-101.tar.gz.drv 8bivripr121w173h2blichk03q3kf4l2-IOStorageFamily-172.tar.gz.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cbvhww3jqk640d5mbkarimg92xn4mg7a-IOFireWireAVC-423.tar.gz.drv cg0yznbl8h8aghs7j2wvc7wilb0017l1-IOFireWireSBP2-427.tar.gz.drv dxmny9ryp5ar33zhnq0ip9ybgvvl5cwq-IOCDStorageFamily-51.tar.gz.drv f4rcym7p0sqs0jh03f6dzn9kjq0jzk72-IOBDStorageFamily-14.tar.gz.drv h03448h2x6hrl58zhr59k9f7ipvy9wk4-IOKitUser-1050.20.2.tar.gz.drv h5vzxav75i8nwb8bbwh1zyaycn7p6j1r-xnu-3789.70.16.drv hj7gwghsl300zw20hjrh02ag8hrccsr4-IOFireWireSerialBusProtocolTransport-251.0.1.tar.gz.drv j215360xmldhqz1n1gg1i9ww95l6hkfs-IODVDStorageFamily-35.tar.gz.drv kd6kimfrywc641a1j36c3i328bwslgi1-IOFireWireFamily-458.tar.gz.drv qs25lc62k4j9dcmpj7h9i50rwgky1jjq-IOSerialFamily-74.20.1.tar.gz.drv vc8s1sj1rdghdiv02qcl4mb09kv796j6-IOFWDVComponents-207.4.1.tar.gz.drv yhl70f4k60lkfj7fns2y53dqaamj1w6g-IOAudioFamily-203.3.tar.gz.drv z5wgxrzclfhd74cr8hhlj0xcxmk0d6pv-darwin-stubs-10.12.drv
-CA: text:sha256:1xmd9l3p67d573m22xyxdx6jfnzz60bm7x2jsmlpj788rqf9hd22

@@ -1,9 +1,0 @@
-StorePath: /nix/store/8k4x9wa6ir90mwnwjnyskkbl970hks7d-IOStorageFamily-172.tar.gz.drv
-URL: nar/0pbhn289j58mb6p1wybr8n8h190z7b16cjwx2ykdxlsy900yrg61.nar.xz
-Compression: xz
-FileHash: sha256:0pbhn289j58mb6p1wybr8n8h190z7b16cjwx2ykdxlsy900yrg61
-FileSize: 1332
-NarHash: sha256:0wyrpm2hjc3pl9bhpa9hcicc58sx65mrn1kgp4pbc092czdx0w5r
-NarSize: 3168
-References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
-CA: text:sha256:0lv3skzjfy2p5via1xv3n1cms35arcks40l0rs204m9qdlbvs3ca

@@ -1,0 +1,9 @@
+StorePath: /nix/store/zqmfwqipq5aaprq67mic6a4a9904i4yc-rustc-1.57.0.drv
+URL: nar/0h8wqnf8m8p0rmvkff2i53q04ilspbc5clgdkkcf37g307dg5lns.nar.xz
+Compression: xz
+FileHash: sha256:0h8wqnf8m8p0rmvkff2i53q04ilspbc5clgdkkcf37g307dg5lns
+FileSize: 2476
+NarHash: sha256:04mycgcjm2fwd46f1w3x3w5ncxqh98iy2a2d1413i6ygv53vvyd2
+NarSize: 6624
+References: 15y6g0niacf3isa0gwqbw8n0jqszcsj7-which-2.21.drv 3lagjzkz6ks6qrwi0bmjj9agrz51lrh0-pkg-config-wrapper-0.29.2.drv 4y6a018wlibaivfann2hxz69v61al09f-file-5.41.drv 5sv2ijl9xdpyw57yl2xzwl6fgkmra96r-rustc-1.57.0-src.tar.gz.drv 629h5fqpfixh5dfphmck82d9sardwvf9-cmake-3.22.1.drv 634lrx5bacshlnv1rzpvggazwlbpn6b9-gcc-wrapper-10.3.0.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dx4kpf8k1vm0x56g6pdbgi0chn0cxhg9-cargo-bootstrap-1.56.1.drv la5959jgwlg7ifn8nk51rv20bj8mpfbg-llvm-13.0.0.drv mvrzhmsww5h3102pr6bkhps2qvvrfb7b-rustc-bootstrap-1.56.1.drv prw1bw1vzld5i2i2vppyb0k9mxif3mjd-remove-references-to.drv ps1awhs9bc0ijxyc6mxb84ixgb3vcisd-libffi-3.4.2.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv rprw6ig8fpyywkmk9vq1lfk3rv1s93ay-python3-3.9.9.drv skyp8xs2584fkc44ki1cim9ag55wbi68-setup-hook.sh yahi7vx9spk1bfsj7p71n0235lbw41py-openssl-1.1.1m.drv
+CA: text:sha256:03g4470k9nmihc1pzjr4d45vkjp31hg398vgjh5rh38r3a85pjhm

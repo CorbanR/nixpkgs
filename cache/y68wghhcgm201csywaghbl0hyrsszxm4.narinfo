@@ -1,0 +1,9 @@
+StorePath: /nix/store/y68wghhcgm201csywaghbl0hyrsszxm4-libpulsar-2.9.1.drv
+URL: nar/17xakk3as7z32gblp31zpldmzl3dg2wc3znrdphs4rx28fkx6w5f.nar.xz
+Compression: xz
+FileHash: sha256:17xakk3as7z32gblp31zpldmzl3dg2wc3znrdphs4rx28fkx6w5f
+FileSize: 2004
+NarHash: sha256:1aj5vcskmnd8nwfr16qaqbk7c1i86gjgdakbblx2rln7bj87ld2x
+NarSize: 4320
+References: 3lagjzkz6ks6qrwi0bmjj9agrz51lrh0-pkg-config-wrapper-0.29.2.drv 5cavvh2h8yfx289q63hqp5nsx6r2prji-protobuf-3.19.0.drv 629h5fqpfixh5dfphmck82d9sardwvf9-cmake-3.22.1.drv 634lrx5bacshlnv1rzpvggazwlbpn6b9-gcc-wrapper-10.3.0.drv 73qrnqsr43vldr59l743n116dai8c3li-apache-pulsar-2.9.1-src.tar.gz.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9kp5f3s2i13amkfh9y5p0nlnh5zks42l-zlib-1.2.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b24w319wpnizivz1jy8ms4lkzwqik1kj-curl-7.81.0.drv iig9ra75i606jl0jihhprhylg59ryv65-boost-1.77.0.drv jbdq2iy8sqvapx3cq7xd6dwcv95sb6dl-zstd-1.5.1.drv jd0564a2fz50z0rqw5vhi17hhv0kyp81-log4cxx-0.10.0.drv jj0l21pkc5hsw7xqxgckzx51b2x5hi9b-snappy-1.1.9.drv qxmj5rkg7brmqm23b42xmi8p7zd7vqpq-clang-tools-7.1.0.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv rprw6ig8fpyywkmk9vq1lfk3rv1s93ay-python3-3.9.9.drv s04k1xd9pq95j73pp5lrnm7g7khvrz43-jsoncpp-1.9.4.drv xnv60gshwj0b7zlk4vfx32gb0fa6dkm6-gtest-1.11.0.drv yahi7vx9spk1bfsj7p71n0235lbw41py-openssl-1.1.1m.drv
+CA: text:sha256:0d4dkqafqwm5pbak0qdimsf834wgr24fbpbn4kw47grgfcbb1i9i

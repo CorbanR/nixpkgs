@@ -1,0 +1,9 @@
+StorePath: /nix/store/zcgxclqr466zkmr7klaxj48mvk3xp56z-xar-1.6.1.drv
+URL: nar/0h65llnhdr7gz03k42pb318bc65spap5727s06cgxckn8vlqjk1q.nar.xz
+Compression: xz
+FileHash: sha256:0h65llnhdr7gz03k42pb318bc65spap5727s06cgxckn8vlqjk1q
+FileSize: 1460
+NarHash: sha256:0mf6chi9qf2v0x7yldnx9fij9757r389g7dfskz42x1p1ivw1a1f
+NarSize: 3200
+References: 2vvd6y9gg13744wg8y0x7jzifscnc8al-bzip2-1.0.6.0.2.drv 3jjd65b6nyg7g30ixszjcsgb08j5mmhn-0001-Add-useless-descriptions-to-AC_DEFINE.patch 66kskh2kvbwf6yzq3n79gn7xnpr89h8l-hook.drv 6rsydd5fylx7707q53k3hv875xi75kaj-xar-1.6.1.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh apyz5hi3q1m631b5cch0pcjvdrxr66wj-libxml2-2.9.12.drv hqf0wskdr7ycd9my8qpbqiadfjqj7cd8-bootstrap-stage4-stdenv-darwin.drv j3frsgc0zsrg2pg7w9pqmxjh6qd01aqs-0002-Use-pkg-config-for-libxml2.patch kkl8x4klm13pdh7693lrnl5q8vcwrz28-xz-5.2.5.drv qpzy57bj2g827q5zzmf0pcg388527q0i-openssl-1.1.1m.drv ykwdmlnb19kiwxj5k6m6awhrdlg6chch-pkg-config-wrapper-0.29.2.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv zk2mfxirbjcmdk97fh3krdgb4ab8x4bb-zlib-1.2.11.drv
+CA: text:sha256:12j9dhrixxx6qi5r66kikfnx205dyqf3bshhzn2cabkbba5dai49

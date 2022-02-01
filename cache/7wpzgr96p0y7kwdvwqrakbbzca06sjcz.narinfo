@@ -1,9 +1,0 @@
-StorePath: /nix/store/7wpzgr96p0y7kwdvwqrakbbzca06sjcz-IOAudioFamily-203.3.tar.gz.drv
-URL: nar/0y718zslyk32p1a1kd884ra876va0ncrfbfaplfv2n28gcznc284.nar.xz
-Compression: xz
-FileHash: sha256:0y718zslyk32p1a1kd884ra876va0ncrfbfaplfv2n28gcznc284
-FileSize: 1332
-NarHash: sha256:1v0zgp9h7ylcahvll60xxy5ydihipbadgz27hmdanw8r51qgcxz5
-NarSize: 3160
-References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
-CA: text:sha256:1vvaqdwi92j76vhbj118qsrr4cj225cynv4sm3l8w71w9x8lyps9

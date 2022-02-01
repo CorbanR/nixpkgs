@@ -1,0 +1,9 @@
+StorePath: /nix/store/jqqdalq8rvlcwazrgifba3q9643p6qn5-perl5.34.0-XML-Parser-2.46.drv
+URL: nar/0gccmd0s19srmray983byzl8k9y46hd7df5jkr6hw38s0wl4j7d7.nar.xz
+Compression: xz
+FileHash: sha256:0gccmd0s19srmray983byzl8k9y46hd7df5jkr6hw38s0wl4j7d7
+FileSize: 1136
+NarHash: sha256:0c4pml7ri8567ygrj14p8mp3marqyd9avs8dwrjc6h0z5wffsfvf
+NarSize: 2704
+References: 3v7jwa6440g8gm9y2hsdqslplk6zyh9w-XML-Parser-2.46.tar.gz.drv 3xcizvid9gar2kz49ip8xhqv1ccjb9jg-expat-2.4.2.drv 98nj8d8lxp6d5b3q71gfhqz5im0nf04d-perl5.34.0-libwww-perl-6.49.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv qf3mzpvsmkrw963xchbivcci06078n13-builder.sh qhmvfms1yjagdi8981n1chpxx88xhg9y-xml-parser-0001-HACK-Assumes-Expat-paths-are-good.patch r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv y4abap6zqvwrxb8fbbnbidhghrixakpv-perl-5.34.0.drv
+CA: text:sha256:0jyn319mvf61nq3q8d2dh06v3xmzj11x397sdx4sl6fphl7d88ck

@@ -1,0 +1,10 @@
+StorePath: /nix/store/c0bzs8wvys6nzlkclxq20zdrafhggcwv-cctools-port-949.0.1
+URL: nar/091fgdlj4pmwlds7913xxwinpk230jhnfjqhvaa6lya0kb0x9vsk.nar.xz
+Compression: xz
+FileHash: sha256:091fgdlj4pmwlds7913xxwinpk230jhnfjqhvaa6lya0kb0x9vsk
+FileSize: 1571616
+NarHash: sha256:1f8wlfnvsqa8q0crwigb9jgdq9pca481nyny464zviv3mdfq6sw6
+NarSize: 10095040
+References: 3ahlc26kzhydk2650fv3q5p2yyj5qn75-libcxxabi-11.1.0 4cvnidbbn2l1afank53lzsgbqqzcvi25-libtapi-1100.0.11 c0bzs8wvys6nzlkclxq20zdrafhggcwv-cctools-port-949.0.1 xc4576d0ax1s3fc5by01dpwvy10l2l9m-libcxx-11.1.0
+Deriver: nvinj48hzm90j5vm8xak8mwi5dpdys3k-cctools-port-949.0.1.drv
+Sig: cache.nixos.org-1:tdCNtWmi9THRyHRGl+KPykk9REc2flia0OuusUskKyMLCq3V4NkyHYiBDbgKphIQG05tYFFp8xE69dnh+m9WCg==

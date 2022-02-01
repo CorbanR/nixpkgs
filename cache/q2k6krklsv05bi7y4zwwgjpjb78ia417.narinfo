@@ -1,9 +1,0 @@
-StorePath: /nix/store/q2k6krklsv05bi7y4zwwgjpjb78ia417-ruby2.7.4-asciimath-2.0.3.drv
-URL: nar/04cgiicb6800mjyfz5sqnn34zz0z1sqrzfqzkrfphh5qdj8pshg9.nar.xz
-Compression: xz
-FileHash: sha256:04cgiicb6800mjyfz5sqnn34zz0z1sqrzfqzkrfphh5qdj8pshg9
-FileSize: 2152
-NarHash: sha256:1ffaamrkgsgwa5f1q6wds3l2h3ydbc3shajxkgd8ysajgvpid6rr
-NarSize: 4928
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv lddb4nzfkd9kxhlaaad83yfkxp32mjjw-ruby-2.7.4.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb wk9a5sdzsjvd6zcs3zixwpfar55fzi8i-asciimath-2.0.3.gem.drv
-CA: text:sha256:15cq6qnad48syvyc9c11v71c8hqyanfkvrkskrj9nj6wvlpcq36i

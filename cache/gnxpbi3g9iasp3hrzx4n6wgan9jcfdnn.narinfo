@@ -1,9 +1,0 @@
-StorePath: /nix/store/gnxpbi3g9iasp3hrzx4n6wgan9jcfdnn-IONetworkingFamily-101.tar.gz.drv
-URL: nar/00yv9wkyghmlydh99g72qdcm6hdrvzl0m1zqfmmk6m7ysvb7nqry.nar.xz
-Compression: xz
-FileHash: sha256:00yv9wkyghmlydh99g72qdcm6hdrvzl0m1zqfmmk6m7ysvb7nqry
-FileSize: 1328
-NarHash: sha256:0csqb2gllmb4n838ridv0xniqfnz6zym7qrybylapc8viy0pjjz7
-NarSize: 3176
-References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
-CA: text:sha256:1pcqi23zr9bp6bvh96mwijxrpxzphxc5n5jrwxd5ny89v7pcx3vi

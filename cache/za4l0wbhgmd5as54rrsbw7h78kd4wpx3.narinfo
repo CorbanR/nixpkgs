@@ -1,9 +1,0 @@
-StorePath: /nix/store/za4l0wbhgmd5as54rrsbw7h78kd4wpx3-bootstrap-stage0-glibc-bootstrap.drv
-URL: nar/0lqlidzsygx97nhzj5rbi7815r8h58i7y6ghz869zl9pvn2y96n1.nar.xz
-Compression: xz
-FileHash: sha256:0lqlidzsygx97nhzj5rbi7815r8h58i7y6ghz869zl9pvn2y96n1
-FileSize: 664
-NarHash: sha256:0klmf78d74wd904cfwfy1c324hx02ra72pkmkz2j1bzhknk74jf3
-NarSize: 1640
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dhvmh2hb7900z4ki92cfiwap7rhhnqfv-bootstrap-stage0-stdenv-linux.drv
-CA: text:sha256:0ind6jbgj3z7i28s0r2r8g9izrd5dc9n1a76sfac5iz62y8krvwl

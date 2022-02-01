@@ -1,9 +1,0 @@
-StorePath: /nix/store/qjq49q5xlbs8s9am0hhd2116j9icmb6g-icu4c-70.1.drv
-URL: nar/1acibczlynhz2xxz2mz6mw79bvl49jdm8i7sxpqndg78rgaszskl.nar.xz
-Compression: xz
-FileHash: sha256:1acibczlynhz2xxz2mz6mw79bvl49jdm8i7sxpqndg78rgaszskl
-FileSize: 1100
-NarHash: sha256:1mmdk0z40nps09lxbfbl1pry83vms1w0ayp5q311wh62dfwhc929
-NarSize: 2512
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv hjs1kckrjby0d3wpzf8ysjwcvvmy58bg-icu4c-70_1-src.tgz.drv
-CA: text:sha256:02rylc45cdf7z6b1n995wsj3pdhzwx3xdjrxsmqqydjj8ddvlskr

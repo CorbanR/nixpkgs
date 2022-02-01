@@ -1,0 +1,9 @@
+StorePath: /nix/store/6gzw05d9k909bdf2kvzqdi705adp3y84-apple-framework-IOBluetooth.drv
+URL: nar/0myzyby1bxkj2vk2532p9qmv30nynzw962gs3g376xkh3d7fqjml.nar.xz
+Compression: xz
+FileHash: sha256:0myzyby1bxkj2vk2532p9qmv30nynzw962gs3g376xkh3d7fqjml
+FileSize: 2100
+NarHash: sha256:0l93d70ial5igm4aqk9jr1mp4gwclpqckhv4rbfyflpgr2imwndq
+NarSize: 6632
+References: 2r4cz38px3bjz2hbc2kyrr522dq9k1h4-MacOS_SDK-10.12.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh hjrw7d88l3ar99h7dj71pnz3rkaf28g8-print-reexports.drv izq5j4k7kc177394biywj2acvhq9higy-apple-framework-IOKit.drv rx96grssb6gh1dg49f8ickq39fxh35x6-apple-framework-CoreBluetooth.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv wm9n0rmfxg29k87zqfvyjbpgrh0xm4yf-darwin-stubs-10.12.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:0payh72rw8s3pha70b9fwwk4ixh698wr2v8fv0x6zncsgj6ba7aw

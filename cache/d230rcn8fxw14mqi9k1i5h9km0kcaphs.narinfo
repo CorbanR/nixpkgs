@@ -1,9 +1,0 @@
-StorePath: /nix/store/d230rcn8fxw14mqi9k1i5h9km0kcaphs-freetype-2.11.0.tar.xz.drv
-URL: nar/0cxyaik2zhr8qp840ajpa23116wf1qwc60zn5amsw7pa216midvr.nar.xz
-Compression: xz
-FileHash: sha256:0cxyaik2zhr8qp840ajpa23116wf1qwc60zn5amsw7pa216midvr
-FileSize: 1264
-NarHash: sha256:0lzzj2qy74m0c1rzlfjl2chs9jv7ddyasrqfzl6v4dkbb04mjh1k
-NarSize: 2880
-References: 1151zln3c3j1q6f5jdm5c6509n1rf9y9-curl-7.79.1.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 93g01qi589sgyhyim0rcii7j945yma6a-mirrors-list.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv j2x2lsbacglr9zgzl6abp8sd2kf2j4j7-stdenv-linux.drv
-CA: text:sha256:1x9ffz3yniiq88gwwyv0qcxavvqk6zzl6xhmgykw2h9zn94v1wb9

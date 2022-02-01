@@ -1,0 +1,9 @@
+StorePath: /nix/store/247p5x0sp4y7zd3ba7jqgl8dvyjsmzrc-flex-2.6.4.drv
+URL: nar/0dfwx6b0ywqi0wcqawwrja9n7j9rr6k2pnln6bas7p7qapinqzyh.nar.xz
+Compression: xz
+FileHash: sha256:0dfwx6b0ywqi0wcqawwrja9n7j9rr6k2pnln6bas7p7qapinqzyh
+FileSize: 1260
+NarHash: sha256:1hc7bw4hmd6vpc2ykxg3bsmr6wlz4270ynxvvdgm7ddr30h0l620
+NarSize: 2728
+References: 41nl7zhya8c2wlg95xq2n8nyx749bi8k-glibc-2.26.patch.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cbi3xmg8309dl6i8yk71if41if8xdj9r-gnum4-1.4.19.drv gl47qsqbzr5wh07fxg3j89ngb9pvqzlh-flex-2.6.4.tar.gz.drv i85icdb2n477c6ribzfbywkrnhhwrp7h-bootstrap-stage0-clang-wrapper-11.1.0.drv kcfj0a0f2lzvqq8xypkxga131qs46d4d-hook.drv pb3b583v00697jzmw68vfgwcm9vjfz4c-help2man-1.48.5.drv qcrxk88akxskn7sny67azr436g49jjgs-bison-3.8.2.drv rpiackywakmkarc3ahab2ja3sf5frgsn-bootstrap-stage1-stdenv-darwin.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:0zksdxn8bjvq13gqpkwx6nmnvbpz3kx03dp6f7ryphz71fvk5nap

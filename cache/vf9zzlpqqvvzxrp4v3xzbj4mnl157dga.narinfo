@@ -1,9 +1,0 @@
-StorePath: /nix/store/vf9zzlpqqvvzxrp4v3xzbj4mnl157dga-expat-2.4.1.tar.xz.drv
-URL: nar/0gy6824lffmmj96h32xf33ng89xg0y0nn2iaj89rnqqxi9pzhwhc.nar.xz
-Compression: xz
-FileHash: sha256:0gy6824lffmmj96h32xf33ng89xg0y0nn2iaj89rnqqxi9pzhwhc
-FileSize: 1328
-NarHash: sha256:0nairr6ylmk2qh5d68djnh3mmgl5pwg8vchkfpmdcsh00dz56qz1
-NarSize: 3136
-References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
-CA: text:sha256:19njs9q130mvw97lqqj1b8hdsn2yaf5d0x4ad2prx58y9m6rv0v5

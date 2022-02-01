@@ -1,9 +1,0 @@
-StorePath: /nix/store/gms45x625phak4nry3axcy0ijp6ni9yl-python3.9-Django-2.2.24.drv
-URL: nar/16zf7q1v5214vfgb086y7dni30x3p8b8yxi0mylr28459w2s5af9.nar.xz
-Compression: xz
-FileHash: sha256:16zf7q1v5214vfgb086y7dni30x3p8b8yxi0mylr28459w2s5af9
-FileSize: 1552
-NarHash: sha256:0r5l4wjywh1gwwb8l4ac5rl0ax1gsr4xgzcz7szh4d00dbn40lpr
-NarSize: 3552
-References: 5cw3wiwh2xhmigk21fr058w68yyci3if-setuptools-setup-hook.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 65ja89nfb2zl29vghqmxsj4cwlyd2lys-python-namespaces-hook.sh.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv byrf5agdn1q7ka5s53xnzpv6b2pyn66p-hook.drv gdvnwf06ip4s5vp2krxh80brk3ywdp5q-python-catch-conflicts-hook.drv gwmqv5jxlipbxhb8d3azbkfs2ih6x3j7-python-imports-check-hook.sh.drv gzs0mqf9zp406gs8r8zm8yg3x2dp8dhy-python-remove-bin-bytecode-hook.drv iqxdsabf991w40vp9976pncnb8as5ywc-Django-2.2.24.tar.gz.drv iz3qiggndvpzrlh2sbmi9dsnp20v90rh-hook.drv k8dfyif2z4jbmh3fzkps6wc6fkln0pbq-python3.9-sqlparse-0.4.2.drv ldyzphv9ysmbq6k47h6zw01a8z6rsggy-pip-install-hook.drv mngjqd9v6dgfrxrr47d7nzfp7vm3c5iy-python-remove-tests-dir-hook.drv mv2dxaa2v1g7d9gjdpnqhimn9bcfq930-python3.9-setuptools-57.2.0.drv ns71w9zm00wykf3xwj50h1lpihmf52rn-python3.9-pytz-2021.3.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv
-CA: text:sha256:0z9pgvpg7z2gnlkd9kf407cs86dj7jdsx5awszhc33zz1y4f1vs2

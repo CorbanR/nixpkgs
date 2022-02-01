@@ -1,0 +1,9 @@
+StorePath: /nix/store/0d0x206hn59hycv3hbyaaw01j0w205p1-curl-7.81.0.drv
+URL: nar/1zh411a76f2z939mnxq93hnvldbwmljfm9xjw4g13vwc111112s6.nar.xz
+Compression: xz
+FileHash: sha256:1zh411a76f2z939mnxq93hnvldbwmljfm9xjw4g13vwc111112s6
+FileSize: 2048
+NarHash: sha256:1pwsl91zq5bcn6f70r5gglfp2y14sdbnws0yk0dszx3g1ppfq4sj
+NarSize: 5016
+References: 0mv6bcbcdfi4mssyqh9z63hsc52zwv9z-libkrb5-1.18.drv 5ngwll3clbb6jzyr75m4q6z2iird5r9q-perl-5.34.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh gdqnvkbp6nnrvww108adb7nvjgrpdxzb-7.79.1-darwin-no-systemconfiguration.patch hqf0wskdr7ycd9my8qpbqiadfjqj7cd8-bootstrap-stage4-stdenv-darwin.drv jck2zjb7pkymm6p165q1qwvgxjqh55sj-libidn2-2.3.2.drv mkg081vl3qmzkzxarqnazz8kxdcmmxp5-zstd-1.5.1.drv nx0izipfh7l1w1h27ahb88lkxgnp0d57-libssh2-1.10.0.drv pmsq1bd8rz8xbwaa8xfm1x5qpk6m189y-brotli-1.0.9.drv qpzy57bj2g827q5zzmf0pcg388527q0i-openssl-1.1.1m.drv sdn4ddi8c3kv8z1zm84p622gc301dffi-nghttp2-1.43.0.drv w2j4cvyqxrrrxk3dh1x5a3p7isd4xvs6-curl-7.81.0.tar.bz2.drv ykwdmlnb19kiwxj5k6m6awhrdlg6chch-pkg-config-wrapper-0.29.2.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv zk2mfxirbjcmdk97fh3krdgb4ab8x4bb-zlib-1.2.11.drv
+CA: text:sha256:1k9fnpc5zpcci54k42rrfrpcngv4iyjgdmndxmk3b7pm42vnjvsz

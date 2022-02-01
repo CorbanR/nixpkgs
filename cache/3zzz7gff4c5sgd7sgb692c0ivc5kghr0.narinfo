@@ -1,0 +1,9 @@
+StorePath: /nix/store/3zzz7gff4c5sgd7sgb692c0ivc5kghr0-binutils-2.35.2.drv
+URL: nar/1zr75s8d358ipr3mpy681qn9q1gbipaw837s3gxirwv34916lr5r.nar.xz
+Compression: xz
+FileHash: sha256:1zr75s8d358ipr3mpy681qn9q1gbipaw837s3gxirwv34916lr5r
+FileSize: 2168
+NarHash: sha256:1b7ix60z43zwkr6s7ycdnaj2rk9mmw3rdm0i3aicai24x5lm14p4
+NarSize: 5096
+References: 1fpjdfvrlbp7di0yd535if242g785x9h-bison-3.8.2.drv 3yp8kpj25p2xxb5s963xga4ckyj3fksl-CVE-2021-3487.patch 59l91nqac7bpcw1qpxy15jwia5cqsppy-CVE-2020-35448.patch 5ff6w803hrm5w07rkmks99l7nbyam0zc-texinfo-6.8.drv 5ngwll3clbb6jzyr75m4q6z2iird5r9q-perl-5.34.0.drv 8v8kiz9bqj00h75az6d8kc9qcpxkm7pd-gold-Update-GNU_PROPERTY_X86_XXX-macros.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh d7p96abid6170q60c5dhlr359p8haxcr-clang-wrapper-11.1.0.drv hh4bh8ra8wrlxdv923ki9s2s9yhf73f3-gettext-0.21.drv hqf0wskdr7ycd9my8qpbqiadfjqj7cd8-bootstrap-stage4-stdenv-darwin.drv im0jwjjl7lwmcrd6sj6xyk0xwx52nfnh-bfd-elf-Dont-read-non-existing-secondary-relocs.patch l9n2ss47bmplv1xadiv0gm0hvw43xx5g-binutils-2.35.2.tar.bz2.drv pa83jbilxjpv5d4f62l3as4wg2fri7r7-always-search-rpath.patch sa4zgv37g7r6wvgrl6w1shpf3j1k2bi6-CVE-2021-45078.patch sqbhaaayam0xw3a3164ks1vvbrdhl9vq-deterministic.patch wilglaz00r3zpqy6j5awrzia446lzmk9-disambiguate-arm-targets.patch z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv zk2mfxirbjcmdk97fh3krdgb4ab8x4bb-zlib-1.2.11.drv
+CA: text:sha256:167ydq9289xw91wmlp2vv9i8kj34cr40rjby7z04f5ifbyaalmnh

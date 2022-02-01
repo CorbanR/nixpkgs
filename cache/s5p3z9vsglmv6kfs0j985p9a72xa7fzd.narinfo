@@ -1,9 +1,0 @@
-StorePath: /nix/store/s5p3z9vsglmv6kfs0j985p9a72xa7fzd-libelf-0.8.13.drv
-URL: nar/0najv9sj4z3iffplcym4dipwj7jlqz2cy8hsisbbihglnsrvd750.nar.xz
-Compression: xz
-FileHash: sha256:0najv9sj4z3iffplcym4dipwj7jlqz2cy8hsisbbihglnsrvd750
-FileSize: 836
-NarHash: sha256:05wm4gjcbn158vlcg1hsmy4ldrjhxi56xgqd94rcigcaxk6ijjby
-NarSize: 1880
-References: 21qssx8jl5688qmn5qnyrihfw9fibqv5-preprocessor-warnings.patch 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv f94073v5cld9ll8vdkvdqqxw3zw74j9z-libelf-0.8.13.tar.gz.drv lzmxj8jf7dsy73injx2q3x6j329fjlk2-dont-hardcode-ar.patch p9fdk3cjidj191kpabgzalmip55rv0x2-gettext-0.21.drv
-CA: text:sha256:15r79kz3wvhvh02iws0kvhcxh2lm81h0hsk9m1g697inirqa5pwn

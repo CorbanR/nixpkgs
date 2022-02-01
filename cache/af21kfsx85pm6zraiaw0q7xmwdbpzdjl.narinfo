@@ -1,9 +1,0 @@
-StorePath: /nix/store/af21kfsx85pm6zraiaw0q7xmwdbpzdjl-apple-framework-AudioToolbox.drv
-URL: nar/17wb77wpfamli0s81whg6fcq68q42wxg0yhnql5chhykz8p210gc.nar.xz
-Compression: xz
-FileHash: sha256:17wb77wpfamli0s81whg6fcq68q42wxg0yhnql5chhykz8p210gc
-FileSize: 2104
-NarHash: sha256:17krfl6mn6q4a7qlpvj4dz5f98lpsz6hlpxzn4yphmxbk4jzqyq5
-NarSize: 6640
-References: 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh c2mksd13gmsmjs2k1njfip9ppkxs9jva-apple-framework-CoreMIDI.drv f75f3fvgkpxwb5qf5q3iy0cn9z0bhlsv-apple-framework-CoreAudio.drv ssji0dyn753mdb2i5hnmki98ijy8jq2r-MacOS_SDK-10.12.drv wa2i3hkqa97idw0pyf7f28932ccsqb3h-print-reexports.drv z5wgxrzclfhd74cr8hhlj0xcxmk0d6pv-darwin-stubs-10.12.drv
-CA: text:sha256:17bnwc81lvxv2mrjcdkhcr2d2iy330162fs8z0v185zz005548fd

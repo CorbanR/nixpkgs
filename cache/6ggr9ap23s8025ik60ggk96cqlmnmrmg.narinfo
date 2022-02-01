@@ -1,9 +1,0 @@
-StorePath: /nix/store/6ggr9ap23s8025ik60ggk96cqlmnmrmg-python3.9-flit-core-3.2.0.drv
-URL: nar/042xkq3ivyayqbg1c9gpjfzgpg0gwf7hzhn3jqqrlvqkkzq2113h.nar.xz
-Compression: xz
-FileHash: sha256:042xkq3ivyayqbg1c9gpjfzgpg0gwf7hzhn3jqqrlvqkkzq2113h
-FileSize: 1700
-NarHash: sha256:0h95c2arr1khfyhki4vwk0lfq1xgcwrbs1w33zzpj7l1jia894xg
-NarSize: 3944
-References: 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 3ykvy9nrwl91yb50a48sjxfqw1lyshi3-python-remove-tests-dir-hook.drv 42b41a7qb5p40qksjpdg7kmh21b5a03p-python3.9-setuptools-57.2.0.drv 5ga6ph1jhyajjdvr4d7vsm86gfq711mx-python-remove-bin-bytecode-hook.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ac2fi34nwrkkrnjk02k23lq7f21jy1ja-python-namespaces-hook.sh.drv f2znxfn65y2lkids67vg1287210pqqz1-python3.9-toml-0.10.2.drv g7f3gv2lwd3hl9h7ajvk0pchaz5dq2n1-pip-install-hook.drv js2cqpbsxvg6lckilm3kqpvwjghr54c9-python-imports-check-hook.sh.drv k4nbqp85cnq74k926ymi9am3ball5al9-hook.drv k7rvszva1gz7a018n9vwgjcak6wwxxbw-python-catch-conflicts-hook.drv n3sb7vsxja7g90czkm6p91q9r0633ll5-pip-build-hook.sh.drv naj8j7hvk0n37yb7gkg964f5sb0awvmd-source.drv q0m24pv6a5mc3fqziv64jvc4glxsy0w5-python3-3.9.6.drv qbpg5yskmnxf80r9fx6w9xr83i2bnzc8-hook.drv
-CA: text:sha256:0b8lwa5jk25vzzyf32dv6h3lmzpjpmmgbf2xghymc073i7k1xmpn

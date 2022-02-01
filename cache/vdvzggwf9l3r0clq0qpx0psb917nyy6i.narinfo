@@ -1,9 +1,0 @@
-StorePath: /nix/store/vdvzggwf9l3r0clq0qpx0psb917nyy6i-llvm-7.1.0.drv
-URL: nar/161i1mq28af6q8hp4ngg5rx794ba9qnk03avld2pp0sxqmfv9a97.nar.xz
-Compression: xz
-FileHash: sha256:161i1mq28af6q8hp4ngg5rx794ba9qnk03avld2pp0sxqmfv9a97
-FileSize: 2468
-NarHash: sha256:1nmbdv94wbf67xf4zxrm1v748f3plz7w6j5qjmflgmkgzhzki7gh
-NarSize: 5896
-References: 0qj1wl6y94a7c09l44imhpahg6arh2qz-outputs.patch 44f0s840wcxyhw62rvshkvvf712jakbg-ncurses-6.2.drv 7a0rivvkj055z9ybv5vsnn2dywq2hrnd-cc1f2a595ead516812a6c50398f0f3480ebe031f.patch.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 99bcv23m6vvzpvpw5ggns6fmbm259ddc-cmake-boot-3.21.2.drv 9dxkg65p0k6k9yv7rw43aylrgf8gjk4z-bootstrap-stage3-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ba83qndkk07r3d3a9yabmaqysi8r7y0p-polly-7.1.0.src.tar.xz.drv d76j6111kn1gc6lfvsdlb62brjawivji-libxml2-2.9.12.drv hp7vxq4i13613k52rmc8j3vxkrpgva79-llvm-7.1.0.src.tar.xz.drv hpa14111qw99n83nirmldiz0sb7fglnw-libffi-3.4.2.drv m1wlmhmzbkl0wp46mqal1snprlkhvhcr-zlib-1.2.11.drv yskbwr1w84y85s72afd1mn6my3x9lb11-python3-minimal-3.9.6.drv zf6xwnr73v745iznfb3bilfx93ppklmj-da1fb72bb305d6bc1f3899d541414146934bf80f.patch.drv zx8mhw8snlvkl3v16nzpmz23wsksdc50-gnu-install-dirs.patch
-CA: text:sha256:0hj8xpidg6ffiiy9hnk8jr2wjy0gjqy4s92mhw7c74ggkb319ggn

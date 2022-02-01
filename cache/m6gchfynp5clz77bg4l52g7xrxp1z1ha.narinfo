@@ -1,0 +1,9 @@
+StorePath: /nix/store/m6gchfynp5clz77bg4l52g7xrxp1z1ha-revert-malloc-alignment-assumption.patch
+URL: nar/0wk8nr28zj3cb33sbdym4cf7x80ljvg91916xw95fc93i44x41va.nar.xz
+Compression: xz
+FileHash: sha256:0wk8nr28zj3cb33sbdym4cf7x80ljvg91916xw95fc93i44x41va
+FileSize: 1124
+NarHash: sha256:0vzb2x5yfr529gvxq3sfd1y3i2ryg4bpsnn73f1i9862inmr7ag1
+NarSize: 3144
+References: 
+CA: fixed:r:sha256:0vzb2x5yfr529gvxq3sfd1y3i2ryg4bpsnn73f1i9862inmr7ag1

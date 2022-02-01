@@ -1,9 +1,0 @@
-StorePath: /nix/store/4bp7da88rlfhz30lw5cz8nabzwipfmzf-cargo-1.56.1.drv
-URL: nar/0081xa0sqmsn2b9drmdnlnz2cm5bh9vpnn22bl9pff6zpshsnjvi.nar.xz
-Compression: xz
-FileHash: sha256:0081xa0sqmsn2b9drmdnlnz2cm5bh9vpnn22bl9pff6zpshsnjvi
-FileSize: 2736
-NarHash: sha256:0c53lc04ljmyzx3ap88zlfw39jja5i5sbhwvgk41ixqnn4gklrw5
-NarSize: 6224
-References: 001dh810vm5b1hjlpybrjryxjx2akp10-rustc-1.56.1-src.tar.gz.drv 097zrhg9xpz9vnckba8nvdy8b2kama2j-cmake-3.21.2.drv 2h0l3dkp4zgcwk1r9z74nl9mhid6bqi9-apple-framework-CoreFoundation.drv 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 68ihska4jbky0a6hqpxfhl1slkh671m8-nss-cacert-3.71.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 96d8m8873bi6crdm6iix9wswvzj7igr8-apple-framework-Security.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a19wwxzl1ppfjpycg2f0gxpfj11hnwz1-openssl-1.1.1l.drv b86llh34rw4y5nmbjg5il0gvkkyh8aw8-libiconv-50.drv c2kgmg7fs673l1dfyg9b58qkfi2im328-pkg-config-wrapper-0.29.2.drv gakrjiq6wg1nwgli7r4dnpqwp0vx8p1m-cargo-setup-hook.sh.drv i4j1rvnjid6lsi7zyp006xq47g0na4py-hook.drv lygcg23wxl55r1mfn54xnl0jnhq1qx1k-curl-7.79.1.drv m1wlmhmzbkl0wp46mqal1snprlkhvhcr-zlib-1.2.11.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps q0m24pv6a5mc3fqziv64jvc4glxsy0w5-python3-3.9.6.drv r35nfxx8wlghr345460khfgkka37hpiz-rustc-1.56.1.drv rlbp3vgl7p0374pgcdwxvcda5lqyjbym-git-2.33.1.drv s8kj8315si11i7q2fgn1hd8bgm0k4vyz-cargo-build-hook.sh.drv saksmxcq8symfwx8xvcrcnggw6y3x952-install-shell-files.drv skbws1yba2n0m0iwyyzhbclxmpxsigc8-cargo-install-hook.sh.drv x5lzc6af6wsqjqh7gykfr7dpb0130nlr-rustc-bootstrap-1.55.0.drv yjcxq7jcn3c73w565gis9kik9brp2bdd-cargo-check-hook.sh.drv zpvpablyb43367lv3r5dziy476qxy7hs-file-5.41.drv
-CA: text:sha256:0fk8fmvd5spmpldl9dbja3pswn9i6v3kxclq8jhapckvv557skvy

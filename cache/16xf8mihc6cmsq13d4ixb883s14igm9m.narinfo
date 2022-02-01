@@ -1,0 +1,10 @@
+StorePath: /nix/store/16xf8mihc6cmsq13d4ixb883s14igm9m-libmaxminddb-1.6.0
+URL: nar/05j04m1l23hp6hq8r91s81af45sf6d1j8xd9apb17d5ly3n0svy8.nar.xz
+Compression: xz
+FileHash: sha256:05j04m1l23hp6hq8r91s81af45sf6d1j8xd9apb17d5ly3n0svy8
+FileSize: 27132
+NarHash: sha256:0wip6wfr24r311rk6k9pzw2fav8dsvz1ig6g03bk053pxwgp9gsf
+NarSize: 69752
+References: 16xf8mihc6cmsq13d4ixb883s14igm9m-libmaxminddb-1.6.0 8shn81yh43cpp589dax54qicvm4dhlw5-swift-corefoundation-unstable-2018-09-14
+Deriver: j9jk56axhp4h4kka49siazflzhl86pfy-libmaxminddb-1.6.0.drv
+Sig: cache.nixos.org-1:/KqoufWaIpkJ1D9z3vJERVjMcy0/97dZhe7sL6iFp2OI2XblqawokADYjgopQCoVK+ImcnhhT16E4CS0dC0iCg==

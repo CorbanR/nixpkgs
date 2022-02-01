@@ -1,0 +1,9 @@
+StorePath: /nix/store/k16zzb6hwwzfl3ihld97ginfikyipwbg-sharutils-4.15.2-Fix-building-with-GCC-10.patch.drv
+URL: nar/05g6bm427rfs8ic5sm8n2g14nwj18mx99y81gffpqny6mscyphgd.nar.xz
+Compression: xz
+FileHash: sha256:05g6bm427rfs8ic5sm8n2g14nwj18mx99y81gffpqny6mscyphgd
+FileSize: 1856
+NarHash: sha256:1czsrvi7h9464x2pd71bffzhhljkcmgrbzlnr7pk9rpb181si3mw
+NarSize: 4504
+References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 91rp7f409n4midar97qc82pslnig01sm-mirrors-list.drv mpaq3pcyg2x5hva4j0v64ahfgq53nqai-curl-7.81.0.drv q473vgw2y79nfi8jhlbh6mkfkw5spnmc-patchutils-0.3.3.drv wmn3nh4qkdxva3lszwsmfn3dr6d4nbam-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:035q3rzz9v5cp08p9khm73l14sx8ynd6bi8l4pqnmjjja63nii7n

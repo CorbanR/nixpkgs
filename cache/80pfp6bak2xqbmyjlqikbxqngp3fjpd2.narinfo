@@ -1,9 +1,0 @@
-StorePath: /nix/store/80pfp6bak2xqbmyjlqikbxqngp3fjpd2-libXft-2.3.4.drv
-URL: nar/1aw0smm9xhzrig0600g6f0hcvmm5pbff5chy0qsfcbyv8xi8dp8l.nar.xz
-Compression: xz
-FileHash: sha256:1aw0smm9xhzrig0600g6f0hcvmm5pbff5chy0qsfcbyv8xi8dp8l
-FileSize: 1508
-NarHash: sha256:0c85y68i3gzk1w5nzk655ffg2pywmxqqf8rprgn01drl2ckiyg2c
-NarSize: 3448
-References: 06svm9mbhsh67g7bg4qf6kkadgfigld5-libXrender-0.9.10.drv 0z6sssgg8qkxhg1aqjas8hp7bhf51yc4-xorgproto-2021.5.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 7pcfpccpyjn488n3s4kqlj763g3g2bfl-libX11-1.7.2.drv 8zz7dkh804g0hpwr4s2s3gzfsi6nha2z-723092ece088559f1af299236305911f4ee4d450.patch.drv 9k4p6hfpp4rq92xjgg51m0f8w6fk89vr-e0fc4ce7e87ab9c4b47e5c8e693f070dfd0d2f7b.patch.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv hm952mj53gcj2bcc1x7pqvcl8ypab1f1-freetype-2.11.0.drv n0iq0877cbfddlh14bx01gnak1c3x3yq-d385aa3e5320d18918413df0e8aef3a713a47e0b.patch.drv p94x86k86yvryqjm498ymzl041zc2inl-libXft-2.3.4.tar.bz2.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv vh1cpdrgrbipscys6lzr0sfcamr0r2vk-builder.sh xx8dmc5fgwwqr5lyidbknckgyap76r0r-fontconfig-2.13.94.drv
-CA: text:sha256:1f7fg318v98b9m9nakc79isfxqjkffc9p58hj2cvr7zxqb4vnh7l

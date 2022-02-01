@@ -1,9 +1,0 @@
-StorePath: /nix/store/bhmp3c1nq0djg9qbq8l9ra8m82dafrsh-bzip2-1.0.6.0.2.drv
-URL: nar/0baghdhqvqyy7vdk31jsixfa4fws333sv3lb9dhgs0pd95rkmw7a.nar.xz
-Compression: xz
-FileHash: sha256:0baghdhqvqyy7vdk31jsixfa4fws333sv3lb9dhgs0pd95rkmw7a
-FileSize: 1128
-NarHash: sha256:1dvd2xbs4irzcj9xnxj3y662qr6a5grsa8zbh06vd94hxfk5n06l
-NarSize: 2752
-References: 37rzafvq6afpwxbw4pzv337alfs8jjiy-bzip2-1.0.6.0.2.tar.gz.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9dxkg65p0k6k9yv7rw43aylrgf8gjk4z-bootstrap-stage3-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh r8acyr4xb2yw1k73qjzm9sxmpws27gjr-CVE-2016-3189.patch rym6yd37gbs3c4q5wrsys2xi0cwdzjl4-hook.drv wnf28g32lllbi3i80n97gyzfj2sf9zyx-cve-2019-12900.patch
-CA: text:sha256:00dld9a638j6jg00m12f6cm5k7fsgq7mcy3w11cid3vsj0gdfg51

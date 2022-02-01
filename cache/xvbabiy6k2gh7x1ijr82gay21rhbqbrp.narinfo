@@ -1,0 +1,9 @@
+StorePath: /nix/store/xvbabiy6k2gh7x1ijr82gay21rhbqbrp-apr-1.7.0.drv
+URL: nar/1jrrx1p8p4cc40xa4a4ixwlnzlpl59dw6dfx5kzf1ny9lxving5z.nar.xz
+Compression: xz
+FileHash: sha256:1jrrx1p8p4cc40xa4a4ixwlnzlpl59dw6dfx5kzf1ny9lxving5z
+FileSize: 1272
+NarHash: sha256:0p4vz9k0p0y8l65fl3d10z4vs0fy95wjjxj9rr87vy97mgvgi4q5
+NarSize: 2864
+References: 43ds67vp5izxrfdq2a2bi49zx81gqj05-866e1df66be6704a584feaf5c3d241e3d631d03a.patch.drv 84k6dndzi8rszl2wd62x9xfprf3a24kd-374210c50ee9f4dbf265f0172dcf2d45b97d0550.patch.drv 9a9rhf47arwz2nb51chcskbk98b95d6b-CVE-2021-35940.patch.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bglbnvl838py148kbyff7kxhqw69fyva-apr-1.7.0.tar.bz2.drv s3j6in1jjqr1b24x64ja6q2b3hz03nfq-hook.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv z0c9wp9jsql77z7z2s8nm3r9n0c7aiax-is-this-a-compiler-bug.patch z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:0s7ivdviilds2f9i217pbg5qh0nxx0a2c4cpkacwpvhwxgwvwnph

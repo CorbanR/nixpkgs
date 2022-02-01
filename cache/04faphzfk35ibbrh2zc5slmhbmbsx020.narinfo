@@ -1,9 +1,0 @@
-StorePath: /nix/store/04faphzfk35ibbrh2zc5slmhbmbsx020-sed-4.8.tar.xz.drv
-URL: nar/13wbyrh86zcs8m842dy54j3c680x9v2hsfr1jsbpdgy830a5zi76.nar.xz
-Compression: xz
-FileHash: sha256:13wbyrh86zcs8m842dy54j3c680x9v2hsfr1jsbpdgy830a5zi76
-FileSize: 1304
-NarHash: sha256:110kjqzvmg7bnx2n96krd0w9s8r4mdm63dc1yi03c8dvg0qql3kb
-NarSize: 3080
-References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
-CA: text:sha256:1fxkz3pmjzda83s43avj3nggmyqkdysj61md1ci4m3w93aqrdqs5

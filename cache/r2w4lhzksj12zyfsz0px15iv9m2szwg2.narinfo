@@ -1,9 +1,0 @@
-StorePath: /nix/store/r2w4lhzksj12zyfsz0px15iv9m2szwg2-gi-docgen-2021.8.drv
-URL: nar/0vhcxcnz0rz72g73k8d2rv0y5kd96capb6fhs45sdsiarp8p00i3.nar.xz
-Compression: xz
-FileHash: sha256:0vhcxcnz0rz72g73k8d2rv0y5kd96capb6fhs45sdsiarp8p00i3
-FileSize: 1976
-NarHash: sha256:02fixcf43gajb4viq3bphf9a04ybjg3p8pgfv77r4zr3cc8z7la3
-NarSize: 4896
-References: 25r43zxbvzxi95m1wraprx92528jyim5-python3.9-Pygments-2.10.0.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 65ja89nfb2zl29vghqmxsj4cwlyd2lys-python-namespaces-hook.sh.drv 67mdf59hhgg8q4yxqvfhawpk59sh3yr9-python3.9-typogrify-2.0.7.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv bk1nj9mffqxxiwg42ml7j0ar3xj6n7kk-python3.9-Markdown-3.3.4.drv byrf5agdn1q7ka5s53xnzpv6b2pyn66p-hook.drv c2y93ncjfr22hf735hybf48ldfrx6bjr-ninja-1.10.2.drv gdvnwf06ip4s5vp2krxh80brk3ywdp5q-python-catch-conflicts-hook.drv glhb4241ljzpzs1qd21gn9cykvpwda0a-source.drv gwmqv5jxlipbxhb8d3azbkfs2ih6x3j7-python-imports-check-hook.sh.drv gx6jxb2s6rxca8b881m2bv2ngcm351s6-python3.9-Jinja2-3.0.2.drv gzs0mqf9zp406gs8r8zm8yg3x2dp8dhy-python-remove-bin-bytecode-hook.drv iz3qiggndvpzrlh2sbmi9dsnp20v90rh-hook.drv kz90z82gkf97sz7zqksv5py61pmcxwdy-python3.9-toml-0.10.2.drv mngjqd9v6dgfrxrr47d7nzfp7vm3c5iy-python-remove-tests-dir-hook.drv mv2dxaa2v1g7d9gjdpnqhimn9bcfq930-python3.9-setuptools-57.2.0.drv rnp90516sm5ms3lrpw2wx194im4wgni0-72f3c5dbe27aabb5f7a376afda23f3dfc3c2e212.patch.drv rrbgzhqb7fhxx7rvvimfzkhj1jh289mr-python3.9-markupsafe-2.0.1.drv xfbzw9mbi5cjfx3qfs1yardhmi515zdq-meson-0.57.1.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv
-CA: text:sha256:04xfsa42k67747r4acccmda07996sjfb6bw68s1gd246cm44xpsi

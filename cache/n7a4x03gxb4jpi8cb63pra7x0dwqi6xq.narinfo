@@ -1,9 +1,0 @@
-StorePath: /nix/store/n7a4x03gxb4jpi8cb63pra7x0dwqi6xq-ruby2.7.4-asciidoctor-diagram-plantuml-1.2021.8.drv
-URL: nar/0y72hm96q1lcfh0vpfarhqxm4j12cn65k9k22krvyxj4xqin8g61.nar.xz
-Compression: xz
-FileHash: sha256:0y72hm96q1lcfh0vpfarhqxm4j12cn65k9k22krvyxj4xqin8g61
-FileSize: 2168
-NarHash: sha256:1szg62ybd1m30z3bj32m0fgmf6chybz2ybdq3ch4z3kww46mf4ln
-NarSize: 5056
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv lddb4nzfkd9kxhlaaad83yfkxp32mjjw-ruby-2.7.4.drv lg82bql6xj2w77z3p89dyc4x5mqqdw6v-asciidoctor-diagram-plantuml-1.2021.8.gem.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb
-CA: text:sha256:0mnh19pz9baanxh9fb740swyf8x9h2dj6w26xp052kx8xpvfpcq8

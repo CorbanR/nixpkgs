@@ -1,9 +1,0 @@
-StorePath: /nix/store/rbkak9zf77ay95nqzdzpp90zng69dn2h-swift-corefoundation.drv
-URL: nar/06iswjic4agrx8d5f71b9n2f20blx33kki3ji603aj66gika6z78.nar.xz
-Compression: xz
-FileHash: sha256:06iswjic4agrx8d5f71b9n2f20blx33kki3ji603aj66gika6z78
-FileSize: 2548
-NarHash: sha256:0ns5z8xhijyr2n4sjmcmzssw4bfp7011i0mvdqn2zbfqx7srigx6
-NarSize: 5600
-References: 16myxz45jalckakvmm83mmdr4zmj690j-ICU-66108.drv 1s2nhf5cgf6vi6x0k76nhwadc0v8ljrb-curl-7.79.1.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh argyg04caz07i6rl8kbbd3la5385g5ja-source.drv bk3ddd0pbplkzsdccj0vbjhnx33pcif6-bootstrap-stage4-stdenv-darwin.drv d76j6111kn1gc6lfvsdlb62brjawivji-libxml2-2.9.12.drv jzml5d8i6bn0d5yhimyg56iwlippiz49-CFSystemDirectories.c.drv qmamd80bd7w7ylhl42kinlrl67ssap21-objc4-709.1.drv yskbwr1w84y85s72afd1mn6my3x9lb11-python3-minimal-3.9.6.drv z5q3xc3ws70d2158n2c2pxzfm1xz8wbq-ninja-1.10.2.drv
-CA: text:sha256:0w155ihffdyix41178ah59fpa3xqmnpjg9ykm6zx16a7k81w85i9

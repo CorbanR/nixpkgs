@@ -1,9 +1,0 @@
-StorePath: /nix/store/d82jjd4xrb5x19h8cy353i7y8lqbj1rr-perl5.34.0-XML-SAX-1.02.drv
-URL: nar/09vwwb0xy1kca91iz13vykp4c7hizx7iyi4zcw1rbg0220gsgby0.nar.xz
-Compression: xz
-FileHash: sha256:09vwwb0xy1kca91iz13vykp4c7hizx7iyi4zcw1rbg0220gsgby0
-FileSize: 1064
-NarHash: sha256:0j5srmi70fngfvl96jhhj5fvx8kqkp1sbl981glnczn4djnnxj4q
-NarSize: 2488
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv hzvk1xr398pvmhzraa8c81a4rgnc4b7c-XML-SAX-1.02.tar.gz.drv lwqajdqzcd2advf8n10j29q8nlf7rn0f-perl5.34.0-XML-SAX-Base-1.09.drv lzb1mg6jy5y42mr70m2xiybnanlpa1f6-perl-5.34.0.drv qf3mzpvsmkrw963xchbivcci06078n13-builder.sh xhg7pspnm0mk9kfcdpdha2ywh91qlg7b-perl5.34.0-XML-NamespaceSupport-1.12.drv
-CA: text:sha256:0jkhflfida3x9l9dif005185iv3sq5nkw770pwxs2z6wqcv2r1r4

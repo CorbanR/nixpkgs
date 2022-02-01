@@ -1,9 +1,0 @@
-StorePath: /nix/store/hk2s3abihvmix37zcyrwzbvnh7nfgg20-gettext-0.21.drv
-URL: nar/19nqaycli9g918h9jn4y47q7kp8kc9dbvn2cwkf3fjyi5d1v5pc9.nar.xz
-Compression: xz
-FileHash: sha256:19nqaycli9g918h9jn4y47q7kp8kc9dbvn2cwkf3fjyi5d1v5pc9
-FileSize: 1440
-NarHash: sha256:0hsrf1ghabcm27q7vq6fz9b1jzhwivx731x4ddkv1bw3kvn0f91b
-NarSize: 3448
-References: 02hvx9pf1i16zjyr9lsxnsrnp87kdi3x-xz-5.2.5.drv 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b86llh34rw4y5nmbjg5il0gvkkyh8aw8-libiconv-50.drv hjhlfligx52adl2hfmn8l1p3avinq6di-gettext-0.21.tar.gz.drv ny42y6hs4p294rvnrwbmrpwzqghw2816-gettext-setup-hook.sh p2fp6i7hjx9af1wbwr32k217wp2dxmiw-absolute-paths.diff qy5734q2z2n8q2jdkywc78x37wh3vsis-role.bash
-CA: text:sha256:1m591maa6xfndffyy0p4vqlrbx1v1x8xy6ib3b1m6syz5s2ndqr8

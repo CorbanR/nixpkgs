@@ -1,0 +1,9 @@
+StorePath: /nix/store/aqkzs763cz5maqbkjc8hd48j1v13qkxk-libtool-2.4.6.drv
+URL: nar/0g96f2zy2d7x285y5bhmd8jjpvjqx14wvia5hhc8banf8qys0mym.nar.xz
+Compression: xz
+FileHash: sha256:0g96f2zy2d7x285y5bhmd8jjpvjqx14wvia5hhc8banf8qys0mym
+FileSize: 1172
+NarHash: sha256:1hc66v6qm4g34xdq8c635ailblnj02f01wmwzn2bagbvp4yr411j
+NarSize: 2720
+References: 0pc18b91az604bmggly2891hgrjd9qbf-libtool-2.4.6.tar.gz.drv 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c2hvzjl7x004hjiwf3c10r15s6c1gjs3-autoconf-2.71.drv hvqwd1wxqy88vcxgjk71590111igywk4-gnum4-1.4.19.drv i7c17r95b79hpjqy0243wbxigwlglf44-help2man-1.48.5.drv kcv3va56gv3ihhcqfplqll4zb99kfxx8-automake-1.16.5.drv p9lgv0y8lngigmxr2451pc0nkw06vsxx-perl-5.34.0.drv xq30c2gx2ir2zn234m7yj8igawc3jnb6-libtool2-macos11.patch zw0af42x7y1z3727905gx3dalp3gbk48-bootstrap-stage4-stdenv-linux.drv
+CA: text:sha256:1jip11ypc5p1zm1v0sv4h3l0nmw3r3jal4xw2ql0rfjwrhqpdmz3

@@ -1,0 +1,9 @@
+StorePath: /nix/store/q4hgnna6hdmxvg1f0dragb7dzj1ax3mk-nghttp2-1.43.0.drv
+URL: nar/0mg1rjf4hdfxv9nxiap3cmbrpzk24h9dvcpm344pydhn0h6r8i4c.nar.xz
+Compression: xz
+FileHash: sha256:0mg1rjf4hdfxv9nxiap3cmbrpzk24h9dvcpm344pydhn0h6r8i4c
+FileSize: 1316
+NarHash: sha256:0nlw750irm0dkv4sy1377f6yyv2g1wq4fl3frk59573816pgrnj2
+NarSize: 3064
+References: 20shzfjhcgv2v4vsby58jns78vhgb5nf-pkg-config-wrapper-0.29.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ffz1hy5yi17gn6xds5w2xh5dj2qfywgg-c-ares-1.18.1.drv jjsl2ag3zpkspc1xlxk198pggbn26ffb-nghttp2-1.43.0.tar.bz2.drv m3nmw41v6xzyqc6h91kxbl4fjzgnnpp1-openssl-1.1.1m.drv rjv7zgqvvfrigdzha2m5kyglh1l9qpxc-libev-4.33.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv zk2mfxirbjcmdk97fh3krdgb4ab8x4bb-zlib-1.2.11.drv
+CA: text:sha256:1hvyqgmg4mr4cm4jwc1ipqs4fgq5g06ws81g9n2kymxwm0nnzhq2

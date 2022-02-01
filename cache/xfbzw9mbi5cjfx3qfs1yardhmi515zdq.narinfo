@@ -1,9 +1,0 @@
-StorePath: /nix/store/xfbzw9mbi5cjfx3qfs1yardhmi515zdq-meson-0.57.1.drv
-URL: nar/10zvliw8r5zzjy4qmd8a00px9fyn37ra48g6x5vlkci51jiy9z1q.nar.xz
-Compression: xz
-FileHash: sha256:10zvliw8r5zzjy4qmd8a00px9fyn37ra48g6x5vlkci51jiy9z1q
-FileSize: 1992
-NarHash: sha256:01d1ha83wkrkn2q0l7w2q49nmvcbcfd3fyqm95qr4v85g6myqnp6
-NarSize: 4720
-References: 3svm27g4dzszav6sb3nnsh85g6hgpaz2-clear-old-rpath.patch 5cw3wiwh2xhmigk21fr058w68yyci3if-setuptools-setup-hook.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 65ja89nfb2zl29vghqmxsj4cwlyd2lys-python-namespaces-hook.sh.drv 79dkzf2vf4qpcnz0r2ycwy2l53xkvayr-meson-0.57.1.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv ad06j8m1fy1snrdy3kk3pl73jxrz0bhn-boost-Do-not-add-system-paths-on-nix.patch byrf5agdn1q7ka5s53xnzpv6b2pyn66p-hook.drv dbscxvh92gc2dlsn5prrzsf3ndhvjsk1-install-shell-files.drv gdvnwf06ip4s5vp2krxh80brk3ywdp5q-python-catch-conflicts-hook.drv gsi8l918lrrxymgb6p071489bbkrvjab-gir-fallback-path.patch gwmqv5jxlipbxhb8d3azbkfs2ih6x3j7-python-imports-check-hook.sh.drv gzs0mqf9zp406gs8r8zm8yg3x2dp8dhy-python-remove-bin-bytecode-hook.drv iz3qiggndvpzrlh2sbmi9dsnp20v90rh-hook.drv ldyzphv9ysmbq6k47h6zw01a8z6rsggy-pip-install-hook.drv mngjqd9v6dgfrxrr47d7nzfp7vm3c5iy-python-remove-tests-dir-hook.drv mv2dxaa2v1g7d9gjdpnqhimn9bcfq930-python3.9-setuptools-57.2.0.drv p1qwpq5615yrbcy7xh5kw0v5hn52w9zy-setup-hook.sh pza7hhm23l5qlkb633di8mrf67jp9lbr-allow-dirs-outside-of-prefix.patch rcpbnsa5c6w263vw8wb493ky2wqzfvji-fix-rpath.patch.drv wzyi77d3vfi4g88qbkpj8wm4rzhg3hj6-more-env-vars.patch xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv
-CA: text:sha256:16h4ap6dwsxvff7pgffxvd49ri1gzi0d9j751hzfsih1ybnnwzjb

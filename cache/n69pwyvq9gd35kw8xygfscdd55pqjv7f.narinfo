@@ -1,0 +1,9 @@
+StorePath: /nix/store/n69pwyvq9gd35kw8xygfscdd55pqjv7f-lzip-1.22.drv
+URL: nar/01vbnp4qz3yhag7zqg7j8slxzywhr3fjpv3yf7wx54qci6x20gyx.nar.xz
+Compression: xz
+FileHash: sha256:01vbnp4qz3yhag7zqg7j8slxzywhr3fjpv3yf7wx54qci6x20gyx
+FileSize: 956
+NarHash: sha256:1w6ypgii7sa5gd3s6ss0mfnq0k6qdqyv2yq6nl6m78vvz99lfkzk
+NarSize: 2128
+References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh as0qbm62dx6v3kwwmfk3jnlfjfvq8y91-lzip-1.22.tar.gz.drv gp0lvvf0pllr4i0436l9amxs4p3ww6ka-texinfo-6.8.drv h2fcbw7ghgn3i4qadszdp272w4dab7ln-lzip-setup-hook.sh rpiackywakmkarc3ahab2ja3sf5frgsn-bootstrap-stage1-stdenv-darwin.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:1r6a918mxp3lkppgfdm1ajipkay48874md2xf6yk0d7vrz8s60qf

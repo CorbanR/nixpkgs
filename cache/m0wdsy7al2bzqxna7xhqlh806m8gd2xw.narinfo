@@ -1,9 +1,0 @@
-StorePath: /nix/store/m0wdsy7al2bzqxna7xhqlh806m8gd2xw-CVE-2020-35492.patch.drv
-URL: nar/1jz3qhhy1dd7dsm6h4pb71b68zcpb8rpisl5rrryd51mhxzgcx18.nar.xz
-Compression: xz
-FileHash: sha256:1jz3qhhy1dd7dsm6h4pb71b68zcpb8rpisl5rrryd51mhxzgcx18
-FileSize: 1776
-NarHash: sha256:1aprlfpaw6mjxck7jp4xl28nsp17gzfbi92xy12x4shjawd8z00k
-NarSize: 4208
-References: 1151zln3c3j1q6f5jdm5c6509n1rf9y9-curl-7.79.1.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 93g01qi589sgyhyim0rcii7j945yma6a-mirrors-list.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv j2x2lsbacglr9zgzl6abp8sd2kf2j4j7-stdenv-linux.drv sqh0637bkzsxk3wif4vqr8zv1x0ss2h1-patchutils-0.3.3.drv
-CA: text:sha256:01chjmz2mnv2ap1vyqpx6vj1aj6wqf1n1d2z97gjm9bqjv9a8w5x

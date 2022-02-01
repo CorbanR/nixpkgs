@@ -1,0 +1,9 @@
+StorePath: /nix/store/32710qj8kr8a9rf4paknck593cz81s2l-snappy-1.1.9.drv
+URL: nar/1zv7yw7d4w10fx319n6jsqx3xxxw7579dli2daqy8nc56h3x5y8x.nar.xz
+Compression: xz
+FileHash: sha256:1zv7yw7d4w10fx319n6jsqx3xxxw7579dli2daqy8nc56h3x5y8x
+FileSize: 1360
+NarHash: sha256:1kf3ri38054m9s906x8kp53amp9bcv7c9d2yv3bs52n07jjz0hyj
+NarSize: 2896
+References: 0qz7pgmr79z1mrb422qawh9nlhs78y6s-reenable-rtti.patch?rev=a759aa6fba405cd40025e3f0ab89941d.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv wfh6p2lv903in87ry8j91rbawfrfi4bs-cmake-3.22.1.drv xy8lsdy2k3qr48h15694vwsykbpqgp9i-source.drv yyvxkxqjxgr8cwzv893r2x7m8y4bgxmq-clang-7-compat.patch.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:0gd1svck45gmn2fy2s5pn0frqz1p8rzylpi6yx0109jix0prnbfd

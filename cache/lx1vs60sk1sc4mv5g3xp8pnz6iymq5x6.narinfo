@@ -1,9 +1,0 @@
-StorePath: /nix/store/lx1vs60sk1sc4mv5g3xp8pnz6iymq5x6-cairo-1.16.0.drv
-URL: nar/1r9abwnlg2whnccq49jnxpzj1s2i4c0156fclvylj3mfgn72dg9x.nar.xz
-Compression: xz
-FileHash: sha256:1r9abwnlg2whnccq49jnxpzj1s2i4c0156fclvylj3mfgn72dg9x
-FileSize: 2200
-NarHash: sha256:1r5v6ss9xynvpws2767w47a0csvmm7ai0lc0gx8v6haa3a0mhdsf
-NarSize: 5080
-References: 06svm9mbhsh67g7bg4qf6kkadgfigld5-libXrender-0.9.10.drv 2kp5gyca7yipnkl4yfnkqzl0m8pk7gwm-libGL-1.3.4.drv 4jf6yk0iz1rifyfg3k7nba3g88dj3fh4-separate-debug-info.sh 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 8lm3c7p4zwi92njm2g4pz4lfshz9ymgi-libXext-1.3.4.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9prawvbyc1a6g6lrhhal9dchacrxsgfb-xcb-util-0.4.0.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv aabk07zyrnchafakm8r27skpqldlqi4q-glibc-iconv-2.33.drv b7kv66q132ciihsi766kwhr1aigbbnir-pixman-0.38.4.drv bc2mcbfbncjhcgkbvf5081jg419wvb0q-5e34c5a9640e49dcc29e6b954c4187cfc838dbd1.patch.drv cpnw58zn8llcv5lh7vw2fxb0ip697446-glib-2.70.1.drv ds2ddk6h32j123s9n7ipgvir66lmvk8s-libxcb-1.14.drv hm952mj53gcj2bcc1x7pqvcl8ypab1f1-freetype-2.11.0.drv hz69xcnj5czgh0ky2jd76rriqna68z3h-CVE-2018-19876.patch.drv ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv ing6g8am6sfzi2dsz3vdj5f3c3gq9d26-expat-2.4.1.drv m0wdsy7al2bzqxna7xhqlh806m8gd2xw-CVE-2020-35492.patch.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv s96m1yg1zh4x1k9c0lswnrrn8dyixfc0-libpng-apng-1.6.37.drv xx8dmc5fgwwqr5lyidbknckgyap76r0r-fontconfig-2.13.94.drv zp0gq0a1c8m736mvy1cv4063hcgbjx52-cairo-1.16.0.tar.xz.drv
-CA: text:sha256:02andavr5mw1dhzv6cv4hwkcc077yrqggf64fzxia9a8anpybfnl

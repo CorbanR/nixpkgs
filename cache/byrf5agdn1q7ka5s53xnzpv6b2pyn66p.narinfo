@@ -1,9 +1,0 @@
-StorePath: /nix/store/byrf5agdn1q7ka5s53xnzpv6b2pyn66p-hook.drv
-URL: nar/0jm3g7f4l2img2r7d7hb512317zy298brb25gcpz40m2b9asyqqs.nar.xz
-Compression: xz
-FileHash: sha256:0jm3g7f4l2img2r7d7hb512317zy298brb25gcpz40m2b9asyqqs
-FileSize: 716
-NarHash: sha256:0r9wgxak9qsxsjqslxw3zx9v4c5pqkjg1sg4qs7929jgl5j283jc
-NarSize: 1520
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv a87z457hng1vyfhib5nv27j6pjry475f-ensure-newer-sources-hook.sh.drv j2x2lsbacglr9zgzl6abp8sd2kf2j4j7-stdenv-linux.drv
-CA: text:sha256:17p6n3bh150fxqw95kxzh80m1wma5prpan7ixp49yd1rjhsqil2x

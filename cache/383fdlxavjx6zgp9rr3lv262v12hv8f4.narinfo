@@ -1,0 +1,9 @@
+StorePath: /nix/store/383fdlxavjx6zgp9rr3lv262v12hv8f4-libcxxabi-11.1.0.drv
+URL: nar/05j47rgwk62zdiq75yfwa5z2p0d7i6ra826ixg99qjsgmrh8aj87.nar.xz
+Compression: xz
+FileHash: sha256:05j47rgwk62zdiq75yfwa5z2p0d7i6ra826ixg99qjsgmrh8aj87
+FileSize: 1428
+NarHash: sha256:1fpsnjp624q4xbki6i17x60snyf0szn7hvlq955sx71m71y1i74v
+NarSize: 3224
+References: 1qzjmidbadswg2qb7z7qvax1ni525gis-llvm-11.1.0.src.tar.xz.drv 24a06br9jvy87sbanym8hijfq4j2dsqm-no-threads.patch 6nsis38x60bjyb27v8krvnb65s7v5dsf-bootstrap-stage2-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bg321ia337p5460v8kimzn0g2jy0sxx7-libcxxabi-11.1.0.src.tar.xz.drv il3mvxijf7cc9ys09pcblff47ia93kk2-gnu-install-dirs.patch jdd17v1z764mdnc7c61hw5wnvgijw06v-cmake-boot-3.22.1.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv xdzf15r9kdya8ci4d2li9zm8md23r45f-libcxx-11.1.0.src.tar.xz.drv
+CA: text:sha256:02k7zmbfjaq5fm2l2hsg88pb9yz0p3vxabz5rvh9qhbg95fxvv14

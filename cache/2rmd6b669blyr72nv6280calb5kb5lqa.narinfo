@@ -1,0 +1,9 @@
+StorePath: /nix/store/2rmd6b669blyr72nv6280calb5kb5lqa-rustc-bootstrap-1.56.1.drv
+URL: nar/1a0pkh571b4ymkvssf1fk351ry4cdqf87gd37jsr7zhhy557x8cp.nar.xz
+Compression: xz
+FileHash: sha256:1a0pkh571b4ymkvssf1fk351ry4cdqf87gd37jsr7zhhy557x8cp
+FileSize: 1248
+NarHash: sha256:1znkrls1h9am0axq5ya5cwkbb6yx2g0rxj1zs508pj6xqqqhjy81
+NarSize: 2600
+References: 00j1p8zd06bldjx6kjmnlrw888vx239h-apple-framework-Security.drv 83dj337d5sbcwwp8lww2yd0hj0yr2sny-rust-1.56.1-x86_64-apple-darwin.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv skyp8xs2584fkc44ki1cim9ag55wbi68-setup-hook.sh z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:0il84ribznlrda7ahkp701sg6j46sl0szjz7aflba5h8jfrcr7p8

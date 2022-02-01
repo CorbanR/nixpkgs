@@ -1,9 +1,0 @@
-StorePath: /nix/store/dqac00gm0klh3nazjxqgxrwprfh04vv6-gdbm-1.20.drv
-URL: nar/04a5l5d3jm17jvb3pk3z70170z1mh524dvf8wacwfck17qpvj7gf.nar.xz
-Compression: xz
-FileHash: sha256:04a5l5d3jm17jvb3pk3z70170z1mh524dvf8wacwfck17qpvj7gf
-FileSize: 784
-NarHash: sha256:098nmnk1hv3n1gdgx17k9dc6xiyxa9i2073mqvy0c2wdswzhbys5
-NarSize: 1704
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv vfmfhzk1z7xxnlh2c3d08ja4gifmxw3l-gdbm-1.20.tar.gz.drv
-CA: text:sha256:0kvh53q8n0aqg60lcr8z576q70sm8297gi4zwif6qfgdhyspvqnq

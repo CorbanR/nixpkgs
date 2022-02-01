@@ -1,9 +1,0 @@
-StorePath: /nix/store/rjsrwk4dar4l8mlsj6rmf6szy5j6asl2-nss-3.71.drv
-URL: nar/0fz6ph6h39k6gzqvvskk0avhfqbzfhf3b7vyb1cf0dp12199znc1.nar.xz
-Compression: xz
-FileHash: sha256:0fz6ph6h39k6gzqvvskk0avhfqbzfhf3b7vyb1cf0dp12199znc1
-FileSize: 2736
-NarHash: sha256:0q8kgccnzh2idl687jni066aj93nn8v1nk3d8ag9hlsha33w1al6
-NarSize: 6488
-References: 0aar5jbbby5lpqwdy99ydn4cm6qix6gq-p11-kit-0.24.0.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 8507i96in9cj0ify2q1c3alb1ygh757g-nss-3.71.tar.gz.drv 8xxchkb6r8qp143mmy7szrsd08dfc5sv-gcc-wrapper-10.3.0.drv 94bn12b3yljpj8cbwvjk6wii7c7s0lha-nspr-4.32.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv a5skdyvh7a4iap5bpvlrxfq68y330xli-fix-cross-compilation.patch c2y93ncjfr22hf735hybf48ldfrx6bjr-ninja-1.10.2.drv d1nqisym0lc34g1bzn6dc161n28y3i62-85_security_load.patch ghk8nkpph59g6v0m8c4n85vs96sl67l3-coreutils-9.0.drv ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv lzb1mg6jy5y42mr70m2xiybnanlpa1f6-perl-5.34.0.drv my7inv9bw3dzqxc0n67y63sgzm8yhk8w-sqlite-3.36.0.drv vr1gb3ml3w7mnkdf2kv1qfqcdrpk2wc8-nss-3.15.4-pem-support-20140109.patch.xz.drv waizvy58z3m2b8wca635521na79h49l4-python3-3.9.6-env.drv yn8zz3jvnan2p4rd52k4797aznjfmgd6-ckpem.patch
-CA: text:sha256:1rm9isfvkdn9nqaygzs3j4pi8ivsrb3myvjf235frsq0j86sij8i

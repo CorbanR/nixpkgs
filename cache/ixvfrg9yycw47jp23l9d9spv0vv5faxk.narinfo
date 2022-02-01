@@ -1,9 +1,0 @@
-StorePath: /nix/store/ixvfrg9yycw47jp23l9d9spv0vv5faxk-libpthread-stubs-0.4.tar.bz2.drv
-URL: nar/03bvar72v7x9c2lybjqa5k8nys8cbnzi7azwxy1hn5g65y99qs5c.nar.xz
-Compression: xz
-FileHash: sha256:03bvar72v7x9c2lybjqa5k8nys8cbnzi7azwxy1hn5g65y99qs5c
-FileSize: 1280
-NarHash: sha256:19a5rf6azlb3rsxryk6ak0k5dm5x8wlilvh30rvcz0b511kg9mn5
-NarSize: 2912
-References: 1151zln3c3j1q6f5jdm5c6509n1rf9y9-curl-7.79.1.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 93g01qi589sgyhyim0rcii7j945yma6a-mirrors-list.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv j2x2lsbacglr9zgzl6abp8sd2kf2j4j7-stdenv-linux.drv
-CA: text:sha256:19hf8fbvi62rxzdgi16fdg4jg2ki4z0n1jg6sdzbckjav6632bq4

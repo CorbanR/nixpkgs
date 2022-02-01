@@ -1,9 +1,0 @@
-StorePath: /nix/store/b3lmyndqmmr5s6pkliaa6xhwliqamlyj-ruby2.7.4-gepub-1.0.15.drv
-URL: nar/0rc8a094cvf7xqhwfa3kxqz2k8drs8cxqynqb4rdbd2410zm770l.nar.xz
-Compression: xz
-FileHash: sha256:0rc8a094cvf7xqhwfa3kxqz2k8drs8cxqynqb4rdbd2410zm770l
-FileSize: 2300
-NarHash: sha256:107imxiajmakaplpgjam69gy60zbmzqpk7bx6vkby379q8mkq636
-NarSize: 5520
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 7q590hx2niia370zm2fd3glhx6wkjvpi-ruby2.7.4-nokogiri-1.12.5.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv f8liwv61xblh01cz0flzwrksg8k28kdf-gepub-1.0.15.gem.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv lddb4nzfkd9kxhlaaad83yfkxp32mjjw-ruby-2.7.4.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb vin1gck4jr0yykmj8zfcnrgjlgwqq66m-ruby2.7.4-rubyzip-2.3.2.drv
-CA: text:sha256:0xsklbbvvs2xghkg11ya83iky8jswbg7gnkwxiz0zlrl0ankp1cl

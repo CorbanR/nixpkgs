@@ -1,0 +1,9 @@
+StorePath: /nix/store/lxd4zxgiwry8fpb3gfq5bnkrlw1qn3rw-avoid-null-pointer-dereference.patch.drv
+URL: nar/1bda0dayykhbg5z1c7mcz8dgszj73kr0j9i3y52a25sf8axib8vb.nar.xz
+Compression: xz
+FileHash: sha256:1bda0dayykhbg5z1c7mcz8dgszj73kr0j9i3y52a25sf8axib8vb
+FileSize: 1852
+NarHash: sha256:1w33ck8sal5rwkd7i83qcncknn1rrhiqw0bf4z0a301vcgvqvqyw
+NarSize: 4480
+References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 91rp7f409n4midar97qc82pslnig01sm-mirrors-list.drv mpaq3pcyg2x5hva4j0v64ahfgq53nqai-curl-7.81.0.drv q473vgw2y79nfi8jhlbh6mkfkw5spnmc-patchutils-0.3.3.drv wmn3nh4qkdxva3lszwsmfn3dr6d4nbam-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:1z56z7i35g47hvv9h1y2jxz7xldv0j99b9g1jcf1a50pl9vm7awi

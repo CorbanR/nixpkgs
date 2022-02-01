@@ -1,9 +1,0 @@
-StorePath: /nix/store/2qhi8b42f6iwgcql2iizhz1cm5spgqjy-kmod-29.drv
-URL: nar/1xs6cym8ki06p54kjha631v9palamwk6saigylmh780wdbg4hna2.nar.xz
-Compression: xz
-FileHash: sha256:1xs6cym8ki06p54kjha631v9palamwk6saigylmh780wdbg4hna2
-FileSize: 1220
-NarHash: sha256:1s27pr4w1i76w9zd61nfj5mhb7zczj754dhq3iqp8kqqj0wpv5vs
-NarSize: 2552
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 5nv7i5jyv4pzigac7xzkai2q934s0gr0-zstd-1.5.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv i3ldqi56znag6g1rlqzmmn1m8vwdanyz-xz-5.2.5.drv i4q069m3d29gi7dw1ijhjrp4hxw1c2l4-module-dir.patch pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv sdr2mc55r48v00ngy9pfsprknmdg8k19-hook.drv sygmhmxaf8z81wc27lmy6ggyyx4cxrfk-kmod-29.tar.xz.drv y0dwlj2mdkzkz97h08x56as3bqyg92bp-libxslt-1.1.34.drv
-CA: text:sha256:05yx4531my7v21mjhazpdwjrrywlmjj70hx6ap88yc29q7hagz0b

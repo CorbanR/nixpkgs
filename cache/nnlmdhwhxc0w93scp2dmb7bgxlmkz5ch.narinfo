@@ -1,0 +1,9 @@
+StorePath: /nix/store/nnlmdhwhxc0w93scp2dmb7bgxlmkz5ch-log4cxx-0.10.0.drv
+URL: nar/0inlpqv0g4adk22f0wxfnxa3jrk09dsrn21jqvil5v3c21kwdi3h.nar.xz
+Compression: xz
+FileHash: sha256:0inlpqv0g4adk22f0wxfnxa3jrk09dsrn21jqvil5v3c21kwdi3h
+FileSize: 1564
+NarHash: sha256:0b9ik01g2g7rh1haczfh7ykzzdhm1lysqq8mxlhp3mc14ak4hhxd
+NarSize: 3416
+References: 6mglvdhi9pdi132a86g0hy164j2jkqk7-apr-util-1.6.1.drv 75l5y4a1vzv41gwkikchl8l9i86zvbvw-narrowing-fixes.patch 9bf0n241z59r56j6qvv6zbd9rzgldccg-expat-2.4.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cz7frbqav6qvxj2r42xcyyj1f3pcxv9j-cppunit-1.15.1.drv kcaw3rhzvbh02w5wz81xd660cw3hf5vi-apache-log4cxx-0.10.0.tar.gz.drv kk86gkx1g3rfjn1k7hcq53gvjx6ziby1-boost-1.77.0.drv pa9rm9k3a35z6s64kw7qm638nf6gqls7-db-5.3.28.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv x10j3iplms29iw4hyxr1y2b5a9dr19a8-libxml2-2.9.12.drv xvbabiy6k2gh7x1ijr82gay21rhbqbrp-apr-1.7.0.drv xzsvbrwsv82g7ll58na074js9f95dl8n-libtool-2.4.6.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:1p4i1rpigpxy7g7k10wig2z7pszpa80i3vjz5hfzaxdjzirkcgmk

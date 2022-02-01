@@ -1,9 +1,0 @@
-StorePath: /nix/store/16myxz45jalckakvmm83mmdr4zmj690j-ICU-66108.drv
-URL: nar/0sxzjl7244vh574mqvqy4q7wi0zg2rx9cwyzss26ibbyq1apq69c.nar.xz
-Compression: xz
-FileHash: sha256:0sxzjl7244vh574mqvqy4q7wi0zg2rx9cwyzss26ibbyq1apq69c
-FileSize: 1756
-NarHash: sha256:09ckwfgs95ndspk5fnjgl61fwixm7an34lgpil9alin1fcgywxij
-NarSize: 3752
-References: 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bk3ddd0pbplkzsdccj0vbjhnx33pcif6-bootstrap-stage4-stdenv-darwin.drv yskbwr1w84y85s72afd1mn6my3x9lb11-python3-minimal-3.9.6.drv zwfy5ms9my7hs220v46w66zy457vfzbf-ICU-66108.tar.gz.drv
-CA: text:sha256:0ibw0bwkvh04dyh70l76pac92xwlqwfbbwf8f5c80yjq6f7prmjy

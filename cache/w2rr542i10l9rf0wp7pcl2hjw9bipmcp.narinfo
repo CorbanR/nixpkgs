@@ -1,9 +1,0 @@
-StorePath: /nix/store/w2rr542i10l9rf0wp7pcl2hjw9bipmcp-iproute2-5.14.0.drv
-URL: nar/0grpgkfix3qym30g666490ngp0jal4w0aqq0d0vsfwmdcjikpxhj.nar.xz
-Compression: xz
-FileHash: sha256:0grpgkfix3qym30g666490ngp0jal4w0aqq0d0vsfwmdcjikpxhj
-FileSize: 1508
-NarHash: sha256:1prvaj8anva7x9km2a7a1fj1v2dk3sq2kxhkszxwar777nsfhii7
-NarSize: 3264
-References: 1yycjz9fl4yk5iyxhivjc653qpbjhqsb-db-5.3.28.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 8xxchkb6r8qp143mmy7szrsd08dfc5sv-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9vqq05nrzw6nixb58fj4ch5l0dfbm3dj-libmnl-1.0.4.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv cysdrdrhld1jqgcw4igxwm14s50184gg-flex-2.6.4.drv czd7rqfrdsjj72hl0vfqab3slzcgzv78-iptables-1.8.7.drv mddcfk64dgq0i8m26l4zr8a5gs6yahvd-?id=a3272b93725a406bc98b67373da67a4bdf6fcdb0.drv phphnxlagpsfymghlj7y9qvybslscp0l-iproute2-5.14.0.tar.xz.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv s5p3z9vsglmv6kfs0j985p9a72xa7fzd-libelf-0.8.13.drv viaz32nv2qxdygyq2a2c355ys3d95m2p-bison-3.8.2.drv
-CA: text:sha256:1hgnhin0fq9gwz1pcs51pc6yn9y5ny54ns2h18fij81r8kzpg1jc

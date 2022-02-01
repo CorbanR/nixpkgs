@@ -1,0 +1,9 @@
+StorePath: /nix/store/sq3l7ql63yrvbbcyg5vjxqw4vh91xjah-cmocka-1.1.5.drv
+URL: nar/1qz1xq07vzmm96rykz0jqai032s5sc419g1dcfzbfizl3zr09vga.nar.xz
+Compression: xz
+FileHash: sha256:1qz1xq07vzmm96rykz0jqai032s5sc419g1dcfzbfizl3zr09vga
+FileSize: 752
+NarHash: sha256:02b6qsdadxdmy629h8fmfa7whns54202jbbipczrlzp2b3wagc9g
+NarSize: 1616
+References: 21v7lfy95sxmkdy11a1462fr05v31xyw-cmocka-1.1.5.tar.xz.drv 629h5fqpfixh5dfphmck82d9sardwvf9-cmake-3.22.1.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv
+CA: text:sha256:0n3249rvmiqsczkwwld2llmdfss823vrqkj1n6fk6rccgdxm040j

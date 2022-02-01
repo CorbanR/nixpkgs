@@ -1,0 +1,9 @@
+StorePath: /nix/store/434h813hmvrgq4i6x0vlfpkqgvj4xfij-apple-framework-CoreVideo.drv
+URL: nar/0cfxf2612aggp2rzsx9qfc754fprj6cs61faj0yh8g980bcqykrq.nar.xz
+Compression: xz
+FileHash: sha256:0cfxf2612aggp2rzsx9qfc754fprj6cs61faj0yh8g980bcqykrq
+FileSize: 2256
+NarHash: sha256:00dj1rs8vgvd2g9r91cj7a4mqd5nrmqr243icc7n3l69yj7rkiqm
+NarSize: 7160
+References: 2r4cz38px3bjz2hbc2kyrr522dq9k1h4-MacOS_SDK-10.12.drv 99df55sz0cp6pxqnjg4n1fxx92vl73rj-apple-framework-IOSurface.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh aiib9bcyxmm2m6c7xrnx4z0qhxrfjz7a-apple-framework-OpenGL.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh fmprac30x8m5cl98n2s7l2p25lxxlb24-apple-framework-CoreGraphics.drv hjrw7d88l3ar99h7dj71pnz3rkaf28g8-print-reexports.drv phx198c7dmwcnml9q4x39ja4nnpcffq3-apple-framework-ApplicationServices.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv wm9n0rmfxg29k87zqfvyjbpgrh0xm4yf-darwin-stubs-10.12.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:0hh7dyrm3s24z96rwxljgp9049hndr7cmiz7rp36ilvnqgl4sqc8

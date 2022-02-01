@@ -1,0 +1,9 @@
+StorePath: /nix/store/apyz5hi3q1m631b5cch0pcjvdrxr66wj-libxml2-2.9.12.drv
+URL: nar/0zih58f76pmph62rr5is32jzphm77n21m46whmzhabq64h63h5ij.nar.xz
+Compression: xz
+FileHash: sha256:0zih58f76pmph62rr5is32jzphm77n21m46whmzhabq64h63h5ij
+FileSize: 1440
+NarHash: sha256:0ysdp07zdhlbppnl6jqmjg013zrm4dlf9lh0319jz2f9636a0559
+NarSize: 3472
+References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh frr6f2hq56j6b4wc0bsklaqskjsagqc0-utf8-xmlErrorFuncHandler.patch hqd62lz7icwkkdpwds510al0xa27lc4k-85b1792e37b131e7a51af98a37f92472e8de5f3f.patch.drv m4f7axsc7jgk11ca0fswrx21k77bn5is-hook.drv n2d20szf67asfp04m04bcpd42782n18s-libiconv-50.drv sanilcjpqyj6v56iqqfb1ih3m7fkgk2r-libxml2-2.9.12.tar.gz.drv z211qk8mxynspfc748dxp1jqzs96xp9z-bootstrap-stage3-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv zk2mfxirbjcmdk97fh3krdgb4ab8x4bb-zlib-1.2.11.drv
+CA: text:sha256:0ayaw9jmcfa7sfw5xk4l6amhlvz6y3bgh4082gxcqi968a7ps864

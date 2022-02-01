@@ -1,9 +1,0 @@
-StorePath: /nix/store/cf97g5nngj3zhsiacdjqs44107i3f3vr-libcxxabi-11.1.0.drv
-URL: nar/1xyfxjihkbaykwvbwpwx10l4gk2h4hxblqaghrc7m3cnmafbv52n.nar.xz
-Compression: xz
-FileHash: sha256:1xyfxjihkbaykwvbwpwx10l4gk2h4hxblqaghrc7m3cnmafbv52n
-FileSize: 1412
-NarHash: sha256:1807id0ins31d9lpq6s3isavqakyn5j089lzaxxdmjmx6ryim7gs
-NarSize: 3168
-References: 097zrhg9xpz9vnckba8nvdy8b2kama2j-cmake-3.21.2.drv 24a06br9jvy87sbanym8hijfq4j2dsqm-no-threads.patch 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 8g9jw3vbwi2j16ybhs994mszqdmb9s6b-libcxx-11.1.0.src.tar.xz.drv 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh il379jhra5dmxqbqz009k4syzxyvvj1d-llvm-11.1.0.src.tar.xz.drv il3mvxijf7cc9ys09pcblff47ia93kk2-gnu-install-dirs.patch nx32pnfh4gm2xpdakp7s8wnh66h3yk58-libcxxabi-11.1.0.src.tar.xz.drv
-CA: text:sha256:1wyp5gyal06p7p15ygj3494s5qjzw9x1396qvbq6mm0lj4k90v8g

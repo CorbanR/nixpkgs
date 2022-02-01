@@ -1,9 +1,0 @@
-StorePath: /nix/store/pwn5lhh9s71ckiq0h8cr9yf3vzkha2pd-IOBDStorageFamily-14.tar.gz.drv
-URL: nar/1yg1haqqfm3453h9lxv08z74rymvq3b2bia7xydyaw1nwbg0sq94.nar.xz
-Compression: xz
-FileHash: sha256:1yg1haqqfm3453h9lxv08z74rymvq3b2bia7xydyaw1nwbg0sq94
-FileSize: 1332
-NarHash: sha256:1xl0ims754wd2ipcpwh600lcciz7akbgaar11ljm9ndx4mqwibpz
-NarSize: 3168
-References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
-CA: text:sha256:0pzzmvzr8bvpx455djfal935d77nw4m1qsbl2fdq4mzr9fikx5qv

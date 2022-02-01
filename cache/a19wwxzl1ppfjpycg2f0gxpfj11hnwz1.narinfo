@@ -1,9 +1,0 @@
-StorePath: /nix/store/a19wwxzl1ppfjpycg2f0gxpfj11hnwz1-openssl-1.1.1l.drv
-URL: nar/0jpcqs3yj16kkp07vinzg1rk2szyd3q3bq8rh0d99dp3f8z19wrs.nar.xz
-Compression: xz
-FileHash: sha256:0jpcqs3yj16kkp07vinzg1rk2szyd3q3bq8rh0d99dp3f8z19wrs
-FileSize: 1724
-NarHash: sha256:1wzpvk3n63fdc5077g3amqx1qhr5hsnjzmlk6xnqvfppvp9df6il
-NarSize: 4280
-References: 2cqnhs2ds0gn7xrq0zcwbj7gsv6l5xr7-use-etc-ssl-certs-darwin.patch 2q0xyr3mrf2friinplhn5dgcfpbgirhk-stdenv-darwin.drv 3xk9ps0qz073k641b88swpa4fgx3hzwg-nix-ssl-cert-file.patch 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9hwsa67dk65fyaryx7a8lr74ilfb3xxh-perl-5.34.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh df0lmj8q84qygfb68frs7a0z0mrnbnm5-openssl-1.1.1l.tar.gz.drv fbjxr5ksn4nnnkmdi8ib8wr00bkvrkrf-coreutils-9.0.drv zj80b7imvm8s8dsnnnnyyyxmm7bfk0z4-macos-yosemite-compat.patch
-CA: text:sha256:0d5psk0vvmf6k10a7ms7s3dvf7rhhhxkh8fp0qqnc34kr0xjcs1l

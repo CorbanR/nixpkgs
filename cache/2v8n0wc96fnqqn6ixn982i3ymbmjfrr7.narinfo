@@ -1,9 +1,0 @@
-StorePath: /nix/store/2v8n0wc96fnqqn6ixn982i3ymbmjfrr7-net-tools-2.10.drv
-URL: nar/07zqprarvr56c2sja3m54i9i8dirxwrqip73p3ysd43dy7dqm1kq.nar.xz
-Compression: xz
-FileHash: sha256:07zqprarvr56c2sja3m54i9i8dirxwrqip73p3ysd43dy7dqm1kq
-FileSize: 816
-NarHash: sha256:0g8nzb3zhgfmvymxzaf7434y9npxicnbgmh19am47w6735l0vhqj
-NarSize: 1784
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv aqynys6fgbi0ckw30d9anxiyg33qsvyl-net-tools-2.10.tar.xz.drv ifvvs1imzrcrcjnw08pp0g45crbk7w9b-config.h
-CA: text:sha256:0xm3qjws9rs50b1sbip7bdk0qgaw5f1ai991ffffsbcp2m7gci5l

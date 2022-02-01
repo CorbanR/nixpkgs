@@ -1,0 +1,9 @@
+StorePath: /nix/store/iagr7996pkvg5c3xbahpagiblk5a3ai2-libpipeline-1.5.4.drv
+URL: nar/03dx2dgj4baabyc5ypw8a93f4fkn2xdk5v0zvc4jz0a0lm3mmg9i.nar.xz
+Compression: xz
+FileHash: sha256:03dx2dgj4baabyc5ypw8a93f4fkn2xdk5v0zvc4jz0a0lm3mmg9i
+FileSize: 828
+NarHash: sha256:14mdsh79969h90la7k18j3lh6rps5bnhx66psg8salqi3v3wxx35
+NarSize: 1880
+References: 36bhxihx4wa2685f5apsc1bzmvr7mlfx-fix-on-osx.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh rqpy5cmf9zy4d7n1bh7dfp6k1lb8jj79-libpipeline-1.5.4.tar.gz.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:0z7piplx07xd4s7sp3bp7xx1cr9l3kzl2579w2vixj5jq4jhnyh5

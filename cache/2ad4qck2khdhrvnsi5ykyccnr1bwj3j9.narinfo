@@ -1,9 +1,0 @@
-StorePath: /nix/store/2ad4qck2khdhrvnsi5ykyccnr1bwj3j9-ruby2.7.4-pygments.rb-2.2.0.drv
-URL: nar/1kpi5nr88wqaljcxqmz4vjlnrd6qm2hs7s9idw7ygvv7l9xwpws2.nar.xz
-Compression: xz
-FileHash: sha256:1kpi5nr88wqaljcxqmz4vjlnrd6qm2hs7s9idw7ygvv7l9xwpws2
-FileSize: 2152
-NarHash: sha256:08qp63gpchy6yyyxrc9sl6cs2x8z9mr4z0j45fv62nb4dh3s9v1b
-NarSize: 4936
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv lddb4nzfkd9kxhlaaad83yfkxp32mjjw-ruby-2.7.4.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb sj5xaw2vsz354fxycrzjk1fanv29amrx-pygments.rb-2.2.0.gem.drv
-CA: text:sha256:1gfh73r6wnzjkniqjf9dgqsa6x8xg798my21bbl7kd6x80jhmzlp

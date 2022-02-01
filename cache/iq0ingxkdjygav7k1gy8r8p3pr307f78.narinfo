@@ -1,0 +1,10 @@
+StorePath: /nix/store/iq0ingxkdjygav7k1gy8r8p3pr307f78-artichoke-b2968d9dbb74823811f39fea38b6fa76924fa3f5
+URL: nar/1xd76fhigjzq12l6dr85kwd3s9r46l4s16amz53vn2rprmvbim3m.nar.xz
+Compression: xz
+FileHash: sha256:1xd76fhigjzq12l6dr85kwd3s9r46l4s16amz53vn2rprmvbim3m
+FileSize: 1491300
+NarHash: sha256:1rsgsl44nykbs8gly8yy1ayr4m11v7zadw7rdjwyrm46n5nnw73c
+NarSize: 10982088
+References: 8shn81yh43cpp589dax54qicvm4dhlw5-swift-corefoundation-unstable-2018-09-14 cp7cr0c6q5cl4zxmpv21xzpaj131q9n8-libiconv-50 vf34267rv2j7kpmcls9rhbcml75f3l63-Libsystem-1238.60.2
+Deriver: 1160prm2l97pgyas6yar3bq2z4xjmaxj-artichoke-b2968d9dbb74823811f39fea38b6fa76924fa3f5.drv
+Sig: nixpkgs.raunco.co:r0xAOonAXqWSmz0YFl6/zpIdXo73B9iMXvvXHRozlujZd94s+RbpjQE8LNvaQLibM7NRxMgLNLWJfKmVhrN6Bg==

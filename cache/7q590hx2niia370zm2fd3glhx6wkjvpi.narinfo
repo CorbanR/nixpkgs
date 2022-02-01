@@ -1,9 +1,0 @@
-StorePath: /nix/store/7q590hx2niia370zm2fd3glhx6wkjvpi-ruby2.7.4-nokogiri-1.12.5.drv
-URL: nar/08w5jdpw6wqldwy0x4yfni88lsqr00n829xknv3kyibjzh10428m.nar.xz
-Compression: xz
-FileHash: sha256:08w5jdpw6wqldwy0x4yfni88lsqr00n829xknv3kyibjzh10428m
-FileSize: 2660
-NarHash: sha256:05az1fbpbabl1izbzl7cbzrb405zg5zgqdyk85h61vin2cyfk1sr
-NarSize: 6512
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv frxc2x692clhxm4xbcxlm42xnhmvbn4f-hook.drv gj77xvgmj50y6hmbfjm9n28w1pd6q8vz-nokogiri-1.12.5.gem.drv ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv lddb4nzfkd9kxhlaaad83yfkxp32mjjw-ruby-2.7.4.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb wdbwdikkdbv81jcv4la6l0j3qlyvb10y-ruby2.7.4-mini_portile2-2.6.1.drv y0dwlj2mdkzkz97h08x56as3bqyg92bp-libxslt-1.1.34.drv y9a2xhdqbqr7rylljkfbabgan203wakd-ruby2.7.4-racc-1.6.0.drv zayghcdvc215sxjq8c2y18a6a7b15fr3-libxml2-2.9.12.drv
-CA: text:sha256:0vmaw1y6k7zwk8vdc5lvcf9yq3aw5ygcs2mgd06kq28q4bi212y3

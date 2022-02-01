@@ -1,9 +1,0 @@
-StorePath: /nix/store/bfq3vp3fjlwi39a0bw27q7xkv3y09dmj-python3.9-Babel-2.9.1.drv
-URL: nar/1jz4k1rdzp734x6g7b91md16x9q1lkfzz4sdphghpk2qzcdsmxw9.nar.xz
-Compression: xz
-FileHash: sha256:1jz4k1rdzp734x6g7b91md16x9q1lkfzz4sdphghpk2qzcdsmxw9
-FileSize: 1664
-NarHash: sha256:1rlz373v2h6k27kww77ahv231p67a0crh4c8dp48ig9ga205wj0r
-NarSize: 3832
-References: 0623r906hd2vkzcvpyrb3gcss5ib1ldf-pytest-check-hook.drv 5cw3wiwh2xhmigk21fr058w68yyci3if-setuptools-setup-hook.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 65ja89nfb2zl29vghqmxsj4cwlyd2lys-python-namespaces-hook.sh.drv 7ghap0yhfiyf1pngzamixpjfgs7mkawj-Babel-2.9.1.tar.gz.drv 9532wxmnz73p9mixrlyi5dijzypjj3yl-setuptools-check-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv bmx62cf118hvbgw426386sqrk01mvskl-python3.9-freezegun-1.1.0.drv byrf5agdn1q7ka5s53xnzpv6b2pyn66p-hook.drv gdvnwf06ip4s5vp2krxh80brk3ywdp5q-python-catch-conflicts-hook.drv gwmqv5jxlipbxhb8d3azbkfs2ih6x3j7-python-imports-check-hook.sh.drv gzs0mqf9zp406gs8r8zm8yg3x2dp8dhy-python-remove-bin-bytecode-hook.drv iz3qiggndvpzrlh2sbmi9dsnp20v90rh-hook.drv ldyzphv9ysmbq6k47h6zw01a8z6rsggy-pip-install-hook.drv mngjqd9v6dgfrxrr47d7nzfp7vm3c5iy-python-remove-tests-dir-hook.drv mv2dxaa2v1g7d9gjdpnqhimn9bcfq930-python3.9-setuptools-57.2.0.drv ns71w9zm00wykf3xwj50h1lpihmf52rn-python3.9-pytz-2021.3.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv
-CA: text:sha256:0f9p3j2z6s90wlav12rf33klg7ykbklsw4q2ihswhlw858q73fg4

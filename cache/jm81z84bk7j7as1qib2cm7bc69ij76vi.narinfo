@@ -1,9 +1,0 @@
-StorePath: /nix/store/jm81z84bk7j7as1qib2cm7bc69ij76vi-gnum4-1.4.19.drv
-URL: nar/0qpvqfp97p3rcvb072856wik6kx6azjz6m47zwnyzx7qwbwqz6gb.nar.xz
-Compression: xz
-FileHash: sha256:0qpvqfp97p3rcvb072856wik6kx6azjz6m47zwnyzx7qwbwqz6gb
-FileSize: 816
-NarHash: sha256:0m4w4ix282sa5fm493aa183plggxwpwk65mnpnbc4r0rb1lln8in
-NarSize: 1856
-References: 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh kjkmys34fkqqk22vj954j28fyyvv3q1s-m4-1.4.19.tar.bz2.drv p8w59ji1i8g3x4vcnrbxx9wng71js1n4-bootstrap-stage1-stdenv-darwin.drv
-CA: text:sha256:1p0rflp96xmnnjs9warinwfmmcpbfd5qpn90z03fyf6a6k2ikiws

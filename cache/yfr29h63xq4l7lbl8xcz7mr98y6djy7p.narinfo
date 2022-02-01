@@ -1,0 +1,9 @@
+StorePath: /nix/store/yfr29h63xq4l7lbl8xcz7mr98y6djy7p-apache-pulsar-2.9.1-src.tar.gz.drv
+URL: nar/09yryah5i7ms35yg3yr5lx7fl59cbkg45sh8b2vhm84z19d0x59f.nar.xz
+Compression: xz
+FileHash: sha256:09yryah5i7ms35yg3yr5lx7fl59cbkg45sh8b2vhm84z19d0x59f
+FileSize: 1472
+NarHash: sha256:0260ldlrzzfrjm81j0hnangwxap97g7xs9nmn98qpfvl5rjg478k
+NarSize: 3312
+References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 91rp7f409n4midar97qc82pslnig01sm-mirrors-list.drv mpaq3pcyg2x5hva4j0v64ahfgq53nqai-curl-7.81.0.drv wmn3nh4qkdxva3lszwsmfn3dr6d4nbam-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:1xajd4qyw5yf0dr6bvbv566b72vnhgl7i9lw9l5pysbch986jlny

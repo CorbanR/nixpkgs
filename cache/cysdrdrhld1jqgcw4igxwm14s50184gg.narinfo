@@ -1,9 +1,0 @@
-StorePath: /nix/store/cysdrdrhld1jqgcw4igxwm14s50184gg-flex-2.6.4.drv
-URL: nar/026cqn28kyjg12zwm4n2brvgk7d6996w1njqgl7p0jz2hhjq9s3c.nar.xz
-Compression: xz
-FileHash: sha256:026cqn28kyjg12zwm4n2brvgk7d6996w1njqgl7p0jz2hhjq9s3c
-FileSize: 1108
-NarHash: sha256:1lmzh6spzy6z3bc2wjkdrzgkix8cb182ka2mfch8i1w676nbljis
-NarSize: 2336
-References: 2szd07rq7gjawcdkhxa6xdb0gpq9q31a-gnum4-1.4.19.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 8xxchkb6r8qp143mmy7szrsd08dfc5sv-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv fvw4zdfy7n0zisx87iqxkqjasydvwc03-glibc-2.26.patch.drv k06jql1b17qkx4g7aj7hr7p112n729yc-flex-2.6.4.tar.gz.drv nmr6ki6b1ik2mds3m0m48j07swxyy36x-help2man-1.48.5.drv sdr2mc55r48v00ngy9pfsprknmdg8k19-hook.drv viaz32nv2qxdygyq2a2c355ys3d95m2p-bison-3.8.2.drv
-CA: text:sha256:1i1qq66w319r675rp3bvnrn99l46q58gxlar97w4h2fkg0rz9w9q

@@ -1,9 +1,0 @@
-StorePath: /nix/store/mv2dxaa2v1g7d9gjdpnqhimn9bcfq930-python3.9-setuptools-57.2.0.drv
-URL: nar/0lkflv3bdsbq70fyxzml3z5zbzcng8j2fnhvrzkz2nks2h698i7i.nar.xz
-Compression: xz
-FileHash: sha256:0lkflv3bdsbq70fyxzml3z5zbzcng8j2fnhvrzkz2nks2h698i7i
-FileSize: 1440
-NarHash: sha256:1s8mwz1r9ka5ki1j9lcm051ihlfnmjasf0xc1ma660a8z3zb8555
-NarSize: 3248
-References: 2d7jaj5krrkiccrqkx55wwqrlrijxf97-pip-install-hook.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 65ja89nfb2zl29vghqmxsj4cwlyd2lys-python-namespaces-hook.sh.drv 694k1vldj1nfi13wpih29ndqadzvd4i8-python3.9-bootstrapped-pip-21.1.3.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv byrf5agdn1q7ka5s53xnzpv6b2pyn66p-hook.drv gwmqv5jxlipbxhb8d3azbkfs2ih6x3j7-python-imports-check-hook.sh.drv gzs0mqf9zp406gs8r8zm8yg3x2dp8dhy-python-remove-bin-bytecode-hook.drv iz3qiggndvpzrlh2sbmi9dsnp20v90rh-hook.drv jac9sx5l9ywhhj2hiygph72lmfg6rmnx-setuptools-setup-hook.drv mngjqd9v6dgfrxrr47d7nzfp7vm3c5iy-python-remove-tests-dir-hook.drv qjc4rhzl86h0j8dyrv3vnb3yqrwfvb3m-setuptools-57.2.0-sdist.tar.gz.drv xfi656bh4izr0ilqjsjrmvjfg53mslqy-python3-3.9.6.drv
-CA: text:sha256:1c8ygw49v1p66mmasjacfhirlygxrpr05fa09ngyirg2164556gs

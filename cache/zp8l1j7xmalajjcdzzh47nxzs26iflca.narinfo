@@ -1,9 +1,0 @@
-StorePath: /nix/store/zp8l1j7xmalajjcdzzh47nxzs26iflca-cfe-7.1.0.src.tar.xz.drv
-URL: nar/0ipjpjj3g20brs5nlr3i3dhrzmh0c9rxqin9ml69ja2516d7m615.nar.xz
-Compression: xz
-FileHash: sha256:0ipjpjj3g20brs5nlr3i3dhrzmh0c9rxqin9ml69ja2516d7m615
-FileSize: 1316
-NarHash: sha256:05giriha82cbizc5gg3blm6nj2l30cd4q6jc86hpmp7wscjjr1ia
-NarSize: 3112
-References: 2wm2f64w2bv72snqbdpr1fw0lf081i56-bootstrap-stage0-stdenv-darwin.drv 3r37svxqhfi03gpxf6mp1i1dcypkkv3m-bootstrap-tools.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh dghmi3vwc36mll2b7y0h00a9w9k3v3jd-mirrors-list.drv
-CA: text:sha256:0yrv796sd99p95g67vr7s41m0fsjybbzkhl9xp51v7y2f9rq62v4

@@ -1,9 +1,0 @@
-StorePath: /nix/store/s2kzd3qla1kkblb72az3y45r1isxcnlg-util-linux-2.36.2.drv
-URL: nar/1a9plxxzibr60s6nk4m506nlnnkslx4b9x2f98yip04jwsch2q71.nar.xz
-Compression: xz
-FileHash: sha256:1a9plxxzibr60s6nk4m506nlnnkslx4b9x2f98yip04jwsch2q71
-FileSize: 1620
-NarHash: sha256:1c9h150w52w857d365lsqy5qc7whh61i80glzkrx7fvhg62s77va
-NarSize: 3904
-References: 1j9sp0yd6jbcbkwsc5a826rxqy3lk6vh-rtcwake-search-PATH-for-shutdown.patch 4nbrsxmxn2k04fx9szc446m9z5fdxyfy-shadow-4.8.1.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv gr02p1c5q7yg70l07gpzymgxxhg5m6yg-util-linux-2.36.2.tar.xz.drv ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv jf5yhp1i3nsh1q1r9kk6c575bw54yxpv-linux-pam-1.5.1.drv mg9ivbm22ih384g4jhv301n8781wj300-libcap-ng-0.8.2.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv
-CA: text:sha256:07dci452pf96ina4wbj25432gbkllj1251mijykcz4zz44xdl9ja

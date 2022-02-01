@@ -1,9 +1,0 @@
-StorePath: /nix/store/sn5mmp3hjvv9krlj1dhmqaxnhs7l09hm-zeromq-4.3.4.drv
-URL: nar/195z66grlysdgwwqfwvh45imw7lp05jdj2289c21wh7vd9f9mpna.nar.xz
-Compression: xz
-FileHash: sha256:195z66grlysdgwwqfwvh45imw7lp05jdj2289c21wh7vd9f9mpna
-FileSize: 948
-NarHash: sha256:1yxcc76060vdwxxbf67f5vh8yir3p91fs27f0l9kh5vanbxrcxr1
-NarSize: 2016
-References: 4yskxz2w3g78ik96h8ddzqisbxia0la5-asciidoc-9.1.0.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 5rr093niyj4v8w0dcbvk7x4c1yhvs8d2-source.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv bci0d4r40gvc9iyxjb5ysavd35jk7xmd-cmake-3.21.2.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv yhcb7f89xj076psis6x55qm7li77apfw-libsodium-1.0.18.drv
-CA: text:sha256:0kliilgn0yvhbvpvijsvyh0lv5kb0s35c7lswvh6vrnwc2l7bgam

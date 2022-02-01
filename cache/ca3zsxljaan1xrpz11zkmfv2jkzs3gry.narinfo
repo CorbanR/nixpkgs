@@ -1,9 +1,0 @@
-StorePath: /nix/store/ca3zsxljaan1xrpz11zkmfv2jkzs3gry-libpulsar-2.7.2.drv
-URL: nar/1g6d6xsxl0yckl6jgmxzxz2pj4r9vfz52jf9j8wzc4wsfria8y15.nar.xz
-Compression: xz
-FileHash: sha256:1g6d6xsxl0yckl6jgmxzxz2pj4r9vfz52jf9j8wzc4wsfria8y15
-FileSize: 1884
-NarHash: sha256:1lni8v62xfcpi7zpkz469d26xci32zz1v75849hn1r8h5l1c8r2j
-NarSize: 3984
-References: 29x2w3ymgnwg5nb5yzkp9mjvn8c4zzxb-clang-tools-7.1.0.drv 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 5nv7i5jyv4pzigac7xzkai2q934s0gr0-zstd-1.5.0.drv 8xxchkb6r8qp143mmy7szrsd08dfc5sv-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv adz88z1laih6z9lwl3mzpdi1kgm7qj2l-openssl-1.1.1l.drv b2vfcshf9953hqwpvpl29gp596pqiyws-boost-1.75.0.drv bci0d4r40gvc9iyxjb5ysavd35jk7xmd-cmake-3.21.2.drv cjgc57jwn74s55p84vpgskmhb016kaib-curl-7.79.1.drv d55ncdx7z1fgla9dqrw082xda2jhl9vs-protobuf-3.19.0.drv ijv8b6zn4151dhgqi5z1gi64rpyzbvzx-zlib-1.2.11.drv lzcid53cqa83fbzbbh8glzf0bzkmqypr-python3-3.7.12.drv nv4kqhvvvlp7sz1c400a4kc3vp5b290g-apache-pulsar-2.7.2-src.tar.gz.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv qgsjisyfwiqydhgk0s4m699as4cpr5ri-jsoncpp-1.9.4.drv r1bc7fmj03ykcx8l34b18qwx347lsv4v-log4cxx-0.10.0.drv vq0ar1ym4x7hvycrvrxp24d5ndlmhq3w-snappy-1.1.9.drv
-CA: text:sha256:1iqc93n4n9vm80nd7gw2wxgbskp94cg22z65h0hp2rkfzz4vd68j

@@ -1,9 +1,0 @@
-StorePath: /nix/store/p1rvzzavi1zrxrblf1w249ks810shb4s-coreutils-9.0.drv
-URL: nar/0z4gpr2h5aarp83nzv93x29g66qf7i5fg84ni0i6p4n6zx3bpiqn.nar.xz
-Compression: xz
-FileHash: sha256:0z4gpr2h5aarp83nzv93x29g66qf7i5fg84ni0i6p4n6zx3bpiqn
-FileSize: 2048
-NarHash: sha256:0588v4m2vvclfqjvmxp12dxq827p2wmyijibg904qxvq9kbkvbyp
-NarSize: 4936
-References: 02hvx9pf1i16zjyr9lsxnsrnp87kdi3x-xz-5.2.5.drv 1dx0v2lrjpyb67c5vbmy30fd343zgr50-coreutils-9.0.tar.xz.drv 2j8nv5xpgw7js9lr3dnspc2vk04jifzv-fix-chmod-exit-code.patch 8lam3b5y70bir7kjsd0l9djhqr9i7c5g-bash-5.1-p8.drv 9dxkg65p0k6k9yv7rw43aylrgf8gjk4z-bootstrap-stage3-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh digwknfc92q1fawnfddkv8k6jlykrn20-perl-5.34.0.drv rym6yd37gbs3c4q5wrsys2xi0cwdzjl4-hook.drv snhl0w63mc0s3q6y386g061bgc7jdwwn-disable-seek-hole.patch
-CA: text:sha256:0jm02wrmhinry9jbh3z7yzm81ab7g8lbqjlcmq2q9jj3n5gjv0jh

@@ -1,9 +1,0 @@
-StorePath: /nix/store/b7kv66q132ciihsi766kwhr1aigbbnir-pixman-0.38.4.drv
-URL: nar/0vrwnjjam4j0ndcb7sdax3h0zz1mjc2hw3dkcr2pmvivshqav8kn.nar.xz
-Compression: xz
-FileHash: sha256:0vrwnjjam4j0ndcb7sdax3h0zz1mjc2hw3dkcr2pmvivshqav8kn
-FileSize: 1040
-NarHash: sha256:10n8m9482lpnpnm6m1mwz1xgx5dm0bpwrp9wl9iv2fqcccd0c9lc
-NarSize: 2360
-References: 4jf6yk0iz1rifyfg3k7nba3g88dj3fh4-separate-debug-info.sh 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9lajnsz9xvcz9lkqj3jm5l1qf4z84p0q-pixman-0.38.4.tar.bz2.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv s96m1yg1zh4x1k9c0lswnrrn8dyixfc0-libpng-apng-1.6.37.drv
-CA: text:sha256:0hyg05n1np4qhlawbk7wvyq44y5z46qzhf7x0qp0dnwmzz6fny6r

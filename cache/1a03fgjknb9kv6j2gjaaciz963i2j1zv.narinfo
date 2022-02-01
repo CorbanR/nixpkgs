@@ -1,0 +1,9 @@
+StorePath: /nix/store/1a03fgjknb9kv6j2gjaaciz963i2j1zv-jsoncpp-1.9.4.drv
+URL: nar/1fxwhyrzhgxpp2qxq3f0vi8xdhyfa6pk0kwpc72hfbhfcikpqfvr.nar.xz
+Compression: xz
+FileHash: sha256:1fxwhyrzhgxpp2qxq3f0vi8xdhyfa6pk0kwpc72hfbhfcikpqfvr
+FileSize: 1272
+NarHash: sha256:05iifh5qxgc5ghc1xhq51fcbasmnrhjbzhn1kr2ll8s31p1pzds0
+NarSize: 2808
+References: 9dpgkfl6vxqwla9vxarhj05wyha1gdg5-python3-3.9.9.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bp4x4f2x5ign2dm8sd2p9ajm3j9wdc4b-ac2870298ed5b5a96a688d9df07461b31f83e906.patch.drv g45gm644jw6rnr13mgdpjyidc5p8axm9-source.drv ky4xgh52igy8ngkbsk5swfi65zb66v8b-validate-pkg-config.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv wfh6p2lv903in87ry8j91rbawfrfi4bs-cmake-3.22.1.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:1sw05819y7g2ck79m8hljn87qldgz0gab71bcbdbxi84npyiswhq

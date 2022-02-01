@@ -1,9 +1,0 @@
-StorePath: /nix/store/nf6yx2vfwqsk7pq82kflphgwv4d7knf4-kbd-2.4.0.drv
-URL: nar/1ywva1yw7n1jw8b5a9sk04wgiv3krxg3cbj9m94bxg9wkr4ddnff.nar.xz
-Compression: xz
-FileHash: sha256:1ywva1yw7n1jw8b5a9sk04wgiv3krxg3cbj9m94bxg9wkr4ddnff
-FileSize: 1820
-NarHash: sha256:107w8bwyyqykgnc8iclm167bw05mj68imjpfq5ay61j0ki22mmbv
-NarSize: 3776
-References: 5h5fvfqnqlmc23qayyp602zp2aqpnja3-stdenv-linux.drv 5nv7i5jyv4pzigac7xzkai2q934s0gr0-zstd-1.5.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9xa2wb9w7djwskdv4igwv6i3hcqj4mb7-gzip-1.11.drv a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv by0r3r8mbdapg5yqf6qfi0nd3na3kl4r-kbd-2.4.0.tar.xz.drv cysdrdrhld1jqgcw4igxwm14s50184gg-flex-2.6.4.drv ghk8nkpph59g6v0m8c4n85vs96sl67l3-coreutils-9.0.drv i3ldqi56znag6g1rlqzmmn1m8vwdanyz-xz-5.2.5.drv jf5yhp1i3nsh1q1r9kk6c575bw54yxpv-linux-pam-1.5.1.drv p1jw2hf4686j8yv6kqf4yw16cjk2aybj-bzip2-1.0.6.0.2.drv pqzsd1bz3fbfj2l12mqcnrh06b0fnxph-pkg-config-wrapper-0.29.2.drv sdr2mc55r48v00ngy9pfsprknmdg8k19-hook.drv y9r7438qb0c2jq15rpj1d92yc8dq2ykd-check-0.15.2.drv yysrsf1swdbg80zjcn8c1pbbvms5jvz6-search-paths.patch
-CA: text:sha256:118g8qcpn1dm5jasbxw83ja8bf7kwbh3bpcn4cn0yvm9igblkvld

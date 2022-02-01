@@ -1,0 +1,9 @@
+StorePath: /nix/store/azy0azcwla8i8klsx1b05a774nxmyhvi-libbfd-2.35.2.drv
+URL: nar/1kj142hs61519yzc6k55vjg2mw5dbngnj4ycxhg52s1pflhvnjan.nar.xz
+Compression: xz
+FileHash: sha256:1kj142hs61519yzc6k55vjg2mw5dbngnj4ycxhg52s1pflhvnjan
+FileSize: 1748
+NarHash: sha256:1bbplsl85id1k1a753vyd566143zxjvrnjd53li5m2p48mlrrk0x
+NarSize: 4320
+References: 3yp8kpj25p2xxb5s963xga4ckyj3fksl-CVE-2021-3487.patch 59l91nqac7bpcw1qpxy15jwia5cqsppy-CVE-2020-35448.patch 59r002nvsp7cmvd0cip38p4yh2lp1rvf-gnu-config-2021-01-25.drv 88wq5a9qvng66dw29pxaq0v8i3f5bbis-bison-3.8.2.drv 8v8kiz9bqj00h75az6d8kc9qcpxkm7pd-gold-Update-GNU_PROPERTY_X86_XXX-macros.patch 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9kp5f3s2i13amkfh9y5p0nlnh5zks42l-zlib-1.2.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh im0jwjjl7lwmcrd6sj6xyk0xwx52nfnh-bfd-elf-Dont-read-non-existing-secondary-relocs.patch izgwh227g1msnx1wmz4klh88f7804kc9-libiberty-10.3.0.drv k1c8hak6hr69dpsr85176ayhxyy4b1yc-build-components-separately.patch pa83jbilxjpv5d4f62l3as4wg2fri7r7-always-search-rpath.patch r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv s0qvm2vqx4841zmy7kxzlvr8l60x544j-binutils-2.35.2.tar.bz2.drv sa4zgv37g7r6wvgrl6w1shpf3j1k2bi6-CVE-2021-45078.patch sqbhaaayam0xw3a3164ks1vvbrdhl9vq-deterministic.patch vlcyg9pszhhs67wwjd47ivzjzyz6k1wz-bfd-1-disable-subdir-doc.patch.drv wilglaz00r3zpqy6j5awrzia446lzmk9-disambiguate-arm-targets.patch y4gplhl6qz1l6bvs0k0f92dk2wxsd17b-hook.drv
+CA: text:sha256:0wi5lb2iz9qc6yd7bmfq1h6lnv78yd2a9pgbz9m46rwwrajh541v

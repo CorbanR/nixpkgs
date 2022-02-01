@@ -1,0 +1,9 @@
+StorePath: /nix/store/izgwh227g1msnx1wmz4klh88f7804kc9-libiberty-10.3.0.drv
+URL: nar/1mhlmqhs0jd7d637xg7yf8ps76smhxx0zqxsqrl6g2fznzxrngml.nar.xz
+Compression: xz
+FileHash: sha256:1mhlmqhs0jd7d637xg7yf8ps76smhxx0zqxsqrl6g2fznzxrngml
+FileSize: 796
+NarHash: sha256:10ckywh05dz360sr115dcihnlmm09bdyl70mdgcp58hgzkhzml9r
+NarSize: 1792
+References: 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv slgzqc5n8khqjzps5gvz2fjr9lv3x3kl-gcc-10.3.0.tar.xz.drv
+CA: text:sha256:1f1nlr3w3l895b5j0viwp7xw3ch6gq7822001b66wdwhd9jbi1sa

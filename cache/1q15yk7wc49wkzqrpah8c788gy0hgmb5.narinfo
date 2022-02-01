@@ -1,0 +1,9 @@
+StorePath: /nix/store/1q15yk7wc49wkzqrpah8c788gy0hgmb5-e2fsprogs-1.46.4.drv
+URL: nar/0hbbcr2cdjf9hmljnyg42jvv9ghrrmsvf0hd0g5ick9qjq5jh51a.nar.xz
+Compression: xz
+FileHash: sha256:0hbbcr2cdjf9hmljnyg42jvv9ghrrmsvf0hd0g5ick9qjq5jh51a
+FileSize: 1536
+NarHash: sha256:1r8i30s8wvy04l45m9v44fgxbfxhv6l7ibpf12nfgq4xm921caxg
+NarSize: 3536
+References: 3gzcrpdbvhgvik8x1wypg98svm96gjvc-gettext-0.21.drv 3lagjzkz6ks6qrwi0bmjj9agrz51lrh0-pkg-config-wrapper-0.29.2.drv 634lrx5bacshlnv1rzpvggazwlbpn6b9-gcc-wrapper-10.3.0.drv 7x8g1qq3x5f3kpjhgzfs0668sl1l29jr-util-linux-2.37.2.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ln1ry5djflxl7zypqhv2vcms5b7kf63q-e2fsprogs-1.46.4.tar.gz.drv mw6v0hi3jfjfc42h14h2jkc2apbi5691-texinfo-6.8.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv y4abap6zqvwrxb8fbbnbidhghrixakpv-perl-5.34.0.drv
+CA: text:sha256:14xcsmgrv59vfvi299i8bznsfkkq937864rmlajs2y5ycf7lp21h

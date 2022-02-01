@@ -1,9 +1,0 @@
-StorePath: /nix/store/67676d8d6fpnyrmms1p5xf5m395h5xdc-patch-2.7.6.drv
-URL: nar/1g9p4ha7x0pjm92g33r9aqv0zssm3r0g625krmfz3v9lrj3lla7k.nar.xz
-Compression: xz
-FileHash: sha256:1g9p4ha7x0pjm92g33r9aqv0zssm3r0g625krmfz3v9lrj3lla7k
-FileSize: 1072
-NarHash: sha256:1id61py0h0b70x5rifwaw1ihmia3510vcgrcmzaji5yij2di1i7q
-NarSize: 2640
-References: 0y5flakfvnf813cwrr8rygf1jnk0gfnc-CVE-2019-13636.patch 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 2j0fmwgm5ybgnc8jprc4ypcxw6s4r2nv-Allow_input_files_to_be_missing_for_ed-style_patches.patch 7rv8v60cr3zh17djymdlba3gd9kw8bh5-ed-1.17.drv 8p3z4jsrxr5ck92iasc9bc7bmapb5mmg-CVE-2018-6951.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh angvcbhbr5p8viv4zphsxxx5nl4zr1hi-patch-2.7.6.tar.xz.drv ip7163ql342lslzljl80l4axcd8vdif9-hook.drv npqvgz8c8w9kpj1gdma5bbn0pdkisyzp-CVE-2018-6952.patch rxgi2l6jrgd5xmrrsbcv5cwi558lb36m-CVE-2019-13638-and-CVE-2018-20969.patch sz6rhpf50kqh75fhqwl75q6dm6fr9xyd-CVE-2018-1000156.patch yzw5la0mh7gs60vp10mv4sax9kzw4rib-bootstrap-stage4-stdenv-linux.drv
-CA: text:sha256:08i7gzzzwzs9qqyacx5qivcffmdvx5miwihz8bfnigxdn2rnm638

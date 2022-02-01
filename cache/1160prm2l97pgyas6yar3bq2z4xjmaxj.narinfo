@@ -1,0 +1,9 @@
+StorePath: /nix/store/1160prm2l97pgyas6yar3bq2z4xjmaxj-artichoke-b2968d9dbb74823811f39fea38b6fa76924fa3f5.drv
+URL: nar/1qvj1934yjys3m2lwdxclf0bnwqj7yd3yv5q71ifiici9z93dm4i.nar.xz
+Compression: xz
+FileHash: sha256:1qvj1934yjys3m2lwdxclf0bnwqj7yd3yv5q71ifiici9z93dm4i
+FileSize: 2276
+NarHash: sha256:0cs7v1iprr88g8ici11nfcl3vc477kmnm332154anw0gph0srbp6
+NarSize: 5256
+References: 11qyy5mb5d7hgcixsi4ss6pxi5vrk1j3-git-2.34.1.drv 1c01xz70s501phiagjf9sfydwk10pz3g-rust-bindgen-0.59.2.drv 23m7rr8rzn6z676xmm5zhfnygi6fzkqx-cargo-setup-hook.sh.drv 56n910rky3czr4v5bla344r995cl9q42-rustfmt-1.57.0.drv 86fzlpdlcavii0lyaw23q9d9j8zc63lb-rust-minimal-1.60.0-nightly-2022-01-20.drv 9fyw1m3xa2hgdlrdbw4wwx2id6gk6k0c-cargo-build-hook.sh.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cbih7rlcxkq9q0zkbd63n53il77wk542-rake-12.3.2.drv d1inbz3hwm46l10vd7v0hbmfqmcjvf2s-source.drv fxjx96pwfw3ncz1jfr6xw9gw1fxwpyg0-rustc-1.57.0.drv h9sjdg29xr9gfi4x9vhb80dg3dk0zg30-artichoke-b2968d9dbb74823811f39fea38b6fa76924fa3f5-vendor.tar.gz.drv h9yz2skycm8fq36dr30xwm3gjf9z6rdv-nss-cacert-3.74.drv kj9d0h7pwfii0vc86y2g7kgnd1qvgcwy-cargo_feature.patch m3ikhmldcmws183ysdph4ml423z1kg0j-cargo-install-hook.sh.drv n2d20szf67asfp04m04bcpd42782n18s-libiconv-50.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps p90jgsbcjdhp112rq09c5cdvkr0dnnqf-mruby-3.0.0.drv r36b0r43n1d6sxf8hhykdysrj2y0wpy4-cargo-check-hook.sh.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv vg86q4rbjrw6dixr1xpmszcpclcqqmxs-ruby-2.7.5.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:0ijy3g3w9cb6fjp6w0qi5pngzknsr8jxplnmcwn852x8cpmy5jcm

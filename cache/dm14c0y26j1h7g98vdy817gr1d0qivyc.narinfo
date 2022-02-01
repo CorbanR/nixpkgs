@@ -1,0 +1,9 @@
+StorePath: /nix/store/dm14c0y26j1h7g98vdy817gr1d0qivyc-llvm-7.1.0.drv
+URL: nar/0iv3cvbgmcp30zk4p52rdashgjz6pfriqq0lsa2is2gn8i653l0l.nar.xz
+Compression: xz
+FileHash: sha256:0iv3cvbgmcp30zk4p52rdashgjz6pfriqq0lsa2is2gn8i653l0l
+FileSize: 2756
+NarHash: sha256:13iijzbc13x4c6pjx83m2d410vwvbqdhmw0ik2z1bp7374r8yn6s
+NarSize: 6456
+References: 09axwvn26cb2hj9zmb2052d90idj4njf-libxml2-2.9.12.drv 0a2cqkkb5qzsd1rqgvalw2pp7rf3knh6-da1fb72bb305d6bc1f3899d541414146934bf80f.patch.drv 1d1ypc1b61k9ry76c3mwyhaq8k2jga8d-ncurses-6.3.drv 26izq52c0s5v10ayqnnaygzw8dd43gab-cc1f2a595ead516812a6c50398f0f3480ebe031f.patch.drv 3qwspq1aayfs3fis842vg4g3s1p7x8z4-polly-7.1.0.src.tar.xz.drv 629h5fqpfixh5dfphmck82d9sardwvf9-cmake-3.22.1.drv 6wv8acdd7bm7npixgr3rk86mf55fj47c-llvm-config-link-static.patch 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9kp5f3s2i13amkfh9y5p0nlnh5zks42l-zlib-1.2.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh azy0azcwla8i8klsx1b05a774nxmyhvi-libbfd-2.35.2.drv cr4rfvi2pxlnkfm38ik0q4pj57dwy9qx-llvm-7.1.0.src.tar.xz.drv phbqv9rfyqjn4dnw1nsn75k46j1l6059-libpfm-4.11.0.drv ps1awhs9bc0ijxyc6mxb84ixgb3vcisd-libffi-3.4.2.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv rprw6ig8fpyywkmk9vq1lfk3rv1s93ay-python3-3.9.9.drv y6a10dz66ivi70j1fwv8q74nma0207sm-nvptx-gcc-12.patch.drv zx8mhw8snlvkl3v16nzpmz23wsksdc50-gnu-install-dirs.patch
+CA: text:sha256:0yg84p27ksv1chpwg888fg7ap8cn9v05azlxz4g3fz0kq0jzbfj5

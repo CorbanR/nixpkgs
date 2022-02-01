@@ -1,9 +1,0 @@
-StorePath: /nix/store/8xxchkb6r8qp143mmy7szrsd08dfc5sv-gcc-wrapper-10.3.0.drv
-URL: nar/11apwn204rww3k2xnllvjmp0bblh6przqjp24dar3zcxv012hb2y.nar.xz
-Compression: xz
-FileHash: sha256:11apwn204rww3k2xnllvjmp0bblh6przqjp24dar3zcxv012hb2y
-FileSize: 2436
-NarHash: sha256:13v4mn73k0kmmhk2adlmidcjdnc7qpsni1bxincn1qnw70pnd5jx
-NarSize: 7416
-References: 08brsmv99w5vyrkbvx3iz87blj5wwgkz-utils.bash 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 1r5dhb1s1y56k5i3f2sckbm4xhpgr260-gnugrep-3.7.drv 29mjzkai0jil6prs0nvhq07h47kfi490-add-flags.sh 7bgl804i74sl5mr0nhza79dyp73d9pb6-binutils-wrapper-2.35.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4a32x378qm1sp0g8lsaax86f2w3xp7z-bash-5.1-p8.drv g29ik1wrfv66pjhww3qkn65sqgqz8d5b-expand-response-params.drv ghk8nkpph59g6v0m8c4n85vs96sl67l3-coreutils-9.0.drv gi8lnqhlqip7x8sbpzva0sl6hhi23y0c-cc-wrapper.sh hc3z14jhqg35x5286hw5wmc3injg62fa-add-hardening.sh l334vv83h8sch9v6a1xsl22zpmllgxcp-glibc-2.33-56.drv nc4bvrgb8jxh4k1fq2zgzh4mmxqavp54-setup-hook.sh qy5734q2z2n8q2jdkywc78x37wh3vsis-role.bash rbjszn0w017laad5pf4chj55qkh771fs-bootstrap-stage4-stdenv-linux.drv v9mm4yb56xasg61bjxqlkjhpd1my5qc7-gcc-10.3.0.drv
-CA: text:sha256:0j8his5b24pda19qk268k9ggz29z2s7amxx582yzszq3x0pmfr7v

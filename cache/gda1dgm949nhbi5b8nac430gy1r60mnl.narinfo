@@ -1,0 +1,9 @@
+StorePath: /nix/store/gda1dgm949nhbi5b8nac430gy1r60mnl-source.drv
+URL: nar/07k7icv2mn73yf637kf1f49qcbrrzh4kp1p9jwc1wsznhpm4rcp2.nar.xz
+Compression: xz
+FileHash: sha256:07k7icv2mn73yf637kf1f49qcbrrzh4kp1p9jwc1wsznhpm4rcp2
+FileSize: 1612
+NarHash: sha256:119ap5917jfc3ymgvd2hk454b254bp4l60jk7z1km1rp0pjsnyb0
+NarSize: 3528
+References: 1y9nd0whsv3p0y2xss0f14klyp3sfbaf-unzip-6.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh cp60vfc62rc7rzn4ic1jv0z5rjy9b9v1-stdenv-linux.drv jv7i8m6h1lagiz8rl11prgn76vqvhr1s-mirrors-list.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv s94w6q7nbzs2iyhd67j8sp6gcr62xkgz-curl-7.81.0.drv
+CA: text:sha256:0vcd283jzsf6dzfjz67qn9h4say713xjd9x33q82nxiwf3yyxrww

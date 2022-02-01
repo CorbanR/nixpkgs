@@ -1,0 +1,9 @@
+StorePath: /nix/store/a4ikm41jhpj1aa11r19qxh0bc71dnbih-sharutils-4.15.2.drv
+URL: nar/1rkgsxsx8qy37yz1mw2a96vd3d81q5r0nccbf9ay8lg68f0jlj5f.nar.xz
+Compression: xz
+FileHash: sha256:1rkgsxsx8qy37yz1mw2a96vd3d81q5r0nccbf9ay8lg68f0jlj5f
+FileSize: 1420
+NarHash: sha256:1njnvi4qsx3qc5vzhjsnnywp9yf0yi8x10sfd5f78c5j2sa5ccpw
+NarSize: 3168
+References: 7ykf93k1ykfrm64yadgsrj7xjrd0lprd-01-fix-heap-buffer-overflow-cve-2018-1000097.patch.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dd8a4b7zf6wwbw396irzmqr8jymp924w-gettext-0.21.drv ffyx3g8n8hdws8n7b9cwwipk1v6wa1lz-sharutils-4.15.2.tar.xz.drv fs9j1ndg7vwpxgbwip1p4a3xxy2p16wa-02-fix-ftbfs-with-glibc-2.28.patch.drv k16zzb6hwwzfl3ihld97ginfikyipwbg-sharutils-4.15.2-Fix-building-with-GCC-10.patch.drv pg4a8x3nll20x9ppihdjiwhxl909lx3k-sharutils-4.15.2-Do-not-include-lib-md5.c-into-src-shar.c.patch.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv w95hvbswdj74j5f2r2g91bvh16f6fvy6-coreutils-9.0.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
+CA: text:sha256:03139g81yc98x3vsg4phdv3m026038bp8b9n5j5g1fs40vv2c68x

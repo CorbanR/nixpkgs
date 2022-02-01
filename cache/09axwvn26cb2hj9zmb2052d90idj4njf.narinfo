@@ -1,0 +1,9 @@
+StorePath: /nix/store/09axwvn26cb2hj9zmb2052d90idj4njf-libxml2-2.9.12.drv
+URL: nar/0ihavbwyamckcyq9vn3k9ndkr3sx8s4vsb1wlj0dsydaqihgvpbd.nar.xz
+Compression: xz
+FileHash: sha256:0ihavbwyamckcyq9vn3k9ndkr3sx8s4vsb1wlj0dsydaqihgvpbd
+FileSize: 1568
+NarHash: sha256:0adbymm5790d6xwc9xrl4zckjgzm1qdbc7vd557963yrq48f4fvy
+NarSize: 3776
+References: 1d1ypc1b61k9ry76c3mwyhaq8k2jga8d-ncurses-6.3.drv 3z74dz4zh7glqbvizqw3r8nh590ni5ka-85b1792e37b131e7a51af98a37f92472e8de5f3f.patch.drv 7qccqg3dy4d0yg3i415147zq6h3rznjy-hook.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9kp5f3s2i13amkfh9y5p0nlnh5zks42l-zlib-1.2.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh frr6f2hq56j6b4wc0bsklaqskjsagqc0-utf8-xmlErrorFuncHandler.patch r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv rf056dw2kyvk38kzrq4bqg68pcjliiph-libxml2-2.9.12.tar.gz.drv rprw6ig8fpyywkmk9vq1lfk3rv1s93ay-python3-3.9.9.drv
+CA: text:sha256:0i8bd1y7mvr18wgg85p2wpm50ygylsxwsbiz7a66pxk9k4vdz7ha

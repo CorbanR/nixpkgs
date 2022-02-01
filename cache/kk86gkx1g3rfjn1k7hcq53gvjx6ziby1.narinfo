@@ -1,0 +1,9 @@
+StorePath: /nix/store/kk86gkx1g3rfjn1k7hcq53gvjx6ziby1-boost-1.77.0.drv
+URL: nar/0r06ngv006ddcyjkvmrr0mznjnln2q2sa12c9hfhrmwxvdmld6wz.nar.xz
+Compression: xz
+FileHash: sha256:0r06ngv006ddcyjkvmrr0mznjnln2q2sa12c9hfhrmwxvdmld6wz
+FileSize: 2124
+NarHash: sha256:13xs0nr413lpqirhq78cqiaaa4w75rcs9lrfjky0794dimw3408f
+NarSize: 5096
+References: 1cbws1f1ppqxi4h10p80biwpdklfnz2x-darwin-no-system-python.patch 2vvd6y9gg13744wg8y0x7jzifscnc8al-bzip2-1.0.6.0.2.drv 7wfpggcm4zqpl94d1j503plrwwhzj4rl-which-2.21.drv 9bf0n241z59r56j6qvv6zbd9rzgldccg-expat-2.4.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh iwkicyg8h84zmrh45cv882l8nvq5lskc-boost-build-boost-1.77.0.drv n2d20szf67asfp04m04bcpd42782n18s-libiconv-50.drv pd84bq59rls25l89i55xqnspc45lb45y-boost_1_77_0.tar.bz2.drv ryhl5jww5xwn8ashm2akxgmp26xbvmkl-icu4c-70.1.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv wpbcp7kf7xcjaf7kd7nqx23y6n8h86lf-cmake-paths-173.patch yd1csq2gph2b06b0g691nr5mc9ci5dsc-hook.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv zk2mfxirbjcmdk97fh3krdgb4ab8x4bb-zlib-1.2.11.drv
+CA: text:sha256:1jwk2ykfjldl2rkilqxdk7c23k3y2zb5jr3w45v87s7c1842b325
