@@ -1,0 +1,9 @@
+StorePath: /nix/store/8xif9z49xqynvjwxn03j1pl37fvwpxwc-Test-Fatal-0.016.tar.gz.drv
+URL: nar/199kp9fqw2jx543qcr20l4w2wp7m5gaai739v82yymy1kyslzvpa.nar.xz
+Compression: xz
+FileHash: sha256:199kp9fqw2jx543qcr20l4w2wp7m5gaai739v82yymy1kyslzvpa
+FileSize: 1344
+NarHash: sha256:1dvdyam38av4xzpiims02g2ivgx0qbk5v91q2n6vwadidliviidy
+NarSize: 3168
+References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 929m2iwcwvfs0dnx35llysf1srz0ax06-mirrors-list.drv adfihj8631q2zbnc0w79sx8q02wyjsxx-curl-7.81.0.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
+CA: text:sha256:050ijg0s3yyk7i1y67nzzfqrzz4vnznd9ihcn18azmy285xkwcbp

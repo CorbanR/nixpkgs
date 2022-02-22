@@ -1,9 +1,0 @@
-StorePath: /nix/store/37myv43jjn1dh083ghi0mvfxgx7czi25-ruby2.7.5-asciidoctor-2.0.16.drv
-URL: nar/00xcymj76yvkwgm5scwb25nrh655hxmxh427c57qxk5nidq9krlx.nar.xz
-Compression: xz
-FileHash: sha256:00xcymj76yvkwgm5scwb25nrh655hxmxh427c57qxk5nidq9krlx
-FileSize: 2152
-NarHash: sha256:0bjridjykyimw1ij74d3yfsmvxj0zwqljyimn27z2qlgqp48cnlg
-NarSize: 4944
-References: 11j5m6ds93pjvy2dc725r56zla62xl7v-hook.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh pb7gdqrbf2dj58588rsak26sq3nm6acf-ruby-2.7.5.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv xayp9cypn02dnf7f1wmv0z6nl35ki9m4-asciidoctor-2.0.16.gem.drv
-CA: text:sha256:0sk8kzjwfwncsvsxraf9lc7amyy0v2i1nwsj8qyk55ax37jiyrn4

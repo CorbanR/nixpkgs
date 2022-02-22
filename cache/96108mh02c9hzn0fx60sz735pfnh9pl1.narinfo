@@ -1,9 +1,0 @@
-StorePath: /nix/store/96108mh02c9hzn0fx60sz735pfnh9pl1-groff-1.22.4.drv
-URL: nar/1g8v5bd88c5zsjs8mc0m5wijibwb2qmkdgb4gc01mvyw1609v53f.nar.xz
-Compression: xz
-FileHash: sha256:1g8v5bd88c5zsjs8mc0m5wijibwb2qmkdgb4gc01mvyw1609v53f
-FileSize: 1564
-NarHash: sha256:1f528pby4m5pnxarwpdm07kgms3azwdmxm6b5rrqcizc519h9biz
-NarSize: 4304
-References: 3lagjzkz6ks6qrwi0bmjj9agrz51lrh0-pkg-config-wrapper-0.29.2.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b7y88azisww8cf4syzmc3lrm8grc5324-site.tmac j5n4i0ziynd0kmwfh98mfadc80l6h89r-0001-Fix-cross-compilation-by-looking-for-ar.patch mw6v0hi3jfjfc42h14h2jkc2apbi5691-texinfo-6.8.drv prb6ilkwsiz5dg6ll2r43hag9fwqr6h6-hook.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv wmsill9q0vbp78m4fz31hl258n4344wq-groff-1.22.4.tar.gz.drv y4abap6zqvwrxb8fbbnbidhghrixakpv-perl-5.34.0.drv
-CA: text:sha256:0gz4phhcpikbs2s90gh3vf3ndnkh31xnar21ky3w7gds53mg8zm5

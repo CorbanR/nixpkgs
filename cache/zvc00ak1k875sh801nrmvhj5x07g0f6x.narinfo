@@ -1,0 +1,9 @@
+StorePath: /nix/store/zvc00ak1k875sh801nrmvhj5x07g0f6x-python3.9-atomicwrites-1.4.0.drv
+URL: nar/1azin034pw8sw182bi25bisp7akrwqbd0nx8kv1xk3fhdnh50nni.nar.xz
+Compression: xz
+FileHash: sha256:1azin034pw8sw182bi25bisp7akrwqbd0nx8kv1xk3fhdnh50nni
+FileSize: 1548
+NarHash: sha256:0cfy1dndysvv4vi5kjywa06fkysdgz968926nnch85islzca4va6
+NarSize: 3552
+References: 0ndzqr3k5qj83b08q72iyc5sdw473iv1-python-imports-check-hook.sh.drv 13png16kning3ciiyhn3v8z33nxmrsz1-python-remove-tests-dir-hook.drv 341jv99aj3sv716an46m4qps4k1g0ald-setuptools-setup-hook.drv 5g7vgzfxq5n72vqk8wdda6j6kykiv407-hook.drv 72053wik4c9f4idx0vi350q0fsphp1ys-python3.9-setuptools-57.2.0.drv 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh gy2s9j5plssicv0l6h92fxyaiyky8f91-pip-install-hook.drv izhpczgvgx4bhw1sffgd6ma41hv91d7m-python-namespaces-hook.sh.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv qs3jm3lfl0pcvfyazadd1np2cjyh0bsh-hook.drv r620mpdsgpkvf0ap3spkc2gi5212rkn7-atomicwrites-1.4.0.tar.gz.drv s5x16bqs3bmlg5wzhhfap46h17srzrzm-python-remove-bin-bytecode-hook.drv v64khjgcri5i5d300zj3rsclb886r61h-python3-3.9.10.drv xkx6nzkh0z3qyz4y2bbb04s2zqikyxg0-python-catch-conflicts-hook.drv
+CA: text:sha256:03188vq1iw634rq5nlzvp6v35ghqh55w30bzs4fxjb9kx7rdcfn9

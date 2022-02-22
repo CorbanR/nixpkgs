@@ -1,9 +1,0 @@
-StorePath: /nix/store/2p00mpqz9j4183g3j3fy2yinv1fdhhn6-llvm-11.1.0.drv
-URL: nar/15bywqsbnxwy3nc2jciz0jyjal4a462hgnwkp7a245iq6jyinhx9.nar.xz
-Compression: xz
-FileHash: sha256:15bywqsbnxwy3nc2jciz0jyjal4a462hgnwkp7a245iq6jyinhx9
-FileSize: 2932
-NarHash: sha256:1l0dym18b2w2af29qbsgrf1snnd0ygrs2xyk4fvajgz1w46bym0p
-NarSize: 7048
-References: 1qzjmidbadswg2qb7z7qvax1ni525gis-llvm-11.1.0.src.tar.xz.drv 43k87x0d8nzfqvl4f9dcwk64dvcpn1b5-ncurses-6.3.drv 6wv8acdd7bm7npixgr3rk86mf55fj47c-llvm-config-link-static.patch 9fd3xdcfv1dw93y99a18lw735fx8kvgy-gnu-install-dirs.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9n46g74z930k45q7sc4cw3mxydxwmswd-python3-minimal-3.9.9.drv apyz5hi3q1m631b5cch0pcjvdrxr66wj-libxml2-2.9.12.drv cg0jgi56xhckawj4bbqqalz6c4y7k9xa-dfaemitter-gcc-12.patch.drv fvhf3pgm2q5gp9qf1rhjv9kafmg32nw5-libffi-3.4.2.drv h4vb9cwj2wsrhw6lyb9yv80rh95vginj-b498303066a63a203d24f739b2d2e0e56dca70d1.patch.drv jdd17v1z764mdnc7c61hw5wnvgijw06v-cmake-boot-3.22.1.drv kx5p2719h1z55chxbaxj1hl99cvbginw-nvptx-gcc-12.patch.drv mqlmfh7gqv20n61nrlg9c35hgypvbqr8-uops-CMOV16rm-noreg.diff.drv pvq9n9b59lvaqp1dlxfgqvrv9vsrnbg2-polly-11.1.0.src.tar.xz.drv z211qk8mxynspfc748dxp1jqzs96xp9z-bootstrap-stage3-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv zk2mfxirbjcmdk97fh3krdgb4ab8x4bb-zlib-1.2.11.drv
-CA: text:sha256:0l5c6pbmi5jzcmad0ssimqxv68392izpibddzfy6njjn8057rdgy

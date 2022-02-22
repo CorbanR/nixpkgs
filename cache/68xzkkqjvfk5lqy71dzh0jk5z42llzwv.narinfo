@@ -1,9 +1,0 @@
-StorePath: /nix/store/68xzkkqjvfk5lqy71dzh0jk5z42llzwv-libidn2-2.3.2.drv
-URL: nar/0in2zn34hn6l32l7n0kmcgvv5d5vn364mpnbgz9812slh3j4flq2.nar.xz
-Compression: xz
-FileHash: sha256:0in2zn34hn6l32l7n0kmcgvv5d5vn364mpnbgz9812slh3j4flq2
-FileSize: 1316
-NarHash: sha256:0ak57xmhxq1qfj2g6zcyklc308k1m0ypbb672g1v1qccp64ln2nd
-NarSize: 3184
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c7fv1gbjjfxj277grljzsbvl1zqjhg02-libunistring-0.9.10.drv mnhcz6gcy65h2r4i0kqplczs5jd1ns2f-clang-wrapper-11.1.0.drv n2d20szf67asfp04m04bcpd42782n18s-libiconv-50.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv sy6gxf8520kb5f16299msdkcrp3y75qb-libidn2-2.3.2.tar.gz.drv szfjhkhmsxfyc289vz39882d3l866888-fix-error-darwin.patch ydy3ya9cma0m39xfi9z877sbyval7hrj-texinfo-6.8.drv yn7m6162hla2inbygacmn0szlaq8cr5q-help2man-1.48.5.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:0glznyqh1098d25aivrxlhl3rqdhvp8q6rigcb65sw6riavbm2dx

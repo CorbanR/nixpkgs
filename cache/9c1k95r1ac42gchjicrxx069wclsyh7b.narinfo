@@ -1,9 +1,0 @@
-StorePath: /nix/store/9c1k95r1ac42gchjicrxx069wclsyh7b-man-db-2.9.4.drv
-URL: nar/08hprvjnsp4f3rf4ihncn6px051dnhd604x6h2fzsj2y8annvi54.nar.xz
-Compression: xz
-FileHash: sha256:08hprvjnsp4f3rf4ihncn6px051dnhd604x6h2fzsj2y8annvi54
-FileSize: 1928
-NarHash: sha256:0f8q6m8wsba4yvd7r97ypfydkncqfrrg83ddmafwwqpm6pvnzwcb
-NarSize: 4304
-References: 4ysa92y2g807j0i0zy1jfm504zagg408-groff-1.22.4.drv 5qr9ydr0078vfcyr48qaw0cbv2giirwm-pkg-config-wrapper-0.29.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh iagr7996pkvg5c3xbahpagiblk5a3ai2-libpipeline-1.5.4.drv lfhlqh9i6m2qyzm3xdhjhkf72bnv8ry7-hook.drv pa9rm9k3a35z6s64kw7qm638nf6gqls7-db-5.3.28.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv spl6s672ix9rfl4mvjaxf7wkpdniix8r-systemwide-man-db-conf.patch sv1p62sar214asl90r8yljghb4d5rm4w-man-db-2.9.4.tar.xz.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:0ics59yyacih1nwv6n35lilfqjfz419bh5zjsvx6swvaymiwvbnf

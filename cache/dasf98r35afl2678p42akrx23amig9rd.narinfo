@@ -1,9 +1,0 @@
-StorePath: /nix/store/dasf98r35afl2678p42akrx23amig9rd-hurl-1.2.0-vendor.tar.gz.drv
-URL: nar/15i8zgwnzdlbdh5590y5vfwpyqqr4hy1wfx667pli3di02aw3rs0.nar.xz
-Compression: xz
-FileHash: sha256:15i8zgwnzdlbdh5590y5vfwpyqqr4hy1wfx667pli3di02aw3rs0
-FileSize: 1724
-NarHash: sha256:1slvq0cll97h470q76i6n6hax0c5fy0bm3l2q51r8wn1yfpwqjcx
-NarSize: 3592
-References: 11qyy5mb5d7hgcixsi4ss6pxi5vrk1j3-git-2.34.1.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh d1kpcq91m1clsl084hg9g79k1l1rbq21-cargo-vendor-normalise.drv h9yz2skycm8fq36dr30xwm3gjf9z6rdv-nss-cacert-3.74.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv sffkpmcvi3vd7kf4qlbbhib8zkinqq7r-cargo-1.57.0.drv syddlsflgmhs9bl8xmsggzfhnkbkvspp-source.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:0cd222hbrihjf3n4wjr7ggs2qh6yb27jsjh883ig45q2j7pibgbn

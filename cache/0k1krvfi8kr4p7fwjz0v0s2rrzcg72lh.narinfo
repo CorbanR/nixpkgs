@@ -1,0 +1,10 @@
+StorePath: /nix/store/0k1krvfi8kr4p7fwjz0v0s2rrzcg72lh-libgpg-error-1.42
+URL: nar/083bffg12rqj29jiszx04fcn0f3d0msszllaiqiagnsiqpywj6kh.nar.xz
+Compression: xz
+FileHash: sha256:083bffg12rqj29jiszx04fcn0f3d0msszllaiqiagnsiqpywj6kh
+FileSize: 159476
+NarHash: sha256:00xjy3n8zfyj56185ala3cnnzwbqf8lhjxklr7zm711dm0qg4mlv
+NarSize: 781448
+References: 0k1krvfi8kr4p7fwjz0v0s2rrzcg72lh-libgpg-error-1.42 4s21k8k7p1mfik0b33r2spq5hq7774k1-glibc-2.33-108
+Deriver: waligd000n1xicniksfnwqb75rcgqd4q-libgpg-error-1.42.drv
+Sig: cache.nixos.org-1:oLMsYLxLx1+GjSWY3/grrcHniNl0Lpp4xI+VokOxCUwmnGq9N51kx7o7kbN7WxHl0pb70FyInyKmVifkHBP9DQ==

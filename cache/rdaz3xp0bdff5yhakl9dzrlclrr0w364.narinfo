@@ -1,0 +1,9 @@
+StorePath: /nix/store/rdaz3xp0bdff5yhakl9dzrlclrr0w364-perl5.34.0-FCGI-0.79.drv
+URL: nar/0dlzipvjc0dl0nlrbaiz8s545ihhqvnv92xwkrzg94g3kpldqpy9.nar.xz
+Compression: xz
+FileHash: sha256:0dlzipvjc0dl0nlrbaiz8s545ihhqvnv92xwkrzg94g3kpldqpy9
+FileSize: 864
+NarHash: sha256:1igpf1bc69703fbxrwc181q25djwlp5161svwjyqv231awbhgrh0
+NarSize: 2040
+References: 23xcaw1f4d0brsa9i5ghk2mbcal2zqkp-FCGI-0.79.tar.gz.drv 2yvv7ajybdjl98j9847wh16xi99rnb0y-perl-5.34.0.drv ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv qf3mzpvsmkrw963xchbivcci06078n13-builder.sh w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
+CA: text:sha256:0sl8rf1kpbimrrpq8vmjf4s9kyif8vycka49jb9yilz2nv69frn3

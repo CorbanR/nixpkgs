@@ -1,9 +1,0 @@
-StorePath: /nix/store/bakwiz2if5n835nr9n03bayawhz97d58-cmake-boot-3.22.1.drv
-URL: nar/03fc9j8cw0s1nnvni7cg9xm2yw21w8wxpz2zszgjwbf8cam8vi3n.nar.xz
-Compression: xz
-FileHash: sha256:03fc9j8cw0s1nnvni7cg9xm2yw21w8wxpz2zszgjwbf8cam8vi3n
-FileSize: 1784
-NarHash: sha256:0kqjx7zb1jbks7pych49dbwcd5klca4kqh46y2wnd61bjp8lcpf9
-NarSize: 4480
-References: 08zz10jhwh176dsl0kj3hm7c06c8sg0s-cctools-binutils-darwin-949.0.1.drv 0ajk2rn2h9myadgwq0rdqwbraxgr6r88-ps-adv_cmds-119.drv 5qr9ydr0078vfcyr48qaw0cbv2giirwm-pkg-config-wrapper-0.29.2.drv 6qi8j22g16r5cmbrhfc50ydc4c52qh9i-Libsystem-1238.60.2.drv 7n2b0329xqvwrpqwk3vvlfp7s3vglpi3-application-services.patch 8ci16d92gw844rvacwysp3m4pqym0pqn-setup-hook.sh 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a0i0a09n86p92p1s8ic482ldv974q517-search-path.patch fy076b1llz4skf9rhripzr5nrgk0zwak-remove-systemconfiguration-dep.patch k7xxb1cq4pv4wpj5fiklsjxdsjsqx2mi-darwin-always-set-runtime-c-flag.patch mnhcz6gcy65h2r4i0kqplczs5jd1ns2f-clang-wrapper-11.1.0.drv qy6p4q6zzi8a588vhsc5wjnk10lk43z2-cmake-3.22.1.tar.gz.drv scbgacx2m0h3f3nsp89hl4bz3lmxd0av-libuv-application-services.patch sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:1rmh48jid2c9byjwxzq0vdrmk59p04x6c0yp721ssp2vdndrpzip

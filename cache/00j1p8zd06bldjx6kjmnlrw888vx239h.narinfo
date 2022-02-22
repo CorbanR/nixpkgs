@@ -1,9 +1,0 @@
-StorePath: /nix/store/00j1p8zd06bldjx6kjmnlrw888vx239h-apple-framework-Security.drv
-URL: nar/197gz8svckdbfrcfk3vj844g48n36wqzbnxsgiq96497v4mywfr4.nar.xz
-Compression: xz
-FileHash: sha256:197gz8svckdbfrcfk3vj844g48n36wqzbnxsgiq96497v4mywfr4
-FileSize: 2032
-NarHash: sha256:0g8gjrwasvjzjc95iyazdbkj9icljwg4fyhl56mpfpwgvrifsh58
-NarSize: 6320
-References: 2r4cz38px3bjz2hbc2kyrr522dq9k1h4-MacOS_SDK-10.12.drv 93yvcf1ap4kbasaqbffcbqdqwg2ws0ip-security-setup-hook.sh 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh hjrw7d88l3ar99h7dj71pnz3rkaf28g8-print-reexports.drv izq5j4k7kc177394biywj2acvhq9higy-apple-framework-IOKit.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv wm9n0rmfxg29k87zqfvyjbpgrh0xm4yf-darwin-stubs-10.12.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:08r9qxnqs04vpf55f4jv92si02jm78vk6rs2p58276ycc06insgk

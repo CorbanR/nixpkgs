@@ -1,9 +1,0 @@
-StorePath: /nix/store/rsm1wzffn194kdmqzigyhdm6l9f4abw1-libxml2-2.9.12.drv
-URL: nar/06xyndqj8mfs80i4hciqiwc0s4raw9kvvznylig521aqf0lac0mr.nar.xz
-Compression: xz
-FileHash: sha256:06xyndqj8mfs80i4hciqiwc0s4raw9kvvznylig521aqf0lac0mr
-FileSize: 1748
-NarHash: sha256:1gf8a2bj7sk6k1zqk6hbbbhmzx930nl9rpzq29vpnxhji8rnxmpw
-NarSize: 4240
-References: 1f2j4p25757zaj5xix3wxn7kmlfcrssb-zlib-1.2.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9n46g74z930k45q7sc4cw3mxydxwmswd-python3-minimal-3.9.9.drv cd5vzz4xrag433q4r2m0pc31mpr25rdy-libiconv-50.drv flzv9ia8lyby0477ykylnz040n15k1n5-ncurses-6.3.drv frr6f2hq56j6b4wc0bsklaqskjsagqc0-utf8-xmlErrorFuncHandler.patch jy6ranshammm01c93j7vp9l0hbwnpmdq-85b1792e37b131e7a51af98a37f92472e8de5f3f.patch.drv l9s75pk486cal7xmq1qb2yzzrs44rhd8-hook.drv rpiackywakmkarc3ahab2ja3sf5frgsn-bootstrap-stage1-stdenv-darwin.drv sanilcjpqyj6v56iqqfb1ih3m7fkgk2r-libxml2-2.9.12.tar.gz.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:07r74q2bkdyiphsgb68508h0gc2ai08i87g8miarr1j3nh32rqr5

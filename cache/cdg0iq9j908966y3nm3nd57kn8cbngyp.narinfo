@@ -1,0 +1,9 @@
+StorePath: /nix/store/cdg0iq9j908966y3nm3nd57kn8cbngyp-diffutils-3.8.drv
+URL: nar/0wqf57nqvsfvdqwdv4i9dlw3dl33xs61z2k0h6prnrc6cjvm0nlq.nar.xz
+Compression: xz
+FileHash: sha256:0wqf57nqvsfvdqwdv4i9dlw3dl33xs61z2k0h6prnrc6cjvm0nlq
+FileSize: 880
+NarHash: sha256:12r6kk1xbg5lzvmakcp6yhsy37qz8sim222sw139zq4qxg78jr6a
+NarSize: 2008
+References: 0nb35wjnzrjkn0pxlazxnns9vv5l95c4-diffutils-3.8.tar.xz.drv 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 7h8q3dn6a2ijbjgn6gfkrnc5zkwavrvw-xz-5.2.5.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh i8zlyark0k5ir63axsj534091izccbxq-coreutils-9.0.drv qw6w15ccnxib409xjpkkg9z6lkfh0121-bootstrap-stage4-stdenv-linux.drv
+CA: text:sha256:0vvgchd136jhxajrkwyvp3dz9h7rq8891750smqxqjlcqmsk8vsm

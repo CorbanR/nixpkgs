@@ -1,9 +1,0 @@
-StorePath: /nix/store/plpnsgbm6h61xaiwxsf56h89hf9rwcp2-xmlsec-1.2.31.drv
-URL: nar/1d4inazkp4iwnk5n9ryzjix9vgxlilv39m1wv549m9z6nsjpspba.nar.xz
-Compression: xz
-FileHash: sha256:1d4inazkp4iwnk5n9ryzjix9vgxlilv39m1wv549m9z6nsjpspba
-FileSize: 1644
-NarHash: sha256:0k19v2ixs40pw3g9qvwnh8rallrxc88g41xzy1ds24m2qra6qdz2
-NarSize: 3520
-References: 09axwvn26cb2hj9zmb2052d90idj4njf-libxml2-2.9.12.drv 14j17wj16an1cv4p3d0nx5q075mq1pc2-nss-3.74.drv 3lagjzkz6ks6qrwi0bmjj9agrz51lrh0-pkg-config-wrapper-0.29.2.drv 87lisdwxdrz3mjd8kdz3r16rfylc628l-libxslt-1.1.34.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh di8adg893w26yjydxns6clb0g6y7x4qd-lt_dladdsearchdir.patch dncd40szdx701a7abhj89wrxmhbfsmmx-libtool-2.4.6.drv n87qkmnv0g8bmlc1jnnw7gfwmr17gzkd-xmlsec1-1.2.33.tar.gz.drv qsl6pbynlhpp4zpz8970sksh6bs3pb54-gnutls-3.7.2.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv xamyc1d9jcal0b3xhrgnkhw8wnpbdwfb-libgcrypt-1.9.4.drv yahi7vx9spk1bfsj7p71n0235lbw41py-openssl-1.1.1m.drv
-CA: text:sha256:0yr9i6x1v5f95yj8wz86s34fajr0l5a2klbybiv5clyrq390gkkp

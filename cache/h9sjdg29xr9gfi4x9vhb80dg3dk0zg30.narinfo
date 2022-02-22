@@ -1,9 +1,0 @@
-StorePath: /nix/store/h9sjdg29xr9gfi4x9vhb80dg3dk0zg30-artichoke-b2968d9dbb74823811f39fea38b6fa76924fa3f5-vendor.tar.gz.drv
-URL: nar/1mfbzbn5cz68c7xs7q7jh3gqqimz6ml1smv0nyxhrp0a4w075426.nar.xz
-Compression: xz
-FileHash: sha256:1mfbzbn5cz68c7xs7q7jh3gqqimz6ml1smv0nyxhrp0a4w075426
-FileSize: 1788
-NarHash: sha256:0wzcy9la3llmp4k7rfjxg2n8364qvvnaapawxdr2639b5qd4zkid
-NarSize: 3808
-References: 11qyy5mb5d7hgcixsi4ss6pxi5vrk1j3-git-2.34.1.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh d1inbz3hwm46l10vd7v0hbmfqmcjvf2s-source.drv d1kpcq91m1clsl084hg9g79k1l1rbq21-cargo-vendor-normalise.drv h9yz2skycm8fq36dr30xwm3gjf9z6rdv-nss-cacert-3.74.drv kj9d0h7pwfii0vc86y2g7kgnd1qvgcwy-cargo_feature.patch sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv sffkpmcvi3vd7kf4qlbbhib8zkinqq7r-cargo-1.57.0.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:02x7flgyskd9jfrah2s66qnlbjldah6pkl33xqklrj3y521p5268

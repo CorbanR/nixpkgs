@@ -1,9 +1,0 @@
-StorePath: /nix/store/lrrk3gcmkrm9fp9f4pljn764c7r3fd5b-bootstrap-stage0-binutils-wrapper-.drv
-URL: nar/0lq7r03596dg57q2gvx012xx1kjcmwywbn1wnd6rkflqd9dszwzv.nar.xz
-Compression: xz
-FileHash: sha256:0lq7r03596dg57q2gvx012xx1kjcmwywbn1wnd6rkflqd9dszwzv
-FileSize: 2244
-NarHash: sha256:0fq5afyi9zqz901khb0kw5k8yk7rzrww4jr1qas5f7sh3mpvp14v
-NarSize: 6648
-References: 2idjp2xdckqyrdk3hd8msp4cfdi6b8if-utils.bash 797k3249lr4rx8wslf7kcsa3hv6fis3x-role.bash 8lg1x3fidqzabyglkp1vryrzz2cxnnhi-bootstrap-stage0-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bybz12bxjbk94hm58zc70sc0xhj2dxif-add-darwin-ldflags-before.sh c1vmxz359mfljs3cdimhd2fr6fw0n99s-add-hardening.sh dk3ly72kiv27srcj1mjr5n4112vx2hfk-setup-hook.sh l0gmqp73bhg8p4a00gjpas0ri5hdybxz-bootstrap-stage0-Libsystem.drv mrzpfh0ml9k07sw019ydagbb2z1q4sxz-add-flags.sh mwzczb5lr5147jpwilla8pf519khxbkm-bootstrap-stage0-coreutils.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv xy5mbigs600p7yvvqi8bqn5rj94f2s54-ld-wrapper.sh zxkjf71z2zzl7swk977g3xd5yjl7dgcy-bootstrap-stage0-gnugrep.drv
-CA: text:sha256:02776gzjndm7lr0ncg2v66mlkbpamvrhb6sb1wav35mzzy3p35np

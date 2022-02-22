@@ -1,0 +1,9 @@
+StorePath: /nix/store/7mykd1z4mdp9704pf6647mhgq4rvr0nz-libxml2-2.9.12.drv
+URL: nar/0yffh6j137d1gczvaajbv00bw880yc00f3plsm6ql9gw5rh4hy9d.nar.xz
+Compression: xz
+FileHash: sha256:0yffh6j137d1gczvaajbv00bw880yc00f3plsm6ql9gw5rh4hy9d
+FileSize: 1564
+NarHash: sha256:1a5g927y6k8vw9b7xydxikvpjjnjbhkx4hpz92zgsds1vrj86ygc
+NarSize: 3776
+References: 3msb1z97b8p2dc21fs4gv53fszaj1a5x-zlib-1.2.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv dgqwya09yn9v0c7akpv29z94mdaqb3nn-libxml2-2.9.12.tar.gz.drv frr6f2hq56j6b4wc0bsklaqskjsagqc0-utf8-xmlErrorFuncHandler.patch gxn5aj3adq0nfpx2h8d5c1yipl56aksp-85b1792e37b131e7a51af98a37f92472e8de5f3f.patch.drv rm1lny2gy2z6395q14a4h4554w463jwv-python3-3.9.10.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv xw49w4swwmkmarrjgy682937a9ihx8dp-hook.drv yl826qnbdcv0hp5yx8j20ypxza0qqvm9-ncurses-6.3.drv
+CA: text:sha256:041w25ks571hmpc1zzjh87kldarslz70hfmdzbv8n8knpv888viw

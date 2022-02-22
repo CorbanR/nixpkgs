@@ -1,9 +1,0 @@
-StorePath: /nix/store/xnv60gshwj0b7zlk4vfx32gb0fa6dkm6-gtest-1.11.0.drv
-URL: nar/0d3j70x7p5bgdlcrlrsn2gaf91gnlxnmh24vmq8yz6w7ijcxy0ka.nar.xz
-Compression: xz
-FileHash: sha256:0d3j70x7p5bgdlcrlrsn2gaf91gnlxnmh24vmq8yz6w7ijcxy0ka
-FileSize: 916
-NarHash: sha256:1rc0lnmy45827c1kaikjcgkxjpphnkilr19pmnp85wh37wkd79nc
-NarSize: 2048
-References: 2akr172km8p27kpqlc71f1khxvy7hn3k-ninja-1.10.2.drv 629h5fqpfixh5dfphmck82d9sardwvf9-cmake-3.22.1.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh fkwg3625q6zc377fd453zy9dm9fdylky-fix-cmake-config-includedir.patch r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv xrh466xjn45cmp4f4lp4fv5jxrprip9g-source.drv
-CA: text:sha256:12rwwbm2y4ajc4dv329ld619r762jqxfg7lva3axln9njpq6zjwq

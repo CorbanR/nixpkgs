@@ -1,9 +1,0 @@
-StorePath: /nix/store/qp2lwhx4khrj4ygn3gd5b234vbxdzcmh-CVE-2021-3520.patch.drv
-URL: nar/002dhlyi5xi0qlszl2badk8vd1ff9a2v5hllm8a16jcpw1hpg6qy.nar.xz
-Compression: xz
-FileHash: sha256:002dhlyi5xi0qlszl2badk8vd1ff9a2v5hllm8a16jcpw1hpg6qy
-FileSize: 1840
-NarHash: sha256:0sba3jhh5bb3yivjqd2cff408w9gy2y07x6zi2zai1cvi7ksvm4i
-NarSize: 4424
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 91rp7f409n4midar97qc82pslnig01sm-mirrors-list.drv mpaq3pcyg2x5hva4j0v64ahfgq53nqai-curl-7.81.0.drv q473vgw2y79nfi8jhlbh6mkfkw5spnmc-patchutils-0.3.3.drv wmn3nh4qkdxva3lszwsmfn3dr6d4nbam-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:0acd0bmmhg07vb32dxmksa2wphllsv177xff25s30n444i3dcaq7

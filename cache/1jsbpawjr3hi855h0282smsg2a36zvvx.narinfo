@@ -1,0 +1,9 @@
+StorePath: /nix/store/1jsbpawjr3hi855h0282smsg2a36zvvx-lvm2-2.03.14.drv
+URL: nar/0zz43gvr3c7vfgprsv9ayhx7y06p6cxvymh9aj08kdm0y57wc7ci.nar.xz
+Compression: xz
+FileHash: sha256:0zz43gvr3c7vfgprsv9ayhx7y06p6cxvymh9aj08kdm0y57wc7ci
+FileSize: 1880
+NarHash: sha256:0cy0vxixndmvlipbki21n40wwmklp32rd1cq0ia6avccbwi7yj2p
+NarSize: 4440
+References: 0c3wvi44fwf9jyx5p8hpjrgyg9bafzrn-fix-stdio-usage.patch 43p40vi89yk0cbkj3l4vqp1fhp8mq45r-util-linux-2.37.3.drv 96j3vhrqni438di7w8rqz5n7aapal9ci-libaio-0.3.112.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv jqkgk2414pgrbynjfa5jr1xgvcadk73b-mallinfo.patch.drv q1xsss55l53f9m4wa0dmardl7gsc1v4d-systemd-minimal-249.7.drv s6nn15gkv5djmpg6y543qmsi6hqdzdv2-LVM2.2.03.14.tgz.drv sqil88k1z34ipvymksbbl4alj5knyvz5-pkg-config-wrapper-0.29.2.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
+CA: text:sha256:1vadn5r4179v8brs6szvcrjri3xcbji59ipcmc31rhfwgyail8zx

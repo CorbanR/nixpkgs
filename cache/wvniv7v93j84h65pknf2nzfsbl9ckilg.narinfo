@@ -1,9 +1,0 @@
-StorePath: /nix/store/wvniv7v93j84h65pknf2nzfsbl9ckilg-libfido2-1.9.0.drv
-URL: nar/086855jmn83k9rcnhfqxnd8zlyhxxg1mn0s5kr4jn5id3jb2d0pi.nar.xz
-Compression: xz
-FileHash: sha256:086855jmn83k9rcnhfqxnd8zlyhxxg1mn0s5kr4jn5id3jb2d0pi
-FileSize: 1192
-NarHash: sha256:1gd6p1pr8s700ak5mi57ik45pag4q7q6vkbm1wrhw7nwfm4g954s
-NarSize: 2464
-References: 3lagjzkz6ks6qrwi0bmjj9agrz51lrh0-pkg-config-wrapper-0.29.2.drv 629h5fqpfixh5dfphmck82d9sardwvf9-cmake-3.22.1.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9kp5f3s2i13amkfh9y5p0nlnh5zks42l-zlib-1.2.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9yab6mx52lqcdvwgydwcp2cd1f6dwyf5-libcbor-0.8.0.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv sqkrrbmm99p59pzf5x84zw1197b92qxn-libfido2-1.9.0.tar.gz.drv wkxnrhps7rgidkijwgn2r2qq0dz38qqk-systemd-minimal-249.7.drv yahi7vx9spk1bfsj7p71n0235lbw41py-openssl-1.1.1m.drv
-CA: text:sha256:0qkmfg5dsy9c970ci438gmjq0hcxdx0s7dvi6klvhay5psr12gzn

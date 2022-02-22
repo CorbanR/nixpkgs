@@ -1,9 +1,0 @@
-StorePath: /nix/store/gyj3v52pgsi03z99q6w5ql3vj49phj2y-gtk-doc-1.33.2.drv
-URL: nar/1szxxdqzvymwz0kw2rh75rk5c9r2ln4zv8sgynrgjm1wpjh6hcjj.nar.xz
-Compression: xz
-FileHash: sha256:1szxxdqzvymwz0kw2rh75rk5c9r2ln4zv8sgynrgjm1wpjh6hcjj
-FileSize: 2180
-NarHash: sha256:18bh5jk9r6m0lwiyizbnz84mal2w7k2ys7yl72m681vqc3fnndll
-NarSize: 5200
-References: 068g11vmab858q8wbs6xihmvlc7wa5bb-python3.9-lxml-4.7.1.drv 1ynypi465izhay68iczcmrj7sh48x5c3-python-imports-check-hook.sh.drv 4jjm284ab7krwkildvygva8pwsh231dg-source.drv 5qr9ydr0078vfcyr48qaw0cbv2giirwm-pkg-config-wrapper-0.29.2.drv 73nz3l4qpa8mjmdw39nynfhkbmdf1s5a-respect-xml-catalog-files-var.patch 8rynw8y8n09jcnqyccj044yd7g3wkw93-libxslt-1.1.34.drv 9dpgkfl6vxqwla9vxarhj05wyha1gdg5-python3-3.9.9.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b14ljmfcrxcalg9g2pxcmiadlrchqf47-hook.drv dd8a4b7zf6wwbw396irzmqr8jymp924w-gettext-0.21.drv g8hi5jyl734m5dnwas9ww5ngisc0zhyl-python3.9-Pygments-2.10.0.drv gxvbvpbrwg3b1fp9ccsv2cr64pvaywm3-meson-0.60.3.drv i965qzlrpl9s3wdjazylr7d50rx2hc3y-ninja-1.10.2.drv jh609s1dm0jldh3mniayafy8714db05x-python-remove-tests-dir-hook.drv lyjbc1cadz0irq5xib1aai2izng99ccj-docbook-xsl-nons-1.79.2.drv mzxbsx9s62d8rzcnbqbcz1aj2jkdn9zh-hook.drv qxgvwhaiczkw994dqh38wv9728c2qjgc-python-namespaces-hook.sh.drv rgwrbh0zni4c3zjqsb1jj4m3x5aaawc0-docbook-xml-4.3.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv spd84gr6x8wd7j4a6gj5xsnm3sbqvxb3-python3.9-setuptools-57.2.0.drv whcbah5illw9385ywi1rnnb6rsfn8ykv-python-catch-conflicts-hook.drv yxwj140yrkq0jqpc5aibzfzpn1k7p8p8-python-remove-bin-bytecode-hook.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:008mih02xp60qv0rwpic3sw3l7b69pfffi5py6p6clqlspja05ps

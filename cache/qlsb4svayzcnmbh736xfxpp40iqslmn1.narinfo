@@ -1,9 +1,0 @@
-StorePath: /nix/store/qlsb4svayzcnmbh736xfxpp40iqslmn1-openldap-2.4.58.drv
-URL: nar/09bjwkriiqiv7v36spvj0ijwq19sd36f8q1kyhwli6f5v53254nj.nar.xz
-Compression: xz
-FileHash: sha256:09bjwkriiqiv7v36spvj0ijwq19sd36f8q1kyhwli6f5v53254nj
-FileSize: 1756
-NarHash: sha256:0mjmizzr8jplz5xdygqvwasa729yj0456djyyjjfxpgkh84a9kxy
-NarSize: 4304
-References: 30pdazgn37i90bidcwij6fmx36v92xd7-libsodium-1.0.18.drv 433jcsma28mzr2rwc197kywddldsm802-openldap-2.4.58.tgz.drv 4ysa92y2g807j0i0zy1jfm504zagg408-groff-1.22.4.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh hccrnjag2sbxg0a9fainrpnfffqj0pf5-openssl-1.1.1m.drv pa9rm9k3a35z6s64kw7qm638nf6gqls7-db-5.3.28.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv xzsvbrwsv82g7ll58na074js9f95dl8n-libtool-2.4.6.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv zrzdrkqyq3sj8f825x02ph2k185v23n3-cyrus-sasl-2.1.27.drv
-CA: text:sha256:0c144qqvi0r3wis5hbm580r2bfh1nj3vhihkjy95dn0q5fxmqaks

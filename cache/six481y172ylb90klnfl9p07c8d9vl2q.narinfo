@@ -1,9 +1,0 @@
-StorePath: /nix/store/six481y172ylb90klnfl9p07c8d9vl2q-rustc-1.60.0-nightly-2022-01-20-x86_64-apple-darwin.drv
-URL: nar/0bnaz19fkhq76kafjq14g3yjra9fb797a9df5hqdcp2lpgpqg5i3.nar.xz
-Compression: xz
-FileHash: sha256:0bnaz19fkhq76kafjq14g3yjra9fb797a9df5hqdcp2lpgpqg5i3
-FileSize: 1432
-NarHash: sha256:04k7ahbrjvyzcdv8v420d4gp7liy624pz71yfccn9lh7rcsxiq2b
-NarSize: 3168
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv wc06gdn909dw2c0cazp5x9s60brl0kha-rustc-nightly-x86_64-apple-darwin.tar.xz.drv wxyfzc5ihk0g1fisadi1bzym7r1x44n1-gnutar-1.34.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv zk2mfxirbjcmdk97fh3krdgb4ab8x4bb-zlib-1.2.11.drv
-CA: text:sha256:1v03ajp63nnn97ifr1x7731nmjdq40i50qqzh1rx7w34r5c4dz4s

@@ -1,0 +1,9 @@
+StorePath: /nix/store/ngkkvq1jdzhylj3pym12hc3c7j1bsmq9-c-ares-1.18.1.drv
+URL: nar/0ikjy7hyssz6b67xla97llsdsyk4r0w72r02mf8pv1wwkd8z9y78.nar.xz
+Compression: xz
+FileHash: sha256:0ikjy7hyssz6b67xla97llsdsyk4r0w72r02mf8pv1wwkd8z9y78
+FileSize: 800
+NarHash: sha256:190pkx15gmnsp0rbb4hgq4zwxy4cmfqppsxw099plv040nah4ndr
+NarSize: 1792
+References: 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv ls5qnjqx74lrjvmxykcap6r9nvq9fnic-c-ares-1.18.1.tar.gz.drv
+CA: text:sha256:0mdbbbkpp69yn5yv0c870fcgkl5r8lxq3fajjfvqnzlzviflm748

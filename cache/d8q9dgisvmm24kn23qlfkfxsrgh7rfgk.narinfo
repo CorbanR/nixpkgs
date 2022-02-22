@@ -1,0 +1,9 @@
+StorePath: /nix/store/d8q9dgisvmm24kn23qlfkfxsrgh7rfgk-nss-3.15.4-pem-support-20140109.patch.xz.drv
+URL: nar/1y3fhcsa3rcwqmgagff231n1nckaz447k8i3s1585f32h5iml39p.nar.xz
+Compression: xz
+FileHash: sha256:1y3fhcsa3rcwqmgagff231n1nckaz447k8i3s1585f32h5iml39p
+FileSize: 1400
+NarHash: sha256:12cizp5zd7dcr977x6i0w26ylqssgmji2w1qf746aab1brgcfb4n
+NarSize: 3240
+References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 929m2iwcwvfs0dnx35llysf1srz0ax06-mirrors-list.drv adfihj8631q2zbnc0w79sx8q02wyjsxx-curl-7.81.0.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
+CA: text:sha256:1rd2v4l373bz2p05f165s3c4j4i995xqrxl751bx5ndfxcid3w24

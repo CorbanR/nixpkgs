@@ -1,0 +1,9 @@
+StorePath: /nix/store/0a7hycszdrq0bdgss950dk0dl6pkiyaz-xar-1.6.1.drv
+URL: nar/1az3zfrhmwbhj9jp3qc34scm8xqblryxfrfkyxb5xi9k828pha35.nar.xz
+Compression: xz
+FileHash: sha256:1az3zfrhmwbhj9jp3qc34scm8xqblryxfrfkyxb5xi9k828pha35
+FileSize: 1460
+NarHash: sha256:1mks3xgjk0z6p2a9sqdlfqbrnni7lz96aa8p55c7zmsa7v1vvkp7
+NarSize: 3200
+References: 0l4khwkjzns915dpvbn93d89h6zhp6df-openssl-1.1.1m.drv 2ngr9hkacxv39hi3yd5gjgkzpz6lqd2a-zlib-1.2.11.drv 3jjd65b6nyg7g30ixszjcsgb08j5mmhn-0001-Add-useless-descriptions-to-AC_DEFINE.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bywrdch5fanra0331ddjdlzmbkd0xdry-bootstrap-stage4-stdenv-darwin.drv h9rsfv48navqswm57dc19gxri6p9ff6p-bzip2-1.0.6.0.2.drv j3frsgc0zsrg2pg7w9pqmxjh6qd01aqs-0002-Use-pkg-config-for-libxml2.patch kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv md5d8cx1l620lz615rzjiyd93bxm5y32-hook.drv n4bpynbifiijn3pqgkkqwq1wic88wy1p-pkg-config-wrapper-0.29.2.drv qawf3igr2afzya50pxqr051fsx4bb49b-xz-5.2.5.drv vbhj71cgj9gn34a0brm3jkd9kwkpm1dx-libxml2-2.9.12.drv xjijwf2nlwj35kmn622qflyqxfzds6nw-xar-1.6.1.tar.gz.drv
+CA: text:sha256:1ywf7mx7781bb43y7lmaak0rkphk1flvpi0xfx2iispl8rpcwspr

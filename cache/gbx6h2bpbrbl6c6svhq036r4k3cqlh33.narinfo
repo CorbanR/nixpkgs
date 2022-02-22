@@ -1,0 +1,9 @@
+StorePath: /nix/store/gbx6h2bpbrbl6c6svhq036r4k3cqlh33-autoconf-2.69.tar.xz.drv
+URL: nar/0s542xdlz4mgbh3gqn0yma3ss8iyx4y4a2cziivmnksq1rj7s2l1.nar.xz
+Compression: xz
+FileHash: sha256:0s542xdlz4mgbh3gqn0yma3ss8iyx4y4a2cziivmnksq1rj7s2l1
+FileSize: 1264
+NarHash: sha256:02hshvjif7jhkhbfgrskiblcx9z57ny2fdy8qv52as2pvhy00p0s
+NarSize: 2872
+References: 3x9fdcyjp5vigg75lyngfyxlydqpny6b-mirrors-list.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh fig6crk9q3pa8vvmx799k29iz4i0fkbj-curl-7.81.0.drv vy2lxr0rcly61wshr4vjgq5ji9k5zgpx-stdenv-linux.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
+CA: text:sha256:1dm2x6kk12c9dwil7lzxsqwaw9jpx1w0c31i5par41cv1pknqpni

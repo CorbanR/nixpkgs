@@ -1,9 +1,0 @@
-StorePath: /nix/store/pw73p9dhirbv9rf2yflrpla16p59qhx3-binutils-2.35.2.drv
-URL: nar/05bxa6pi5p3416r1n8f68vqbalh3vmacjf18spr237yhpggzjg7g.nar.xz
-Compression: xz
-FileHash: sha256:05bxa6pi5p3416r1n8f68vqbalh3vmacjf18spr237yhpggzjg7g
-FileSize: 2048
-NarHash: sha256:014fyxnagh6wchz393y70shx8fwgfigsln422zbg6ddl4wy9fpzd
-NarSize: 4880
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 3yp8kpj25p2xxb5s963xga4ckyj3fksl-CVE-2021-3487.patch 59l91nqac7bpcw1qpxy15jwia5cqsppy-CVE-2020-35448.patch 8v8kiz9bqj00h75az6d8kc9qcpxkm7pd-gold-Update-GNU_PROPERTY_X86_XXX-macros.patch 9kp5f3s2i13amkfh9y5p0nlnh5zks42l-zlib-1.2.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh abiimflw84cq68iy5ap1pjadd755qm2b-bootstrap-stage4-gcc-wrapper-10.3.0.drv im0jwjjl7lwmcrd6sj6xyk0xwx52nfnh-bfd-elf-Dont-read-non-existing-secondary-relocs.patch k0zi4ii6067ri52srz6qf9f418w6smjh-gettext-0.21.drv k2j2654jsbrvkf4s15r9hfb986fn10n1-bison-3.8.2.drv p9lgv0y8lngigmxr2451pc0nkw06vsxx-perl-5.34.0.drv pa83jbilxjpv5d4f62l3as4wg2fri7r7-always-search-rpath.patch s0qvm2vqx4841zmy7kxzlvr8l60x544j-binutils-2.35.2.tar.bz2.drv sa4zgv37g7r6wvgrl6w1shpf3j1k2bi6-CVE-2021-45078.patch sqbhaaayam0xw3a3164ks1vvbrdhl9vq-deterministic.patch wilglaz00r3zpqy6j5awrzia446lzmk9-disambiguate-arm-targets.patch ywvjhvr0c8mcp6s3np1cql0yy5hi51c9-texinfo-6.8.drv zw0af42x7y1z3727905gx3dalp3gbk48-bootstrap-stage4-stdenv-linux.drv
-CA: text:sha256:1f0b5b29l6sz5r16ydsxs0ayx4js4wllqiqfl02v0cm8gd3icwdv

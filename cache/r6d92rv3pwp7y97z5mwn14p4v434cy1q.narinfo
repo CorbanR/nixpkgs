@@ -1,9 +1,0 @@
-StorePath: /nix/store/r6d92rv3pwp7y97z5mwn14p4v434cy1q-iproute2-5.14.0.tar.xz.drv
-URL: nar/03zh0x8bg3gka3dv0v45dbzrnfna0qh32gy9nir2xw89wimb9rr2.nar.xz
-Compression: xz
-FileHash: sha256:03zh0x8bg3gka3dv0v45dbzrnfna0qh32gy9nir2xw89wimb9rr2
-FileSize: 1272
-NarHash: sha256:0as3z3110ismmwxl23s5kw4jlzz9qipg17if89z3drl04izl908n
-NarSize: 2896
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh cp60vfc62rc7rzn4ic1jv0z5rjy9b9v1-stdenv-linux.drv jv7i8m6h1lagiz8rl11prgn76vqvhr1s-mirrors-list.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv s94w6q7nbzs2iyhd67j8sp6gcr62xkgz-curl-7.81.0.drv
-CA: text:sha256:0p8l7d56jbck7d821sp9zz0p7gc0kxqbs27hp3nsvqn4dmj2lv2f

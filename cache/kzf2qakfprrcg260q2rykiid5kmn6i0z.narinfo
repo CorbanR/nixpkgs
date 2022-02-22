@@ -1,0 +1,9 @@
+StorePath: /nix/store/kzf2qakfprrcg260q2rykiid5kmn6i0z-libssh2-1.10.0.drv
+URL: nar/1h0ly42f2syaaq0ayfr8lggvbb4xs24nh3r5qg3pxzagrsldb7nh.nar.xz
+Compression: xz
+FileHash: sha256:1h0ly42f2syaaq0ayfr8lggvbb4xs24nh3r5qg3pxzagrsldb7nh
+FileSize: 1000
+NarHash: sha256:0gj63gcpnlagxfw2dll49ppzrf5f419m5aaxbikixszra9lnfyw1
+NarSize: 2336
+References: 2ngr9hkacxv39hi3yd5gjgkzpz6lqd2a-zlib-1.2.11.drv 67y4v032fcm3n2w9cz2ah0xxa5mwma39-libssh2-1.10.0.tar.gz.drv 6gcrlk7kv0bqky10widnd7y5agi4qizv-openssl-1.1.1m.drv 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
+CA: text:sha256:0lawglxvh6fap8klwvhw89iaw1ysls6z0gfwcphyr3r3zczli191

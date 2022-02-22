@@ -1,0 +1,9 @@
+StorePath: /nix/store/nxyz715s1kawp54cqdi3nici2qbgvkw3-readline-8.1p0.drv
+URL: nar/0frc1nsp2v16mnrw9jm9iin30ykr0mlfp2r0nkrg90hpqyz02lx3.nar.xz
+Compression: xz
+FileHash: sha256:0frc1nsp2v16mnrw9jm9iin30ykr0mlfp2r0nkrg90hpqyz02lx3
+FileSize: 1004
+NarHash: sha256:0yiabdvbssz26b7asivs1x6hdh2qakvqdj7k9gp88pg6z91qs7d2
+NarSize: 2560
+References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv bw6aa38615ww5karcn8kslsf5hxgz412-link-against-ncurses.patch pwjzcaabxki82j3ywjap55v5hhnyx2z4-readline-8.1.tar.gz.drv v3fnnlch7i18q6ga55dqc05ig9nry17r-no-arch_only-6.3.patch w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv yl826qnbdcv0hp5yx8j20ypxza0qqvm9-ncurses-6.3.drv
+CA: text:sha256:0qicfiqfa620j4lmwlywidg9wqnsrwyw09jkmb2ddvwzzqcfqmc9

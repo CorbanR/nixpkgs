@@ -1,9 +1,0 @@
-StorePath: /nix/store/hm2l3gclw7gll5ca7l4ymm321x26dhxx-xnu-3789.70.16.drv
-URL: nar/01g7542md1ikzkczp0h12vxpg4gr94nwdvc5p2mrd45sjl6z5mwa.nar.xz
-Compression: xz
-FileHash: sha256:01g7542md1ikzkczp0h12vxpg4gr94nwdvc5p2mrd45sjl6z5mwa
-FileSize: 8472
-NarHash: sha256:1g17py6nnk26awfwh879485nllbhsxpmacbcf3jmji919bgncv17
-NarSize: 37728
-References: 28icw5jii9jd69g80frgv9bicsbjqr5c-gnum4-1.4.19.drv 6jlfxryk9wwvs5mkabbvy76ffc3vk5xa-unifdef-2.12.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9n46g74z930k45q7sc4cw3mxydxwmswd-python3-minimal-3.9.9.drv fdc3710hkgkiyw59ncrd2d2mjkdc6cg2-flex-2.6.4.drv gzdysmjgld8wf5cw8ds1a48jflf7nifg-bootstrap_cmds-121.drv ha1yajs6gmhxklj4pdfmgpjj93lb3j4z-xnu-3789.70.16.tar.gz.drv mnhcz6gcy65h2r4i0kqplczs5jd1ns2f-clang-wrapper-11.1.0.drv r20186kwxzn82ck79b5gss31k2hrhw0k-perl-5.34.0.drv wmn3nh4qkdxva3lszwsmfn3dr6d4nbam-stdenv-darwin.drv wphhz5209xqx4v71gzwh40zb4smvcds7-bison-3.8.2.drv yhhwdxmfjs0xvqmyqnlibkhxpcbyp3h9-python3.patch z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:0g7vm2kw5fidsqs38nkp8hhq7mdmkbcv2hs0xrk79yqwwmdn0v16

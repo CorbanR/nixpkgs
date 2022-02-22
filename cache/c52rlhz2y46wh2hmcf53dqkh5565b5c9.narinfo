@@ -1,0 +1,9 @@
+StorePath: /nix/store/c52rlhz2y46wh2hmcf53dqkh5565b5c9-coreutils-full-9.0.drv
+URL: nar/0cyk5gvffi91ifn0jniny9a8bmn070jh9q9q6b2wh0g8v6q6xqh3.nar.xz
+Compression: xz
+FileHash: sha256:0cyk5gvffi91ifn0jniny9a8bmn070jh9q9q6b2wh0g8v6q6xqh3
+FileSize: 2108
+NarHash: sha256:1ixmsjndn6vzpi2hkhpcp1z50xf3wk44gsjdp091v87xb2xb844p
+NarSize: 4904
+References: 2j8nv5xpgw7js9lr3dnspc2vk04jifzv-fix-chmod-exit-code.patch 331y3xmav19nckqndzjgs9si393gikvc-bootstrap-stage3-stdenv-darwin.drv 3s972c2la7cqs7dcgw8kzvbqd87dxpp3-perl-5.34.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh k30wl6snwfk64rmrzkgr844475ci1wk5-gmp-6.2.1.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv kxrw3qv8frvpar0c0l4xry9mfaqka8a1-openssl-1.1.1m.drv nqrwkrrnpc7443annivd10zgnnfcc0cm-fix-arm64-macos.patch qawf3igr2afzya50pxqr051fsx4bb49b-xz-5.2.5.drv skyn4vg6c4hk5amx2niav12c6xh97808-coreutils-9.0.tar.xz.drv snhl0w63mc0s3q6y386g061bgc7jdwwn-disable-seek-hole.patch w5rr3jx16wjds81ixn53k1g7bb2kcvak-hook.drv
+CA: text:sha256:1w4qn0lrwlmpvr0aws3a5rc6vycqi22dchdjada7vq4wz25kgzg2

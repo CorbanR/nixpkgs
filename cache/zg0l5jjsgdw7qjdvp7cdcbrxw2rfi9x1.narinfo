@@ -1,9 +1,0 @@
-StorePath: /nix/store/zg0l5jjsgdw7qjdvp7cdcbrxw2rfi9x1-libksba-1.6.0.tar.bz2.drv
-URL: nar/0pz3gm9lrjpnkymns043mnjzfp1m4pkn5n83b121pnq6ci60wxgc.nar.xz
-Compression: xz
-FileHash: sha256:0pz3gm9lrjpnkymns043mnjzfp1m4pkn5n83b121pnq6ci60wxgc
-FileSize: 1268
-NarHash: sha256:0z8paiv2nvg8yhw0i3w6mc777k8s525bh9zlrjf75882415hlw4j
-NarSize: 2880
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh cp60vfc62rc7rzn4ic1jv0z5rjy9b9v1-stdenv-linux.drv jv7i8m6h1lagiz8rl11prgn76vqvhr1s-mirrors-list.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv s94w6q7nbzs2iyhd67j8sp6gcr62xkgz-curl-7.81.0.drv
-CA: text:sha256:003dzzwzb84id3i254ip3bsvl99h3wlcgl4vlnb0q2cqv45l9f2b

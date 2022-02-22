@@ -1,9 +1,0 @@
-StorePath: /nix/store/3rcx3palfndhq8v89258lncsp2xy7h9v-perl5.34.0-Sub-Uplevel-0.2800.drv
-URL: nar/0iib5hch8ysj33fbgw1rjhybvj634nbprr9yq65qyaq9jr7f7l2y.nar.xz
-Compression: xz
-FileHash: sha256:0iib5hch8ysj33fbgw1rjhybvj634nbprr9yq65qyaq9jr7f7l2y
-FileSize: 872
-NarHash: sha256:1dbr4gbzszr54zxsqap92lar91cdh5jw9zcwy3ygqw63yfxcp84n
-NarSize: 2096
-References: 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv qbh60sdvzclrc64im8jdmiix60lvj6z7-Sub-Uplevel-0.2800.tar.gz.drv qf3mzpvsmkrw963xchbivcci06078n13-builder.sh r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv y4abap6zqvwrxb8fbbnbidhghrixakpv-perl-5.34.0.drv
-CA: text:sha256:0b2jyawvncyxdgaskhgkllp01sg49zli8idmqkwmax87yrasysdp

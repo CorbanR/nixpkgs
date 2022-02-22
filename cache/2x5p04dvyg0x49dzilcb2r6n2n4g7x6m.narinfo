@@ -1,9 +1,0 @@
-StorePath: /nix/store/2x5p04dvyg0x49dzilcb2r6n2n4g7x6m-elfutils-0.186.tar.bz2.drv
-URL: nar/1vc4v3z1vsvir1jbnd43vmhc5vw1r9rm1a6bw6qdz05fwiynp93h.nar.xz
-Compression: xz
-FileHash: sha256:1vc4v3z1vsvir1jbnd43vmhc5vw1r9rm1a6bw6qdz05fwiynp93h
-FileSize: 1280
-NarHash: sha256:19sg5bq4ss3qpkmwkmg8aikb4ybbv4rlx24d5irvw8abk2wynypp
-NarSize: 2896
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh cp60vfc62rc7rzn4ic1jv0z5rjy9b9v1-stdenv-linux.drv jv7i8m6h1lagiz8rl11prgn76vqvhr1s-mirrors-list.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv s94w6q7nbzs2iyhd67j8sp6gcr62xkgz-curl-7.81.0.drv
-CA: text:sha256:1al9w2bdcxfxc0vpih9gygzvzds7n44dxq901r4fb6fg1cx9ir18

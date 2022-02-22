@@ -1,9 +1,0 @@
-StorePath: /nix/store/hjrw7d88l3ar99h7dj71pnz3rkaf28g8-print-reexports.drv
-URL: nar/1ppyq36gjjbfqcq9ws78kp4gbgmabrh1f5k67xhkfxc7nyw5cnf8.nar.xz
-Compression: xz
-FileHash: sha256:1ppyq36gjjbfqcq9ws78kp4gbgmabrh1f5k67xhkfxc7nyw5cnf8
-FileSize: 864
-NarHash: sha256:1620wma4garyir8cpva4bhy8c1dp0kj26as65s8h6vww4h27i3v1
-NarSize: 1912
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh i3w74mmj9prrxzxrgwm9c4mqz37y73yw-source sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv x1gsc4mc6bgc90fvv6z0prjxhrna0vj1-libyaml-0.2.5.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:0npphdjx3yjdyckkpcdhg103b0xnnp0784qz5hhq68w26s9pj2kj

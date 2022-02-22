@@ -1,0 +1,9 @@
+StorePath: /nix/store/hbc8b0z2855c3dz93qqbdx94ns8ps5zf-cargo-install-hook.sh.drv
+URL: nar/1zy8i5w7vnxisvi5bjqfanj7i45z58xwrs86xm1pr03icwf62y5b.nar.xz
+Compression: xz
+FileHash: sha256:1zy8i5w7vnxisvi5bjqfanj7i45z58xwrs86xm1pr03icwf62y5b
+FileSize: 816
+NarHash: sha256:0v64r248xfsywhk37n1dch6rxl2n67g5xl5kxcjb6vjv7mmzkf0y
+NarSize: 1952
+References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv p71y979j39w8znrv5ra35m8nwc39wml8-cargo-install-hook.sh
+CA: text:sha256:1mb6v1ri6rhny6dfjm0xs5n7na7vikldag51ypfv67yxk2vki3rh

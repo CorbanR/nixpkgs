@@ -1,9 +1,0 @@
-StorePath: /nix/store/rzw7z4y16m2ccwy1vv20ci2xvlhjm74v-Make-build-reproducible.patch.drv
-URL: nar/067yq3zd86kfhgprjkfjzjw96wimvn3bgbkwqs8kfl7w8ljphjij.nar.xz
-Compression: xz
-FileHash: sha256:067yq3zd86kfhgprjkfjzjw96wimvn3bgbkwqs8kfl7w8ljphjij
-FileSize: 1316
-NarHash: sha256:05k1z2p705k2r4b3bsji1h6y4c1k6a00r68jgflyzcmp090gnz2r
-NarSize: 2984
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh cp60vfc62rc7rzn4ic1jv0z5rjy9b9v1-stdenv-linux.drv jv7i8m6h1lagiz8rl11prgn76vqvhr1s-mirrors-list.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv s94w6q7nbzs2iyhd67j8sp6gcr62xkgz-curl-7.81.0.drv
-CA: text:sha256:0ag3qw9i3vl54sbp1f3n051qbmlkc8yzc2bbp41hyck80562bzma

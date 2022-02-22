@@ -1,0 +1,9 @@
+StorePath: /nix/store/fjzvx48dbbzv2444ab4p944zj4qlfi5v-libtapi-1100.0.11.drv
+URL: nar/01jlryb3b2d0vxrcagpgr19bm0cj0dv3r5qf01qlphilhbfv5y31.nar.xz
+Compression: xz
+FileHash: sha256:01jlryb3b2d0vxrcagpgr19bm0cj0dv3r5qf01qlphilhbfv5y31
+FileSize: 1232
+NarHash: sha256:07s0dchsdyb5310vx0vmf5vhk6qsw4l5ikaygw0q7v07hkls2kv8
+NarSize: 2672
+References: 2hcf6j84kf0hpizgxn1xbh4bamw7b09i-python3-minimal-3.9.10.drv 331y3xmav19nckqndzjgs9si393gikvc-bootstrap-stage3-stdenv-darwin.drv 79xln4yb0zql3j1zvc72yfi1y6333crl-disable-rpath.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv mg6mdkp21s0dyzwzr38ypb31ggafm2kz-cmake-boot-3.22.2.drv rlhh8rplh35fpd2glb222lyccfrjv5gv-source.drv y3vhl0h3nk6xhiw7p9vfifbygfn23f9f-ncurses-6.3.drv
+CA: text:sha256:0jnj3md0j4av7jndxnsbyahjzn69l6aph45y0i5j5m4146frpkzz

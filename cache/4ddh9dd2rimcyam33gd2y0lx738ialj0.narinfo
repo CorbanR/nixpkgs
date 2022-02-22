@@ -1,0 +1,9 @@
+StorePath: /nix/store/4ddh9dd2rimcyam33gd2y0lx738ialj0-subversion-1.14.1.tar.bz2.drv
+URL: nar/0yqqs33pmjiaxali1hi78vs3rmcd6ri8wm9dh68njmjjjkrqvvcr.nar.xz
+Compression: xz
+FileHash: sha256:0yqqs33pmjiaxali1hi78vs3rmcd6ri8wm9dh68njmjjjkrqvvcr
+FileSize: 1368
+NarHash: sha256:1ldy2bb24nfigp5p8ys5a69428wrnaa2alscfggbvccvk2xp08hv
+NarSize: 3160
+References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 929m2iwcwvfs0dnx35llysf1srz0ax06-mirrors-list.drv adfihj8631q2zbnc0w79sx8q02wyjsxx-curl-7.81.0.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
+CA: text:sha256:0da044y8qbrizjag59adwiz5ymhan7zrg538n0qf72fg02cs1z28

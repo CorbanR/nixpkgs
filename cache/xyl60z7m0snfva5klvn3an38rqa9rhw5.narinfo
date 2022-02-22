@@ -1,9 +1,0 @@
-StorePath: /nix/store/xyl60z7m0snfva5klvn3an38rqa9rhw5-ruby2.7.5-addressable-2.8.0.drv
-URL: nar/1r9rz3ibfgj9pazddzk0d1qxmss4p484i1fqmbc0n4s3fy3gs4gg.nar.xz
-Compression: xz
-FileHash: sha256:1r9rz3ibfgj9pazddzk0d1qxmss4p484i1fqmbc0n4s3fy3gs4gg
-FileSize: 2236
-NarHash: sha256:0zsrq817x5i0qs9mjcqw7kvzqz4jvmyyxasmnbkv87zvw1p8mb3p
-NarSize: 5280
-References: 11j5m6ds93pjvy2dc725r56zla62xl7v-hook.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh k4s6brj38yyrj1pillcivz205bqfbjn0-ruby2.7.5-public_suffix-4.0.6.drv lqgs572b4b0avmdcx5dldm5i650hvmfg-addressable-2.8.0.gem.drv pb7gdqrbf2dj58588rsak26sq3nm6acf-ruby-2.7.5.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv
-CA: text:sha256:0pr09zrrwgilq9r0sqrzjvzsgvwxjyw52vpnd46h7qzb74sycfpy

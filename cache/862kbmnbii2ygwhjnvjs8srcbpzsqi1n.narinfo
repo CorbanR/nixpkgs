@@ -1,0 +1,9 @@
+StorePath: /nix/store/862kbmnbii2ygwhjnvjs8srcbpzsqi1n-binutils-2.35.2.drv
+URL: nar/0q0sa8ch1ypayv0z8alqhw786g8zhs2b7ksxa438kkw2xx8zv881.nar.xz
+Compression: xz
+FileHash: sha256:0q0sa8ch1ypayv0z8alqhw786g8zhs2b7ksxa438kkw2xx8zv881
+FileSize: 2172
+NarHash: sha256:1q64y4shnslff054gmdczjj57j0dc9g74hpsjgaa8sfhyvbnknkl
+NarSize: 5096
+References: 0qqf9kcbvs0rn4ayg188ryq17raxzb66-perl-5.34.0.drv 1jm7zij6f5s2qpk5sb4fybjb0ycbask0-gettext-0.21.drv 2ngr9hkacxv39hi3yd5gjgkzpz6lqd2a-zlib-1.2.11.drv 3yp8kpj25p2xxb5s963xga4ckyj3fksl-CVE-2021-3487.patch 4y1r3844bnr50idyjpwbz6vbj5f7ndjq-binutils-2.35.2.tar.bz2.drv 59l91nqac7bpcw1qpxy15jwia5cqsppy-CVE-2020-35448.patch 8v8kiz9bqj00h75az6d8kc9qcpxkm7pd-gold-Update-GNU_PROPERTY_X86_XXX-macros.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bywrdch5fanra0331ddjdlzmbkd0xdry-bootstrap-stage4-stdenv-darwin.drv im0jwjjl7lwmcrd6sj6xyk0xwx52nfnh-bfd-elf-Dont-read-non-existing-secondary-relocs.patch kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv pa83jbilxjpv5d4f62l3as4wg2fri7r7-always-search-rpath.patch sa4zgv37g7r6wvgrl6w1shpf3j1k2bi6-CVE-2021-45078.patch sqbhaaayam0xw3a3164ks1vvbrdhl9vq-deterministic.patch v6k7wypc52lj38k1mgwxbal0p6v4v6l4-clang-wrapper-11.1.0.drv wilglaz00r3zpqy6j5awrzia446lzmk9-disambiguate-arm-targets.patch xqsxsa6lfn29q0ln2w7by697qydmyw8l-texinfo-6.8.drv yp06ssflk86fx9irwyyhwf7r4j1qzd7j-bison-3.8.2.drv
+CA: text:sha256:0r781z64gi7gfbjidzc9xkjajjbhqi29mbyjivqrw5rny2lxfpf3

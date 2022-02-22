@@ -1,9 +1,0 @@
-StorePath: /nix/store/fbqfzrwzl593hzxyz1mlhnvljmaysf4y-libunwind-35.3.drv
-URL: nar/0yv3m1llhlzjx0c9874srxhk2qacxsyqf6ifs4lysgnaz4py4gb5.nar.xz
-Compression: xz
-FileHash: sha256:0yv3m1llhlzjx0c9874srxhk2qacxsyqf6ifs4lysgnaz4py4gb5
-FileSize: 1084
-NarHash: sha256:1cp9xxp6a0iprbzx0lzp0lnkn2347djca93y2pk7sd907s3b97c6
-NarSize: 2320
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh gn4h5zy9d91k28vzd5v8nm7y3iir7s2h-libunwind-35.3.tar.gz.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:0lyl52fw03vm2lndz1ajdm3ymzbc0nfz5hpw5qh6waiy18i30qjm

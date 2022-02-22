@@ -1,9 +1,0 @@
-StorePath: /nix/store/jfw1f8rmx6yini56ycryq8x765h9gqhp-dartsdk-macos-x64-release.zip.drv
-URL: nar/12yma51dbz8yxb0i4kvaa3fwpmxm5r48fm8raacq3c64kihg31mr.nar.xz
-Compression: xz
-FileHash: sha256:12yma51dbz8yxb0i4kvaa3fwpmxm5r48fm8raacq3c64kihg31mr
-FileSize: 1372
-NarHash: sha256:1blwb27arf25fvh1y2vvlq6r3b2ab3qp18js277m6x44ic4m0s80
-NarSize: 3248
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 91rp7f409n4midar97qc82pslnig01sm-mirrors-list.drv mpaq3pcyg2x5hva4j0v64ahfgq53nqai-curl-7.81.0.drv wmn3nh4qkdxva3lszwsmfn3dr6d4nbam-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:1ar7hcvd873sc7nl52yfnhzr6h04mym10pw2hkc1xamsm5kzpcrs

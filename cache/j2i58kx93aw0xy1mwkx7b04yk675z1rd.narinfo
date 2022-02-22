@@ -1,9 +1,0 @@
-StorePath: /nix/store/j2i58kx93aw0xy1mwkx7b04yk675z1rd-install-shell-files.drv
-URL: nar/007zqqz7g3ypmm3x0r1ivz2zjlypxjn769gqycdkgpd3jsmmfcwg.nar.xz
-Compression: xz
-FileHash: sha256:007zqqz7g3ypmm3x0r1ivz2zjlypxjn769gqycdkgpd3jsmmfcwg
-FileSize: 804
-NarHash: sha256:0g2f8kihcfj4czwr7g019wqj0882nk3lc7kx2l2m97wzk9jnmc35
-NarSize: 1832
-References: 3inq067xw7bic7dy828bgjjzx54kav9v-install-shell-files.sh 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh w385yxgirva9zcw0zxk8zrir53rywj0q-bootstrap-stage3-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:1b28ws051lyf0kh44ygqaf7b7qiy5bjsyzsgzxij3dmqqy0fcrg8

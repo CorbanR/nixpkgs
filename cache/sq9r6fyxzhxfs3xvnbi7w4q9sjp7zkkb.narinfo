@@ -1,9 +1,0 @@
-StorePath: /nix/store/sq9r6fyxzhxfs3xvnbi7w4q9sjp7zkkb-openssl-1.1.1m.drv
-URL: nar/07krbbxwhjcwx1jwmv8kindibf2gf3inx818fwfb7v0kmi2n287x.nar.xz
-Compression: xz
-FileHash: sha256:07krbbxwhjcwx1jwmv8kindibf2gf3inx818fwfb7v0kmi2n287x
-FileSize: 1660
-NarHash: sha256:1vjskxi0bkrfwmxzxsnhn4qwv2z3s8nzp60kbsv3pwxcjvca8wbp
-NarSize: 4200
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 3xk9ps0qz073k641b88swpa4fgx3hzwg-nix-ssl-cert-file.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ikmqczy0y20n04a2b8qfflzwihv8139g-separate-debug-info.sh lzmcfv2m4ripknpvbsv8wcg1ik1kif4h-use-etc-ssl-certs.patch nvq0p6jvw4q463vp2j8v07zhpnspl11p-coreutils-9.0.drv p9lgv0y8lngigmxr2451pc0nkw06vsxx-perl-5.34.0.drv r2yyjf32xg0h8mk6y29qi5pg48g0qrhk-openssl-1.1.1m.tar.gz.drv zw0af42x7y1z3727905gx3dalp3gbk48-bootstrap-stage4-stdenv-linux.drv
-CA: text:sha256:08p2sb1j2ijxlfb0zg4i1kbc1074vnam8r98qcw9gh95ik5j4y1n

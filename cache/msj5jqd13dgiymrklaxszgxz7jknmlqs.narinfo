@@ -1,0 +1,9 @@
+StorePath: /nix/store/msj5jqd13dgiymrklaxszgxz7jknmlqs-p11-kit-0.24.1.drv
+URL: nar/1jpj53pcm209qvix21dj0bv21p7l1l2z0fd91wl7mvls2pvdqxfr.nar.xz
+Compression: xz
+FileHash: sha256:1jpj53pcm209qvix21dj0bv21p7l1l2z0fd91wl7mvls2pvdqxfr
+FileSize: 1732
+NarHash: sha256:05gxjrzgm8gqhap74isqp9ij6w1ykja8lkqk72yw86wflfxwrnkb
+NarSize: 3728
+References: 07psg71rn06j4yyckp2535s2ah40j3ay-which-2.21.drv 1dln9yf1znyb04j32s95lw91h16ddcs4-libtasn1-4.18.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9x182wp9y86gvw16wdadsvkdy3aj68il-docbook-xsl-nons-1.79.2.drv 9x22gsgd4xcb4z9pd309hnq6pbnp910h-glibc-iconv-2.33.drv ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv f0wy4mpbnjdjb6kkqnnkar99b5k3kyjc-gtk-doc-1.33.2.drv fh57pvwabqhwz24gpccm6harwhzr6qvh-install-shell-files.drv giyc40ql1dzwhz96aj8wksgmmcdi2zmy-libffi-3.4.2.drv nn9a22y6b6kipcs3l714kds065l9diqk-source.drv sqil88k1z34ipvymksbbl4alj5knyvz5-pkg-config-wrapper-0.29.2.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv zqm8i08q7ibpl5mf5ic519ql0l57awb1-hook.drv zxlkars63qz3m8255m3zjbighxqw8550-libxslt-1.1.34.drv
+CA: text:sha256:0vlx50immy98fqjqk91f273k3qqawq9jzn807s9656rb1c4l7947

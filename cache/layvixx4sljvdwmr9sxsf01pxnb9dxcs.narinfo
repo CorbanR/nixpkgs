@@ -1,0 +1,9 @@
+StorePath: /nix/store/layvixx4sljvdwmr9sxsf01pxnb9dxcs-ruby-2.7.5.drv
+URL: nar/0slpzxi0hsada3dbszwzpzcj8himnyj9j2vwl9ngi1bahh2dxyp0.nar.xz
+Compression: xz
+FileHash: sha256:0slpzxi0hsada3dbszwzpzcj8himnyj9j2vwl9ngi1bahh2dxyp0
+FileSize: 2464
+NarHash: sha256:0nlsn2blyckb7vgswq1i8fanynjmh04qqr4zivcp1cd5zc7lrqsw
+NarSize: 5496
+References: 2pd7zljaisncf7yradhq0x63069pqh7x-readline-6.3p08.drv 3iz44dg942mi2hpwzjxrn2s79bpxazwl-remove-references-to.drv 3msb1z97b8p2dc21fs4gv53fszaj1a5x-zlib-1.2.11.drv 45fs8hhm6afg0m0p2d635zhjh608bqsj-gcc-wrapper-10.3.0.drv 626r3hairjac6g6x1kp8mwa0s41zzn50-openssl-1.1.1m.drv 8ykqhd0k72x0mnrxkhd70rr0gp3i19fy-ruby-2.7.5.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9wan6sxiv5q6z0i2dj7digyfxmhz0d4r-source.drv ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv fdrgz54nfcj6wb2hj5brqg1483jcj02c-gdbm-1.20.drv gdl0cvi11914bqvnmjjs3xvqcpkcv17g-autoconf-2.71.drv giyc40ql1dzwhz96aj8wksgmmcdi2zmy-libffi-3.4.2.drv i6xfpnz8wjig2862i69llbb6g4g2qigj-bison-3.8.2.drv lhhf1s57afjxmvwxk7kvxvrf82y31jfw-gcc-10.3.0.drv md9xwnq03311nj7pssgmq769v1cyngjx-libyaml-0.2.5.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv w7yayg65p8vvi97a2952bpvq7rfwnszp-do-not-regenerate-revision.h.patch yl826qnbdcv0hp5yx8j20ypxza0qqvm9-ncurses-6.3.drv zqm8i08q7ibpl5mf5ic519ql0l57awb1-hook.drv
+CA: text:sha256:1s4grr4iq6zxznqlsbrfn0bxgi7wkw4v4hibajlrj7myb4qa79fl

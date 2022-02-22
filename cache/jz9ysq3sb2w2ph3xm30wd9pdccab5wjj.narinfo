@@ -1,9 +1,0 @@
-StorePath: /nix/store/jz9ysq3sb2w2ph3xm30wd9pdccab5wjj-libmpc-1.2.1.drv
-URL: nar/12809gzda4zj2xigzv7wrxnmkk5ysfkwcr1bhaizdqha8pq1fhh8.nar.xz
-Compression: xz
-FileHash: sha256:12809gzda4zj2xigzv7wrxnmkk5ysfkwcr1bhaizdqha8pq1fhh8
-FileSize: 912
-NarHash: sha256:1v97argps2z1mf2a716xikyxh63rpdm858gp6akdkflccbc3w6m4
-NarSize: 1904
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 78lps2qkbhzzbsna7f224lsknmqr7xbr-mpfr-4.1.0.drv 7r3b56dqf8jy4qd922i8ziisrn6ijikr-mpc-1.2.1.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh lh9wxsp0fnvgvg6x0rdixrp7l8qim5lw-bootstrap-stage3-stdenv-linux.drv szvjp4l5br69qj0ag55kfhd6djr7cff2-gmp-6.2.1.drv
-CA: text:sha256:0vbcmphhaisd2vg6zkbi7kavy6sdgqqh7p4fvgzmgnkm81x2297p

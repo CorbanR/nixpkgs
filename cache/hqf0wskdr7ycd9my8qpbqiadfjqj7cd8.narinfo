@@ -1,9 +1,0 @@
-StorePath: /nix/store/hqf0wskdr7ycd9my8qpbqiadfjqj7cd8-bootstrap-stage4-stdenv-darwin.drv
-URL: nar/0i3w8x0vwxnawg16sbhw33pggs370174avbj0bcr9mmw3wq4gpf0.nar.xz
-Compression: xz
-FileHash: sha256:0i3w8x0vwxnawg16sbhw33pggs370174avbj0bcr9mmw3wq4gpf0
-FileSize: 1576
-NarHash: sha256:1793sf4pg650yn44fvfxynj5k43skfvmskll44jmq56xr21fvbhi
-NarSize: 3752
-References: 0a6mpziixrr57gabqm760lyv6dh6m8xw-swift-corefoundation-unstable-2018-09-14.drv 1i5y55x4b4m9qkx5dqbmr1r6bvrqbanw-multiple-outputs.sh 59jmzisg8fkm9c125fw384dqq1np602l-move-docs.sh bkxq1nfi6grmww5756ynr1aph7w04lkk-strip.sh bnj8d7mvbkg3vdb07yz74yhl3g107qq5-patch-shebangs.sh cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh ckzrg0f0bdyx8rf703nc61r3hz5yys9q-builder.sh d7p96abid6170q60c5dhlr359p8haxcr-clang-wrapper-11.1.0.drv fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh imhrak8vqj6f5685gb4azmlfihhqh7hp-adv_cmds-119.drv kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh kkl8x4klm13pdh7693lrnl5q8vcwrz28-xz-5.2.5.drv kxw6q8v6isaqjm702d71n2421cxamq68-make-symlinks-relative.sh m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh ngg1cv31c8c7bcm2n8ww4g06nq7s4zhm-set-source-date-epoch-to-latest.sh r5sf86jnl7872lzxqfsldv13yx9g7ymv-setup.sh wlwcf1nw2b21m4gghj70hbg1v7x53ld8-reproducible-builds.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:17j0z3mixz94xmashqxiiv208jl06641pj4bpvv33sl1rrsfbr2b

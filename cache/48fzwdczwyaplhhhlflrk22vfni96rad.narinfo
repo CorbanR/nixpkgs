@@ -1,9 +1,0 @@
-StorePath: /nix/store/48fzwdczwyaplhhhlflrk22vfni96rad-apr-util-1.6.1.tar.bz2.drv
-URL: nar/04kjkfrc6lki6ynhpp40a7nfn6i4g6p8ywg6wl4wpdiy79qxzh8c.nar.xz
-Compression: xz
-FileHash: sha256:04kjkfrc6lki6ynhpp40a7nfn6i4g6p8ywg6wl4wpdiy79qxzh8c
-FileSize: 1268
-NarHash: sha256:021b9wnr1bc4rf6drpnk51cbqrfppg75s6c89kq3wck01k2kr7aq
-NarSize: 2880
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh cp60vfc62rc7rzn4ic1jv0z5rjy9b9v1-stdenv-linux.drv jv7i8m6h1lagiz8rl11prgn76vqvhr1s-mirrors-list.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv s94w6q7nbzs2iyhd67j8sp6gcr62xkgz-curl-7.81.0.drv
-CA: text:sha256:0v12qrgg5mci0ds2m4c75m052gmldb5mb6p6h8k44r5vxh34hf6c

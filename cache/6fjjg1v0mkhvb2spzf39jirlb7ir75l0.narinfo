@@ -1,9 +1,0 @@
-StorePath: /nix/store/6fjjg1v0mkhvb2spzf39jirlb7ir75l0-gmp-6.2.1.drv
-URL: nar/16j423by8pb6fgyv93f8x51d7dn76xim0p0mf2m2ixls86hlj1dp.nar.xz
-Compression: xz
-FileHash: sha256:16j423by8pb6fgyv93f8x51d7dn76xim0p0mf2m2ixls86hlj1dp
-FileSize: 1016
-NarHash: sha256:1b7l5p80p8hh44ph2rnnpfw45d9dq1f5qawqi4in3r9hs6lympg8
-NarSize: 2320
-References: 634lrx5bacshlnv1rzpvggazwlbpn6b9-gcc-wrapper-10.3.0.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh f4z3x6hvmh9w0qar0icj8vx2hhz3857m-gnum4-1.4.19.drv h96aykl4imzhfapnmavplr49v43c8apx-6.2.1-CVE-2021-43618.patch r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv vcah7jx7l9mn45a9p99h852yf2l3zb5l-gmp-6.2.1.tar.bz2.drv
-CA: text:sha256:1aq8zw1srbzvrmv5jgngq1594qzdq6ml1xd8jsdnziycvckrxij2

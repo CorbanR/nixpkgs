@@ -1,9 +1,0 @@
-StorePath: /nix/store/rpl45j0yfxqg3357kg5ji683ghd58z6j-libnfnetlink-1.0.1.drv
-URL: nar/079an2vllkpkv0f9l7a57vqs62qyj6b9fisv3ggcpbb73drniy5q.nar.xz
-Compression: xz
-FileHash: sha256:079an2vllkpkv0f9l7a57vqs62qyj6b9fisv3ggcpbb73drniy5q
-FileSize: 740
-NarHash: sha256:17wb9464d9cisicv1p74jszkfkprazmwbkyvxdhcr7scwjw40vzz
-NarSize: 1672
-References: 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh i3fjmj39sspp8b0nax20ly560xyd8i9p-libnfnetlink-1.0.1.tar.bz2.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv shpjchz7kli6y3xbdbab34q009v5hl4h-Use-stdlib-uint-instead-of-u_int.patch
-CA: text:sha256:0nyvcx2xfr083ifjfxsg7ihm9gkqb5h6g3ldk9wrgfd19wpkyi20

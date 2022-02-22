@@ -1,9 +1,0 @@
-StorePath: /nix/store/a8f1fzh49q7ic4awsbjk5qyida0kwzly-glibc-2.33-62.drv
-URL: nar/0bxa1qdmyk5rzmfz23mw8rm56xpsf9c3p2nmp11vrgw7pf720jny.nar.xz
-Compression: xz
-FileHash: sha256:0bxa1qdmyk5rzmfz23mw8rm56xpsf9c3p2nmp11vrgw7pf720jny
-FileSize: 3616
-NarHash: sha256:02i31v4njnkd80yh19fr4nh6vjw46j9vsmn1knlcpp4mvmblrhkb
-NarSize: 8784
-References: 001gp43bjqzx60cg345n2slzg7131za8-nix-nss-open-files.patch 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 1zi0k7y01rhqr2gfqb42if0icswg65sj-locale-C.diff.drv 4v7436dq5xich9il2w5rb12qx2vhfi00-2.33-master.patch.gz 7kw224hdyxd7115lrqh9a4dv2x8msq2s-fix-x64-abi.patch 7ky568qn15ncf1634mwaaxf0n07qbjbn-bootstrap-stage2-gcc-wrapper-.drv 8xk6mmh5midm6gi3s6dr8s7k14h48mxm-glibc-2.33.tar.xz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b1w7zbvm39ff1i52iyjggyvw2rdxz104-dont-use-system-ld-so-cache.patch cvyn56a26f3fcgcby188hazi1739zfvh-binutils-2.35.2.drv f40n6r9rskhrw36gprbphigmg7qjf68k-linux-headers-5.15.5.drv ikmqczy0y20n04a2b8qfflzwihv8139g-separate-debug-info.sh k2j2654jsbrvkf4s15r9hfb986fn10n1-bison-3.8.2.drv l5zr5m1agvvnic49fg6qc44g5fgj3la1-glibc-reinstate-prlimit64-fallback.patch?id=eab07e78b691ae7866267fc04d31c7c3ad6b0eeb.drv mnglr8rr7nl444h7p50ysyq8qd0fm1lm-dont-use-system-ld-so-preload.patch pp29isd0nvy4jrm9q2f92pjlc83xwa0i-nix-locale-archive.patch wfqphrp5z0injpsjl01h0wgsp57yvx5v-libidn2-2.3.2.drv wn7jb1w30r1lrfassb8w68y46ryg7xa5-python3-minimal-3.9.9.drv xkd50xxii6k7l1kmw4l5x6xzbhamcs87-allow-kernel-2.6.32.patch ym8d2w4hj7xrhn8ma924cwwcp5bmslfs-bootstrap-stage2-stdenv-linux.drv z9abp61ms3nzcajv3nicl9sl2dk9xn1r-bootstrap-stage0-glibc-bootstrap.drv za0pg7fmysrcwrqcal26fnmzw6vycgdn-fix_path_attribute_in_getconf.patch
-CA: text:sha256:0bgq0x0ang37wf83gdhpc878zk8ihr46c594j5ha0jgm17ldfn6l

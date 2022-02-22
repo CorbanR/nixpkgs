@@ -1,9 +1,0 @@
-StorePath: /nix/store/ag4i7a1jsl66lsvns3ykaic3w0nkvp6i-python3.9-bootstrapped-pip-21.3.1.drv
-URL: nar/0x57cmq5i60ha3a9155pgbprsgnf4xl0byjlxawkak3brwkb7zg8.nar.xz
-Compression: xz
-FileHash: sha256:0x57cmq5i60ha3a9155pgbprsgnf4xl0byjlxawkak3brwkb7zg8
-FileSize: 1564
-NarHash: sha256:1i0p324bzax4pk2xq99331jp9lnp0lbfpn7yqyfwq1b8kqfawb4y
-NarSize: 3792
-References: 11j5m6ds93pjvy2dc725r56zla62xl7v-hook.drv 1y9nd0whsv3p0y2xss0f14klyp3sfbaf-unzip-6.0.drv 8aljas20xka9y2ik07r09s5lrcin3w86-pip-21.3.1-source.drv 8gqyrdm43hxh26i0563njm9cz69sfpih-wheel-0.36.2-source.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ivkzir164w6srra2fjvaw3czs20pz8qv-pip-install-hook.drv kzrl6i6jlfqnyyd1jlc9j3h78pngsjcc-setuptools-57.2.0-sdist.tar.gz.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv rprw6ig8fpyywkmk9vq1lfk3rv1s93ay-python3-3.9.9.drv wrxn30c98z1qhygg45w6fx76x8k3jk7g-setuptools-setup-hook.drv
-CA: text:sha256:12ds6lm815yh7yszfqq7paa3l0r31ifrc5a5hr2b2bbp9lavp2py

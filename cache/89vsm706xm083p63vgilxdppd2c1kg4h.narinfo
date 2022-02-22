@@ -1,9 +1,0 @@
-StorePath: /nix/store/89vsm706xm083p63vgilxdppd2c1kg4h-iana-etc-20211124.drv
-URL: nar/007an2pkp9a9bifc2p4l4mdmra97f99kam2w4h5vml23afjdmdm4.nar.xz
-Compression: xz
-FileHash: sha256:007an2pkp9a9bifc2p4l4mdmra97f99kam2w4h5vml23afjdmdm4
-FileSize: 884
-NarHash: sha256:0lk4jpndkn99fmx48knw86yfdx7nrsh4bg4xqfi874a4h69r1c90
-NarSize: 1888
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh mab727zfrq0a1h47r1aiwpz7n9wnpm45-setup-hook.drv vm795969hy2nhqdd73wiw4hapwfp0i87-source.drv wmn3nh4qkdxva3lszwsmfn3dr6d4nbam-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:081p900kkj09wifihvwdzpia4503k6kjnpmh6m43wsqlkafl74gq

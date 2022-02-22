@@ -1,9 +1,0 @@
-StorePath: /nix/store/v7gkxwjfkdkbxzgxb2g33ar5nvv5zkqx-libidn-1.38.drv
-URL: nar/0gysv6c6ric9z1v1s7z8jxpg1qmzx7dzv4j686wlqhsf4780f0y8.nar.xz
-Compression: xz
-FileHash: sha256:0gysv6c6ric9z1v1s7z8jxpg1qmzx7dzv4j686wlqhsf4780f0y8
-FileSize: 916
-NarHash: sha256:1ckr2g7437r7x21yn9a1g766a4d69bgkvkmlh9bjgyskb8pn7s2v
-NarSize: 2192
-References: 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv zha14cg1y2xmf59v6v30f6xq0yjljmka-libidn-1.38.tar.gz.drv
-CA: text:sha256:1y21ixrgycgp8rai7434x7551xq9w208kafb0786imi6wxi4051f

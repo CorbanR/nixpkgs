@@ -1,9 +1,0 @@
-StorePath: /nix/store/b6drxdr29y53ggjw9wrap6pywj0dgad7-setuptools-57.2.0-source.drv
-URL: nar/1j643ri6sk5nz96acrldbad1azahp94n0rlrha8qyl9p6a5g2a48.nar.xz
-Compression: xz
-FileHash: sha256:1j643ri6sk5nz96acrldbad1azahp94n0rlrha8qyl9p6a5g2a48
-FileSize: 1624
-NarHash: sha256:1z03jlcm2kknmm8wvvmsrscjgb6g0zrwf600n9b3v1piay1fnvyc
-NarSize: 3584
-References: 1y9nd0whsv3p0y2xss0f14klyp3sfbaf-unzip-6.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh cp60vfc62rc7rzn4ic1jv0z5rjy9b9v1-stdenv-linux.drv jv7i8m6h1lagiz8rl11prgn76vqvhr1s-mirrors-list.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv s94w6q7nbzs2iyhd67j8sp6gcr62xkgz-curl-7.81.0.drv
-CA: text:sha256:12h4f1pazdm4s2n5bmbxdyvlvh0g9jhb4hil7mp3w9c57wzk1fw1

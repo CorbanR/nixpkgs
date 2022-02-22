@@ -1,9 +1,0 @@
-StorePath: /nix/store/2h34ngw4s0h7skkn3m51dvnj66fc7kdd-libtool-2.4.6.drv
-URL: nar/13sy1m44aqnzplaalr8ww0jz2p9mmsp7q76zrmdmkbzxsccwili6.nar.xz
-Compression: xz
-FileHash: sha256:13sy1m44aqnzplaalr8ww0jz2p9mmsp7q76zrmdmkbzxsccwili6
-FileSize: 1176
-NarHash: sha256:1j1ncs2kn6if4pw661jlyqbrfxfviha18j2kjg4x250ypl72ig29
-NarSize: 2720
-References: 0pc18b91az604bmggly2891hgrjd9qbf-libtool-2.4.6.tar.gz.drv 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bdbrph9x5jqmk6jsbxjy3j6qxnr8qcva-autoconf-2.71.drv hvqwd1wxqy88vcxgjk71590111igywk4-gnum4-1.4.19.drv p9lgv0y8lngigmxr2451pc0nkw06vsxx-perl-5.34.0.drv rx15nhfpas4kxzacqsrnjy49dh991gzm-automake-1.16.5.drv xq30c2gx2ir2zn234m7yj8igawc3jnb6-libtool2-macos11.patch ym8d2w4hj7xrhn8ma924cwwcp5bmslfs-bootstrap-stage2-stdenv-linux.drv zpi8d52yfjvz40256visigsz64w1bzlc-help2man-1.48.5.drv
-CA: text:sha256:0798smabx430zrnfw36sd87q7gswvi59h1hvj0zcj8y2jwbrfcy3

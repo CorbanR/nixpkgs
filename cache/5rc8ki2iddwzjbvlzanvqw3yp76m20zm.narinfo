@@ -1,9 +1,0 @@
-StorePath: /nix/store/5rc8ki2iddwzjbvlzanvqw3yp76m20zm-clang-13.0.0.drv
-URL: nar/1p90dgr0ginjf4v2bb897yf7ywn7lgpqrv4qvdkv1vjxbmwwqha6.nar.xz
-Compression: xz
-FileHash: sha256:1p90dgr0ginjf4v2bb897yf7ywn7lgpqrv4qvdkv1vjxbmwwqha6
-FileSize: 1976
-NarHash: sha256:14nmxv81yqnbg2rbngadm8anmrq3m5qsa1p2in2x0k9jc6xf1kxf
-NarSize: 4600
-References: 34zhl915l308dpa7v2786z3xgbvy6398-purity.patch 9dpgkfl6vxqwla9vxarhj05wyha1gdg5-python3-3.9.9.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9mda4dix3blzjwjybilycpf0vqqf3rm8-gnu-install-dirs.patch c0nvqp81g4fjc1prsffirgcsrylhy45p-llvm-13.0.0.drv fvj1bkz7gxqxyg3038bwciwf22w70jz9-source.drv m6gchfynp5clz77bg4l52g7xrxp1z1ha-revert-malloc-alignment-assumption.patch sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv vk1vy0nhrnw41xhyc8z9x8xvdbkihx15-clang-11-12-LLVMgold-path.patch.drv wfh6p2lv903in87ry8j91rbawfrfi4bs-cmake-3.22.1.drv x10j3iplms29iw4hyxr1y2b5a9dr19a8-libxml2-2.9.12.drv yd1csq2gph2b06b0g691nr5mc9ci5dsc-hook.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:0b78v0pmfqs9wsgnnvinsliaw3cd1mps9wllz9s2hiy9fqk5zgqh

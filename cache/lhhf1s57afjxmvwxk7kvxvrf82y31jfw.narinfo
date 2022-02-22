@@ -1,0 +1,9 @@
+StorePath: /nix/store/lhhf1s57afjxmvwxk7kvxvrf82y31jfw-gcc-10.3.0.drv
+URL: nar/17arg6ajw58nxdxc136q9vb2l2xz18v968saj2vcnj914jq0spzi.nar.xz
+Compression: xz
+FileHash: sha256:17arg6ajw58nxdxc136q9vb2l2xz18v968saj2vcnj914jq0spzi
+FileSize: 2700
+NarHash: sha256:1vvziqj8a2c9qr02z7wa588shmhc5s5ms6rn2dbqyjasca1casbn
+NarSize: 6824
+References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 2wyg9andr9551805b5nddw53912b0hhr-mpfr-4.1.0.drv 3msb1z97b8p2dc21fs4gv53fszaj1a5x-zlib-1.2.11.drv 4k7n61apbmyw8wxh0914nyixpig7cia7-builder.sh 8ra7jbmd630w0rrvkr2xdifacjh42d00-bootstrap-stage3-stdenv-linux.drv 92hax2x0l6bc0qxd5344xvdp8kjaf37b-perl-5.34.0.drv aap7h388p1m9jq497998s78knhqrxff8-isl-0.20.drv gcyaki78ksxg9s211y4zr4ppnrq1jwlm-binutils-wrapper-2.35.2.drv ixw7pdz6i74wgcns61wf9gpjn1wfgywn-texinfo-6.8.drv j6mfpkdnlrdhvih9cj8fciv97qdk5mza-libelf-0.8.13.drv jv3nbnlsgn6idf3y348gl1800b2z8n81-bootstrap-stage3-gcc-wrapper-.drv lkv5iv7bw80ks35c4mmlg56i10xw3x0n-gettext-0.21.drv mmxj8h5mq8p4jp2nlhvd0sg5c83zpmgz-which-2.21.drv pz03lhak99nzyyni72m14zsjzfjvqvr8-no-sys-dirs.patch qh0zicqin3zrlj4ywz2jgz9i8c7yxwsf-libsanitizer-no-cyclades.patch rybhsnchwvqh5imd41fh4n7xfkdiai1j-gmp-6.2.1.drv slgzqc5n8khqjzps5gvz2fjr9lv3x3kl-gcc-10.3.0.tar.xz.drv vp151rd88nxn0370579hwxs1q9z7q4r9-libmpc-1.2.1.drv whx0nk7a988qv48fimslz39khqbpw6b9-patchelf-0.14.3.drv x7lpb6zp4p7qvlk87vs4fkkm5d7jfdn1-glibc-2.33-108.drv
+CA: text:sha256:1blk5drrrmqal7sj6msynv06is3crl4fllz2xb2ksxlp0q74dvkn

@@ -1,0 +1,9 @@
+StorePath: /nix/store/ygdbg8l13bhagwkkgliv04x2n8fsi2xa-indent-2.2.12.drv
+URL: nar/0xqdr8qsaghlmin2gdjs17zd7fv1cs875aa2r6k6l4d9gniba13c.nar.xz
+Compression: xz
+FileHash: sha256:0xqdr8qsaghlmin2gdjs17zd7fv1cs875aa2r6k6l4d9gniba13c
+FileSize: 1084
+NarHash: sha256:1aqwr7jfn7sfhji7g954l2g9mrida1zhlprli0mqk457d6iawbwn
+NarSize: 2336
+References: 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 859hq743cg23yshcfj6km4rqv2kz6vfl-texinfo-6.8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv qhmw0574hsjlb1cwqm637ax2wk4kvxgv-darwin.patch rwd7gm7sv00ipcqncjfaxlm21vq2f4kx-clang-wrapper-11.1.0.drv yacz7yyzqsndzz17i9pgmv4d7gg08caj-indent-2.2.12.tar.gz.drv
+CA: text:sha256:02wm83dnyyp1jhs8r3jzxvvcpp4aiznqk2jvcgsjsfnnjkjmhrja

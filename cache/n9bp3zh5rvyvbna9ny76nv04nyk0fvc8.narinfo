@@ -1,9 +1,0 @@
-StorePath: /nix/store/n9bp3zh5rvyvbna9ny76nv04nyk0fvc8-setup-hook.drv
-URL: nar/0akjfpfm87qxc7zkqlkm77l741mza6xf224bbh4yw0dagh1i5mnh.nar.xz
-Compression: xz
-FileHash: sha256:0akjfpfm87qxc7zkqlkm77l741mza6xf224bbh4yw0dagh1i5mnh
-FileSize: 920
-NarHash: sha256:0gar1y6y4aspb96zla08hf83whsb9167xs5hg31g1k9nhj19hw4s
-NarSize: 1976
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh w385yxgirva9zcw0zxk8zrir53rywj0q-bootstrap-stage3-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:0mik611aa019hass99w501phx3w8acbq31qflkmrcqkmpxz93s9i

@@ -1,0 +1,9 @@
+StorePath: /nix/store/7g303l4c33vycaard6rs2wrdv4fv0nll-groff-1.22.4.drv
+URL: nar/12sr2m6byqf6273kk6diw5yqrja7z2kxk508smldvs65k5f6rxm8.nar.xz
+Compression: xz
+FileHash: sha256:12sr2m6byqf6273kk6diw5yqrja7z2kxk508smldvs65k5f6rxm8
+FileSize: 1732
+NarHash: sha256:0a54wqgc0279bp3x920yp7alk1h1qvvv201s8iah6czsayb6bjls
+NarSize: 4720
+References: 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 859hq743cg23yshcfj6km4rqv2kz6vfl-texinfo-6.8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh aw2wfs2lvj84vc7mmy3fqh4jkqjwkzmr-hook.drv b7y88azisww8cf4syzmc3lrm8grc5324-site.tmac fhs88bjhn34y32a78iz9niadykb5qndi-0001-Include-config.h.patch.drv j5n4i0ziynd0kmwfh98mfadc80l6h89r-0001-Fix-cross-compilation-by-looking-for-ar.patch kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv vkmqkj782lrr173rqn8d8zpzs3frzg52-pkg-config-wrapper-0.29.2.drv wnzka4q5y5z8y3k3sjppjb5pyyvgfmwm-groff-1.22.4.tar.gz.drv x4x61k1xjryn7ylk7d69cxs0lhj27irb-perl-5.34.0.drv
+CA: text:sha256:1a9dbfhsn6hpin3dr8lzkiw50c550wk9hr4l890kiwmld2n8ldjq

@@ -1,0 +1,9 @@
+StorePath: /nix/store/yhqj5b1c1s3i1ay7swcvw25h2plygpbp-ruby2.7.5-treetop-1.6.11.drv
+URL: nar/07zwbkdwsdhncy31vqycnbv5yiwfwwx9pdbcf99qnd4gvw4m0d9m.nar.xz
+Compression: xz
+FileHash: sha256:07zwbkdwsdhncy31vqycnbv5yiwfwwx9pdbcf99qnd4gvw4m0d9m
+FileSize: 2228
+NarHash: sha256:19vfwn576z613ih1z3kr1lm7xhyq16xs9hbsr4bmxsn0b7r0kqss
+NarSize: 5240
+References: 3zjlvr4jfbxgxhl18zc6x3rx9600sx5d-ruby2.7.5-polyglot-0.3.5.drv 7pyw5rc611fpg3qg1j68lz642gn1lbvk-treetop-1.6.11.gem.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv h86b67i9sqa9m3fzhw2pwb7gflapa4sx-ruby-2.7.5.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb sxd24p83q3jh2wj54pwqqllgn0973mp4-hook.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
+CA: text:sha256:1dyfb3acc82g3lvb8y4bdmgy23wl1h2g02ghqyrblz9x2a2i7x7c

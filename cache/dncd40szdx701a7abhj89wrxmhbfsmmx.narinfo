@@ -1,9 +1,0 @@
-StorePath: /nix/store/dncd40szdx701a7abhj89wrxmhbfsmmx-libtool-2.4.6.drv
-URL: nar/0hc9f02xnidcaskd0c780qvq9j0cgbnyi1pb7a4ch228lxr1clmx.nar.xz
-Compression: xz
-FileHash: sha256:0hc9f02xnidcaskd0c780qvq9j0cgbnyi1pb7a4ch228lxr1clmx
-FileSize: 1164
-NarHash: sha256:126znmzx8ch9spry6b7qcbyi22amp9pwcpz1szm9sjr9rggdnfrv
-NarSize: 2680
-References: 45g0ji0g0hma3knd6i7zffqy0dh8sip6-autoconf-2.71.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c5bwk4svwgnzwp046lqil3gy95a8d7ip-libtool-2.4.6.tar.gz.drv f4z3x6hvmh9w0qar0icj8vx2hhz3857m-gnum4-1.4.19.drv ppz5rgg0b89crfgwqapwfwhhnvlrs4xm-help2man-1.48.5.drv qnh6q5r37digvpnb55l4324i8rgbc69p-automake-1.16.5.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv xq30c2gx2ir2zn234m7yj8igawc3jnb6-libtool2-macos11.patch y4abap6zqvwrxb8fbbnbidhghrixakpv-perl-5.34.0.drv
-CA: text:sha256:0rr2m92yrqzvwzql5dybbgr6s2nr7v5xik5r319zzva0id12icjk

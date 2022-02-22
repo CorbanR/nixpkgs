@@ -1,0 +1,9 @@
+StorePath: /nix/store/jgj2d1rcylfc1srrx20dq0n7i2ccqfa6-ruby2.7.5-coderay-1.1.3.drv
+URL: nar/1213jgcn6x56490fy03adpbphqrzs16bg5bi078h74acwlzjlpka.nar.xz
+Compression: xz
+FileHash: sha256:1213jgcn6x56490fy03adpbphqrzs16bg5bi078h74acwlzjlpka
+FileSize: 2308
+NarHash: sha256:00hzgyxjkbmncs1lixy4rpmfj74xzwzy7ir8mg4ajglsrls0gz6k
+NarSize: 5304
+References: 2v3c39d8prmk87ybxdapiwiffagrkxfm-ruby-2.7.5.drv 55d1br66l9pwx36aq26n4zyax06xxaf4-coderay-1.1.3.gem.drv 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c246s04dv8izbfn06hx2invx1zlzvadv-objc4-709.1.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb vgldcdj3iwzyx4zd0ql174k9kmvpp88b-hook.drv
+CA: text:sha256:1caqg644wjb3h3mkhqnza76xrp23ambqfmf95v6knkzrmcbl6yxv

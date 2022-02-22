@@ -1,0 +1,9 @@
+StorePath: /nix/store/c0ngn9b4asv2n14il878ryv548m3m5yp-swift-corefoundation-unstable-2018-09-14.drv
+URL: nar/00bgm78g4l6h8p1yf3cq3x03j326yvx3q4w86gq3byq71j20ghi3.nar.xz
+Compression: xz
+FileHash: sha256:00bgm78g4l6h8p1yf3cq3x03j326yvx3q4w86gq3byq71j20ghi3
+FileSize: 2504
+NarHash: sha256:06hr4j94sc72ms8kn09avz3sxayfqmaps7l8hrir8iars7dqyp69
+NarSize: 5608
+References: 15cdfbn0bvq6f9idghc3362wc3ad1vpw-curl-7.81.0.drv 2hcf6j84kf0hpizgxn1xbh4bamw7b09i-python3-minimal-3.9.10.drv 331y3xmav19nckqndzjgs9si393gikvc-bootstrap-stage3-stdenv-darwin.drv 8y01kmmpv54fmdq18mzhbi5p2c404vri-objc4-709.1.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b2fxrgq03qnp01kbkp5a36j5h4gg6ajg-source.drv kb9pjv0izx35f14pad17wdvwqpkizhx9-ninja-1.10.2.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv kz58x5g2xjqg7zxc0bl5r7r3v5fan6gj-ICU-66108.drv l3173a1m6qmzykb4c0arl1m04phb1c53-0001-Add-missing-TARGET_OS_-defines.patch vbhj71cgj9gn34a0brm3jkd9kwkpm1dx-libxml2-2.9.12.drv yj9ywqnbw5s7xl14drk2m5mw3z9xpxvs-CFSystemDirectories.c.drv
+CA: text:sha256:1hxsqrxgnrsl2k1lzcr9v4kiyd3r4b1lddc56mh9qfql8h5p4zl9

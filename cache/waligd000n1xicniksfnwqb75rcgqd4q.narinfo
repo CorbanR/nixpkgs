@@ -1,0 +1,9 @@
+StorePath: /nix/store/waligd000n1xicniksfnwqb75rcgqd4q-libgpg-error-1.42.drv
+URL: nar/13nkxpf8aakdy9lp4hcz3irc14jsmkp536az4gfwbb1nczishw97.nar.xz
+Compression: xz
+FileHash: sha256:13nkxpf8aakdy9lp4hcz3irc14jsmkp536az4gfwbb1nczishw97
+FileSize: 1028
+NarHash: sha256:0x0r07kq3hj1pq2868c2a8dknic0jj745spgppbc20n364c2xz89
+NarSize: 2384
+References: 3l8bksr6fgavgq42hmvdgqc4snv65635-fix-1.42-cross-compilation.patch 45fs8hhm6afg0m0p2d635zhjh608bqsj-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv bvzhprgwblj2hkf1p61b02l0lx50mwni-gettext-0.21.drv jiswnnx81lc2sd1fic3xsq4pb1yvbsy5-libgpg-error-1.42.tar.bz2.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
+CA: text:sha256:1098vx5vlal7n7np5va3nr7r8byyv3x50fczfr4r7x3r06c3785d

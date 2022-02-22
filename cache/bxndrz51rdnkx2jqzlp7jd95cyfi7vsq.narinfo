@@ -1,0 +1,9 @@
+StorePath: /nix/store/bxndrz51rdnkx2jqzlp7jd95cyfi7vsq-iproute2-5.14.0.drv
+URL: nar/0zb7ib0qnx3fpidl71cm12nn2y7j1yhyw7vcs0barnlb7ppl2hw3.nar.xz
+Compression: xz
+FileHash: sha256:0zb7ib0qnx3fpidl71cm12nn2y7j1yhyw7vcs0barnlb7ppl2hw3
+FileSize: 1508
+NarHash: sha256:1rmiqlrz88ivnhf0vk2rvp7jdrvp0dxlxamfqdyan41v7k104kyk
+NarSize: 3264
+References: 45fs8hhm6afg0m0p2d635zhjh608bqsj-gcc-wrapper-10.3.0.drv 6pb6manyj9msfw90y1q9j9wmcdfvrmmk-?id=a3272b93725a406bc98b67373da67a4bdf6fcdb0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv cj111055jz21qqhchdzkwmscz2qhi36z-libelf-0.8.13.drv i6xfpnz8wjig2862i69llbb6g4g2qigj-bison-3.8.2.drv m7jng4p0gzi7zvsvkkskhasbgj071nvw-libmnl-1.0.4.drv mzva59mwxkas2lnn609q509iy8f2hx7l-iptables-1.8.7.drv pwjgzj3l0ral89ampdfws3nfi6nv1f73-flex-2.6.4.drv sqil88k1z34ipvymksbbl4alj5knyvz5-pkg-config-wrapper-0.29.2.drv vaig54m8flqzajj7xbg9qq1rjk491h8v-db-5.3.28.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv zzafrnxfx557yv2sr9pspxyfy3svl8sy-iproute2-5.14.0.tar.xz.drv
+CA: text:sha256:0qzpd6ijb2x5m2rxcpddvxbpxx1dar5kxi3bswzcmy9i032wkh91

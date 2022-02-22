@@ -1,9 +1,0 @@
-StorePath: /nix/store/frjpia8nn99ahb6bdmx6nxbj5a3jdiza-flex-2.6.4.drv
-URL: nar/1287899ljy7id83ybw62z5nfc744ncjpbyzsibs3w76wc44gqyz4.nar.xz
-Compression: xz
-FileHash: sha256:1287899ljy7id83ybw62z5nfc744ncjpbyzsibs3w76wc44gqyz4
-FileSize: 1260
-NarHash: sha256:1rxig2brc7zrvk2fyi2qb086xiblml8nl2b14wwk0za7nmh7v50y
-NarSize: 2680
-References: 1fpjdfvrlbp7di0yd535if242g785x9h-bison-3.8.2.drv 41nl7zhya8c2wlg95xq2n8nyx749bi8k-glibc-2.26.patch.drv 66kskh2kvbwf6yzq3n79gn7xnpr89h8l-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9yd672xfa2d0lhw75w6c42ypx0aavjjn-help2man-1.48.5.drv d7p96abid6170q60c5dhlr359p8haxcr-clang-wrapper-11.1.0.drv gl47qsqbzr5wh07fxg3j89ngb9pvqzlh-flex-2.6.4.tar.gz.drv hqf0wskdr7ycd9my8qpbqiadfjqj7cd8-bootstrap-stage4-stdenv-darwin.drv y7hshnnlnd7f15614yjjjzvb82crxx1r-gnum4-1.4.19.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:133n66gl8zw4s7rfl5k5ab81dggjkhzlx02kij4gabky0xx5ypx8

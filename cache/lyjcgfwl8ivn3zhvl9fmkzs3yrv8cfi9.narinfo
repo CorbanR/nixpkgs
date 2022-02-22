@@ -1,0 +1,9 @@
+StorePath: /nix/store/lyjcgfwl8ivn3zhvl9fmkzs3yrv8cfi9-elfutils-0.186.drv
+URL: nar/0wq0nlpsq8gl6rgb0lgry07zi739b2f2zcd1kvydhgvlkwfv2kj7.nar.xz
+Compression: xz
+FileHash: sha256:0wq0nlpsq8gl6rgb0lgry07zi739b2f2zcd1kvydhgvlkwfv2kj7
+FileSize: 1780
+NarHash: sha256:0j0jgn5s56l3lrynv8ybqhk1srvqm0v4iniknl094krahzf2vc1l
+NarSize: 4120
+References: 14690797l66iiq405d1dia48aylgzmja-fix-aarch64_fregs.patch.drv 29i34kwd15vkw830dlb1nkhlxbwsclv6-zstd-1.5.2.drv 2r6dz5yjglsdh9ng1mlib36v2qzcx6wn-elfutils-0.186.tar.bz2.drv 3msb1z97b8p2dc21fs4gv53fszaj1a5x-zlib-1.2.11.drv 40xfjf56rqxrazl67mhnizqyls4z5mgw-musl-asm-ptrace-h.patch.drv 7h8q3dn6a2ijbjgn6gfkrnc5zkwavrvw-xz-5.2.5.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv bk2svipk4iw70y9y2fmvfyzi5mhcg6li-gnum4-1.4.19.drv bvzhprgwblj2hkf1p61b02l0lx50mwni-gettext-0.21.drv f8g3v50qq157cvpymghl7f6v1m6nnq52-musl-macros.patch.drv i6xfpnz8wjig2862i69llbb6g4g2qigj-bison-3.8.2.drv isghf78mk3w2cczbqi66m7yigv6jbzhq-bzip2-1.0.6.0.2.drv lbb26nj3fa3mvbr7ydcxw2jjd5v47fcj-hook.drv n6w0l5jf7vbcwxfc9qffn7r177v7imix-musl-strndupa.patch.drv pwjgzj3l0ral89ampdfws3nfi6nv1f73-flex-2.6.4.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv wq91spyrsd6c1aqfvm453w9qn9mga79c-debug-info-from-env.patch
+CA: text:sha256:08zync4j46n0483sg2xzqbhf54kgdxp1qrfsqgy36kxyc27658b1

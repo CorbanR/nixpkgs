@@ -1,0 +1,9 @@
+StorePath: /nix/store/vaig54m8flqzajj7xbg9qq1rjk491h8v-db-5.3.28.drv
+URL: nar/0jy6dpjc2drk7gdb1s710nz61bjy3gz8m6iflh99ja9v14plys36.nar.xz
+Compression: xz
+FileHash: sha256:0jy6dpjc2drk7gdb1s710nz61bjy3gz8m6iflh99ja9v14plys36
+FileSize: 972
+NarHash: sha256:0d8n906ls75scifc96z9kz3ln9xsx3xbisn78w48rv3kz2ljn2vw
+NarSize: 2272
+References: 466jzhxh6qfd5l153y64fa65k7klj2r0-db-5.3.28.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv ky3k9vamivjyji36043nrkz194l7966g-CVE-2017-10140-cwd-db_config.patch n5zdpjy8n4wj92qxd2gdr8mhv01jss7p-clang-5.3.patch w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
+CA: text:sha256:0d11afw3i4kndxkd3kxmp1rn3a7wf2bijmn77yskb6cjn12gdayf

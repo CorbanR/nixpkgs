@@ -1,9 +1,0 @@
-StorePath: /nix/store/ryz2s1pjn8gn0cgmkvny0dzji34d5mgc-elfutils-0.186.drv
-URL: nar/0kd2p76d24yvq72ld5j89w7vna92h251jsnq1ph39lah591b3lrx.nar.xz
-Compression: xz
-FileHash: sha256:0kd2p76d24yvq72ld5j89w7vna92h251jsnq1ph39lah591b3lrx
-FileSize: 1780
-NarHash: sha256:0cp8q7gic4r9wkqyl3n01vbcynqkiak6qbxdb2569vn2grnspgv0
-NarSize: 4120
-References: 0njnqbliddfg120g390wb5f2707xzpz1-musl-macros.patch.drv 1q943k46isscvzkkrajpri6qjhfq60ci-flex-2.6.4.drv 2465b92khvvkq84jmr06dkx9nswq544f-hook.drv 2x5p04dvyg0x49dzilcb2r6n2n4g7x6m-elfutils-0.186.tar.bz2.drv 3gzcrpdbvhgvik8x1wypg98svm96gjvc-gettext-0.21.drv 4k3cm7hfx840d02n40kps5m4x8q2hqx0-fix-aarch64_fregs.patch.drv 5lj7l1d4l23jhw2hfif20rpxhk1169fm-xz-5.2.5.drv 88wq5a9qvng66dw29pxaq0v8i3f5bbis-bison-3.8.2.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9kp5f3s2i13amkfh9y5p0nlnh5zks42l-zlib-1.2.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh d8aqii97zysq0phzssms5f9bmjfg6x9n-bzip2-1.0.6.0.2.drv f4z3x6hvmh9w0qar0icj8vx2hhz3857m-gnum4-1.4.19.drv jbdq2iy8sqvapx3cq7xd6dwcv95sb6dl-zstd-1.5.1.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv vl920380y63hzwbwnxl9dnk60wlhiwga-musl-asm-ptrace-h.patch.drv wq91spyrsd6c1aqfvm453w9qn9mga79c-debug-info-from-env.patch xv8llszi46vd6pyydfmn6w11wmwkrxci-musl-strndupa.patch.drv
-CA: text:sha256:1bynlq469r5b77a8lx2xzpzpv2w3ppp6iiy0n19s3i2is99ngfzr

@@ -1,9 +1,0 @@
-StorePath: /nix/store/l3ygms9rk2kq8ckwyp7nlgirzzrgyj1h-bootstrap_cmds-121.tar.gz.drv
-URL: nar/0g6513la5dkvixsi5z0zqpqnqxpx8a0fcgi7f5hqvbs3yysrw4f1.nar.xz
-Compression: xz
-FileHash: sha256:0g6513la5dkvixsi5z0zqpqnqxpx8a0fcgi7f5hqvbs3yysrw4f1
-FileSize: 1388
-NarHash: sha256:1nyy78d87c8c7wx4xn2vs80myza5jpxsfhngph9p9v0vp1ggx5dz
-NarSize: 3192
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 91rp7f409n4midar97qc82pslnig01sm-mirrors-list.drv mpaq3pcyg2x5hva4j0v64ahfgq53nqai-curl-7.81.0.drv wmn3nh4qkdxva3lszwsmfn3dr6d4nbam-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:1lfhwa0rk691s6fzi9qfyssvjyaw5sc5fbkbg25hfd0ll236z5z8

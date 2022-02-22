@@ -1,0 +1,9 @@
+StorePath: /nix/store/rfc2jj30r9dfxr7vnhhb6fz5vy69666y-perl5.34.0-HTML-TagCloud-0.38.drv
+URL: nar/14acgjncg67vm0g7fr4m2f03xcvp2a7l49hh3nsls57nl6hqqvk4.nar.xz
+Compression: xz
+FileHash: sha256:14acgjncg67vm0g7fr4m2f03xcvp2a7l49hh3nsls57nl6hqqvk4
+FileSize: 1164
+NarHash: sha256:07i3jy10arrhcvd9lw46d8zxq4mk8xd0spxkaibazf4bb6c5wm6p
+NarSize: 2808
+References: 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv b39cc9lqy2pj6xqx6i1i6v94vw1sy7pj-perl5.34.0-Module-Build-0.4231.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv qf3mzpvsmkrw963xchbivcci06078n13-builder.sh x4x61k1xjryn7ylk7d69cxs0lhj27irb-perl-5.34.0.drv z8q0nrqlvd4sd1jxqq808mp3p6xv21vr-HTML-TagCloud-0.38.tar.gz.drv
+CA: text:sha256:0nav7m0bi47v581bvpps2amd4psdnvvj8nblvhgwpmj7ybpn7520

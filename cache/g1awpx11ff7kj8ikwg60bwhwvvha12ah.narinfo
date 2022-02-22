@@ -1,0 +1,9 @@
+StorePath: /nix/store/g1awpx11ff7kj8ikwg60bwhwvvha12ah-expat-2.4.4.tar.xz.drv
+URL: nar/0wfx290gngx42vpm96pwcw473y7k8sr4b2vdi2gd8lh9xhm3nv8m.nar.xz
+Compression: xz
+FileHash: sha256:0wfx290gngx42vpm96pwcw473y7k8sr4b2vdi2gd8lh9xhm3nv8m
+FileSize: 1388
+NarHash: sha256:1lzfdvqycggyicmpgpgc1z451drpsji58n9mhd2wpb0mjcsq7svl
+NarSize: 3168
+References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 929m2iwcwvfs0dnx35llysf1srz0ax06-mirrors-list.drv adfihj8631q2zbnc0w79sx8q02wyjsxx-curl-7.81.0.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
+CA: text:sha256:07vh1cv1lqf7ahk7cjfk68bxlz6a7fqmnmpzbc5nlakpn37dh7ll

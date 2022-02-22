@@ -1,0 +1,9 @@
+StorePath: /nix/store/cq1g9bx4kxjrv3qqyg9f3ylly8yl38l3-procps-3.3.16.drv
+URL: nar/1ssm91iz8qsmwyxjwi50nq4k2sah9icssm5b3x1iwgznj2x1idhn.nar.xz
+Compression: xz
+FileHash: sha256:1ssm91iz8qsmwyxjwi50nq4k2sah9icssm5b3x1iwgznj2x1idhn
+FileSize: 1044
+NarHash: sha256:1kxp3h6k13kkrl43r382x4kfxgy0xsanpwkvwq64mqwipbvb0a76
+NarSize: 2216
+References: 5yiiq4cr8ws88dwk5vpf5wx81xjrnh06-sysconf-argmax-sanity.patch.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv k5nli8l3camdklzxw661cxbna0xzgvkr-procps-ng-3.3.16.tar.xz.drv lr9ynqvg7jw4gpi4dc6yvqsbdy7xx74g-systemd-249.7.drv sqil88k1z34ipvymksbbl4alj5knyvz5-pkg-config-wrapper-0.29.2.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv yl826qnbdcv0hp5yx8j20ypxza0qqvm9-ncurses-6.3.drv
+CA: text:sha256:17h2r7mvfk1k0cw9n62hiz2spz7jpdb6465bpdrhjz0b30n34npa

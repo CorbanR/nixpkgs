@@ -1,9 +1,0 @@
-StorePath: /nix/store/8yk4324nwmikpm425halk6p1nlkvajaz-libtasn1-4.18.0.drv
-URL: nar/0a5bn9zcd27kj92zn7nvlm27pnhzwv9g2bzx7x1grm00gybvwfv7.nar.xz
-Compression: xz
-FileHash: sha256:0a5bn9zcd27kj92zn7nvlm27pnhzwv9g2bzx7x1grm00gybvwfv7
-FileSize: 1044
-NarHash: sha256:0y1mhp0sn4x7n5k0klfjb2cixryk051ljmgd848wypw6i9vj8yi4
-NarSize: 2408
-References: 6gj3pxa0wqlz2sw6yykxfpcv8na51ak6-libtasn1-4.18.0.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh r20186kwxzn82ck79b5gss31k2hrhw0k-perl-5.34.0.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv ydy3ya9cma0m39xfi9z877sbyval7hrj-texinfo-6.8.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:1clq573gr6qqfsghv07yz1dlc14d623fspclsrrd20m3hcbbm3hl

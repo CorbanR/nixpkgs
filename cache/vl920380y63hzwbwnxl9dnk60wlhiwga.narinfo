@@ -1,9 +1,0 @@
-StorePath: /nix/store/vl920380y63hzwbwnxl9dnk60wlhiwga-musl-asm-ptrace-h.patch.drv
-URL: nar/16xngvv2qwamwvfil2a9ngwk121hb1svhhb9s7k308svnn2rj0fs.nar.xz
-Compression: xz
-FileHash: sha256:16xngvv2qwamwvfil2a9ngwk121hb1svhhb9s7k308svnn2rj0fs
-FileSize: 1768
-NarHash: sha256:1qfyv6ngmmj3dbvkmpsxkp9cdbx9nn03y3dl2nn82j7k8h99rlzz
-NarSize: 4200
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh cp60vfc62rc7rzn4ic1jv0z5rjy9b9v1-stdenv-linux.drv jv7i8m6h1lagiz8rl11prgn76vqvhr1s-mirrors-list.drv r3a4vf44bmlrh91nrgv1xx2drr1x82ki-patchutils-0.3.3.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv s94w6q7nbzs2iyhd67j8sp6gcr62xkgz-curl-7.81.0.drv
-CA: text:sha256:11qqnjw780q5y4mnxc8pmhc719hb0cbrsagib2nbhqbsrvx480bx

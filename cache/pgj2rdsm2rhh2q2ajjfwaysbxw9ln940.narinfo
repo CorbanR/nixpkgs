@@ -1,0 +1,10 @@
+StorePath: /nix/store/pgj2rdsm2rhh2q2ajjfwaysbxw9ln940-libevent-2.1.12
+URL: nar/07wz0nxvdxdw1z9ry6jijnmq8rj9p613ljj4k2rzap8q84qyj8bw.nar.xz
+Compression: xz
+FileHash: sha256:07wz0nxvdxdw1z9ry6jijnmq8rj9p613ljj4k2rzap8q84qyj8bw
+FileSize: 187264
+NarHash: sha256:0m7fbm7vr2kgxjq2j3nppypcdp5z00vibmnnjh2x9dxcvy0anp6q
+NarSize: 876568
+References: 4s21k8k7p1mfik0b33r2spq5hq7774k1-glibc-2.33-108 pgj2rdsm2rhh2q2ajjfwaysbxw9ln940-libevent-2.1.12
+Deriver: qi27ryg96q3mzg091kclxs3wp4c28ldk-libevent-2.1.12.drv
+Sig: cache.nixos.org-1:1ZAP4CXKtRpliNshxZnutB07kKHungQqnDsgzOE7RooWu3QSkGS5iM09WJ2lef+gronWmy2Ld5Bs58adrIkCCw==

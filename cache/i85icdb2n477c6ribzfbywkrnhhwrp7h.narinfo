@@ -1,9 +1,0 @@
-StorePath: /nix/store/i85icdb2n477c6ribzfbywkrnhhwrp7h-bootstrap-stage0-clang-wrapper-11.1.0.drv
-URL: nar/0aawd57ka7f4yx6n33q8ylkpg962i6c1wjr1ni5q1wpc9m99n78c.nar.xz
-Compression: xz
-FileHash: sha256:0aawd57ka7f4yx6n33q8ylkpg962i6c1wjr1ni5q1wpc9m99n78c
-FileSize: 2460
-NarHash: sha256:1bwl5x11n3sj207hb3pvy111glryg8ira1l9jgr34nszcsjz56n4
-NarSize: 8200
-References: 29mjzkai0jil6prs0nvhq07h47kfi490-add-flags.sh 2idjp2xdckqyrdk3hd8msp4cfdi6b8if-utils.bash 65qbp3cpr9cycndfdwi104w7gc6hm15f-bootstrap-stage0-libcxx.drv 6jabq3799g5n8gmwip3277si8clkl4rw-cc-wrapper.sh 797k3249lr4rx8wslf7kcsa3hv6fis3x-role.bash 8lg1x3fidqzabyglkp1vryrzz2cxnnhi-bootstrap-stage0-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh hc3z14jhqg35x5286hw5wmc3injg62fa-add-hardening.sh inc3w14wwzxldax54qcd377l96ahklz6-bootstrap-stage0-libcxxabi.drv l0gmqp73bhg8p4a00gjpas0ri5hdybxz-bootstrap-stage0-Libsystem.drv l398lx123r4mipw6j7nsgq0m9dnv3ls0-bootstrap-stage0-compiler-rt.drv lrrk3gcmkrm9fp9f4pljn764c7r3fd5b-bootstrap-stage0-binutils-wrapper-.drv mwzczb5lr5147jpwilla8pf519khxbkm-bootstrap-stage0-coreutils.drv nc4bvrgb8jxh4k1fq2zgzh4mmxqavp54-setup-hook.sh sgbn75v29npcq6gszipnq9bgd1r36pr7-bootstrap-stage0-clang.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zxkjf71z2zzl7swk977g3xd5yjl7dgcy-bootstrap-stage0-gnugrep.drv
-CA: text:sha256:1ilpl8cjan7cm1ln96qgidi8fby45q469xg0bzyln6figmbkii8b

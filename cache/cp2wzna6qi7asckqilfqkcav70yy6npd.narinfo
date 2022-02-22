@@ -1,0 +1,9 @@
+StorePath: /nix/store/cp2wzna6qi7asckqilfqkcav70yy6npd-auto-patchelf-hook.drv
+URL: nar/1bq6ipsmaaqw3fvjqkid79ykblx9a0995zd0mhiqkan2wrf610qk.nar.xz
+Compression: xz
+FileHash: sha256:1bq6ipsmaaqw3fvjqkid79ykblx9a0995zd0mhiqkan2wrf610qk
+FileSize: 780
+NarHash: sha256:1p2y9hnqs72i5n4whl64m3ivyazwhfylna9mzj49wz6h74njdxxi
+NarSize: 1728
+References: 42cn4cw8ylsv49gwqngk70y1kds94fj8-binutils-wrapper-2.35.2.drv 7j2nmhiwiq80jlav00vpaij2m5h8z7y2-auto-patchelf.sh 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh vy2lxr0rcly61wshr4vjgq5ji9k5zgpx-stdenv-linux.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
+CA: text:sha256:05glanssyv26bm38ydn1dn0yhlb9a8yjv0bnd828sc0ss1zh1hjs

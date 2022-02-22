@@ -1,0 +1,9 @@
+StorePath: /nix/store/6q8lcamapyrcmvd36q8q8sb3axyl4f45-libapparmor-3.0.3.drv
+URL: nar/0lx3czrm9aic9z4x6mcgrxnjwacfxn6qzrdxqdr0whk677i6a39m.nar.xz
+Compression: xz
+FileHash: sha256:0lx3czrm9aic9z4x6mcgrxnjwacfxn6qzrdxqdr0whk677i6a39m
+FileSize: 1728
+NarHash: sha256:1yigj8rdlf54wgw85lzbs35lkh3zjkkqysackf3bh2hy081ddi8r
+NarSize: 4464
+References: 07psg71rn06j4yyckp2535s2ah40j3ay-which-2.21.drv 1yhcfm24afybpnghqcxcif2b2hmpr2b7-apparmor-3.0.3.tar.gz.drv 2yvv7ajybdjl98j9847wh16xi99rnb0y-perl-5.34.0.drv 3l67p8vlfwm7cwdx063346dxsmbknbbv-swig-3.0.12.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv i6xfpnz8wjig2862i69llbb6g4g2qigj-bison-3.8.2.drv pwjgzj3l0ral89ampdfws3nfi6nv1f73-flex-2.6.4.drv qmbnkxq1iknp7p3vj4zr7fg9z546lc3r-linux-headers-5.16.drv rm1lny2gy2z6395q14a4h4554w463jwv-python3-3.9.10.drv sqil88k1z34ipvymksbbl4alj5knyvz5-pkg-config-wrapper-0.29.2.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv x7lpb6zp4p7qvlk87vs4fkkm5d7jfdn1-glibc-2.33-108.drv yl826qnbdcv0hp5yx8j20ypxza0qqvm9-ncurses-6.3.drv zqm8i08q7ibpl5mf5ic519ql0l57awb1-hook.drv
+CA: text:sha256:0kskgic76qg161kz2ipyghr433i1r3qr7pcas8l3c9ab9c6kadwp

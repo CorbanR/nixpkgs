@@ -1,9 +1,0 @@
-StorePath: /nix/store/8ifrrm3ab4s1jfbj8nbkjxws9f9nrg6q-findutils-4.8.0.tar.xz.drv
-URL: nar/08rwawkws0f27m01z5qcx5s8b562bwm7jj18vvb6azpjccpp21mk.nar.xz
-Compression: xz
-FileHash: sha256:08rwawkws0f27m01z5qcx5s8b562bwm7jj18vvb6azpjccpp21mk
-FileSize: 1308
-NarHash: sha256:1qj1bhw31aqw7pij0m23xkl9bagd0h2vjfwpn75ffg6kr6mb3h2p
-NarSize: 3112
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh mhjybvfvq0k8897d3d8bc36b8w54qm0h-bootstrap-stage0-stdenv-darwin.drv qambf392822a7ggz10rlrmni9q8mh1jz-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:17znazq9ggvf1y4l3pr6l47k1cb8xa3wrayngmfzk1gy25k452nh

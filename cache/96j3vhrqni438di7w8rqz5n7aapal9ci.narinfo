@@ -1,0 +1,9 @@
+StorePath: /nix/store/96j3vhrqni438di7w8rqz5n7aapal9ci-libaio-0.3.112.drv
+URL: nar/1b0b16n19v86ycj6lph9zlpc11f3v8wqm4k3aqc189yzfpwf6mgb.nar.xz
+Compression: xz
+FileHash: sha256:1b0b16n19v86ycj6lph9zlpc11f3v8wqm4k3aqc189yzfpwf6mgb
+FileSize: 856
+NarHash: sha256:0qmb3ilnpb9553kxapjhmwhxbys1kxbqygli7lydx8n1d8sd9v1r
+NarSize: 1776
+References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv q2i2znc4z2f6wwk58xmavwd1j3lc9xfr-libaio-libaio-0.3.112.tar.gz.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
+CA: text:sha256:0rrgw3fb665q3vmc6ncw7g6vpw0c5q5gzqj3wf5yx5paim3jbiq4

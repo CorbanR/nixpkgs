@@ -1,9 +1,0 @@
-StorePath: /nix/store/zk2mfxirbjcmdk97fh3krdgb4ab8x4bb-zlib-1.2.11.drv
-URL: nar/1d491rnzlaqwy61xg3bvb4icavdnr0nwh22bfpn6lpbh1q3jvy0n.nar.xz
-Compression: xz
-FileHash: sha256:1d491rnzlaqwy61xg3bvb4icavdnr0nwh22bfpn6lpbh1q3jvy0n
-FileSize: 1176
-NarHash: sha256:1p8yqn4kklb416jfad6ba2p99ifk3fxgl603jrd34v2ylqn6hkra
-NarSize: 2696
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9xss12cp39b9w65nbv06bg5sykj8pmwx-zlib-1.2.11.tar.gz.drv z211qk8mxynspfc748dxp1jqzs96xp9z-bootstrap-stage3-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:18rjapy8hqam27ypmqazx48hvkzb1kq8xfiiy3m2a5hmj64aylk8

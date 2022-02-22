@@ -1,9 +1,0 @@
-StorePath: /nix/store/l5c0yxws5ni78zjikrnr2ypiy2ib1qnr-readline-8.1.tar.gz.drv
-URL: nar/1nf6cyhsf80bw5zqn3lzz9hqi8n4i5sz2i447kymflqymdyja5km.nar.xz
-Compression: xz
-FileHash: sha256:1nf6cyhsf80bw5zqn3lzz9hqi8n4i5sz2i447kymflqymdyja5km
-FileSize: 1268
-NarHash: sha256:1f49gkd4mmsad735ngvd2pxq2f2nb3s8y6fzyy3idhml5j21jgmi
-NarSize: 2872
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh cp60vfc62rc7rzn4ic1jv0z5rjy9b9v1-stdenv-linux.drv jv7i8m6h1lagiz8rl11prgn76vqvhr1s-mirrors-list.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv s94w6q7nbzs2iyhd67j8sp6gcr62xkgz-curl-7.81.0.drv
-CA: text:sha256:0wqd27v0lwyycmni10klh4k5jbshpq1ambln5ys62z8l9scs02gr

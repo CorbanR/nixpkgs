@@ -1,9 +1,0 @@
-StorePath: /nix/store/lff1niwhc6rdflifz1p6ha8a1b9yizhz-clang-13.0.0.drv
-URL: nar/1rmwfbq146c0cb75p89dvhf60iknj4hs0psrmiyy25i10h9yw8jb.nar.xz
-Compression: xz
-FileHash: sha256:1rmwfbq146c0cb75p89dvhf60iknj4hs0psrmiyy25i10h9yw8jb
-FileSize: 1808
-NarHash: sha256:1m351318bg9irjp8jk18jx9fyh205mlj0a70qziylp4rg0f46hf5
-NarSize: 4224
-References: 09axwvn26cb2hj9zmb2052d90idj4njf-libxml2-2.9.12.drv 34zhl915l308dpa7v2786z3xgbvy6398-purity.patch 629h5fqpfixh5dfphmck82d9sardwvf9-cmake-3.22.1.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9mda4dix3blzjwjybilycpf0vqqf3rm8-gnu-install-dirs.patch cqyipizx8ppmnfhkfp99a82c5kjfyd9y-clang-11-12-LLVMgold-path.patch.drv iw4vwncsx1s92xn4qjxmj66b2g4d1pix-source.drv la5959jgwlg7ifn8nk51rv20bj8mpfbg-llvm-13.0.0.drv m6gchfynp5clz77bg4l52g7xrxp1z1ha-revert-malloc-alignment-assumption.patch r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv rprw6ig8fpyywkmk9vq1lfk3rv1s93ay-python3-3.9.9.drv
-CA: text:sha256:193xwj8kh90442s359hpfa8141ahy91p9lgfr0pdxagvxhgxr6x5

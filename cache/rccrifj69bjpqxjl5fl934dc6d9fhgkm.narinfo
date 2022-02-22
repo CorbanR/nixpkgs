@@ -1,0 +1,9 @@
+StorePath: /nix/store/rccrifj69bjpqxjl5fl934dc6d9fhgkm-binutils-2.35.2.drv
+URL: nar/026z026lr1fwsd9y1466x25a74q3hg8qafyd9b0rapyf4h9rhka0.nar.xz
+Compression: xz
+FileHash: sha256:026z026lr1fwsd9y1466x25a74q3hg8qafyd9b0rapyf4h9rhka0
+FileSize: 2044
+NarHash: sha256:0ki1dqqfcbldw9ckz7v9payr881paj2amsznzzdzknibf8sfnzkn
+NarSize: 4840
+References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 28fvaji5ss4n4cqkk7aj70p9nfpfblzf-zlib-1.2.11.drv 29xikivm11ippk8pr6wm5lg80zjkcasq-bootstrap-stage1-gcc-wrapper-.drv 3yp8kpj25p2xxb5s963xga4ckyj3fksl-CVE-2021-3487.patch 59l91nqac7bpcw1qpxy15jwia5cqsppy-CVE-2020-35448.patch 8v8kiz9bqj00h75az6d8kc9qcpxkm7pd-gold-Update-GNU_PROPERTY_X86_XXX-macros.patch 92hax2x0l6bc0qxd5344xvdp8kjaf37b-perl-5.34.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh czihvlvc7n5d03j82cwzhb3i87bb9b7x-bootstrap-stage1-stdenv-linux.drv f1v03i2fv34skn656v5n6x9v9faibqzf-bison-3.8.2.drv im0jwjjl7lwmcrd6sj6xyk0xwx52nfnh-bfd-elf-Dont-read-non-existing-secondary-relocs.patch jhm173nbdcdf90fj8xrsqmzkdyg7kbap-gettext-0.21.drv p19lkcpgj9dq5x4m3ghvc3wvbb4vflya-texinfo-6.8.drv pa83jbilxjpv5d4f62l3as4wg2fri7r7-always-search-rpath.patch s0qvm2vqx4841zmy7kxzlvr8l60x544j-binutils-2.35.2.tar.bz2.drv sa4zgv37g7r6wvgrl6w1shpf3j1k2bi6-CVE-2021-45078.patch sqbhaaayam0xw3a3164ks1vvbrdhl9vq-deterministic.patch wilglaz00r3zpqy6j5awrzia446lzmk9-disambiguate-arm-targets.patch
+CA: text:sha256:06kz7qb4pz3xzwsqqj7s1sn6df5jm7azf4zpd59zqdpzsmhlx7fx

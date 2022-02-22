@@ -1,9 +1,0 @@
-StorePath: /nix/store/cbmw0mhaybkhljdqd8hm68fw198n10wl-lzo-2.10.drv
-URL: nar/02bg726nbqlczw44vw1xk7nqzvm0jx3271sxgmc1ii0025afdf3b.nar.xz
-Compression: xz
-FileHash: sha256:02bg726nbqlczw44vw1xk7nqzvm0jx3271sxgmc1ii0025afdf3b
-FileSize: 816
-NarHash: sha256:0gnpkjfilvxsbjmhqxbhsimgxnzyrlyfa2qpi5pddya8m6hc231i
-NarSize: 1784
-References: 3xhqdk7hsi9ksjsh76v5hly3kcpvqaz7-lzo-2.10.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:0dw8jrz7yz28w0fyc91rg09bqrnypljm7abjkwbn33h28v6yvf27

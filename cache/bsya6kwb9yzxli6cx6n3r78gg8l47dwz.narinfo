@@ -1,9 +1,0 @@
-StorePath: /nix/store/bsya6kwb9yzxli6cx6n3r78gg8l47dwz-gcc-10.3.0.drv
-URL: nar/1y6zpfqp8ikzn2mvsy5ag01i7v0y27976xyn4ipz3rn4x5kfyj6q.nar.xz
-Compression: xz
-FileHash: sha256:1y6zpfqp8ikzn2mvsy5ag01i7v0y27976xyn4ipz3rn4x5kfyj6q
-FileSize: 2704
-NarHash: sha256:0sz41lb40giqs7374gg6yf50q4lh3za2pbn64kjxyqdilpw66dv9
-NarSize: 6816
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 13a3pi5nxnyzza06fl4m8c2i5j0h50mc-binutils-wrapper-2.35.2.drv 4k7n61apbmyw8wxh0914nyixpig7cia7-builder.sh 5nhvbi3lh9ll9ppd9qf00ls01zb3dm6h-which-2.21.drv 78lps2qkbhzzbsna7f224lsknmqr7xbr-mpfr-4.1.0.drv 9kp5f3s2i13amkfh9y5p0nlnh5zks42l-zlib-1.2.11.drv a8f1fzh49q7ic4awsbjk5qyida0kwzly-glibc-2.33-62.drv d9ksfdwdhlwxsakilcfk5lv8m56nf87f-libelf-0.8.13.drv jz9ysq3sb2w2ph3xm30wd9pdccab5wjj-libmpc-1.2.1.drv k0zi4ii6067ri52srz6qf9f418w6smjh-gettext-0.21.drv lh9wxsp0fnvgvg6x0rdixrp7l8qim5lw-bootstrap-stage3-stdenv-linux.drv p3i1iml4xpzdb9f0v0k8vzj0zjdvzgka-patchelf-0.14.3.drv p9lgv0y8lngigmxr2451pc0nkw06vsxx-perl-5.34.0.drv pz03lhak99nzyyni72m14zsjzfjvqvr8-no-sys-dirs.patch qh0zicqin3zrlj4ywz2jgz9i8c7yxwsf-libsanitizer-no-cyclades.patch slgzqc5n8khqjzps5gvz2fjr9lv3x3kl-gcc-10.3.0.tar.xz.drv szvjp4l5br69qj0ag55kfhd6djr7cff2-gmp-6.2.1.drv vzhqxrl69nskgb9rzvwfafpkfd9m7ac3-bootstrap-stage3-gcc-wrapper-.drv ywvjhvr0c8mcp6s3np1cql0yy5hi51c9-texinfo-6.8.drv yxnaw57gqv62bwicy842sr0r81k3i0qi-isl-0.20.drv
-CA: text:sha256:18y8yxc5cwspkxdis0j7z42imx82ck0ifhnrck3nzfpj5z299p2n

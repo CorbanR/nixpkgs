@@ -1,9 +1,0 @@
-StorePath: /nix/store/d32b2k1vgccbmb38pyg1ssaampnsz017-hook.drv
-URL: nar/0qlxvfcy5ix1qc5b5z6mn8v49qrm349f0w1xgimnbzf6xdbg4vnv.nar.xz
-Compression: xz
-FileHash: sha256:0qlxvfcy5ix1qc5b5z6mn8v49qrm349f0w1xgimnbzf6xdbg4vnv
-FileSize: 1268
-NarHash: sha256:0yp2d550d1f4d2hz8qcm2244pgcc1fc9pxz3ldgvz05xp3yjyfz0
-NarSize: 2928
-References: 11j5m6ds93pjvy2dc725r56zla62xl7v-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ag815hbmmkgk4flh7rj3nw90b45kik64-wrap.sh cp60vfc62rc7rzn4ic1jv0z5rjy9b9v1-stdenv-linux.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv rprw6ig8fpyywkmk9vq1lfk3rv1s93ay-python3-3.9.9.drv
-CA: text:sha256:1vv5f25bk0a61z99ld2aab9warszdl6j437jnvv252abiql7hfi1

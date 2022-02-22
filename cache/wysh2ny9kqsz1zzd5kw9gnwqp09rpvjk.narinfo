@@ -1,9 +1,0 @@
-StorePath: /nix/store/wysh2ny9kqsz1zzd5kw9gnwqp09rpvjk-nss-3.74.drv
-URL: nar/1bp19mmnknvm34j2l4masv0230jwkkqgxqxr16k3dcn7sdp2yv8d.nar.xz
-Compression: xz
-FileHash: sha256:1bp19mmnknvm34j2l4masv0230jwkkqgxqxr16k3dcn7sdp2yv8d
-FileSize: 3056
-NarHash: sha256:0hzhrwa0xnqnn0lrrp87mr5a62v4rgcs9nvww5rp3082jmm2z3f0
-NarSize: 7288
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a5skdyvh7a4iap5bpvlrxfq68y330xli-fix-cross-compilation.patch d1nqisym0lc34g1bzn6dc161n28y3i62-85_security_load.patch i965qzlrpl9s3wdjazylr7d50rx2hc3y-ninja-1.10.2.drv ib5m4q767anrqcxpfjyl4rpi1al301bs-nspr-4.33.drv jpbgipz07h4xm1xzip615x939y7712h5-sqlite-3.37.2.drv m32klqs3f78apjk8h7jbacb4r0scnjga-p11-kit-0.24.0.drv mnhcz6gcy65h2r4i0kqplczs5jd1ns2f-clang-wrapper-11.1.0.drv n19sk5mbr1hy3lgfjqpwn7ryby21qflg-nss-3.74.tar.gz.drv nvinj48hzm90j5vm8xak8mwi5dpdys3k-cctools-port-949.0.1.drv r20186kwxzn82ck79b5gss31k2hrhw0k-perl-5.34.0.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv spag0s371yp0bqpm4k9ahb5vw1czn2y1-nss-3.15.4-pem-support-20140109.patch.xz.drv w95hvbswdj74j5f2r2g91bvh16f6fvy6-coreutils-9.0.drv xf27axmkrwlf8zpa4wlqb7pjwgzwafcz-python3-3.9.9-env.drv yd1csq2gph2b06b0g691nr5mc9ci5dsc-hook.drv yn8zz3jvnan2p4rd52k4797aznjfmgd6-ckpem.patch z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv zk2mfxirbjcmdk97fh3krdgb4ab8x4bb-zlib-1.2.11.drv
-CA: text:sha256:0kg3pm1khqjcvpfp1k58j556q4ng5a002i6v2khpsj84rkly5qhb

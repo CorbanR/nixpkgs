@@ -1,9 +1,0 @@
-StorePath: /nix/store/9ii9f51ladq6pv5s5lih0ch57ija3rmr-libnftnl-1.2.1.tar.bz2.drv
-URL: nar/1q1hqpvy5v07yrn2fk0bnk1jhiga0nx4a63il7vvq5rsqjdbmvbc.nar.xz
-Compression: xz
-FileHash: sha256:1q1hqpvy5v07yrn2fk0bnk1jhiga0nx4a63il7vvq5rsqjdbmvbc
-FileSize: 1280
-NarHash: sha256:11p7mznqf060w7idqc4j4s2sajhnb2vhzfn30wr8hh7v5c9vv75a
-NarSize: 2904
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh cp60vfc62rc7rzn4ic1jv0z5rjy9b9v1-stdenv-linux.drv jv7i8m6h1lagiz8rl11prgn76vqvhr1s-mirrors-list.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv s94w6q7nbzs2iyhd67j8sp6gcr62xkgz-curl-7.81.0.drv
-CA: text:sha256:10z284wg5y61bwqq81326kzdm4sq84nyza3mhsqbcw7fk023yhlz

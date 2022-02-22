@@ -1,9 +1,0 @@
-StorePath: /nix/store/0v5kbiwv7g02vsk1k0fhny9xh1y4iw64-go-1.16.13.drv
-URL: nar/0cg900lcqnqrbjxls27myn95bsirjf2gwyrz5l8ibr1fzp84xsk9.nar.xz
-Compression: xz
-FileHash: sha256:0cg900lcqnqrbjxls27myn95bsirjf2gwyrz5l8ibr1fzp84xsk9
-FileSize: 3624
-NarHash: sha256:06a2lvlq4h100zs3wbgs79d97blqfv3nijv46c8n2m8x4wy10bim
-NarSize: 9056
-References: 15y6g0niacf3isa0gwqbw8n0jqszcsj7-which-2.21.drv 1cwv8hmzzn9s9b7rcvpymk6z6gm0c64p-go_no_vendor_checks-1.16.patch 1wxnz5npl05sahb5iv5q4azg2rk59kz5-ssl-cert-file-1.16.patch 258v0q73y3icavz8a4r5r914wkjxrh58-patch-2.7.6.drv 39bjxj20rygi2zlx6zscv38jxh2k7nkl-creds-test.patch 3lagjzkz6ks6qrwi0bmjj9agrz51lrh0-pkg-config-wrapper-0.29.2.drv 4dnn9hs4ja8hq6y7045g9hhfnqvydiml-iana-etc-20211124.drv 4vqgx07v9xywvmgmdzk87561y734vm8n-skip-external-network-tests-1.16.patch 876pvsx6mmalz4p71iirvmkd0vm49xk9-go-bootstrap.drv 92qy0wn9289a1id4c5byc2mqc6v6xas2-skip-cgo-tests-1.15.patch 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a8f1fzh49q7ic4awsbjk5qyida0kwzly-glibc-2.33-62.drv amwcfcjv3bnmrfnfchhf8n60f93irkr9-skip-test-extra-files-on-386-1.14.patch bb1yc64b2c5pdnd2bgfzxccvzh0svz9f-go-1.9-skip-flaky-19608.patch f0xgl27wq33wggnsz8x0gfds6f48bljf-nss-cacert-3.74.drv fd7qxbzzcbp02xn1dwkd7pj22mcsx13l-go-1.9-skip-flaky-20072.patch fnlcn2x4hpi83i9ancg58nzk8q4gzj14-procps-3.3.16.drv grbqlnl4vv84c1smdn7s2b0004rf7g65-go1.16.13.src.tar.gz.drv hm2jzy93m5sl48alp2dhklz2b592dn9b-skip-nohup-tests.patch hyif3rqf4kgbzbqkrv3bjspn0r8s5pl6-remove-test-pie-1.15.patch ic6i36f16gnvxv14yb3g6f212icdvxxy-pcre-8.45.drv iz6hws0ig2vnja75a0g3x51cjgbfn63h-mailcap-2.1.53.drv li4jv0j0c6ipymx8kih9cw6r2yy2ykyd-tzdata-2021e.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv x48d0s4gns4jrck6qkwrpqn7nh9ygpx6-remove-tools-1.11.patch y4abap6zqvwrxb8fbbnbidhghrixakpv-perl-5.34.0.drv
-CA: text:sha256:1k2xnvbh1m8cikzqsykqn9cz0vg2bvxi01q92pbs29w0jj413lc1

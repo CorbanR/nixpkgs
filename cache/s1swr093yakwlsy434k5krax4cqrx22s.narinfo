@@ -1,0 +1,9 @@
+StorePath: /nix/store/s1swr093yakwlsy434k5krax4cqrx22s-libcxxabi-11.1.0.src.tar.xz.drv
+URL: nar/113biyncwngp50pmcm0nns11zcib5mrbg6dgj0yi4yi41r39j87b.nar.xz
+Compression: xz
+FileHash: sha256:113biyncwngp50pmcm0nns11zcib5mrbg6dgj0yi4yi41r39j87b
+FileSize: 1344
+NarHash: sha256:1c5fx01a4d6qxmdzh81avk7mr6qgmaqr252bbizdijsy62s6lxvj
+NarSize: 3184
+References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh k4dvpgs2zazzjj71758bpxwmp4p1sngn-bootstrap-stage0-stdenv-darwin.drv szakg4i9hwq0l3ivrnh3kn2s4pphs0jp-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:0by06ld448xrmrl4qjmalzwrs8rcw8j12s5v1v2cyr871v9rl970

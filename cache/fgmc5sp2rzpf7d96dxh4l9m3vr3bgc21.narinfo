@@ -1,0 +1,9 @@
+StorePath: /nix/store/fgmc5sp2rzpf7d96dxh4l9m3vr3bgc21-gnutls-3.7.3.drv
+URL: nar/0pankijfrndscpk1wpj3mdpw7g4yg9dknqf7811fi5xjgahfd267.nar.xz
+Compression: xz
+FileHash: sha256:0pankijfrndscpk1wpj3mdpw7g4yg9dknqf7811fi5xjgahfd267
+FileSize: 2592
+NarHash: sha256:152i3sk6hry9krp04lz6001bzfvg4bvg6ifznp1llyisb84a5ib7
+NarSize: 5920
+References: 2ngr9hkacxv39hi3yd5gjgkzpz6lqd2a-zlib-1.2.11.drv 50gr0dls33h1362i73pr54bq8zc7pc5p-nettle-3.7.3.drv 51zw3ipvxllxyk0h9gy0a3v7g6h6488h-nix-ssl-cert-file.patch 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c082hjfmcn97n1lrr3r8ah8plg3693cx-no-security-framework.patch fxk7ah4sapqahys7krginh5gc8mmvard-lzip-1.22.drv iz2lirj4125wibycybs5w96vmdhdpaj0-libidn2-2.3.2.drv k30wl6snwfk64rmrzkgr844475ci1wk5-gmp-6.2.1.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv l53shk4qdmayska0qxwiy2hs8kdbwh0g-gettext-0.21.drv n06yyc80maw5jh1k8y2iqbcwgxdmrynw-libiconv-50.drv n0rs6va37cy6135997rd0qy8c5xifpl1-lzo-2.10.drv nn3swar9qklasnmh27410d5md3adwbfx-autoconf-2.69.drv qb55j33zxzgag6gblakxfarlmk0yzp3v-libtasn1-4.18.0.drv sqg47624n9rjrwcmvq0r4byifh3bn3x0-automake-1.16.5.drv vkmqkj782lrr173rqn8d8zpzs3frzg52-pkg-config-wrapper-0.29.2.drv vr8xcywpgpxy9mz2i3bcj4vc79wm8kld-unbound-1.14.0.drv w2vf6wjmckxbni8za5ymzh8gf7hz1yq4-dns-root-data-2019-01-11.drv wfnw2gdabjyr24qjwrwa9rs2p7da1mc8-dummy.crt x4x61k1xjryn7ylk7d69cxs0lhj27irb-perl-5.34.0.drv xhlz24x8hmx9w1k4knva27lqgz9amc3b-gnutls-3.7.3.tar.xz.drv xm8jqr5qimh5j84lhnkx3dc42ppncjf8-libunistring-0.9.10.drv zym908k4sw40mdyl82mns3w3vh399mws-p11-kit-0.24.1.drv
+CA: text:sha256:0hbqn85asv5416s74kpzs4llsissfv8dablsdddpjz7ksiiak2xs

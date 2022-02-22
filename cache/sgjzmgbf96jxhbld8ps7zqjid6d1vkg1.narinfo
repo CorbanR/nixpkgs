@@ -1,0 +1,9 @@
+StorePath: /nix/store/sgjzmgbf96jxhbld8ps7zqjid6d1vkg1-vaulted-3.0.0-go-modules.drv
+URL: nar/15rjf239j5axcjb2miq2xszcv9d640gv013am8yalljrx1v1874j.nar.xz
+Compression: xz
+FileHash: sha256:15rjf239j5axcjb2miq2xszcv9d640gv013am8yalljrx1v1874j
+FileSize: 1476
+NarHash: sha256:0q71fqhria4wxrba99klqrvbp2ybh9n4ysclk0gasv6kdap6y8x2
+NarSize: 2992
+References: 6l0j28ipdld4sr0kghvs71kn4m4k06x4-go-1.17.7.drv 7rkggfgf7wpk96jlvy60ia5h4pfyj9yp-nss-cacert-3.74.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv fh57pvwabqhwz24gpccm6harwhzr6qvh-install-shell-files.drv qzmzmr21g00px26v5qywgzl64i7hah00-source.drv sxd24p83q3jh2wj54pwqqllgn0973mp4-hook.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv znq1k36bpdli42g7x66yi4pbgq12fdgd-git-2.35.1.drv
+CA: text:sha256:0758i7iip1v2jxhjshwyivm64hd9sq0c0zdgpzkvg3n4g1dc3cay

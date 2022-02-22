@@ -1,9 +1,0 @@
-StorePath: /nix/store/sy6gxf8520kb5f16299msdkcrp3y75qb-libidn2-2.3.2.tar.gz.drv
-URL: nar/034mwc6pj3iq1hwzqfb5spsgg4fzdzksr8wvf9arlx66cv2qlxyc.nar.xz
-Compression: xz
-FileHash: sha256:034mwc6pj3iq1hwzqfb5spsgg4fzdzksr8wvf9arlx66cv2qlxyc
-FileSize: 1368
-NarHash: sha256:164nw2mxvg94lqknm4rszmz28z66v3hfrd7w29w6wf8vkkjsxvlk
-NarSize: 3136
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 91rp7f409n4midar97qc82pslnig01sm-mirrors-list.drv mpaq3pcyg2x5hva4j0v64ahfgq53nqai-curl-7.81.0.drv wmn3nh4qkdxva3lszwsmfn3dr6d4nbam-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:09ywsx8lppwwrx231117dx4rcmpi6iy1dm1bqncikyzvdls4av6s

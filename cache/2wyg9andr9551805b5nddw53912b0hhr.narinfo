@@ -1,0 +1,9 @@
+StorePath: /nix/store/2wyg9andr9551805b5nddw53912b0hhr-mpfr-4.1.0.drv
+URL: nar/1s3jzb35aczj2n2zjlcz2hyf3llfs9z1wvfwzqn5g39rz0k5x8m1.nar.xz
+Compression: xz
+FileHash: sha256:1s3jzb35aczj2n2zjlcz2hyf3llfs9z1wvfwzqn5g39rz0k5x8m1
+FileSize: 984
+NarHash: sha256:0p81izad1bn3n25mw1k7c8laaskvp97f66cgpqs17x95198pawc7
+NarSize: 2296
+References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 8ra7jbmd630w0rrvkr2xdifacjh42d00-bootstrap-stage3-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh lv1hwcmry75256awiysfa7mb93a0c49c-mpfr-4.1.0.tar.xz.drv rybhsnchwvqh5imd41fh4n7xfkdiai1j-gmp-6.2.1.drv
+CA: text:sha256:02yi61z596jfakpj5xwyrzzqx1r9iqnairx1jrqzr9nimn9d7gx7

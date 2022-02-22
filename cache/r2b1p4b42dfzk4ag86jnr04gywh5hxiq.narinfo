@@ -1,0 +1,9 @@
+StorePath: /nix/store/r2b1p4b42dfzk4ag86jnr04gywh5hxiq-libarchive-3.5.2.drv
+URL: nar/1bqyrhcsd3d21kgym9msi0x65gmbjvadd9f7bfindrmdawflnxml.nar.xz
+Compression: xz
+FileHash: sha256:1bqyrhcsd3d21kgym9msi0x65gmbjvadd9f7bfindrmdawflnxml
+FileSize: 1692
+NarHash: sha256:13wn1q7m0g82yfynrlrk2j3q46j6j99q2q2hw9qq785vds466ch9
+NarSize: 3920
+References: 29i34kwd15vkw830dlb1nkhlxbwsclv6-zstd-1.5.2.drv 3msb1z97b8p2dc21fs4gv53fszaj1a5x-zlib-1.2.11.drv 4hy7x8r4fmk1sf5gd8hk82yjcravjjc8-hook.drv 626r3hairjac6g6x1kp8mwa0s41zzn50-openssl-1.1.1m.drv 6i3hhb09r9bkndyddwkwjf92ysaqz0kx-source.drv 7h8q3dn6a2ijbjgn6gfkrnc5zkwavrvw-xz-5.2.5.drv 7mykd1z4mdp9704pf6647mhgq4rvr0nz-libxml2-2.9.12.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv alhzn2x7ix87h6cagj5ssf2s8zc6sscv-acl-2.3.1.drv isghf78mk3w2cczbqi66m7yigv6jbzhq-bzip2-1.0.6.0.2.drv j3fav3x19s30hb25q9s7l8pnbad7v5hm-lzo-2.10.drv k7zyc7arjqcmvkg5a64cz4fya9lr6djw-e2fsprogs-1.46.5.drv rr2mff0m62q40c140rki62hdblcqi33x-attr-2.5.1.drv rssv948gwkz1d4vi5qqws0pxi61syi4z-sharutils-4.15.2.drv sqil88k1z34ipvymksbbl4alj5knyvz5-pkg-config-wrapper-0.29.2.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
+CA: text:sha256:1q1dvhyw36n3yd86lxxq1ad4n1f9l8ddxrli22h8n60m5sr0y556

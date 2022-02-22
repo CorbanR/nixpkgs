@@ -1,0 +1,9 @@
+StorePath: /nix/store/8y01kmmpv54fmdq18mzhbi5p2c404vri-objc4-709.1.drv
+URL: nar/1pfdnyyzlyks0znfi5qmv4nyggfl59rhy092h4nsjw1yvd30kvz7.nar.xz
+Compression: xz
+FileHash: sha256:1pfdnyyzlyks0znfi5qmv4nyggfl59rhy092h4nsjw1yvd30kvz7
+FileSize: 1376
+NarHash: sha256:0v3ilmxkx35zcxifzpvv7vx12vhsngiggd530rnw0dicsszajz4l
+NarSize: 3696
+References: 1il908qzhny98kih5rc46rfsbnjdhy4k-objc4-709.1.tar.gz.drv 331y3xmav19nckqndzjgs9si393gikvc-bootstrap-stage3-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh hgkz23q14jypn72g2sh7gcqpk2spy7bi-darwin-stubs-10.12.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
+CA: text:sha256:05sk0j1l46vhidaq037ghwp1m5i9vjg89s0622xkri2ly1fbpld6

@@ -1,9 +1,0 @@
-StorePath: /nix/store/7x8g1qq3x5f3kpjhgzfs0668sl1l29jr-util-linux-2.37.2.drv
-URL: nar/1abx7wx80a9yv645hcpqkg0b1jkg856056gnwgjc2b5vxza3cihy.nar.xz
-Compression: xz
-FileHash: sha256:1abx7wx80a9yv645hcpqkg0b1jkg856056gnwgjc2b5vxza3cihy
-FileSize: 1708
-NarHash: sha256:1kihqa2rnk1yy2gy63pg818nq7ls47k9d4sdz3bmsf3s8n25zx1p
-NarSize: 4216
-References: 1j9sp0yd6jbcbkwsc5a826rxqy3lk6vh-rtcwake-search-PATH-for-shutdown.patch 3cybg496g2v0nil7y4n32drlh0ldwz8k-shadow-4.8.1.drv 3lagjzkz6ks6qrwi0bmjj9agrz51lrh0-pkg-config-wrapper-0.29.2.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9kp5f3s2i13amkfh9y5p0nlnh5zks42l-zlib-1.2.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh d6da4yyk0qz9gn6ymrslp062w0ylij3a-linux-pam-1.5.1.drv ikmqczy0y20n04a2b8qfflzwihv8139g-separate-debug-info.sh r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv va9ys2mjv147i483wcny0kfpcayy6qj7-util-linux-2.37.2.tar.xz.drv y0cgg4565m2a31krrvalbjdyjrya49vs-libcap-ng-0.8.2.drv
-CA: text:sha256:1nykibhkhzv1pjkks2kswz9821p1c4msgvd6yxhx4nv85ydcrqd6

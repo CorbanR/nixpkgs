@@ -1,0 +1,9 @@
+StorePath: /nix/store/fyn0a8my178xbcanapj856mshzi1qg5w-libpulsar-2.9.1.drv
+URL: nar/107dkamdcdvh3nrh8s6gix4401gh7g71iwrnj2a4yvi9s8jz530a.nar.xz
+Compression: xz
+FileHash: sha256:107dkamdcdvh3nrh8s6gix4401gh7g71iwrnj2a4yvi9s8jz530a
+FileSize: 1656
+NarHash: sha256:1984rfrpr4qg6g2blsrl2l5bqs7r0nymb56dkxq4xrjxlj8vr778
+NarSize: 3672
+References: 29i34kwd15vkw830dlb1nkhlxbwsclv6-zstd-1.5.2.drv 3d3bj4izdj1i2qjpi7fl8d20qmlab3j0-clang-tools-11.1.0.drv 3msb1z97b8p2dc21fs4gv53fszaj1a5x-zlib-1.2.11.drv 50mqvc741njmqsjrhqglpc7zw9jmcdz4-protobuf-3.19.3.drv 626r3hairjac6g6x1kp8mwa0s41zzn50-openssl-1.1.1m.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv ca2q8dwaz2wvnhgq6n16jbmxlbnwlany-jsoncpp-1.9.4.drv czx83awxzbqcka6621wnpyiycd3lf4wi-apache-pulsar-2.9.1-src.tar.gz.drv sqil88k1z34ipvymksbbl4alj5knyvz5-pkg-config-wrapper-0.29.2.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv yfnsb1251mci6phwixg6fr6jn9ryaggy-curl-7.81.0.drv yr1y31iqg9jhv4l6cb8i38va18rdigvs-cmake-3.22.2.drv zddqvq2z8gr8j29nphdllki9y02sr5si-boost-1.77.0.drv
+CA: text:sha256:0g9kjkspbizaxy722y5c6hjn5f0y585l3w04iaijcgvcd5qicrf1

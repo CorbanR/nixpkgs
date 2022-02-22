@@ -1,9 +1,0 @@
-StorePath: /nix/store/0x5w6qh6s3sqg83ccw4fg2x1lxwgivnd-libcxx-11.1.0.drv
-URL: nar/1npx5la3qrxizj39qw1acsjwd69b6x74kndg80rigzi02p7wqmy0.nar.xz
-Compression: xz
-FileHash: sha256:1npx5la3qrxizj39qw1acsjwd69b6x74kndg80rigzi02p7wqmy0
-FileSize: 1500
-NarHash: sha256:143y6jijcqc4klg7ll5qwlk4blq7324pa0arv761yn41mmrqyq6c
-NarSize: 3392
-References: 1qzjmidbadswg2qb7z7qvax1ni525gis-llvm-11.1.0.src.tar.xz.drv 383fdlxavjx6zgp9rr3lv262v12hv8f4-libcxxabi-11.1.0.drv 6nsis38x60bjyb27v8krvnb65s7v5dsf-bootstrap-stage2-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9n46g74z930k45q7sc4cw3mxydxwmswd-python3-minimal-3.9.9.drv bg321ia337p5460v8kimzn0g2jy0sxx7-libcxxabi-11.1.0.src.tar.xz.drv dsl4dc4cmjdmxhfj4vpni6f49y8flcaq-19bc9ea480b60b607a3e303f20c7a3a2ea553369.patch.drv jdd17v1z764mdnc7c61hw5wnvgijw06v-cmake-boot-3.22.1.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv wxfgz5bs83d3zrcwl3msa0s5ddwvc2bk-hook.drv xdzf15r9kdya8ci4d2li9zm8md23r45f-libcxx-11.1.0.src.tar.xz.drv ym4y16msxvvpbcsc0s829has6v8mxg56-gnu-install-dirs.patch
-CA: text:sha256:1c0rrsfc0x9n3qvvcb3rbfn0l0dp7j7y29iw2s9dhj2q2d5k2j7i

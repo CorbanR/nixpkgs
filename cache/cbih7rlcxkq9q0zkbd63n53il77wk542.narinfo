@@ -1,9 +1,0 @@
-StorePath: /nix/store/cbih7rlcxkq9q0zkbd63n53il77wk542-rake-12.3.2.drv
-URL: nar/0jm9si8c4mlyvn3hcw30r23k6xsnaayq7aavr4mpqaqrg28giv13.nar.xz
-Compression: xz
-FileHash: sha256:0jm9si8c4mlyvn3hcw30r23k6xsnaayq7aavr4mpqaqrg28giv13
-FileSize: 984
-NarHash: sha256:0ryp7wra3a5wi538xfvlw5vzc2fd5svkwims42wn367i0cjr2x4j
-NarSize: 2168
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh wmn3nh4qkdxva3lszwsmfn3dr6d4nbam-stdenv-darwin.drv yr7r61xcfhbp70hqcgnzkkygfjslzh5g-rake-12.3.2.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:1vai3vnpa11rfs6ip8c9yga492r7gzxh3c7srjx1br165y53yps3

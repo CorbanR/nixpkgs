@@ -1,0 +1,9 @@
+StorePath: /nix/store/h732qkcppvxhi4lq8zq03y7swfqmfx8l-doxygen-1.8.20.drv
+URL: nar/091w5lch8dlxlymndjs79gk68d1wp5ga85mq2fnnihdkg225anba.nar.xz
+Compression: xz
+FileHash: sha256:091w5lch8dlxlymndjs79gk68d1wp5ga85mq2fnnihdkg225anba
+FileSize: 1064
+NarHash: sha256:1grzcq14w4l31r3qr2cjd9adxllzhbv9xs7vxbyn9nlkjgw6k0rm
+NarSize: 2200
+References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9x22gsgd4xcb4z9pd309hnq6pbnp910h-glibc-iconv-2.33.drv a5qkdrv9wsabx24iyss18cxn6fv7iw70-source.drv ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv i6xfpnz8wjig2862i69llbb6g4g2qigj-bison-3.8.2.drv pwjgzj3l0ral89ampdfws3nfi6nv1f73-flex-2.6.4.drv rm1lny2gy2z6395q14a4h4554w463jwv-python3-3.9.10.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv yr1y31iqg9jhv4l6cb8i38va18rdigvs-cmake-3.22.2.drv
+CA: text:sha256:160mr06ffsi56rbfbizjs4pp287j2h6sq0zlnzlxl7ad1smpdwxb

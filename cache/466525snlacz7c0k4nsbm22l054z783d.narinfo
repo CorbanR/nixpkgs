@@ -1,9 +1,0 @@
-StorePath: /nix/store/466525snlacz7c0k4nsbm22l054z783d-setuptools-setup-hook.drv
-URL: nar/0hhwamy1gawiisnfv7l8d1gcdbkp4w4aww1frhw2q2jss8q449xl.nar.xz
-Compression: xz
-FileHash: sha256:0hhwamy1gawiisnfv7l8d1gcdbkp4w4aww1frhw2q2jss8q449xl
-FileSize: 1108
-NarHash: sha256:12qydfhz56lsif9h8cgz2328ygidm7qwcz65jkgvqmax7jmi5g8q
-NarSize: 2640
-References: 7rykf7d9pg813h3lhwvy6fw70scnwlwc-setuptools-build-hook.sh 9dpgkfl6vxqwla9vxarhj05wyha1gdg5-python3-3.9.9.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh fscd8f71wmpwphcmi5mx8qnif2402x9m-run_setup.py nssnydmya8dfs3hh7i6b148pqcmrqhxx-python3.9-wheel-0.36.2.drv spd84gr6x8wd7j4a6gj5xsnm3sbqvxb3-python3.9-setuptools-57.2.0.drv wmn3nh4qkdxva3lszwsmfn3dr6d4nbam-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:1j1r11jaacfs5s7gnxi9k00ps4wrdski1gvhfff4v7yh7ncg263g

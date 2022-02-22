@@ -1,0 +1,9 @@
+StorePath: /nix/store/179fqm2zr5p6gmzydxcsxaflkzh8lyia-llvm-13.0.0.drv
+URL: nar/1nr14klba9as24s0vknlvq9hmgfwp2m8kpcz51709zgxd317xjh9.nar.xz
+Compression: xz
+FileHash: sha256:1nr14klba9as24s0vknlvq9hmgfwp2m8kpcz51709zgxd317xjh9
+FileSize: 2268
+NarHash: sha256:1jaqm4mbixcya3bhzb4a3zcpg9yimgglzb99hh29xwbm9cvfhypc
+NarSize: 5256
+References: 07psg71rn06j4yyckp2535s2ah40j3ay-which-2.21.drv 3msb1z97b8p2dc21fs4gv53fszaj1a5x-zlib-1.2.11.drv 6wv8acdd7bm7npixgr3rk86mf55fj47c-llvm-config-link-static.patch 7mykd1z4mdp9704pf6647mhgq4rvr0nz-libxml2-2.9.12.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv fsri1cp66sqyjb83yzy1pgbfpfy6nqxn-gnu-install-dirs.patch giyc40ql1dzwhz96aj8wksgmmcdi2zmy-libffi-3.4.2.drv pjlnc25wvmm5png4dahrfss88vkza5k3-no-strict-aliasing-DwarfCompileUnit.patch.drv qcc888y7q26zvcqslrn9lw9lmj44vzpr-source.drv rm1lny2gy2z6395q14a4h4554w463jwv-python3-3.9.10.drv v738mnpp8gh24jqxagf03z69lsrksmar-libpfm-4.11.0.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv yl826qnbdcv0hp5yx8j20ypxza0qqvm9-ncurses-6.3.drv yr1y31iqg9jhv4l6cb8i38va18rdigvs-cmake-3.22.2.drv z291yij7vv7ssqjqp3ysd3jw4gxgjwyz-libbfd-2.35.2.drv
+CA: text:sha256:11sp6fhfl0999flj6kw8hjjsm5jxl4fwl37m3b0wj13rc3qygq3x

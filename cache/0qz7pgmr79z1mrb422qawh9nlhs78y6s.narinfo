@@ -1,9 +1,0 @@
-StorePath: /nix/store/0qz7pgmr79z1mrb422qawh9nlhs78y6s-reenable-rtti.patch?rev=a759aa6fba405cd40025e3f0ab89941d.drv
-URL: nar/0vakk0v5bj794sdij8nbm71gv0rqqzym77dl5s62cjb8x1jdvggl.nar.xz
-Compression: xz
-FileHash: sha256:0vakk0v5bj794sdij8nbm71gv0rqqzym77dl5s62cjb8x1jdvggl
-FileSize: 1864
-NarHash: sha256:1ck7m3xf80i6qnj92924blki9pwp50anq7bg0a0x00m8ggdbj516
-NarSize: 4576
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 91rp7f409n4midar97qc82pslnig01sm-mirrors-list.drv mpaq3pcyg2x5hva4j0v64ahfgq53nqai-curl-7.81.0.drv q473vgw2y79nfi8jhlbh6mkfkw5spnmc-patchutils-0.3.3.drv wmn3nh4qkdxva3lszwsmfn3dr6d4nbam-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:1ascqv6r46hq00gjdpzla8m9ja32gx0r0llp24kvifddyzmbxf59

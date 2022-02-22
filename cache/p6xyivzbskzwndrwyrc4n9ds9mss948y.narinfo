@@ -1,9 +1,0 @@
-StorePath: /nix/store/p6xyivzbskzwndrwyrc4n9ds9mss948y-IOKit-.drv
-URL: nar/1nrzgn0i9iycp9pbn1q0gn9hmj70vf6i8gymska212a6b3a3yg2z.nar.xz
-Compression: xz
-FileHash: sha256:1nrzgn0i9iycp9pbn1q0gn9hmj70vf6i8gymska212a6b3a3yg2z
-FileSize: 3696
-NarHash: sha256:06n09kvqbwq40nzpplznlz1vh71ws80r9azpia31aa18gvvwg7r5
-NarSize: 14768
-References: 0ykrh4hghbjyr4qwkds9ds92ygnrsnmj-IOFireWireFamily-458.tar.gz.drv 3gakmzk3x1djvjp3bckbd8pvj954jfad-IODVDStorageFamily-35.tar.gz.drv 7bdyr3s648lf9g4h4gwrzzkvyvk10hs8-IOFireWireSerialBusProtocolTransport-251.0.1.tar.gz.drv 828g6w3xl4dygrqbg385xjhkah8fv7z6-IONetworkingFamily-101.tar.gz.drv 8cbp3qfrqwif3kp9507kl2fg7hxqbvgy-IOSerialFamily-74.20.1.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh caarcpy2arx7hmgqx0q9ljp7ha78947m-IOGraphics-485.40.1.tar.gz.drv finpjalvqgi1n9cgsaz3kvdd73q13xcm-IOUSBFamily-630.4.5.tar.gz.drv gkgyzb2kxaf3b0kjwsvr5a400m5rdpf0-IOKitUser-1050.20.2.tar.gz.drv gybg5j9s5x5d2sr29ijhiahz421p0f8q-IOCDStorageFamily-51.tar.gz.drv hm2l3gclw7gll5ca7l4ymm321x26dhxx-xnu-3789.70.16.drv jjpdq44rxf81pjfqq605y99i88sylii4-IOFireWireSBP2-427.tar.gz.drv kbay5vsi913j4sgmz7iiamcvnfdpmk00-IOFWDVComponents-207.4.1.tar.gz.drv ksn3i2mgixkyahsj19v6mzq5zn9jm7mk-IOHIDFamily-606.40.1.tar.gz.drv la7i1fjx8qxb9iz51hxffdq976zkianl-IOAudioFamily-203.3.tar.gz.drv mz8sk8dp091569b5g6mmshw92hid95yc-IOUSBFamily-560.4.2.tar.gz.drv q5qzzl0y6pm4ywck9z7yk9pscmmqvwrm-IOStorageFamily-172.tar.gz.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv vc0mrvni8m7rv55ww93vpdylb22mkiqh-IOFireWireAVC-423.tar.gz.drv wm9n0rmfxg29k87zqfvyjbpgrh0xm4yf-darwin-stubs-10.12.drv y14qhw9p3c4xah94s48632rmmqn3cdvj-IOBDStorageFamily-14.tar.gz.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:0gbk2dcyp00h5j4klyfi2v0ija80x2xd52zch8mf9jq9r24ncv8c

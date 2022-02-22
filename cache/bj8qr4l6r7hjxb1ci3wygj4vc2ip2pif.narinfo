@@ -1,0 +1,9 @@
+StorePath: /nix/store/bj8qr4l6r7hjxb1ci3wygj4vc2ip2pif-python3-minimal-3.9.10.drv
+URL: nar/0r3y8bawfsrr81ryl8llfdlb12db5mjahhxqa6bzk7l3vggzrd2i.nar.xz
+Compression: xz
+FileHash: sha256:0r3y8bawfsrr81ryl8llfdlb12db5mjahhxqa6bzk7l3vggzrd2i
+FileSize: 3540
+NarHash: sha256:0snchgm7v1931fdj3g8rbxxa9slr3bja464l78lj2s20iisw3nz6
+NarSize: 8744
+References: 3msb1z97b8p2dc21fs4gv53fszaj1a5x-zlib-1.2.11.drv 4jf3azngiipz4bs81xqkgpzr8ynv2wfk-libffi-3.4.2.drv 57kclla9vza2n87xgwg1ap54d20cz6lb-fix-finding-headers-when-cross-compiling.patch 7h8q3dn6a2ijbjgn6gfkrnc5zkwavrvw-xz-5.2.5.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a4az0p4r6p48naqnx4k26lpx4xig7rga-Python-3.9.10.tar.xz.drv ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv cv1ynpzvjjr0s72jkbblbzz3ymr87lpi-0001-On-all-posix-systems-not-just-Darwin-set-LDSHARED-if.patch dkb2rjyj7lwmvsn4zzwx85kx8r61nk9w-darwin-libutil.patch hdakv56nszqbyj9r1xxzk6m06w89rzff-autoconf-archive-2021.02.19.drv ikmqczy0y20n04a2b8qfflzwihv8139g-separate-debug-info.sh il68rnb1p7xh1nk0953r78nj1p27l4v5-nuke-references.drv isghf78mk3w2cczbqi66m7yigv6jbzhq-bzip2-1.0.6.0.2.drv p4qar37zn2892m83b2lkp8fw5dsjkzxy-no-ldconfig.patch r112dk8w7zvdjipki58ch00m825li7fq-virtualenv-permissions.patch rv2qwrlxnp46flrr5hg2262m7gapr2i7-python-setup-hook.sh.drv sqil88k1z34ipvymksbbl4alj5knyvz5-pkg-config-wrapper-0.29.2.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv ydw57m97bpw6dhxzkmf9myp1c8fnfwjl-expat-2.4.4.drv zqm8i08q7ibpl5mf5ic519ql0l57awb1-hook.drv
+CA: text:sha256:0jzlrgby4gijdiqvzqdfzrnj1ay6b82cmq4ac9izfjn17s3bp21x

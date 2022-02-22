@@ -1,9 +1,0 @@
-StorePath: /nix/store/8gzscsf3lcidygrv76nzbavx7labmksp-ruby-2.7.5.drv
-URL: nar/0s4cd8i6phb2594jczy20g5lzwzawkj9gpfrp07gzxz0979zg4vx.nar.xz
-Compression: xz
-FileHash: sha256:0s4cd8i6phb2594jczy20g5lzwzawkj9gpfrp07gzxz0979zg4vx
-FileSize: 2380
-NarHash: sha256:09x7xskz09zp1yr0nfj42sjnbk2bsrxn22vq56v6m0hl4zxp874l
-NarSize: 5328
-References: 1d1ypc1b61k9ry76c3mwyhaq8k2jga8d-ncurses-6.3.drv 45g0ji0g0hma3knd6i7zffqy0dh8sip6-autoconf-2.71.drv 634lrx5bacshlnv1rzpvggazwlbpn6b9-gcc-wrapper-10.3.0.drv 88wq5a9qvng66dw29pxaq0v8i3f5bbis-bison-3.8.2.drv 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9kp5f3s2i13amkfh9y5p0nlnh5zks42l-zlib-1.2.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b3w62d55iahwrssc61jx1jc9crp4ya6m-ruby-2.7.5.tar.gz.drv bsya6kwb9yzxli6cx6n3r78gg8l47dwz-gcc-10.3.0.drv d8w28w02cn3mw1ba91yxrja1pq1h43i5-libyaml-0.2.5.drv fbm43fbm6ani6d2w4jjgv63351pvv582-gdbm-1.20.drv prb6ilkwsiz5dg6ll2r43hag9fwqr6h6-hook.drv prw1bw1vzld5i2i2vppyb0k9mxif3mjd-remove-references-to.drv ps1awhs9bc0ijxyc6mxb84ixgb3vcisd-libffi-3.4.2.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv vdzmj0qlxw1f6d50qj2p8g3207h13a7x-source.drv w7yayg65p8vvi97a2952bpvq7rfwnszp-do-not-regenerate-revision.h.patch xlwvk2852dkqwq4l9ifw8rz46r50l5h9-readline-6.3p08.drv yahi7vx9spk1bfsj7p71n0235lbw41py-openssl-1.1.1m.drv
-CA: text:sha256:0xl4dyq9b8cwyil5vdx3vbj4a2xbbf25ccrz8053jfndb6zp3hic

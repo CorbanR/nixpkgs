@@ -1,0 +1,9 @@
+StorePath: /nix/store/ggap356pm41alhkw030x79hg7vxizzp7-llvm-11.1.0.drv
+URL: nar/14q0y2zz1j19hzwkhpycqsapacb2lplas433ia5khbgy7c9wzabm.nar.xz
+Compression: xz
+FileHash: sha256:14q0y2zz1j19hzwkhpycqsapacb2lplas433ia5khbgy7c9wzabm
+FileSize: 2924
+NarHash: sha256:0zjywnbbkc49i5ibwqvxyv42pi6sg84mmygrr4w72kficfn45k25
+NarSize: 7048
+References: 2hcf6j84kf0hpizgxn1xbh4bamw7b09i-python3-minimal-3.9.10.drv 2ngr9hkacxv39hi3yd5gjgkzpz6lqd2a-zlib-1.2.11.drv 2vgc04dd1g54lrfd50fm1wb3nr8wwcil-llvm-11.1.0.src.tar.xz.drv 331y3xmav19nckqndzjgs9si393gikvc-bootstrap-stage3-stdenv-darwin.drv 4349m7r463knmvy25pi49v9zk2dfxd2l-dfaemitter-gcc-12.patch.drv 6wv8acdd7bm7npixgr3rk86mf55fj47c-llvm-config-link-static.patch 76h02j9aad54j3kfj235hhwz2hpnmc8n-libffi-3.4.2.drv 7ci5kz14nqkmv4q45lzl1iis2k1h79gh-polly-11.1.0.src.tar.xz.drv 9fd3xdcfv1dw93y99a18lw735fx8kvgy-gnu-install-dirs.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh hfy2i17r1445n7l82wh2kx757hxl328m-nvptx-gcc-12.patch.drv iywqpllz1mn2v18n3gdaav6dqc63y1j1-b498303066a63a203d24f739b2d2e0e56dca70d1.patch.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv mg6mdkp21s0dyzwzr38ypb31ggafm2kz-cmake-boot-3.22.2.drv p19yw2g51y9j9pxfnnbyiajyl859bkhk-uops-CMOV16rm-noreg.diff.drv vbhj71cgj9gn34a0brm3jkd9kwkpm1dx-libxml2-2.9.12.drv y3vhl0h3nk6xhiw7p9vfifbygfn23f9f-ncurses-6.3.drv
+CA: text:sha256:1xml1bkmnlfccg5nijdlh9z1nh6fvaywpmpcfkxvmm6dhijlclb7

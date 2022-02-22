@@ -1,0 +1,9 @@
+StorePath: /nix/store/8y382kq02c12xn98b3m0jl6gqd8556bp-zstd-1.5.2.drv
+URL: nar/02zls45zj798myrsglbi8xdf7gsgjh8n9p7g38v54wxc875165wy.nar.xz
+Compression: xz
+FileHash: sha256:02zls45zj798myrsglbi8xdf7gsgjh8n9p7g38v54wxc875165wy
+FileSize: 1756
+NarHash: sha256:06h024js3kxvnw517h15g6mzzch0w576vsb1bq494h0yzgh4dj1w
+NarSize: 4064
+References: 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 89aiqh4y9ballhs719j4h0h57v41gcdz-gnugrep-3.7.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bhxf8gzxw0idp0gal4kdz5xpbjzj7j0f-file-5.41.drv h2qlgp77z3y5z4j7spph2mpaawvks04p-source.drv h347zrgpfpwbp4npx4q18dfmsf4gwjc2-cmake-boot-3.22.2.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv n91acyjrlchm0snw0w16i4683pf788ax-playtests-darwin.patch wl6hwrn5kqshj7sbp4y8s7khl9ps4445-hook.drv
+CA: text:sha256:0nl3dac5xbxr7ff61byc31472cr2xibyx9hnacg4x5df6hxcj9rj

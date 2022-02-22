@@ -1,9 +1,0 @@
-StorePath: /nix/store/z75ibw6jaiik764vyzqh9wbvjl5p77iq-apple-framework-QuartzCore.drv
-URL: nar/0q1y9wh9xjk205vzsny3vi0i9n7d6ihi0hdkg3lgmazfddbmpzhh.nar.xz
-Compression: xz
-FileHash: sha256:0q1y9wh9xjk205vzsny3vi0i9n7d6ihi0hdkg3lgmazfddbmpzhh
-FileSize: 2440
-NarHash: sha256:02m0ibncjfdmqxmkxdbziycpavbnf4s3srcwwj1dmba3z3qcg26g
-NarSize: 7800
-References: 2r4cz38px3bjz2hbc2kyrr522dq9k1h4-MacOS_SDK-10.12.drv 434h813hmvrgq4i6x0vlfpkqgvj4xfij-apple-framework-CoreVideo.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh azy3ih6vjxs5q6mw2qzsjd5pwpkzg32w-apple-framework-CoreImage.drv hjrw7d88l3ar99h7dj71pnz3rkaf28g8-print-reexports.drv mccnhxhyfvi4ldjmmyh9vdy8i85wsz87-apple-framework-Metal.drv phx198c7dmwcnml9q4x39ja4nnpcffq3-apple-framework-ApplicationServices.drv r0xrsr36994ya8w7x99s4wi50b5pkdql-apple-framework-OpenCL.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv wm9n0rmfxg29k87zqfvyjbpgrh0xm4yf-darwin-stubs-10.12.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv znrby2rihkg5m3ncpz0bx5bmyiq7chvh-objc4-709.1.drv
-CA: text:sha256:1ly1c2ycq1qq178ds5ailmcj2xgyjpzd3pbhldfbw85lqa2ymr72

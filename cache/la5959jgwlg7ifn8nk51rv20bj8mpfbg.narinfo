@@ -1,9 +1,0 @@
-StorePath: /nix/store/la5959jgwlg7ifn8nk51rv20bj8mpfbg-llvm-13.0.0.drv
-URL: nar/1h8zvg557pfq07rrnamdr7x2l5i50zww41nhpsl871i07ywijdna.nar.xz
-Compression: xz
-FileHash: sha256:1h8zvg557pfq07rrnamdr7x2l5i50zww41nhpsl871i07ywijdna
-FileSize: 2260
-NarHash: sha256:15jpwh00cwsik30cr7kyjjjvy2ilcfmp1ygb9hvlppg071sbx53z
-NarSize: 5248
-References: 09axwvn26cb2hj9zmb2052d90idj4njf-libxml2-2.9.12.drv 15y6g0niacf3isa0gwqbw8n0jqszcsj7-which-2.21.drv 1d1ypc1b61k9ry76c3mwyhaq8k2jga8d-ncurses-6.3.drv 629h5fqpfixh5dfphmck82d9sardwvf9-cmake-3.22.1.drv 6wv8acdd7bm7npixgr3rk86mf55fj47c-llvm-config-link-static.patch 9cl686by7jg834f2avqnz39zpvnbxlcx-stdenv-linux.drv 9kp5f3s2i13amkfh9y5p0nlnh5zks42l-zlib-1.2.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh azy0azcwla8i8klsx1b05a774nxmyhvi-libbfd-2.35.2.drv dy4vyky9ryh7hwh072pg4m341jl7dyrk-no-strict-aliasing-DwarfCompileUnit.patch.drv fsri1cp66sqyjb83yzy1pgbfpfy6nqxn-gnu-install-dirs.patch iw4vwncsx1s92xn4qjxmj66b2g4d1pix-source.drv phbqv9rfyqjn4dnw1nsn75k46j1l6059-libpfm-4.11.0.drv ps1awhs9bc0ijxyc6mxb84ixgb3vcisd-libffi-3.4.2.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv rprw6ig8fpyywkmk9vq1lfk3rv1s93ay-python3-3.9.9.drv
-CA: text:sha256:0aaaz8l4vlvn0xd8sc14g7fb6ivfy81wlv9qyb1r4bbbdl7zzy60

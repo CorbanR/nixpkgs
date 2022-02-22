@@ -1,9 +1,0 @@
-StorePath: /nix/store/1kjsp08lvwhgc55rwkm80ysxb376g6kr-dartlspserver.drv
-URL: nar/0mlfgw9nspliz8zqz0hvq7k0vf89pkg8df17k7i6a0rb710lib45.nar.xz
-Compression: xz
-FileHash: sha256:0mlfgw9nspliz8zqz0hvq7k0vf89pkg8df17k7i6a0rb710lib45
-FileSize: 1380
-NarHash: sha256:067irfcx6ilaknwwkkjzxdbwy2y8mgcggpbk9sfqbmkld65fsp7n
-NarSize: 2856
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh wmn3nh4qkdxva3lszwsmfn3dr6d4nbam-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:1f23hg112f8mlb97b2iaw1av0svv4bhgqxl5k875vwdq8g0376f4

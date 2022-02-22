@@ -1,0 +1,9 @@
+StorePath: /nix/store/zh1vsl4bk3sj6fd2j6pzad1vinamgx76-apple-framework-CoreVideo.drv
+URL: nar/0nbzspaj0nb6vbqxwgfjrp4l23xqblrfl59f364bx4cgb73q0nla.nar.xz
+Compression: xz
+FileHash: sha256:0nbzspaj0nb6vbqxwgfjrp4l23xqblrfl59f364bx4cgb73q0nla
+FileSize: 2256
+NarHash: sha256:0kmpvzy7spgp8dic8prc2566815cglaj83znw9kzf08c3927sidc
+NarSize: 7160
+References: 2giiacwp808sl7zwxn28d755djdjf6lx-apple-framework-ApplicationServices.drv 76z0ibi3f5s984lg9z598ksv9djp5gvv-MacOS_SDK-10.12.drv 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh cvj6czqg56q1xrfvmr6hw09a2dpx6pw1-apple-framework-IOSurface.drv hgkz23q14jypn72g2sh7gcqpk2spy7bi-darwin-stubs-10.12.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv ncdqph37sbn6n235j9m3m1s1kbsrgw7l-print-reexports.drv qyhhj38ykniia4r2sqaix0dyzwbc723b-apple-framework-OpenGL.drv zj3n8p0sn1zl7a96h7q10gk0233szb70-apple-framework-CoreGraphics.drv
+CA: text:sha256:0h6r5r6q3c8p1id4gkggq69izi95xcazdh9avk6iswxz3xz0d1mj

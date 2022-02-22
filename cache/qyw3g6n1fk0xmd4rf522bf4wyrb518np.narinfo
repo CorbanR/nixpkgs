@@ -1,9 +1,0 @@
-StorePath: /nix/store/qyw3g6n1fk0xmd4rf522bf4wyrb518np-clang-tools-11.1.0.drv
-URL: nar/14rryf00q259kbgb0k8mmnw8v99k6xj7lamkck5i2src64ksbs66.nar.xz
-Compression: xz
-FileHash: sha256:14rryf00q259kbgb0k8mmnw8v99k6xj7lamkck5i2src64ksbs66
-FileSize: 1040
-NarHash: sha256:1lm9k4a2g1vc2zr6cp1lp7xxjp18xr4v5q26fv2yfbii9gj5r1fs
-NarSize: 2336
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh mnhcz6gcy65h2r4i0kqplczs5jd1ns2f-clang-wrapper-11.1.0.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv xchlrwcdzpmv963fqv0hxy6yglwcn9i6-wrapper yflv0b8yhlyl9i6qwfvpxhyvxjbs0r6w-clang-11.1.0.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:0cr9ihmziv5ca7vmgv2xp7fp6basx1f7jsd877nzapfb0clrxrsw

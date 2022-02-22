@@ -1,0 +1,9 @@
+StorePath: /nix/store/87flf205vxqfmlax5hjr2bdc7ndi64c4-icu4c-70.1.drv
+URL: nar/0njdwb2q51xrshfaznbgxqc1hilh5pwjypg76jljr64iipkkpig9.nar.xz
+Compression: xz
+FileHash: sha256:0njdwb2q51xrshfaznbgxqc1hilh5pwjypg76jljr64iipkkpig9
+FileSize: 1308
+NarHash: sha256:19bafhc9k2bi4bir2qnjyzmgrjsk8q6zvjd31ljh2s9w6hl462kj
+NarSize: 2992
+References: 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dyx5rwci1szmqsw0p3pr3bygrp3957sz-icu4c-70_1-src.tgz.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv wl6hwrn5kqshj7sbp4y8s7khl9ps4445-hook.drv
+CA: text:sha256:0h5ffnkqpzw1yq0fpdr49fijm3cdyaddnfw1m29k7w9clzp4gwd4

@@ -1,9 +1,0 @@
-StorePath: /nix/store/mgw8xrcwlw6c5bjlah53wl9gcz06aigg-setuptools-check-hook.drv
-URL: nar/0fivml79jhhjg9dsbdiiljhqkhij38n2azhxs4jikb1q2fdklnzi.nar.xz
-Compression: xz
-FileHash: sha256:0fivml79jhhjg9dsbdiiljhqkhij38n2azhxs4jikb1q2fdklnzi
-FileSize: 916
-NarHash: sha256:12xh68sw9jqa0qvzzq2fpbdfhinb8c4fkszg20abcb9ip2q01f5z
-NarSize: 2184
-References: 322ngrnddlicbai7mxwg1hhhj17aaswz-setuptools-check-hook.sh 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cp60vfc62rc7rzn4ic1jv0z5rjy9b9v1-stdenv-linux.drv fscd8f71wmpwphcmi5mx8qnif2402x9m-run_setup.py mzn2s2z91vkw03p58342qyxsdklscsza-python3.9-setuptools-57.2.0.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv rprw6ig8fpyywkmk9vq1lfk3rv1s93ay-python3-3.9.9.drv
-CA: text:sha256:0nmxr0agk4knff92sh0jdg4qkc4wgry6790q8gqshwbp5ni8gx41

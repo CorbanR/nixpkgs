@@ -1,9 +1,0 @@
-StorePath: /nix/store/lyjbc1cadz0irq5xib1aai2izng99ccj-docbook-xsl-nons-1.79.2.drv
-URL: nar/16rmy0b3iawfjhsj43zn4xnvm04rjlfniqnj9934j84cf4qb5bn9.nar.xz
-Compression: xz
-FileHash: sha256:16rmy0b3iawfjhsj43zn4xnvm04rjlfniqnj9934j84cf4qb5bn9
-FileSize: 1300
-NarHash: sha256:1jh6s28nm9n19ilmpagiv49a49dhhrppvccbqc6wkjssxlsdskgk
-NarSize: 2856
-References: 3fjg45yiw07rs4nl1grvknc3akrb7bcg-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a9nx87nk7c7anabpwcavf1rzp520xrji-07631601e6602bc49b8eac3aab9d2b35968d3e7a.patch.drv imb9dwlrl3ph97216gn7a8r024ym83r1-catalog-legacy-uris.patch.drv irps1mawgs66x2xnl16dww8801idg20j-docbook-style-xsl-non-recursive-string-subst.patch.drv qj8m05qlgr6svrsl24l7j03y0canj4vd-docbook-xsl-nons-1.79.2.tar.bz2.drv sf5gk6ww5qnyfclnrxacxai4q40j5bks-stdenv-darwin.drv z7k9rhd98sqnqmlpvqgjh47hqhf2cprq-bash-5.1-p12.drv
-CA: text:sha256:0p8mkbsxh96hy0cjy5dc1iqvz3b5qifny8iqiwf59mpjvh237pc6

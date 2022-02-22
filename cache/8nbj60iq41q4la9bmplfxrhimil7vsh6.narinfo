@@ -1,9 +1,0 @@
-StorePath: /nix/store/8nbj60iq41q4la9bmplfxrhimil7vsh6-python3-3.9.9-env.drv
-URL: nar/0pjn6ya6i70nyyzn7d9b0rwnjwpqli63088f071sfxrzca63g6gy.nar.xz
-Compression: xz
-FileHash: sha256:0pjn6ya6i70nyyzn7d9b0rwnjwpqli63088f071sfxrzca63g6gy
-FileSize: 1640
-NarHash: sha256:1kgklspxbd8kmw4zda4w9jfs3vfjad7vrz7gdb90din8g7lvybka
-NarSize: 4464
-References: 11j5m6ds93pjvy2dc725r56zla62xl7v-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh as3wld2i25jcz3df4pcz7nf8c83rpgi6-builder.pl.drv cp60vfc62rc7rzn4ic1jv0z5rjy9b9v1-stdenv-linux.drv k84brh6mrh15xcdr5ia8hrnlw4hwpqz6-python3.9-Jinja2-3.0.3.drv r8fpf45j4g634yvdb6sbnp4n62vq6p7x-bash-5.1-p12.drv rprw6ig8fpyywkmk9vq1lfk3rv1s93ay-python3-3.9.9.drv v2yjs4l8h03l19j54zfl6wjb6ka58by4-python3.9-Babel-2.9.1.drv xpxs7arpq18gj4zv7m4wzdisrh52ffv0-python3.9-pytz-2021.3.drv y4abap6zqvwrxb8fbbnbidhghrixakpv-perl-5.34.0.drv yjrwjr9pi9wp6aj66cxqj2zbxqb3j4ph-python3.9-lxml-4.7.1.drv yv9zgf0bl4p2zshvm6q2mximp09n44xk-python3.9-markupsafe-2.0.1.drv
-CA: text:sha256:1w6pv9xf78kiqrfqcb0pgqxcm11i6c909mzr297n7fjg8a7hks1b
