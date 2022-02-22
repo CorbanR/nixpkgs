@@ -42,11 +42,11 @@ let
   # If boost has python enabled, then boost-python package will be installed which is used by libpulsars python wrapper
   boost = if python3Support then boost17x.override { inherit stdenv; enablePython = python3Support; python = python3; } else boost17x;
   defaultOptionals = [ boost protobuf ]
-    ++ lib.optional python3Support [ python3 ]
-    ++ lib.optional snappySupport [ snappy.dev ]
-    ++ lib.optional zlibSupport [ zlib ]
-    ++ lib.optional zstdSupport [ zstd ]
-    ++ lib.optional log4cxxSupport [ log4cxx ];
+    ++ lib.optional python3Support python3
+    ++ lib.optional snappySupport snappy.dev
+    ++ lib.optional zlibSupport zlib
+    ++ lib.optional zstdSupport zstd
+    ++ lib.optional log4cxxSupport log4cxx;
 
 in
 stdenv.mkDerivation rec {
@@ -63,7 +63,7 @@ stdenv.mkDerivation rec {
   # clang-tools needed for clang-format
   nativeBuildInputs = [ cmake pkg-config clangTools ]
     ++ defaultOptionals
-    ++ lib.optional gtestSupport [ gtest.dev ];
+    ++ lib.optional gtestSupport gtest.dev;
 
   buildInputs = [ jsoncpp openssl curl ]
     ++ defaultOptionals;
