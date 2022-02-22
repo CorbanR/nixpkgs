@@ -1,10 +1,10 @@
 StorePath: /nix/store/d2bfjhc2n1xmj6zs4j16chbcjfg9vlmc-goaccess-1.4
-URL: nar/1m0hbm0kfkp9jpamg5l3d06s42iv56wh7m5i87hmdv0fqv2d2wwf.nar.xz
+URL: nar/1rlxp0jvq94gcck3i65pzb09dsbs2xqim19z98d82flsj4difs94.nar.xz
 Compression: xz
-FileHash: sha256:1m0hbm0kfkp9jpamg5l3d06s42iv56wh7m5i87hmdv0fqv2d2wwf
-FileSize: 249576
-NarHash: sha256:1m957lfvb0bf40pi9g25z1zgma7av4j3c4cs5a1g8ifh76zcdnvz
+FileHash: sha256:1rlxp0jvq94gcck3i65pzb09dsbs2xqim19z98d82flsj4difs94
+FileSize: 249524
+NarHash: sha256:0i6yvn0y3pggmysm23s3fbhp0l12yw0x0jldlndzzp2dqpp0nj4j
 NarSize: 839664
 References: 2c2nhznpv9a1yyda6wd33lf78b4q3b62-gettext-0.21 d2bfjhc2n1xmj6zs4j16chbcjfg9vlmc-goaccess-1.4 h083a0i170ll7m8n5wv4gxnz95ii2na6-libmaxminddb-1.6.0 hnsbw22x8djbq0p70m2llq4qb3gbwmmi-ncurses-6.3 xl2s63shkj95wnrv992hyf19g2r7i740-swift-corefoundation-unstable-2018-09-14 z12qbpid3n9dwqggvzbfl9gcvgkz7cjy-libiconv-50
 Deriver: ifklb26gf35vbs7q6lqa31qf31ybqx3q-goaccess-1.4.drv
-Sig: nixpkgs.raunco.co:8Ewg2hHADfHsNuneBtxjrh92ckFJhyimyiP1nh2gjbstNKWOT58BLsqCsDIchfYxlCNSPTqjhwIG+1PvaSJvCg==
+Sig: nixpkgs.raunco.co:d4pqcdIf04K4QxfyRom5xO6nUAPhwcoUGecvQ2khm8lKfcywCTExoPi+GhzbNTYRFhNrkkXASII1YCwxl9uJCQ==
