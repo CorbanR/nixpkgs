@@ -22,7 +22,6 @@ let
     goaccess = callPackage ../tools/misc/goaccess {};
     hello = callPackage ./hello/test.nix {};
     hurl = callPackage ../tools/networking/hurl { inherit (darwin.apple_sdk.frameworks) Security; };
-    libpulsar = callPackage ../development/libraries/libpulsar {}; # See installCheckPhase
     muss = callPackage ../applications/virtualization/muss/test.nix {};
     muss-dev = callPackage ../applications/virtualization/muss/test-dev.nix {};
     rapture = callPackage ../tools/security/rapture/test.nix {};
