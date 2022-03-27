@@ -1,0 +1,9 @@
+StorePath: /nix/store/c865car22w9a0wwdl24kx0z1ggcikm90-gzip-1.11.drv
+URL: nar/1nv6mzp2fg6bcck09jrvl4g7p1gmvp4p1y9z9nbvwjpxha8xd0nk.nar.xz
+Compression: xz
+FileHash: sha256:1nv6mzp2fg6bcck09jrvl4g7p1gmvp4p1y9z9nbvwjpxha8xd0nk
+FileSize: 1012
+NarHash: sha256:03ky1f7bzd43gs35k2wxkghqjzk92qcxng02if8mzh5nb2dv8bba
+NarSize: 2240
+References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 1jqvgdxbrxphqsyzh0fkywgq6z5sm593-bootstrap-stage4-stdenv-linux.drv 8dgi0ync70pgdcp2x1z85f7aqiak2651-xz-5.2.5.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh i86k46cnsq3hhklklyl5g7hzac6y30m2-gzip-1.11.tar.xz.drv vgw0nd9kgfs3rbvm20144zidxlc4qsax-setup-hook.drv
+CA: text:sha256:0bs26wphy9aywdim53zs3llbprdfxm7arr4z02irhclbd0pry9pn

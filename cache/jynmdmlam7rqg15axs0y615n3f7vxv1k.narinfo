@@ -1,9 +1,0 @@
-StorePath: /nix/store/jynmdmlam7rqg15axs0y615n3f7vxv1k-krb5-1.19.2.tar.gz.drv
-URL: nar/14h4bfbi9d5gadhp9hzcbpidwcrqh1vwx2jz5sr0kbwkvdqxj189.nar.xz
-Compression: xz
-FileHash: sha256:14h4bfbi9d5gadhp9hzcbpidwcrqh1vwx2jz5sr0kbwkvdqxj189
-FileSize: 1276
-NarHash: sha256:0rq89yx2y0pvw8xwbq10bi7fv6c1sa31g12d8vwpx21vhzxx9gy8
-NarSize: 2880
-References: 3x9fdcyjp5vigg75lyngfyxlydqpny6b-mirrors-list.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh fig6crk9q3pa8vvmx799k29iz4i0fkbj-curl-7.81.0.drv vy2lxr0rcly61wshr4vjgq5ji9k5zgpx-stdenv-linux.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
-CA: text:sha256:0215g80yblrv46jiz387jfr2x7k6v2nw9kn08lb6h8hbajns592s

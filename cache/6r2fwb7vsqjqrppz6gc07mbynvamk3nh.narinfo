@@ -1,9 +1,0 @@
-StorePath: /nix/store/6r2fwb7vsqjqrppz6gc07mbynvamk3nh-pcre-8.45.drv
-URL: nar/1kcxwf8w19f4xp2ah66nplzsvim8vz7gwzfmpla3gdnqkg8z65hp.nar.xz
-Compression: xz
-FileHash: sha256:1kcxwf8w19f4xp2ah66nplzsvim8vz7gwzfmpla3gdnqkg8z65hp
-FileSize: 1088
-NarHash: sha256:1b52bcxqj2gnx5zx7zpddp8ih1dyid0m6hghjihz1knrasiw3m2l
-NarSize: 2624
-References: 331y3xmav19nckqndzjgs9si393gikvc-bootstrap-stage3-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh iavi1cm84sg4x5q0y9g12gr1nl3vy5mb-pcre-8.45.tar.bz2.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv m2qc8a9c4yr5xmqck50fpzzwzpqggbbw-stacksize-detection.patch
-CA: text:sha256:04i06s1c7254fb5zczzgk2nl3la1qqbgi1aq23ndc1rk7id9mwgk

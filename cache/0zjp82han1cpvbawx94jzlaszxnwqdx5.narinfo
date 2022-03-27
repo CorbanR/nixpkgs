@@ -1,0 +1,9 @@
+StorePath: /nix/store/0zjp82han1cpvbawx94jzlaszxnwqdx5-libcap-2.49.tar.xz.drv
+URL: nar/0yfpcw517bys2hlan07wr8x4i2wa82zs9xanfccy73j30cifgjg3.nar.xz
+Compression: xz
+FileHash: sha256:0yfpcw517bys2hlan07wr8x4i2wa82zs9xanfccy73j30cifgjg3
+FileSize: 1292
+NarHash: sha256:0sgxl74camiyb2r78ixzm03hrs5bk9idq2y5c3swrinbmm7i9iym
+NarSize: 2920
+References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:1h2lp60dq9dwsm9v34zjnyqsdzm2j1y92h95bdrxj44asmkkqrqz

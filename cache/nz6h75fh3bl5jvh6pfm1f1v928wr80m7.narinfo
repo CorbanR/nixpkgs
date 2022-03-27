@@ -1,9 +1,0 @@
-StorePath: /nix/store/nz6h75fh3bl5jvh6pfm1f1v928wr80m7-cctools-port-949.0.1.drv
-URL: nar/02v8vm88j594f9fi5gvrf9g15mb0k61sgrhhq7n341qf1b1xl3bx.nar.xz
-Compression: xz
-FileHash: sha256:02v8vm88j594f9fi5gvrf9g15mb0k61sgrhhq7n341qf1b1xl3bx
-FileSize: 2024
-NarHash: sha256:0sqslbk143g2kv44iiwlq8cwzj5f1zx18iqmb4hnz5v7cf6db71x
-NarSize: 4696
-References: 24r6hkkqb75pfg2189dfb8jjd796zs1z-bootstrap-stage1-stdenv-darwin.drv 5cwmpnams2q5qnq1n5ggz2nnqw5nkb54-libtapi-1100.0.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh gkg0hxi6kp4n8si604ci43cm72w6j2yr-automake-1.16.5.drv j476rxh0vr6hfp2n7085b52gildv48c1-install-shell-files.drv r9iy2wdkq3w0n1hbyg92c2sqg3vcbkhl-ld-ignore-rpath-link.patch si1zqp62d0yhg7234hca3f6dk69msvaz-source.drv slpvsqvfpd1g457kk4lhb5918xdk2nwn-autoconf-2.71.drv smxh17a84fspyiwh0ahj96n4341j0jgi-objc4-709.1.drv wl2d5pz0m93x0vl72xcc3qcafr3050qm-hook.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zr59kiajvksmks3vl1hja2ybix9z2zqk-ld-rpath-nonfinal.patch zzng29km1c9n0d0r1n981q6nrrcwdirg-libtool-2.4.6.drv
-CA: text:sha256:0my6qr79ml8gxq42p213zzb57s3flh9s9dgbiyxvnszr83rw6pm5

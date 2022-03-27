@@ -1,0 +1,9 @@
+StorePath: /nix/store/07kmbk1b4aw83qzljsqicch441vc73i2-gnugrep-3.7.drv
+URL: nar/0ig6azdzxkpri631xf0xslr2mm8ljp8j7pg45650xaddgip6vrgz.nar.xz
+Compression: xz
+FileHash: sha256:0ig6azdzxkpri631xf0xslr2mm8ljp8j7pg45650xaddgip6vrgz
+FileSize: 1152
+NarHash: sha256:0rk7x1dxjkgx05gbnqmrxxmk59clfs79rimcfvcmm01v8pz3vwlz
+NarSize: 2640
+References: 1gp6qf4fwfx674fhw89bqcq8c2jdqq6f-grep-3.7.tar.xz.drv 4jj5i0mlvf0jwcsg6j56f8nb0mdldjzb-pcre-8.45.drv 6hjgsi1zfrcckcvfvr0whfnywff2fpsh-bootstrap-stage2-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh qdil2dl4i33fjadp2p58mgsjbrgpifnq-perl-5.34.0.drv sbpf6vlbcq4adpa2zr00a198983kkbas-libiconv-50.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:118kpss17wa33jlzawfifmgk1cjbdd1pgj1pbhpskyxvrh07vk6p

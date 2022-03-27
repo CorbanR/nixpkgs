@@ -1,0 +1,9 @@
+StorePath: /nix/store/snjy6i64b1akn9jk5p6lhw7l9byp7i06-artichoke-b2968d9dbb74823811f39fea38b6fa76924fa3f5-vendor.tar.gz.drv
+URL: nar/15gkz5z1jg8vi2c02a9x908dyfxhgmcv9s2nx7n6y36a25vc90ky.nar.xz
+Compression: xz
+FileHash: sha256:15gkz5z1jg8vi2c02a9x908dyfxhgmcv9s2nx7n6y36a25vc90ky
+FileSize: 1688
+NarHash: sha256:10zjivvlnzbcy4609apvza85852cwky4ymc06q56k37dwardq3ik
+NarSize: 3544
+References: 2l0fkwzrj51n04i760j982mriwhk4f33-cargo-vendor-normalise.drv 4rd4884wv62vdavp70lddazwh823s0k9-source.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ccddkfvfr0gkidynbb66bb10a6jkkx4p-git-2.35.1.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv kj9d0h7pwfii0vc86y2g7kgnd1qvgcwy-cargo_feature.patch rf6zhjridqr2zis540rszwqg47s2sh7x-cargo-1.58.1.drv ssf8xvnaxnlfxr5llk97wyvrwbybswpa-nss-cacert-3.74.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:04bpi1d8ln7ynz3ddmb1by0xkk26280z61j5znk1wgs60mr87gzz

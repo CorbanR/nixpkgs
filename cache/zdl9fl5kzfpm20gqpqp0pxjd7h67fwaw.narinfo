@@ -1,0 +1,9 @@
+StorePath: /nix/store/zdl9fl5kzfpm20gqpqp0pxjd7h67fwaw-compiler-rt-11.1.0.src.tar.xz.drv
+URL: nar/13s74nkyizac3w9qydyrn7npd6df38qlygii84s28yglnjm0d14d.nar.xz
+Compression: xz
+FileHash: sha256:13s74nkyizac3w9qydyrn7npd6df38qlygii84s28yglnjm0d14d
+FileSize: 1352
+NarHash: sha256:0p0nykmw1jcnvdvhdg307jff2n7mn331r6wi6yf63z98ingm17mr
+NarSize: 3216
+References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh k4dvpgs2zazzjj71758bpxwmp4p1sngn-bootstrap-stage0-stdenv-darwin.drv sr5myml5avflk9yxr7l4swy4j6qzy5b4-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:1pxw70cnk9lahv4avd9lqyk2b0kqf8flxz8z5qppn9amy91g61zw

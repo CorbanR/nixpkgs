@@ -1,9 +1,0 @@
-StorePath: /nix/store/91i0c8knqch5mk9qas9zvhyzfq0imykg-ruby2.7.5-pygments.rb-2.3.0.drv
-URL: nar/1xgc04vj9ivljjbhhdqyqbs8bv63hrnxnpsinqp1r96f90hyshpa.nar.xz
-Compression: xz
-FileHash: sha256:1xgc04vj9ivljjbhhdqyqbs8bv63hrnxnpsinqp1r96f90hyshpa
-FileSize: 2316
-NarHash: sha256:0mqamjbav5mgpcrmfcy6vk5358i9inp1plh58l15gqv10qnx9qrk
-NarSize: 5328
-References: 2v3c39d8prmk87ybxdapiwiffagrkxfm-ruby-2.7.5.drv 5yvkw640zm7a8dsmm8p61q9gvyfz7zzx-pygments.rb-2.3.0.gem.drv 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c246s04dv8izbfn06hx2invx1zlzvadv-objc4-709.1.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb vgldcdj3iwzyx4zd0ql174k9kmvpp88b-hook.drv
-CA: text:sha256:1znlxwgk39m7s09dj85i8b4hn4jvy77mrd2lgfdalwi5g6iw5aiy

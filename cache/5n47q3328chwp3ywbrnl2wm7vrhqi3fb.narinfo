@@ -1,0 +1,9 @@
+StorePath: /nix/store/5n47q3328chwp3ywbrnl2wm7vrhqi3fb-db-4.8.30.drv
+URL: nar/0d3vdnzlr3qz46hdq3shz00nvjnhn38cxa4a1ibrdzvvn5qk78xj.nar.xz
+Compression: xz
+FileHash: sha256:0d3vdnzlr3qz46hdq3shz00nvjnhn38cxa4a1ibrdzvvn5qk78xj
+FileSize: 1048
+NarHash: sha256:1wakp67p4jzl37vljvpwikf3ba4rm3paa4ifg6ap8vn33jf9hf3z
+NarSize: 2392
+References: 3kkyq3h4wrrm3hw16r9rircql16pmzal-clang-4.8.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv ramkpin4ph8z42q5blm946j52cybxi24-db-4.8.30.tar.gz.drv wbgiyhlnih7pl2d67700940cwf6qp5i8-CVE-2017-10140-4.8-cwd-db_config.patch yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:0b0ng27ix7vkvnmc9lz6zybpvvsiqfvsr0n2c76rlb4np51d876p

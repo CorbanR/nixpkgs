@@ -1,0 +1,9 @@
+StorePath: /nix/store/dlk2vadwvg3b64dpicbs273bzfhwwgkz-e2fsprogs-1.46.5.drv
+URL: nar/16kvd6w59j1dcxyq93jxx5ylmv73mvfmzx6aqq139l0bhxdfl29x.nar.xz
+Compression: xz
+FileHash: sha256:16kvd6w59j1dcxyq93jxx5ylmv73mvfmzx6aqq139l0bhxdfl29x
+FileSize: 1544
+NarHash: sha256:0i30s27d8wq9schr51fvbn8znw6a9zii408a631vypswi0yigrzb
+NarSize: 3536
+References: 51vmalh8lvqpicg9rxnrln5q9l1fz8vc-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b8rrbagpfxz6r76bqxv10163xk1kag11-e2fsprogs-1.46.5.tar.gz.drv bms7b11yddran3madfnfkarp0kaj1f1a-perl-5.34.0.drv gk0f5kkbphl7a6pyd789nl3vgqbijkx5-texinfo-6.8.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv nxl80p1naxc4p4dipf91n2lb0ci6sxjk-gettext-0.21.drv pajkrygv8mn78p3majgkyfh85l1n20g1-pkg-config-wrapper-0.29.2.drv s3h6ciwd995v4bs44q6zmfs536qw863a-util-linux-2.37.4.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:1i7f5vr0qn05n8iwk40x31crimayphia732p6si6ifblqir8fxcm

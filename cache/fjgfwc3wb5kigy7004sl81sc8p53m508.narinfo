@@ -1,0 +1,9 @@
+StorePath: /nix/store/fjgfwc3wb5kigy7004sl81sc8p53m508-apple-framework-CoreBluetooth.drv
+URL: nar/0c8wlbmyj65jkmyzw2sl41ll7hmb73pqp1jqdd6dws23ppalcf3h.nar.xz
+Compression: xz
+FileHash: sha256:0c8wlbmyj65jkmyzw2sl41ll7hmb73pqp1jqdd6dws23ppalcf3h
+FileSize: 1960
+NarHash: sha256:1dd2p0dn05b5gzaj0qb8jh48cgjy8sbykrv28sn7w93rd8yj0vrx
+NarSize: 6152
+References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 3fxyybvh4mdrdrk5n38455683356p6si-print-reexports.drv 47z2y8pwh8sn0h5lgg05r8yhax92z58i-MacOS_SDK-10.12.drv 6b029vnankai4331yv3bmiq2h1y2bs6v-darwin-stubs-10.12.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv
+CA: text:sha256:0pv5my6wysaih7gc3h5wplij6m2xxxvg6dq95m5h9yw3bhvmr0rq

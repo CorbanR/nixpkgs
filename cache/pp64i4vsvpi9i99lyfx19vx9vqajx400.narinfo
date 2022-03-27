@@ -1,0 +1,9 @@
+StorePath: /nix/store/pp64i4vsvpi9i99lyfx19vx9vqajx400-Test-NoWarnings-1.04.tar.gz.drv
+URL: nar/1wqaxm207dh5w0vif2wlc8s74jgllw8gfzzim8l22rzlxyl7sbvl.nar.xz
+Compression: xz
+FileHash: sha256:1wqaxm207dh5w0vif2wlc8s74jgllw8gfzzim8l22rzlxyl7sbvl
+FileSize: 1400
+NarHash: sha256:06i7csx0cn6z4miycf8gy9yfbb8ssmnsfr5wiizwy9pzbpqvkh0j
+NarSize: 3200
+References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
+CA: text:sha256:0q5vh4kvgdzwpv7c7cxcnv8cxkxbqvhibhgc48bfjn3lp6mnag37

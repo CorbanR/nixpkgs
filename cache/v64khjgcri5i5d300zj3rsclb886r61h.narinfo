@@ -1,9 +1,0 @@
-StorePath: /nix/store/v64khjgcri5i5d300zj3rsclb886r61h-python3-3.9.10.drv
-URL: nar/0bg2v5vazwvg26x46fnkh42cdwhjqv89mqv4il0d2kh7v8jf8sfx.nar.xz
-Compression: xz
-FileHash: sha256:0bg2v5vazwvg26x46fnkh42cdwhjqv89mqv4il0d2kh7v8jf8sfx
-FileSize: 4468
-NarHash: sha256:03k20igl74a4li3gvdz9ziqm0i2qbad7dqd4w1snxc32l32a6cfj
-NarSize: 11808
-References: 2ngr9hkacxv39hi3yd5gjgkzpz6lqd2a-zlib-1.2.11.drv 57kclla9vza2n87xgwg1ap54d20cz6lb-fix-finding-headers-when-cross-compiling.patch 6gcrlk7kv0bqky10widnd7y5agi4qizv-openssl-1.1.1m.drv 76h02j9aad54j3kfj235hhwz2hpnmc8n-libffi-3.4.2.drv 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9blhs2i3c8l0420l4ybd9k2di864q80v-readline-6.3p08.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh aafa965mg7grhivxa01mmbqksz6c3w77-python-3.x-distutils-C++.patch cv1ynpzvjjr0s72jkbblbzz3ymr87lpi-0001-On-all-posix-systems-not-just-Darwin-set-LDSHARED-if.patch dkb2rjyj7lwmvsn4zzwx85kx8r61nk9w-darwin-libutil.patch h9rsfv48navqswm57dc19gxri6p9ff6p-bzip2-1.0.6.0.2.drv isll28j08r5p2idiw63qadcz20b1jlm4-mailcap-2.1.53.drv jyw1mq5yn7jrdjf0qksxwvpyydf6ixhv-gdbm-1.20.drv kclys2xfrg0zjmpa37gyp33nyg1c7j0q-sitecustomize.py kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv lpfs02z2i2hamz9f50p4bz6v0fs0600j-mimetypes.patch lss0qs40mmj20hmbwr9lhpw37z88b72p-sqlite-3.37.2.drv m12g7y161bqab8rr4qmqxrs15ks98ksq-configd-453.19.drv p4qar37zn2892m83b2lkp8fw5dsjkzxy-no-ldconfig.patch pzgfcxfr9pkqc8m79m9jinrs929a9ffc-expat-2.4.4.drv qawf3igr2afzya50pxqr051fsx4bb49b-xz-5.2.5.drv qnyqmpibqb6wp8mjsdjdxblpmv6xcvq9-tzdata-2021e.drv r112dk8w7zvdjipki58ch00m825li7fq-virtualenv-permissions.patch vpaiv3bqzvmxww8sgbxna3fl7cbsmi7z-nuke-references.drv x6aiw4vay2b63slqz5byimn0alhg5b1s-darwin-tcl-tk.patch xqsscf4s8y7ibm5ylifib442k0gpkqyf-Python-3.9.10.tar.xz.drv y3vhl0h3nk6xhiw7p9vfifbygfn23f9f-ncurses-6.3.drv zv774k7f8k84ngwbmhg802f1h2f0gjjx-python-setup-hook.sh.drv
-CA: text:sha256:00f15q6i9gj7wzspxmxc0bqcf7sinc3h0s92jcba9vp2afhd81dh

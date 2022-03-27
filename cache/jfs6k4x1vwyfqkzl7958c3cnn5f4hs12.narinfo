@@ -1,0 +1,10 @@
+StorePath: /nix/store/jfs6k4x1vwyfqkzl7958c3cnn5f4hs12-hurl-1.2.0
+URL: nar/1msbi7vrc1pqgz9v9jchlrja5mvmrrv1q9w7wwd432gcpg6wwsa7.nar.xz
+Compression: xz
+FileHash: sha256:1msbi7vrc1pqgz9v9jchlrja5mvmrrv1q9w7wwd432gcpg6wwsa7
+FileSize: 1615520
+NarHash: sha256:0zz999p14k68bjh9pyygkmp8q74vk5yiicgxzm3s6zxn08ddwnm7
+NarSize: 8117688
+References: 4sjbfmkaqzbfi43s2l88jhxkk07ifc7n-libxml2-2.9.13 mhcg2idj8gnw2fwdx4xi62kwpz7jkgxn-Libsystem-1238.60.2 rxvfs88sckgz5sa05s9b3pp4mn8r8jgk-libiconv-50 v2s9msaz5wnwlmpds13h7m871q36ihrn-curl-7.81.0
+Deriver: h2xk58vly055dws2jrjzb42qw796h3a1-hurl-1.2.0.drv
+Sig: nixpkgs.raunco.co:EZnQJ0hJ5yF0g9pZJ9AHdTl6HgtwbwqlJyNd72/YyE1bDT7NQ+edFpXoaxoTRyZ3xxziueiZn2HPNDd4iS4ABw==

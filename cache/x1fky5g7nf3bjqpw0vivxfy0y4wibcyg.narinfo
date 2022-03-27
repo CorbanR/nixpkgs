@@ -1,9 +1,0 @@
-StorePath: /nix/store/x1fky5g7nf3bjqpw0vivxfy0y4wibcyg-validate-pkg-config.drv
-URL: nar/1x6lnxp07n2b4vzqhh1gsfmnjxipwq059bk2bp84waihxzhghwsl.nar.xz
-Compression: xz
-FileHash: sha256:1x6lnxp07n2b4vzqhh1gsfmnjxipwq059bk2bp84waihxzhghwsl
-FileSize: 952
-NarHash: sha256:0q62r3b2x14phyc2lh11l5xkbnz5jrqaj614fsaxsfxjhjs19cp6
-NarSize: 2144
-References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv ll393jwnh9xz95jjdilrxm8jd3czp1mr-validate-pkg-config.sh vkmqkj782lrr173rqn8d8zpzs3frzg52-pkg-config-wrapper-0.29.2.drv w10ahx4m5ha0bplwsbsygk6jwpvdlmi1-findutils-4.8.0.drv
-CA: text:sha256:02mihaxwhlh6g2j9gyp7kjfg15lyiql7bkvfpa4j808sb3fd07hc

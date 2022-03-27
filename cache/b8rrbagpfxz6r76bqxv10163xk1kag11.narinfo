@@ -1,0 +1,9 @@
+StorePath: /nix/store/b8rrbagpfxz6r76bqxv10163xk1kag11-e2fsprogs-1.46.5.tar.gz.drv
+URL: nar/0kair7rxqm90zmnnf548pk1hnsh79y5p6881nz7nz47zv2zqmcjk.nar.xz
+Compression: xz
+FileHash: sha256:0kair7rxqm90zmnnf548pk1hnsh79y5p6881nz7nz47zv2zqmcjk
+FileSize: 1280
+NarHash: sha256:1xiysbx3qf4casjcp22h21f8nadd182m4rv0b4rrjw28pfj2h6nh
+NarSize: 2920
+References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:1cj3n971sa7s0wxjcv6jm1cydcjf5wakk0vz009605yhlwng8i5c

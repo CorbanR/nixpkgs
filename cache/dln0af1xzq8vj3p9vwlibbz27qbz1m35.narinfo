@@ -1,0 +1,9 @@
+StorePath: /nix/store/dln0af1xzq8vj3p9vwlibbz27qbz1m35-gnu-efi-3.0.11.drv
+URL: nar/0wnzxiiiklydbfd55azxh8719b7dxsj29s8k6j0y7qy3b3igf2yq.nar.xz
+Compression: xz
+FileHash: sha256:0wnzxiiiklydbfd55azxh8719b7dxsj29s8k6j0y7qy3b3igf2yq
+FileSize: 968
+NarHash: sha256:0ng8grxrwb7nfxxz1cf903v17qxcvna4hx5f7pc0pkb390q6lwrc
+NarSize: 2000
+References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh aq0lsshwa2h7f0d61kz67q3clgb1a0h8-0001-Fix-ARCH-on-armv6-and-other-32-bit-ARM-platforms.patch.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv vqbmlc98bhk8gql7bdyfh17i7na1ssai-pciutils-3.7.0.drv ybg0gaiscqnz819bz9afax95ch358965-gnu-efi-3.0.11.tar.bz2.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:0zcvkz5c801kirhsjnfd1iy1d1201d0f5avs2h7cbi5g2sa0y4id

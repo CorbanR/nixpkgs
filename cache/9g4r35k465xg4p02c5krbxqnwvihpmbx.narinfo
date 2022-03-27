@@ -1,9 +1,0 @@
-StorePath: /nix/store/9g4r35k465xg4p02c5krbxqnwvihpmbx-binutils-wrapper-2.35.2.drv
-URL: nar/0g6vz4n6mwvbzq5fpzb1hq67phc006ycjjz60cxwal72q00pf6ak.nar.xz
-Compression: xz
-FileHash: sha256:0g6vz4n6mwvbzq5fpzb1hq67phc006ycjjz60cxwal72q00pf6ak
-FileSize: 2484
-NarHash: sha256:09i0zk4pg3dsrdqsnb8l0c9vxsjlv8lhw09agir52z1md5xb3v7q
-NarSize: 7136
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 1mv585llg7blkbc55dhs9ksz9phcsp0s-gnugrep-3.7.drv 2idjp2xdckqyrdk3hd8msp4cfdi6b8if-utils.bash 797k3249lr4rx8wslf7kcsa3hv6fis3x-role.bash 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c1vmxz359mfljs3cdimhd2fr6fw0n99s-add-hardening.sh dhnws69ndrdfdg2nlj9fisvgxph1qpsm-bootstrap-stage4-stdenv-linux.drv dk3ly72kiv27srcj1mjr5n4112vx2hfk-setup-hook.sh i8zlyark0k5ir63axsj534091izccbxq-coreutils-9.0.drv m9qvr6m0bylrjqb5ind6hfzsax14xys9-gnu-binutils-strip-wrapper.sh mrzpfh0ml9k07sw019ydagbb2z1q4sxz-add-flags.sh vfzsbipvxkbj9m4yh5is0shfxn3p7b2m-binutils-2.35.2.drv w07x2k4wi8xvmh2nyxvx50nw5pxaga6y-expand-response-params.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv x7lpb6zp4p7qvlk87vs4fkkm5d7jfdn1-glibc-2.33-108.drv xy5mbigs600p7yvvqi8bqn5rj94f2s54-ld-wrapper.sh
-CA: text:sha256:0njxr19m9vgqab5jdrk33s3f26c649gk0m3iskkgi44fsw806klk

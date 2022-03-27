@@ -1,9 +1,0 @@
-StorePath: /nix/store/rac4i6pfw960612h4fjdhsv05zg3jgyv-nss-cacert-certdata-3.74.drv
-URL: nar/0fwknha3swhgzj47h774mkiqs7il8nnn7pslx27f85zikyxv7h1m.nar.xz
-Compression: xz
-FileHash: sha256:0fwknha3swhgzj47h774mkiqs7il8nnn7pslx27f85zikyxv7h1m
-FileSize: 860
-NarHash: sha256:0yg5m7yz1qb16ypffa91q1wxyiyxx15slqxb8xs5bwmnzhm48zsz
-NarSize: 1904
-References: 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 8zmqxiyv3w3s9rcm12ws9nhvkrj58vlz-nss-3.74.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
-CA: text:sha256:1ams7yp8sksnf3wvwady8xgvmjl95rcfkfg9yicb59fg1fzd3hlb

@@ -1,9 +1,0 @@
-StorePath: /nix/store/xhlz24x8hmx9w1k4knva27lqgz9amc3b-gnutls-3.7.3.tar.xz.drv
-URL: nar/1z9k24p4557ddx4snhds9jq78gfphwn8sbic7jdaf8cf4s2ixnb3.nar.xz
-Compression: xz
-FileHash: sha256:1z9k24p4557ddx4snhds9jq78gfphwn8sbic7jdaf8cf4s2ixnb3
-FileSize: 1368
-NarHash: sha256:0p96vhzmd33ggsi7qv6p3zhlbn8mpq2pjc2907b21crrymlmgp2x
-NarSize: 3136
-References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 929m2iwcwvfs0dnx35llysf1srz0ax06-mirrors-list.drv adfihj8631q2zbnc0w79sx8q02wyjsxx-curl-7.81.0.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
-CA: text:sha256:1fm7qbwzspaa64db75hzw5hafrr98571ch17wrqfixppzmzdbf8r

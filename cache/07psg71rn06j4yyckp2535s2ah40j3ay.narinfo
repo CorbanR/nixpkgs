@@ -1,9 +1,0 @@
-StorePath: /nix/store/07psg71rn06j4yyckp2535s2ah40j3ay-which-2.21.drv
-URL: nar/0088q3lcg2lbiqddbi5v7c1x9ij745ybdgjzvl5w4l4yd6pviicx.nar.xz
-Compression: xz
-FileHash: sha256:0088q3lcg2lbiqddbi5v7c1x9ij745ybdgjzvl5w4l4yd6pviicx
-FileSize: 676
-NarHash: sha256:0fxgfbmay1fdvg96fh58kxc5rqnbl01avi6s5dnrcplsrx748afv
-NarSize: 1456
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv c280n766h3y3p3lj72m30pkhssgjnzsk-which-2.21.tar.gz.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
-CA: text:sha256:1g2fvpvl8jh7iwvibb2gs1qa6qwm3vsjwk11kif8xi0l6x2x0qqq

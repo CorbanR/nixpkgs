@@ -1,9 +1,0 @@
-StorePath: /nix/store/rc2kfhzn31wy2fgdldnbbkkm916s9493-libtool-2.4.6.tar.gz.drv
-URL: nar/0hlgzg38xl417xpb29d5asgikqycsqdfl7mb837350i3cb4i5isk.nar.xz
-Compression: xz
-FileHash: sha256:0hlgzg38xl417xpb29d5asgikqycsqdfl7mb837350i3cb4i5isk
-FileSize: 1368
-NarHash: sha256:0w1qg4pv0fyq3yfmg0n5ykn2vxhn06zf06gr13sclkpigc6cx6sq
-NarSize: 3136
-References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 929m2iwcwvfs0dnx35llysf1srz0ax06-mirrors-list.drv adfihj8631q2zbnc0w79sx8q02wyjsxx-curl-7.81.0.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
-CA: text:sha256:08vyng0lyq66i3sfs7w6idjzcjg1da80i04sfzh7a50pzcrkdi5g

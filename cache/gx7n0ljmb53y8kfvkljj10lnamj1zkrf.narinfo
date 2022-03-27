@@ -1,0 +1,9 @@
+StorePath: /nix/store/gx7n0ljmb53y8kfvkljj10lnamj1zkrf-expect5.45.4.tar.gz.drv
+URL: nar/0iq9gf85kz14rr780mr39vgw8qyb3v2axg21mvzfxr7lgkm7h1dc.nar.xz
+Compression: xz
+FileHash: sha256:0iq9gf85kz14rr780mr39vgw8qyb3v2axg21mvzfxr7lgkm7h1dc
+FileSize: 1280
+NarHash: sha256:0irwddnxw8g5sf7p0ryqqwl4j1hrxyfn69nxhr602rxhvxd0cxbl
+NarSize: 2912
+References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:0n3i5rdla70g1skfi06sihwrcfdq4kmmiklh50lml8jy220lbdla

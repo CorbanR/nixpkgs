@@ -1,0 +1,9 @@
+StorePath: /nix/store/pf60q3dxfvrzb9hy95k7gv0inc2jl505-more-itertools-8.12.0.tar.gz.drv
+URL: nar/0m92s51gmlsbbmr3f7fn1j3yi89585y0rkdrakbvm5vwwfpipxh0.nar.xz
+Compression: xz
+FileHash: sha256:0m92s51gmlsbbmr3f7fn1j3yi89585y0rkdrakbvm5vwwfpipxh0
+FileSize: 1352
+NarHash: sha256:1059018jhg7rcpvk8195q5w04rprd56kgh3n6j9nq5dnl0c1m620
+NarSize: 3216
+References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
+CA: text:sha256:10hbymha3advggivfd8r6g7m5i97gf1qpz2xzl13phb28432wd7j

@@ -1,0 +1,9 @@
+StorePath: /nix/store/lqqyp62vzc5gafxh7qj3x2myxcpiyl6m-boost-1.77.0.drv
+URL: nar/0jhap7lzg46l44q7iyrf54kzqxk33dbs03q1nmyh2kl3x5wijym5.nar.xz
+Compression: xz
+FileHash: sha256:0jhap7lzg46l44q7iyrf54kzqxk33dbs03q1nmyh2kl3x5wijym5
+FileSize: 2220
+NarHash: sha256:1666pvhsqgx6rd952dwmcb5axq806xl4amnh1jahs99i70bwjy79
+NarSize: 5296
+References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 1cbws1f1ppqxi4h10p80biwpdklfnz2x-darwin-no-system-python.patch 4qrp3h07h69ka29lhpyk41g3k0jqc20s-boost-build-boost-1.77.0.drv 6bsqrs9ypdllzy3rd3d0ajxwxysijvqz-which-2.21.drv 6kdffczc753n2yhz5saq4p2a8ps2bx8z-zlib-1.2.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bmym3nvn1jpl24p9nrgdhhr5a75hypnc-icu4c-70.1.drv g95iaqswhy0wxrnlhckgfx9x3rzvj284-libiconv-50.drv hpmb3z4953ylyvzwq01najjvcz0sxz5a-7d482f6ebc356e6ec455ccb5f51a23971bf6ce5b.patch.drv ix3sdndz8c88499v5a0w4d2r481wvd45-bzip2-1.0.6.0.2.drv n2p8qf76bx0fgi5smfbzi1r89jsjbn33-expat-2.4.6.drv rwm9xg07rdgcmiaxnwj1k9qrx4760md9-boost_1_77_0.tar.bz2.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv wpbcp7kf7xcjaf7kd7nqx23y6n8h86lf-cmake-paths-173.patch wqrxyvnrlpb6h37vmhjj07rff458m79p-hook.drv
+CA: text:sha256:0292fji02r2cki0g6rjyzxg0jnjr4cn0rrzc54ycr2yvqzhqwj97

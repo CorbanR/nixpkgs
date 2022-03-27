@@ -1,0 +1,9 @@
+StorePath: /nix/store/qv975qc67b43d11af9axm565iiv22pcm-Toolchains.drv
+URL: nar/0mdgr391lwpswyndwf252l0saxv5sxybv6xlnjsfhjfaqphb839n.nar.xz
+Compression: xz
+FileHash: sha256:0mdgr391lwpswyndwf252l0saxv5sxybv6xlnjsfhjfaqphb839n
+FileSize: 1832
+NarHash: sha256:0zywc146i80a4y0ndirxz6ylzhjxsmgnd1pi49wir1r65sv1da6d
+NarSize: 4768
+References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 6zxbjxc579crbl6rphs2pfj4hwqpzdpd-mkdep.sh.drv 7mfl2v7n3bw6pqwz74hqnz3nj4zzbarn-gnum4-1.4.19.drv 7nn49r97bv3qayincc4ch5x3pk7bmg6z-bison-3.8.2.drv 9b83cd34na6lsksnfkfn5ks71pqbbqgd-clang-wrapper-11.1.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bxiwi9i9rmyzsbb915w0msa7jim65gas-unifdef-2.12.drv hkaq2889z5qrrzh9053h128q1jr7lwfl-ToolchainInfo.plist.drv ilbfghmg7x450ffcphl4wg9xix6xawfz-gperf-3.1.drv iqnqarsn35g76k2n8as01w091816ha61-bootstrap_cmds-121.drv kkg5j4v8gldny1sn7dil5h5pc0vymjcn-cctools-binutils-darwin-949.0.1.drv p7njqh46wy74v17pk6aqviaaxmbjdzbw-ctags-816.drv pm0q01bq56qq3ixr5kb33fw8l94cdq6w-indent-2.2.12.drv r6ix1jcpqigcid75835ajj9cxiv3lfqk-cctools-port-949.0.1.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv xs5a7gq1wa0qq5f17vdm79axc4dhpj4i-flex-2.6.4.drv
+CA: text:sha256:14gcs5gzw7as9v99rqn3fjzpwan5w416cbj47mqgfc721ma5gkqz

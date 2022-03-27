@@ -1,9 +1,0 @@
-StorePath: /nix/store/rwd7gm7sv00ipcqncjfaxlm21vq2f4kx-clang-wrapper-11.1.0.drv
-URL: nar/13gkrifqbsfpx32f8b58ybvmkgrww2ryypqgjhn8n5swf89lcqmi.nar.xz
-Compression: xz
-FileHash: sha256:13gkrifqbsfpx32f8b58ybvmkgrww2ryypqgjhn8n5swf89lcqmi
-FileSize: 2652
-NarHash: sha256:1rjkiji0f037i9sh3142i6szia2k7lamj1r8gi4y58a9w12y29w5
-NarSize: 8344
-References: 29mjzkai0jil6prs0nvhq07h47kfi490-add-flags.sh 2idjp2xdckqyrdk3hd8msp4cfdi6b8if-utils.bash 4i1892ywbgznwm3v0x05z735s9r7grmc-libcxxabi-11.1.0.drv 4khiii8qyix82326fsrsw3x9477q2jxr-cctools-binutils-darwin-wrapper-949.0.1.drv 6jabq3799g5n8gmwip3277si8clkl4rw-cc-wrapper.sh 797k3249lr4rx8wslf7kcsa3hv6fis3x-role.bash 89aiqh4y9ballhs719j4h0h57v41gcdz-gnugrep-3.7.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bdbcm9l9kan4y0hkg17wxsx59ag67q4d-Libsystem-1238.60.2.drv hc3z14jhqg35x5286hw5wmc3injg62fa-add-hardening.sh ivsa25h56pd15kdaaq02spx5hginil2c-libcxx-11.1.0.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv nc4bvrgb8jxh4k1fq2zgzh4mmxqavp54-setup-hook.sh pj0156nha1jy8l2bvkq5lsxnyc2imxvr-clang-11.1.0.drv rha823n7vn502zla6y7x3lnl5l50q05i-expand-response-params.drv rhwqylgsxjj4ylpyjgra1d93zadl1i9n-coreutils-9.0.drv wqlg59gbv1hjj0xq2gjm4ixa6bgdqmy2-bootstrap-stage4-stdenv-darwin.drv wzm8ssq3vwpgawh0ji1h5c97mb6ilf8w-compiler-rt-libc-11.1.0.drv
-CA: text:sha256:0n4mldqbfhj11fwpqih15kw2pkp21p2hjnny4nmca2hfys5njrg2

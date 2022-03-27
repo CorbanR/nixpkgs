@@ -1,9 +1,0 @@
-StorePath: /nix/store/xm38fs95cs6ghazf5yz5k0pjcp1ia08i-IOKitUser-1050.20.2.tar.gz.drv
-URL: nar/0wsrqakzmkrlcnksp5zfd0hln827kpyxf2yzfnypxdiap7bnajnm.nar.xz
-Compression: xz
-FileHash: sha256:0wsrqakzmkrlcnksp5zfd0hln827kpyxf2yzfnypxdiap7bnajnm
-FileSize: 1392
-NarHash: sha256:1ivngjdhqiqnf66xr5g3px7yyj2y8ps48n3mwpakmkz9gfh3jg77
-NarSize: 3184
-References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 929m2iwcwvfs0dnx35llysf1srz0ax06-mirrors-list.drv adfihj8631q2zbnc0w79sx8q02wyjsxx-curl-7.81.0.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
-CA: text:sha256:1d6ll8w1b0f2bk8my16z88h5ba6pjdzh9x4ss8l2fmizd8v2zhvw

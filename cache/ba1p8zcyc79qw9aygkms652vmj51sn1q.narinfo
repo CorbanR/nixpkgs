@@ -1,9 +1,0 @@
-StorePath: /nix/store/ba1p8zcyc79qw9aygkms652vmj51sn1q-hashery-2.1.2.gem.drv
-URL: nar/1i6msfa07rmkvbvcljgvmr8x6pphfyg7l4mn973vyif9lvxl900b.nar.xz
-Compression: xz
-FileHash: sha256:1i6msfa07rmkvbvcljgvmr8x6pphfyg7l4mn973vyif9lvxl900b
-FileSize: 1372
-NarHash: sha256:05426ga7iqxyd8knzi8jha1gd10ij6g88niqz0vx2i519b5mp6cn
-NarSize: 3128
-References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 929m2iwcwvfs0dnx35llysf1srz0ax06-mirrors-list.drv adfihj8631q2zbnc0w79sx8q02wyjsxx-curl-7.81.0.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
-CA: text:sha256:03kb9k3r9222yjd23q223y4lic18npxbl3dm273saa03jk8fywj5

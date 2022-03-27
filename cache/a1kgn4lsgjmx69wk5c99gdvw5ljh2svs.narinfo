@@ -1,0 +1,9 @@
+StorePath: /nix/store/a1kgn4lsgjmx69wk5c99gdvw5ljh2svs-libxml2-2.9.13.drv
+URL: nar/0fjf7iljvqscm91d5zh6p876xyl343i862sbqhvb5wxlyav4z88k.nar.xz
+Compression: xz
+FileHash: sha256:0fjf7iljvqscm91d5zh6p876xyl343i862sbqhvb5wxlyav4z88k
+FileSize: 1784
+NarHash: sha256:0n41ncvnnaxixrzazkq8zcj1w59r9lry9hd1ivf2njrc294yrk7y
+NarSize: 4232
+References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 5x70wg3gh95wcyb0k422w3jnsddk0dk1-ncurses-6.3.drv 6kdffczc753n2yhz5saq4p2a8ps2bx8z-zlib-1.2.11.drv 8nfsfagzdwqal9vsbf05gi4cm9w76781-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh frr6f2hq56j6b4wc0bsklaqskjsagqc0-utf8-xmlErrorFuncHandler.patch g95iaqswhy0wxrnlhckgfx9x3rzvj284-libiconv-50.drv rpx4aa5a6jwgaq2djcw9sp1nfd667p0g-pkg-config-wrapper-0.29.2.drv sg45bz5y80mjfi73ylj5p8965b74ryz3-python3-3.9.10.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv swhnhiijnaqr635hcqv2k5wps3mxv75a-libxml2-2.9.13.tar.xz.drv yrzr234rfpscn3z1igx87f2hwvxasc3x-hook.drv
+CA: text:sha256:07wsp51xn41bg37i22cs28j30mjx014p791fzfadm7w81c66r3q8

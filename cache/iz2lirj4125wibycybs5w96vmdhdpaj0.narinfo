@@ -1,9 +1,0 @@
-StorePath: /nix/store/iz2lirj4125wibycybs5w96vmdhdpaj0-libidn2-2.3.2.drv
-URL: nar/119kd8yvgwz63pmgbfqdjav45yn4qhpkrpdx59apsh81i902dr1n.nar.xz
-Compression: xz
-FileHash: sha256:119kd8yvgwz63pmgbfqdjav45yn4qhpkrpdx59apsh81i902dr1n
-FileSize: 1320
-NarHash: sha256:1nnp7h3rscvw9baqzq30bxxfrc5v01zvmq3qydgdn7w2fkkgpvmq
-NarSize: 3184
-References: 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 859hq743cg23yshcfj6km4rqv2kz6vfl-texinfo-6.8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv n06yyc80maw5jh1k8y2iqbcwgxdmrynw-libiconv-50.drv qv6yfhyvxmrijj6q67v5xpbmf324h22f-libidn2-2.3.2.tar.gz.drv rwd7gm7sv00ipcqncjfaxlm21vq2f4kx-clang-wrapper-11.1.0.drv szfjhkhmsxfyc289vz39882d3l866888-fix-error-darwin.patch w8fd3gcwmjmggjk8z3gfgfvjwyqjgg6m-help2man-1.48.5.drv xm8jqr5qimh5j84lhnkx3dc42ppncjf8-libunistring-0.9.10.drv
-CA: text:sha256:1q16prh1pj4pnmf7afpfjx1lf7xq7brzvig9fphslfzsxhrhi5l9

@@ -1,0 +1,9 @@
+StorePath: /nix/store/ryg3r4m10hhxpvs3q4fwh13xbwbmqqbx-libksba-1.6.0.drv
+URL: nar/1i22sl9iw82h1k3vaf80nwn2by4jg1gkk590qf3qi6yh1pqg5d7d.nar.xz
+Compression: xz
+FileHash: sha256:1i22sl9iw82h1k3vaf80nwn2by4jg1gkk590qf3qi6yh1pqg5d7d
+FileSize: 1048
+NarHash: sha256:0j4zagj1622ckpk3gr4g9rfb3xx98d34igfzn9ddr0c5lsv34yfj
+NarSize: 2408
+References: 48c5q143knz2xqarssw3c2nsrv834xxc-libgpg-error-1.42.drv 51vmalh8lvqpicg9rxnrln5q9l1fz8vc-gcc-wrapper-10.3.0.drv 89s6j37dnlp704i8y72vy6adz198m7g4-libksba-1.6.0.tar.bz2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv nxl80p1naxc4p4dipf91n2lb0ci6sxjk-gettext-0.21.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:05wdf97lj3jj7zpj84g0787s9xvy00yv5wafkw921xi5baabg819

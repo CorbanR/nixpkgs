@@ -1,9 +1,0 @@
-StorePath: /nix/store/bpdnm33l9af9924dbkgnl61zjp6nbqpc-libpulsar-2.9.1.drv
-URL: nar/0z7q420phhng7jxsy5h2rs9msf1qnm30r6yw5i2zbrs57gkb0sff.nar.xz
-Compression: xz
-FileHash: sha256:0z7q420phhng7jxsy5h2rs9msf1qnm30r6yw5i2zbrs57gkb0sff
-FileSize: 1756
-NarHash: sha256:18ipck5802w14dgk795jknxskdpqv2a96rylz967qbl51c9farxn
-NarSize: 3936
-References: 1zdv7rh2z14rfabqvh1bsav30z73aqfa-clang-tools-11.1.0.drv 2ngr9hkacxv39hi3yd5gjgkzpz6lqd2a-zlib-1.2.11.drv 2ymzinqvnpkd8s7iyyn4735b6wlyv4lj-cmake-3.22.2.drv 52pdpz4yazzb0fx8k2kfbl5bprhbf835-boost-1.77.0.drv 6gcrlk7kv0bqky10widnd7y5agi4qizv-openssl-1.1.1m.drv 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 7xrd5l0wldrscpwgfq5ly076x11hjgc0-jsoncpp-1.9.4.drv 8y382kq02c12xn98b3m0jl6gqd8556bp-zstd-1.5.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dbwygc6gw0q8x2xznahn9839hdf07w9g-apache-pulsar-2.9.1-src.tar.gz.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv sm4i6kq11rr6bjx26bgqfjylvpaxha7j-curl-7.81.0.drv v43f9r99cb92q0rcc0184a0miv8rx3q1-protobuf-3.19.3.drv vkmqkj782lrr173rqn8d8zpzs3frzg52-pkg-config-wrapper-0.29.2.drv
-CA: text:sha256:1dd5d97fqsz7fbnvxi27dxnn9c3whcrymd9fhlxs3jy5y4vl06qw

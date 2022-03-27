@@ -1,9 +1,0 @@
-StorePath: /nix/store/x60ziswdq7nqndrrn4rphlzmfwbbwjzh-ruby2.7.5-polyglot-0.3.5.drv
-URL: nar/1vzh0rrpqyxzych2xz654b2v6naggaa331ammdydrppaarjr2hyc.nar.xz
-Compression: xz
-FileHash: sha256:1vzh0rrpqyxzych2xz654b2v6naggaa331ammdydrppaarjr2hyc
-FileSize: 2320
-NarHash: sha256:1idmaqmm3zi4pf6pzs9z4hs8agxnv6yglgq13n8ba81jg380dwgm
-NarSize: 5312
-References: 2v3c39d8prmk87ybxdapiwiffagrkxfm-ruby-2.7.5.drv 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c246s04dv8izbfn06hx2invx1zlzvadv-objc4-709.1.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb vgldcdj3iwzyx4zd0ql174k9kmvpp88b-hook.drv vhm03fzmfv7hx7gkh6imvd47510ibbpp-polyglot-0.3.5.gem.drv
-CA: text:sha256:0cqvc7wpx3bysr9wl445x2m0kisbaxcnnpys1c7j3ac7pz4b2wpl

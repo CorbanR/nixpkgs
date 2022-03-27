@@ -1,0 +1,9 @@
+StorePath: /nix/store/nprwdgi0cq42lsis12gdhdam20zac5l9-libffi-3.4.2.drv
+URL: nar/04y5m6hx54z4g3s1gnlgg39zllzjsz1nlvi3mjj1mlf7xjbx40x6.nar.xz
+Compression: xz
+FileHash: sha256:04y5m6hx54z4g3s1gnlgg39zllzjsz1nlvi3mjj1mlf7xjbx40x6
+FileSize: 944
+NarHash: sha256:1qn52kk9d8am1192shqsgnqa3nfm0r3nx9fp7z3cscnn00fpcbbf
+NarSize: 2160
+References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh k365q57lpnf9pbmdg43x6zkwzqc05whd-libffi-3.4.2.tar.gz.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:0f2h1115x3vga584a5n9jdwp360m3hrbmz4gx5f6yiw0qhjmqypn

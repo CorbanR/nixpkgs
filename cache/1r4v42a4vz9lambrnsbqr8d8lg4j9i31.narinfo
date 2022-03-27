@@ -1,0 +1,9 @@
+StorePath: /nix/store/1r4v42a4vz9lambrnsbqr8d8lg4j9i31-python3.9-Pygments-2.11.2.drv
+URL: nar/0xggby2cg0zp5lwskbw8al4nmkk9f7as63gc5c9msg14zfax0v6f.nar.xz
+Compression: xz
+FileHash: sha256:0xggby2cg0zp5lwskbw8al4nmkk9f7as63gc5c9msg14zfax0v6f
+FileSize: 1628
+NarHash: sha256:05j89yqnwzm389swj3fwc90n3m6lv025a2m34c4vk3z0wqzamk4w
+NarSize: 3728
+References: 04j2vf2admpm5w088rz0bm7gpbqqmbdj-python-catch-conflicts-hook.drv 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 2rkizvl49mk5pawjr8f8fr7f4mkc03fd-python3.9-docutils-0.17.1.drv 66pdjrv83zq0v3v0whhyz9z64knbmgka-python-imports-check-hook.sh.drv 7786m2w7kjvi3shffygwg9v12byy3gww-setuptools-setup-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cwzp8i0igczipl3ayf7dmaz7qcln4nv0-python-remove-tests-dir-hook.drv dq4zkwav64c8i02a6g118wd89wk2k3ks-python-remove-bin-bytecode-hook.drv fhcm8w71cjq8kd0l1mld1pzdn3g6grrl-Pygments-2.11.2.tar.gz.drv gx85mh0vaf5zlsd1a40in8dzy8kyyz4q-pip-install-hook.drv i48kas1cakb6r8fml7cfcr9q59427cwj-python-namespaces-hook.sh.drv klmi5dycj4r15xp3p2a7w7p0j6d4ki1k-python3.9-setuptools-57.2.0.drv l89ydnv24l7bsc0pc1wqxcnhz0y72259-hook.drv sg45bz5y80mjfi73ylj5p8965b74ryz3-python3-3.9.10.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv x2ar8axikxqkfgsg1kh45cbhg356g27l-hook.drv
+CA: text:sha256:120gf3y7yrpmizgfmpjgyc9cjk3l7c4hkbpd1bwr6qsdzx73ymh0

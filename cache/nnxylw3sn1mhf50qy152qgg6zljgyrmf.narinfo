@@ -1,0 +1,9 @@
+StorePath: /nix/store/nnxylw3sn1mhf50qy152qgg6zljgyrmf-IOCDStorageFamily-51.tar.gz.drv
+URL: nar/1a1qskigy2yhd6vgkmmjrxfahfgxkc4x73kx4nk01y164ys92mkn.nar.xz
+Compression: xz
+FileHash: sha256:1a1qskigy2yhd6vgkmmjrxfahfgxkc4x73kx4nk01y164ys92mkn
+FileSize: 1400
+NarHash: sha256:03i0z03knxgvwsz1b58nh7cypahwzdkfglhfy70hswvydnl5xdij
+NarSize: 3224
+References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
+CA: text:sha256:0ahacddd0w9izlja3ypr66fcyksc7vpzm74jvpqyacymh3q783fi

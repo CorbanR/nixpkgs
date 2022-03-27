@@ -1,9 +1,0 @@
-StorePath: /nix/store/hsqair6z5nzrbm59am9jmg0khagh8ay4-hook.drv
-URL: nar/15bvgdp79dvi2n44kw7jiyc0birq36fkndc0vi8kmgyg29znkcd0.nar.xz
-Compression: xz
-FileHash: sha256:15bvgdp79dvi2n44kw7jiyc0birq36fkndc0vi8kmgyg29znkcd0
-FileSize: 896
-NarHash: sha256:0hp63dblfwzx3xw4rgikxmc46hha1kwhpfb4hdajaaynp5rqjkqq
-NarSize: 2128
-References: 6fr467qsyl2154j5pip067hbgfz1hgr1-make-wrapper.sh 8krld5nnr1ns4lig0bl8y5p3yixqq26s-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ixk0j12wl424a5mmq7q3zcxlpcaacfkb-bootstrap-stage3-stdenv-darwin.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
-CA: text:sha256:00y68w9i3m0w1wlqz5clcxarfy1gmvbnpi5d5380bxllz10zwf1h

@@ -1,0 +1,9 @@
+StorePath: /nix/store/0ihvrzak63v4hzjq4l548ia0snpp4hga-polly-11.1.0.src.tar.xz.drv
+URL: nar/00cn03319l071wkiglq20i61x45vi6prb0wp671d5ccp98q63jdv.nar.xz
+Compression: xz
+FileHash: sha256:00cn03319l071wkiglq20i61x45vi6prb0wp671d5ccp98q63jdv
+FileSize: 1304
+NarHash: sha256:1jp5lzvyraz7vjl18ijj8syg1fwrlj3n1p8v3hys8lkh71ll2wb6
+NarSize: 2960
+References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:1h4wyj47m9wwn22lcnmpcc3ay2v80637xkb8b2lm8pilpcmjglm8

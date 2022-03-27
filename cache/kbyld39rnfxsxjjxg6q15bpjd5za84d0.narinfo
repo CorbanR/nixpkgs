@@ -1,0 +1,9 @@
+StorePath: /nix/store/kbyld39rnfxsxjjxg6q15bpjd5za84d0-cpio-2.13.drv
+URL: nar/1c7y2wpl471v485r6r40fkqj3z35srzdn11rlg6dhwyw99x2fmkg.nar.xz
+Compression: xz
+FileHash: sha256:1c7y2wpl471v485r6r40fkqj3z35srzdn11rlg6dhwyw99x2fmkg
+FileSize: 1052
+NarHash: sha256:1hnzc0dln4z0cnhn4gqswckyl8f54brm111srfr27482ia6zrjk4
+NarSize: 2440
+References: 0x1s47qfcc373w9hd6abxvl5gdj7d2gv-cpio-2.13.tar.bz2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ikmqczy0y20n04a2b8qfflzwihv8139g-separate-debug-info.sh k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv lsskmshyy7cx1ia8ddcm4kym2k722sqg-CVE-2021-38185-2.patch.drv r1ncv4fqcrmp0k0q8zdfrir5xq62gm62-CVE-2021-38185-1.patch.drv sjz4lzc1c1k50hzfs6s52ah58x409dsq-fno-common-fix.patch.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv zblynkwl4hb11ppmaj9gr9hs7ic5n59h-CVE-2021-38185-3.patch.drv
+CA: text:sha256:16in949dnzz67vkj80pr9qv9m591n074gdkf10dc608q6130k9am

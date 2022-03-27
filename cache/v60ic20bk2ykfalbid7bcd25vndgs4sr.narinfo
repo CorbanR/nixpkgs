@@ -1,9 +1,0 @@
-StorePath: /nix/store/v60ic20bk2ykfalbid7bcd25vndgs4sr-linux-headers-5.16.drv
-URL: nar/1p4wpbsgvjba0j0mklyawvg3yf5rmcdw16sddflxavmxbyw4d14r.nar.xz
-Compression: xz
-FileHash: sha256:1p4wpbsgvjba0j0mklyawvg3yf5rmcdw16sddflxavmxbyw4d14r
-FileSize: 1104
-NarHash: sha256:1d278lz2n3jzbvfxvr2pq4p40yfmm5p8r7aw9n1s4dc8b6y29fl0
-NarSize: 2432
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 5f35s6nwpbb4wqmvcacqgmp4v511q47f-linux-5.16.tar.xz.drv 69lyjyca86317hdsc1rwf3ahn7s5kiyn-no-relocs.patch 92hax2x0l6bc0qxd5344xvdp8kjaf37b-perl-5.34.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9xxmspgcikk4irwrnn0gssmrd3djihg1-bootstrap-stage2-stdenv-linux.drv kr2b0f7833s5bl0sd0z4qy7gv90spzl0-bootstrap-stage2-gcc-wrapper-.drv
-CA: text:sha256:1axbmj2p37rrcy5386a4k0vv6av94cf1fzymkfwjakkxdkgs1pzm

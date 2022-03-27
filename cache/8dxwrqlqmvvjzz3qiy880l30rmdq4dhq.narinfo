@@ -1,9 +1,0 @@
-StorePath: /nix/store/8dxwrqlqmvvjzz3qiy880l30rmdq4dhq-libpng-1.6.37-apng.patch.gz.drv
-URL: nar/1idf01f9fsq49rdpaivbnkqx27wvdvpmb3hv7nc9d49dc6588zh3.nar.xz
-Compression: xz
-FileHash: sha256:1idf01f9fsq49rdpaivbnkqx27wvdvpmb3hv7nc9d49dc6588zh3
-FileSize: 1372
-NarHash: sha256:12nlvn8ia16kx8qydsdwjdylrc2k9xi146sq1w0bbbqf6ni81p03
-NarSize: 3176
-References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 929m2iwcwvfs0dnx35llysf1srz0ax06-mirrors-list.drv adfihj8631q2zbnc0w79sx8q02wyjsxx-curl-7.81.0.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
-CA: text:sha256:1rdxr3g2y5qxnhkv9k840q7w4dgk5w4zyqjlxqs269lnkwcr5gcc

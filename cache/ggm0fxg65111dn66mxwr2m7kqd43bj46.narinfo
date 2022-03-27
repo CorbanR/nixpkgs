@@ -1,9 +1,0 @@
-StorePath: /nix/store/ggm0fxg65111dn66mxwr2m7kqd43bj46-llvm-13.0.0.drv
-URL: nar/0c19knq1vcbzcm3x9pw2pmnp0rvzwmqwaxs5gw3p5gxac1209wms.nar.xz
-Compression: xz
-FileHash: sha256:0c19knq1vcbzcm3x9pw2pmnp0rvzwmqwaxs5gw3p5gxac1209wms
-FileSize: 2300
-NarHash: sha256:0lsjakmacrk7sxcqmd8rkkfa4a1zlbn0mqlwijqi5az97xnxqch3
-NarSize: 5488
-References: 2ngr9hkacxv39hi3yd5gjgkzpz6lqd2a-zlib-1.2.11.drv 2ymzinqvnpkd8s7iyyn4735b6wlyv4lj-cmake-3.22.2.drv 42p4143wws0xg28cvdwb8zh7x6fi8zhq-libxml2-2.9.12.drv 4328wxpc0mf4ipl9fgyf5jk9qwck9wgc-source.drv 6wv8acdd7bm7npixgr3rk86mf55fj47c-llvm-config-link-static.patch 76h02j9aad54j3kfj235hhwz2hpnmc8n-libffi-3.4.2.drv 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh fsri1cp66sqyjb83yzy1pgbfpfy6nqxn-gnu-install-dirs.patch hmyq2j98g6q687l8xqz190sxfq75qzyr-no-strict-aliasing-DwarfCompileUnit.patch.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv v64khjgcri5i5d300zj3rsclb886r61h-python3-3.9.10.drv y3vhl0h3nk6xhiw7p9vfifbygfn23f9f-ncurses-6.3.drv
-CA: text:sha256:1z7jziljnrqz7fsg7iljff805dfnliiq8f1lvbx45vlfvkx9hpnh

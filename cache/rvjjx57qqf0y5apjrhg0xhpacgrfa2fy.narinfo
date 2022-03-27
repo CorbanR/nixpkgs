@@ -1,9 +1,0 @@
-StorePath: /nix/store/rvjjx57qqf0y5apjrhg0xhpacgrfa2fy-gnupg-2.3.3.drv
-URL: nar/17iscdvw1iwbhk9kxb05sbg50zhrljggnkx0xlzbv0ladipnzc77.nar.xz
-Compression: xz
-FileHash: sha256:17iscdvw1iwbhk9kxb05sbg50zhrljggnkx0xlzbv0ladipnzc77
-FileSize: 1976
-NarHash: sha256:1j5gqp00cgv73rh4pqg3s4bry3znsp7wcm94x240ysfacxdzzn3i
-NarSize: 4680
-References: 09ysgw8zj28zy31l02dcrjrvs9mibvav-tests-add-test-cases-for-import-without-uid.patch 28p9n0ynay6ddgnk0p056psl11j83g77-texinfo-6.8.drv 45fs8hhm6afg0m0p2d635zhjh608bqsj-gcc-wrapper-10.3.0.drv 5746d72kz8r665qz12hchvz055khvq00-gnupg-2.3.3.tar.bz2.drv 7r8cw1b6vdhhlnjia09szl6nnp0qfpv6-tpm2-tss-3.0.3.drv 896ji3ynxi12mcn0rk85avsisjyzaw30-allow-import-of-previously-known-keys-even-without-UI.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9x22gsgd4xcb4z9pd309hnq6pbnp910h-glibc-iconv-2.33.drv ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv bvzhprgwblj2hkf1p61b02l0lx50mwni-gettext-0.21.drv f61dg7cg8b6v3w9qim5fz89db94b9abd-npth-1.6.drv ml6k7sqh826hy2cilhq7n44fnbh0zbd9-accept-subkeys-with-a-good-revocation-but-no-self-sig.patch n14rxg9lby5gz2vr5q4y5nijv90cm9bv-fix-libusb-include-path.patch q7xvzvyybhjwxxwphvbzjr727c50pjg2-libassuan-2.5.5.drv s8z4fbkrf7gs7wwz2wyg4a8fm0j950d8-libgcrypt-1.9.4.drv sd68jvbybzrxiynx8fjnxgwxwys5qgqz-libksba-1.6.0.drv sqil88k1z34ipvymksbbl4alj5knyvz5-pkg-config-wrapper-0.29.2.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv waligd000n1xicniksfnwqb75rcgqd4q-libgpg-error-1.42.drv
-CA: text:sha256:1d1bh3jklp6ph3mj2744c26a39cfjfb1pna7b9f3n7219v1vj1yw

@@ -1,0 +1,9 @@
+StorePath: /nix/store/bavg2a525ccdp0vd5ng0c9mfkii0hh7b-llvm-13.0.1.drv
+URL: nar/1hgk5vhdvah7xgmkkm43ixkx39q7y591622dph60fs3fr6ac9xhi.nar.xz
+Compression: xz
+FileHash: sha256:1hgk5vhdvah7xgmkkm43ixkx39q7y591622dph60fs3fr6ac9xhi
+FileSize: 2260
+NarHash: sha256:1a9pv230p8lflmw8gm72d7l1fhgdm9hkw9yjzkpsz3qf8ywlvwhk
+NarSize: 5256
+References: 09x6gs1pcrwqkq4469cqfxnflxjxjrkn-no-strict-aliasing-DwarfCompileUnit.patch.drv 6wv8acdd7bm7npixgr3rk86mf55fj47c-llvm-config-link-static.patch 8n3v5xa32kkjvv0a9vmq52vrcaz0f5pi-libbfd-2.35.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cdd524v2zbbv9vlvqccs6syz1qgp1na6-libffi-3.4.2.drv fmbcpkrrhln9pkn2xr7a3n0v1dmirw5r-zlib-1.2.11.drv fsri1cp66sqyjb83yzy1pgbfpfy6nqxn-gnu-install-dirs.patch g7kjz5ypayr32jfr78mxjr2gk5hikn6q-libpfm-4.11.0.drv h9sxbg5wm1ilkwb3dqxyc0dvdyp9afp7-cmake-3.22.2.drv j379inyzai6zfbwjkb1kj38znmxlssd7-python3-3.9.10.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv k9vycha1pckimzawkxzyzl7g33kybjmn-source.drv p1rnlrl6q19bg6njxzf7hnyj4dhzm50h-ncurses-6.3.drv wc7fqjdk1bywbgwkr8ngb8qcipzyi44b-which-2.21.drv xdz2lwxf7whwyfdlxqdrm8azz60dzqi0-libxml2-2.9.13.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:1wrb8scjnr5f326jkp1pms12hy4s1lq3l5g52waa68xca93m0k1q

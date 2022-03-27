@@ -1,9 +1,0 @@
-StorePath: /nix/store/ap30wms34072vjhdrv0iv37am06zcyz2-graalvm-ce-java11.drv
-URL: nar/1zal2dcxa93jbx96k04mcwrwf2996xm4q81cl9vzvc1ya29x8k5v.nar.xz
-Compression: xz
-FileHash: sha256:1zal2dcxa93jbx96k04mcwrwf2996xm4q81cl9vzvc1ya29x8k5v
-FileSize: 1692
-NarHash: sha256:01436mi6nhhvkiv2cn5vcrklnmpvs7rdbxb8iiq20s7vsiqrwg9s
-NarSize: 3896
-References: 0r1rwy1ddha2fwasg8zl4hlr5pkp0b7d-native-image-installable-svm-java11-darwin-amd64-20.3.0.jar.drv 2ngr9hkacxv39hi3yd5gjgkzpz6lqd2a-zlib-1.2.11.drv 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 8qqf77mkw28pkyvqy64lchvz9v3wbavf-llvm-toolchain-installable-java11-darwin-amd64-20.3.0.jar.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv vag2v94z62qywarznqba4i30qyg0bbck-wasm-installable-svm-java11-darwin-amd64-20.3.0.jar.drv x9hrzxwqgz77anl0l54wrlpga1xgwkdh-graalvm-ce-java11-darwin-amd64-20.3.0.tar.gz.drv zl01xshb7jr1zdrnk5s4wgk1f6q86afm-hook.drv
-CA: text:sha256:0chmss3qdm0hgkfrb720farjf3gxgpg0iyzprkz88iqkrgbdr2dq

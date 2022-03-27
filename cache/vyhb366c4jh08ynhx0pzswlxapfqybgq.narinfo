@@ -1,0 +1,9 @@
+StorePath: /nix/store/vyhb366c4jh08ynhx0pzswlxapfqybgq-nspr-4.33.drv
+URL: nar/1pqax6iwx2sjicbdqrfyx5ngjrdwb6abjvqh3xsjcwwz79rb6pzp.nar.xz
+Compression: xz
+FileHash: sha256:1pqax6iwx2sjicbdqrfyx5ngjrdwb6abjvqh3xsjcwwz79rb6pzp
+FileSize: 1008
+NarHash: sha256:17mbil4s48rfs7yafa51wx52ryhj7cccz08m47l9k29lrvx5iix7
+NarSize: 2216
+References: 51vmalh8lvqpicg9rxnrln5q9l1fz8vc-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a673jwsbj6al9war53yvzrg6cjdgk298-0001-Makefile-use-SOURCE_DATE_EPOCH-for-reproducibility.patch k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv xrrg6n1d5w1lsndapz1lg6cczg7k9rgr-nspr-4.33.tar.gz.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:1hqrca6lb5fbds6s4acfx136ih609yhdnyhdq7g03b1c9sblfzia

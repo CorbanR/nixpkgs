@@ -1,9 +1,0 @@
-StorePath: /nix/store/7d5qldzyz5w89xahaql5dgllcn573n5v-go-bootstrap.drv
-URL: nar/0hj33jky8yr6i2drkaxq5qvaclar0444lf0nzjry0vc6k24jyygx.nar.xz
-Compression: xz
-FileHash: sha256:0hj33jky8yr6i2drkaxq5qvaclar0444lf0nzjry0vc6k24jyygx
-FileSize: 864
-NarHash: sha256:1r2xz7k1pi4lvwjb1nswxai22vbwk7nkng8l3p1y61scka5wak4p
-NarSize: 1872
-References: 3ip31dysy63cbwynj2jhf4xsbzqv4njw-go-1.16-darwin-amd64-bootstrap.drv 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
-CA: text:sha256:1y3grf9yg6vapn48sr4ncjb9xpkb6n2rrri1abh4ll36dfx2gyw0

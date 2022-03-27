@@ -1,9 +1,0 @@
-StorePath: /nix/store/4rs1qnjbn58ykfy4m8sk0zzc4vz87bfy-openldap-2.4.58.drv
-URL: nar/04vi1w41ajp23hax47rc8r65gz44j521cbyxm4psmpid94g6mmcz.nar.xz
-Compression: xz
-FileHash: sha256:04vi1w41ajp23hax47rc8r65gz44j521cbyxm4psmpid94g6mmcz
-FileSize: 1752
-NarHash: sha256:0xzbz7qdgczfhwfw4ag0i7djh94cix54rzm9yc6lvcndyq7cv128
-NarSize: 4304
-References: 6gcrlk7kv0bqky10widnd7y5agi4qizv-openssl-1.1.1m.drv 7g303l4c33vycaard6rs2wrdv4fv0nll-groff-1.22.4.drv 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ab83i5cj1bl70c38vyhmk66928rjlarc-libtool-2.4.6.drv as03gaj185pzylvhxajm0111yibb93da-cyrus-sasl-2.1.27.drv dn95m23kn1qjd8r35n6k8pbbf2jri1k9-libsodium-1.0.18.drv fy56f4c56mmx2qzr0ax3f8rmaxgkb54n-db-5.3.28.drv gp5iafzj0ic0xa0cgkrin1m08ynfdnpy-openldap-2.4.58.tgz.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
-CA: text:sha256:01hnq49njpkjbbghs4y72d4mqiz1kxnpsyybhzc7pcp1ll32wgpc

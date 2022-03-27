@@ -1,0 +1,9 @@
+StorePath: /nix/store/c3jh33fx6drzc6795d73fyq0hpis7pl3-ruby-2.7.5.drv
+URL: nar/0421ba9m8sv4gvada1qnywyl4jp15jhlj88h4cldaz4h65f0ga5c.nar.xz
+Compression: xz
+FileHash: sha256:0421ba9m8sv4gvada1qnywyl4jp15jhlj88h4cldaz4h65f0ga5c
+FileSize: 2840
+NarHash: sha256:1r3qwaq6gw97a3hskca9nxq2cz441kfrf444y7ifw4dngsi5xnc2
+NarSize: 6360
+References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 31yvybhf884frfppqqln5p4ya8h4nim2-ruby-2.7.5.tar.gz.drv 5x70wg3gh95wcyb0k422w3jnsddk0dk1-ncurses-6.3.drv 6ghcxb9yqrkm7gh8x4bhly1ccl3z49xn-gdbm-1.23.drv 6kdffczc753n2yhz5saq4p2a8ps2bx8z-zlib-1.2.11.drv 76hy2n8drqw1q6anxr0m9yis93m76bbp-source.drv 7nn49r97bv3qayincc4ch5x3pk7bmg6z-bison-3.8.2.drv 9b83cd34na6lsksnfkfn5ks71pqbbqgd-clang-wrapper-11.1.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh aan3fn35scp6n0v6wglk9jwv4mphyp9g-apple-framework-Foundation.drv by2qs5y932is958rq6qrz1jp494nv0nx-readline-6.3p08.drv dfv4sns65w5rsx5mdi9b0f0hxwvl9a5l-libffi-3.4.2.drv g95iaqswhy0wxrnlhckgfx9x3rzvj284-libiconv-50.drv gy0wa91gs5hgm0b8pdirrk43bbs97jvj-autoconf-2.71.drv hp0adl0j9nwnjsni7189kmkdli6ndvsx-clang-11.1.0.drv lghsbalwr3wfhyw63fvr4iqjlihzc0dr-openssl-1.1.1n.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vcwq42lq2445f2ffpm3w46kh52hlnab3-libyaml-0.2.5.drv vwscv5hdc26hq99n74j8rc0rz1n4sgy3-objc4-709.1.drv w7yayg65p8vvi97a2952bpvq7rfwnszp-do-not-regenerate-revision.h.patch yrzr234rfpscn3z1igx87f2hwvxasc3x-hook.drv z4iwgxm1r03sn8g0nqad0kww46hq6idr-remove-references-to.drv zwb56bkclyw5s6gk2b4gyivbkyadps03-libunwind-35.3.drv
+CA: text:sha256:0avm92bn1hgjkhfi36145y3xg5kwbd1jqd9lkm8j9c9xrqhn31xa

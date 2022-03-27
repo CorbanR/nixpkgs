@@ -1,9 +1,0 @@
-StorePath: /nix/store/x9j65whqkjvvpibvnykrn5hnj3166jkh-groff-1.22.4.drv
-URL: nar/0203qn5mkja1rylp16wnswk7h76vw4y88qzpvz09dvn9nwh8pa8n.nar.xz
-Compression: xz
-FileHash: sha256:0203qn5mkja1rylp16wnswk7h76vw4y88qzpvz09dvn9nwh8pa8n
-FileSize: 1560
-NarHash: sha256:06j432g3y3iavbagnayyfrsnhlnhdjnd21wqjjc6cx6246i4x7kz
-NarSize: 4304
-References: 28p9n0ynay6ddgnk0p056psl11j83g77-texinfo-6.8.drv 2yvv7ajybdjl98j9847wh16xi99rnb0y-perl-5.34.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv b7y88azisww8cf4syzmc3lrm8grc5324-site.tmac j5n4i0ziynd0kmwfh98mfadc80l6h89r-0001-Fix-cross-compilation-by-looking-for-ar.patch sqil88k1z34ipvymksbbl4alj5knyvz5-pkg-config-wrapper-0.29.2.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv yi58yzxn7z4d80yi8knqaa03jhalad4n-groff-1.22.4.tar.gz.drv zqm8i08q7ibpl5mf5ic519ql0l57awb1-hook.drv
-CA: text:sha256:0rbf8z7dr7i4x4vpi6sqslg8xqidji1x44i0gvad105r9l97bpvy

@@ -1,0 +1,9 @@
+StorePath: /nix/store/i38rkc1sjiw53nk3l2aawi5gghzhglv8-asciidoc-9.1.0.drv
+URL: nar/1zvxsbwmzwmr7w4sg5x003rilv59wcm104z7q207lac9kiwc2cds.nar.xz
+Compression: xz
+FileHash: sha256:1zvxsbwmzwmr7w4sg5x003rilv59wcm104z7q207lac9kiwc2cds
+FileSize: 2068
+NarHash: sha256:1b2hblvnhkqni2q9hh8x7y08k7kgmhqvb63x4cgkm8rp6zv4ym1q
+NarSize: 4520
+References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 1p7rqayhslav1fdpivvfd68kp13v6h3i-docbook-xsl-ns-1.79.2.drv 85d0184ivwp1vq4lnwwnw70dy7p2jh51-docbook-xml-4.5.drv 8d8yaf5ibv77sw5l3mwdcndxz9pz5nc8-libxslt-1.1.35.drv 93dpjzy19gpaz9md7aylxq0p7b9fqyli-unzip-6.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a1kgn4lsgjmx69wk5c99gdvw5ljh2svs-libxml2-2.9.13.drv hbx2m52afxqm723qfmm46bji31rq81gk-docbook-xsl-nons-1.79.2.drv l9b4g8ary5070g2kdb0snaxcqmkryp85-source.drv sg45bz5y80mjfi73ylj5p8965b74ryz3-python3-3.9.10.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv yrzr234rfpscn3z1igx87f2hwvxasc3x-hook.drv zhn3j4fw1c8v5ixb4hzl8xjkm3kal6y9-source-highlight-3.1.9.drv
+CA: text:sha256:1i4d72ndpfxmxgz7hl2vggd3n44jcwwz5xqn74cgz73i0z8a8x9v

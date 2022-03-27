@@ -1,9 +1,0 @@
-StorePath: /nix/store/9jy1lqgrwmslh2g9ljlp7h5hbj8f6f52-curl-7.81.0.drv
-URL: nar/0prj0vx05r6yfc3ly7vka536hq7x1n29dsranz4jfw85flgxj2si.nar.xz
-Compression: xz
-FileHash: sha256:0prj0vx05r6yfc3ly7vka536hq7x1n29dsranz4jfw85flgxj2si
-FileSize: 2040
-NarHash: sha256:00yl0i1blxv2v856fzwhi46grmfkzjbz2xzxa6i9n0m4i7kr9759
-NarSize: 5024
-References: 0l4khwkjzns915dpvbn93d89h6zhp6df-openssl-1.1.1m.drv 0qqf9kcbvs0rn4ayg188ryq17raxzb66-perl-5.34.0.drv 2ngr9hkacxv39hi3yd5gjgkzpz6lqd2a-zlib-1.2.11.drv 60ylscfk5nngrmxzamhz3l3ckpx388g3-nghttp2-1.43.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bywrdch5fanra0331ddjdlzmbkd0xdry-bootstrap-stage4-stdenv-darwin.drv d2aap762rpsymyr22c6ibz07b417h236-curl-7.81.0.tar.bz2.drv gdqnvkbp6nnrvww108adb7nvjgrpdxzb-7.79.1-darwin-no-systemconfiguration.patch ic6xi3bv2l87fjl7npz529jdwmzzabhq-zstd-1.5.2.drv ii14frxiknaidpabbq2z18irlh6l8lgv-brotli-1.0.9.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv n4bpynbifiijn3pqgkkqwq1wic88wy1p-pkg-config-wrapper-0.29.2.drv nr11lhn37vbwk1lyayf3sgrq8k2yc93v-libkrb5-1.19.2.drv xqxc7c0zy1j75k09w9skhcvahjn788rl-libssh2-1.10.0.drv zk2vf9ycsi88m3ybm48wdxp1zh4mp59h-libidn2-2.3.2.drv
-CA: text:sha256:12mv8f389zdi5kvv1dj99sbfcz6j9pb9gh2j0kz5yfsnv7hd7jgr

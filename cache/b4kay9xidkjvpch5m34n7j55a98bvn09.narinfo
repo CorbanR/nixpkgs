@@ -1,0 +1,9 @@
+StorePath: /nix/store/b4kay9xidkjvpch5m34n7j55a98bvn09-rustc-1.61.0-nightly-2022-03-27-x86_64-unknown-linux-gnu.drv
+URL: nar/0d2npjy933aqml6562cjdjybrf4f7l5d50xwv2x9zmx0cdm86l0q.nar.xz
+Compression: xz
+FileHash: sha256:0d2npjy933aqml6562cjdjybrf4f7l5d50xwv2x9zmx0cdm86l0q
+FileSize: 1472
+NarHash: sha256:0vig0qzzw59vap5kakc7s2bdr6n9hb5hvglmygkm6vbp94akqwkk
+NarSize: 3200
+References: 77diqr4120j8qfc0445gx2yjb7gc6wvk-auto-patchelf-hook.drv 84xdb8w9dfabgz24b7frv8r1bjzx2vp2-gnutar-1.34.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh fmbcpkrrhln9pkn2xr7a3n0v1dmirw5r-zlib-1.2.11.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv pai2hk8i9vddc1x363drwv1d3l86yccw-rustc-nightly-x86_64-unknown-linux-gnu.tar.xz.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv zj0g17vjgx7baj4zfp5ciz0cng2hdl42-gcc-10.3.0.drv
+CA: text:sha256:0jixqmx2xa4k274qhr3w5bfslykyb2waq3ljh30kkh7ivs81r1p5

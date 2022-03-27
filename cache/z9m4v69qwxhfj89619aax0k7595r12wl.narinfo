@@ -1,0 +1,10 @@
+StorePath: /nix/store/z9m4v69qwxhfj89619aax0k7595r12wl-libcxx-11.1.0
+URL: nar/0sz99nbxzvxp6696kw8innwmar5y137i44783n1md0mkc8v4jr6h.nar.xz
+Compression: xz
+FileHash: sha256:0sz99nbxzvxp6696kw8innwmar5y137i44783n1md0mkc8v4jr6h
+FileSize: 300976
+NarHash: sha256:07m35wsry04q7pbfhqib2acl9a6kvjlb0ig2yna4njwafasfx6rx
+NarSize: 2135296
+References: jmp5r311dsclrmr6k1as90ripl9qfhn7-libcxxabi-11.1.0 z9m4v69qwxhfj89619aax0k7595r12wl-libcxx-11.1.0
+Deriver: md7ycrgl5rkshzfliz043gj3kw2vzkcq-libcxx-11.1.0.drv
+Sig: cache.nixos.org-1:SFc+37sM91s9OY0fZfp0CftYpE+MaMkSWckONo1SvxMOOD4D23zxUu3YIWP24KunOoLw5B0kTCVHYIfeEZOpBw==

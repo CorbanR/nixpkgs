@@ -1,9 +1,0 @@
-StorePath: /nix/store/hfxm1clf73sdd0s2frnzsmns6gz7win3-libnftnl-1.2.1.drv
-URL: nar/09sz1qxwhxmx2z89qsjawp1d5awmc109lp31a4vm7yhfcayiz87l.nar.xz
-Compression: xz
-FileHash: sha256:09sz1qxwhxmx2z89qsjawp1d5awmc109lp31a4vm7yhfcayiz87l
-FileSize: 816
-NarHash: sha256:0hnn487qmy67awbxkmphvpf0s7jyg1mvmk7jb3xnz3mag9v7jj2j
-NarSize: 1760
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv m7jng4p0gzi7zvsvkkskhasbgj071nvw-libmnl-1.0.4.drv rvbp8aiyck8vs1qld2fdh7xhv9qd8sbc-libnftnl-1.2.1.tar.bz2.drv sqil88k1z34ipvymksbbl4alj5knyvz5-pkg-config-wrapper-0.29.2.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
-CA: text:sha256:137lhphqx1jwk54h572lz1pl3ylq899l3rdgw5mr5zzzi0jv0mz0

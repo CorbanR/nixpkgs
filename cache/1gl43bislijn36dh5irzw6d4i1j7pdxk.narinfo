@@ -1,9 +1,0 @@
-StorePath: /nix/store/1gl43bislijn36dh5irzw6d4i1j7pdxk-libxml2-2.9.12.drv
-URL: nar/1ny0vb0pb8jhjwvz6cbd66k3x9x82f03nc5kk9nw7q3i5nndhvsx.nar.xz
-Compression: xz
-FileHash: sha256:1ny0vb0pb8jhjwvz6cbd66k3x9x82f03nc5kk9nw7q3i5nndhvsx
-FileSize: 1740
-NarHash: sha256:0sm24r6n2riz5f8a16qh2y9mak8wsxjxmyb637cn7wgj31vqn51p
-NarSize: 4240
-References: 24r6hkkqb75pfg2189dfb8jjd796zs1z-bootstrap-stage1-stdenv-darwin.drv 2hcf6j84kf0hpizgxn1xbh4bamw7b09i-python3-minimal-3.9.10.drv 66666g2hka68dp08jd67wvag7y6f32yk-zlib-1.2.11.drv 9fqmydfz5z8gf1mxdna2zgbi9q6jhbgb-85b1792e37b131e7a51af98a37f92472e8de5f3f.patch.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh afqzhg78iga81fghg24h85m8pb7sfqlw-libxml2-2.9.12.tar.gz.drv c2vpdydi93zjzbiyf2qb8yfsqybxqszm-ncurses-6.3.drv cginl1vy5y2qzi2bbfr75ykc89wbfi8x-hook.drv frr6f2hq56j6b4wc0bsklaqskjsagqc0-utf8-xmlErrorFuncHandler.patch sqwicza7h12v8kqzgrl0nkl6knmj2gm4-libiconv-50.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:0y8bw920r1j0h0wjvwqfkjgzb4nrvj9pl8ymq2khfanlfc1z3dfn

@@ -1,0 +1,9 @@
+StorePath: /nix/store/4kc1233yb8nzj09kn23qbb4p69jw5d2n-openssl-1.1.1n.drv
+URL: nar/19ssdhpcv9izba21g49rvbqgv6srzgm0h50dgfvgaw05y3gixbl6.nar.xz
+Compression: xz
+FileHash: sha256:19ssdhpcv9izba21g49rvbqgv6srzgm0h50dgfvgaw05y3gixbl6
+FileSize: 1664
+NarHash: sha256:13l9l7bb0q99xkfgamlj72gkj5s3vzv7bb691pcxh30y221dz7li
+NarSize: 4200
+References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 1jqvgdxbrxphqsyzh0fkywgq6z5sm593-bootstrap-stage4-stdenv-linux.drv 1w8hfs1zsi3h3lxiasmqy04xlmijix9v-coreutils-9.0.drv 3xk9ps0qz073k641b88swpa4fgx3hzwg-nix-ssl-cert-file.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cjj314ik3xxxg6vwb241yzlsf8sk5f35-perl-5.34.0.drv dg2g6dcdpl9sqdd9v010q8cggyqwxx8p-openssl-1.1.1n.tar.gz.drv ikmqczy0y20n04a2b8qfflzwihv8139g-separate-debug-info.sh lzmcfv2m4ripknpvbsv8wcg1ik1kif4h-use-etc-ssl-certs.patch
+CA: text:sha256:0cd4f1kfgdf18y1fhr30hhi9pknkwzb6gz0lqd5r14ci4adm3b85

@@ -1,0 +1,9 @@
+StorePath: /nix/store/qsjprzrrmbsbwh79cd29qz8a608d9j6r-watch-procps-3.3.16.drv
+URL: nar/1br9bwhy28d39fdph3ivgrw7kfg2v7r1n8wps6h9rr4lgd14bhv1.nar.xz
+Compression: xz
+FileHash: sha256:1br9bwhy28d39fdph3ivgrw7kfg2v7r1n8wps6h9rr4lgd14bhv1
+FileSize: 920
+NarHash: sha256:07240j2k67bizngdc9lmlcdrs5j3h7p97rsmm775fn6nvj33d8ad
+NarSize: 2216
+References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh kdyp8932lx54f9l5fqgfrj6dm29bp6zg-procps-3.3.16.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv
+CA: text:sha256:1qf2xz2jn4f2nifgcvwlqp9vjclm9glrsfa1b45mqqyzrvr41vds

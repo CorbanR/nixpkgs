@@ -1,9 +1,0 @@
-StorePath: /nix/store/6l0j28ipdld4sr0kghvs71kn4m4k06x4-go-1.17.7.drv
-URL: nar/0y17zy6hq4m1s6vwp5s7qad0m4343gnpdvcdgh699qqf92f35ybp.nar.xz
-Compression: xz
-FileHash: sha256:0y17zy6hq4m1s6vwp5s7qad0m4343gnpdvcdgh699qqf92f35ybp
-FileSize: 3624
-NarHash: sha256:1i83xyl2i428z1fbxqgyf3805gz10fp4nh4gnlwlkdh0159h2xjq
-NarSize: 9056
-References: 07psg71rn06j4yyckp2535s2ah40j3ay-which-2.21.drv 0zi5ixgfr7q4rdjrriq1lsjbz9z9rg4q-mailcap-2.1.53.drv 1cwv8hmzzn9s9b7rcvpymk6z6gm0c64p-go_no_vendor_checks-1.16.patch 1wxnz5npl05sahb5iv5q4azg2rk59kz5-ssl-cert-file-1.16.patch 2qw14bv8dbgwfx6id5kglbi6zr58brs0-pcre-8.45.drv 2yvv7ajybdjl98j9847wh16xi99rnb0y-perl-5.34.0.drv 39bjxj20rygi2zlx6zscv38jxh2k7nkl-creds-test.patch 4vqgx07v9xywvmgmdzk87561y734vm8n-skip-external-network-tests-1.16.patch 7rkggfgf7wpk96jlvy60ia5h4pfyj9yp-nss-cacert-3.74.drv 92qy0wn9289a1id4c5byc2mqc6v6xas2-skip-cgo-tests-1.15.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9m9rms6ni1y29807l3b8ri5nfajmwn9h-patch-2.7.6.drv ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv amwcfcjv3bnmrfnfchhf8n60f93irkr9-skip-test-extra-files-on-386-1.14.patch bb1yc64b2c5pdnd2bgfzxccvzh0svz9f-go-1.9-skip-flaky-19608.patch cq1g9bx4kxjrv3qqyg9f3ylly8yl38l3-procps-3.3.16.drv dwawag2r26vnnh5n2v5rpli6nmx3pv96-tzdata-2021e.drv f9sf1dd3ssyy7y8ccrp4ykqd7y92xs8c-iana-etc-20211124.drv fd7qxbzzcbp02xn1dwkd7pj22mcsx13l-go-1.9-skip-flaky-20072.patch hm2jzy93m5sl48alp2dhklz2b592dn9b-skip-nohup-tests.patch hyif3rqf4kgbzbqkrv3bjspn0r8s5pl6-remove-test-pie-1.15.patch sqil88k1z34ipvymksbbl4alj5knyvz5-pkg-config-wrapper-0.29.2.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv x48d0s4gns4jrck6qkwrpqn7nh9ygpx6-remove-tools-1.11.patch x7lpb6zp4p7qvlk87vs4fkkm5d7jfdn1-glibc-2.33-108.drv xsafak95jagja666z116g169ixwa3b91-go1.17.7.src.tar.gz.drv zlvr0d5hvlp7ii0ppkwfzrlpyl53vrrw-go-bootstrap.drv
-CA: text:sha256:1s4v0qn1van8fx4x9jk204bk7v57msq6acb0aqg8qasa07by89xd

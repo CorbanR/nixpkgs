@@ -1,0 +1,9 @@
+StorePath: /nix/store/9ljy6iy0nmqlg0dpwxp8cjny1flgxzlv-boehm-gc-8.0.6.drv
+URL: nar/08ljv61hrf84f0zh18khxyp04k6mdigikk3s9pa928cqm58n4iz3.nar.xz
+Compression: xz
+FileHash: sha256:08ljv61hrf84f0zh18khxyp04k6mdigikk3s9pa928cqm58n4iz3
+FileSize: 904
+NarHash: sha256:0qvg7fw9pxbwgxq36w728z7ynx977d8kbyjb4zrxydbx21y2zm3y
+NarSize: 2208
+References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ikmqczy0y20n04a2b8qfflzwihv8139g-separate-debug-info.sh k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv s4c90d0phkw1pxhfmlr4hjg7ymfgyi3w-gc-8.0.6.tar.gz.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:0w8p33dscqqc4lmdj6jaj6c6080c51nwkf7nd54lxba1p1yyannz

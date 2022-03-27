@@ -1,0 +1,9 @@
+StorePath: /nix/store/6kl4m2r8yi9dqb9y7w9215c604xswzjy-libtool-2.4.6.drv
+URL: nar/1zmlwgyi2dmisn9dddjfcr3g3bj8hy3aa5r3s4bdsr50hapkl28p.nar.xz
+Compression: xz
+FileHash: sha256:1zmlwgyi2dmisn9dddjfcr3g3bj8hy3aa5r3s4bdsr50hapkl28p
+FileSize: 1284
+NarHash: sha256:1ivb2l9ghgcd0bk1881jgqa7r6578wh12ll2d0idzih13qdvvyfh
+NarSize: 2984
+References: 3xw49gpx3sp8mrq8nah5vaqd6hvw6z0h-libtool-2.4.6.tar.gz.drv 70jrxlakfymghjg9skms3g2iw4xx6svl-gnum4-1.4.19.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cpv15b9ax8gv0kszfnvcjazjjy7fqbfw-help2man-1.49.1.drv p13x4sji03v4jin7m6k1khqgcp36dkcs-autoconf-2.71.drv qdil2dl4i33fjadp2p58mgsjbrgpifnq-perl-5.34.0.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv x9sx08p8l6mrk04sm4ia8cz2sn9hajw7-automake-1.16.5.drv xq30c2gx2ir2zn234m7yj8igawc3jnb6-libtool2-macos11.patch y4nn8mw9wmkln8qqb5fzkmfa9n593mrf-bootstrap-stage1-stdenv-darwin.drv
+CA: text:sha256:0xlcwn002vrxkvgmn6gd58gbfvfc8jlz9am18pvlfqi4bl10vwbp

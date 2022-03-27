@@ -1,0 +1,9 @@
+StorePath: /nix/store/dn40n8qmnb4axvq20bq2avipfxxvax2r-libseccomp-2.5.3.drv
+URL: nar/0hsnyz4lg95zbzgc3grqbw1x510ih99c0j6cmcv9h3ff7l6r25r8.nar.xz
+Compression: xz
+FileHash: sha256:0hsnyz4lg95zbzgc3grqbw1x510ih99c0j6cmcv9h3ff7l6r25r8
+FileSize: 1104
+NarHash: sha256:0ql2bjb3hr4c9kqnin3rsxfi4kinhacfsq3rl10lqllbk6padjr6
+NarSize: 2656
+References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv pmjz14fqwzw7srqv28jhbkadwx169kgz-gperf-3.1.drv w9974j4yv619ajrw0zjvdh4wm3w4y3sc-getopt-1.1.6.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv zrmg1wlc1956a9vlsyi4amxixq3vnhz2-libseccomp-2.5.3.tar.gz.drv
+CA: text:sha256:0k8w846mwslsb1jr21dzrzb9cx4x87jm1dmnq1l5wfisisqyyr98

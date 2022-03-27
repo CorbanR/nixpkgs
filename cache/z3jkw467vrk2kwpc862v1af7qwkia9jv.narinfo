@@ -1,9 +1,0 @@
-StorePath: /nix/store/z3jkw467vrk2kwpc862v1af7qwkia9jv-perl-5.34.0.drv
-URL: nar/0qml2z3mannsmkr3gcaqxh7fj8liwjbmfw6gjhq4ihzqij3yphb9.nar.xz
-Compression: xz
-FileHash: sha256:0qml2z3mannsmkr3gcaqxh7fj8liwjbmfw6gjhq4ihzqij3yphb9
-FileSize: 1704
-NarHash: sha256:1wmcqbamdbk9yyg33997yflcy0whqp5k992s3f60ivnbw52p183r
-NarSize: 4072
-References: 45fs8hhm6afg0m0p2d635zhjh608bqsj-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh lhhf1s57afjxmvwxk7kvxvrf82y31jfw-gcc-10.3.0.drv mb381gpm9k5wdl37l5ad5pp8w11qzhjg-no-sys-dirs-5.31.patch w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv x7lpb6zp4p7qvlk87vs4fkkm5d7jfdn1-glibc-2.33-108.drv xycsk1n4cbmih12bkvwwwxhwpzwinnf7-perl-5.34.0.tar.gz.drv
-CA: text:sha256:16klxd12d40567q20ifwbf20c2bw0867w941fiplk1fm13cj20cb

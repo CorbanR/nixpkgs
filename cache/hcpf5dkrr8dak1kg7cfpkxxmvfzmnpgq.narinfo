@@ -1,0 +1,9 @@
+StorePath: /nix/store/hcpf5dkrr8dak1kg7cfpkxxmvfzmnpgq-source-highlight-3.1.9.tar.gz.drv
+URL: nar/1lqipqdaidn8fi7mpjci1gn685cxa0jk57aypgvv0vbwjgy4ij49.nar.xz
+Compression: xz
+FileHash: sha256:1lqipqdaidn8fi7mpjci1gn685cxa0jk57aypgvv0vbwjgy4ij49
+FileSize: 1388
+NarHash: sha256:1qg6jyg3mf6hggk8gjnr4xiim49vzn8r1b64sz8gn335maiw5pn2
+NarSize: 3200
+References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
+CA: text:sha256:18kh606hzqkvl7kch7bqppkq0kq66p33a3zcajc38hn067vkvbys

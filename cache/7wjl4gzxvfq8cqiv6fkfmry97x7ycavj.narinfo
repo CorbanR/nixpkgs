@@ -1,9 +1,0 @@
-StorePath: /nix/store/7wjl4gzxvfq8cqiv6fkfmry97x7ycavj-gperf-3.1.drv
-URL: nar/1x9qqhaspmff1l26c4lg4sy7f0ykd4h0z03rw1vs1z1j6zk89q5y.nar.xz
-Compression: xz
-FileHash: sha256:1x9qqhaspmff1l26c4lg4sy7f0ykd4h0z03rw1vs1z1j6zk89q5y
-FileSize: 776
-NarHash: sha256:17i02vg5qr7x5mg2ppjlilxy1ja7w353n1ccydqvaqlp1fbaz1mb
-NarSize: 1712
-References: 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh jcqa25kq45k6sij3h15wviakv28ziqjr-gperf-3.1.tar.gz.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
-CA: text:sha256:0y07yzs1w648y7m7ap6chi9dlj01qz2nv3gm3mramqy85n1pny19

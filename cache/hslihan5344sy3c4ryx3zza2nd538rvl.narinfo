@@ -1,0 +1,9 @@
+StorePath: /nix/store/hslihan5344sy3c4ryx3zza2nd538rvl-libfido2-1.9.0.drv
+URL: nar/00n5hcy7hy0kdrz1j9821kidzapl4jsncih2jcm6gi15j0c8zdsv.nar.xz
+Compression: xz
+FileHash: sha256:00n5hcy7hy0kdrz1j9821kidzapl4jsncih2jcm6gi15j0c8zdsv
+FileSize: 1288
+NarHash: sha256:1rz55z52xcyf996zhgm2d7b28r0vrlri8frlp0xyd5r1jk10pgri
+NarSize: 2704
+References: 0iqsdyng98a0ma4qlq73yvl5qfrpa9ll-hidapi-0.11.2.drv 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 6kdffczc753n2yhz5saq4p2a8ps2bx8z-zlib-1.2.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh fhz0r9m10mi4yldrh05xwalkz5i81z2h-libfido2-1.9.0.tar.gz.drv lghsbalwr3wfhyw63fvr4iqjlihzc0dr-openssl-1.1.1n.drv rpx4aa5a6jwgaq2djcw9sp1nfd667p0g-pkg-config-wrapper-0.29.2.drv rqavf6iczhaa85x9r1i0ypw66y7lmgmz-cmake-3.22.2.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv wz25g32ssr0iw5wzhgy7zm64z05iyrmx-libcbor-0.8.0.drv
+CA: text:sha256:0m4bx06kfa3h95p967rr8bq3dn2ird7wzaiqq32sddhz1mapm7wq

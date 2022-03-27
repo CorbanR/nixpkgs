@@ -1,0 +1,9 @@
+StorePath: /nix/store/ramkpin4ph8z42q5blm946j52cybxi24-db-4.8.30.tar.gz.drv
+URL: nar/0ry3bd2dsrviljvfrrhsa51881c738chps3hmq2wbbqiwh0z3qd4.nar.xz
+Compression: xz
+FileHash: sha256:0ry3bd2dsrviljvfrrhsa51881c738chps3hmq2wbbqiwh0z3qd4
+FileSize: 1280
+NarHash: sha256:07czh3n5w68k83j9fvm8c162la9587cab4lflwbflyx5mzzkh3r2
+NarSize: 2896
+References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:1i8829p039hahiyw8az1vdki7p3001fwa3cgr542nqnid2gr1mkb

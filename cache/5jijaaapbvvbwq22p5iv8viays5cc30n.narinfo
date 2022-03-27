@@ -1,0 +1,9 @@
+StorePath: /nix/store/5jijaaapbvvbwq22p5iv8viays5cc30n-llvm-11.1.0.drv
+URL: nar/1azl6gwkqwzmmmgyjzapys1s5yk86ir60vxbcasm6ca2yvx3bpzn.nar.xz
+Compression: xz
+FileHash: sha256:1azl6gwkqwzmmmgyjzapys1s5yk86ir60vxbcasm6ca2yvx3bpzn
+FileSize: 2808
+NarHash: sha256:0zhiba1d8hc6hvs37i6rf5zjj5s32816z0lxccm26a9nc2xjf29p
+NarSize: 6624
+References: 0ihvrzak63v4hzjq4l548ia0snpp4hga-polly-11.1.0.src.tar.xz.drv 6wv8acdd7bm7npixgr3rk86mf55fj47c-llvm-config-link-static.patch 7iqz39ik19rh482wfyf5fdgw1lh4cwzp-dfaemitter-gcc-12.patch.drv 8n3v5xa32kkjvv0a9vmq52vrcaz0f5pi-libbfd-2.35.2.drv 9fd3xdcfv1dw93y99a18lw735fx8kvgy-gnu-install-dirs.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cdd524v2zbbv9vlvqccs6syz1qgp1na6-libffi-3.4.2.drv fmbcpkrrhln9pkn2xr7a3n0v1dmirw5r-zlib-1.2.11.drv g7kjz5ypayr32jfr78mxjr2gk5hikn6q-libpfm-4.11.0.drv h9sxbg5wm1ilkwb3dqxyc0dvdyp9afp7-cmake-3.22.2.drv hi3kwgf73bmn7rvhlkfqplj67r3c04dm-nvptx-gcc-12.patch.drv j379inyzai6zfbwjkb1kj38znmxlssd7-python3-3.9.10.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv mqhghppzzv5gyqikx1rgnya97rfyhmf2-llvm-11.1.0.src.tar.xz.drv p1rnlrl6q19bg6njxzf7hnyj4dhzm50h-ncurses-6.3.drv pimxc5a6slkmdimr5lbbdinjbnv8x7xi-b498303066a63a203d24f739b2d2e0e56dca70d1.patch.drv q0kbphicnwx87v9qjdb31xsnmrlam6wl-uops-CMOV16rm-noreg.diff.drv xdz2lwxf7whwyfdlxqdrm8azz60dzqi0-libxml2-2.9.13.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:150rhygyvljm8lwyv2qyj2n8wnasjqkllpxk12cf21byhgafwah6

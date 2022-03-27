@@ -1,0 +1,9 @@
+StorePath: /nix/store/l8p1mb49q6jaas0blgplwbvq39x1dpq9-openpam-20170430.tar.gz.drv
+URL: nar/0y5ppq7qllb7isjip851zrkrcqji9x9n3fj5kwl2br3p4bkvwdgy.nar.xz
+Compression: xz
+FileHash: sha256:0y5ppq7qllb7isjip851zrkrcqji9x9n3fj5kwl2br3p4bkvwdgy
+FileSize: 1392
+NarHash: sha256:1jay1rdqpkvyy5vfg2hgxzpcflayjw52pky2mpca0gg91z3rfpha
+NarSize: 3200
+References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
+CA: text:sha256:1j3ld6jgyf6pwci14j90pkfd6wig6cvzz5q1wz717wvpzg9p0fqa

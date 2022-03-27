@@ -1,9 +1,0 @@
-StorePath: /nix/store/jz32ki6rhwij6hw1z4d28h7x2lcs90fh-opensp-1.5.2.drv
-URL: nar/1q5xjbd3129x4xm86w1j51xi0mzh1hma2slgf56l6ns2mv4pzdad.nar.xz
-Compression: xz
-FileHash: sha256:1q5xjbd3129x4xm86w1j51xi0mzh1hma2slgf56l6ns2mv4pzdad
-FileSize: 1196
-NarHash: sha256:061xz4ppki7bfdiiikxw5z4w240ha7bk47qs8fw6933ac9zrar0p
-NarSize: 2664
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9x182wp9y86gvw16wdadsvkdy3aj68il-docbook-xsl-nons-1.79.2.drv ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv d0dh1xh98p9r20jq96h71664124pcm64-OpenSP-1.5.2.tar.gz.drv k3qpdghk1vwds53d4a58nszphwmf47xn-setup-hook.sh m4rlqiwz3clv7awhyrmpk73bdhhj2mzd-opensp-1.5.2-c11-using.patch?id=688d9675782dfc162d4e6cff04c668f7516118d0.drv pfi066hf6j0n34bdpm7ln8mnxnaf4lvr-docbook-xml-4.1.2.drv qw60ni9xm3bdbshkg1ldks62fhp5wgp7-xmlto-0.0.28.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
-CA: text:sha256:0f6z56vyhyk66qf35l2xwbl43sizixlbxvbdll49i11kd66v5jga

@@ -1,0 +1,9 @@
+StorePath: /nix/store/6balivzv8vxzhw3pbaa0q2s648sf5s3a-Cython-0.29.24.tar.gz.drv
+URL: nar/1v8f6gbc6g09s3yncrvjcl96r2wxggp0aqw61nq1jhl0mhmdmx5y.nar.xz
+Compression: xz
+FileHash: sha256:1v8f6gbc6g09s3yncrvjcl96r2wxggp0aqw61nq1jhl0mhmdmx5y
+FileSize: 1280
+NarHash: sha256:1h0c5rgw7pbgzhj6ys89xw4g5ydvrbm5w7r2w5zqymx71la7pqs1
+NarSize: 2904
+References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:1v7m7sypx21mcgdqvws6fjvz7ihklipy8lswpr5lmnrydiv4a445

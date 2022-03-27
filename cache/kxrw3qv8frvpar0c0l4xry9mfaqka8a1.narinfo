@@ -1,9 +1,0 @@
-StorePath: /nix/store/kxrw3qv8frvpar0c0l4xry9mfaqka8a1-openssl-1.1.1m.drv
-URL: nar/1cm9cz76mmlc6p8arz0196nwfz5vpmdjggapd3slf28a0p8qhrfi.nar.xz
-Compression: xz
-FileHash: sha256:1cm9cz76mmlc6p8arz0196nwfz5vpmdjggapd3slf28a0p8qhrfi
-FileSize: 1684
-NarHash: sha256:0w4zja1s78w2q4pb5xm4zlfbd9yd8s504mpz8nyval0fcrhsy6g2
-NarSize: 4176
-References: 24r6hkkqb75pfg2189dfb8jjd796zs1z-bootstrap-stage1-stdenv-darwin.drv 2cqnhs2ds0gn7xrq0zcwbj7gsv6l5xr7-use-etc-ssl-certs-darwin.patch 3s972c2la7cqs7dcgw8kzvbqd87dxpp3-perl-5.34.0.drv 3xk9ps0qz073k641b88swpa4fgx3hzwg-nix-ssl-cert-file.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh f8s9cslpc3wvra2kkxrmmr0inanzm57m-openssl-1.1.1m.tar.gz.drv qg2w88dql54kcg1hknm2123ajjq3y60j-coreutils-9.0.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:05hlysvqcb6h43zv35k5lcmypd2d3kjnv48775zbxdiazryx2cdn

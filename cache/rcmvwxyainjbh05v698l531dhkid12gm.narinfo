@@ -1,9 +1,0 @@
-StorePath: /nix/store/rcmvwxyainjbh05v698l531dhkid12gm-cryptsetup-2.4.3.drv
-URL: nar/01c7ba4hc489h8hnw8bjdfbak3sc6prqrdpbdnx28nn6hy2brv4d.nar.xz
-Compression: xz
-FileHash: sha256:01c7ba4hc489h8hnw8bjdfbak3sc6prqrdpbdnx28nn6hy2brv4d
-FileSize: 1540
-NarHash: sha256:05pdhs39fa6g10y0qhzy7g38kfjbp0abdhcfwvhyndjh330fdljd
-NarSize: 3504
-References: 1jsbpawjr3hi855h0282smsg2a36zvvx-lvm2-2.03.14.drv 43p40vi89yk0cbkj3l4vqp1fhp8mq45r-util-linux-2.37.3.drv 626r3hairjac6g6x1kp8mwa0s41zzn50-openssl-1.1.1m.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv hdymmykwbxb2ardvfaszm8fzb8lz6hyk-disable-failing-tests.patch ikmqczy0y20n04a2b8qfflzwihv8139g-separate-debug-info.sh ljph84rrhbjmw6xnjpbi5a6q8wxvn0kn-cryptsetup-2.4.3.tar.xz.drv sqil88k1z34ipvymksbbl4alj5knyvz5-pkg-config-wrapper-0.29.2.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv y58s276k5yqdgrpzfjbjgd7yfybs5xzw-json-c-0.15.drv y69cpja9zm4kfclqr6wpq6kvqz1ix0rx-popt-1.18.drv
-CA: text:sha256:04as2860kdh46f2rwwbd8n99y73dqfpdn2x2q1dyqc4ym4gsa1dv

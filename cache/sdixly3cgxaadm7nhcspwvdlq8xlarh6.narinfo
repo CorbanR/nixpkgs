@@ -1,9 +1,0 @@
-StorePath: /nix/store/sdixly3cgxaadm7nhcspwvdlq8xlarh6-keyutils-1.6.3.drv
-URL: nar/0gzmgjiiyijbndjr6qylypi8fb3xjs0g4gg6lgbz0v99yk8dk77j.nar.xz
-Compression: xz
-FileHash: sha256:0gzmgjiiyijbndjr6qylypi8fb3xjs0g4gg6lgbz0v99yk8dk77j
-FileSize: 1068
-NarHash: sha256:07z05yh0dmf91068j5y90zv70chs1yk1gplv7ilz6y5wr08sjgh3
-NarSize: 2560
-References: 88a62ypvi5xpa3m8znhrl6l7jc307i8r-conf-symlink.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv fkmxviiy0i9a3a4xkgc9yg2d26574jzl-Make-build-reproducible.patch.drv l6z3yv4wfq114vfw572hfjzy160mzq5l-keyutils-1.6.3.tar.gz.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv z0sjg5c7g1iqb4x5vyiqcm5n68mb5x5p-0001-Remove-unused-function-after_eq.patch
-CA: text:sha256:09wxbj0gswnl0cdxc58bkh4qhlv3md02igrary40ba7yz1hb7s0k

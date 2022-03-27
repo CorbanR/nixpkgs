@@ -1,0 +1,9 @@
+StorePath: /nix/store/9r53w2wsvacwazz76q029hfll921qdpi-non-int-conversion-to-pyhash.patch.drv
+URL: nar/09l1sd5d7lvza4hh2zdkcg5p7k53gl3sm87hdaxj56q9hx0a0nb8.nar.xz
+Compression: xz
+FileHash: sha256:09l1sd5d7lvza4hh2zdkcg5p7k53gl3sm87hdaxj56q9hx0a0nb8
+FileSize: 1856
+NarHash: sha256:0dh5fgvgyb90kcpdyifv1p5v9hjx6gmgga7flpr79gx09ka0iwzn
+NarSize: 4464
+References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh bss4vbfks8359mn34d70191i9gs8jxds-patchutils-0.3.3.drv sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
+CA: text:sha256:1p6bkw1ipq0sc1f8sxn3xisp9p4bzh4ngig1lbq1iwq7sf3mwcjs

@@ -1,9 +1,0 @@
-StorePath: /nix/store/v738mnpp8gh24jqxagf03z69lsrksmar-libpfm-4.11.0.drv
-URL: nar/1hkzz3dphhgj6q5dk8vncf1vicir3j1x2dq6bgv5gfyxbaqf97bb.nar.xz
-Compression: xz
-FileHash: sha256:1hkzz3dphhgj6q5dk8vncf1vicir3j1x2dq6bgv5gfyxbaqf97bb
-FileSize: 788
-NarHash: sha256:13ls8a2jl4iihsv6rw284sxf4vdikpwzv51sazq005jv6iq2apac
-NarSize: 1624
-References: 6pw20l0086im3f6a0plsz1r42pv8hq7g-libpfm-4.11.0.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
-CA: text:sha256:198ch9jhxljflmf7ri0s2lkh9a6qlpfs9m8k964alf3njfjplyc3

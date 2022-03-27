@@ -1,9 +1,0 @@
-StorePath: /nix/store/hmyq2j98g6q687l8xqz190sxfq75qzyr-no-strict-aliasing-DwarfCompileUnit.patch.drv
-URL: nar/1cfsk0wi76cc1przhihqbc9nnj2vb9b044yp2flxrd7hb9fgaf4y.nar.xz
-Compression: xz
-FileHash: sha256:1cfsk0wi76cc1przhihqbc9nnj2vb9b044yp2flxrd7hb9fgaf4y
-FileSize: 1880
-NarHash: sha256:10sh4qkxa9cwna6l4blklpy72rhgx482aq37l1x0lg3p0ggjicrf
-NarSize: 4528
-References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 3si955lybhkfnds1bm5fpkvr8lmlkmil-patchutils-0.3.3.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 929m2iwcwvfs0dnx35llysf1srz0ax06-mirrors-list.drv adfihj8631q2zbnc0w79sx8q02wyjsxx-curl-7.81.0.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
-CA: text:sha256:1gfb5rviqp3qh213jqdan926v60val7psh1bhhssw5i64zy477i5

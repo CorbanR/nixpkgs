@@ -1,9 +1,0 @@
-StorePath: /nix/store/q0izajvz8sd0d6fhv1q6wbcqacl1bn1n-fake-rustup.drv
-URL: nar/1qccw44r3s8jhdg6bzgjky745sk6dxwwgadlhqy7q2sih4q6lnca.nar.xz
-Compression: xz
-FileHash: sha256:1qccw44r3s8jhdg6bzgjky745sk6dxwwgadlhqy7q2sih4q6lnca
-FileSize: 920
-NarHash: sha256:18ipxk8yhz60gixf1c7kd34ynhiqjb41a4j3n4p1gxchw0338h6p
-NarSize: 2040
-References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
-CA: text:sha256:0v82hw66jvkd69wf2vhgqma9vdw0ahvbmhxj4qbf9yxjzbb72xhd

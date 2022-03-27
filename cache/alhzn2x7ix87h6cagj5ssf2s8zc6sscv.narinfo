@@ -1,9 +1,0 @@
-StorePath: /nix/store/alhzn2x7ix87h6cagj5ssf2s8zc6sscv-acl-2.3.1.drv
-URL: nar/0d0s9m4y4yyx52pxwwrn5ljgbrfgpqj2jj1420p4qq1m8fqchnag.nar.xz
-Compression: xz
-FileHash: sha256:0d0s9m4y4yyx52pxwwrn5ljgbrfgpqj2jj1420p4qq1m8fqchnag
-FileSize: 1056
-NarHash: sha256:10zqy4yg7l54qz85lk9pj4qh53ajhkrnzwdfk5bpxcgnfc353aaj
-NarSize: 2464
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh lkv5iv7bw80ks35c4mmlg56i10xw3x0n-gettext-0.21.drv qw6w15ccnxib409xjpkkg9z6lkfh0121-bootstrap-stage4-stdenv-linux.drv rr2mff0m62q40c140rki62hdblcqi33x-attr-2.5.1.drv x30m3rvz7j39imcm6i25mf444kiavlbp-acl-2.3.1.tar.gz.drv
-CA: text:sha256:0050a73ic8rj97f8pzp3d7mdhgpc9l5vk7bqnhmh8ld4w7r1zq77

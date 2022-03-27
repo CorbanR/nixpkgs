@@ -1,9 +1,0 @@
-StorePath: /nix/store/y073f62hkyasmp6wlmxmyhl7bzh5mzjd-openssh-8.8p1.drv
-URL: nar/1rjgxgrx9nbwvqma4gaq2zrgxxw0kwha2p0jq6jry58vzyw17kij.nar.xz
-Compression: xz
-FileHash: sha256:1rjgxgrx9nbwvqma4gaq2zrgxxw0kwha2p0jq6jry58vzyw17kij
-FileSize: 2612
-NarHash: sha256:0bv4cmwvnwscqnmy2pv84s7940cbx363vs9laxxgz2xnsr9c1djz
-NarSize: 5832
-References: 2ngr9hkacxv39hi3yd5gjgkzpz6lqd2a-zlib-1.2.11.drv 61b4sdiaxa555qc2w48lp05ww7bm5wq9-libkrb5-1.19.2.drv 6gcrlk7kv0bqky10widnd7y5agi4qizv-openssl-1.1.1m.drv 788faiypcmgmr7qd18w1wb99xb1kcs5z-openssh-8.8p1.tar.gz.drv 7jbzj9s2wkbznn93ga3aqka6vfx06gjg-ssh-keysign-8.5.patch 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9s1vxkm00vhsfrm8caw5319ija5yw4ih-libredirect-0.drv h8p2i3jqf2ch3w91nhicmhy6p93qgg3v-libedit-20210910-3.1.drv isik6ifcjxpw22sfh3kz37galficc78c-locale_archive.patch kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv vkmqkj782lrr173rqn8d8zpzs3frzg52-pkg-config-wrapper-0.29.2.drv xn0bmffq79lc4isk7f7gvry0bzylcrc9-libfido2-1.9.0.drv ybb4xs45dkngdf3x1xnxqgzn5zmv5alf-dont_create_privsep_path.patch
-CA: text:sha256:00877p9n8x7nd7v8lwfgfxhqr5gw50vpy7fz7szhxl69xhg1f5ym

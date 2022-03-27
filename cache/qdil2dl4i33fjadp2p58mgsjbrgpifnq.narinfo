@@ -1,0 +1,9 @@
+StorePath: /nix/store/qdil2dl4i33fjadp2p58mgsjbrgpifnq-perl-5.34.0.drv
+URL: nar/0lckdh91nzn8wq2yyla9rn34jgsa31jihp102pww14m4gw3rlwa2.nar.xz
+Compression: xz
+FileHash: sha256:0lckdh91nzn8wq2yyla9rn34jgsa31jihp102pww14m4gw3rlwa2
+FileSize: 1892
+NarHash: sha256:1ngsg7z33wmq8zksqf699mjq14mkr286khb8v6qmk5v278xc3ka1
+NarSize: 4808
+References: 9kd6vva3ds5ah3vqb8nhb8l0h3b18qx5-bootstrap-stage0-Libsystem.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dbkdwxhgckwhi8f49qra7qwiryc27gi0-bootstrap-stage0-clang-wrapper-11.1.0.drv dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh fhaaark38hjfazyipjgyqxnichx5ikh2-bootstrap-stage0-clang.drv mb381gpm9k5wdl37l5ad5pp8w11qzhjg-no-sys-dirs-5.31.patch n315a3g9bcxlypqzbm36nzrrg40h6lcj-cpp-precomp.patch wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv wqqsmc0rqvxqzw3x87gl8v4zl9d6sa6p-perl-5.34.0.tar.gz.drv x0ll5lnagy6lg7hgvqb26il3qnmsqisd-sw_vers.patch y4nn8mw9wmkln8qqb5fzkmfa9n593mrf-bootstrap-stage1-stdenv-darwin.drv
+CA: text:sha256:0c029y9vaihmy05vlrwwd8608ibviycrg46jz70vb4zcyyxh8a7g

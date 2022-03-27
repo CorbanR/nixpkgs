@@ -1,0 +1,9 @@
+StorePath: /nix/store/hp0adl0j9nwnjsni7189kmkdli6ndvsx-clang-11.1.0.drv
+URL: nar/1mscw672kw3n70bhdiavc37466mj3gg3zfgnjmm30ahn6zcdijr8.nar.xz
+Compression: xz
+FileHash: sha256:1mscw672kw3n70bhdiavc37466mj3gg3zfgnjmm30ahn6zcdijr8
+FileSize: 2176
+NarHash: sha256:11ihasca9d3cjs726730jhiaxysxa1sv99sa64x4k0dxrjvxfrkb
+NarSize: 5176
+References: 34zhl915l308dpa7v2786z3xgbvy6398-purity.patch 7cw9zcyph7wa7fkc9lmd99j4lp6m3azm-clang-tools-extra-11.1.0.src.tar.xz.drv 7x9d5ll7nvgss2y2qwr4f7qdm9szlyhb-0a9fc9233e172601e26381810d093e02ef410f65.diff.drv 9006hhig7k7qkydz7730cr32jv46dyw3-python3-minimal-3.9.10.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh f3jmlx5z50rbgkdqnax453pwcrxwzks8-clang-11.1.0.src.tar.xz.drv fi5j12a84hwwzg3hs75xfdi07km077np-llvm-11.1.0.drv i8gsp3vnvvy04whwc3a8llgxncjpbc7h-cmake-boot-3.22.2.drv ignqydfpv64f98zvmbsv7wbm19wysr0j-hook.drv j9r6xgpc4zd35w6w6086j55ay1q9as9g-bootstrap-stage4-stdenv-darwin.drv ln3b55697rprmrhbzji8svs7y0rc6xh5-libxml2-2.9.13.drv pbr0m3nchdcavnh024i8vbzn84mh3ji1-clang-11-12-LLVMgold-path.patch.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv yrskcbyfm56qm4vs9dnacg8mqpqx7qwx-gnu-install-dirs.patch
+CA: text:sha256:1lavf4hwgwlk1wbz5580n7v8dv5xschxf6vi0lgdai2d0rsvdppd

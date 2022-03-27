@@ -1,0 +1,9 @@
+StorePath: /nix/store/vyllpqf9j8vjnivkm8y9al0dyz2xz00h-clang-tools-extra-11.1.0.src.tar.xz.drv
+URL: nar/06i73960fkgzxc0by0dgamf2wn0hy5xrb5jmqzsrmmrc348c9xcg.nar.xz
+Compression: xz
+FileHash: sha256:06i73960fkgzxc0by0dgamf2wn0hy5xrb5jmqzsrmmrc348c9xcg
+FileSize: 1316
+NarHash: sha256:040367i1ibzh0p07w2vxg7xq16l8a1x1liii6cf8wcmn29qkyk7w
+NarSize: 3008
+References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:01f23xpr3mx6plrnq3cdaawwyl8mk2bzmmiyskf958673ajrybfk

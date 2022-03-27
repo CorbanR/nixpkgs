@@ -1,9 +1,0 @@
-StorePath: /nix/store/dnwvfzzza12y1xn40879p8q8saif9kg0-bison-3.8.2.drv
-URL: nar/1s0c27a1wzjpjdlpc21mhnqqacpx66qqfq2wvqrkmn8q5lpfz6c4.nar.xz
-Compression: xz
-FileHash: sha256:1s0c27a1wzjpjdlpc21mhnqqacpx66qqfq2wvqrkmn8q5lpfz6c4
-FileSize: 976
-NarHash: sha256:0r0qma7yfs53d8v37k0bb97jf975v8s586bq5c9f176c4g0fbm2k
-NarSize: 2192
-References: 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv vas9bgrdl7sqghggra3afmj8zcd1ax62-gnum4-1.4.19.drv vg6xxjz9rhgwcaip537lcsvc262z30lj-bison-3.8.2.tar.gz.drv x4x61k1xjryn7ylk7d69cxs0lhj27irb-perl-5.34.0.drv
-CA: text:sha256:0c9m2s7hpfz8slfdhz8kpdq0937bnd981plk9m4565lq56g7xvpx

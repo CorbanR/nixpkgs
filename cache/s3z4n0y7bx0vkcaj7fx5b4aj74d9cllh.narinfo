@@ -1,9 +1,0 @@
-StorePath: /nix/store/s3z4n0y7bx0vkcaj7fx5b4aj74d9cllh-libarchive-3.5.2.drv
-URL: nar/1cl2jf23lciap86jq4086jn0xzp4i0fmfaa2yj4kav7n0haxpx0p.nar.xz
-Compression: xz
-FileHash: sha256:1cl2jf23lciap86jq4086jn0xzp4i0fmfaa2yj4kav7n0haxpx0p
-FileSize: 1616
-NarHash: sha256:0zlrawdr3ndk2sl7q9zx0vkcsjf6bazmh2q4rf7yfhwjp02bg6cv
-NarSize: 3672
-References: 0j0104ml0in7fk13jnarh4pp7plncf35-sharutils-4.15.2.drv 2ngr9hkacxv39hi3yd5gjgkzpz6lqd2a-zlib-1.2.11.drv 42p4143wws0xg28cvdwb8zh7x6fi8zhq-libxml2-2.9.12.drv 59hl2lcydyz54krlnxan5xgvwpz435in-hook.drv 6gcrlk7kv0bqky10widnd7y5agi4qizv-openssl-1.1.1m.drv 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 8y382kq02c12xn98b3m0jl6gqd8556bp-zstd-1.5.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh h9rsfv48navqswm57dc19gxri6p9ff6p-bzip2-1.0.6.0.2.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv mws6q3jh7fk6y1rbi61vy4v63zwqzs8n-source.drv n0rs6va37cy6135997rd0qy8c5xifpl1-lzo-2.10.drv qawf3igr2afzya50pxqr051fsx4bb49b-xz-5.2.5.drv vkmqkj782lrr173rqn8d8zpzs3frzg52-pkg-config-wrapper-0.29.2.drv
-CA: text:sha256:09wsqkp1531k6k7dlrhbm71pdpkkqzbvfd9l5ij11hr76z2dn3rg

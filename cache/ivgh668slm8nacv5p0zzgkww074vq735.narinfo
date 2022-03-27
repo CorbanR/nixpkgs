@@ -1,9 +1,0 @@
-StorePath: /nix/store/ivgh668slm8nacv5p0zzgkww074vq735-adv_cmds-119.drv
-URL: nar/1rsvnkmcy7yg3g8q1cd7j68lrjn3pqqfagb8w59r6n7v0r2dr3dz.nar.xz
-Compression: xz
-FileHash: sha256:1rsvnkmcy7yg3g8q1cd7j68lrjn3pqqfagb8w59r6n7v0r2dr3dz
-FileSize: 2104
-NarHash: sha256:0nigynnbsavrhi5zs0db7q68k10m2p4gffrk6x86r4rvb95s4maz
-NarSize: 5024
-References: 1qh0clwgq8lh1xbi69z4raa5q452yrb6-flex-2.6.4.drv 27g26c4ygbi8x6jadkskp703rv3anp43-adv_cmds-119.tar.gz.drv 5himdf92n6vihfj9sna332vd103prbyg-bsdmake-24.drv 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dnwvfzzza12y1xn40879p8q8saif9kg0-bison-3.8.2.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv mw5ix393y88a6cqi6hr6z6sqwkvnlf15-source.drv rwd7gm7sv00ipcqncjfaxlm21vq2f4kx-clang-wrapper-11.1.0.drv x4x61k1xjryn7ylk7d69cxs0lhj27irb-perl-5.34.0.drv
-CA: text:sha256:0d3n9d6c615ii5akhrk1bwfjk8cryylffrn6ayv0lnzvz8lvn7vb

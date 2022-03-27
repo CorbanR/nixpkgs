@@ -1,0 +1,9 @@
+StorePath: /nix/store/7nslcw3f79sxsq2b1vkxilim9mpn405d-artichoke-b2968d9dbb74823811f39fea38b6fa76924fa3f5-vendor.tar.gz.drv
+URL: nar/0lr7mk9mz9lb96p4wynzpz8xy6d5w8r1w8c4br0f2daiyxzzgq5v.nar.xz
+Compression: xz
+FileHash: sha256:0lr7mk9mz9lb96p4wynzpz8xy6d5w8r1w8c4br0f2daiyxzzgq5v
+FileSize: 1792
+NarHash: sha256:159zg8jvn5vpjf2alrbfczx30sc4k1zb6536sriknh8s3215p5v2
+NarSize: 3808
+References: 0j057a6025nn96kw535w7yhr43xv18m2-source.drv 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9xzbcw1zrw45f945k3q33zl24fcc3ypz-cargo-vendor-normalise.drv kj9d0h7pwfii0vc86y2g7kgnd1qvgcwy-cargo_feature.patch shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv v7i0fwignrhfsxaxvb1apycs4arm6pg0-cargo-1.58.1.drv w4fzp47vq77c6fi9lvri2xn8f2453w1w-nss-cacert-3.74.drv z70hqzmdd6xyb717qdw6bfhi3f3c6kbl-git-2.35.1.drv
+CA: text:sha256:1az16lin8v1cdk0d2hs9fscqja0zrnpb4k422lrrzhi1ng4n4wrm

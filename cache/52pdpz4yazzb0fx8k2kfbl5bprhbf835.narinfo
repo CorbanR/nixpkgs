@@ -1,9 +1,0 @@
-StorePath: /nix/store/52pdpz4yazzb0fx8k2kfbl5bprhbf835-boost-1.77.0.drv
-URL: nar/13c9sf91w85dr172a5a3rcqs9mqyhds3pv6r4zqi0ic0j6yvrh9v.nar.xz
-Compression: xz
-FileHash: sha256:13c9sf91w85dr172a5a3rcqs9mqyhds3pv6r4zqi0ic0j6yvrh9v
-FileSize: 2136
-NarHash: sha256:1hlibmwsv46vaf8jhg2ca5c5031939pxi7bhil6vp5pm49a7m0n1
-NarSize: 5096
-References: 1aq1rgywqhfzc0dmli3mq82gjmmxbrf0-boost-build-boost-1.77.0.drv 1cbws1f1ppqxi4h10p80biwpdklfnz2x-darwin-no-system-python.patch 2ngr9hkacxv39hi3yd5gjgkzpz6lqd2a-zlib-1.2.11.drv 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 87flf205vxqfmlax5hjr2bdc7ndi64c4-icu4c-70.1.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh awd644gm24izd3lfi07vmm8x29xjzdh7-which-2.21.drv h9rsfv48navqswm57dc19gxri6p9ff6p-bzip2-1.0.6.0.2.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv n06yyc80maw5jh1k8y2iqbcwgxdmrynw-libiconv-50.drv pzgfcxfr9pkqc8m79m9jinrs929a9ffc-expat-2.4.4.drv qdnlmqlwrbx3hl6rwg5zccp42kjgf58j-boost_1_77_0.tar.bz2.drv wl6hwrn5kqshj7sbp4y8s7khl9ps4445-hook.drv wpbcp7kf7xcjaf7kd7nqx23y6n8h86lf-cmake-paths-173.patch
-CA: text:sha256:1k1537zjx8amdxvsrgz0nsnmmy5jhw8z30l0bkyy6wyln9v3khji

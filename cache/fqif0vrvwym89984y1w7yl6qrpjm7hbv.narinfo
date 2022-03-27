@@ -1,9 +1,0 @@
-StorePath: /nix/store/fqif0vrvwym89984y1w7yl6qrpjm7hbv-IOFireWireSerialBusProtocolTransport-251.0.1.tar.gz.drv
-URL: nar/03ijbkbzx56hnkswqcxjhmab672lfj2hfcrl8hby1p8rm21l9sxv.nar.xz
-Compression: xz
-FileHash: sha256:03ijbkbzx56hnkswqcxjhmab672lfj2hfcrl8hby1p8rm21l9sxv
-FileSize: 1412
-NarHash: sha256:1cj8k8051k96ppwkfqkyznmcalvmgrg5c8kq83gd2awgw7jw7f9i
-NarSize: 3312
-References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 929m2iwcwvfs0dnx35llysf1srz0ax06-mirrors-list.drv adfihj8631q2zbnc0w79sx8q02wyjsxx-curl-7.81.0.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
-CA: text:sha256:0shd8228a9q52ykbixhv4as0z1q53bfnify0nprp6q85730vw1s1

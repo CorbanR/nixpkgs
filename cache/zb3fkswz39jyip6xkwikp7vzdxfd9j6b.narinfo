@@ -1,0 +1,9 @@
+StorePath: /nix/store/zb3fkswz39jyip6xkwikp7vzdxfd9j6b-nettle-3.7.3.tar.gz.drv
+URL: nar/0c0jyc5as2ava98x5r2yrll2wyarwspp0nl91rw58c2kcjk4g7j6.nar.xz
+Compression: xz
+FileHash: sha256:0c0jyc5as2ava98x5r2yrll2wyarwspp0nl91rw58c2kcjk4g7j6
+FileSize: 1380
+NarHash: sha256:124parz1m8sj93z23672i82w8jkrbqcvfbfxb0w2lqfbwrq1y296
+NarSize: 3152
+References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
+CA: text:sha256:1dvp3cby1vglm4llvwc2wvhrby1xlhi8cvxg72vwbrf46klq8bm2

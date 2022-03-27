@@ -1,9 +1,0 @@
-StorePath: /nix/store/r5nj20hcfpp6fxy17jyfbn9nq1ijj946-audit-2.8.5.drv
-URL: nar/1il4gafkxfs290mg65vblz113wisc7wf5gw421qqm23801496y8r.nar.xz
-Compression: xz
-FileHash: sha256:1il4gafkxfs290mg65vblz113wisc7wf5gw421qqm23801496y8r
-FileSize: 1344
-NarHash: sha256:14lgh27p0f494bs48v93g3693hyxpvh2x8l3mcn1bjlslw3lgjj2
-NarSize: 3120
-References: 2zqk53fyirrj961nd06vnfb6p68dlqsv-weak-symbols.patch 45fs8hhm6afg0m0p2d635zhjh608bqsj-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a48xfnszk6sfkjzxwg6pxnvwy81k1d0v-017e6c6ab95df55f34e339d2139def83e5dada1f.patch.drv aahm8mnxx15zcsgz4ibxa6gw3bmq2jvz-no-ipx.patch.drv ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv jcsmx3il95qchb1c6zlhjz0spz3izl6c-Add-substitue-functions-for-strndupa-rawmemchr.patch-fix-copyright-merge-conflict.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv zd10wrlzpi37gr985n7nyycxl1f976jc-audit-2.8.5.tar.gz.drv zqm8i08q7ibpl5mf5ic519ql0l57awb1-hook.drv
-CA: text:sha256:1760i3s1l371qp65a676g72bhsm4cy7mjlcn134a5nnq6kg5ic3p

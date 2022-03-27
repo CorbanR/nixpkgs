@@ -1,0 +1,9 @@
+StorePath: /nix/store/1p3q6jz62b8j6q4rv42ns17vqm968r26-atomicwrites-1.4.0.tar.gz.drv
+URL: nar/0sp57anqfh3p7llwa7hf3pf9dsby3zynrxm9gy3x3nfmpa2rgkwh.nar.xz
+Compression: xz
+FileHash: sha256:0sp57anqfh3p7llwa7hf3pf9dsby3zynrxm9gy3x3nfmpa2rgkwh
+FileSize: 1348
+NarHash: sha256:1g396m2d7cplha3mz8y4kfy4kf3ck9famwpd3wkyvs2isgjvp4i8
+NarSize: 3200
+References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
+CA: text:sha256:18jjb4xis5q00bvhj0q6v7yghh5svalyhznqym2h9bmd8247h228

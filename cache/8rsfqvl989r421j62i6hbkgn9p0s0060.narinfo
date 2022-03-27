@@ -1,0 +1,9 @@
+StorePath: /nix/store/8rsfqvl989r421j62i6hbkgn9p0s0060-python3.9-pip-21.3.1.drv
+URL: nar/0g4crz3izw6jndjcm2fyzf4ajjs3ncgq9dy0sqf9qadz69xz1pji.nar.xz
+Compression: xz
+FileHash: sha256:0g4crz3izw6jndjcm2fyzf4ajjs3ncgq9dy0sqf9qadz69xz1pji
+FileSize: 1396
+NarHash: sha256:13c1j3prdc4pahw5qpk4qbwmqp1c4hsql3vajcc77l45zcki6jkw
+NarSize: 3168
+References: 0s6xbf1byga4cgmxd8r3b9bj5hxar0xb-python-imports-check-hook.sh.drv 18qy44cb871wngnz0fmim7121y0ipzbc-python-remove-bin-bytecode-hook.drv 1hr7y7jwgq35qrrlszys141n1ygis21c-hook.drv 4ih8dvx7wgx2s89yz2zwnnhkqh3f2xkm-python-namespaces-hook.sh.drv 7d2w02zh3vfr4nyscn04hgf527s6qn88-python-catch-conflicts-hook.drv 8mcyshx26hipja7nbj8s8ljl7szpv48g-pip-21.3.1-source.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b4k0fv4h2rv4s6kfr5hgpa81kj64gavm-python-remove-tests-dir-hook.drv hhna7q93xhk8qxaj8wrr5mqhfqkxc9z7-python3.9-bootstrapped-pip-21.3.1.drv j379inyzai6zfbwjkb1kj38znmxlssd7-python3-3.9.10.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv myyaaxgycd8mvfjvwd2l3wsjw41bci9r-hook.drv wkf9fmqdyb1pf0by5ifrw323i1abdwjc-python3.9-setuptools-57.2.0.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:0jcfb9krb52g91rys0vlpbyy21cywwpcfx1zs2sjkzqng83w9c31

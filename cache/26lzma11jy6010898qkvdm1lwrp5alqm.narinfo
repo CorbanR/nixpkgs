@@ -1,0 +1,10 @@
+StorePath: /nix/store/26lzma11jy6010898qkvdm1lwrp5alqm-brotli-1.0.9-lib
+URL: nar/0xc79qpdpr6523l3arcxplkvgj4xg2mjny9cg96d0q6rpr2cix88.nar.xz
+Compression: xz
+FileHash: sha256:0xc79qpdpr6523l3arcxplkvgj4xg2mjny9cg96d0q6rpr2cix88
+FileSize: 342228
+NarHash: sha256:11iavdya18qw0vl703hj6mk0mzvhzlqfz3phd1gpqznl79nc5jw2
+NarSize: 1964240
+References: 26lzma11jy6010898qkvdm1lwrp5alqm-brotli-1.0.9-lib pll7kallqnbxhpjb6v0ql0kjndibwiyz-swift-corefoundation-unstable-2018-09-14
+Deriver: 398gxi1m515mq0ngsd7b773arxn5wb3f-brotli-1.0.9.drv
+Sig: cache.nixos.org-1:3SE4dcpBxHHrfRbZQjolrHbHrCLGV+kXf1k1JmmfViGlnsUzXE76lgpcjZbN2uBdCXGexVBwKvKDh2/jqcVCCA==

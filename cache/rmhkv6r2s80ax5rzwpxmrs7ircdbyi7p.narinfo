@@ -1,9 +1,0 @@
-StorePath: /nix/store/rmhkv6r2s80ax5rzwpxmrs7ircdbyi7p-02-fix-ftbfs-with-glibc-2.28.patch.drv
-URL: nar/0in3zgdfhrlw2ki870phaffq4na1bpy8d7p3fyxby71ff4hblk5b.nar.xz
-Compression: xz
-FileHash: sha256:0in3zgdfhrlw2ki870phaffq4na1bpy8d7p3fyxby71ff4hblk5b
-FileSize: 1408
-NarHash: sha256:1x9zll69fyniqz9k1symskfnzhqp229rr228iwyczx3wmjcpyrww
-NarSize: 3240
-References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 929m2iwcwvfs0dnx35llysf1srz0ax06-mirrors-list.drv adfihj8631q2zbnc0w79sx8q02wyjsxx-curl-7.81.0.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
-CA: text:sha256:1agx627lsnrf3jswk8b11x1kpib9s5hqr262iyia2pxdpbmnwzm0

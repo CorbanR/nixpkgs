@@ -1,9 +1,0 @@
-StorePath: /nix/store/fdbwpma0mvn8n21z1fyira1mp7qk4a7x-rustc-1.58.1.drv
-URL: nar/0d7xiqy0x6mn7yylyjq9ccpj6cfcsq428pl54qbgipl6x6jbw7z7.nar.xz
-Compression: xz
-FileHash: sha256:0d7xiqy0x6mn7yylyjq9ccpj6cfcsq428pl54qbgipl6x6jbw7z7
-FileSize: 2480
-NarHash: sha256:0zy41gxj58hvbfcbg6v0a3l5wwj8ksmslimrdi898923hdl9qbz5
-NarSize: 6624
-References: 07psg71rn06j4yyckp2535s2ah40j3ay-which-2.21.drv 16qmil21psx1nzp8gabni5hydib4cjxm-rustc-bootstrap-1.57.0.drv 179fqm2zr5p6gmzydxcsxaflkzh8lyia-llvm-13.0.0.drv 3iz44dg942mi2hpwzjxrn2s79bpxazwl-remove-references-to.drv 45fs8hhm6afg0m0p2d635zhjh608bqsj-gcc-wrapper-10.3.0.drv 626r3hairjac6g6x1kp8mwa0s41zzn50-openssl-1.1.1m.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv giyc40ql1dzwhz96aj8wksgmmcdi2zmy-libffi-3.4.2.drv n46kkinn8svzrjwy664nn6ganda8zagy-file-5.41.drv rm1lny2gy2z6395q14a4h4554w463jwv-python3-3.9.10.drv skyp8xs2584fkc44ki1cim9ag55wbi68-setup-hook.sh sqil88k1z34ipvymksbbl4alj5knyvz5-pkg-config-wrapper-0.29.2.drv v1vywba3mh5c4kckx8ssy0pw8c6h1pr2-rustc-1.58.1-src.tar.gz.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv y4h21nn5s22aqryz8wwzs81rvyj00flc-cargo-bootstrap-1.57.0.drv yr1y31iqg9jhv4l6cb8i38va18rdigvs-cmake-3.22.2.drv
-CA: text:sha256:18g5ylxls76vdm71nwqn658822har3hr9838v034gc6nr3y0i39g

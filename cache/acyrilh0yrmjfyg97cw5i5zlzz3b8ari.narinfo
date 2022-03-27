@@ -1,9 +1,0 @@
-StorePath: /nix/store/acyrilh0yrmjfyg97cw5i5zlzz3b8ari-expat-2.4.4.tar.xz.drv
-URL: nar/1j4rvln8x5dvxg9vvx6a26f2riq9x7qjrvdxzzardsl396k48wkm.nar.xz
-Compression: xz
-FileHash: sha256:1j4rvln8x5dvxg9vvx6a26f2riq9x7qjrvdxzzardsl396k48wkm
-FileSize: 1288
-NarHash: sha256:120v95dzsp2frk3wm6ahjdfrlzvlnkn2mb1n7hnrz9dpqs5f5v03
-NarSize: 2904
-References: 3x9fdcyjp5vigg75lyngfyxlydqpny6b-mirrors-list.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh fig6crk9q3pa8vvmx799k29iz4i0fkbj-curl-7.81.0.drv vy2lxr0rcly61wshr4vjgq5ji9k5zgpx-stdenv-linux.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
-CA: text:sha256:0b33dl3s59qfxnismlqjmjg49b8cvshbqga7r80wkkfic2hh7gng

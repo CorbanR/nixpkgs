@@ -1,0 +1,9 @@
+StorePath: /nix/store/lq9s3cbxzqi1ih1irm2xapsafsm0nph0-lvm2-2.03.15.drv
+URL: nar/1cbjxmkr3icb5xnf09yvbk9h2d1zhhsp1dwz90ryk4c7cwblcnna.nar.xz
+Compression: xz
+FileHash: sha256:1cbjxmkr3icb5xnf09yvbk9h2d1zhhsp1dwz90ryk4c7cwblcnna
+FileSize: 1700
+NarHash: sha256:1bhhljrrdvb6ymagn90r1nkvijchfy3f1xp3razk2mp349bb182d
+NarSize: 3984
+References: 5vxisvdvkdym7jbp96fygcjp06a9l8v0-libaio-0.3.112.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh di33rlxryb7syd7ginw7s0lyskw0y9bz-LVM2.2.03.15.tgz.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv pajkrygv8mn78p3majgkyfh85l1n20g1-pkg-config-wrapper-0.29.2.drv s3h6ciwd995v4bs44q6zmfs536qw863a-util-linux-2.37.4.drv y16knma6gsgpjs8pfr0248a6i4rkiz5p-systemd-minimal-249.7.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:0gg3lxkyg3kcvhfl1q3bzkryi84x42w0p7adqvrbqlh5mhiswj43

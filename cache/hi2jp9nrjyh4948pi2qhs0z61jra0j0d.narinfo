@@ -1,9 +1,0 @@
-StorePath: /nix/store/hi2jp9nrjyh4948pi2qhs0z61jra0j0d-clang-11.1.0.drv
-URL: nar/04l145pgslxj2wlyq5ddl11hznz63ks289ivscb1w547xjybadv2.nar.xz
-Compression: xz
-FileHash: sha256:04l145pgslxj2wlyq5ddl11hznz63ks289ivscb1w547xjybadv2
-FileSize: 1944
-NarHash: sha256:0cxzjrrblmmndmd8c87ivw4dxalv6ij58fby6zhs5yiggsicc98z
-NarSize: 4624
-References: 34zhl915l308dpa7v2786z3xgbvy6398-purity.patch 7mykd1z4mdp9704pf6647mhgq4rvr0nz-libxml2-2.9.12.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv cw2ccfkdcsr99m7w7289pfasnri3qmjm-llvm-11.1.0.drv hz8r1csckp2r46hhv56xicjhs5cxwbi6-0a9fc9233e172601e26381810d093e02ef410f65.diff.drv k5sbqf6bjfv90ka5nl08p6h99kq97v7k-clang-11-12-LLVMgold-path.patch.drv q3xai3m9jci6hklig11rwx8yzzcd4c3x-clang-tools-extra-11.1.0.src.tar.xz.drv rm1lny2gy2z6395q14a4h4554w463jwv-python3-3.9.10.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv yr1y31iqg9jhv4l6cb8i38va18rdigvs-cmake-3.22.2.drv yrskcbyfm56qm4vs9dnacg8mqpqx7qwx-gnu-install-dirs.patch zdj86a4kmqhjwnvcms6fpi4bymd17vp3-clang-11.1.0.src.tar.xz.drv
-CA: text:sha256:1wkvsg8d399qy2wbvvqyvmzncd722ny01g9pgnyd573dqmv326jy

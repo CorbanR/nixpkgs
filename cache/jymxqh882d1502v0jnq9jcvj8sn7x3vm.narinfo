@@ -1,9 +1,0 @@
-StorePath: /nix/store/jymxqh882d1502v0jnq9jcvj8sn7x3vm-libpng-1.6.37.tar.xz.drv
-URL: nar/0ixipjmmcqlh92j2qnphqik6dyddinq0pdpgwn0aamg9x0kia2zi.nar.xz
-Compression: xz
-FileHash: sha256:0ixipjmmcqlh92j2qnphqik6dyddinq0pdpgwn0aamg9x0kia2zi
-FileSize: 1368
-NarHash: sha256:1fh6b220gf39rhcp50qmz0k0lj053f4s86yjysvv64frda9y9vj3
-NarSize: 3144
-References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 929m2iwcwvfs0dnx35llysf1srz0ax06-mirrors-list.drv adfihj8631q2zbnc0w79sx8q02wyjsxx-curl-7.81.0.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
-CA: text:sha256:17br04falzki0n0wb2hcr1cccfm95696g8iisbrk5l2q2lpalnhb

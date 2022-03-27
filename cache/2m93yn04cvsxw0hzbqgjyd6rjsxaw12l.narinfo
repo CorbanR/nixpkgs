@@ -1,0 +1,9 @@
+StorePath: /nix/store/2m93yn04cvsxw0hzbqgjyd6rjsxaw12l-pkg-config-0.29.2.drv
+URL: nar/0canzb31i5b174mk55x5wxazjbzzhxz53nqc4jkf1w46af5hlmpv.nar.xz
+Compression: xz
+FileHash: sha256:0canzb31i5b174mk55x5wxazjbzzhxz53nqc4jkf1w46af5hlmpv
+FileSize: 912
+NarHash: sha256:1a1f5y0hdj4v37cd101hiskdx24ksn7ab5cxi9br57gpqnwrvirx
+NarSize: 2216
+References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 6b29gjz7rj4mw0ch0vy2m6qrqipz2bbb-pkg-config-0.29.2.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh f4bvwqvj0y3z6blvh0knz71a8yq1c45p-requires-private.patch m291v0v74nrqfrdndvpfm7wf3d5v30m6-bootstrap-stage2-stdenv-linux.drv
+CA: text:sha256:1mvmzzz734vpxq2aakxrssx69125hm6k4y6g32vam8r6pb62ad2p

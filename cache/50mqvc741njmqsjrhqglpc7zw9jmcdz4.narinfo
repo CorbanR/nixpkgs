@@ -1,9 +1,0 @@
-StorePath: /nix/store/50mqvc741njmqsjrhqglpc7zw9jmcdz4-protobuf-3.19.3.drv
-URL: nar/1dyyl9rw4jxsgm57hr2w0i3jrzgvxayfwck5zkxy7xd177zjc9dx.nar.xz
-Compression: xz
-FileHash: sha256:1dyyl9rw4jxsgm57hr2w0i3jrzgvxayfwck5zkxy7xd177zjc9dx
-FileSize: 1100
-NarHash: sha256:0k35g27bgpjxkj9ificzfj76d5fcczc1jvqzkdnq2032130dim4w
-NarSize: 2384
-References: 07psg71rn06j4yyckp2535s2ah40j3ay-which-2.21.drv 3msb1z97b8p2dc21fs4gv53fszaj1a5x-zlib-1.2.11.drv 45fs8hhm6afg0m0p2d635zhjh608bqsj-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv cgwalgba4h8vj11h3kdccgqlxwii5kxa-source.drv r5v3rhaz2llxj2q2jsh4fskdv69ch1gv-source.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv zqm8i08q7ibpl5mf5ic519ql0l57awb1-hook.drv
-CA: text:sha256:1wvc00qkgbp2j7vbhrqdl997k1y3gj66w4khd01rpkcfgy9yh9s3

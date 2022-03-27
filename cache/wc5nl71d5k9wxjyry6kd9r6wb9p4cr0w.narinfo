@@ -1,0 +1,9 @@
+StorePath: /nix/store/wc5nl71d5k9wxjyry6kd9r6wb9p4cr0w-ninja-1.10.2.drv
+URL: nar/1d4ihbsznnq50w8mmzzfa06ri5i51z1lrcqnzcznclnark43xxgx.nar.xz
+Compression: xz
+FileHash: sha256:1d4ihbsznnq50w8mmzzfa06ri5i51z1lrcqnzcznclnark43xxgx
+FileSize: 1076
+NarHash: sha256:03ca8xy1hbkl32mhksjjzsh55jg34nbdjxwj3krh9m3w8c8n4wy5
+NarSize: 2408
+References: 9006hhig7k7qkydz7730cr32jv46dyw3-python3-minimal-3.9.10.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh lzppzq466704lylzwv62h5y2hc6c35zf-source.drv p554pqd2qlj1psvx4fs71cila5bbwhn0-re2c-3.0.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv y4nn8mw9wmkln8qqb5fzkmfa9n593mrf-bootstrap-stage1-stdenv-darwin.drv y9yz15h8mlpggmr3jidjdhjpddsx7d25-setup-hook.sh
+CA: text:sha256:0fcq5xmxvgl0hf80mf92dk10yjqfilcwxx86vrg8yxjdl82nl3mx

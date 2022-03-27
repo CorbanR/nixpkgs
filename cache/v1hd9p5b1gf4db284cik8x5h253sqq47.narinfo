@@ -1,9 +1,0 @@
-StorePath: /nix/store/v1hd9p5b1gf4db284cik8x5h253sqq47-python3.9-sortedcontainers-2.4.0.drv
-URL: nar/04abshs9i40ls980i9h4qp350xilb73gp3xj653hrh762gp4cj1d.nar.xz
-Compression: xz
-FileHash: sha256:04abshs9i40ls980i9h4qp350xilb73gp3xj653hrh762gp4cj1d
-FileSize: 1548
-NarHash: sha256:010lsj4zlciy4cap6k9i3srfi92a1ycgfb9ybn6rd41bxswhgpqi
-NarSize: 3576
-References: 0ndzqr3k5qj83b08q72iyc5sdw473iv1-python-imports-check-hook.sh.drv 13png16kning3ciiyhn3v8z33nxmrsz1-python-remove-tests-dir-hook.drv 341jv99aj3sv716an46m4qps4k1g0ald-setuptools-setup-hook.drv 5g7vgzfxq5n72vqk8wdda6j6kykiv407-hook.drv 72053wik4c9f4idx0vi350q0fsphp1ys-python3.9-setuptools-57.2.0.drv 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9xad97gnzqxiqch4gy0jdiizqjcwz2a0-sortedcontainers-2.4.0.tar.gz.drv gy2s9j5plssicv0l6h92fxyaiyky8f91-pip-install-hook.drv izhpczgvgx4bhw1sffgd6ma41hv91d7m-python-namespaces-hook.sh.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv qs3jm3lfl0pcvfyazadd1np2cjyh0bsh-hook.drv s5x16bqs3bmlg5wzhhfap46h17srzrzm-python-remove-bin-bytecode-hook.drv v64khjgcri5i5d300zj3rsclb886r61h-python3-3.9.10.drv xkx6nzkh0z3qyz4y2bbb04s2zqikyxg0-python-catch-conflicts-hook.drv
-CA: text:sha256:1vpw5f7aw2aijhqga7n4nvnkdg6z9nzyk0cr05p6s94l715dvv0a

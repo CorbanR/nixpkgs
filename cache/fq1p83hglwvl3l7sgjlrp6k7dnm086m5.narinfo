@@ -1,9 +1,0 @@
-StorePath: /nix/store/fq1p83hglwvl3l7sgjlrp6k7dnm086m5-libfido2-1.9.0.drv
-URL: nar/16npvb0x4hfcl6y6bp6v5g2kzgzby8gfw88n6v6j75nzazl425z8.nar.xz
-Compression: xz
-FileHash: sha256:16npvb0x4hfcl6y6bp6v5g2kzgzby8gfw88n6v6j75nzazl425z8
-FileSize: 1188
-NarHash: sha256:0hic6kim9flq2ibmgzck8lmcnshssz4mk1x3gird9xwlasifmkpm
-NarSize: 2464
-References: 3msb1z97b8p2dc21fs4gv53fszaj1a5x-zlib-1.2.11.drv 626r3hairjac6g6x1kp8mwa0s41zzn50-openssl-1.1.1m.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv g6nwpx050yvymncza9p39y2ffpjwzsjp-libfido2-1.9.0.tar.gz.drv q1xsss55l53f9m4wa0dmardl7gsc1v4d-systemd-minimal-249.7.drv sqil88k1z34ipvymksbbl4alj5knyvz5-pkg-config-wrapper-0.29.2.drv vglva7hn8lrqrx3k1a3p8fkww7wmxdw3-libcbor-0.8.0.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv yr1y31iqg9jhv4l6cb8i38va18rdigvs-cmake-3.22.2.drv
-CA: text:sha256:1hnn7l3s6mzrjc864rf33h7yaxq30654w4b7nbm1difaxp6vkkg7

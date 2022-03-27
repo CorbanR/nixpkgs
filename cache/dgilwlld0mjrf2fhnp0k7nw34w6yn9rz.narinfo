@@ -1,0 +1,9 @@
+StorePath: /nix/store/dgilwlld0mjrf2fhnp0k7nw34w6yn9rz-python3.9-toml-0.10.2.drv
+URL: nar/1l76j0q8npajy7ay3y2nwj7qal5k7sddly2li4ysff2cglzaqs6b.nar.xz
+Compression: xz
+FileHash: sha256:1l76j0q8npajy7ay3y2nwj7qal5k7sddly2li4ysff2cglzaqs6b
+FileSize: 1544
+NarHash: sha256:0my4vgy2fflcjn9il6w4lw82pz1rmzmk2654grfbn7g02s6yv713
+NarSize: 3512
+References: 04j2vf2admpm5w088rz0bm7gpbqqmbdj-python-catch-conflicts-hook.drv 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 66pdjrv83zq0v3v0whhyz9z64knbmgka-python-imports-check-hook.sh.drv 7786m2w7kjvi3shffygwg9v12byy3gww-setuptools-setup-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cwzp8i0igczipl3ayf7dmaz7qcln4nv0-python-remove-tests-dir-hook.drv dq4zkwav64c8i02a6g118wd89wk2k3ks-python-remove-bin-bytecode-hook.drv gvml8737wygpb0gpxhc5xymszfk2l7si-toml-0.10.2.tar.gz.drv gx85mh0vaf5zlsd1a40in8dzy8kyyz4q-pip-install-hook.drv i48kas1cakb6r8fml7cfcr9q59427cwj-python-namespaces-hook.sh.drv klmi5dycj4r15xp3p2a7w7p0j6d4ki1k-python3.9-setuptools-57.2.0.drv l89ydnv24l7bsc0pc1wqxcnhz0y72259-hook.drv sg45bz5y80mjfi73ylj5p8965b74ryz3-python3-3.9.10.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv x2ar8axikxqkfgsg1kh45cbhg356g27l-hook.drv
+CA: text:sha256:04adzabzcmcvkgfzamqaabzvzr583znhf4an1ysby2ri78dzlc42

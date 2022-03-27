@@ -1,9 +1,0 @@
-StorePath: /nix/store/ncpfz00lzx6xsm2pwg1vrwk57i91rbgp-nyx-1.9.7.drv
-URL: nar/11mmq7p68arcmg37699kzvgk293vlbcygh23kmw1ijpwfwk8zdfn.nar.xz
-Compression: xz
-FileHash: sha256:11mmq7p68arcmg37699kzvgk293vlbcygh23kmw1ijpwfwk8zdfn
-FileSize: 920
-NarHash: sha256:12fkaavyxrgk85zldqr57mgnryp78p7vwcpdhkzbh2n1g5rgf64f
-NarSize: 1888
-References: 626r3hairjac6g6x1kp8mwa0s41zzn50-openssl-1.1.1m.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv h4wa50cz274gwfvhw7h3zf5gqsa6l3an-source.drv md9xwnq03311nj7pssgmq769v1cyngjx-libyaml-0.2.5.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
-CA: text:sha256:167jndsagvrwjcy6f78m9301m2nvwq9sb8n46q05kbi8wy1zf53g

@@ -1,9 +1,0 @@
-StorePath: /nix/store/s4pz6a2s5di8gqxk17jwg7k6zr9ncs9k-pip-21.3.1-source.drv
-URL: nar/1bd62j3879lfxjqrd2b0vbk1nrdy6f2m55fbjrh0jx880fc5vxrn.nar.xz
-Compression: xz
-FileHash: sha256:1bd62j3879lfxjqrd2b0vbk1nrdy6f2m55fbjrh0jx880fc5vxrn
-FileSize: 1716
-NarHash: sha256:1d75qym0ic69j3mp640dmfqhj7j8hmjs95335hmpv1mhlk007l99
-NarSize: 3816
-References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 929m2iwcwvfs0dnx35llysf1srz0ax06-mirrors-list.drv adfihj8631q2zbnc0w79sx8q02wyjsxx-curl-7.81.0.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv p56gcvjh6vmcfzgsfqxkmjchpmkybcpp-unzip-6.0.drv
-CA: text:sha256:01xx6hwmzn2k0cfiw15fac9496wdnpvw55wlhvibfnqdi5fj2s50

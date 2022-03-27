@@ -1,0 +1,9 @@
+StorePath: /nix/store/7hvz5bp02bi4hcika46z88ih2avcw2f3-gtk-doc-1.33.2.drv
+URL: nar/149ggca516cqim8vvv0afn1cq5mrv3d36z6imq3h7bj8cj3m6v0a.nar.xz
+Compression: xz
+FileHash: sha256:149ggca516cqim8vvv0afn1cq5mrv3d36z6imq3h7bj8cj3m6v0a
+FileSize: 2184
+NarHash: sha256:1gwd6z0ck5a71ykfykh9n3imwxkrvbr0dcvyxjnq7zr7p71s363k
+NarSize: 5208
+References: 04j2vf2admpm5w088rz0bm7gpbqqmbdj-python-catch-conflicts-hook.drv 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 1r4v42a4vz9lambrnsbqr8d8lg4j9i31-python3.9-Pygments-2.11.2.drv 4xb6jndpizd9v5aybqxpc1c6mb9pdgdz-ninja-1.10.2.drv 4zljc0p7dgmi6rgvcfy8g8xxqidjcddb-gettext-0.21.drv 66pdjrv83zq0v3v0whhyz9z64knbmgka-python-imports-check-hook.sh.drv 73nz3l4qpa8mjmdw39nynfhkbmdf1s5a-respect-xml-catalog-files-var.patch 8d8yaf5ibv77sw5l3mwdcndxz9pz5nc8-libxslt-1.1.35.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh as7sn6amshcv6sb06vdag7ii67872cgc-python3.9-lxml-4.7.1.drv c6kzh9gpqvdk6lhlyzxwb4wpv24xpsyq-meson-0.60.3.drv c8zd30f4b7bpbcjaa03ndlagacq0jwkx-docbook-xml-4.3.drv cwzp8i0igczipl3ayf7dmaz7qcln4nv0-python-remove-tests-dir-hook.drv dq4zkwav64c8i02a6g118wd89wk2k3ks-python-remove-bin-bytecode-hook.drv hbx2m52afxqm723qfmm46bji31rq81gk-docbook-xsl-nons-1.79.2.drv i48kas1cakb6r8fml7cfcr9q59427cwj-python-namespaces-hook.sh.drv klmi5dycj4r15xp3p2a7w7p0j6d4ki1k-python3.9-setuptools-57.2.0.drv l89ydnv24l7bsc0pc1wqxcnhz0y72259-hook.drv rpx4aa5a6jwgaq2djcw9sp1nfd667p0g-pkg-config-wrapper-0.29.2.drv sg45bz5y80mjfi73ylj5p8965b74ryz3-python3-3.9.10.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vnzpckylk2ajgf5ic4vsmszs9f8j8mq0-source.drv x2ar8axikxqkfgsg1kh45cbhg356g27l-hook.drv
+CA: text:sha256:1jzm865bm62dzjaj5lzjzrl6dz2glmpxvbjhxlbrk5nl5ln1x2dr

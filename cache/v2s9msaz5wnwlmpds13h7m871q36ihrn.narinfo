@@ -1,0 +1,10 @@
+StorePath: /nix/store/v2s9msaz5wnwlmpds13h7m871q36ihrn-curl-7.81.0
+URL: nar/035245mmp29jckqq1l48yr4a65j3sivxd0kgaa76c8rq4d70h4iw.nar.xz
+Compression: xz
+FileHash: sha256:035245mmp29jckqq1l48yr4a65j3sivxd0kgaa76c8rq4d70h4iw
+FileSize: 232748
+NarHash: sha256:0m53qzimym4p77rifkx26gi2253444lf79qm07xjaqq8rd65h4v1
+NarSize: 593680
+References: 26lzma11jy6010898qkvdm1lwrp5alqm-brotli-1.0.9-lib 7n898x9lczm0mfqnbwdkniqf6hxpywgz-libkrb5-1.19.2 d2rcy1jhbb970h4i32mvi08504bgy89d-libssh2-1.10.0 d9xq00lhjmj75py7l15zgck7zzli1pv2-openssl-1.1.1n gn2b3jrih7v3hgimj47kkjmfr8pygj9n-nghttp2-1.43.0-lib l50mlgvl1hw77ysl3xikngnrq89mysd4-libidn2-2.3.2 mhcg2idj8gnw2fwdx4xi62kwpz7jkgxn-Libsystem-1238.60.2 mkw3da1mxjc7x64najag7gv8rdpiywk4-zstd-1.5.2 pll7kallqnbxhpjb6v0ql0kjndibwiyz-swift-corefoundation-unstable-2018-09-14 v2s9msaz5wnwlmpds13h7m871q36ihrn-curl-7.81.0 vs0vrl10kh4f1z0lvlc4sc082b7szhw8-zlib-1.2.11
+Deriver: 1wd5qsqrhlq6vwfy3dk26hnbxwqlkzrk-curl-7.81.0.drv
+Sig: cache.nixos.org-1:bsSUrJSwbpRoCunnhSKqBQ5ySQzZ4B3QsZKDEzXX+JhyMfOxnC5xVw520tyiRfxzWlQTt4o1hjLx6jjDACLFCg==

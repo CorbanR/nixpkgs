@@ -1,9 +1,0 @@
-StorePath: /nix/store/1yprv6bss3c7jpkn1i3pwyagaiznm0sp-rustc-nightly-x86_64-unknown-linux-gnu.tar.xz.drv
-URL: nar/16940qavxpvnh910qaf1gxgny0s2ymqqw40baxsiq4hj1kpjsja5.nar.xz
-Compression: xz
-FileHash: sha256:16940qavxpvnh910qaf1gxgny0s2ymqqw40baxsiq4hj1kpjsja5
-FileSize: 1300
-NarHash: sha256:0s3prcwsl8126zvgg6c3ibwfw40pz9ga98kqa8l0mf5s0683mhma
-NarSize: 2984
-References: 3x9fdcyjp5vigg75lyngfyxlydqpny6b-mirrors-list.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh fig6crk9q3pa8vvmx799k29iz4i0fkbj-curl-7.81.0.drv vy2lxr0rcly61wshr4vjgq5ji9k5zgpx-stdenv-linux.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
-CA: text:sha256:1i0bvh6vmxb9wph4hpap3s3shqr79l1izms1ir3m8zr5nan5l9kj

@@ -1,9 +1,0 @@
-StorePath: /nix/store/45fs8hhm6afg0m0p2d635zhjh608bqsj-gcc-wrapper-10.3.0.drv
-URL: nar/1ah3s46nfvzi3cy67xihyr4p1mrkcr4lqzrzcf0946qy7w9kns0a.nar.xz
-Compression: xz
-FileHash: sha256:1ah3s46nfvzi3cy67xihyr4p1mrkcr4lqzrzcf0946qy7w9kns0a
-FileSize: 2440
-NarHash: sha256:0kgd6c1q0nc1pkm51p83202bm19xavd803xvc6aw9qbmqv6rca4w
-NarSize: 7432
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 1mv585llg7blkbc55dhs9ksz9phcsp0s-gnugrep-3.7.drv 29mjzkai0jil6prs0nvhq07h47kfi490-add-flags.sh 2idjp2xdckqyrdk3hd8msp4cfdi6b8if-utils.bash 6jabq3799g5n8gmwip3277si8clkl4rw-cc-wrapper.sh 797k3249lr4rx8wslf7kcsa3hv6fis3x-role.bash 9g4r35k465xg4p02c5krbxqnwvihpmbx-binutils-wrapper-2.35.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dhnws69ndrdfdg2nlj9fisvgxph1qpsm-bootstrap-stage4-stdenv-linux.drv hc3z14jhqg35x5286hw5wmc3injg62fa-add-hardening.sh i8zlyark0k5ir63axsj534091izccbxq-coreutils-9.0.drv lhhf1s57afjxmvwxk7kvxvrf82y31jfw-gcc-10.3.0.drv nc4bvrgb8jxh4k1fq2zgzh4mmxqavp54-setup-hook.sh w07x2k4wi8xvmh2nyxvx50nw5pxaga6y-expand-response-params.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv x7lpb6zp4p7qvlk87vs4fkkm5d7jfdn1-glibc-2.33-108.drv
-CA: text:sha256:0w4sjb13f4hz3mjbhrs57x89sv46plisqn0qjlfwv6n8936gzkk7

@@ -1,0 +1,9 @@
+StorePath: /nix/store/bxx668805ibc7dp1ijzr8ym0igw691ja-hook.drv
+URL: nar/0m0rh3w1l1mdm5ah2mcprp98h65y071pqkl2qk2f8mjwzjj0l274.nar.xz
+Compression: xz
+FileHash: sha256:0m0rh3w1l1mdm5ah2mcprp98h65y071pqkl2qk2f8mjwzjj0l274
+FileSize: 1088
+NarHash: sha256:0gxyh8jwd3a3ra9x0f286vpmqgard7j2y7ssdrx0bvqq7dx9jgd5
+NarSize: 2360
+References: 49a1hvf3zjx9xbs6xnpq94x1sjxdah41-autoconf-2.71.drv 72zchcr5xf9zxwv3icm966gzbppqklf3-gettext-0.21.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9w401yzy1q2nh7zlbvgf2lffybmn2p2a-bootstrap-stage4-stdenv-darwin.drv ghdamd4hl6yi7jysh1x3436fj1v9yvjb-autoreconf.sh lg9fmlfdp11x704af4gaf0vdfv2f2slm-automake-1.16.5.drv mzisw4a2hly9aa25fgmsr9y1gww312vm-libtool-2.4.6.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv
+CA: text:sha256:0y989dlnkx3y05afbwlmbyn1qphnrl9k34kcg2a35hn9pkw7dsqv

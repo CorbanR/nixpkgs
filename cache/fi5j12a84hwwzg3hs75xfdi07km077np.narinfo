@@ -1,0 +1,9 @@
+StorePath: /nix/store/fi5j12a84hwwzg3hs75xfdi07km077np-llvm-11.1.0.drv
+URL: nar/0kq9h96ssnrn81k4s14f12y1831h1yyrr24fn787prli58nd6k7j.nar.xz
+Compression: xz
+FileHash: sha256:0kq9h96ssnrn81k4s14f12y1831h1yyrr24fn787prli58nd6k7j
+FileSize: 2932
+NarHash: sha256:14rhzr0f6n2rcfraj840vz3f9d502f6319h38gpbmvh9wdl5sx2y
+NarSize: 7048
+References: 5x70wg3gh95wcyb0k422w3jnsddk0dk1-ncurses-6.3.drv 6kdffczc753n2yhz5saq4p2a8ps2bx8z-zlib-1.2.11.drv 6wv8acdd7bm7npixgr3rk86mf55fj47c-llvm-config-link-static.patch 9006hhig7k7qkydz7730cr32jv46dyw3-python3-minimal-3.9.10.drv 9fd3xdcfv1dw93y99a18lw735fx8kvgy-gnu-install-dirs.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bg0x4942r0wk4s59a71c6pnq672h2f74-dfaemitter-gcc-12.patch.drv dfv4sns65w5rsx5mdi9b0f0hxwvl9a5l-libffi-3.4.2.drv h36vpsr6dflkxdjsjncv6014ik9rimgm-bootstrap-stage3-stdenv-darwin.drv i5ivwrqqwq1930mzlgm5c4gjqcvdirn8-llvm-11.1.0.src.tar.xz.drv i8gsp3vnvvy04whwc3a8llgxncjpbc7h-cmake-boot-3.22.2.drv k4pd22008hxrgz5r6wwmgridn5wvv08c-polly-11.1.0.src.tar.xz.drv ln3b55697rprmrhbzji8svs7y0rc6xh5-libxml2-2.9.13.drv paspihaxml111fqpcdqcad7lqc81hj28-b498303066a63a203d24f739b2d2e0e56dca70d1.patch.drv rlhzhkarwmxa75r0fwz4ikwksaaz43yn-nvptx-gcc-12.patch.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv z7l37i56h531rcay4hkv94b4jymnyaxj-uops-CMOV16rm-noreg.diff.drv
+CA: text:sha256:192scm9x2dbfyv5wz0bjhp8xrnhwsaskxvvwn2xp3ns19jkycin6

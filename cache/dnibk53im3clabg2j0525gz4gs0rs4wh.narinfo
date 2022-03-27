@@ -1,9 +1,0 @@
-StorePath: /nix/store/dnibk53im3clabg2j0525gz4gs0rs4wh-libxslt-1.1.34.tar.gz.drv
-URL: nar/0zsd1lyxkbp2b6dnqw1b95r244cbzx95wx9xr5nnqbkz02krphjp.nar.xz
-Compression: xz
-FileHash: sha256:0zsd1lyxkbp2b6dnqw1b95r244cbzx95wx9xr5nnqbkz02krphjp
-FileSize: 1372
-NarHash: sha256:0c3p7isc9lqj7ilnp4lb2mvg8xb1ii1snb07mvba1m2xvnpscwyn
-NarSize: 3144
-References: 3k58ixw4vkc622d89spyfgfsjz9rd8qk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh 929m2iwcwvfs0dnx35llysf1srz0ax06-mirrors-list.drv adfihj8631q2zbnc0w79sx8q02wyjsxx-curl-7.81.0.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv
-CA: text:sha256:0rm1605y29kv4mqvnv4fnjz8aj6fzr5qs95qlxgs7z6i1bwz1zqa

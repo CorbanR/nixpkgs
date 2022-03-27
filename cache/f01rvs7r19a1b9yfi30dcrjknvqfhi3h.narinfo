@@ -1,0 +1,9 @@
+StorePath: /nix/store/f01rvs7r19a1b9yfi30dcrjknvqfhi3h-cmake-boot-3.22.2.drv
+URL: nar/0ssrjzlldymswajbia7cp7w7sbvlax7rn19vxjl6vdx06bnk7gcw.nar.xz
+Compression: xz
+FileHash: sha256:0ssrjzlldymswajbia7cp7w7sbvlax7rn19vxjl6vdx06bnk7gcw
+FileSize: 1792
+NarHash: sha256:02ky6hkp1yf1n8i9bvw06pk7p8g020zsw4mq2lm4yrnr42mm43jn
+NarSize: 4480
+References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 7n2b0329xqvwrpqwk3vvlfp7s3vglpi3-application-services.patch 8ci16d92gw844rvacwysp3m4pqym0pqn-setup-hook.sh 9b83cd34na6lsksnfkfn5ks71pqbbqgd-clang-wrapper-11.1.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a0i0a09n86p92p1s8ic482ldv974q517-search-path.patch fy076b1llz4skf9rhripzr5nrgk0zwak-remove-systemconfiguration-dep.patch k7xxb1cq4pv4wpj5fiklsjxdsjsqx2mi-darwin-always-set-runtime-c-flag.patch kkg5j4v8gldny1sn7dil5h5pc0vymjcn-cctools-binutils-darwin-949.0.1.drv n1dm7vrqkdzf23kbz2cvylg2yaq2m4m7-Libsystem-1238.60.2.drv rpx4aa5a6jwgaq2djcw9sp1nfd667p0g-pkg-config-wrapper-0.29.2.drv scbgacx2m0h3f3nsp89hl4bz3lmxd0av-libuv-application-services.patch shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv v2xrpvjysrd4ga00vq8k397qcfvbdhs0-ps-adv_cmds-119.drv w8lxflw987m76iiz1rr93lb84zghqgkp-cmake-3.22.2.tar.gz.drv
+CA: text:sha256:000db484nxgc6ihbswl95hncpkn31xriplwyi0zssam5lw6cf05d

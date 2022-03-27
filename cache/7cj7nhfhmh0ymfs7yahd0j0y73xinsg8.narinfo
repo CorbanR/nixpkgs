@@ -1,9 +1,0 @@
-StorePath: /nix/store/7cj7nhfhmh0ymfs7yahd0j0y73xinsg8-ruby2.7.5-ttfunk-1.7.0.drv
-URL: nar/0b7p3m2chim9ic5nqdxasjbfn7z8fsjwi79kmgwz5kgv660vakjj.nar.xz
-Compression: xz
-FileHash: sha256:0b7p3m2chim9ic5nqdxasjbfn7z8fsjwi79kmgwz5kgv660vakjj
-FileSize: 2308
-NarHash: sha256:0fmdqddkw89ck2cfldjfcyqzslfrzhp58f639p6zvhh5h1qxqbc7
-NarSize: 5296
-References: 2v3c39d8prmk87ybxdapiwiffagrkxfm-ruby-2.7.5.drv 78licbxnx55irq8iffjwinvc43lxx236-ttfunk-1.7.0.gem.drv 7m8ch11z3c3npb96xdbvq22izh5k6609-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c246s04dv8izbfn06hx2invx1zlzvadv-objc4-709.1.drv kpy9d21iqkzlidpy5xrys4xmq5xq1994-bash-5.1-p12.drv qjj178v5f2afrzqkp6mvpzsyi1856mf3-gem-post-build.rb vgldcdj3iwzyx4zd0ql174k9kmvpp88b-hook.drv
-CA: text:sha256:01gn8856fzzswzq4ws9akljvz9r29jn4zn8lqfpa9v9rq3b2c34j

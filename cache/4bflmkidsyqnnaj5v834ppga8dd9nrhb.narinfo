@@ -1,0 +1,9 @@
+StorePath: /nix/store/4bflmkidsyqnnaj5v834ppga8dd9nrhb-go-1.17.7.drv
+URL: nar/1v9s15c9ajk6ijz9pqcfhdjzr1szbrf68ga6rbpjnw4zyk2y2f0y.nar.xz
+Compression: xz
+FileHash: sha256:1v9s15c9ajk6ijz9pqcfhdjzr1szbrf68ga6rbpjnw4zyk2y2f0y
+FileSize: 3656
+NarHash: sha256:1acmdzi3c636ghmpgzirm7f8z6049rvasan4awcd11960kgnjiww
+NarSize: 9200
+References: 1cwv8hmzzn9s9b7rcvpymk6z6gm0c64p-go_no_vendor_checks-1.16.patch 1wxnz5npl05sahb5iv5q4azg2rk59kz5-ssl-cert-file-1.16.patch 39bjxj20rygi2zlx6zscv38jxh2k7nkl-creds-test.patch 3kckp8ilny1ga7mjj5m7xrvcgc0g7m58-pcre-8.45.drv 4vqgx07v9xywvmgmdzk87561y734vm8n-skip-external-network-tests-1.16.patch 5qfjwbqfl1izssl5fmqrjlryp3axghjx-iana-etc-20211124.drv 92qy0wn9289a1id4c5byc2mqc6v6xas2-skip-cgo-tests-1.15.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a7gxwyx72761562xpn00ichw4zalvb5c-procps-3.3.16.drv amwcfcjv3bnmrfnfchhf8n60f93irkr9-skip-test-extra-files-on-386-1.14.patch bb1yc64b2c5pdnd2bgfzxccvzh0svz9f-go-1.9-skip-flaky-19608.patch bms7b11yddran3madfnfkarp0kaj1f1a-perl-5.34.0.drv csr89vvgvyw3dpfdzs98jp6f3kid5hni-glibc-2.33-117.drv ddg24v72gz6vk7h9lvq1baz30bq1r777-skip-chown-tests-1.16.patch fd7qxbzzcbp02xn1dwkd7pj22mcsx13l-go-1.9-skip-flaky-20072.patch hm2jzy93m5sl48alp2dhklz2b592dn9b-skip-nohup-tests.patch hsrag0lxh0l4f03nmy7sryzg8rp13wly-go1.17.7.src.tar.gz.drv hyif3rqf4kgbzbqkrv3bjspn0r8s5pl6-remove-test-pie-1.15.patch j433k8cw9jpxpvzc7avypyvnrannzjdb-go-bootstrap.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv nxdnih926j1x8qs44m4mr2rjffjnr22k-mailcap-2.1.53.drv pajkrygv8mn78p3majgkyfh85l1n20g1-pkg-config-wrapper-0.29.2.drv ssf8xvnaxnlfxr5llk97wyvrwbybswpa-nss-cacert-3.74.drv wc7fqjdk1bywbgwkr8ngb8qcipzyi44b-which-2.21.drv x06simin7m3dnmzhk6fj01xwqvnsj43m-patch-2.7.6.drv x48d0s4gns4jrck6qkwrpqn7nh9ygpx6-remove-tools-1.11.patch yjy7jqjfqs7xyr4am4ix3ia579yw2506-tzdata-2021e.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:1rn6m8b0gvsbr89yjp193kxfr75x5kz1glxf0yz656bly67b4564

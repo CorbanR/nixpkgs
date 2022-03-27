@@ -1,9 +1,0 @@
-StorePath: /nix/store/z291yij7vv7ssqjqp3ysd3jw4gxgjwyz-libbfd-2.35.2.drv
-URL: nar/15rjbf8zqcpwvcxnw51vg7vdjzxv10m25x9y0szq4gw8pfw11676.nar.xz
-Compression: xz
-FileHash: sha256:15rjbf8zqcpwvcxnw51vg7vdjzxv10m25x9y0szq4gw8pfw11676
-FileSize: 1744
-NarHash: sha256:0gcfx9lnpn2xl1i6cfb0l7zpp7kpaz0n8m5hmhaj0979y8f6szax
-NarSize: 4320
-References: 3msb1z97b8p2dc21fs4gv53fszaj1a5x-zlib-1.2.11.drv 3yp8kpj25p2xxb5s963xga4ckyj3fksl-CVE-2021-3487.patch 4hy7x8r4fmk1sf5gd8hk82yjcravjjc8-hook.drv 59l91nqac7bpcw1qpxy15jwia5cqsppy-CVE-2020-35448.patch 8v8kiz9bqj00h75az6d8kc9qcpxkm7pd-gold-Update-GNU_PROPERTY_X86_XXX-macros.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahgn5r9k4fx03amhihbjkdgjibqkn7m2-stdenv-linux.drv b58j9aazx80mqnr80lik965zcf2mllzm-libiberty-10.3.0.drv f2a7qcx82jhn4kr923zbbgrk2bl8yhsi-bfd-1-disable-subdir-doc.patch.drv i6xfpnz8wjig2862i69llbb6g4g2qigj-bison-3.8.2.drv im0jwjjl7lwmcrd6sj6xyk0xwx52nfnh-bfd-elf-Dont-read-non-existing-secondary-relocs.patch j4rcl8w7bnn2zpfvkbrc8r3dyrrk1389-gnu-config-2021-01-25.drv k1c8hak6hr69dpsr85176ayhxyy4b1yc-build-components-separately.patch pa83jbilxjpv5d4f62l3as4wg2fri7r7-always-search-rpath.patch s0qvm2vqx4841zmy7kxzlvr8l60x544j-binutils-2.35.2.tar.bz2.drv sa4zgv37g7r6wvgrl6w1shpf3j1k2bi6-CVE-2021-45078.patch sqbhaaayam0xw3a3164ks1vvbrdhl9vq-deterministic.patch w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv wilglaz00r3zpqy6j5awrzia446lzmk9-disambiguate-arm-targets.patch
-CA: text:sha256:0i53q21ayf29cr1pikf0rb3szyl87kj7jj3ixh8gqgjlg93xlvkd

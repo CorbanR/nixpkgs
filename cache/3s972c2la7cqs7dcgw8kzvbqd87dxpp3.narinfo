@@ -1,9 +1,0 @@
-StorePath: /nix/store/3s972c2la7cqs7dcgw8kzvbqd87dxpp3-perl-5.34.0.drv
-URL: nar/1f938qzg42z3iklmxkwc9hjijgx779l0di96b52y90xp46fsg165.nar.xz
-Compression: xz
-FileHash: sha256:1f938qzg42z3iklmxkwc9hjijgx779l0di96b52y90xp46fsg165
-FileSize: 1896
-NarHash: sha256:0hpfrigfpl2ihhx0mq6sk4zq26v7rj61ifdvzbp1d0llcz659fin
-NarSize: 4808
-References: 24r6hkkqb75pfg2189dfb8jjd796zs1z-bootstrap-stage1-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c4adhdrbcvaqgj94minph4qw8h0dghk7-perl-5.34.0.tar.gz.drv dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh fhaaark38hjfazyipjgyqxnichx5ikh2-bootstrap-stage0-clang.drv m5w5lacgcrfvz0hyr03gibwc7m9iwsvw-bootstrap-stage0-clang-wrapper-11.1.0.drv mb381gpm9k5wdl37l5ad5pp8w11qzhjg-no-sys-dirs-5.31.patch n315a3g9bcxlypqzbm36nzrrg40h6lcj-cpp-precomp.patch wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv x0ll5lnagy6lg7hgvqb26il3qnmsqisd-sw_vers.patch xhig8dhj284rqkipdgc2rir9m73vd4pc-bootstrap-stage0-Libsystem.drv
-CA: text:sha256:0diszqhwlp49fk5srx96rlppfra0ywfgk997k95p6gq5yik83bim

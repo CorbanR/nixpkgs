@@ -1,9 +1,0 @@
-StorePath: /nix/store/k5nli8l3camdklzxw661cxbna0xzgvkr-procps-ng-3.3.16.tar.xz.drv
-URL: nar/1rl0kfsz7krymx0pajn25pwarzxvh57iqddcna2q3yq83pc4mx4g.nar.xz
-Compression: xz
-FileHash: sha256:1rl0kfsz7krymx0pajn25pwarzxvh57iqddcna2q3yq83pc4mx4g
-FileSize: 1272
-NarHash: sha256:1nkjikjrbgbz3kcdarzgw1sjkhrdrr8840dnac82wd83mmka19d8
-NarSize: 2896
-References: 3x9fdcyjp5vigg75lyngfyxlydqpny6b-mirrors-list.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh fig6crk9q3pa8vvmx799k29iz4i0fkbj-curl-7.81.0.drv vy2lxr0rcly61wshr4vjgq5ji9k5zgpx-stdenv-linux.drv w5lqp055w04k3z4x7zk6570bx267w3h3-bash-5.1-p12.drv
-CA: text:sha256:03nrkb9n64w0hs4lcggwrsvcchgg86lllrwr5ry5bfn6aq8yfjn3
