@@ -25,7 +25,6 @@ let
     dart = callPackage ./pkgs/development/interpreters/dart {};
     goaccess = callPackage ./pkgs/tools/misc/goaccess {};
     hurl = callPackage ./pkgs/tools/networking/hurl { inherit (pkgs.darwin.apple_sdk.frameworks) Security; };
-    libpulsar = callPackage ./pkgs/development/libraries/libpulsar {};
     muss = callPackage ./pkgs/applications/virtualization/muss {};
     muss-dev = callPackage ./pkgs/applications/virtualization/muss/dev.nix {};
     rapture = callPackage ./pkgs/tools/security/rapture {};
