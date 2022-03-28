@@ -1,9 +1,0 @@
-StorePath: /nix/store/dcvrwf3f88mjcidrhabd6h60adjphya9-cargo-1.61.0-nightly-2022-03-27-x86_64-unknown-linux-gnu.drv
-URL: nar/08s1wvllzskpbn5fg6ynw1znby1h6la21bq9vm2lxzx3kl1fwm8j.nar.xz
-Compression: xz
-FileHash: sha256:08s1wvllzskpbn5fg6ynw1znby1h6la21bq9vm2lxzx3kl1fwm8j
-FileSize: 1408
-NarHash: sha256:0dp5h37bc1hbqyd0z697i01svi2vshbqww4lcv7r8dcssixafc6h
-NarSize: 3072
-References: 77diqr4120j8qfc0445gx2yjb7gc6wvk-auto-patchelf-hook.drv 84xdb8w9dfabgz24b7frv8r1bjzx2vp2-gnutar-1.34.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh fmbcpkrrhln9pkn2xr7a3n0v1dmirw5r-zlib-1.2.11.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv p1bnd7iyzgnqfyyw3ypd04xsz0vzi7ya-cargo-nightly-x86_64-unknown-linux-gnu.tar.xz.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:1g7hdayzyrp4kvplirsbsbdyh84zbkm40ykgk0qqv5bpfld6ycqi

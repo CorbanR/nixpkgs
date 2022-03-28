@@ -1,9 +1,0 @@
-StorePath: /nix/store/mjlzi0lsjzqsq2m5pszf5m8g2z2zrfg4-cargo-1.61.0-nightly-2022-03-27-x86_64-apple-darwin.drv
-URL: nar/01xw79kcywn46x07441wrjmalkirjgln328m7vifas6nyb3xl2ph.nar.xz
-Compression: xz
-FileHash: sha256:01xw79kcywn46x07441wrjmalkirjgln328m7vifas6nyb3xl2ph
-FileSize: 1436
-NarHash: sha256:06wkv9d1c83whvjp4ii3ckgc7pfi3c7v2n3rw3bnk2wcjvjq6fzk
-NarSize: 3168
-References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 6kdffczc753n2yhz5saq4p2a8ps2bx8z-zlib-1.2.11.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh kx1f44wny5z952jxmhqbm6l9xzs93f2q-gnutar-1.34.drv q61jp9vx2ww625rda98mip4wrqc5yrk5-cargo-nightly-x86_64-apple-darwin.tar.xz.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv
-CA: text:sha256:03i9ww28f2b2a7r798phyfmpjk3g6b4yri378d4ldcdg3vxc38xz

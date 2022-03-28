@@ -1,0 +1,9 @@
+StorePath: /nix/store/4z1hkn9xmcpd6lw6kmwh964cq67xra9v-goaccess-1.5.5.tar.gz.drv
+URL: nar/0gj9lh8sxg4abcw5ga63mpj8dl3wfbds45yiy35biw33pq1syvq9.nar.xz
+Compression: xz
+FileHash: sha256:0gj9lh8sxg4abcw5ga63mpj8dl3wfbds45yiy35biw33pq1syvq9
+FileSize: 1272
+NarHash: sha256:0m1j2mij5z4j358f9fn5agwksjklq7m0rpqk6q1fsc2iaxqwr7s9
+NarSize: 2904
+References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
+CA: text:sha256:16l7g7wvffpbqf2ynbs5vnnx04sglbhj4f31si0fgdr6ykj5149q
