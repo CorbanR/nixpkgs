@@ -1,12 +1,12 @@
 { stdenv, lib, fetchurl, pkgconfig, ncurses, glib, libmaxminddb }:
 
 stdenv.mkDerivation rec {
-  version = "1.4";
+  version = "1.5.5";
   pname = "goaccess";
 
   src = fetchurl {
     url = "https://tar.goaccess.io/goaccess-${version}.tar.gz";
-    sha256 = "1gkpjg39f3afdwm9128jqjsfap07p8s027czzlnxfmi5hpzvkyz8";
+    sha256 = "1rv94qsim7h88rpnkz20ak8gxglx159jvim0vynqlmi2p0ns3r7i";
   };
 
   configureFlags = [
