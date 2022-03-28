@@ -17,7 +17,7 @@
 
 rustPlatform.buildRustPackage rec {
   pname = "hurl";
-  version = "1.2.0";
+  version = "1.6.1";
 
   # for cargo test to work, there are some prequisites, that don't make sense in this context to install
   # see https://github.com/Orange-OpenSource/hurl/blob/master/.github/workflows/ci.yml#L27
@@ -35,10 +35,10 @@ rustPlatform.buildRustPackage rec {
     owner = "Orange-OpenSource";
     repo = pname;
     rev = version;
-    sha256 = "sha256-PM2n+eFoCMEKOHvx+ratdo0DYx3mP2ledntfko7EfkE=";
+    sha256 = "sha256-ud4ARpiyMcYwPKsLbeK4MMBLzkD/tecF1L1vWyYpKmY=";
   };
 
-  cargoHash = "sha256-z/DBygiYk2cZGmGG+g+KauKQe5kdZ2H9+Y3jOk19zSY=";
+  cargoHash = "sha256-tmHP7xwVce/hh8nX1LO/zwPIlDZkICPMlBjZjuv37xU=";
 
   nativeBuildInputs = [ asciidoctor installShellFiles pkgconfig bash python3 gzip coreutils-full ];
   buildInputs = [ libxml2 openssl curl  ] ++ lib.optionals stdenv.isDarwin [ Security ];
