@@ -2,17 +2,17 @@
 
 buildGoModule rec {
   pname = "muss";
-  version = "0.9";
+  version = "0.10";
 
   src = fetchFromGitHub {
     owner = "get-bridge";
     repo = "muss";
     rev = "v${version}";
-    sha256 = "11s4qvy2c9qdbfa57f4k4f3z7z6ml8apd2q8vn0bdd8cgkavh5v6";
+    sha256 = "1qp0c2l4s7mx3w9gx385l9wypswmwykp05kvx9kfq3s7a597bm44";
   };
 
   doCheck = false;
-  vendorSha256 = "01p79qwrj2kqwkc7bpljrilpb4aglxfl7ksnmj8mscscpl8as13y";
+  vendorSha256 = "sha256-+qTpEdMw5hb3Bm7zguk0WElSJpj1/MpybxOXQZO5P9o=";
 
   ldflags = ["-X github.com/get-bridge/muss/cmd.Version=${version}"];
   tags = ["netgo"];

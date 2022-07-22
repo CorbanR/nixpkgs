@@ -1,4 +1,4 @@
-{ stdenv, lib, fetchurl, writeTextFile, unzip, version ? "2.14.4" }:
+{ stdenv, lib, fetchurl, writeTextFile, unzip, version ? "2.17.6" }:
 
 let
   # Add a little helper script to start the dart language server
@@ -17,30 +17,30 @@ let
     dev_version = "dev";
 
   in {
-    "2.14.4-x86_64-darwin" = fetchurl {
+    "2.17.6-x86_64-darwin" = fetchurl {
       url = "${base}/${stable_version}/release/${version}/sdk/dartsdk-macos-x64-release.zip";
-      sha256 = "c900f6ccb62e2f7526f457d00be8fc296e7c2ce9c7653cf007b5a4db7fe9a9ae";
+      sha256 = "9b1881c4167bba76c6ac0f92bbdb777a9d2b89c62977a7e95c37e028ecb9fa62";
     };
-    "2.15.0-268.18.beta-x86_64-darwin" = fetchurl {
+    "2.18.0-271.2.beta-x86_64-darwin" = fetchurl {
       url = "${base}/${beta_version}/release/${version}/sdk/dartsdk-macos-x64-release.zip";
-      sha256 = "9431110ce02e6a9d45135098642590d04c423a7e6d16ca319945ffe7bd3ad530";
+      sha256 = "86397be283f91383e49abcd77b734b3e5349f21c50ab9c65a8098110e041d449";
     };
-    "2.16.0-21.0.dev-x86_64-darwin" = fetchurl {
+    "2.19.0-13.0.dev-x86_64-darwin" = fetchurl {
       url = "${base}/${dev_version}/release/${version}/sdk/dartsdk-macos-x64-release.zip";
-      sha256 = "414a4fe36bb7d1e9243fc7bda0e0094f7c53adbe1776467fdf70d9e8ee3882df";
+      sha256 = "44ace7f2a1b2cd5883e8b2d857e7f560a746c4b845887157252f746b2b5b2812";
     };
 
-    "2.14.4-aarch64-darwin" = fetchurl {
+    "2.17.6-aarch64-darwin" = fetchurl {
       url = "${base}/${stable_version}/release/${version}/sdk/dartsdk-macos-arm64-release.zip";
-      sha256 = "3abaf0c2d57e05c27c873aaa47b7d88e59c39d5fc78ae9894dfb880fa18945ea";
+      sha256 = "9c655ab17e1239dcd3ba56d8a9483ee298dc92eea305a46a10b2fccfc7e441f2";
     };
-    "2.15.0-268.18.beta-aarch64-darwin" = fetchurl {
+    "2.18.0-271.2.beta-aarch64-darwin" = fetchurl {
       url = "${base}/${beta_version}/release/${version}/sdk/dartsdk-macos-arm64-release.zip";
-      sha256 = "8e4dab94e8793e8d84d1b6fe9dac2807ee5ba80c3c34a25fc087cf0d981fcc85";
+      sha256 = "fe2251839fb616e30cf2fa2ef64cdbd6c43b68863bba7b328cc936df81635754";
     };
-    "2.16.0-21.0.dev-aarch64-darwin" = fetchurl {
+    "2.19.0-13.0.dev-aarch64-darwin" = fetchurl {
       url = "${base}/${dev_version}/release/${version}/sdk/dartsdk-macos-arm64-release.zip";
-      sha256 = "892485c932a89df76b0f448a778ac20ae02bc41a29bdf43b2cc09cca0b978d60";
+      sha256 = "c09ab59b88f2382d561419c1add62f083634d1cac55f5dd41541d6055b30d46f";
     };
   };
 
@@ -76,7 +76,7 @@ stdenv.mkDerivation {
       ''} > main.dart
     $out/bin/dart main.dart
 
-    $out/bin/dart compile exe main.dart -o hello && ./hello
+    #$out/bin/dart compile exe main.dart -o hello
   '';
 
   meta = {

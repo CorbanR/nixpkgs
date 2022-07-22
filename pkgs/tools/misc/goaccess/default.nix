@@ -1,27 +1,18 @@
 { stdenv, lib, fetchurl, pkgconfig, ncurses, glib, libmaxminddb }:
 
 stdenv.mkDerivation rec {
-  version = "1.5.5";
+  version = "1.6.2";
   pname = "goaccess";
 
   src = fetchurl {
     url = "https://tar.goaccess.io/goaccess-${version}.tar.gz";
-    sha256 = "1rv94qsim7h88rpnkz20ak8gxglx159jvim0vynqlmi2p0ns3r7i";
+    sha256 = "0635sw649is5awqbcd7hng05h1pl719r7lvbxvfd1gp21kp54cas";
   };
 
   configureFlags = [
     "--enable-geoip=mmdb"
     "--enable-utf8"
   ];
-
-  # Required for goaccess to build on OSX.
-  # Won't be required once goaccess cuts a new release
-  prePatch = if stdenv.hostPlatform.isDarwin
-  then ''
-    substituteInPlace src/parser.c \
-      --replace '#include <malloc.h>' ""
-  ''
-  else null;
 
   nativeBuildInputs = [ pkgconfig ];
   buildInputs = [

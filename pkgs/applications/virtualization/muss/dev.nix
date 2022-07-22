@@ -3,17 +3,17 @@
 buildGoModule rec {
   pname = "muss";
   #TODO add a script to automatically do this(prefetch and update from latest master)
-  version = "e94f1e61625a97de7bfb0c673578073087302b87";
+  version = "bf280d8e76a4ceec5219e0da5a9b89299ed3c7ef";
 
   src = fetchFromGitHub {
     owner = "get-bridge";
     repo = "muss";
     rev = "${version}";
-    sha256 = "11s4qvy2c9qdbfa57f4k4f3z7z6ml8apd2q8vn0bdd8cgkavh5v6";
+    sha256 = "1qp0c2l4s7mx3w9gx385l9wypswmwykp05kvx9kfq3s7a597bm44";
   };
 
   doCheck = false;
-  vendorSha256 = "01p79qwrj2kqwkc7bpljrilpb4aglxfl7ksnmj8mscscpl8as13y";
+  vendorSha256 = "sha256-+qTpEdMw5hb3Bm7zguk0WElSJpj1/MpybxOXQZO5P9o=";
 
   ldflags = ["-X github.com/get-bridge/muss/cmd.Version=${version}"];
   tags = ["netgo"];
