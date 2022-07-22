@@ -1,9 +1,0 @@
-StorePath: /nix/store/xdz2lwxf7whwyfdlxqdrm8azz60dzqi0-libxml2-2.9.13.drv
-URL: nar/08mg687r0ma5knca15a5prgwfl678cwr9fx6lc36fvjbhjn239dp.nar.xz
-Compression: xz
-FileHash: sha256:08mg687r0ma5knca15a5prgwfl678cwr9fx6lc36fvjbhjn239dp
-FileSize: 1604
-NarHash: sha256:0pxb425kwz29dh76fszsyl2v7189209f8g4x3lz8w1y8aa1zmjiy
-NarSize: 3840
-References: 5cnb9vkjy5bc6xgrsrg1lwd7vr6qs8av-libxml2-2.9.13.tar.xz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh fmbcpkrrhln9pkn2xr7a3n0v1dmirw5r-zlib-1.2.11.drv frr6f2hq56j6b4wc0bsklaqskjsagqc0-utf8-xmlErrorFuncHandler.patch g81lvx2qblr8l6pvaj5zaw7nb37xrclp-hook.drv j379inyzai6zfbwjkb1kj38znmxlssd7-python3-3.9.10.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv kfgr61wrkqrccvrb6p4x6w63qzllhh7b-hook.drv p1rnlrl6q19bg6njxzf7hnyj4dhzm50h-ncurses-6.3.drv pajkrygv8mn78p3majgkyfh85l1n20g1-pkg-config-wrapper-0.29.2.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:1p4zjf8inb5cprc8hch7ynk88d1nz2d3gc6dsfnilvxqcjqci388

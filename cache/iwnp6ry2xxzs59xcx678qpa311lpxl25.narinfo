@@ -1,0 +1,9 @@
+StorePath: /nix/store/iwnp6ry2xxzs59xcx678qpa311lpxl25-perl-5.34.1.drv
+URL: nar/0ls393vwhl6ssr81vardfr8hij5adly6yni7ljzmn5nrig7pgi7z.nar.xz
+Compression: xz
+FileHash: sha256:0ls393vwhl6ssr81vardfr8hij5adly6yni7ljzmn5nrig7pgi7z
+FileSize: 2168
+NarHash: sha256:045chkn13l06msjpf8qb07ildf69m5zmlf96a45qxkb287iqspzy
+NarSize: 5224
+References: 8hyxacv0ld8m8jkxpdvwkmdj7v2ga1z7-clang-wrapper-11.1.0.drv 90kkyylc8lngl6fj7ldnil099xad71gd-bootstrap-stage4-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bayd42ivsbmq81zzhq96dysc1pwglsw6-perl-5.34.1.tar.gz.drv c47siaa8l6c2b0pibh7359asxi1y8i2p-clang-11.1.0.drv dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh mb381gpm9k5wdl37l5ad5pp8w11qzhjg-no-sys-dirs-5.31.patch n315a3g9bcxlypqzbm36nzrrg40h6lcj-cpp-precomp.patch nbzhc64yd1b9vp16am2rm4ly88cs3n3m-Libsystem-1238.60.2.drv x0ll5lnagy6lg7hgvqb26il3qnmsqisd-sw_vers.patch x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv yg9cplf13bk7j9dqjym1dpc0qgrpy5hr-zlib-1.2.12.drv
+CA: text:sha256:1rxislq22j605by7psrbrn0vgwax6dvfhf8cimbjcczcgw9a84f1

@@ -1,9 +1,0 @@
-StorePath: /nix/store/31yvybhf884frfppqqln5p4ya8h4nim2-ruby-2.7.5.tar.gz.drv
-URL: nar/0896zlwcd2d7j702sgzfr90hvsy0kkqbkrfwfla6qvbj3d2gyq4q.nar.xz
-Compression: xz
-FileHash: sha256:0896zlwcd2d7j702sgzfr90hvsy0kkqbkrfwfla6qvbj3d2gyq4q
-FileSize: 1392
-NarHash: sha256:0l73ak9iiwkx6x224vwbampq8naiskqbs38sp03gz15qy0iym998
-NarSize: 3168
-References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
-CA: text:sha256:1b07jabmj7s6ffdxxilcm5qwbyim9y25y57dlg2hwzmq79fvsxkz

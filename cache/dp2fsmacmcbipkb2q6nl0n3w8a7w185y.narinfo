@@ -1,0 +1,9 @@
+StorePath: /nix/store/dp2fsmacmcbipkb2q6nl0n3w8a7w185y-fix-mac-mojave-crashes.patch.drv
+URL: nar/0r4gsncppqdqw7r1rzvgg972d385sm83w3hq333cs8rab2gw1igi.nar.xz
+Compression: xz
+FileHash: sha256:0r4gsncppqdqw7r1rzvgg972d385sm83w3hq333cs8rab2gw1igi
+FileSize: 1880
+NarHash: sha256:126ga2skq7lz95wcf0716l6p9b4zbimisw4y3lhyfdvzi5h2zcyc
+NarSize: 4520
+References: 788wc4ldndpzc9bsl3qyjbqmfs3474sg-curl-7.84.0.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv cw1yldm003f2vmcvnqh9vwn8hphnyd0l-patchutils-0.3.3.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh njy0fp2wb9r6dm9blgckx8p8r3qmpv5l-mirrors-list.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:1jwmkbx2c047x67ly3w8slnld19qvs26ivwcm6wiqa07i24mans4

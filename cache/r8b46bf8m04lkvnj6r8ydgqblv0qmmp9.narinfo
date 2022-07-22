@@ -1,0 +1,9 @@
+StorePath: /nix/store/r8b46bf8m04lkvnj6r8ydgqblv0qmmp9-perl-5.34.1.drv
+URL: nar/14l02dsldy2vy6ni9qrdr66nl0hb2g08hnmg8hxz2k1xkwr1k3ij.nar.xz
+Compression: xz
+FileHash: sha256:14l02dsldy2vy6ni9qrdr66nl0hb2g08hnmg8hxz2k1xkwr1k3ij
+FileSize: 1964
+NarHash: sha256:0j4h7jg0l9jzi8hsha4paslcmmxv2bklfwa8x26bpmnjcw11nsw3
+NarSize: 4600
+References: 06xps7mamhq7adn8s5kbr84pc8ncx9nv-zlib-1.2.12.drv 5l83a6hndx8yxajn90b1x1cs13bqd0kz-gcc-11.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a8kc2kcbwvxaavirrclfxdhx3ci1q7fp-perl-5.34.1.tar.gz.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh h4x5l3x424fb3vp8892ppnv89jzj8ypi-gcc-wrapper-11.3.0.drv ksp0ph556jzkgq7z9v8c6ydmf4xclad0-glibc-2.34-210.drv mb381gpm9k5wdl37l5ad5pp8w11qzhjg-no-sys-dirs-5.31.patch pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv
+CA: text:sha256:18bq1vc8j9sbdsqw7krw2xa8s5dzn764ww5iaf0b7b08wz9r8m17

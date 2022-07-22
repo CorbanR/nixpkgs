@@ -1,9 +1,0 @@
-StorePath: /nix/store/khfqvg01xc0mxl2lwhbnlakl6l74rx5d-asciidoctor-2.0.17.drv
-URL: nar/0pd76llwyk3b8vwqvj5xsvylsndxwymlsx4vz8m5q9p4sbxnball.nar.xz
-Compression: xz
-FileHash: sha256:0pd76llwyk3b8vwqvj5xsvylsndxwymlsx4vz8m5q9p4sbxnball
-FileSize: 900
-NarHash: sha256:0x6bx8fm2llfirhrs4fl5wfi8bmnz3wqzmrgdrhfcs23ffjr0qwx
-NarSize: 2104
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dh5sjqyqx050cc23sdaa7rhpvva2lj33-asciidoctor-2.0.17.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:0h1ihg6gms3qr27fkw7znbdrkjb2dh257y63l378xbyfzc5bf096

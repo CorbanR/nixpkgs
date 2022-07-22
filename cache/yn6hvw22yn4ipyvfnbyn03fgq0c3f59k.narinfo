@@ -1,9 +1,0 @@
-StorePath: /nix/store/yn6hvw22yn4ipyvfnbyn03fgq0c3f59k-sharutils-4.15.2.drv
-URL: nar/0z74mqj97dd0aj7m2bvv514x98bhv895fp8nn6akqs5zcxf68g1b.nar.xz
-Compression: xz
-FileHash: sha256:0z74mqj97dd0aj7m2bvv514x98bhv895fp8nn6akqs5zcxf68g1b
-FileSize: 1416
-NarHash: sha256:0crh4via3z1yv4cg279v9j8f2brr0aynimy44ymma6faba4463k3
-NarSize: 3168
-References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 4zljc0p7dgmi6rgvcfy8g8xxqidjcddb-gettext-0.21.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh d0928lxp39fv7cm9pkp5vxk1gqbb413m-02-fix-ftbfs-with-glibc-2.28.patch.drv da4b0b6vx1vpvq5xr130sp23z0sm2r6p-coreutils-9.0.drv k8im3nsqpw3nkhsxxsnf23rlh489cjay-sharutils-4.15.2-Fix-building-with-GCC-10.patch.drv l0ky51p2564rjqn8iisg2vl6jxbrf494-sharutils-4.15.2-Do-not-include-lib-md5.c-into-src-shar.c.patch.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vk850g1n843djpdili3cra755cmzgy3m-01-fix-heap-buffer-overflow-cve-2018-1000097.patch.drv zyf9brz2qcswl54rmcpc41bvnhzcrblz-sharutils-4.15.2.tar.xz.drv
-CA: text:sha256:1z9g08mg2ir9pwzpk8gzn3fv0ajwmfx6xhcgi3j73561fbbvvc47

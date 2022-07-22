@@ -1,9 +1,0 @@
-StorePath: /nix/store/k86ckx6wimngzvz18hba2rfwyip0fxlx-rust-1.57.0-x86_64-apple-darwin.tar.gz.drv
-URL: nar/1icvdxlcgvw7qs8a3cylpj2jyz5ccpc0m3k2wp8a7sj5gg03q5b9.nar.xz
-Compression: xz
-FileHash: sha256:1icvdxlcgvw7qs8a3cylpj2jyz5ccpc0m3k2wp8a7sj5gg03q5b9
-FileSize: 1356
-NarHash: sha256:189qpx5a7przzrx47xi6xq6ics1zz07zgd1whq7d9kvan38f9z3q
-NarSize: 3256
-References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
-CA: text:sha256:17mf0v3li9jgniz2ra1z17n8jsw4yz2in0vhgfff23wdp8qcmmrm

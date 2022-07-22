@@ -1,0 +1,9 @@
+StorePath: /nix/store/m079w91yzxjxzmixrsm38skqpr9lrngw-openssl-1.1.1q.drv
+URL: nar/1fnj8wva8d5asq5yx38x0x8jjhw6acwi83prkz7v6w2yvja6gmh5.nar.xz
+Compression: xz
+FileHash: sha256:1fnj8wva8d5asq5yx38x0x8jjhw6acwi83prkz7v6w2yvja6gmh5
+FileSize: 1660
+NarHash: sha256:1avlp9faypclsvxbp3kaydk8bvb7vg231mc7m2jwav72syhcflgj
+NarSize: 4192
+References: 3xk9ps0qz073k641b88swpa4fgx3hzwg-nix-ssl-cert-file.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ikmqczy0y20n04a2b8qfflzwihv8139g-separate-debug-info.sh lzmcfv2m4ripknpvbsv8wcg1ik1kif4h-use-etc-ssl-certs.patch nxkyb3kirz883p8iy84k81w6ybm10f71-openssl-1.1.1q.tar.gz.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv r8b46bf8m04lkvnj6r8ydgqblv0qmmp9-perl-5.34.1.drv yzn1a0zmrbh2fdhjwrgdjxvil7mxiwms-coreutils-9.1.drv
+CA: text:sha256:0w6i9hads1gaj1lbis9s96bkmkr5pk4hk7grwlcw3bar55vx8n5g

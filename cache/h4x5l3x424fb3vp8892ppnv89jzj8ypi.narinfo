@@ -1,0 +1,9 @@
+StorePath: /nix/store/h4x5l3x424fb3vp8892ppnv89jzj8ypi-gcc-wrapper-11.3.0.drv
+URL: nar/0qjy6clwkmbyxrd6k9pbcywd53d5cjcjc87hnlhv0mkwf8fxqhbc.nar.xz
+Compression: xz
+FileHash: sha256:0qjy6clwkmbyxrd6k9pbcywd53d5cjcjc87hnlhv0mkwf8fxqhbc
+FileSize: 2472
+NarHash: sha256:1v0jd69rsghgbr5vxjk7sh8niqf4dppdqgf37cfv7z73mbcs5x0p
+NarSize: 7520
+References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 2idjp2xdckqyrdk3hd8msp4cfdi6b8if-utils.bash 5l83a6hndx8yxajn90b1x1cs13bqd0kz-gcc-11.3.0.drv 797k3249lr4rx8wslf7kcsa3hv6fis3x-role.bash 7ma6s2x6f277q4cld6fbb6yqf1f3jvhm-gnugrep-3.7.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv fgmsjrwmsfz3dzn4zp6ixhmxwsqniq19-bootstrap-stage4-stdenv-linux.drv hc3z14jhqg35x5286hw5wmc3injg62fa-add-hardening.sh ji2yrl1na00bwav65hh1vr0nc0s1xzvz-add-flags.sh k1b6qqacl0g25lg0h5z5gk97ih36j4kp-cc-wrapper.sh ksp0ph556jzkgq7z9v8c6ydmf4xclad0-glibc-2.34-210.drv mlx1ljbk4sfg178bgf2jl52inmwf16np-expand-response-params.drv nc4bvrgb8jxh4k1fq2zgzh4mmxqavp54-setup-hook.sh yzn1a0zmrbh2fdhjwrgdjxvil7mxiwms-coreutils-9.1.drv zrmw0799f0yv2m6m18y7zqvgmjj946vx-binutils-wrapper-2.38.drv
+CA: text:sha256:14jc6admkrq0spg43zrfrfg8z808rngxh1nnzb2jrfpn4j1damzc

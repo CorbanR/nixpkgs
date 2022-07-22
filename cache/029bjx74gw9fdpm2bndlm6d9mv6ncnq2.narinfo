@@ -1,0 +1,9 @@
+StorePath: /nix/store/029bjx74gw9fdpm2bndlm6d9mv6ncnq2-apple-lib-xpc.drv
+URL: nar/06ks8id11yjgjn05mq5pdsyv0hpdi5w4qnr7sly4m5wi66sqv3zy.nar.xz
+Compression: xz
+FileHash: sha256:06ks8id11yjgjn05mq5pdsyv0hpdi5w4qnr7sly4m5wi66sqv3zy
+FileSize: 880
+NarHash: sha256:1r4a5nrqxqq9ayn1kih8bw7l1m75pyqwwjnwghrjs2kr1kdq27ff
+NarSize: 1984
+References: 5qcw9i77p93vv00gzgsgf31f62daiic5-MacOSX-SDK-11.0.0.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:0f2bcidzf0bn4wx351w3jwrwic5f1xynjggvq9j55rxmvkhc5hym

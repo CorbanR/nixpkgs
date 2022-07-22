@@ -1,9 +1,0 @@
-StorePath: /nix/store/jci57y23nh1rlbsxfrfmd1i7mgkgd5c8-compiler-rt-libc-11.1.0.drv
-URL: nar/1rr8xjg8hxpkca2bd1hv9kwg9nah2psq95pn65i023x9sgg4yl75.nar.xz
-Compression: xz
-FileHash: sha256:1rr8xjg8hxpkca2bd1hv9kwg9nah2psq95pn65i023x9sgg4yl75
-FileSize: 1360
-NarHash: sha256:029p4mavcxmnm78v96fmvkhk116bdvxams5g7gb4ppvbvhkdcmzi
-NarSize: 3208
-References: 3ic95d8vv23cdj4vq7634zh5zcdsda1p-normalize-var.patch 3m53ki7pr92hacq8mghsldg1wc4wrifm-codesign.patch 5jijaaapbvvbwq22p5iv8viays5cc30n-llvm-11.1.0.drv 706qcmh667cmjwffc4vbjs9c745c7hs0-gnu-install-dirs.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a7cvg5pgmf6xyy3fjn33qwc997d1hs50-compiler-rt-11.1.0.src.tar.xz.drv h9sxbg5wm1ilkwb3dqxyc0dvdyp9afp7-cmake-3.22.2.drv j379inyzai6zfbwjkb1kj38znmxlssd7-python3-3.9.10.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv y87vwjq5v1fi0d077xqrsnkqrax3p4iz-libsanitizer-no-cyclades-11.patch ylv0v02l6panidz2hkh756fz363yc68h-X86-support-extension.patch yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:1jr865fvdxwj07akc11zn9k036ygjynwk5l3987i0ym9sbxyfl1z

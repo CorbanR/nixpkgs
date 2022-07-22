@@ -1,0 +1,9 @@
+StorePath: /nix/store/kpf1jxx5739xxzf25gq9jy90ajr6v6vl-xar-1.6.1.drv
+URL: nar/1iih0jspawcmizf558ml5shnj7bc1l39mb287vmakjnqq8kp569f.nar.xz
+Compression: xz
+FileHash: sha256:1iih0jspawcmizf558ml5shnj7bc1l39mb287vmakjnqq8kp569f
+FileSize: 1460
+NarHash: sha256:0q8j4f5ypp0w32rqc5d8252013ry3nzliyfqyrazipdbfk749wkf
+NarSize: 3208
+References: 3jjd65b6nyg7g30ixszjcsgb08j5mmhn-0001-Add-useless-descriptions-to-AC_DEFINE.patch 81jjl4kk878wp3dcbz4cnc6g2crlyjdh-bzip2-1.0.6.0.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cskw6k91k3hh5x9bnsbm0kcqrflmhpx0-hook.drv dc6xix3pqm5ak2rkxmxmb3nrqnkvsm6q-openssl-1.1.1q.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv iizs3xazwcp7pb1h01ddsyhpf075r8w7-xz-5.2.5.drv j3frsgc0zsrg2pg7w9pqmxjh6qd01aqs-0002-Use-pkg-config-for-libxml2.patch lcs76jhnlfzg73xbr7gs98dan69qf3gj-pkg-config-wrapper-0.29.2.drv lzxggd145l3359bd6byzfq2iwn463dfd-libxml2-2.9.14.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv y896zms0dy46xrh7ij56qm9990aggq30-xar-1.6.1.tar.gz.drv yg9cplf13bk7j9dqjym1dpc0qgrpy5hr-zlib-1.2.12.drv
+CA: text:sha256:19f3aaad3hy8w5hq1ls9hcflklk5pv66zrq1cvhj542nmw6qg2wi

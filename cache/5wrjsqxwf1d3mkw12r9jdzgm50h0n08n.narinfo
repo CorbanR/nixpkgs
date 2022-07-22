@@ -1,9 +1,0 @@
-StorePath: /nix/store/5wrjsqxwf1d3mkw12r9jdzgm50h0n08n-texinfo-6.8.tar.xz.drv
-URL: nar/1cbs8sv5dh1g1h1ncm7lcbxhcpq7pi9q82j8sa9ppjphjcdnpwrb.nar.xz
-Compression: xz
-FileHash: sha256:1cbs8sv5dh1g1h1ncm7lcbxhcpq7pi9q82j8sa9ppjphjcdnpwrb
-FileSize: 1316
-NarHash: sha256:1rqxy500v4fvj0fcsrfbaxq1vdqzafzvk548s6w6841w30hr531z
-NarSize: 3120
-References: 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh k4dvpgs2zazzjj71758bpxwmp4p1sngn-bootstrap-stage0-stdenv-darwin.drv sr5myml5avflk9yxr7l4swy4j6qzy5b4-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:0zl9d6c4rcxn4db2slcwbp9wrjcpw2b6w9jvilil941hmblcmg81

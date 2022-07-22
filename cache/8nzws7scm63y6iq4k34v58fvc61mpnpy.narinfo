@@ -1,9 +1,0 @@
-StorePath: /nix/store/8nzws7scm63y6iq4k34v58fvc61mpnpy-kmod-29.drv
-URL: nar/0rhjr2wzz4fv2p9f0hsyr3snsflvfxxdgnq6ar6mhw6rpa2805kf.nar.xz
-Compression: xz
-FileHash: sha256:0rhjr2wzz4fv2p9f0hsyr3snsflvfxxdgnq6ar6mhw6rpa2805kf
-FileSize: 1220
-NarHash: sha256:1smn8z6s4kq2z9ncha8d609if8qbn1fwhf8mzvfac4wql13ws1p0
-NarSize: 2560
-References: 3200321cvlxq2ra0lv4p61dnnbn1z8lf-kmod-29.tar.xz.drv 8dgi0ync70pgdcp2x1z85f7aqiak2651-xz-5.2.5.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh apjnlzszs0cwp3rg6jmykynrsjcyg0mm-libxslt-1.1.35.drv i4q069m3d29gi7dw1ijhjrp4hxw1c2l4-module-dir.patch k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv kfgr61wrkqrccvrb6p4x6w63qzllhh7b-hook.drv pajkrygv8mn78p3majgkyfh85l1n20g1-pkg-config-wrapper-0.29.2.drv xlbkbij8iaxwc4i4lbf1hbgbfy5vaja8-zstd-1.5.2.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:0dmdz0qj5hpkag76wsj1yjsbmb7yzpk2wm04hg0028i0kh8crm1d

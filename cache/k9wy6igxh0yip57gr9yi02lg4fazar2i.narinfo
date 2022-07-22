@@ -1,9 +1,0 @@
-StorePath: /nix/store/k9wy6igxh0yip57gr9yi02lg4fazar2i-python3.9-tomli-1.2.2.drv
-URL: nar/1hhjjhgpah9p1a2f7hc25yc2ivk699b4k2zycm8bm70jsswh53f5.nar.xz
-Compression: xz
-FileHash: sha256:1hhjjhgpah9p1a2f7hc25yc2ivk699b4k2zycm8bm70jsswh53f5
-FileSize: 1644
-NarHash: sha256:0p72724yw3gb4z70w32sixycys4l8yyfyd69gjm52lm2a6iiyh20
-NarSize: 3848
-References: 0s6xbf1byga4cgmxd8r3b9bj5hxar0xb-python-imports-check-hook.sh.drv 18qy44cb871wngnz0fmim7121y0ipzbc-python-remove-bin-bytecode-hook.drv 1hr7y7jwgq35qrrlszys141n1ygis21c-hook.drv 4ih8dvx7wgx2s89yz2zwnnhkqh3f2xkm-python-namespaces-hook.sh.drv 6wprwrjrrxnqfpab3cgjc5cgm247pwla-fix-backwards-compatibility-load.patch 7d2w02zh3vfr4nyscn04hgf527s6qn88-python-catch-conflicts-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b4k0fv4h2rv4s6kfr5hgpa81kj64gavm-python-remove-tests-dir-hook.drv bnr80iv3i88rnh9n2gcmqhwxf39n8v45-pip-install-hook.drv cpq425sgdh076n7lhvl4fm2siw85px1i-python3.9-flit-core-3.6.0.drv j379inyzai6zfbwjkb1kj38znmxlssd7-python3-3.9.10.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv myyaaxgycd8mvfjvwd2l3wsjw41bci9r-hook.drv ns518dwhx817f7lp853cxz3il601kb0q-source.drv r88qva68b49w675cs6f1hf8qa5m6799p-pip-build-hook.sh.drv wkf9fmqdyb1pf0by5ifrw323i1abdwjc-python3.9-setuptools-57.2.0.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:0l8f765ma3shdlkbpgsf1wq42b8z7lrqda9mxgd5vx8hf9xwzx6r

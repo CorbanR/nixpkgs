@@ -1,9 +1,0 @@
-StorePath: /nix/store/kjnrz8x895jbpwyd9kb5vixrf8w06z1l-sysconf-argmax-sanity.patch.drv
-URL: nar/01zyxgx4zrpp2v1mwhr7crhn9q0r39c5c2ldiqbbyc6ly7f2dmli.nar.xz
-Compression: xz
-FileHash: sha256:01zyxgx4zrpp2v1mwhr7crhn9q0r39c5c2ldiqbbyc6ly7f2dmli
-FileSize: 1868
-NarHash: sha256:0ad51ra0iw30wszgdh3x7wwhwq3bkb73bbavynyrb1hhidwiqdsx
-NarSize: 4448
-References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh bss4vbfks8359mn34d70191i9gs8jxds-patchutils-0.3.3.drv sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
-CA: text:sha256:0a99b9nsgk4l1m3ypd17lxwrgclbc9gzzns54wzl9w1a6335zsal

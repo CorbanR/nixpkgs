@@ -1,0 +1,9 @@
+StorePath: /nix/store/wjxaxkh3mymrhwrafwixalw913pz33b6-rust-std-nightly-x86_64-apple-darwin.tar.xz.drv
+URL: nar/0yl899gj2nbk2zm1zmbc8xvyc4ypmzk76f92z2rm702abvv2f8jk.nar.xz
+Compression: xz
+FileHash: sha256:0yl899gj2nbk2zm1zmbc8xvyc4ypmzk76f92z2rm702abvv2f8jk
+FileSize: 1424
+NarHash: sha256:0zdslbcnpbk6kzkwx4c08a2rplp406r2x9wwfljw3n1j37q4bvv2
+NarSize: 3336
+References: 788wc4ldndpzc9bsl3qyjbqmfs3474sg-curl-7.84.0.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh njy0fp2wb9r6dm9blgckx8p8r3qmpv5l-mirrors-list.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:1s2x39jw674g0zrv7asfx2bl0ja0yj95c9wpjzkyg715pfrrkv6p

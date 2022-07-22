@@ -1,0 +1,9 @@
+StorePath: /nix/store/wcrair462lb604fcscfx6nbr43h5bbz6-iana-etc-20220520.drv
+URL: nar/01sb6an2hcls32233zpkg3as4p15n93m9b59gcsfm86s7wqakiiv.nar.xz
+Compression: xz
+FileHash: sha256:01sb6an2hcls32233zpkg3as4p15n93m9b59gcsfm86s7wqakiiv
+FileSize: 908
+NarHash: sha256:19r8h8hsbg4pbf87zzi1xgbj3ga564rv93lihazd95k6dwdvlisd
+NarSize: 1968
+References: 8b1v0ks5qhw78v965b36w6w157vs8yc0-setup-hook.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh jsysc1vmzvgk703kfc3cj65pgajsan7v-source.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:13vag0amgx9kd8bv9sh9z7rf6i5bcymgrhd6m4xj36sadldk5jix

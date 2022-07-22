@@ -1,0 +1,9 @@
+StorePath: /nix/store/s73ih38wjz5nr4m31ma6dnvbfqrgcjmm-bfd-1-disable-subdir-doc.patch.drv
+URL: nar/1k7dk1c4fwjiw16cdbz70ikldqx2s6i2zkvc4wlxkclinwq0gg2x.nar.xz
+Compression: xz
+FileHash: sha256:1k7dk1c4fwjiw16cdbz70ikldqx2s6i2zkvc4wlxkclinwq0gg2x
+FileSize: 1784
+NarHash: sha256:01jrqncvk9l0h66cw23bgwcppz1hjabash6bxvcq3cbmsi5979g9
+NarSize: 4288
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv c1xqznsxbginlncsn7mq784r3q92vmqv-patchutils-0.3.3.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
+CA: text:sha256:1zya7jakncldx69zwhdcrhmvwgwjfyqchii6zl9wr1f35x0ia0qx

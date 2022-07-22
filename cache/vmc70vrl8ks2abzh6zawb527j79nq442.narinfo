@@ -1,9 +1,0 @@
-StorePath: /nix/store/vmc70vrl8ks2abzh6zawb527j79nq442-CGI-4.51.tar.gz.drv
-URL: nar/0p55xf64gcq54hja1lr67vz2kk2a7gd6jhg9ifj2dpbk06p0csj1.nar.xz
-Compression: xz
-FileHash: sha256:0p55xf64gcq54hja1lr67vz2kk2a7gd6jhg9ifj2dpbk06p0csj1
-FileSize: 1280
-NarHash: sha256:065xh7ij9hv4ssqp638ip2200r3sx9p3l47qxa77x223k48rpnh1
-NarSize: 2888
-References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:1ficjgizafawv5xlsggkqfmwnkkiq1lpyxxbmxgvnjvl76bh9hj2

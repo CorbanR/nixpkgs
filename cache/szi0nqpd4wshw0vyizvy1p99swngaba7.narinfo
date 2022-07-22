@@ -1,0 +1,9 @@
+StorePath: /nix/store/szi0nqpd4wshw0vyizvy1p99swngaba7-perl-5.34.1.drv
+URL: nar/0vic6ibinfmlq3n4qlidd3xi1hxn9hi9idn9gn0wp7vjh9pqb6n0.nar.xz
+Compression: xz
+FileHash: sha256:0vic6ibinfmlq3n4qlidd3xi1hxn9hi9idn9gn0wp7vjh9pqb6n0
+FileSize: 2160
+NarHash: sha256:0i05aaqgam8nanl8j4psyfzpf71rflm76l923izlz1qbh0sn9h3s
+NarSize: 5336
+References: 5ghdlxgkqsrp1nlcxzbcpvqi37d87m83-bootstrap-stage1-stdenv-darwin.drv 5p6l7k80vkqqnnbha12w4gl1n8b92j83-bootstrap-stage0-clang.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9l0a9x27909spsz9jb5rrjn6r5rjd5vg-zlib-1.2.12.drv bayd42ivsbmq81zzhq96dysc1pwglsw6-perl-5.34.1.tar.gz.drv cy9r6mmdmdbvkrd86yi49cg3p9gy32jq-bootstrap-stage0-clang-wrapper-11.1.0.drv dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh mb381gpm9k5wdl37l5ad5pp8w11qzhjg-no-sys-dirs-5.31.patch n315a3g9bcxlypqzbm36nzrrg40h6lcj-cpp-precomp.patch v18cvsmx11ny3k9245gs6bh56ry291b6-bootstrap-stage0-Libsystem.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv x0ll5lnagy6lg7hgvqb26il3qnmsqisd-sw_vers.patch
+CA: text:sha256:0wspmq20a24fm6ybqjc5809hiw5gh5rq36fk805zhsyc375p68v6

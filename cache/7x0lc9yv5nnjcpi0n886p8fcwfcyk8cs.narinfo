@@ -1,9 +1,0 @@
-StorePath: /nix/store/7x0lc9yv5nnjcpi0n886p8fcwfcyk8cs-wasm-installable-svm-java8-darwin-amd64-20.3.0.jar.drv
-URL: nar/0h3bn0ikqazcl7d0vhiba2nnxpxy5iz3g4288h6ih3ac101yh8k0.nar.xz
-Compression: xz
-FileHash: sha256:0h3bn0ikqazcl7d0vhiba2nnxpxy5iz3g4288h6ih3ac101yh8k0
-FileSize: 1388
-NarHash: sha256:0ny46l3yw1zlkrjcc0j25lqghzhspr8v6r8qi8h4k01zizni737m
-NarSize: 3344
-References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
-CA: text:sha256:0lx7g2zsczrl40sl6cabmj9qwmcdl16ivxrb1n817n1il60jfvcl

@@ -1,0 +1,9 @@
+StorePath: /nix/store/aggjd32jqa5bm7mhz5wxpnk1s3sbhrdg-texinfo-6.8.tar.xz.drv
+URL: nar/007625d8kk445ickhh5zg1z7spsfjl1rkdvcfi1ar8brbx5l0cc8.nar.xz
+Compression: xz
+FileHash: sha256:007625d8kk445ickhh5zg1z7spsfjl1rkdvcfi1ar8brbx5l0cc8
+FileSize: 1296
+NarHash: sha256:0rrfwam5a2sy7c2c39jjbsnx99pry06ckj2dqmkp5cbzjaixfdqz
+NarSize: 2960
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
+CA: text:sha256:14inrj4h5dj6nkl68r7zipgka9pbcg8m4qhvakm97p92wrl362jf

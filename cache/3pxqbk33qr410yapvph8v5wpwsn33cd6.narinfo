@@ -1,9 +1,0 @@
-StorePath: /nix/store/3pxqbk33qr410yapvph8v5wpwsn33cd6-perl5.34.0-HTTP-Cookies-6.09.drv
-URL: nar/01sl76jr54qim338g3xnqid38rdpqg1ifj09pmzvhlwhhzz1av03.nar.xz
-Compression: xz
-FileHash: sha256:01sl76jr54qim338g3xnqid38rdpqg1ifj09pmzvhlwhhzz1av03
-FileSize: 1048
-NarHash: sha256:1bnh3m5iddly6nhqgk7dwlvr7jq4r69r00d2rcxln3rkszhcdxgj
-NarSize: 2512
-References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv f6wsgg28kc88k39bjy30vjnszv3cd3g7-perl5.34.0-HTTP-Message-6.26.drv k51qdx0w9j6qzip7ypj6v4hp0m3pmjq5-HTTP-Cookies-6.09.tar.gz.drv qf3mzpvsmkrw963xchbivcci06078n13-builder.sh shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv z6w9rzzvhxhdi7mv0q8wvvdv634n743g-perl-5.34.0.drv
-CA: text:sha256:0n6ss767icjhf0y0g5zwj149w726nz94wj09bn0srdwpciyij6q3

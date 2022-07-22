@@ -1,0 +1,10 @@
+StorePath: /nix/store/wqm1xal63qqws2xxbck0y4zgbk8bk7r0-iana-etc-20220520
+URL: nar/17xrgln9kki56dg2vhl23q6ihzzy5dgjp82f9w131j9dzcikzav9.nar.xz
+Compression: xz
+FileHash: sha256:17xrgln9kki56dg2vhl23q6ihzzy5dgjp82f9w131j9dzcikzav9
+FileSize: 102916
+NarHash: sha256:0w7ijbrzy9a9lsv9zx3y1fvy6ly1nx7mlfi7j6cwdwbbjp0igzpp
+NarSize: 567352
+References: wqm1xal63qqws2xxbck0y4zgbk8bk7r0-iana-etc-20220520
+Deriver: wcrair462lb604fcscfx6nbr43h5bbz6-iana-etc-20220520.drv
+Sig: cache.nixos.org-1:+8tUIcz9YbxEzSBwMCkI29rZ5Z1THUHYI3MgzmxQPDJITSGUOf+kzQvx/3GvglqQ5AqrywVXaY58Ji0tbRSXCw==

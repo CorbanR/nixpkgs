@@ -1,0 +1,10 @@
+StorePath: /nix/store/jz7vap7g8m6x75nwsz69sbmj64nz9p7x-curl-7.84.0
+URL: nar/182rv2xi0lrxqxwjanyf6f7gxb6kdppiz4arjvg0kpvh9gsvv7jx.nar.xz
+Compression: xz
+FileHash: sha256:182rv2xi0lrxqxwjanyf6f7gxb6kdppiz4arjvg0kpvh9gsvv7jx
+FileSize: 278724
+NarHash: sha256:0yj1vsivfd6jz023q5ild6cnxhigba3z2jbxfid5p5iihhj5mycy
+NarSize: 782576
+References: 890nx4dsf41xijgd8bdncxk56kv3lak4-libidn2-2.3.2 b6jnw51f7b78xpcv8c7xqvrw7h4insmd-libkrb5-1.20 ba8511amd3kp64mqslxh52db6wxz126a-libssh2-1.10.0 c8fc7saagp0vm5ll5mccpfnhg957pfya-openssl-1.1.1q ghdm44s2nw13xzbb5vx7sqv767b10fyi-zstd-1.5.2 ilxq10rj4ipx71iajk5v8gw6rj7n5wd6-nghttp2-1.47.0-lib j6mb5m658k2gfln6g98fix2b2my5r5z6-brotli-1.0.9-lib jz7vap7g8m6x75nwsz69sbmj64nz9p7x-curl-7.84.0 mhhlymrg2m70r8h94cwhv2d7a0c8l7g6-glibc-2.34-210 w25nadr7247krvg5nbxr9slnhq76dakc-zlib-1.2.12
+Deriver: zvih134g6n0fgwhf6ld4r30263zhif4y-curl-7.84.0.drv
+Sig: cache.nixos.org-1:O8+m9ikJzaWKe1Ramh9qwin3kQE5NeH7oy34BHKvgiph4y6ayobB06ASJ/FG6Nv4prJx4k8fCC9xMbd0MytVCg==

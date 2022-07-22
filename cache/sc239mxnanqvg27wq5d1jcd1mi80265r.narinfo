@@ -1,9 +1,0 @@
-StorePath: /nix/store/sc239mxnanqvg27wq5d1jcd1mi80265r-rust-bindgen-unwrapped-0.59.2.drv
-URL: nar/1ym5hnagkcq9bmrgc8xa9jnpk4brbw5z8pi7x0lzpnx2764mwh3p.nar.xz
-Compression: xz
-FileHash: sha256:1ym5hnagkcq9bmrgc8xa9jnpk4brbw5z8pi7x0lzpnx2764mwh3p
-FileSize: 1764
-NarHash: sha256:1k781hs93mlw63zss3445fi88sl1fa87qvbb92r4qg2f321hslqg
-NarSize: 4000
-References: 2c6q4dqdqdfczrd7a98hrr5k2i2pd5yy-source.drv 8rwl6hv0abzplz1878d08a4rbp3i32r0-fake-rustup.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ccddkfvfr0gkidynbb66bb10a6jkkx4p-git-2.35.1.drv cgd88gn11pnykznxzql6gvkwdly2v03n-cargo-install-hook.sh.drv flfm2ck67zn7mw1q9hshd4p6ls70a2dl-cargo-check-hook.sh.drv jrpmj0giajpjgbi97c44g69479wgq19y-cargo-build-hook.sh.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps p7xzxbl50ggqrvgsfdacnia48j2caqs5-rustc-1.58.1.drv qkzsasc0z975nzv9gdywfca1h01z4891-rustfmt-1.58.1.drv qyvw49pr504faqlg4lmihplahsdajr8k-rust-bindgen-unwrapped-0.59.2-vendor.tar.gz.drv ssf8xvnaxnlfxr5llk97wyvrwbybswpa-nss-cacert-3.74.drv wdgldl79clmr3qdk5gw6k3vwacdl8az3-clang-wrapper-11.1.0.drv x1kaw2dzd2s81ks0l7xzm350vk455ql3-clang-11.1.0.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv z61n5kzmplc45ccd538ipdd150bbral2-cargo-setup-hook.sh.drv
-CA: text:sha256:1jkq57f4vh6x1x1v6rgim5b1qqcps6j4crymdy4d7sjs9rglsm65

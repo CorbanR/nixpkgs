@@ -1,9 +1,0 @@
-StorePath: /nix/store/blmy623prv19dv3anbcr824qb1q5fzwc-tpm2-tss-3.0.3.drv
-URL: nar/0ars3naylkjgxhlssfwq3aiird31q5cgsr6wpdyvwi4kcznilgjg.nar.xz
-Compression: xz
-FileHash: sha256:0ars3naylkjgxhlssfwq3aiird31q5cgsr6wpdyvwi4kcznilgjg
-FileSize: 2108
-NarHash: sha256:18xd2g1nvymy5sp0lpmag5rgi93h8br287q4ksyhpm7hyizwigwd
-NarSize: 4512
-References: 8aw8lgyfi7p0g5kz5mgvl3xwvbin6rsj-curl-7.81.0.drv 982zfs7p11h5mn814pw3lylx8q5szmrx-procps-3.3.16.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9qc0vnvsh23fgxnq6d88s0ll6333vwga-ibm-sw-tpm2-1661.drv bms7b11yddran3madfnfkarp0kaj1f1a-perl-5.34.0.drv ckznagjbapllkfr5dp4s60w1kzlddnki-uthash-2.3.0.drv dqg20hj402wxrq1ljl3i3agrqkhjnas7-hook.drv fdc41apr8w7bhkfg83jfmp8kwr1h1gq0-json-c-0.15.drv g1fmnhlz4rsla7x0g9ag1jbzng2qfcp6-iproute2-5.14.0.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv pajkrygv8mn78p3majgkyfh85l1n20g1-pkg-config-wrapper-0.29.2.drv q5jr5gfz749d102vswhw6h5g6rg91869-libgcrypt-1.9.4.drv rd5pm38c46mysr3bymjnqfji0ilajypa-cmocka-1.1.5.drv svd60vmccy6vxr4jrdpd8kkf81r8348r-source.drv wc7fqjdk1bywbgwkr8ngb8qcipzyi44b-which-2.21.drv wx7mpakv6n48f1apahas5agvg0r6xd3a-autoconf-archive-2021.02.19.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv yrrsskydxvc395awm1a3ws1jpbp000x7-no-dynamic-loader-path.patch z02xk6c53zvarx0mfwnpmd0lq0iv2w39-openssl-1.1.1n.drv zy8nvaaax4m0jsij53db6r786qfs5y48-doxygen-1.8.20.drv
-CA: text:sha256:0yynmc7v5nczqifqkf5d9yyxghd8qfxcvrnib5lv6r6x472xlphn

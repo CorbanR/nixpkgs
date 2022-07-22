@@ -1,9 +1,0 @@
-StorePath: /nix/store/63d2xpqasdmjadii80apnb954mzmpg6h-sortedcontainers-2.4.0.tar.gz.drv
-URL: nar/1068a5s2wqmsav5axcz732hzj1qxw0i1g9gr3ir1dd97q64qv3jr.nar.xz
-Compression: xz
-FileHash: sha256:1068a5s2wqmsav5axcz732hzj1qxw0i1g9gr3ir1dd97q64qv3jr
-FileSize: 1244
-NarHash: sha256:0zms81c2az5gpil4mh6dfrkqxnj8w1ywf1npbir6pb96m3w97dbs
-NarSize: 2960
-References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:189fvnykjn3ww17149vna1s3c21gw17fs2kl77v40vcv5hpjrkld

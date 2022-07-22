@@ -1,9 +1,0 @@
-StorePath: /nix/store/myja3d5hyic3vqjqmy7v414spkl6ffq4-gnumake-4.3.drv
-URL: nar/06k58s8v2bhf5j5mdq6w8y1ingy1gf2hm765rdqhd22qrp0ssqqx.nar.xz
-Compression: xz
-FileHash: sha256:06k58s8v2bhf5j5mdq6w8y1ingy1gf2hm765rdqhd22qrp0ssqqx
-FileSize: 1004
-NarHash: sha256:0rdyibr0079idhvw7b72spzdkhsmbp4vircp9vzcam9p0z0q8rmz
-NarSize: 2400
-References: 2k52bklbjhhq47dn35gm833vlh06fgfn-0001-No-impure-bin-sh.patch 6cc64ayl3fd2nc28ffw47cqsqi2bg1sn-0002-remove-impure-dirs.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dwq1ln6cwv15ijqnz41r968gyrsngrlj-make-4.3.tar.gz.drv h36vpsr6dflkxdjsjncv6014ik9rimgm-bootstrap-stage3-stdenv-darwin.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv
-CA: text:sha256:1c6mzh6vv94r1q9jniz5z84figyzxwnvz7hyzxky63yhml8nxw2r

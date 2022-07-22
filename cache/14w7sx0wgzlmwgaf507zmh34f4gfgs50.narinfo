@@ -1,9 +1,0 @@
-StorePath: /nix/store/14w7sx0wgzlmwgaf507zmh34f4gfgs50-automake-1.16.5.drv
-URL: nar/176ywszpry7354j5hyspb4h6s06kz1nfb821381rb69skx9ipwy5.nar.xz
-Compression: xz
-FileHash: sha256:176ywszpry7354j5hyspb4h6s06kz1nfb821381rb69skx9ipwy5
-FileSize: 928
-NarHash: sha256:09sb84lmbmkkbzqh8bd80vwcavalg8vdg3ghijppwrziwafsplkb
-NarSize: 2104
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 3yar2pnvz7ll79z3jlzx09qnhrsi7zj5-automake-1.16.5.tar.xz.drv 4cmjzk8yr6i5vls5d2050p653zzdvmvp-setup-hook.sh 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cjj314ik3xxxg6vwb241yzlsf8sk5f35-perl-5.34.0.drv f8nvz7k2hwiqxdrc69yq4mhn02njs1di-autoconf-2.71.drv m291v0v74nrqfrdndvpfm7wf3d5v30m6-bootstrap-stage2-stdenv-linux.drv
-CA: text:sha256:0v8rnxlq9in64srgky0p2gn9a13r36ryk6g1y2vlz9z993zj3vjf

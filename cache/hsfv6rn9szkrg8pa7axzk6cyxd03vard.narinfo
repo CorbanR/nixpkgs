@@ -1,0 +1,9 @@
+StorePath: /nix/store/hsfv6rn9szkrg8pa7axzk6cyxd03vard-audit-2.8.5.drv
+URL: nar/02q0jshbmf8c8cwwww1ak9xxpk5dw4ijm2719shvspjr3n72h52p.nar.xz
+Compression: xz
+FileHash: sha256:02q0jshbmf8c8cwwww1ak9xxpk5dw4ijm2719shvspjr3n72h52p
+FileSize: 1712
+NarHash: sha256:0ms1krq2pldkiyc8k6irlpyw63plsr3g5kk5zq1yphvjfxbldf75
+NarSize: 3920
+References: 2zqk53fyirrj961nd06vnfb6p68dlqsv-weak-symbols.patch 3invvbyvgi5hq0498v2d8xavhvc2vjr5-no-ipx.patch.drv 406m2gvcms42npk8kmd1zfs027dmn96r-python3-3.10.5.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv h4x5l3x424fb3vp8892ppnv89jzj8ypi-gcc-wrapper-11.3.0.drv i77xk1ihs2by1m8hwhsk0aylizs22yl5-Add-substitue-functions-for-strndupa-rawmemchr.patch-fix-copyright-merge-conflict.drv ilywgjr5xl8kpbr8gcifnw95xsc2nc2c-swig-3.0.12.drv jzqmkz4f3i03cxzz878akvj520wn8da2-audit-2.8.5.tar.gz.drv p9qsn22hq8831cr98bzvn15li5r9zlqq-017e6c6ab95df55f34e339d2139def83e5dada1f.patch.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv ra4grbir4m5792mix26aqpabk6y26vi6-linux-headers-5.18.drv v7ckl0ilyvanvzgc558r3c31kps5mrrp-hook.drv x7lmr94wpsajm2d3j5skq0ah9f5kkahx-ignore-flexible-array.patch.drv
+CA: text:sha256:1kf2m6cm7bx4kak1s3pby82yvhpwwhchp2s81vp2wkd7f2ss6d5w

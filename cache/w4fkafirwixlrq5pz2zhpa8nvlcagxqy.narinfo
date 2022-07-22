@@ -1,9 +1,0 @@
-StorePath: /nix/store/w4fkafirwixlrq5pz2zhpa8nvlcagxqy-libsepol-3.3.drv
-URL: nar/1aaahrpbl7lpbnk59hjxjq0jmz5rgak64nsnaqzmfk78mwfi9f2w.nar.xz
-Compression: xz
-FileHash: sha256:1aaahrpbl7lpbnk59hjxjq0jmz5rgak64nsnaqzmfk78mwfi9f2w
-FileSize: 1032
-NarHash: sha256:0vikr8l46r0xgkkd1igblxnw36jpcldbmski0345sjx64ssnf55q
-NarSize: 2352
-References: 4ama29gmqcgv39mvcds7ya4qyv29dkr5-libsepol-3.3.tar.gz.drv 7kxxdwsq47fbbgrdg6srz734qsd165bk-flex-2.6.4.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:0w6cp0pxwq3i70dci3nyysry1i6sqfqzgn9jadzf9g0n60ck0mmb

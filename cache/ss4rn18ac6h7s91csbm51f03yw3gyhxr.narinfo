@@ -1,0 +1,9 @@
+StorePath: /nix/store/ss4rn18ac6h7s91csbm51f03yw3gyhxr-LWP-MediaTypes-6.04.tar.gz.drv
+URL: nar/0lxzsd2sg843d912vx9kx39r90ccfr59nb7cz4z828qkfyl9rkzc.nar.xz
+Compression: xz
+FileHash: sha256:0lxzsd2sg843d912vx9kx39r90ccfr59nb7cz4z828qkfyl9rkzc
+FileSize: 1312
+NarHash: sha256:0251rch7i5qjmv7pix3mis8y2wc4hvh3f16r06yvz0i0i144ka54
+NarSize: 3008
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
+CA: text:sha256:181zp9npvjcnivb70ryaqcm0jp6mpcphyssli2ksf7qlg54dj2v3

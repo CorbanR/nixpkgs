@@ -1,0 +1,9 @@
+StorePath: /nix/store/4n8y1qvaqzmm0s39jpcp28yyqg0l5z55-py-1.11.0.tar.gz.drv
+URL: nar/05b9siyry0l0rf4pjxmfj7jdp37rgd02aj67zzwly9j0f8fp2kxb.nar.xz
+Compression: xz
+FileHash: sha256:05b9siyry0l0rf4pjxmfj7jdp37rgd02aj67zzwly9j0f8fp2kxb
+FileSize: 1356
+NarHash: sha256:02xlsmcvsvmkfa94ydkm85r1pjnl5chrkkdwffipygd2mrq48567
+NarSize: 3224
+References: 788wc4ldndpzc9bsl3qyjbqmfs3474sg-curl-7.84.0.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh njy0fp2wb9r6dm9blgckx8p8r3qmpv5l-mirrors-list.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:0whra87lj6x4h4kigvzj0ilx8457xgv92fafnq4ia0l738wbrcns

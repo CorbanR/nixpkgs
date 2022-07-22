@@ -1,9 +1,0 @@
-StorePath: /nix/store/258477m53m6q2pjahdk0sk3r6h3z7463-llvm-13.0.1.drv
-URL: nar/044l842f9c74yjqsriway7ly3z0a2922qqn6yqzqmqfgqkxvj2c6.nar.xz
-Compression: xz
-FileHash: sha256:044l842f9c74yjqsriway7ly3z0a2922qqn6yqzqmqfgqkxvj2c6
-FileSize: 2304
-NarHash: sha256:0lgp8ck3vb7irxk0an9bm6d2bxcmnplj52sk9ni1b1d3p3acdb83
-NarSize: 5488
-References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 5x70wg3gh95wcyb0k422w3jnsddk0dk1-ncurses-6.3.drv 6kdffczc753n2yhz5saq4p2a8ps2bx8z-zlib-1.2.11.drv 6wv8acdd7bm7npixgr3rk86mf55fj47c-llvm-config-link-static.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a1kgn4lsgjmx69wk5c99gdvw5ljh2svs-libxml2-2.9.13.drv dfv4sns65w5rsx5mdi9b0f0hxwvl9a5l-libffi-3.4.2.drv fsri1cp66sqyjb83yzy1pgbfpfy6nqxn-gnu-install-dirs.patch pyfps03vlyxwm95hnbgr3vakfplnimf6-no-strict-aliasing-DwarfCompileUnit.patch.drv rqavf6iczhaa85x9r1i0ypw66y7lmgmz-cmake-3.22.2.drv rygb5ycal3yviv55sp45li9zi7j1p22a-source.drv sg45bz5y80mjfi73ylj5p8965b74ryz3-python3-3.9.10.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv
-CA: text:sha256:0i99j7hs91br0ly31cybhxzi0g2czbpy3xb83w1sicaraqpfsx6a

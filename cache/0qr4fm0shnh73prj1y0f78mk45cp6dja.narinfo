@@ -1,9 +1,0 @@
-StorePath: /nix/store/0qr4fm0shnh73prj1y0f78mk45cp6dja-coreutils-9.0.drv
-URL: nar/1c9bdacjj7saxxqhb5w1z9vn5x28qsn0cijalmxdgirrhlgncbxh.nar.xz
-Compression: xz
-FileHash: sha256:1c9bdacjj7saxxqhb5w1z9vn5x28qsn0cijalmxdgirrhlgncbxh
-FileSize: 2040
-NarHash: sha256:124mim0iq5dcgrqw9y3fk0d2ikyn144irvkb9zkdm8bsqndxbw11
-NarSize: 4752
-References: 2j8nv5xpgw7js9lr3dnspc2vk04jifzv-fix-chmod-exit-code.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh i6qi2wzdwjnyllq1q0qdxz57nkawqqhp-xz-5.2.5.drv im6r54c87fy47gvl2vjnal688aibg8hw-coreutils-9.0.tar.xz.drv mv7ln1r6qflk2nhlgqlkxq880z49gr82-gmp-6.2.1.drv nqrwkrrnpc7443annivd10zgnnfcc0cm-fix-arm64-macos.patch qdil2dl4i33fjadp2p58mgsjbrgpifnq-perl-5.34.0.drv snhl0w63mc0s3q6y386g061bgc7jdwwn-disable-seek-hole.patch wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv wwcxmvps37xnvxlq8kvgrhx1kzdrs4k0-hook.drv y4nn8mw9wmkln8qqb5fzkmfa9n593mrf-bootstrap-stage1-stdenv-darwin.drv
-CA: text:sha256:0j6hyx4w7vczgq3mz34fqz40si019p3gbspf04h4clkrmd47g8ld

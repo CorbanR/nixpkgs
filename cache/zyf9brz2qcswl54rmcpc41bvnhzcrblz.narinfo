@@ -1,9 +1,0 @@
-StorePath: /nix/store/zyf9brz2qcswl54rmcpc41bvnhzcrblz-sharutils-4.15.2.tar.xz.drv
-URL: nar/1srqk8jlfshfjhvjb08j6cb8rv04prdwq1flhcjcslbw9s4mxc1y.nar.xz
-Compression: xz
-FileHash: sha256:1srqk8jlfshfjhvjb08j6cb8rv04prdwq1flhcjcslbw9s4mxc1y
-FileSize: 1380
-NarHash: sha256:0jjhvsqalf4p5h6hki1a3vdf6kbyf5wnbgmz75v1d45bncbjyb1k
-NarSize: 3176
-References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
-CA: text:sha256:1c10wwhqbhfpz1wgkd4s40z7mahjbrfnij6r2qhdz51ab0qxls6b

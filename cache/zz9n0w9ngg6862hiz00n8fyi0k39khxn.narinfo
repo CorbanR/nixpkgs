@@ -1,9 +1,0 @@
-StorePath: /nix/store/zz9n0w9ngg6862hiz00n8fyi0k39khxn-graalvm-ce-java8.drv
-URL: nar/1ric20bkb2fmvsx56xkiy0q6xsvf5jxs34hifr5x1x7lc1vivwql.nar.xz
-Compression: xz
-FileHash: sha256:1ric20bkb2fmvsx56xkiy0q6xsvf5jxs34hifr5x1x7lc1vivwql
-FileSize: 1688
-NarHash: sha256:00j2qmg8mqhy7sfv308d67ipj8g38pyfnybvmipb6vy0gqp9knqz
-NarSize: 3880
-References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 3yv39slysgkfv6sh9i0l70dd5gj2vp55-graalvm-ce-java8-darwin-amd64-20.3.0.tar.gz.drv 6kdffczc753n2yhz5saq4p2a8ps2bx8z-zlib-1.2.11.drv 7x0lc9yv5nnjcpi0n886p8fcwfcyk8cs-wasm-installable-svm-java8-darwin-amd64-20.3.0.jar.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh fqk0hrhcv9v4jb353v6yzvi8ajy1zggi-native-image-installable-svm-java8-darwin-amd64-20.3.0.jar.drv rspfalxz5avpaa8qa0zaydwn26p7rxnm-hook.drv s63kzf044g51m4zrm1xjmb447djhwf0c-llvm-toolchain-installable-java8-darwin-amd64-20.3.0.jar.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv
-CA: text:sha256:1xxlm6iflngr8jnq5c6aw8nkhd9ik638qr48lrhxny0g6knrmdgv

@@ -1,9 +1,0 @@
-StorePath: /nix/store/z02xk6c53zvarx0mfwnpmd0lq0iv2w39-openssl-1.1.1n.drv
-URL: nar/094y3vwa4c56c3329wykfm2kxvgmn5z4l1cjzrxxngjl85z5xmlb.nar.xz
-Compression: xz
-FileHash: sha256:094y3vwa4c56c3329wykfm2kxvgmn5z4l1cjzrxxngjl85z5xmlb
-FileSize: 1648
-NarHash: sha256:01imvcijpywf3wkawnwxvwkp5j6f9g90mnlaargaaz650cjfamp4
-NarSize: 4152
-References: 1w8hfs1zsi3h3lxiasmqy04xlmijix9v-coreutils-9.0.drv 3xk9ps0qz073k641b88swpa4fgx3hzwg-nix-ssl-cert-file.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bms7b11yddran3madfnfkarp0kaj1f1a-perl-5.34.0.drv ikmqczy0y20n04a2b8qfflzwihv8139g-separate-debug-info.sh k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv lzmcfv2m4ripknpvbsv8wcg1ik1kif4h-use-etc-ssl-certs.patch rc7m3wzf91igqs5k6rj0y2qnpazv5y54-openssl-1.1.1n.tar.gz.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:1rhfadfh33mk2c5f6fvsbw10p5949i5iyyvmkg587hk8bdpfi658

@@ -1,0 +1,9 @@
+StorePath: /nix/store/ypnhk5g0ls92198kl1mkj8zqcfwi9pl4-groff-1.22.4.drv
+URL: nar/1hw13vrghpv8zysax8n07id6kmrppcwrspl7dipvjg3pp1k0jy44.nar.xz
+Compression: xz
+FileHash: sha256:1hw13vrghpv8zysax8n07id6kmrppcwrspl7dipvjg3pp1k0jy44
+FileSize: 1716
+NarHash: sha256:1akg4s6x3gwpkbgw1i9chihy8cai2s3qi5h5jyj1q5agmbqp5bm1
+NarSize: 4608
+References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b7y88azisww8cf4syzmc3lrm8grc5324-site.tmac bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv cdh58ifalsx66n1jhxrfhgh4xgkwcx87-texinfo-6.8.drv j5n4i0ziynd0kmwfh98mfadc80l6h89r-0001-Fix-cross-compilation-by-looking-for-ar.patch pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv r8b46bf8m04lkvnj6r8ydgqblv0qmmp9-perl-5.34.1.drv v7ckl0ilyvanvzgc558r3c31kps5mrrp-hook.drv x7xsqnh4cq06x1cc11fklxsk6abnwxgd-groff-1.22.4.tar.gz.drv xdczp2jf0mdcaqfi0xmsh3ynqkhad1hd-pkg-config-wrapper-0.29.2.drv
+CA: text:sha256:1q60ynk4d7ph76gm5haq50mz9wxzklkgr2f38b8n78ql39y0mjki

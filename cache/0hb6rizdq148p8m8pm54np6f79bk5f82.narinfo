@@ -1,0 +1,9 @@
+StorePath: /nix/store/0hb6rizdq148p8m8pm54np6f79bk5f82-binutils-2.38.drv
+URL: nar/1mcjq94i3s58n3irq7qiskyh0351n9x4v52gbkm3ljr3lxr0wmay.nar.xz
+Compression: xz
+FileHash: sha256:1mcjq94i3s58n3irq7qiskyh0351n9x4v52gbkm3ljr3lxr0wmay
+FileSize: 1924
+NarHash: sha256:0bdnr2n8ms17220pm5spf61rjanwhwqjxq7r8dxz26p6gvbg2cvj
+NarSize: 4496
+References: 02h9qg8gi4qr3sp3ylb7zjvcjs5pmm1r-bison-3.8.2.drv 0df8rz15sp4ai6md99q5qy9lf0srji5z-0001-Revert-libtool.m4-fix-nm-BSD-flag-detection.patch 0p1bf2vad7k44zmzy95nv8qbn11pf0kv-deterministic-temp-prefixes.patch 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 5dzcx2f8922hyw8xsim7sfbn0wwk69kn-perl-5.34.1.drv 7g30wg245yl3zmkhlmz1wn95j4wgiy01-gettext-0.21.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9mgcizkjwh33w9jsilm2x80lqhs131j5-bootstrap-stage1-gcc-wrapper-.drv i909svim3ykl1jwdzj763i0i2bpkw3bx-bootstrap-stage1-stdenv-linux.drv is6j9vdyz6fanhrj5fva1hqmfywf0fh5-binutils-2.38.tar.bz2.drv kksv9fp6wb6zvfka5fyp5lajy2nzjs6f-zlib-1.2.12.drv lgniihp1bk6mkd5nn9y5ikfim2ignr52-0001-libtool.m4-update-macos-version-detection-block.patch pa83jbilxjpv5d4f62l3as4wg2fri7r7-always-search-rpath.patch sqbhaaayam0xw3a3164ks1vvbrdhl9vq-deterministic.patch z63x9mljdg70xpnm2rvpnwb6dhal4rxh-texinfo-6.8.drv
+CA: text:sha256:1frpzf9zhb68lqpcbl92hxgvis021gf12k1s84jcd22v70pqs5k7

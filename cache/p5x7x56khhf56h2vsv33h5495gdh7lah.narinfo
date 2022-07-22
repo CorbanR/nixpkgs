@@ -1,9 +1,0 @@
-StorePath: /nix/store/p5x7x56khhf56h2vsv33h5495gdh7lah-rustc-bootstrap-1.57.0.drv
-URL: nar/19jhvdis4r5igmn3061715bbrh3sqg5fzn47l248xfswsb5a5j11.nar.xz
-Compression: xz
-FileHash: sha256:19jhvdis4r5igmn3061715bbrh3sqg5fzn47l248xfswsb5a5j11
-FileSize: 1224
-NarHash: sha256:1vhjs1xfxdnjpfxhrrmx604f69h0ijwx4j82dn311h150dv7pcfn
-NarSize: 2760
-References: 1xhhqpsfx8adi3skf3n7bf2lcgx5kjjc-rust-1.57.0-x86_64-unknown-linux-gnu.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh fmbcpkrrhln9pkn2xr7a3n0v1dmirw5r-zlib-1.2.11.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv skyp8xs2584fkc44ki1cim9ag55wbi68-setup-hook.sh yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:1nfp5xgxkdhp9wvcmwwbiyja0bcmakskxl9p2ciy2arr8fmawlsr

@@ -1,9 +1,0 @@
-StorePath: /nix/store/as7sn6amshcv6sb06vdag7ii67872cgc-python3.9-lxml-4.7.1.drv
-URL: nar/1cmk5csswk9ch62x1rwsdj19k1m1nskl554bm439k530xz5lj348.nar.xz
-Compression: xz
-FileHash: sha256:1cmk5csswk9ch62x1rwsdj19k1m1nskl554bm439k530xz5lj348
-FileSize: 1884
-NarHash: sha256:0m894vzdzflkc5jxbsgnczgia4dah7yr65qa27807gmla5nk4pj0
-NarSize: 4360
-References: 04j2vf2admpm5w088rz0bm7gpbqqmbdj-python-catch-conflicts-hook.drv 09nx5fxbij0pi7r8wrrwfwyqgjvxm4yy-python3.9-Cython-0.29.24.drv 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 478j0nh2yr5vw9sqq2n9idgm77r568h2-xcodebuild-0.1.2-pre.drv 66pdjrv83zq0v3v0whhyz9z64knbmgka-python-imports-check-hook.sh.drv 6kdffczc753n2yhz5saq4p2a8ps2bx8z-zlib-1.2.11.drv 7786m2w7kjvi3shffygwg9v12byy3gww-setuptools-setup-hook.drv 8d8yaf5ibv77sw5l3mwdcndxz9pz5nc8-libxslt-1.1.35.drv 8yl265ms40dpf6qgqq2yj3jxx2k0bplf-source.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a1kgn4lsgjmx69wk5c99gdvw5ljh2svs-libxml2-2.9.13.drv cwzp8i0igczipl3ayf7dmaz7qcln4nv0-python-remove-tests-dir-hook.drv dq4zkwav64c8i02a6g118wd89wk2k3ks-python-remove-bin-bytecode-hook.drv gx85mh0vaf5zlsd1a40in8dzy8kyyz4q-pip-install-hook.drv i48kas1cakb6r8fml7cfcr9q59427cwj-python-namespaces-hook.sh.drv klmi5dycj4r15xp3p2a7w7p0j6d4ki1k-python3.9-setuptools-57.2.0.drv l89ydnv24l7bsc0pc1wqxcnhz0y72259-hook.drv sg45bz5y80mjfi73ylj5p8965b74ryz3-python3-3.9.10.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv x2ar8axikxqkfgsg1kh45cbhg356g27l-hook.drv
-CA: text:sha256:0jcfswwxbn9bfvc5rws5f8pzynh4lc136rwwlj6lhnh7qhckslsq

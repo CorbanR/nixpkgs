@@ -1,0 +1,9 @@
+StorePath: /nix/store/f22h4xwd5mfs0a8pdsp1vvdk3hyzi2qi-perl5.26-regex-fixes.patch.drv
+URL: nar/044nb6jz0x74j76xks2bfrvc5nz5xq02j5m7p2f7yh8nyzr78ai6.nar.xz
+Compression: xz
+FileHash: sha256:044nb6jz0x74j76xks2bfrvc5nz5xq02j5m7p2f7yh8nyzr78ai6
+FileSize: 1820
+NarHash: sha256:122xgzx2l4dzqnrlz2zx3575nm80rh0w1d1v6rl2dfydqs3qi03j
+NarSize: 4384
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv c1xqznsxbginlncsn7mq784r3q92vmqv-patchutils-0.3.3.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
+CA: text:sha256:0zyyvnfkjind9cnqsbhlnmfk23kff5hd9x026w5djviwifgfxk0k

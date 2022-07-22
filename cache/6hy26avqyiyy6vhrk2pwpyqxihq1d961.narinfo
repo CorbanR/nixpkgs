@@ -1,0 +1,9 @@
+StorePath: /nix/store/6hy26avqyiyy6vhrk2pwpyqxihq1d961-cargo-nightly-x86_64-unknown-linux-gnu.tar.xz.drv
+URL: nar/0lygdhd5qpw449f45yg2az57b2qlsvjsfiiw6fxj8k8p178p3xl5.nar.xz
+Compression: xz
+FileHash: sha256:0lygdhd5qpw449f45yg2az57b2qlsvjsfiiw6fxj8k8p178p3xl5
+FileSize: 1328
+NarHash: sha256:0li609yjs6arrx6a2756yi88zyz222hw5g3rb7jaks4jhvr7rrps
+NarSize: 3080
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
+CA: text:sha256:1qw8v7cr4df7ryc9xsb16skrdvlnyck4y1arg6xcr6zfga770kj2

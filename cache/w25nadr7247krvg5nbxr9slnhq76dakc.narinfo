@@ -1,0 +1,10 @@
+StorePath: /nix/store/w25nadr7247krvg5nbxr9slnhq76dakc-zlib-1.2.12
+URL: nar/0a76akxmddbsk0m4anka7h5pwn3ply0rhb0cqlx5z2cqa9sdf3zq.nar.xz
+Compression: xz
+FileHash: sha256:0a76akxmddbsk0m4anka7h5pwn3ply0rhb0cqlx5z2cqa9sdf3zq
+FileSize: 55404
+NarHash: sha256:1v76f558a9m62f0axnkbyqk4njf5f02046rd15zxsnl5mfavq8v3
+NarSize: 128656
+References: mhhlymrg2m70r8h94cwhv2d7a0c8l7g6-glibc-2.34-210
+Deriver: 06xps7mamhq7adn8s5kbr84pc8ncx9nv-zlib-1.2.12.drv
+Sig: cache.nixos.org-1:LMOQTr0T8o4bJ37aL9ITHK1Dshff64kEu+qyvzxnzuOapdyQDnD/ud+Ucz8fTnBHMykJFcAi7uGBDBJWERakDQ==

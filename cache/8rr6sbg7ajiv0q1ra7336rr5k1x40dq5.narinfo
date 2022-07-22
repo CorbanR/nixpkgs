@@ -1,0 +1,9 @@
+StorePath: /nix/store/8rr6sbg7ajiv0q1ra7336rr5k1x40dq5-fuse-2.9.9-closefrom-glibc-2-34.patch?id=8a970396fca7aca2d5a761b8e7a8242f1eef14c9.drv
+URL: nar/094f3piznccaxrg1c2v2r1ah2sxlkm0f4mr1yf6m1s3w5vy2c3m1.nar.xz
+Compression: xz
+FileHash: sha256:094f3piznccaxrg1c2v2r1ah2sxlkm0f4mr1yf6m1s3w5vy2c3m1
+FileSize: 1804
+NarHash: sha256:1qdwxk5x61140wzbd273dlr2g1ryz3qykl0880wcfkvcl1rkihki
+NarSize: 4472
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv c1xqznsxbginlncsn7mq784r3q92vmqv-patchutils-0.3.3.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
+CA: text:sha256:0iqgq8pkh3l0qznjnrhljp8zqvx7xwjsc95r9dv6wby6657z7dm2

@@ -1,9 +1,0 @@
-StorePath: /nix/store/z1j91v6i2dfvh9b87wcb33nsjn0vdd4w-vaulted-3.0.0-go-modules.drv
-URL: nar/1fj0j99cyqygm5mhnccxqqzibwrj8cnw3rg82v962r2gv8wsn2i4.nar.xz
-Compression: xz
-FileHash: sha256:1fj0j99cyqygm5mhnccxqqzibwrj8cnw3rg82v962r2gv8wsn2i4
-FileSize: 1580
-NarHash: sha256:04bk046f27k235iax9z9k66yjbinccr058478vq6k44i4hk3a3wg
-NarSize: 3256
-References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 2g2drzqx02fcn6mmqjnj1cikiclc8m01-install-shell-files.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a8d570vpw5sb8prwz20kzlwcx5adnbms-go-1.17.7.drv i1zx5bvckws7zyq2c6gxx9s0zv8vck4c-source.drv lb14l33i5g4vcvcgf3srrr7vc2h39d6c-git-2.35.1.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv w4fzp47vq77c6fi9lvri2xn8f2453w1w-nss-cacert-3.74.drv xmskbl0xjlmxgdd0ya9il1qhhc12sfqh-hook.drv
-CA: text:sha256:0139cl5i3fsj3ak257s90grs5vfcp5qc0n2r5m066kccfn7xmdm2

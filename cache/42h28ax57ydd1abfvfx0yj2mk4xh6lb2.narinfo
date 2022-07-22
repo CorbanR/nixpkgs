@@ -1,0 +1,9 @@
+StorePath: /nix/store/42h28ax57ydd1abfvfx0yj2mk4xh6lb2-CommonCrypto-60092.50.5.tar.gz.drv
+URL: nar/0am4z5i3mhnwjyzj1kwxxxm68w9k4m71d1nn40f9lm34cr8pm78c.nar.xz
+Compression: xz
+FileHash: sha256:0am4z5i3mhnwjyzj1kwxxxm68w9k4m71d1nn40f9lm34cr8pm78c
+FileSize: 1360
+NarHash: sha256:0cclj179ln33vspcsx9mx8ywb4af7r29ar54afkdfm6xvppk9bnh
+NarSize: 3272
+References: 79s495b0mxaszby1bfqll7svwwi04zw0-bootstrap-stage0-stdenv-darwin.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh vrhd0j1flahsqrgn57lrnfc28jhb6jz0-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:0gk341pdlqj4kwsf5r87ldqrzrmjdx1i0k3h50kipiprlv7lfpxj

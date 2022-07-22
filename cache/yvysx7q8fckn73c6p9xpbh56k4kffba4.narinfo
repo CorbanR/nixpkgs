@@ -1,0 +1,9 @@
+StorePath: /nix/store/yvysx7q8fckn73c6p9xpbh56k4kffba4-cctools-port-949.0.1.drv
+URL: nar/09invznnk528afnlrssx38200w56qk9i30knf54z3i0i5l7861jd.nar.xz
+Compression: xz
+FileHash: sha256:09invznnk528afnlrssx38200w56qk9i30knf54z3i0i5l7861jd
+FileSize: 2044
+NarHash: sha256:1pzl3d6699g70jr3h49mq6gajx7s600829l3gcpn91746vnnrd04
+NarSize: 4728
+References: 90kkyylc8lngl6fj7ldnil099xad71gd-bootstrap-stage4-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ariqnq7zn5vxdh9ilj38n78hk08csz5x-source.drv jrk7y6x07q88db4fwzc67xv8knhfhza2-autoconf-2.71.drv l7lq93xk23nzga4rkm2gdzzzdhi9k70x-automake-1.16.5.drv lcazkvkc74h4y0yzl2s23my11gnyqvhp-hook.drv pcizan8lbqlicmkmpykz2wvnc4jwqsmx-libtapi-1100.0.11.drv qz43zcyfy8am565lm8b7q45vrf96c7dx-libtool-2.4.7.drv r9iy2wdkq3w0n1hbyg92c2sqg3vcbkhl-ld-ignore-rpath-link.patch ry75d7sxwn38nchrpnmyyik4vv8vhi27-objc4-709.1.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv xk1b2mnnkl53h3hbfb8aavdx0yaixscg-install-shell-files.drv zr59kiajvksmks3vl1hja2ybix9z2zqk-ld-rpath-nonfinal.patch
+CA: text:sha256:1bgjfi999hf5k01i0ii1wzjiqkkwg9qhsfbq6i8q5im2wlx73jlq

@@ -1,9 +1,0 @@
-StorePath: /nix/store/pa3jvyz8dkw8vs9wia7pa35n98jgq5fi-hook.drv
-URL: nar/01fh02258vy2p5yyzw7rv4z38vrd3w6hv7bajdxj4g5p50fpw5wv.nar.xz
-Compression: xz
-FileHash: sha256:01fh02258vy2p5yyzw7rv4z38vrd3w6hv7bajdxj4g5p50fpw5wv
-FileSize: 800
-NarHash: sha256:0sxpaazby3g4q4xbdkh7nlkb6bfz3i8x95bhzgp09i50lz85pfhy
-NarSize: 1792
-References: 6djyl2nr32nl8qxd5w38xwg86p5z1fy1-bootstrap-stage1-stdenv-darwin.drv 81gwh57vnrm6qpw3gxmdmrjsp26dxi7p-find-xml-catalogs.sh 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:09m797wjrvj9cdzypdd1vzq1j5rhdc5024h7l0h40i2637zvifg5

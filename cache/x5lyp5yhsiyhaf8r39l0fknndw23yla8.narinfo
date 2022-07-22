@@ -1,9 +1,0 @@
-StorePath: /nix/store/x5lyp5yhsiyhaf8r39l0fknndw23yla8-pytest-hook.drv
-URL: nar/1pfxfzdjxqgl0i8gzgba0j3rdqkrl9pj6fzj897cpapfhs3hvnb2.nar.xz
-Compression: xz
-FileHash: sha256:1pfxfzdjxqgl0i8gzgba0j3rdqkrl9pj6fzj897cpapfhs3hvnb2
-FileSize: 1200
-NarHash: sha256:1ki5sl8yhnnzx0bfhnklj15npfmsi2dbxxjy2rnlk2657q8ckgmi
-NarSize: 2480
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:0ac2r10q0hasgvkcrbx2w04mhxmmpbxg9wqyfmfcmm3gxgqi8sqb

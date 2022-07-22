@@ -1,0 +1,9 @@
+StorePath: /nix/store/qwdwf4xfywkscz6pzvni4mwi839gz0n4-libsodium-1.0.18.drv
+URL: nar/0dc191kywdbwb6ldf7s6rm272avg51qmqgln8hr842xj72fy214l.nar.xz
+Compression: xz
+FileHash: sha256:0dc191kywdbwb6ldf7s6rm272avg51qmqgln8hr842xj72fy214l
+FileSize: 884
+NarHash: sha256:0kbl5wwq7ar3nbywydzqxxqw2vkpv5c1h2qk1cj461qfk69n5bw2
+NarSize: 2056
+References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cpxsc3db22xjsppgk4hf3r4gzb96gnql-libsodium-1.0.18.tar.gz.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:0q9bcycqqp7nmkqbgwazi59s2y9cnyxsdviykwgcsh5rh9lxy1s1

@@ -1,0 +1,9 @@
+StorePath: /nix/store/v0i19a2zkzmaq15ggp0ffsypvg645vw6-01-fix-heap-buffer-overflow-cve-2018-1000097.patch.drv
+URL: nar/0xw27grm424yi2sxr6h4z6hb2866ygsfs1lcvv7w7vqhf8y3z9q2.nar.xz
+Compression: xz
+FileHash: sha256:0xw27grm424yi2sxr6h4z6hb2866ygsfs1lcvv7w7vqhf8y3z9q2
+FileSize: 1456
+NarHash: sha256:1mfisl1sdhsw0245n01y9w0z4vqr8rq4shmxiam17qkz9af3yqj7
+NarSize: 3408
+References: 788wc4ldndpzc9bsl3qyjbqmfs3474sg-curl-7.84.0.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh njy0fp2wb9r6dm9blgckx8p8r3qmpv5l-mirrors-list.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:1v69fz54fyvqg5z77kms2p2x2abqxj3ls2z47sckfnlvcjxispkz

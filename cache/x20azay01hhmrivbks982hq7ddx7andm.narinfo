@@ -1,9 +1,0 @@
-StorePath: /nix/store/x20azay01hhmrivbks982hq7ddx7andm-setuptools-57.2.0-sdist.tar.gz.drv
-URL: nar/0ws9sf4zxw8i5zvqv6dzk5gl9pv04c3panj6izx9q61l2nb82z3l.nar.xz
-Compression: xz
-FileHash: sha256:0ws9sf4zxw8i5zvqv6dzk5gl9pv04c3panj6izx9q61l2nb82z3l
-FileSize: 1112
-NarHash: sha256:08hqzpl5k5y8ziysln1786dy9kabmmkj2f3nw8d8y0cmkc4hj7n6
-NarSize: 2536
-References: 0qzs4kq2lvl09k80nf54bl00hd2ylfam-tag-date.patch 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh fvd86fkh554f2ak69pm29129qxamszl5-setuptools-57.2.0-source.drv sg45bz5y80mjfi73ylj5p8965b74ryz3-python3-3.9.10.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv
-CA: text:sha256:162r0x0v6zigb9bcisk703jmm9ywarfv4mnqp0s4a74m2b9cx9hv

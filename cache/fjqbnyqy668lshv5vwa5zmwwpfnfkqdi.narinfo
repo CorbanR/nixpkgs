@@ -1,9 +1,0 @@
-StorePath: /nix/store/fjqbnyqy668lshv5vwa5zmwwpfnfkqdi-unbound-1.14.0.drv
-URL: nar/1jzgbzx7ab6z5ah7v4xb3icvk9cvwig9vcs1bab2g316ml2cxw1d.nar.xz
-Compression: xz
-FileHash: sha256:1jzgbzx7ab6z5ah7v4xb3icvk9cvwig9vcs1bab2g316ml2cxw1d
-FileSize: 1808
-NarHash: sha256:01pp4na6l89zm7q5l26gcx2x65blr9k5l3p1xvl0jyvqbf766h06
-NarSize: 4952
-References: 307zn3dfn5hrhkslbr8xff0myafjqyc7-nettle-3.7.3.drv 6gx709a6m0jsr50gra7da7vxy47pkdjk-bison-3.8.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh g207bfymxaihjdg90vpb6qc1drvx1m9m-expat-2.4.6.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv pczr3p3jfiab232ynfz0xi45lqwj0xcc-unbound-1.14.0.tar.gz.drv xc4770c6kwpmfgqw3ca43qabm0fm6j3d-libevent-2.1.12.drv yhcqzrl16lwrfhizn58d7lfxxdif46a6-dns-root-data-2019-01-11.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv z02xk6c53zvarx0mfwnpmd0lq0iv2w39-openssl-1.1.1n.drv zpq5qlqdqy45rsq2gbnjcg9kps862jfi-hook.drv
-CA: text:sha256:02m36dg6ghzrz6cnv8f24fsdfz2a6qwm9hkiip26z1fxhgjxb7cz

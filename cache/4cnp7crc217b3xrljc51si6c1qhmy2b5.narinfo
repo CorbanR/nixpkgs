@@ -1,9 +1,0 @@
-StorePath: /nix/store/4cnp7crc217b3xrljc51si6c1qhmy2b5-libyaml-0.2.5.drv
-URL: nar/0i2qhgmq63lwzwyyghizqqfd4gvsnfmb5iqa1066dnmirfa6q926.nar.xz
-Compression: xz
-FileHash: sha256:0i2qhgmq63lwzwyyghizqqfd4gvsnfmb5iqa1066dnmirfa6q926
-FileSize: 732
-NarHash: sha256:1r23rkwsf7rr7crjs172k5z8hdfflr548xiyrxccwcahgla5rj11
-NarSize: 1560
-References: 015pgq9gw3g4pyhsx2dj01na6svf82g3-source.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv kfgr61wrkqrccvrb6p4x6w63qzllhh7b-hook.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:05bp3yxq43l6xmgca0flgw82p1kdsj0g8b326pv67zig8fv3wcc8

@@ -1,0 +1,9 @@
+StorePath: /nix/store/lxfbjlzc6qww6c7w99m84268flkj01gc-python3.10-psutil-5.9.1.drv
+URL: nar/0621kl15jrwibz5bcyixpkra2sncahs33lzw5i5ma49ls8qkqbap.nar.xz
+Compression: xz
+FileHash: sha256:0621kl15jrwibz5bcyixpkra2sncahs33lzw5i5ma49ls8qkqbap
+FileSize: 1736
+NarHash: sha256:0b2zhrakv16cjrskggp63jpngvykyj4cc5b5s6p7w0c872zl13av
+NarSize: 3904
+References: 0jp3yvaa6f0y5ibl4s591knawhzjcc87-python-namespaces-hook.sh.drv 0yqzy7cdgrjx18ap6pgi1myfk1i3225m-python-remove-bin-bytecode-hook.drv 6v6p7mkshj1lhgxrsaws2w5wmvc1ff84-psutil-5.9.1.tar.gz.drv 9c1x18y3zjcqd61rii1ylj6fqzxb6jym-python-catch-conflicts-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh axnb3f8jrin86pfa586waxb0kb09rwka-setuptools-setup-hook.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv fjzksics23hlkpvw7xzh4nqi5zvxwmgf-python-remove-tests-dir-hook.drv jcm8jhrj809xnv37r9dbzryydp2dn7ml-python-imports-check-hook.sh.drv krss2ziyzvim7i9bxcjjz9qg5j6m845m-hook.drv n2akaq46dr3gbrmrrv7vcz85rhikrdni-hook.drv nhzdfhr7s70rwn0y8p0d83jf4aq86686-apple-framework-IOKit.drv r08f587ni59f57df8k5hx1ivql6x7brb-python3-3.10.5.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv ynvpz6c45mq54a0a5ghcrcd7lbgira5n-python3.10-setuptools-61.2.0.drv z8lphm5m425zxaa2wrq6nbxzrb1a5v4g-pip-install-hook.drv
+CA: text:sha256:1lghprdb37ic1sm23gi8qdhmfkn3r75rggi7qb4pqdx3myx036r5

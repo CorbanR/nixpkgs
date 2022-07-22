@@ -1,0 +1,9 @@
+StorePath: /nix/store/siq12w8n6jchi1vahpc73qsn54ai3s49-dejagnu-1.6.3.tar.gz.drv
+URL: nar/07iwbwalp2w83yl9l2knkkqck64g2ih6lmy279xf1a60d8xj9vxd.nar.xz
+Compression: xz
+FileHash: sha256:07iwbwalp2w83yl9l2knkkqck64g2ih6lmy279xf1a60d8xj9vxd
+FileSize: 1292
+NarHash: sha256:0bphgj2j0cl2wyvqz9z9ysbmnfjvj1wbdizrmk2709spz2gk2ci2
+NarSize: 2968
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
+CA: text:sha256:0hcycff15nw9sv2l1p7ysdwyrxfq3m2dfs4kn8h710c1r6adq6ih

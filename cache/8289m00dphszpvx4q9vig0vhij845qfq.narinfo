@@ -1,0 +1,9 @@
+StorePath: /nix/store/8289m00dphszpvx4q9vig0vhij845qfq-graalvm-ce-java8-darwin-amd64-20.3.0.tar.gz.drv
+URL: nar/01y1sb7hk5mngccgb6mc8kq300lxfir4d7xlwibgjk15dg2lh57b.nar.xz
+Compression: xz
+FileHash: sha256:01y1sb7hk5mngccgb6mc8kq300lxfir4d7xlwibgjk15dg2lh57b
+FileSize: 1396
+NarHash: sha256:00gdyqyrmvdzr8bpnv0mafn4vawnp84n35iav6av2vadm1gpbr08
+NarSize: 3384
+References: 788wc4ldndpzc9bsl3qyjbqmfs3474sg-curl-7.84.0.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh njy0fp2wb9r6dm9blgckx8p8r3qmpv5l-mirrors-list.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:0vkrkrsha47cnjzz5r0aj04gz0qqvq874h3dgdbqin36c6wwzsv6

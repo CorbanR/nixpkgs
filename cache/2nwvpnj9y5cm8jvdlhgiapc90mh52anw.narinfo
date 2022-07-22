@@ -1,0 +1,9 @@
+StorePath: /nix/store/2nwvpnj9y5cm8jvdlhgiapc90mh52anw-py-1.11.0.tar.gz.drv
+URL: nar/19dnwbjsj9pxfbk7pszb9damszm5ryvrgjfc6kc88m4g8aavv2pi.nar.xz
+Compression: xz
+FileHash: sha256:19dnwbjsj9pxfbk7pszb9damszm5ryvrgjfc6kc88m4g8aavv2pi
+FileSize: 1252
+NarHash: sha256:1rkgjgc51l33xdgzrm2q1cmq9vxj39w13afh72j8b31nlvz08c92
+NarSize: 2960
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
+CA: text:sha256:04wj8n6yciib4n0mvinnihl9irmwyld47d6555qgs0a2db4jgkvr

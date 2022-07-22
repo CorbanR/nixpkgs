@@ -1,9 +1,0 @@
-StorePath: /nix/store/37kil3y4z70vad99my5mbhridybmyy0j-buildcatrust-0.1.3.tar.gz.drv
-URL: nar/03vngv0sxmqfjjlgnji5w18c2qy3jib8nhdy413lc29knqn5sifp.nar.xz
-Compression: xz
-FileHash: sha256:03vngv0sxmqfjjlgnji5w18c2qy3jib8nhdy413lc29knqn5sifp
-FileSize: 1384
-NarHash: sha256:00q34sndrpcygljfaqw367ckjlm1vg405va98qsmnsjfng1z070a
-NarSize: 3192
-References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
-CA: text:sha256:10rayr27k1xpn87pwk1qhrv9w2zg84zzzn3mr1vylksrhb3j7ywg

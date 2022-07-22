@@ -1,9 +1,0 @@
-StorePath: /nix/store/l8imn03s1ixhvm7rz8d6gv7g57g8avvy-libmaxminddb-1.6.0.drv
-URL: nar/0qgpcmxil0isycxz1h3ipwagfhcqw4lrcn1jwnls6iimicr1ci1h.nar.xz
-Compression: xz
-FileHash: sha256:0qgpcmxil0isycxz1h3ipwagfhcqw4lrcn1jwnls6iimicr1ci1h
-FileSize: 680
-NarHash: sha256:0pzwnc59xfiq0fpam0qxcaii6hhgmfadzrsh67p639p1pkmi8dh8
-NarSize: 1504
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh d6x4wwavxk77k66lkvhdyxjdilrpbkpp-libmaxminddb-1.6.0.tar.gz.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:1r0rc73c3gfd7dvs5djch3arc17yf8mfmsqgnpwkknh961jkcf2r

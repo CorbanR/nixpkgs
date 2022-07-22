@@ -1,0 +1,9 @@
+StorePath: /nix/store/dxzy09kyi4xrg91x205b3gal1986mnp5-libbfd-2.38.drv
+URL: nar/0x4cfbcpfkk9aqfj3swkpl3kf9vsbsbh2vwh00k19qmjwnrk939a.nar.xz
+Compression: xz
+FileHash: sha256:0x4cfbcpfkk9aqfj3swkpl3kf9vsbsbh2vwh00k19qmjwnrk939a
+FileSize: 1636
+NarHash: sha256:09103wza1g8h89qkz4rnbdfz2fl942fb6ycczxlbbrgxfvbivb51
+NarSize: 3976
+References: 06xps7mamhq7adn8s5kbr84pc8ncx9nv-zlib-1.2.12.drv 0df8rz15sp4ai6md99q5qy9lf0srji5z-0001-Revert-libtool.m4-fix-nm-BSD-flag-detection.patch 0p1bf2vad7k44zmzy95nv8qbn11pf0kv-deterministic-temp-prefixes.patch 4nvwwpx4bknjspmk6lhjj72bhp471nhb-libiberty-11.3.0.drv 7y38c7ys1g3lxhncs1nj6v9kj7vlsscc-hook.drv 81wcz5lqa2fv2a4xcf9kyqgi4yr33dix-bison-3.8.2.drv 8xwjza34zkr2nhf02rmvm4cikvc90l2d-gnu-config-2021-01-25.drv 8y56i0zx93rbx0mj4p99nfl92vkr38bs-build-components-separately.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv is6j9vdyz6fanhrj5fva1hqmfywf0fh5-binutils-2.38.tar.bz2.drv lgniihp1bk6mkd5nn9y5ikfim2ignr52-0001-libtool.m4-update-macos-version-detection-block.patch pa83jbilxjpv5d4f62l3as4wg2fri7r7-always-search-rpath.patch pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv s73ih38wjz5nr4m31ma6dnvbfqrgcjmm-bfd-1-disable-subdir-doc.patch.drv sqbhaaayam0xw3a3164ks1vvbrdhl9vq-deterministic.patch
+CA: text:sha256:1qli4dhj3kd0giklinn1ylfhjpinqxgcapfx8dj887xywf0s9pd6

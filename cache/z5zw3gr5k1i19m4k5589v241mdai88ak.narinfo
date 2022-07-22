@@ -1,0 +1,9 @@
+StorePath: /nix/store/z5zw3gr5k1i19m4k5589v241mdai88ak-meson-0.61.2.drv
+URL: nar/0jxs43p95m47qiy63lwmk8yz3cdiq9qg7lhr0bbsv6k8p06642r0.nar.xz
+Compression: xz
+FileHash: sha256:0jxs43p95m47qiy63lwmk8yz3cdiq9qg7lhr0bbsv6k8p06642r0
+FileSize: 2292
+NarHash: sha256:1104sf9h9lj5lnk40n0fy8nf9fa686ps0n8pxh3mrhkbfm9rnsjx
+NarSize: 5488
+References: 0jp3yvaa6f0y5ibl4s591knawhzjcc87-python-namespaces-hook.sh.drv 0yqzy7cdgrjx18ap6pgi1myfk1i3225m-python-remove-bin-bytecode-hook.drv 1y6lfavd1bzbmv77p29aw7xaqn30ql9h-gir-fallback-path.patch 3svm27g4dzszav6sb3nnsh85g6hgpaz2-clear-old-rpath.patch 7zbyqz1a18s1b0qpvxkrdnqjbdlp7wa3-fix-gtkdoc-when-using-multiple-apple-frameworks.patch 9c1x18y3zjcqd61rii1ylj6fqzxb6jym-python-catch-conflicts-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh axnb3f8jrin86pfa586waxb0kb09rwka-setuptools-setup-hook.drv dgh2dydb2886zvcsvafpighm1y6i4n27-more-env-vars.patch dsl7wi4viawxiqf3f3y0f299fxby068x-fix-rpath.patch.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv fjzksics23hlkpvw7xzh4nqi5zvxwmgf-python-remove-tests-dir-hook.drv g145km8b75alwm2nxnpvilhxvcyka0hd-install-shell-files.drv j7wcvrzv011i8vgmc2f7rnaim5zpdk96-meson-0.61.2.tar.gz.drv j9dgvh81nvqxm3cgmx7ggwyalm4adsca-boost-Do-not-add-system-paths-on-nix.patch jcm8jhrj809xnv37r9dbzryydp2dn7ml-python-imports-check-hook.sh.drv krss2ziyzvim7i9bxcjjz9qg5j6m845m-hook.drv n2akaq46dr3gbrmrrv7vcz85rhikrdni-hook.drv p1qwpq5615yrbcy7xh5kw0v5hn52w9zy-setup-hook.sh pza7hhm23l5qlkb633di8mrf67jp9lbr-allow-dirs-outside-of-prefix.patch r08f587ni59f57df8k5hx1ivql6x7brb-python3-3.10.5.drv vqdlmxah681rbn4ls1xqjdmnc1gqj95c-266e8acb5807b38a550cb5145cea0e19545a21d7.patch.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv ynvpz6c45mq54a0a5ghcrcd7lbgira5n-python3.10-setuptools-61.2.0.drv z8lphm5m425zxaa2wrq6nbxzrb1a5v4g-pip-install-hook.drv
+CA: text:sha256:0wvjxdx1rn1q94cbab0mkfrmv1819v411yn7i8q4ppfhxjjnkk84

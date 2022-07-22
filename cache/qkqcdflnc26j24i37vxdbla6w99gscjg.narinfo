@@ -1,9 +1,0 @@
-StorePath: /nix/store/qkqcdflnc26j24i37vxdbla6w99gscjg-coreutils-9.0.drv
-URL: nar/014gsqb48qd7bs6jg7f5b4q9r651wacz54yn8qigfmcs92c31a1r.nar.xz
-Compression: xz
-FileHash: sha256:014gsqb48qd7bs6jg7f5b4q9r651wacz54yn8qigfmcs92c31a1r
-FileSize: 1864
-NarHash: sha256:06khl88l0arf2x1x4plvphwsz6srcsypcbx5cv0ni7xj0iqf7j6x
-NarSize: 4344
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 1jqvgdxbrxphqsyzh0fkywgq6z5sm593-bootstrap-stage4-stdenv-linux.drv 2j8nv5xpgw7js9lr3dnspc2vk04jifzv-fix-chmod-exit-code.patch 4dk9jfhw46cyk9c5n3vw8r6kcyp0gjgm-coreutils-9.0.tar.xz.drv 8dgi0ync70pgdcp2x1z85f7aqiak2651-xz-5.2.5.drv 8z98s0rk2ja05ighrmpvdhsyp61k039c-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh lan97nvzif9ihkahahn0jlk9km4j3jrk-perl-5.34.0.drv nqrwkrrnpc7443annivd10zgnnfcc0cm-fix-arm64-macos.patch snhl0w63mc0s3q6y386g061bgc7jdwwn-disable-seek-hole.patch
-CA: text:sha256:0vnphacaqz6cxddwdhd1iivcclf0xfj50b25nsbi4fbkkw39580x

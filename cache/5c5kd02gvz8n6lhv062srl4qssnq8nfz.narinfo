@@ -1,0 +1,9 @@
+StorePath: /nix/store/5c5kd02gvz8n6lhv062srl4qssnq8nfz-lvm2-2.03.16.drv
+URL: nar/1dvx9q5vkhgq51f89dsdfdz0wbpbcal2mfahfy6288l8hxnhc240.nar.xz
+Compression: xz
+FileHash: sha256:1dvx9q5vkhgq51f89dsdfdz0wbpbcal2mfahfy6288l8hxnhc240
+FileSize: 1888
+NarHash: sha256:071qvkn281z5987jqckgcwcpa1b6zja9946q82zphpij7nwrxyh4
+NarSize: 4432
+References: 0llnchhlz2xrpar9r79qdi8wlxn6bk9f-fix-blkdeactivate.patch.drv 20cl7vhswyzbgydls1xbsqq41hz57gdp-LVM2.2.03.16.tgz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9vc52zyg9kyqn6izp5i4l128g36ypm00-libaio-0.3.112.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv n67a4r7rn1ay37n9945rvmnz74xlgi59-util-linux-minimal-2.38.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv qnxyad638x3pi4i06h3j8kph81kjj7nz-systemd-minimal-250.4.drv xdczp2jf0mdcaqfi0xmsh3ynqkhad1hd-pkg-config-wrapper-0.29.2.drv yzn1a0zmrbh2fdhjwrgdjxvil7mxiwms-coreutils-9.1.drv
+CA: text:sha256:1ikwndcb4h1vfq5ksii8qkqdpz9790mvqqwlmk4ih35yyxaq17b8

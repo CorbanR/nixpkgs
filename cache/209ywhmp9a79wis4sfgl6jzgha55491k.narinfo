@@ -1,9 +1,0 @@
-StorePath: /nix/store/209ywhmp9a79wis4sfgl6jzgha55491k-audit-2.8.5.drv
-URL: nar/1ni4rw36cmyb3wjc2svgz28lssplb006a8bpadpy278glkpknqrr.nar.xz
-Compression: xz
-FileHash: sha256:1ni4rw36cmyb3wjc2svgz28lssplb006a8bpadpy278glkpknqrr
-FileSize: 1584
-NarHash: sha256:074c2jh84s8jfzl8i98kl80gns3xmxncnbv0s77s2kd11bn40bgl
-NarSize: 3656
-References: 2zqk53fyirrj961nd06vnfb6p68dlqsv-weak-symbols.patch 4pnkryvx4wfhpf3y4zgl4gypjd0zfinp-Add-substitue-functions-for-strndupa-rawmemchr.patch-fix-copyright-merge-conflict.drv 51vmalh8lvqpicg9rxnrln5q9l1fz8vc-gcc-wrapper-10.3.0.drv 5jhn7l1zxwsybf5sfihljgb5wa8lv4qn-017e6c6ab95df55f34e339d2139def83e5dada1f.patch.drv 6l7jd4l41sb8yw2inllvwwxk4ray1pzi-audit-2.8.5.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dvvzkvlvzidjikj3ijrl4rradkwwh31m-linux-headers-5.16.drv fsi6y1bk26hvf5amqrad6k1n0qrl0cm7-no-ipx.patch.drv iblajnpgclvhc5ghad7fckrvlqfgdnzz-swig-3.0.12.drv j379inyzai6zfbwjkb1kj38znmxlssd7-python3-3.9.10.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv kfgr61wrkqrccvrb6p4x6w63qzllhh7b-hook.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:1v5xgqhjaklvlgisk7h07mkljigm8slrxnhzj4jnxmlrh0ili713

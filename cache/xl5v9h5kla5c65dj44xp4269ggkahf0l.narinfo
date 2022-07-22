@@ -1,9 +1,0 @@
-StorePath: /nix/store/xl5v9h5kla5c65dj44xp4269ggkahf0l-rustc-1.58.1-src.tar.gz.drv
-URL: nar/006sgx64mcf8m4fzziv9ci50xskmgf82g5bd9y38s3033yfz4mj4.nar.xz
-Compression: xz
-FileHash: sha256:006sgx64mcf8m4fzziv9ci50xskmgf82g5bd9y38s3033yfz4mj4
-FileSize: 1284
-NarHash: sha256:0jr4c4w8zibcwlqkqlp0xmnc0gihzk7pa2p4bvlvibkk650l9d61
-NarSize: 2920
-References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:0d4xxaga98zdc1a2qqsgvklbsvwp0hh8pkw42ha6s04c2asf5srp

@@ -1,0 +1,9 @@
+StorePath: /nix/store/7b5qvkdsvr5j1705yxa6r0qzvkxvdvyi-zlib-1.2.12.drv
+URL: nar/0i6p6wy3wiifsi89ryx9sjs0r9a6hy1w29cnvkqx0whd6pbvmjjx.nar.xz
+Compression: xz
+FileHash: sha256:0i6p6wy3wiifsi89ryx9sjs0r9a6hy1w29cnvkqx0whd6pbvmjjx
+FileSize: 1076
+NarHash: sha256:0h2635s0k33f1xhmd7hzsnp584igcay8r0yayk552c5jsw7bn1k6
+NarSize: 2616
+References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 0zy0xzymyjwwyk1kk493iz7mpmjab1sq-bootstrap-stage2-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ara7ym168qgzfzi2an6g594361xxk0c9-zlib-1.2.12.tar.gz.drv jw5f744vn0nv6q0ms6s5q0w0kkml2a8v-fix-configure-issue-cross.patch xniqbx8mh8lx06bw267g6hkfkp2c79kn-comprehensive-crc-validation-for-wrong-implementations.patch
+CA: text:sha256:0g5py80mha6ycpp9g94nim942i25f39ajjaw7qsk7vyx2q0ksch1

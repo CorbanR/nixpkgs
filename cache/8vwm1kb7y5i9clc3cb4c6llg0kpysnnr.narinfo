@@ -1,9 +1,0 @@
-StorePath: /nix/store/8vwm1kb7y5i9clc3cb4c6llg0kpysnnr-libmicrohttpd-0.9.71.tar.gz.drv
-URL: nar/06pp2lkkn34p9dqh3zc46q33adsbhgc51pfl7kzpbc2mr67fw5gh.nar.xz
-Compression: xz
-FileHash: sha256:06pp2lkkn34p9dqh3zc46q33adsbhgc51pfl7kzpbc2mr67fw5gh
-FileSize: 1276
-NarHash: sha256:0hj7q79lhbgf98fmvzqgjj7xc3fjbjm2svw8avdc9njd1chj8j8r
-NarSize: 2928
-References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:0jmz76h45vk7hd39jk9644agnard1vag70f4b6kh51r6l68b8mh1

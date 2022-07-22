@@ -1,0 +1,9 @@
+StorePath: /nix/store/pv7293jmsr2ykgrspv9b1lk90aq2ri4h-docbook-xml-4.5.drv
+URL: nar/0b8g7xhv70b9ckq1sdjyak4jxh5zrrwhis59z9cwpg4li13kx720.nar.xz
+Compression: xz
+FileHash: sha256:0b8g7xhv70b9ckq1sdjyak4jxh5zrrwhis59z9cwpg4li13kx720
+FileSize: 1024
+NarHash: sha256:10sw0b8gwsyc095ici4169pfy51firv8m5cl3nyalk3h8qjkg8hg
+NarSize: 2208
+References: 1dx6rihcfzshwmwgdwrq0332xmi3qnjx-unzip-6.0.drv 6qm013nqpynyq351hmrcls8fipmwckms-docbook-xml-4.5.zip.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv jiwrn35qxwrfbgavmqgfzdkr0688lrkn-hook.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:10nwlfz9m0i34n1c6xh9rcg9na7m0c9iz0grn8m9b35a7w1vwbix

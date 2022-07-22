@@ -1,9 +1,0 @@
-StorePath: /nix/store/wm455gj8bfj6vcnm5r20l2gc80zdmkwd-native-image-installable-svm-java11-darwin-amd64-20.3.0.jar.drv
-URL: nar/0wdr4qqf0prra1frnf2yjmdy5w98myk6z5q3fd6gxcgk50wf5az0.nar.xz
-Compression: xz
-FileHash: sha256:0wdr4qqf0prra1frnf2yjmdy5w98myk6z5q3fd6gxcgk50wf5az0
-FileSize: 1392
-NarHash: sha256:1jidml8n06l0z8z6wris78v9q6gydy310qhp2vm5japnn8blvazg
-NarSize: 3376
-References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
-CA: text:sha256:12fr73jsm0ss5nv6x95czricwkrx47abylcxcd9ygw16jm8aghxn

@@ -1,9 +1,0 @@
-StorePath: /nix/store/ssq0jmmn03bw1w24rmwhkcyr8aj47848-FCGI-0.79.tar.gz.drv
-URL: nar/0z0xqd4cmfwscdxpgkmvasyzdqfcpj3aqw674sjlr5n2bakxhjdh.nar.xz
-Compression: xz
-FileHash: sha256:0z0xqd4cmfwscdxpgkmvasyzdqfcpj3aqw674sjlr5n2bakxhjdh
-FileSize: 1284
-NarHash: sha256:00q4ibypiz2ipq9g8ra0w526gvnkf1qcl0jrajrhsp4vny07ik56
-NarSize: 2896
-References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:0fdvkayaxa7cma5d2nwb8plm5iwj0blyl7nx4b7dg8fdjgxfpdva

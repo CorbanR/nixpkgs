@@ -1,0 +1,9 @@
+StorePath: /nix/store/dhgc97p3hn6s89l7vzn7bb4rx8jpgns1-dejagnu-1.6.3.drv
+URL: nar/15vg841snq4zclhppycw4ydgfsm7kk1kxgk802apy1s1ncmsfjf6.nar.xz
+Compression: xz
+FileHash: sha256:15vg841snq4zclhppycw4ydgfsm7kk1kxgk802apy1s1ncmsfjf6
+FileSize: 1188
+NarHash: sha256:0zhszvadjzlfa92ay33gdjydymwz0jlyyc949xv2r8yzbd3z56ms
+NarSize: 2456
+References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9x2qbx2zpmzb2fp3vqcrpzd7n8dm5mnd-bootstrap-stage3-stdenv-darwin.drv c8yplgxv7v156vn1wivn8i39d135wqr7-dejagnu-1.6.3.tar.gz.drv r2bh3pkjkkcsl74wcvl0lxzkc1p5rh7d-expect-5.45.4.drv rdyxig8xj36xjzafr4ad7yhrlc24q0kx-hook.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:0xnm2x2dl5xh0lgy7r1qbivgcr3j7rzlx3d24a59w5lcagbdl7ys

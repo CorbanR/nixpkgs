@@ -1,0 +1,9 @@
+StorePath: /nix/store/pbpgbhpacq6qlnxsb5zx0jaz1a9sm8a6-getent-glibc-2.34-210.drv
+URL: nar/0h6ah6kfv081an5nrxy61q4j9732dpg4c04icqb5knwsm5v8w5mb.nar.xz
+Compression: xz
+FileHash: sha256:0h6ah6kfv081an5nrxy61q4j9732dpg4c04icqb5knwsm5v8w5mb
+FileSize: 880
+NarHash: sha256:18iv03wrfwl8jzz0277n7fi99zs9sc3sc3iaphlaamajzgg12ggv
+NarSize: 2080
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ksp0ph556jzkgq7z9v8c6ydmf4xclad0-glibc-2.34-210.drv
+CA: text:sha256:05fdd1j1if0kksa6hm0mr22b8scvn71dq6w986dvp3pxn60jzyz1

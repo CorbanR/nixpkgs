@@ -1,9 +1,0 @@
-StorePath: /nix/store/zagm8vvarmwwfic1wg0l82x67dplxrfm-gnutls-3.7.3.drv
-URL: nar/0kkyk46gqiwvakbhnpjqhcgxddp5nfmkp5d3wbjdaf579zaqqhjs.nar.xz
-Compression: xz
-FileHash: sha256:0kkyk46gqiwvakbhnpjqhcgxddp5nfmkp5d3wbjdaf579zaqqhjs
-FileSize: 2620
-NarHash: sha256:18m5fdqd42gbhsdxxc37r3px09l1w559hxg91by8l9x4asiv9xxd
-NarSize: 6048
-References: 307zn3dfn5hrhkslbr8xff0myafjqyc7-nettle-3.7.3.drv 51zw3ipvxllxyk0h9gy0a3v7g6h6488h-nix-ssl-cert-file.patch 5rh2jkzv3qdirl8s8rl2ix3qc4wr8mxz-net-tools-2.10.drv 678njblwpw4nc971ysj1a1pj6znln43p-lzip-1.22.drv 6ivknbbii1j6mgmbs9xrn7szi3fc2zyn-lzo-2.10.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bms7b11yddran3madfnfkarp0kaj1f1a-perl-5.34.0.drv fjqbnyqy668lshv5vwa5zmwwpfnfkqdi-unbound-1.14.0.drv fmbcpkrrhln9pkn2xr7a3n0v1dmirw5r-zlib-1.2.11.drv i6466lyrwhqx3w7pzcqlv8p8n3z6pax4-gnutls-3.7.3.tar.xz.drv ifksl457dnqfhgxr37fbbi04fszw1syg-libidn2-2.3.2.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv li2k28vddrxxj369l8b23q82inwnw1g0-libtasn1-4.18.0.drv nxl80p1naxc4p4dipf91n2lb0ci6sxjk-gettext-0.21.drv pajkrygv8mn78p3majgkyfh85l1n20g1-pkg-config-wrapper-0.29.2.drv qd0cshw4ci80hfr52ayx7cj2w43w76ay-libunistring-0.9.10.drv qfik1996gyhh3mnhdvdr3mj3hclxr9cm-glibc-iconv-2.33.drv rbhl2w6n4lz7vfs12xwnb35blxn36wdb-p11-kit-0.24.1.drv s26hlqvba6qy8hpandi4nfn6zysssq4x-gmp-6.2.1.drv s3h6ciwd995v4bs44q6zmfs536qw863a-util-linux-2.37.4.drv wc7fqjdk1bywbgwkr8ngb8qcipzyi44b-which-2.21.drv wfnw2gdabjyr24qjwrwa9rs2p7da1mc8-dummy.crt yhcqzrl16lwrfhizn58d7lfxxdif46a6-dns-root-data-2019-01-11.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:191fdsiffdakv0p9znf4fmprsyxgbdq1wg82mh8xmhwbrg19avhh

@@ -1,0 +1,10 @@
+StorePath: /nix/store/pk6rx7z6x79j9bf2xjw2hj0hivk5bp7j-gmp-with-cxx-stage4-6.2.1
+URL: nar/03wianhmsrzj5553ab99s7ahi6fhycyl46r4grvnqnwgby76h4a6.nar.xz
+Compression: xz
+FileHash: sha256:03wianhmsrzj5553ab99s7ahi6fhycyl46r4grvnqnwgby76h4a6
+FileSize: 271920
+NarHash: sha256:0pzhvi8dz1b8lzfkjy39g321lnb11mrdw19hnv2r8p3khkz2h6yj
+NarSize: 748016
+References: mhhlymrg2m70r8h94cwhv2d7a0c8l7g6-glibc-2.34-210 pk6rx7z6x79j9bf2xjw2hj0hivk5bp7j-gmp-with-cxx-stage4-6.2.1 xjmm9xg5sq47q63cbf447qalz9fmwp0v-gcc-11.3.0-lib
+Deriver: 6jhs2d9bg370ycmqbawn7wahy766xv1b-gmp-with-cxx-stage4-6.2.1.drv
+Sig: cache.nixos.org-1:UimIU3mnDYCC+ePswnagSBr6LELB2+pPK90nm6No3LRVLCrfXQVxKsJ7eTrDYfeubfjGGIb36sWUclLDOZOtCw==

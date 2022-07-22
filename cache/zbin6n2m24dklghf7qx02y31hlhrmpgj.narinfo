@@ -1,9 +1,0 @@
-StorePath: /nix/store/zbin6n2m24dklghf7qx02y31hlhrmpgj-bootstrap-stage2-gcc-wrapper-.drv
-URL: nar/1m5cjyfcmrd37h6ycypm49xq893fwqgf3rlnkc0ms2v8ffskfc31.nar.xz
-Compression: xz
-FileHash: sha256:1m5cjyfcmrd37h6ycypm49xq893fwqgf3rlnkc0ms2v8ffskfc31
-FileSize: 1944
-NarHash: sha256:0zxdzx48nkmj78kja9qzmik5v2s5bq2a86q1k1flpyjkrr3506xc
-NarSize: 6832
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 2idjp2xdckqyrdk3hd8msp4cfdi6b8if-utils.bash 3i1jxy1xi60530p5sm5wx1jk9zxbkks1-bootstrap-stage0-glibc-bootstrap.drv 6jabq3799g5n8gmwip3277si8clkl4rw-cc-wrapper.sh 797k3249lr4rx8wslf7kcsa3hv6fis3x-role.bash 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh hc3z14jhqg35x5286hw5wmc3injg62fa-add-hardening.sh ji2yrl1na00bwav65hh1vr0nc0s1xzvz-add-flags.sh jll6j5ymcdas70r4650mb4hawckq91pk-bootstrap-stage0-stdenv-linux.drv l3v7hw33nfg664fn5lwlk2c4nkk6gp6n-expand-response-params.drv nc4bvrgb8jxh4k1fq2zgzh4mmxqavp54-setup-hook.sh s4xcwa5x9x76s24z5ip4ny757zdcdzjr-binutils-wrapper-2.35.2.drv
-CA: text:sha256:16q0nshgzj070x89kdhvsifgpka5qkcmc7z6vwx6nsh8mm6m7fz7

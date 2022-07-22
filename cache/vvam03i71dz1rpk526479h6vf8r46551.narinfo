@@ -1,9 +1,0 @@
-StorePath: /nix/store/vvam03i71dz1rpk526479h6vf8r46551-glib-2.70.3.tar.xz.drv
-URL: nar/175flqjar59kh9llyaasbbv3vyia51ssz23r3q1kj7h2dgc0d4m2.nar.xz
-Compression: xz
-FileHash: sha256:175flqjar59kh9llyaasbbv3vyia51ssz23r3q1kj7h2dgc0d4m2
-FileSize: 1280
-NarHash: sha256:0ydm8m1d6cg38624j8wq0xjbs9w3hcpr9cz4j9rpw1qq8w1pwx6g
-NarSize: 2896
-References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:1h12vkrcx7fbhpfx8f5bdkza1kalhrla1wp6hkdxjf89a09zrllz

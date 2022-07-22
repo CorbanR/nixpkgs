@@ -1,0 +1,9 @@
+StorePath: /nix/store/lbvjj1sgrigq324mzxyzfchcms02jzjv-opensp-1.5.2.drv
+URL: nar/0gcdracck37z8w0h7r8f1zm2dsk8hn2l1dj5krgkhqjik1i72fwd.nar.xz
+Compression: xz
+FileHash: sha256:0gcdracck37z8w0h7r8f1zm2dsk8hn2l1dj5krgkhqjik1i72fwd
+FileSize: 1312
+NarHash: sha256:1hi0l5i0inwabxc31jay6wp3xhl4fhkz6spairazbry3iz844pp7
+NarSize: 2960
+References: 028kb2aay639a27565ph399xp2nwvbsv-docbook-xsl-nons-1.79.2.drv 09d58rxj7nsn97zraszhrhaqwrb65xr6-OpenSP-1.5.2.tar.gz.drv 9h7xbxligans6gr5jg5zanphhjx7sy65-xmlto-0.0.28.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9z7iryy658z36nvm4zy5syc6fh4l4y5a-opensp-1.5.2-c11-using.patch?id=688d9675782dfc162d4e6cff04c668f7516118d0.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv igs8nmrfgbg9gc1a6z3h0qypx8fwj4hw-docbook-xml-4.1.2.drv k3qpdghk1vwds53d4a58nszphwmf47xn-setup-hook.sh x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:0ih2yvkb3chfm41cgq09d2xibylh22l6drniq7xddi9q5xsp54a6

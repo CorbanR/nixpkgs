@@ -1,9 +1,0 @@
-StorePath: /nix/store/aa1l5rs7m47za5rdx2gwjj4wijxy9326-python-setup-hook.sh.drv
-URL: nar/0mx79wcz44hs3as0pgh8lvq4sg2iyzgk8fvb9r6f6ag4l8clvyjr.nar.xz
-Compression: xz
-FileHash: sha256:0mx79wcz44hs3as0pgh8lvq4sg2iyzgk8fvb9r6f6ag4l8clvyjr
-FileSize: 724
-NarHash: sha256:005lnah74hp8jbar6jlh7z5g36dpmdpfa9n7s5hrq79n8c7ikkkk
-NarSize: 1616
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9xxmspgcikk4irwrnn0gssmrd3djihg1-bootstrap-stage2-stdenv-linux.drv zi0m9pfmvy5lw89x7a8x674rm99i8qiq-setup-hook.sh
-CA: text:sha256:0grjbywfip2lxwk7i2a4nmq6xln11bd7aq34y1bk44qs4yy7py98

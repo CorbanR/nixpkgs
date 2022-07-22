@@ -1,0 +1,9 @@
+StorePath: /nix/store/5dzcx2f8922hyw8xsim7sfbn0wwk69kn-perl-5.34.1.drv
+URL: nar/13al4rifp1nqzkpfgpg37985qaimklmfga1pd79yrpkwwz80hp6y.nar.xz
+Compression: xz
+FileHash: sha256:13al4rifp1nqzkpfgpg37985qaimklmfga1pd79yrpkwwz80hp6y
+FileSize: 1948
+NarHash: sha256:1l63d05alqi34nimgrljn0mr3nxy8c55513wr8gl71zac5vxaf82
+NarSize: 4784
+References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9mgcizkjwh33w9jsilm2x80lqhs131j5-bootstrap-stage1-gcc-wrapper-.drv dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh gqrqpbqlbdg13w7ib30gppnh880w8220-bootstrap-stage0-glibc-bootstrap.drv i909svim3ykl1jwdzj763i0i2bpkw3bx-bootstrap-stage1-stdenv-linux.drv kksv9fp6wb6zvfka5fyp5lajy2nzjs6f-zlib-1.2.12.drv mb381gpm9k5wdl37l5ad5pp8w11qzhjg-no-sys-dirs-5.31.patch srr6xmjy79z5cn06mr7sx51p4hz8sv58-perl-5.34.1.tar.gz.drv
+CA: text:sha256:0fvi63d3z41wf7s065d418xq2yc5c2lmkcd53sb0p8zqvk47p9wf

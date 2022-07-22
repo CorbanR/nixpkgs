@@ -1,0 +1,9 @@
+StorePath: /nix/store/62vv8mmy84gcnr0jr310q91rdrbdn65i-docbook2X-0.8.8.tar.gz.drv
+URL: nar/1i8n9qi561g5drqi03rd6b4yf364gas5inmi8iggv9ns2m1ha67k.nar.xz
+Compression: xz
+FileHash: sha256:1i8n9qi561g5drqi03rd6b4yf364gas5inmi8iggv9ns2m1ha67k
+FileSize: 1296
+NarHash: sha256:0s5lx216rrlzh7lf7z9j87cskpjhffhfgm4jcvfdgpmvnny46246
+NarSize: 2984
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
+CA: text:sha256:0cmz3v2y5pacwrvx6k7qhxdc95m2v7c192pagmfl4s8qvr2yhdli

@@ -1,9 +1,0 @@
-StorePath: /nix/store/vqyfwgzqs78z28vkdrk8d0v7g8wr9bk5-perl5.34.0-TermReadKey-2.38.drv
-URL: nar/1h6ncrxv2n28n0qywdm6178xnx16nf9p9cy1q8p5csmnj1dl5n87.nar.xz
-Compression: xz
-FileHash: sha256:1h6ncrxv2n28n0qywdm6178xnx16nf9p9cy1q8p5csmnj1dl5n87
-FileSize: 984
-NarHash: sha256:12kgy35yp3fk02s60mf8x44wc5dpm0vwq50xhmnwbnrqdv8ln8yn
-NarSize: 2360
-References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv qf3mzpvsmkrw963xchbivcci06078n13-builder.sh rccc520zfcm9yj7jchbbnw16k07gsywl-TermReadKey-2.38.tar.gz.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv z6w9rzzvhxhdi7mv0q8wvvdv634n743g-perl-5.34.0.drv
-CA: text:sha256:1q1mlyqs9nbmsb47h9bkh3rynjjh8dh734aabbw3d4757q2hrba6

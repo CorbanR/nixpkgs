@@ -1,9 +1,0 @@
-StorePath: /nix/store/l77j09idpdrqbcb6xk5rpdkhi3308cli-p11-kit-0.24.1.drv
-URL: nar/1fpaxyy50phg75kdalcyczqbk72axgcan1hzg6yic2pgklyij427.nar.xz
-Compression: xz
-FileHash: sha256:1fpaxyy50phg75kdalcyczqbk72axgcan1hzg6yic2pgklyij427
-FileSize: 1888
-NarHash: sha256:1qfk927xjxp35rni0zmc9bllnjldrl6374gwkivixz0lc57ds7af
-NarSize: 4112
-References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 2g2drzqx02fcn6mmqjnj1cikiclc8m01-install-shell-files.drv 4zljc0p7dgmi6rgvcfy8g8xxqidjcddb-gettext-0.21.drv 6bsqrs9ypdllzy3rd3d0ajxwxysijvqz-which-2.21.drv 7hvz5bp02bi4hcika46z88ih2avcw2f3-gtk-doc-1.33.2.drv 8d8yaf5ibv77sw5l3mwdcndxz9pz5nc8-libxslt-1.1.35.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dfv4sns65w5rsx5mdi9b0f0hxwvl9a5l-libffi-3.4.2.drv g95iaqswhy0wxrnlhckgfx9x3rzvj284-libiconv-50.drv hbx2m52afxqm723qfmm46bji31rq81gk-docbook-xsl-nons-1.79.2.drv ia23h1rcgyphsh7vqyx1fbvlpaxrcrhh-libtasn1-4.18.0.drv rpx4aa5a6jwgaq2djcw9sp1nfd667p0g-pkg-config-wrapper-0.29.2.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv y6hymvxwraxyrhax2v63pw0rc28m68k6-source.drv yrzr234rfpscn3z1igx87f2hwvxasc3x-hook.drv
-CA: text:sha256:0n1zabk9a413liz1yp3kzn3vb2wzx4r5cgghy8pd4y5rh2fvmz8x

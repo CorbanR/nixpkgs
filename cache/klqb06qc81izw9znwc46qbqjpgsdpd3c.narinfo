@@ -1,9 +1,0 @@
-StorePath: /nix/store/klqb06qc81izw9znwc46qbqjpgsdpd3c-libtool-2.4.6.drv
-URL: nar/0gv0lzzzpfcwmdr81spxw39qgvimyd71ikzi2zvh7hmwrzf25dal.nar.xz
-Compression: xz
-FileHash: sha256:0gv0lzzzpfcwmdr81spxw39qgvimyd71ikzi2zvh7hmwrzf25dal
-FileSize: 1176
-NarHash: sha256:1nnvq6qdvg35qni9nkp0fx7bgd09vqnvd3b1ppnsxyp9xbag9yzw
-NarSize: 2720
-References: 0pc18b91az604bmggly2891hgrjd9qbf-libtool-2.4.6.tar.gz.drv 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 14w7sx0wgzlmwgaf507zmh34f4gfgs50-automake-1.16.5.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cjj314ik3xxxg6vwb241yzlsf8sk5f35-perl-5.34.0.drv f8nvz7k2hwiqxdrc69yq4mhn02njs1di-autoconf-2.71.drv fcmyjvd9j6zrf6xra8yjc8aakmjlidhh-gnum4-1.4.19.drv m291v0v74nrqfrdndvpfm7wf3d5v30m6-bootstrap-stage2-stdenv-linux.drv nqkvrl3m8zfcxpaf4xw0lvji09l1z0sy-help2man-1.49.1.drv xq30c2gx2ir2zn234m7yj8igawc3jnb6-libtool2-macos11.patch
-CA: text:sha256:0x1gj66aa5vd2kgr8nafkwhj03wl0hs593r64mxnq93bm84sln8n

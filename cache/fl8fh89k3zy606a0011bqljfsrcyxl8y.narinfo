@@ -1,0 +1,9 @@
+StorePath: /nix/store/fl8fh89k3zy606a0011bqljfsrcyxl8y-python3.10-lxml-4.9.0.drv
+URL: nar/14b3qnaqqscyzg5rmy2j3cgczi64y6v8q2kzjxginyz9j0bkifhv.nar.xz
+Compression: xz
+FileHash: sha256:14b3qnaqqscyzg5rmy2j3cgczi64y6v8q2kzjxginyz9j0bkifhv
+FileSize: 1892
+NarHash: sha256:13iw227ga6h1q5alp80ma8qwayc1hk330aw1cz53hgi8m1rnfddb
+NarSize: 4400
+References: 0jp3yvaa6f0y5ibl4s591knawhzjcc87-python-namespaces-hook.sh.drv 0yqzy7cdgrjx18ap6pgi1myfk1i3225m-python-remove-bin-bytecode-hook.drv 9c1x18y3zjcqd61rii1ylj6fqzxb6jym-python-catch-conflicts-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a3qx2115xgs2295yc5w97w6j3h9izkp4-libxslt-1.1.35.drv axnb3f8jrin86pfa586waxb0kb09rwka-setuptools-setup-hook.drv br76q56isn9vy3jwnwnbq6chhgmwywj9-python3.10-cython-0.29.30.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv fjzksics23hlkpvw7xzh4nqi5zvxwmgf-python-remove-tests-dir-hook.drv jcm8jhrj809xnv37r9dbzryydp2dn7ml-python-imports-check-hook.sh.drv jy0l7qy9j81sgg3r9x0jf1xx5ihvsy8w-xcodebuild-0.1.2-pre.drv krss2ziyzvim7i9bxcjjz9qg5j6m845m-hook.drv lzxggd145l3359bd6byzfq2iwn463dfd-libxml2-2.9.14.drv n2akaq46dr3gbrmrrv7vcz85rhikrdni-hook.drv r08f587ni59f57df8k5hx1ivql6x7brb-python3-3.10.5.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv yg9cplf13bk7j9dqjym1dpc0qgrpy5hr-zlib-1.2.12.drv ynvpz6c45mq54a0a5ghcrcd7lbgira5n-python3.10-setuptools-61.2.0.drv z8lphm5m425zxaa2wrq6nbxzrb1a5v4g-pip-install-hook.drv zy0zrw22dq6wh1p68l7j5llrbrjyhkxg-source.drv
+CA: text:sha256:0k25cgn9i9xd1ry2rabxxng5vr4nmcc5wgy3sncssjd3qnxz3xmn

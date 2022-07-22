@@ -1,9 +1,0 @@
-StorePath: /nix/store/v5nfs01k3irvjcf4gbwdb2302gz8i97b-nspr-4.33.drv
-URL: nar/0kkis5h74sx4wlghax75n9y1rm540ghr9ixi4ihn40hx6n19y002.nar.xz
-Compression: xz
-FileHash: sha256:0kkis5h74sx4wlghax75n9y1rm540ghr9ixi4ihn40hx6n19y002
-FileSize: 1252
-NarHash: sha256:1gring29y4njxf1rky94yr7hlwjg38zlw302dkvv3szh6ac4nqc4
-NarSize: 2792
-References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 9b83cd34na6lsksnfkfn5ks71pqbbqgd-clang-wrapper-11.1.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a673jwsbj6al9war53yvzrg6cjdgk298-0001-Makefile-use-SOURCE_DATE_EPOCH-for-reproducibility.patch shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv wsw9wn7k5amx9an564wkwb53c8vy46pq-nspr-4.33.tar.gz.drv zhkfxk3fsigs9rnzmfwgvpd59ia2gsms-apple-framework-CoreServices.drv
-CA: text:sha256:0gk1ipi7lq8jp1sp4vj58m3rgsi99dzcycrcqi2gq463l3glkp3d

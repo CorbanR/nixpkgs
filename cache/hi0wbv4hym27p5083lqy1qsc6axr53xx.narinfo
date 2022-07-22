@@ -1,9 +1,0 @@
-StorePath: /nix/store/hi0wbv4hym27p5083lqy1qsc6axr53xx-ncurses-6.3.drv
-URL: nar/1klryl0lwzcf8nhxxfaafqr59sp0xiwaiacxr9468zz5k22z7yq4.nar.xz
-Compression: xz
-FileHash: sha256:1klryl0lwzcf8nhxxfaafqr59sp0xiwaiacxr9468zz5k22z7yq4
-FileSize: 1992
-NarHash: sha256:1ykxghfjlclxnba738pfki75qds3v3psvwdxz9m29521xh3df0j0
-NarSize: 5304
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dbkdwxhgckwhi8f49qra7qwiryc27gi0-bootstrap-stage0-clang-wrapper-11.1.0.drv s2yqmqfzzw9gjv0k7n8nbkmsjkp5z6hg-v6.3.tar.gz.drv w2ldbvr0ggkv609qdv8qa0ikvylph8gk-pkg-config-wrapper-0.29.2.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv y4nn8mw9wmkln8qqb5fzkmfa9n593mrf-bootstrap-stage1-stdenv-darwin.drv
-CA: text:sha256:13yn3y454kxg54r8rz703lgy2k22kdci6l5sifpd51wid28ffixg

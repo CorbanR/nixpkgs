@@ -1,0 +1,9 @@
+StorePath: /nix/store/7sk8vj4azfs2j7b5iwqkz0mg72272yd4-curl-7.84.0.drv
+URL: nar/14dr4j5xxiaq1dbq8s2n40a0hy1spv2fjpgg22gfbk85lpsps9gb.nar.xz
+Compression: xz
+FileHash: sha256:14dr4j5xxiaq1dbq8s2n40a0hy1spv2fjpgg22gfbk85lpsps9gb
+FileSize: 1920
+NarHash: sha256:0adbp02pmmm24hrlmsn6c4cd3wf6w04l75qw3s34sdjirzkw2mj1
+NarSize: 4680
+References: 1x84vds1w86z3rbwh9zggvbcqbsnjvwf-libkrb5-1.20.drv 28pw4qh0bjikg62wvklk3a04ssx37435-pkg-config-wrapper-0.29.2.drv 5ghdlxgkqsrp1nlcxzbcpvqi37d87m83-bootstrap-stage1-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9l0a9x27909spsz9jb5rrjn6r5rjd5vg-zlib-1.2.12.drv cgh53cwrsrfairrgfqk3qs2mc26y1y09-libssh2-1.10.0.drv gdqnvkbp6nnrvww108adb7nvjgrpdxzb-7.79.1-darwin-no-systemconfiguration.patch n67l67rz26lqxqid1lbnn526xj458bxq-curl-7.84.0.tar.bz2.drv szi0nqpd4wshw0vyizvy1p99swngaba7-perl-5.34.1.drv vv0dkbl2rp5cd9xwa69y9ypb2plz3slv-openssl-1.1.1q.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv wr89zhh4d54ywdkahaic4wn9iwqgvg9g-nghttp2-1.47.0.drv
+CA: text:sha256:16hh9xj7brlj197r0qr94g5g7fp67jfvci69qprhr046vgsy2xfm

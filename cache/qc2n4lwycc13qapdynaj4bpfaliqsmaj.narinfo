@@ -1,0 +1,9 @@
+StorePath: /nix/store/qc2n4lwycc13qapdynaj4bpfaliqsmaj-pip-install-hook.drv
+URL: nar/0fgc9cdy1n5wp1cmn35dw0qxksp9n7f2z5fkwznh7ich94x0ppmw.nar.xz
+Compression: xz
+FileHash: sha256:0fgc9cdy1n5wp1cmn35dw0qxksp9n7f2z5fkwznh7ich94x0ppmw
+FileSize: 964
+NarHash: sha256:0mi9z3s3qjr2xhwhal6lpv0r7xc0bfk8rsf24l4zvzaz4227n5s3
+NarSize: 2272
+References: 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh r08f587ni59f57df8k5hx1ivql6x7brb-python3-3.10.5.drv vvwv4swrdks1y04z8i2md4y99kn82a4d-pip-install-hook.sh x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:1g4z7ym2bfqg5y6qnjs6as5mr41xkwb6bgqw331mgpd5vbcq4n13

@@ -1,9 +1,0 @@
-StorePath: /nix/store/ifksl457dnqfhgxr37fbbi04fszw1syg-libidn2-2.3.2.drv
-URL: nar/12ias5v8dvsi6z9fb5c1m46zp0pvmmh3zdlfdq6fvxsggmbkfg2k.nar.xz
-Compression: xz
-FileHash: sha256:12ias5v8dvsi6z9fb5c1m46zp0pvmmh3zdlfdq6fvxsggmbkfg2k
-FileSize: 1132
-NarHash: sha256:0ndazrklb2c8sz7654rk0bfwpzhg7sslpr5bhzmkrgl8awgrisk5
-NarSize: 2736
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 8cc7z3dqb1vzk76129is7iw1h8rz1qpg-libidn2-2.3.2.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh hlq7hbw0s4iylgm84wnwsgq0dbzm26n1-nuke-references.drv m291v0v74nrqfrdndvpfm7wf3d5v30m6-bootstrap-stage2-stdenv-linux.drv qd0cshw4ci80hfr52ayx7cj2w43w76ay-libunistring-0.9.10.drv zbin6n2m24dklghf7qx02y31hlhrmpgj-bootstrap-stage2-gcc-wrapper-.drv
-CA: text:sha256:0rw3mh21ap0ar1zlfbxzf3v9bmgslv34cdg733fyjqvf5nzs2j1r

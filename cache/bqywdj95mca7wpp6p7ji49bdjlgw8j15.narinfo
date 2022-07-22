@@ -1,0 +1,9 @@
+StorePath: /nix/store/bqywdj95mca7wpp6p7ji49bdjlgw8j15-auto-patchelf-hook.drv
+URL: nar/08na7dm5f2r0hnh5w23xzqr8yx51q5if1crwd84qr8iswvmiz0i7.nar.xz
+Compression: xz
+FileHash: sha256:08na7dm5f2r0hnh5w23xzqr8yx51q5if1crwd84qr8iswvmiz0i7
+FileSize: 952
+NarHash: sha256:1z2h3sm049jl17psb9z5yc66g3pljyr0a0r00milrg0ni3grvp2a
+NarSize: 2256
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv 3wv1iqxkbkwagvy10knkxgc0ki7s66my-auto-patchelf.sh 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv q2wyf8axjbfp4mnyr1ng8z2kq22nf3s8-auto-patchelf.py qg915426bz1nzqn1k475wic0xnwghfg9-binutils-wrapper-2.38.drv wcgs5hpn3fikg63w8h34n4aayyq4gm3r-python3-3.10.5-env.drv
+CA: text:sha256:0x293plibgm1hn7wivasv909h0blqkj8wz9yfl2b78vmviln3v4q

@@ -1,0 +1,9 @@
+StorePath: /nix/store/bsnh3zbif2jm4ap0bw02w3gfzpdni566-go-1.18.4.drv
+URL: nar/1qzkns27qwrfdzvrqpgdygifs65fw79j8l83s7r5j6n2ays0nhqv.nar.xz
+Compression: xz
+FileHash: sha256:1qzkns27qwrfdzvrqpgdygifs65fw79j8l83s7r5j6n2ays0nhqv
+FileSize: 4216
+NarHash: sha256:0zrsafjjl5zvvha717mm1hrdpnbfypd9dj0kmlwydaa4hzk32afw
+NarSize: 10976
+References: 1cwv8hmzzn9s9b7rcvpymk6z6gm0c64p-go_no_vendor_checks-1.16.patch 1wxnz5npl05sahb5iv5q4azg2rk59kz5-ssl-cert-file-1.16.patch 2w1svc0d7rffizn8gl9i4i1hbi95nlcy-go1.18.4.src.tar.gz.drv 39bjxj20rygi2zlx6zscv38jxh2k7nkl-creds-test.patch 4vqgx07v9xywvmgmdzk87561y734vm8n-skip-external-network-tests-1.16.patch 52r3dg1y2n7gnj2z7x3izsbhwcn9nyxv-perl-5.34.1.drv 5w0h6kljm1w1fz578jg92h09bvd3mnyf-pcre-8.45.drv 7dwj9i8rfrwrmcx3sq9fimfpk5093cry-apple-framework-Security-11.0.0.drv 8lrmvhp1akhb9qqg8dmlmkg5d9ja9a2s-which-2.21.drv 92qy0wn9289a1id4c5byc2mqc6v6xas2-skip-cgo-tests-1.15.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a2spl4sdn7n6s24m5kb0wwfxhi6bhd6m-stdenv-darwin.drv ddg24v72gz6vk7h9lvq1baz30bq1r777-skip-chown-tests-1.16.patch dhlic9x2gh55gfqphl998xjslpv8klzn-clang-wrapper-11.1.0.drv dy01gkcmarr4gk721r2zh402n8cb9ib8-mailcap-2.1.53.drv hm2jzy93m5sl48alp2dhklz2b592dn9b-skip-nohup-tests.patch hyif3rqf4kgbzbqkrv3bjspn0r8s5pl6-remove-test-pie-1.15.patch jrimca9smnkvs0ziq0bhiyw7hnxg3dad-go-bootstrap.drv k1m8gsnk523s2hj46i7pnx7pmchh10i2-tzdata-2022a.drv lcs76jhnlfzg73xbr7gs98dan69qf3gj-pkg-config-wrapper-0.29.2.drv qbc9hgqh4g7z3drb2hvdcj3jwvi1vwqn-xcodebuild-0.1.2-pre.drv rccnmb3jgshsl4z1c56xr1pjkmqad54a-nss-cacert-3.80.drv svmf449bvp51ymad344griz8c0a5fhja-apple-framework-Foundation-11.0.0.drv wcrair462lb604fcscfx6nbr43h5bbz6-iana-etc-20220520.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv x48d0s4gns4jrck6qkwrpqn7nh9ygpx6-remove-tools-1.11.patch xkb7fjb1fzbkzn77ngfb1vwg23y000nm-procps-1003.1-2008.drv
+CA: text:sha256:0xz9fbwfqyicv3g7bjiqm0yig5by1kcng144bvdsffpbdybrg42f

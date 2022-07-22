@@ -1,9 +1,0 @@
-StorePath: /nix/store/719c9a0n3z6nv7j9j1vv89np1h1y4ncv-python3.9-wcwidth-0.2.5.drv
-URL: nar/05j5l6qdjsbhlfiaw6c7aygyynxx41x9fnb6dn0nmckm135bn8hg.nar.xz
-Compression: xz
-FileHash: sha256:05j5l6qdjsbhlfiaw6c7aygyynxx41x9fnb6dn0nmckm135bn8hg
-FileSize: 1436
-NarHash: sha256:14hx5npv0vbhasrzj34j57kdvn27kafhp930h8nqqpkpd7zcf4ni
-NarSize: 3328
-References: 0s6xbf1byga4cgmxd8r3b9bj5hxar0xb-python-imports-check-hook.sh.drv 18qy44cb871wngnz0fmim7121y0ipzbc-python-remove-bin-bytecode-hook.drv 1hr7y7jwgq35qrrlszys141n1ygis21c-hook.drv 4ih8dvx7wgx2s89yz2zwnnhkqh3f2xkm-python-namespaces-hook.sh.drv 7d2w02zh3vfr4nyscn04hgf527s6qn88-python-catch-conflicts-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b4k0fv4h2rv4s6kfr5hgpa81kj64gavm-python-remove-tests-dir-hook.drv bnr80iv3i88rnh9n2gcmqhwxf39n8v45-pip-install-hook.drv j379inyzai6zfbwjkb1kj38znmxlssd7-python3-3.9.10.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv lwpbwc03fmn1n8pgc3z5ksgfipw8n164-wcwidth-0.2.5.tar.gz.drv myyaaxgycd8mvfjvwd2l3wsjw41bci9r-hook.drv r8w2was19a8p76km8kw8m4cyw2vihy2h-setuptools-setup-hook.drv wkf9fmqdyb1pf0by5ifrw323i1abdwjc-python3.9-setuptools-57.2.0.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:1r80yc6yzg7n87847a3frm9ym1wp3qm8lfrr7zcyg0ilygsr7i3x

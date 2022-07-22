@@ -1,9 +1,0 @@
-StorePath: /nix/store/qfik1996gyhh3mnhdvdr3mj3hclxr9cm-glibc-iconv-2.33.drv
-URL: nar/0nwl14i87vw01zc4847xrn36s2rzf7fgfpw5n8zfyg01knwdw7qs.nar.xz
-Compression: xz
-FileHash: sha256:0nwl14i87vw01zc4847xrn36s2rzf7fgfpw5n8zfyg01knwdw7qs
-FileSize: 720
-NarHash: sha256:1g5i77sncndla0a9b47wmawymcz7809clizpbp2nwdf22sr0zpw6
-NarSize: 1536
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh csr89vvgvyw3dpfdzs98jp6f3kid5hni-glibc-2.33-117.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:1c3a4m0yjsb84y16vs8sxbw0jw9ijvcajld5iq8jqb7n71n21m7g

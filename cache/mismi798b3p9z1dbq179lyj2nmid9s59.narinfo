@@ -1,0 +1,9 @@
+StorePath: /nix/store/mismi798b3p9z1dbq179lyj2nmid9s59-xmlsec-1.2.31.drv
+URL: nar/0ypmif8v81j41sbc00js9bsqpk4p94rg7fn6zdsi11sn3s6a0k1m.nar.xz
+Compression: xz
+FileHash: sha256:0ypmif8v81j41sbc00js9bsqpk4p94rg7fn6zdsi11sn3s6a0k1m
+FileSize: 1816
+NarHash: sha256:0iv0w390mghxqksfm7nxpijx7vbv76gqx16wdkczccr9mxg5wg3p
+NarSize: 3984
+References: 84hb66lvqx4iminl8yx6k7wzwv6yrmll-nss-3.68.4.drv 8rask7xhqq30llk26kijbkxmw9wr9axs-gnutls-3.7.6.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a3qx2115xgs2295yc5w97w6j3h9izkp4-libxslt-1.1.35.drv c5bz60dsrdxiwrg1vm9lmvh8nakii9l6-libtool-2.4.7.drv dc6xix3pqm5ak2rkxmxmb3nrqnkvsm6q-openssl-1.1.1q.drv di8adg893w26yjydxns6clb0g6y7x4qd-lt_dladdsearchdir.patch f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv imym6zqs442glr1xp6psvan4vr4kqzy7-remove_bsd_base64_decode_flag.patch lcs76jhnlfzg73xbr7gs98dan69qf3gj-pkg-config-wrapper-0.29.2.drv lzxggd145l3359bd6byzfq2iwn463dfd-libxml2-2.9.14.drv vlb89i8k6f4b422i2nl7jb3b4v3lg4r0-libgcrypt-1.10.1.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv y9312b1a869hfnb22y9jjlclc4zfngnn-xmlsec1-1.2.33.tar.gz.drv
+CA: text:sha256:18r9hh6ds7xq0w0m0fm9i74iac4gr304civzbgh3969fw5w7ci0v

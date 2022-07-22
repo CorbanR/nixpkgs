@@ -1,0 +1,9 @@
+StorePath: /nix/store/0llnchhlz2xrpar9r79qdi8wlxn6bk9f-fix-blkdeactivate.patch.drv
+URL: nar/07442yvrsxs0j6vwdpnzb3f941xhz9rpa7xr3pch4037lzv4v63y.nar.xz
+Compression: xz
+FileHash: sha256:07442yvrsxs0j6vwdpnzb3f941xhz9rpa7xr3pch4037lzv4v63y
+FileSize: 864
+NarHash: sha256:0l40rjwx4cp0dlky9whj32r18m7mpnggincdi36f7rc5q43zrabr
+NarSize: 1968
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv 4vq3350zc6sqnibkqpgic2d6cvi1r9hq-substitute-all.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv k27rhgmbz5zbfy5n183klfs5sgjmzgsx-fix-blkdeactivate.patch n67a4r7rn1ay37n9945rvmnz74xlgi59-util-linux-minimal-2.38.drv yzn1a0zmrbh2fdhjwrgdjxvil7mxiwms-coreutils-9.1.drv
+CA: text:sha256:0nmixcsb2n7ak21npgc759x7mdalhgfnnvjy6x3rik4x6i0j5apx

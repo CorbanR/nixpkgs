@@ -1,0 +1,9 @@
+StorePath: /nix/store/bn9ga54bjw05z7psd1gxh3dnhn8h1dr7-CVE-2022-34903-g10-fix-garbled-status-messages-in-NOTATION_DATA.patch
+URL: nar/15zyk2kmxzcrfj4wgna343m94jg1nk3a9c0bxan9nh91cl4jjydw.nar.xz
+Compression: xz
+FileHash: sha256:15zyk2kmxzcrfj4wgna343m94jg1nk3a9c0bxan9nh91cl4jjydw
+FileSize: 816
+NarHash: sha256:10mzb9ydm0l34nyiip8n4zdngrmzkghlw2pdp08izs2i56rwg03v
+NarSize: 1448
+References: 
+CA: fixed:r:sha256:10mzb9ydm0l34nyiip8n4zdngrmzkghlw2pdp08izs2i56rwg03v

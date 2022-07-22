@@ -1,9 +1,0 @@
-StorePath: /nix/store/lhjg0szsmg7kvlfm80jcmgi65358hwpj-getopt-1.1.6.drv
-URL: nar/03f975dza728p7whc5cmyv6c6xgywkjwg1l73b88fhrnin0dn2jh.nar.xz
-Compression: xz
-FileHash: sha256:03f975dza728p7whc5cmyv6c6xgywkjwg1l73b88fhrnin0dn2jh
-FileSize: 876
-NarHash: sha256:01xwv6bf03db9yk3vzb63gw6vc2hp43w3hsb0wm2rzljfc07vrj7
-NarSize: 1848
-References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv xjdjf8w8llaq3pvrrmdpril2597q4h8l-getopt-1.1.6.tar.gz.drv
-CA: text:sha256:1jll9dc3vasvg9xg5d56xgxcc8j7vb9gwp8jk7aa22247ybgdapn

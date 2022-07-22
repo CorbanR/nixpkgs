@@ -1,0 +1,9 @@
+StorePath: /nix/store/hybs47lbpnj1lxyl82av8wdlww9ng4jb-serf-1.3.9.drv
+URL: nar/05m7jnbm2lqaykqhqr5wfr8nnks9h5jc1w8m3aqixn705x6qfgm1.nar.xz
+Compression: xz
+FileHash: sha256:05m7jnbm2lqaykqhqr5wfr8nnks9h5jc1w8m3aqixn705x6qfgm1
+FileSize: 1548
+NarHash: sha256:19ckinvnjqphsf91pn7ywd57pliglfyngdilya0ng0aafcykbxjm
+NarSize: 3552
+References: 10pbr44ngd1ghmz3r84a89v05lsg5lg3-scons-4.1.0.drv 6rm25rn5rp7z9n0mb7m625iiisv7xnmj-scons.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cad1k3cchdhl4fzc2gh95czb5j2s3xwc-serf-1.3.9.tar.bz2.drv dc6xix3pqm5ak2rkxmxmb3nrqnkvsm6q-openssl-1.1.1q.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv hsp9j8na1hiyy31n6i6wi3nq8vgwcy6n-libkrb5-1.20.drv ifh97yq1bb6vbcxhzcyarb6dbw83n877-apr-util-1.6.1.drv isy0i4m3vzf1p4197bkdmm7vh828w657-libiconv-50.drv lcs76jhnlfzg73xbr7gs98dan69qf3gj-pkg-config-wrapper-0.29.2.drv wyl9vry81f8q8mkkrwqmfr7g1sj12r08-apr-1.7.0.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv yg9cplf13bk7j9dqjym1dpc0qgrpy5hr-zlib-1.2.12.drv
+CA: text:sha256:1f7rqs26xzc2jwqxxm2kx2rixvgfi9g61m6ynvp06fn2aj9xng0w

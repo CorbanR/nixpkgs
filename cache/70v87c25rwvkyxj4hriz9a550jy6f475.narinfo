@@ -1,9 +1,0 @@
-StorePath: /nix/store/70v87c25rwvkyxj4hriz9a550jy6f475-autoconf-2.71.drv
-URL: nar/16fc7cl46n148ka7qdpkmvm50acnnq436046r9b5h7xgx3qxrv6c.nar.xz
-Compression: xz
-FileHash: sha256:16fc7cl46n148ka7qdpkmvm50acnnq436046r9b5h7xgx3qxrv6c
-FileSize: 948
-NarHash: sha256:0gml514i158266sds5nw54g4fvaiz5xk23g1qzp7isikl9q2z4y1
-NarSize: 2104
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 1jqvgdxbrxphqsyzh0fkywgq6z5sm593-bootstrap-stage4-stdenv-linux.drv 4hcdpxjmr4nh625ry840g70xp00vdf5a-2.71-fix-race.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c99ihlhb2lh875spzsl6rnc4058grxvn-autoconf-2.71.tar.xz.drv cjj314ik3xxxg6vwb241yzlsf8sk5f35-perl-5.34.0.drv fcmyjvd9j6zrf6xra8yjc8aakmjlidhh-gnum4-1.4.19.drv
-CA: text:sha256:03vd3v76g8n1pkcpfnccc0rnk25zj9sx02x4bpd9fdldms1yxzim

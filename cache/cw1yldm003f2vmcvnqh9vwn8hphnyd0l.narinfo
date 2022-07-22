@@ -1,0 +1,9 @@
+StorePath: /nix/store/cw1yldm003f2vmcvnqh9vwn8hphnyd0l-patchutils-0.3.3.drv
+URL: nar/1f27xafflbhpa9ca53jr0sqbnj9zrr49cch7ng601f81n0pb8cb3.nar.xz
+Compression: xz
+FileHash: sha256:1f27xafflbhpa9ca53jr0sqbnj9zrr49cch7ng601f81n0pb8cb3
+FileSize: 1240
+NarHash: sha256:192gff8498mpbdc6jl1rw54g5693ln5wzdm982k6mh7gshfw1q22
+NarSize: 2592
+References: 4q7pzih3dfadwvqb2c2xgs0jk9b4nrd3-hook.drv 52r3dg1y2n7gnj2z7x3izsbhwcn9nyxv-perl-5.34.1.drv 5xxj27fxy78mvnp1b93mxqw8gxa4ka17-patchutils-0.3.3.tar.xz.drv 8djp1rizc1dblv8svnb0mpa0c3lwvc17-drop-comments.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:1dmhd5ya8y88xad73cymm6cmy9520j8da8yxg0hxi8mnqccary4w

@@ -1,9 +1,0 @@
-StorePath: /nix/store/21wpd9q1ccvagcll8j5hcilhyf4rr5vd-libmnl-1.0.4.tar.bz2.drv
-URL: nar/0g7jahgxc56g2zyzm4fiajwdxs8pxcbk54qh9zrda52bx74ygj76.nar.xz
-Compression: xz
-FileHash: sha256:0g7jahgxc56g2zyzm4fiajwdxs8pxcbk54qh9zrda52bx74ygj76
-FileSize: 1288
-NarHash: sha256:0kvbbq7ca1sisgghd88slz8ibz2w16siffcli181c3lxi1czdy61
-NarSize: 2920
-References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:1xspfpvnf4lh4cnynnmzbgzyz6w1k9yrbw4yaxb0b30xld4hka35

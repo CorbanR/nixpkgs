@@ -1,0 +1,9 @@
+StorePath: /nix/store/cgh53cwrsrfairrgfqk3qs2mc26y1y09-libssh2-1.10.0.drv
+URL: nar/1cd8ag6gbjvslljnywk0hy78q7mr3vyqp361kmafhm9mbp0q5gad.nar.xz
+Compression: xz
+FileHash: sha256:1cd8ag6gbjvslljnywk0hy78q7mr3vyqp361kmafhm9mbp0q5gad
+FileSize: 1024
+NarHash: sha256:0zhwb420y2dfj4id35rx32c40mml55qmiw2v64rn0ix1h32iib6r
+NarSize: 2416
+References: 5ghdlxgkqsrp1nlcxzbcpvqi37d87m83-bootstrap-stage1-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9l0a9x27909spsz9jb5rrjn6r5rjd5vg-zlib-1.2.12.drv jvzldwavxqs7w7wn112qnnmsdr4fmiax-libssh2-1.10.0.tar.gz.drv vv0dkbl2rp5cd9xwa69y9ypb2plz3slv-openssl-1.1.1q.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:17xq4lrlcahxc4a97w5s4qpz7s6rawb57582xcfy31hb0xgpjpj6

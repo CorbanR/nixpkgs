@@ -1,0 +1,9 @@
+StorePath: /nix/store/j7ny6alyjla69iaxyzk797hip72svcp9-apple-framework-IOBluetooth-11.0.0.drv
+URL: nar/1xd4hy0dalchm6i2r363aqdk079rr0d756vqh1gyybi2g3jk0x53.nar.xz
+Compression: xz
+FileHash: sha256:1xd4hy0dalchm6i2r363aqdk079rr0d756vqh1gyybi2g3jk0x53
+FileSize: 1288
+NarHash: sha256:1prcdivqz5vd8cvj9mzz3yr1y7ngz74n3mgv4ymlv8kc600qxasl
+NarSize: 3264
+References: 01al8ip05aiwfrk11pdf0dcgpz5llpm5-apple-framework-CoreBluetooth-11.0.0.drv 5qcw9i77p93vv00gzgsgf31f62daiic5-MacOSX-SDK-11.0.0.drv 7cx1sy7i88xk5rkw9czc93ngxh9i677x-apple-framework-IOKit-11.0.0.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh g67bilmiv6jv79zj0dac63xx5wvfgjpp-rewrite-tbd-20201114.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:0w5jg30jj0cig0yphavfy0dwwd75hryxcvnpzdr45iy9ri3misal

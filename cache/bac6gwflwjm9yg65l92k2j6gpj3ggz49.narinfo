@@ -1,9 +1,0 @@
-StorePath: /nix/store/bac6gwflwjm9yg65l92k2j6gpj3ggz49-help2man-1.49.1.tar.xz.drv
-URL: nar/03vjbk1ldhri2ngxkdqhvls472y408i79yq68mc2bjvj8196pa8w.nar.xz
-Compression: xz
-FileHash: sha256:03vjbk1ldhri2ngxkdqhvls472y408i79yq68mc2bjvj8196pa8w
-FileSize: 1388
-NarHash: sha256:089d7lvas7fg1f5hp7kvfs5zf75k430dnlg14406i9ply948fb7w
-NarSize: 3168
-References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
-CA: text:sha256:1pgp9c34in6q5rgnhnabg8n17q40fjdbh3ai4bgxw5wnljs3lvn9

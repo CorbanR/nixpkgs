@@ -1,9 +1,0 @@
-StorePath: /nix/store/i434mzjdaq44lmyqz4ccr2c02pp53zip-pkg-config-0.29.2.drv
-URL: nar/1w4g9gr07pig41lnbv35vmf0v3b7d9qqdr7vsrr1c3x2j8l1n1zg.nar.xz
-Compression: xz
-FileHash: sha256:1w4g9gr07pig41lnbv35vmf0v3b7d9qqdr7vsrr1c3x2j8l1n1zg
-FileSize: 1076
-NarHash: sha256:1pcxh2ja93fcy6y5a6scasfsj2pvv6baf0pfd8cvd50s591gs6qk
-NarSize: 2560
-References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 2xfd2l8ac9fq5g5xl51g03fvlc3sv3cf-pkg-config-0.29.2.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh f4bvwqvj0y3z6blvh0knz71a8yq1c45p-requires-private.patch g95iaqswhy0wxrnlhckgfx9x3rzvj284-libiconv-50.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv
-CA: text:sha256:0ipj3rby41pkkf6j4giixl8l8z7d4899r378v0p08804pizy1rkx

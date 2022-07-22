@@ -1,9 +1,0 @@
-StorePath: /nix/store/3200321cvlxq2ra0lv4p61dnnbn1z8lf-kmod-29.tar.xz.drv
-URL: nar/0adgd0bx6i28g4riqilm9xlfm0m7ygalg21vilyc73mlsjinszdq.nar.xz
-Compression: xz
-FileHash: sha256:0adgd0bx6i28g4riqilm9xlfm0m7ygalg21vilyc73mlsjinszdq
-FileSize: 1276
-NarHash: sha256:1g9smgl6djblyliy5wdqbs4jnbzdv5dma54lr41664pj7w3541xz
-NarSize: 2888
-References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:0ji32jriyan088jblbv0pxiqc7ahgiml94nldapzb3df1rsmmq2r

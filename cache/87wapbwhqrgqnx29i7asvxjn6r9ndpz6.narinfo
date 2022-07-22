@@ -1,0 +1,9 @@
+StorePath: /nix/store/87wapbwhqrgqnx29i7asvxjn6r9ndpz6-texinfo-6.8.drv
+URL: nar/06a9wnkqf8j7bm28kfpbkx5f23ba317ca7c1lv4yad817q53fn9n.nar.xz
+Compression: xz
+FileHash: sha256:06a9wnkqf8j7bm28kfpbkx5f23ba317ca7c1lv4yad817q53fn9n
+FileSize: 1292
+NarHash: sha256:0bfy2xdw7jw2gjkjrk1wrqkw2yhknjczpbqfcgsfvqdpy7n1cd06
+NarSize: 2792
+References: 52r3dg1y2n7gnj2z7x3izsbhwcn9nyxv-perl-5.34.1.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dhlic9x2gh55gfqphl998xjslpv8klzn-clang-wrapper-11.1.0.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv iizs3xazwcp7pb1h01ddsyhpf075r8w7-xz-5.2.5.drv l8693kwhv3wx299mn2wh4a8wva2sa2n1-texinfo-6.8.tar.xz.drv mzf06xwg8rv0ygsf160sj6nay70vd8kn-gettext-0.21.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv yl6g04fsr6p9lkvccqjjl8q1xnnmw49s-fix-glibc-2.34.patch
+CA: text:sha256:0q9wc92cpg2h6nanysqcjjbxsmcvmpfpnngyaysxdwh2a1w362q0

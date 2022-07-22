@@ -1,0 +1,9 @@
+StorePath: /nix/store/8rask7xhqq30llk26kijbkxmw9wr9axs-gnutls-3.7.6.drv
+URL: nar/0l0z6zz3pxdwpz95xxdbnvmp5nbr9sm1brx0h1lvx11n5aacjfvc.nar.xz
+Compression: xz
+FileHash: sha256:0l0z6zz3pxdwpz95xxdbnvmp5nbr9sm1brx0h1lvx11n5aacjfvc
+FileSize: 2516
+NarHash: sha256:045s215klz8c8wpi1nk1q1cp9gvj09s6qciw510c4dimd8aq1n7q
+NarSize: 5712
+References: 2cbsq62356riizac1byl93rbfsbsgm8v-libtasn1-4.18.0.drv 4wf5lbvx2slmmfv5ic8nlsr1lmpfcz9y-libunistring-1.0.drv 51zw3ipvxllxyk0h9gy0a3v7g6h6488h-nix-ssl-cert-file.patch 52r3dg1y2n7gnj2z7x3izsbhwcn9nyxv-perl-5.34.1.drv 586p1cf4fv2pyjzpsm6wwdv31vbqjkqb-p11-kit-0.24.1.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cgb4a64dxsf5c482cq2hb583fiw0xqkv-gnutls-3.7.6.tar.xz.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv ici509l3qga1yvh3k278rwmpd72azk6r-apple-framework-Security.drv irqr78jgk6fiabbf3bblm0j12cr52zis-nettle-3.7.3.drv isy0i4m3vzf1p4197bkdmm7vh828w657-libiconv-50.drv jfah9j310ddawj0lgnx17a8038mmr63n-gmp-with-cxx-6.2.1.drv l0m4ax4mfj5nh5f6i8xc2ll3lggasd3l-lzip-1.23.drv lcs76jhnlfzg73xbr7gs98dan69qf3gj-pkg-config-wrapper-0.29.2.drv mzf06xwg8rv0ygsf160sj6nay70vd8kn-gettext-0.21.drv rd8i1rpjdcrgnpkyblhn0ghx557y4jp5-lzo-2.10.drv wfnw2gdabjyr24qjwrwa9rs2p7da1mc8-dummy.crt whndsbk3ajl8kzxrfhqkxfax16i0xb9y-libidn2-2.3.2.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv x5kmhfkfs5yp57xp8gs93p62n97fxgf3-dns-root-data-2019-01-11.drv x5z8qwswjbpj4h27w2li25mqjk8d3xv7-unbound-1.16.0.drv yg9cplf13bk7j9dqjym1dpc0qgrpy5hr-zlib-1.2.12.drv
+CA: text:sha256:0g83z5hvahqhfw4zjyxwyn31hx69mhl1k2fcpd0xj2ffaafvkfw5

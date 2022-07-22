@@ -1,0 +1,9 @@
+StorePath: /nix/store/01775rj9jhwnjcyrmyb68x1146ix3rj0-toml-0.10.2.tar.gz.drv
+URL: nar/16pcr2g6cv2spv5sg6dcbadqg6zy01vvz9hj64cfdlrhb6q34s0s.nar.xz
+Compression: xz
+FileHash: sha256:16pcr2g6cv2spv5sg6dcbadqg6zy01vvz9hj64cfdlrhb6q34s0s
+FileSize: 1256
+NarHash: sha256:03ki34i7xi4b2zmfrckdhv9iclg7jz3zljfkrjhag7gnyinxqv4d
+NarSize: 2968
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
+CA: text:sha256:1c6vgdapwjmqdvq9gmdqr1z729am82h148igzm8zd2lqmzg47nzh

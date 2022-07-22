@@ -1,0 +1,9 @@
+StorePath: /nix/store/zndp55svabcw4zdzc1vwwqs2bzqnajzi-rustfmt-nightly-1.62.0.drv
+URL: nar/0jd0bq9zw2dp9j25lqr7djlnyk30x5ggbskg495pvzvrpkrh6g0z.nar.xz
+Compression: xz
+FileHash: sha256:0jd0bq9zw2dp9j25lqr7djlnyk30x5ggbskg495pvzvrpkrh6g0z
+FileSize: 1676
+NarHash: sha256:154fzrfx016i6hyswdwcngk5ssnlm32yrwjnaqip6m57g0rxbnjh
+NarSize: 3776
+References: 2dvgbmpmmcbp504m15i5j37dnxaxb4ap-rustc-1.62.0-src.tar.gz.drv 6r0inxqz5v3dnxk9skavhqhzirzb3bis-cargo-check-hook.sh.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahyjb1fpzn8s6dsj5wrpdda615f3cwxp-cargo-setup-hook.sh.drv cq3wbvd4p9y5y7xg33k7xm4i27h5rbfq-git-minimal-2.37.0.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv ici509l3qga1yvh3k278rwmpd72azk6r-apple-framework-Security.drv isy0i4m3vzf1p4197bkdmm7vh828w657-libiconv-50.drv jsqmvbvfqw3qiqf7nrfa4gwik7sr45i8-cargo-install-hook.sh.drv karm2gaszl87nan75rvkrgzhvm42qfw5-cargo-build-hook.sh.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps qnd65b7nrpqnn8ix7fdkhkqh16rrnh9q-rustc-1.62.0.drv rccnmb3jgshsl4z1c56xr1pjkmqad54a-nss-cacert-3.80.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:06p25kxrqdk9fzks0h6fjn0vr2x6cxhr6b6awkddmllipz1j9b8v

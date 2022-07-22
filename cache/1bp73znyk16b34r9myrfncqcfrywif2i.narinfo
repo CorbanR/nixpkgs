@@ -1,9 +1,0 @@
-StorePath: /nix/store/1bp73znyk16b34r9myrfncqcfrywif2i-apr-util-1.6.1.tar.bz2.drv
-URL: nar/10bc8n01006rhfh8wjzazkn00n9cylamdc17hbl9w6kj29zxj2s3.nar.xz
-Compression: xz
-FileHash: sha256:10bc8n01006rhfh8wjzazkn00n9cylamdc17hbl9w6kj29zxj2s3
-FileSize: 1384
-NarHash: sha256:1paga10gb09z74fixbfymxzmg9bighiqdzz6qx3855bqimmhpyc3
-NarSize: 3168
-References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
-CA: text:sha256:1q3551x567zskx23dkprwiy970prc7f4m4iz4sq7s5s1iz41x841

@@ -1,9 +1,0 @@
-StorePath: /nix/store/8mvjzxkki9cly98pmgh617xp4n7pf8pn-libuv-1.43.0.drv
-URL: nar/1p2621qsa072y0jpw5kl671x5yy6nlwq80a6fhkbg9fw3kvcq9zh.nar.xz
-Compression: xz
-FileHash: sha256:1p2621qsa072y0jpw5kl671x5yy6nlwq80a6fhkbg9fw3kvcq9zh
-FileSize: 1752
-NarHash: sha256:17rbv76sxs9fnczdb80rvyg8bszklq5g9ixjnjxbivckzfii7gli
-NarSize: 3968
-References: 0pq5awniliy96kc9dzmssrixyczfp0dj-libtool-2.4.6.drv 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 14c4hig3iph2f2iwz2wq7d6bjs260kig-apple-framework-ApplicationServices.drv 4qa9xyrzhjbmjpq9k3hj3j0ilm3ldr5w-automake-1.16.5.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh gy0wa91gs5hgm0b8pdirrk43bbs97jvj-autoconf-2.71.drv mn14pgsvgfbxmq16vs6vrbq8bbii7c5z-source.drv rpx4aa5a6jwgaq2djcw9sp1nfd667p0g-pkg-config-wrapper-0.29.2.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv zhkfxk3fsigs9rnzmfwgvpd59ia2gsms-apple-framework-CoreServices.drv
-CA: text:sha256:0jkwh63vi6qc3d595xdify8yn2s0yqvvl2x0ai1als7a3v1jsm7z

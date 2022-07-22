@@ -1,0 +1,9 @@
+StorePath: /nix/store/gsk3iy203q51566lk2b02sbp005mxwlc-pkg-config-0.29.2.drv
+URL: nar/16nss4v9dfa1xcja2zmhnshfw66nk4mic3qxf49yl7cin0w8fkq9.nar.xz
+Compression: xz
+FileHash: sha256:16nss4v9dfa1xcja2zmhnshfw66nk4mic3qxf49yl7cin0w8fkq9
+FileSize: 908
+NarHash: sha256:0g1fhbslm8xlvk0p21kb20a2wsq8881vpjshhbcfix3kyp6l5zp8
+NarSize: 2208
+References: 6b29gjz7rj4mw0ch0vy2m6qrqipz2bbb-pkg-config-0.29.2.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv f4bvwqvj0y3z6blvh0knz71a8yq1c45p-requires-private.patch pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv
+CA: text:sha256:0y7481zjvz8j8w257pi09lvcyi3ifdsygbkimlrbfs85i3siqz3v

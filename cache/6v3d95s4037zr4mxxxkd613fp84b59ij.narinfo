@@ -1,0 +1,9 @@
+StorePath: /nix/store/6v3d95s4037zr4mxxxkd613fp84b59ij-coreutils-full-9.1.drv
+URL: nar/0vcld2f8zw8zxgb3iq9xz2waiqpvr4hh22zrwxfjbmixvfl6a7hy.nar.xz
+Compression: xz
+FileHash: sha256:0vcld2f8zw8zxgb3iq9xz2waiqpvr4hh22zrwxfjbmixvfl6a7hy
+FileSize: 2064
+NarHash: sha256:1bs0qr754nj3x8mzlgd64sqd2d7fkm8wl8g9ddpsm0jwxmcwgfa3
+NarSize: 4736
+References: 3bbl8y61l8zm45fywy5wk2capcfcsqvs-coreutils-9.1.tar.xz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9x2qbx2zpmzb2fp3vqcrpzd7n8dm5mnd-bootstrap-stage3-stdenv-darwin.drv fry5vijy08hai14z708vh3y8blvcl3mn-hook.drv iizs3xazwcp7pb1h01ddsyhpf075r8w7-xz-5.2.5.drv jfah9j310ddawj0lgnx17a8038mmr63n-gmp-with-cxx-6.2.1.drv snhl0w63mc0s3q6y386g061bgc7jdwwn-disable-seek-hole.patch szi0nqpd4wshw0vyizvy1p99swngaba7-perl-5.34.1.drv vv0dkbl2rp5cd9xwa69y9ypb2plz3slv-openssl-1.1.1q.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:1p3a5lr1k15vm3pnprhy1b35rc4s6gqn13kvh50ggr1zg3y2s5fb

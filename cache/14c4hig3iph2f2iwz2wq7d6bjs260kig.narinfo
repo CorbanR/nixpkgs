@@ -1,9 +1,0 @@
-StorePath: /nix/store/14c4hig3iph2f2iwz2wq7d6bjs260kig-apple-framework-ApplicationServices.drv
-URL: nar/05g3z7jpy0z2g8rbl101fwka67sq6cn1f2ig8bi2mvj0y15hj4z3.nar.xz
-Compression: xz
-FileHash: sha256:05g3z7jpy0z2g8rbl101fwka67sq6cn1f2ig8bi2mvj0y15hj4z3
-FileSize: 2252
-NarHash: sha256:0h1qn3q97iwb9ijf3znn9x6ialpxi4izjapmq93jf6bmzzxjm2ml
-NarSize: 7272
-References: 04z682cqwmi23r5x4idicr86v6fjgriy-apple-framework-CoreText.drv 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 3fxyybvh4mdrdrk5n38455683356p6si-print-reexports.drv 47z2y8pwh8sn0h5lgg05r8yhax92z58i-MacOS_SDK-10.12.drv 52il71p35i0g1wkscvpgx24dn80awwxk-apple-framework-ImageIO.drv 6b029vnankai4331yv3bmiq2h1y2bs6v-darwin-stubs-10.12.drv 7x2hdq767m7r1yqmdgian1spi05vd2ji-apple-framework-CoreGraphics.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv zhkfxk3fsigs9rnzmfwgvpd59ia2gsms-apple-framework-CoreServices.drv
-CA: text:sha256:0xmnyvyq4xp6nyvz4mqxwjafwcbxr4j597i5zj1smfim6ial3hp3

@@ -1,9 +1,0 @@
-StorePath: /nix/store/pyfps03vlyxwm95hnbgr3vakfplnimf6-no-strict-aliasing-DwarfCompileUnit.patch.drv
-URL: nar/098bg5qwbwkysl02asijznbi3zfhjpx81hikv89x112x6kpv35b7.nar.xz
-Compression: xz
-FileHash: sha256:098bg5qwbwkysl02asijznbi3zfhjpx81hikv89x112x6kpv35b7
-FileSize: 1892
-NarHash: sha256:03icdhwdk2sw2fg71gjb1sid5w74zjd1fmw86hnn9x9q99666f8l
-NarSize: 4552
-References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh bss4vbfks8359mn34d70191i9gs8jxds-patchutils-0.3.3.drv sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
-CA: text:sha256:0fp10ms1lrj18ranz6g69035k2sy33bdr0hvr0jwcf09nlblhrwv

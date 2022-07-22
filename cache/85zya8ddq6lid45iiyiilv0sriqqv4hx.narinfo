@@ -1,0 +1,9 @@
+StorePath: /nix/store/85zya8ddq6lid45iiyiilv0sriqqv4hx-pkg-config-wrapper-0.29.2.drv
+URL: nar/1bacpz4zc5wjgskc426ph41f7l7il546fyajxl0ibmi8pfk770hc.nar.xz
+Compression: xz
+FileHash: sha256:1bacpz4zc5wjgskc426ph41f7l7il546fyajxl0ibmi8pfk770hc
+FileSize: 1380
+NarHash: sha256:1qds8k2md49fln445q3n8q1jyx1wmmhkn3vzy1x8hr9q1pim8afb
+NarSize: 3720
+References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 1ksmnsr3m6paw8gs7jp9b623agzdrqi2-add-flags.sh 2idjp2xdckqyrdk3hd8msp4cfdi6b8if-utils.bash 3dww1xrwp5ksa9gys7lb0hf26a08acax-bootstrap-stage2-stdenv-linux.drv 797k3249lr4rx8wslf7kcsa3hv6fis3x-role.bash 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9whvblgb7bgnmqsv7y5xqs1w8xv9aa1d-pkg-config-wrapper.sh c4akajrb4jg50k72jw7zfbyv8z139ri0-setup-hook.sh vy7vdd7yfavm2ch77zhxcwfcxb8n9b60-pkg-config-0.29.2.drv
+CA: text:sha256:1d1nvq90v6sh3i1rjdnlz0b7klck6s653pbxqv8w2nssbdw2n7jl

@@ -1,0 +1,9 @@
+StorePath: /nix/store/6nchi0c2kpdska3h2dldqm0fp0j37kp4-texinfo-6.8.drv
+URL: nar/0c16w9da5cqlih528qbjrq24h73gd9dpa34iqvr1z7mh9p2fn4h1.nar.xz
+Compression: xz
+FileHash: sha256:0c16w9da5cqlih528qbjrq24h73gd9dpa34iqvr1z7mh9p2fn4h1
+FileSize: 1304
+NarHash: sha256:17dlg8ks185hl3rw1790rb5ma2xyldzh6cp2gkml35dd8rawv5qv
+NarSize: 2864
+References: 9kpnpv7r8sry0x17kscxrlnvp6cz6y6y-bootstrap-stage0-clang-wrapper-11.1.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9x2qbx2zpmzb2fp3vqcrpzd7n8dm5mnd-bootstrap-stage3-stdenv-darwin.drv bwblmfz4cy0w1l9gbl9s70snb10fnz6z-gettext-0.21.drv iizs3xazwcp7pb1h01ddsyhpf075r8w7-xz-5.2.5.drv szi0nqpd4wshw0vyizvy1p99swngaba7-perl-5.34.1.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv yl6g04fsr6p9lkvccqjjl8q1xnnmw49s-fix-glibc-2.34.patch yp9m6dfsbdfl4bx65qgmjxi66bvn6cdc-texinfo-6.8.tar.xz.drv
+CA: text:sha256:05xmhmrzsj08w1yz87315vnqnndi72yamlf9r29isi44hpw1s1ib

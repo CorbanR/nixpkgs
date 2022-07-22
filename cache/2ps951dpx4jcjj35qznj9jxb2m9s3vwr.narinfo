@@ -1,0 +1,9 @@
+StorePath: /nix/store/2ps951dpx4jcjj35qznj9jxb2m9s3vwr-automake-1.16.5.tar.xz.drv
+URL: nar/1bsapm7paq6ckmi9wlqr70jkg4h7ryg3s05gxjc0qqc6411y5wnz.nar.xz
+Compression: xz
+FileHash: sha256:1bsapm7paq6ckmi9wlqr70jkg4h7ryg3s05gxjc0qqc6411y5wnz
+FileSize: 1296
+NarHash: sha256:1pixg5811m2802aq6cbbp6wizvnak26as3mfjkp5k0kqixpn5fk4
+NarSize: 2976
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
+CA: text:sha256:1hv4n1yc08hrk4iwm3g09kmm7l47a3zal6kdk8r5z6acwhi2q77p

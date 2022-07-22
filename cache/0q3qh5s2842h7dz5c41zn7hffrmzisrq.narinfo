@@ -1,0 +1,9 @@
+StorePath: /nix/store/0q3qh5s2842h7dz5c41zn7hffrmzisrq-autoconf-2.71.drv
+URL: nar/13glrzzknl63fhs68ywjxphbvm1297grcw57yslsbwjwqxlgr5c9.nar.xz
+Compression: xz
+FileHash: sha256:13glrzzknl63fhs68ywjxphbvm1297grcw57yslsbwjwqxlgr5c9
+FileSize: 1188
+NarHash: sha256:1jkv5azzymqhqzn9h4n0ipynadggnz60rgi3icnb04jwzh41p52f
+NarSize: 2728
+References: 04wbwyb6ki8x51q3l75hicdcj4asr4h4-gnum4-1.4.19.drv 4hcdpxjmr4nh625ry840g70xp00vdf5a-2.71-fix-race.patch 52r3dg1y2n7gnj2z7x3izsbhwcn9nyxv-perl-5.34.1.drv 87wapbwhqrgqnx29i7asvxjn6r9ndpz6-texinfo-6.8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv ynwd641nq5apac72aiipwbxx4xb9ymkc-autoconf-2.71.tar.xz.drv
+CA: text:sha256:06bp4cfsyx1mif8m3m4cnd8d90hvmra5v2207w0b9wk6h8h6azvi

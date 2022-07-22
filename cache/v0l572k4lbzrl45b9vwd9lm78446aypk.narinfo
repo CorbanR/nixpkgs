@@ -1,0 +1,9 @@
+StorePath: /nix/store/v0l572k4lbzrl45b9vwd9lm78446aypk-rustfmt-1.62.0.drv
+URL: nar/0nbgzk9vimhily08d1i1j5ilva40v1iqm8maw2gkmf5gixr7y0v7.nar.xz
+Compression: xz
+FileHash: sha256:0nbgzk9vimhily08d1i1j5ilva40v1iqm8maw2gkmf5gixr7y0v7
+FileSize: 1436
+NarHash: sha256:1crp9wl34z02y69jqslx9lx8aj8hfr4158r8lb0xk2sa390931qw
+NarSize: 3200
+References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv dbxxb080mlr5wv07iws43jx0xa8y3bx4-nss-cacert-3.80.drv f7kzpn6g9plr1aaf17z6dgf9a8dlsw12-cargo-install-hook.sh.drv k3kjjl5zyzwlhwi7gnazz7vz4lds0ql7-git-minimal-2.37.0.drv kkdd1b7jlv34rm24kv3f0x96b8b274s4-cargo-setup-hook.sh.drv lwjbrv381x7zhqbk1z2zcbj51gw4dg50-cargo-check-hook.sh.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv sizqqank4qvhnydckp92avx1pacadfzi-rustc-1.62.0-src.tar.gz.drv wvvap065wxg4ynx8f3xwjsmy9ck17agw-cargo-build-hook.sh.drv z548czvxq2gh8z4s072c8n00l1rl1a6c-rustc-1.62.0.drv
+CA: text:sha256:104hlzvlhin0hjj9x1q9fm4j620x7yy1j9n9pgn7jcvkdj6z72h5

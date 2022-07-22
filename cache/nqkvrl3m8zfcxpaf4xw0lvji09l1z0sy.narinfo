@@ -1,9 +1,0 @@
-StorePath: /nix/store/nqkvrl3m8zfcxpaf4xw0lvji09l1z0sy-help2man-1.49.1.drv
-URL: nar/0cmhzjj3l86zwjc7bghwc8gspg8b6ail6lqgymri66qxvqf9i4bj.nar.xz
-Compression: xz
-FileHash: sha256:0cmhzjj3l86zwjc7bghwc8gspg8b6ail6lqgymri66qxvqf9i4bj
-FileSize: 1020
-NarHash: sha256:1nk1yakcfxir2q8h1vr4zdp2ja938abvk108c14q2zppzdx12rna
-NarSize: 2304
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 2jr1srnrhmhzsqnm80wbpd5d0hwc7v87-perl-5.34.0.drv 96ilvvbfjqviwyqsv7gp1m3y4srd1xa0-gettext-0.21.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c93j6r5n38qxchn978j63mx1hxm6kl9q-perl5.34.0-gettext-1.07.drv m291v0v74nrqfrdndvpfm7wf3d5v30m6-bootstrap-stage2-stdenv-linux.drv wsqm127z52159zzrd39ikvi07zcdk50d-help2man-1.49.1.tar.xz.drv
-CA: text:sha256:0swn6l5z0mybi2sxg5qzm3y0kix97dgrwldipm573z7r6vfahzci

@@ -1,0 +1,9 @@
+StorePath: /nix/store/y1hz3i4zykdcqfrq9aal6lrbf9dfl43c-libxml2-2.9.14.drv
+URL: nar/0287ahzgwirba6nlcwwp2270dgsv7zsnvh4g62179pn7x22fa1z2.nar.xz
+Compression: xz
+FileHash: sha256:0287ahzgwirba6nlcwwp2270dgsv7zsnvh4g62179pn7x22fa1z2
+FileSize: 1520
+NarHash: sha256:1xpcig4vfcag43cxm4wsmrchxh5qfbkb21qlj3rmfb453vzl3gcq
+NarSize: 3608
+References: 12fa1x3v2s1g2bv6z2dz95njhv83x7p8-hook.drv 28pw4qh0bjikg62wvklk3a04ssx37435-pkg-config-wrapper-0.29.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9x2qbx2zpmzb2fp3vqcrpzd7n8dm5mnd-bootstrap-stage3-stdenv-darwin.drv frr6f2hq56j6b4wc0bsklaqskjsagqc0-utf8-xmlErrorFuncHandler.patch fry5vijy08hai14z708vh3y8blvcl3mn-hook.drv isy0i4m3vzf1p4197bkdmm7vh828w657-libiconv-50.drv v4r4nnclizrlnh57z5d8c9mi899nxxrr-libxml2-2.9.14.tar.xz.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv yg9cplf13bk7j9dqjym1dpc0qgrpy5hr-zlib-1.2.12.drv
+CA: text:sha256:0l91pllanll2wci0znq97d45gq5r8mh9fz6l74zsdys54bwsfjhf

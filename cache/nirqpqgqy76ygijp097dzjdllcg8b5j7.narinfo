@@ -1,9 +1,0 @@
-StorePath: /nix/store/nirqpqgqy76ygijp097dzjdllcg8b5j7-iptables-1.8.7.drv
-URL: nar/0p100i6ix3lq36f8h3vddvi51bc6ig5rr76m7nzgxp4dw0pqymgr.nar.xz
-Compression: xz
-FileHash: sha256:0p100i6ix3lq36f8h3vddvi51bc6ig5rr76m7nzgxp4dw0pqymgr
-FileSize: 1476
-NarHash: sha256:0ywdlf9n4vw20jqxkrshfxgnvzdkg2mahcg9rqf667sz432bzva3
-NarSize: 3456
-References: 6gx709a6m0jsr50gra7da7vxy47pkdjk-bison-3.8.2.drv 7kxxdwsq47fbbgrdg6srz734qsd165bk-flex-2.6.4.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh d3i0fzbdnncqaz4mjpnl0xpc1fpf53ph-prune-libtool-files.drv fk89a59qfkh6mlmawd2c2shxfi6c2y1h-iptables-1.8.7.tar.bz2.drv gzbihrxpaq8h20glqladbm2qd6b0vk49-libnftnl-1.2.1.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv mfwgra5dcwf6imn2na7sckcbda9fchg6-libnfnetlink-1.0.1.drv mw8ryxdnm51rn1vr8pc28wlpf2ixd9cr-libnetfilter_conntrack-1.0.8.drv pajkrygv8mn78p3majgkyfh85l1n20g1-pkg-config-wrapper-0.29.2.drv rfgdnj16nh64sp7wadmf37bzplxyka4b-libpcap-1.10.1.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv z041qp5x31nhqm4c3dd13l6ah5c9hhb4-libmnl-1.0.4.drv
-CA: text:sha256:1if9p5wkxcy01g30kfc6f983war5f7qvj2hv9pmgqzkdf9kl5l59

@@ -1,0 +1,9 @@
+StorePath: /nix/store/x5z8qwswjbpj4h27w2li25mqjk8d3xv7-unbound-1.16.0.drv
+URL: nar/1ajk5r0ij3v6w8xa1hszsh2rfqc74zwqrxicdrczpjla00nz6n00.nar.xz
+Compression: xz
+FileHash: sha256:1ajk5r0ij3v6w8xa1hszsh2rfqc74zwqrxicdrczpjla00nz6n00
+FileSize: 1856
+NarHash: sha256:1w2d8bjgl5qjc4cczqdfa8hpj9hmfddyd7iqh7ixvmpzvbrqd34n
+NarSize: 5040
+References: 40wgf0gadimryrvl04hckdprhva7m5yb-unbound-1.16.0.tar.gz.drv 4q7pzih3dfadwvqb2c2xgs0jk9b4nrd3-hook.drv 91yygyynn4yiz2p94ysl7n28vcgjj4y9-expat-2.4.8.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dc6xix3pqm5ak2rkxmxmb3nrqnkvsm6q-openssl-1.1.1q.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv irqr78jgk6fiabbf3bblm0j12cr52zis-nettle-3.7.3.drv w83gvcdz84c459xhkq7f53gfh8rywh6f-libevent-2.1.12.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv x5kmhfkfs5yp57xp8gs93p62n97fxgf3-dns-root-data-2019-01-11.drv ybypb0477pnn9ikmy1x0smdh2g1p36kv-bison-3.8.2.drv
+CA: text:sha256:1d64fvrv9x35kk1jhbpf7hsn4a95l3x5xyidknz41g2l5dn3ib0x

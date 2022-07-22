@@ -1,9 +1,0 @@
-StorePath: /nix/store/yj2h0cks36768hmd71lmrjj1dshvks2s-xnu-3789.70.16.drv
-URL: nar/051g3rac5rd16x44y8caf70c7c9bxx829c28mi9y4h19dvkjfvmv.nar.xz
-Compression: xz
-FileHash: sha256:051g3rac5rd16x44y8caf70c7c9bxx829c28mi9y4h19dvkjfvmv
-FileSize: 8464
-NarHash: sha256:1sclgjh1fcx8ppjnb8qsh3l1h3jvdwdv2243vg4kf032jiqn9nm7
-NarSize: 37728
-References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 7mfl2v7n3bw6pqwz74hqnz3nj4zzbarn-gnum4-1.4.19.drv 7nn49r97bv3qayincc4ch5x3pk7bmg6z-bison-3.8.2.drv 9006hhig7k7qkydz7730cr32jv46dyw3-python3-minimal-3.9.10.drv 9b83cd34na6lsksnfkfn5ks71pqbbqgd-clang-wrapper-11.1.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bxiwi9i9rmyzsbb915w0msa7jim65gas-unifdef-2.12.drv gc8a0wx2g1mpydihk939r88vx346713z-xnu-3789.70.16.tar.gz.drv iqnqarsn35g76k2n8as01w091816ha61-bootstrap_cmds-121.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv xs5a7gq1wa0qq5f17vdm79axc4dhpj4i-flex-2.6.4.drv yhhwdxmfjs0xvqmyqnlibkhxpcbyp3h9-python3.patch z6w9rzzvhxhdi7mv0q8wvvdv634n743g-perl-5.34.0.drv
-CA: text:sha256:024zi18qawyvw741g05czg52bkn3pm8g12aj5bcjm8hac7pmjxva

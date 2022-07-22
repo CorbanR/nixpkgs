@@ -1,0 +1,10 @@
+StorePath: /nix/store/c8p91c6fm67f4ldza6d811wfj61far9f-libxml2-2.9.14
+URL: nar/12ffnmfq9hyy76fqzvy7l7snnyj908iacp6i8gknk8k923zn05m9.nar.xz
+Compression: xz
+FileHash: sha256:12ffnmfq9hyy76fqzvy7l7snnyj908iacp6i8gknk8k923zn05m9
+FileSize: 572200
+NarHash: sha256:1yrmnmbjdg2bggd7qy6gvdy9mvhahkrsqi3gf71rhc91480mqfvw
+NarSize: 1728416
+References: c8p91c6fm67f4ldza6d811wfj61far9f-libxml2-2.9.14 mhhlymrg2m70r8h94cwhv2d7a0c8l7g6-glibc-2.34-210 w25nadr7247krvg5nbxr9slnhq76dakc-zlib-1.2.12
+Deriver: gy1wsigghb1kmgdav78k3czlzvhyy3fn-libxml2-2.9.14.drv
+Sig: cache.nixos.org-1:sEv5pdbDFTOQ/L9k751mucbWsR19kQ5wY4pP75BwTUSIG7qlVSxqnJ1wXWNmLcATH4q9BSVfiIoNOZa5WA9ZAg==

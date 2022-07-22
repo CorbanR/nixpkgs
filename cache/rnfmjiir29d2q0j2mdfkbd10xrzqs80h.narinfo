@@ -1,9 +1,0 @@
-StorePath: /nix/store/rnfmjiir29d2q0j2mdfkbd10xrzqs80h-libwww-perl-6.49.tar.gz.drv
-URL: nar/049s9yiv44yppx8y69g8j2i9dwlhn6q8ywhq6ad0bhsgh6limp6y.nar.xz
-Compression: xz
-FileHash: sha256:049s9yiv44yppx8y69g8j2i9dwlhn6q8ywhq6ad0bhsgh6limp6y
-FileSize: 1296
-NarHash: sha256:0agilkn5gr5yapiy0j66n8vh4d808wf958cd3fglinbpi6pyqm9i
-NarSize: 2928
-References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:0md4yp06vzd71h0x2knip2q6ca23l6xplw6mcmvqf3q155ll9h52

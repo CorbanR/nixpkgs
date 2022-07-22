@@ -1,9 +1,0 @@
-StorePath: /nix/store/jzlzpkizybah0hg4kf0my1nnq6vhpddv-WWW-RobotRules-6.02.tar.gz.drv
-URL: nar/04fkn7asbkqavssrz0b77mm8wk9j9x8dfzl7fqr7k35yijx330h2.nar.xz
-Compression: xz
-FileHash: sha256:04fkn7asbkqavssrz0b77mm8wk9j9x8dfzl7fqr7k35yijx330h2
-FileSize: 1400
-NarHash: sha256:0z7a9qvm17l6w87jjwxn2y9hw7fh8xib3sg8h57aah6kns1rlpcf
-NarSize: 3200
-References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
-CA: text:sha256:0q6jznszhnfg7szirnn3ah3rz4faixc0lgbi872fh4nygg8qn7d3

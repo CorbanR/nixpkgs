@@ -1,0 +1,9 @@
+StorePath: /nix/store/1nd67ii3gx5spzw7v56jg790d5q9hh11-prune-libtool-files.drv
+URL: nar/12rmpcdmkf7p5l2qxizi1h727lx6jkhgl67lqa11m17qfvkmqrw6.nar.xz
+Compression: xz
+FileHash: sha256:12rmpcdmkf7p5l2qxizi1h727lx6jkhgl67lqa11m17qfvkmqrw6
+FileSize: 724
+NarHash: sha256:1rcwyydkdpz7v9bvqszg42h6h2yhqnh2nhjcsm56bh15cc3y19mc
+NarSize: 1640
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh
+CA: text:sha256:05zjvmkhikilhd34px4cfkphbw827d3n9zd2zwlkrzzy5blr1dcg

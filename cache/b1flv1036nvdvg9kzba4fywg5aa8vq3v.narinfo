@@ -1,0 +1,9 @@
+StorePath: /nix/store/b1flv1036nvdvg9kzba4fywg5aa8vq3v-llvm-toolchain-installable-java11-darwin-amd64-20.3.0.jar.drv
+URL: nar/1mbdr6ca09gdymfrz6krq4cx0zqi3164lk0ram3yladyr5ylgckz.nar.xz
+Compression: xz
+FileHash: sha256:1mbdr6ca09gdymfrz6krq4cx0zqi3164lk0ram3yladyr5ylgckz
+FileSize: 1408
+NarHash: sha256:10sk1q0amjq0w264w158sdhf68w035jg3c2x9q0yvb2g0i5cmy4w
+NarSize: 3440
+References: 788wc4ldndpzc9bsl3qyjbqmfs3474sg-curl-7.84.0.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh njy0fp2wb9r6dm9blgckx8p8r3qmpv5l-mirrors-list.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:0fvxp2acdwj36i5j0wrma213pwqyzxwkq3vrf2bc5mf5rjrqg527

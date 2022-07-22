@@ -1,0 +1,9 @@
+StorePath: /nix/store/f4g3r63gf8kz54dym7prc2qa16c8wjcj-libidn2-2.3.2.drv
+URL: nar/1yr8m12n34xj4w2ygv3ald8vh4mhn4lni2wvmni3h7af0ja4y8sm.nar.xz
+Compression: xz
+FileHash: sha256:1yr8m12n34xj4w2ygv3ald8vh4mhn4lni2wvmni3h7af0ja4y8sm
+FileSize: 1364
+NarHash: sha256:0960fpjzdkvqr2f5qnd5jk5jyyl7ryc1dwavdri32svyn0vhjai1
+NarSize: 3312
+References: 8hyxacv0ld8m8jkxpdvwkmdj7v2ga1z7-clang-wrapper-11.1.0.drv 8xj9sf1ajqxqgkqrcx2z469680669gdx-help2man-1.49.2.drv 90kkyylc8lngl6fj7ldnil099xad71gd-bootstrap-stage4-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh av42xsaykn1nfb36h4yh4vr54yxc5dfc-libunistring-1.0.drv gjj5q9vgnw2w4li26l1r7255fc61m01q-texinfo-6.8.drv isy0i4m3vzf1p4197bkdmm7vh828w657-libiconv-50.drv mswz18grpswyir40jb9ghf55rzmwssg8-libidn2-2.3.2.tar.gz.drv szfjhkhmsxfyc289vz39882d3l866888-fix-error-darwin.patch x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:01j73ynqqsj8aqs38pyn3k0bx0s6nvlh20hs9k1gdk475vx9wbjl

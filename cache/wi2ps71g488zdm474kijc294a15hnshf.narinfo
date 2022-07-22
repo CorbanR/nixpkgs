@@ -1,9 +1,0 @@
-StorePath: /nix/store/wi2ps71g488zdm474kijc294a15hnshf-libfido2-1.9.0.drv
-URL: nar/11c96671frzid0j97dpyjj7kn8x1qnlpji909bvz8bw06r7vx495.nar.xz
-Compression: xz
-FileHash: sha256:11c96671frzid0j97dpyjj7kn8x1qnlpji909bvz8bw06r7vx495
-FileSize: 1188
-NarHash: sha256:0jv3i5simzygrc5r29ql1297kpl86ayxxygrpgpii7nr68y70d19
-NarSize: 2464
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dvbsf3y7a714dc5cvjvxdxy3xrf327np-libfido2-1.9.0.tar.gz.drv fmbcpkrrhln9pkn2xr7a3n0v1dmirw5r-zlib-1.2.11.drv h9sxbg5wm1ilkwb3dqxyc0dvdyp9afp7-cmake-3.22.2.drv i2r5hdff1ci2403j92kr61qdiil880na-libcbor-0.8.0.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv pajkrygv8mn78p3majgkyfh85l1n20g1-pkg-config-wrapper-0.29.2.drv y16knma6gsgpjs8pfr0248a6i4rkiz5p-systemd-minimal-249.7.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv z02xk6c53zvarx0mfwnpmd0lq0iv2w39-openssl-1.1.1n.drv
-CA: text:sha256:0iq8j8d4f1jqbhxn3anhgylp7mfk7n71v4m7jk6bv5vx9c8y8anq

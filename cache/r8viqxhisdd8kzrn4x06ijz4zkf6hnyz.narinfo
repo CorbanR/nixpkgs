@@ -1,0 +1,9 @@
+StorePath: /nix/store/r8viqxhisdd8kzrn4x06ijz4zkf6hnyz-man-db-2.10.2.tar.xz.drv
+URL: nar/11a3inhicjizwj728jbc8k3a28w17nk5x1k54nnlr2fdqbqkl4aa.nar.xz
+Compression: xz
+FileHash: sha256:11a3inhicjizwj728jbc8k3a28w17nk5x1k54nnlr2fdqbqkl4aa
+FileSize: 1292
+NarHash: sha256:1mgpr881khfbklfqrf2wgmkbaxc0lmlrxgj9fpyrivxqj1hnvf53
+NarSize: 2968
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
+CA: text:sha256:0md82q8v2c1k1blg585hy6kddrg0svc1d9kw0qkyf7h827yl6s8v

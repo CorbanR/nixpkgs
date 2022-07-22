@@ -1,0 +1,9 @@
+StorePath: /nix/store/k76wzm13lpxgbiih5gs60aqn0lhj0l08-XML-NamespaceSupport-1.12.tar.gz.drv
+URL: nar/1lv5wvz2sdbya26x9fc9s480v0zzqpbwxpgpddkxkm29s57h7lbb.nar.xz
+Compression: xz
+FileHash: sha256:1lv5wvz2sdbya26x9fc9s480v0zzqpbwxpgpddkxkm29s57h7lbb
+FileSize: 1316
+NarHash: sha256:0v45pzmn7w7zy90jvbpb9yh4asmzjsmf3fymk18lfkz673s81wbg
+NarSize: 3032
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
+CA: text:sha256:06qzkp5rrjz6cy57xbbc1bphndlswc86nf4wnkx3if5ycziz4da3

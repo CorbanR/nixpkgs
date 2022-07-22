@@ -1,0 +1,9 @@
+StorePath: /nix/store/26g6ic16k7ipziwxkiwpi32diyv60cnh-python3.10-pytest-forked-1.4.0.drv
+URL: nar/0v9s5xdkfwq783kqzfpfm800xfnidfms1y7qws5g7s4q692cs7wq.nar.xz
+Compression: xz
+FileHash: sha256:0v9s5xdkfwq783kqzfpfm800xfnidfms1y7qws5g7s4q692cs7wq
+FileSize: 1852
+NarHash: sha256:1fqlz55363jy8px747n5hdml76vh4ry7qq1pl3wj963gj97jynik
+NarSize: 4360
+References: 03alsik1kfrwrm964cbr1003vwfp0mjj-python3.10-py-1.11.0.drv 04wz4cjwafvspdk44lhamqkx9yghzd64-python3.10-pytest-7.1.1.drv 0jp3yvaa6f0y5ibl4s591knawhzjcc87-python-namespaces-hook.sh.drv 0yqzy7cdgrjx18ap6pgi1myfk1i3225m-python-remove-bin-bytecode-hook.drv 72xvqk64sdxq5v1vhywafx2smgri50cy-pytest-check-hook.drv 9c1x18y3zjcqd61rii1ylj6fqzxb6jym-python-catch-conflicts-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh axnb3f8jrin86pfa586waxb0kb09rwka-setuptools-setup-hook.drv clz32rq5w1s91r6vbq1fiawwxa8ygp20-python3.10-setuptools-scm-6.4.2.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv fjzksics23hlkpvw7xzh4nqi5zvxwmgf-python-remove-tests-dir-hook.drv g4vv58r0a466aa28wy4m3id28yf4ycgz-pytest-forked-1.4.0.tar.gz.drv jcm8jhrj809xnv37r9dbzryydp2dn7ml-python-imports-check-hook.sh.drv krss2ziyzvim7i9bxcjjz9qg5j6m845m-hook.drv n2akaq46dr3gbrmrrv7vcz85rhikrdni-hook.drv r08f587ni59f57df8k5hx1ivql6x7brb-python3-3.10.5.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv xhs43jnm9dck3lkv7n5mikyywsdd9xca-setuptools-check-hook.drv ynvpz6c45mq54a0a5ghcrcd7lbgira5n-python3.10-setuptools-61.2.0.drv z8lphm5m425zxaa2wrq6nbxzrb1a5v4g-pip-install-hook.drv
+CA: text:sha256:1yk9lg4bw2j8kcd5vcy7q7kphx8xrfvgp9yflxbwby6lsx6z0k8z

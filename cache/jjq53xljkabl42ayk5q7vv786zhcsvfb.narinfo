@@ -1,0 +1,9 @@
+StorePath: /nix/store/jjq53xljkabl42ayk5q7vv786zhcsvfb-rust-minimal-1.64.0-nightly-2022-07-22.drv
+URL: nar/0yxl2d8yx6ixar316n5qckxl4r07wx5m7drq6pkdvlanwjzxj0ri.nar.xz
+Compression: xz
+FileHash: sha256:0yxl2d8yx6ixar316n5qckxl4r07wx5m7drq6pkdvlanwjzxj0ri
+FileSize: 1580
+NarHash: sha256:1721z4j76rf9lkrif84k3y216g7zz9wlhg1rlqiivnsfc12kpzha
+NarSize: 3992
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv 4dyjdr37861gw24s2lykxdy2viyjibq6-lndir-1.0.3.drv 7dwdb6i5b5v00advrs489mknqcs61n6k-cargo-1.64.0-nightly-2022-07-22-x86_64-unknown-linux-gnu.drv 7i4gkxh08vvw55assw0b09q8g7s1nplj-rustc-1.64.0-nightly-2022-07-22-x86_64-unknown-linux-gnu.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv h4x5l3x424fb3vp8892ppnv89jzj8ypi-gcc-wrapper-11.3.0.drv nnscrmv4wx0vh2hm41sr7jc5h3sqbn89-cargo-miri-wrapper.sh y7jkxzz6c6lnhm7pv5qcaf4xwdxk6bv8-rust-std-1.64.0-nightly-2022-07-22-x86_64-unknown-linux-gnu.drv
+CA: text:sha256:1gyp879hlndd35mjld20s0zablk0zxh37q65xvird6vcayham2r7

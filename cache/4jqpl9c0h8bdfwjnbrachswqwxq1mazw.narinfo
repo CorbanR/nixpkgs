@@ -1,9 +1,0 @@
-StorePath: /nix/store/4jqpl9c0h8bdfwjnbrachswqwxq1mazw-cryptsetup-2.4.3.tar.xz.drv
-URL: nar/17fza3d8bkafz6qwcs55dfb3sygk85a66k83q5kvpwj8rc596n36.nar.xz
-Compression: xz
-FileHash: sha256:17fza3d8bkafz6qwcs55dfb3sygk85a66k83q5kvpwj8rc596n36
-FileSize: 1288
-NarHash: sha256:0nfa773p0dn9zpbnyc0aajd100d0ii40xj5n5bq7ik0km3nkg3in
-NarSize: 2928
-References: 0q1xad1jg4gfzaa2qw9cd71v3w9qdh07-curl-7.81.0.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh rl82gq5h0hpxvpglncqnkzd0xvmvmqjr-mirrors-list.drv v7693mkpz9dbx77w18w89nlc9ljpcp20-stdenv-linux.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv
-CA: text:sha256:14mn12kx927p0pzdxq0vjhsqdz9lky30x8bvygrlzawnmbkjh9xq

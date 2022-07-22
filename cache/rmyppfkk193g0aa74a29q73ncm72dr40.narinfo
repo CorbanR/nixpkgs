@@ -1,9 +1,0 @@
-StorePath: /nix/store/rmyppfkk193g0aa74a29q73ncm72dr40-libtool-2.4.6.drv
-URL: nar/0ni2xj7kbgi3pmna4cszmiy75q3spy4hj0ifhdjvqfpyvpzi7z0y.nar.xz
-Compression: xz
-FileHash: sha256:0ni2xj7kbgi3pmna4cszmiy75q3spy4hj0ifhdjvqfpyvpzi7z0y
-FileSize: 1176
-NarHash: sha256:0r41d178v72p8765fmiby2mm9kvdpviyn7vca95h89mphvm4bjq9
-NarSize: 2720
-References: 0pc18b91az604bmggly2891hgrjd9qbf-libtool-2.4.6.tar.gz.drv 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 1jqvgdxbrxphqsyzh0fkywgq6z5sm593-bootstrap-stage4-stdenv-linux.drv 6drd3hfnknmkawnkahdfvsfvwgvwa1yl-help2man-1.49.1.drv 70v87c25rwvkyxj4hriz9a550jy6f475-autoconf-2.71.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cjj314ik3xxxg6vwb241yzlsf8sk5f35-perl-5.34.0.drv f58zc8rjfnh8jrkrqlbp00hkbpq4bh3s-automake-1.16.5.drv fcmyjvd9j6zrf6xra8yjc8aakmjlidhh-gnum4-1.4.19.drv xq30c2gx2ir2zn234m7yj8igawc3jnb6-libtool2-macos11.patch
-CA: text:sha256:141412l4ij1l75ifmd13c9glg8rpjnm1dsnlknshxn7yp3c3x37p

@@ -1,9 +1,0 @@
-StorePath: /nix/store/bms7b11yddran3madfnfkarp0kaj1f1a-perl-5.34.0.drv
-URL: nar/103kylc15bzjpjgs0jsy7lzr7fqdkcixy384apy11d4k0vzsligc.nar.xz
-Compression: xz
-FileHash: sha256:103kylc15bzjpjgs0jsy7lzr7fqdkcixy384apy11d4k0vzsligc
-FileSize: 1704
-NarHash: sha256:0v384ac3y314wbcrw7g5s7qsyba46niyy0z23dkh9fgada6mascp
-NarSize: 4072
-References: 51vmalh8lvqpicg9rxnrln5q9l1fz8vc-gcc-wrapper-10.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh csr89vvgvyw3dpfdzs98jp6f3kid5hni-glibc-2.33-117.drv dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv mb381gpm9k5wdl37l5ad5pp8w11qzhjg-no-sys-dirs-5.31.patch qbz2hrm0l1wwz95l1mw8mi277dyq38hx-perl-5.34.0.tar.gz.drv yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv zj0g17vjgx7baj4zfp5ciz0cng2hdl42-gcc-10.3.0.drv
-CA: text:sha256:027pl6mk9nxyl54hjxrr7rkziqi4bybfbdd9n7kpgymw954bq2mw

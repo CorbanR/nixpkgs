@@ -1,9 +1,0 @@
-StorePath: /nix/store/4pxhm85dj5yj38p0yysd3b2r53kh65q1-top-108.drv
-URL: nar/1fd8yc1lm0my52n0l1zscz66rnx7d37lyfc6xrb2skxqbqgd4yk4.nar.xz
-Compression: xz
-FileHash: sha256:1fd8yc1lm0my52n0l1zscz66rnx7d37lyfc6xrb2skxqbqgd4yk4
-FileSize: 1396
-NarHash: sha256:0778s8yzlgcjqqm9cknplmdggwi8z9rhns0prqwnalglvjj1zah0
-NarSize: 2928
-References: 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 5x70wg3gh95wcyb0k422w3jnsddk0dk1-ncurses-6.3.drv 88dw813cv5839d1i5cp77gmkg11qjrr3-top-108.tar.gz.drv 95ixrcq5bchq4wkqq4ac9x138jb008ng-apple-framework-IOKit.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh pf15srnpd8b855pngjffh1hq79y0hjnd-libutil-47.30.1.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv xk2si48iwm8mvzfw4cydk2fnnglhn7cf-hook.drv
-CA: text:sha256:05r1q6l44bqlxlgc8if27w55759n53m7x6vpl690p29xr178s7xb

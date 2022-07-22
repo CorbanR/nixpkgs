@@ -1,0 +1,9 @@
+StorePath: /nix/store/dkkhdq2rh8jdy6rlr68z4yy5zzwn4wp4-apple-framework-ApplicationServices-11.0.0.drv
+URL: nar/1fihjczdsy7hlw6wyvlk9mik4cwrlxbaw2ns0pf6wyszi5xjpxg8.nar.xz
+Compression: xz
+FileHash: sha256:1fihjczdsy7hlw6wyvlk9mik4cwrlxbaw2ns0pf6wyszi5xjpxg8
+FileSize: 1520
+NarHash: sha256:1lq22k6s5mh05nlsad2y4zvjibs4cy8kqrybslm427ksd7b3snhg
+NarSize: 4360
+References: 5qcw9i77p93vv00gzgsgf31f62daiic5-MacOSX-SDK-11.0.0.drv 8wkvjjl8cw0zs5hd0bkv5dpx886fww9q-apple-framework-ColorSync-11.0.0.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh flcd1hbmgdkd3l29yv136c7xvfz84xq2-apple-framework-CoreServices-11.0.0.drv g67bilmiv6jv79zj0dac63xx5wvfgjpp-rewrite-tbd-20201114.drv naxlgxgc8zlnq69qdh5z5qpfnf4y1nig-apple-framework-ImageIO-11.0.0.drv vxh3kcbhb63kc580pm1pbk0hdj0p6ic7-apple-framework-CoreText-11.0.0.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv y4vcshv99brl25v33xn4wr2m6mf1xmb4-apple-framework-CoreGraphics-11.0.0.drv
+CA: text:sha256:1s7xbai29h7fdbdyi07w4wsdkhwg5yc5bd9v9b16p4cf9syv1aql

@@ -1,9 +1,0 @@
-StorePath: /nix/store/1zy8phvwiicm6bsdv9yqfjrlkrbkslp8-glib-2.70.3.drv
-URL: nar/1mnk03dq8x53xyymc54dp29vrpvh5sm8ilhnv14fbncq43jjz804.nar.xz
-Compression: xz
-FileHash: sha256:1mnk03dq8x53xyymc54dp29vrpvh5sm8ilhnv14fbncq43jjz804
-FileSize: 2744
-NarHash: sha256:1rla8ckygzb6jqzdy5xvdq29y0y9z5c96xpy4fb76l80zrkb7zm7
-NarSize: 6528
-References: 3kckp8ilny1ga7mjj5m7xrvcgc0g7m58-pcre-8.45.drv 3n2mrzbl3ca86w2ypdvznl5g3gfb05ff-ninja-1.10.2.drv 7kmlpzbjwzzdi9lhawb7yv7bb36qnssm-gnum4-1.4.19.drv 7q141vq59zdm8vx85zgx6x7769rikifq-setup-hook.sh 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bms7b11yddran3madfnfkarp0kaj1f1a-perl-5.34.0.drv cdd524v2zbbv9vlvqccs6syz1qgp1na6-libffi-3.4.2.drv fmbcpkrrhln9pkn2xr7a3n0v1dmirw5r-zlib-1.2.11.drv ggpcqz1dzcvwzkgrigvdfkz4g8yz385x-libselinux-3.3.drv ikmqczy0y20n04a2b8qfflzwihv8139g-separate-debug-info.sh j379inyzai6zfbwjkb1kj38znmxlssd7-python3-3.9.10.drv k7p34wv0xzng89qqsch2qfg7a0r2sk8b-stdenv-linux.drv n10f3l2ljyp4sypahnj3g22ibv15dwxz-docbook-xml-4.5.drv nxl80p1naxc4p4dipf91n2lb0ci6sxjk-gettext-0.21.drv pajkrygv8mn78p3majgkyfh85l1n20g1-pkg-config-wrapper-0.29.2.drv qfik1996gyhh3mnhdvdr3mj3hclxr9cm-glibc-iconv-2.33.drv s3h6ciwd995v4bs44q6zmfs536qw863a-util-linux-2.37.4.drv sayjh3ihrg4qhic3n6rmizji0zjxvyl5-meson-0.60.3.drv v804imviypj0ywdjgg6hcn1mrfiws4cw-glib-appinfo-watch.patch vvam03i71dz1rpk526479h6vf8r46551-glib-2.70.3.tar.xz.drv w9rf0qzl9md92vhy0ga2pl0rsn9d1asw-libelf-0.8.13.drv wdf03wycz1axry61nkivhp3qn4ihg87l-schema-override-variable.patch xdz2lwxf7whwyfdlxqdrm8azz60dzqi0-libxml2-2.9.13.drv xppcw0vgwaq88n3wmc21ih65z9micfw1-split-dev-programs.patch yn41s07z0bpm0mpw0xca2bpmd76rglp6-bash-5.1-p16.drv yr7brpzw45x7dixn72496nb3bm4cbkwp-gtk-doc-1.33.2.drv ys7g0c52qycir2ph5zm4jd87msqiaqc9-docbook-xsl-nons-1.79.2.drv
-CA: text:sha256:0kcvhgxfwprk0xmmljnhgc50np656lfghps1xszq9vkira40y03f

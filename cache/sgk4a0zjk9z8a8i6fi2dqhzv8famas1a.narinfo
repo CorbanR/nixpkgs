@@ -1,0 +1,9 @@
+StorePath: /nix/store/sgk4a0zjk9z8a8i6fi2dqhzv8famas1a-cyrus-sasl-2.1.28.drv
+URL: nar/0bscm2dwmb8692dnppgn480vs0ikxlhicbzqxp8wbzxrvf6yww6g.nar.xz
+Compression: xz
+FileHash: sha256:0bscm2dwmb8692dnppgn480vs0ikxlhicbzqxp8wbzxrvf6yww6g
+FileSize: 1668
+NarHash: sha256:0bhyqbmhlid2sc3s4bxgi7wmzwjmg4v5yg4skavqhyw9zfg3fddx
+NarSize: 3992
+References: 4cs2xpz2bw1z5irmzcrymc0jidcpp1hd-cyrus-sasl-ac-try-run-fix.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cskw6k91k3hh5x9bnsbm0kcqrflmhpx0-hook.drv dc6xix3pqm5ak2rkxmxmb3nrqnkvsm6q-openssl-1.1.1q.drv dhlic9x2gh55gfqphl998xjslpv8klzn-clang-wrapper-11.1.0.drv dr1xpamjqapfgjiq83vhiw5aakcfpb5g-db-5.3.28.drv dzv5i30wzbn5lpvxjrlvakdg1sw82ybk-cyrus-sasl-2.1.28.tar.gz.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv hsp9j8na1hiyy31n6i6wi3nq8vgwcy6n-libkrb5-1.20.drv jbw6gp11rsbsvq8iv3d03w2ss3v3gbbf-fix-darwin-dylib-names-hook.drv kadd73ydkzryv97ph5h6mzzydapfw13j-prune-libtool-files.drv mzf06xwg8rv0ygsf160sj6nay70vd8kn-gettext-0.21.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:0llfs8a2c9lyp0k6akp8jm70d7w1y1i0ld6vf4x42j024h1wrkxk

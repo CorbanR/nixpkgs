@@ -1,0 +1,10 @@
+StorePath: /nix/store/h04y0rvlrbf0bwsjh7r33dfc933gmpgb-terraform-0.12.31
+URL: nar/1qrv7ckfsd8d17yqx1iw3g9sfy7gyjzhazvsppb1nqkhn25rzgdd.nar.xz
+Compression: xz
+FileHash: sha256:1qrv7ckfsd8d17yqx1iw3g9sfy7gyjzhazvsppb1nqkhn25rzgdd
+FileSize: 9724112
+NarHash: sha256:01kpzz1ll3ckp94c56sxbnkfwskkdck3ryh607h1i3gmyma0pjmp
+NarSize: 39574848
+References: mhhlymrg2m70r8h94cwhv2d7a0c8l7g6-glibc-2.34-210 rvxirvzah1xj7ir1xjik66qz3n0sqbc8-iana-etc-20220520 x2iscnhs0jb0fzkz4jss3mmgqhq8vx9a-mailcap-2.1.53 xpy48miz1rqzm7ziy0nrxr0vylvqrz98-coreutils-9.1 z7d05z5y6ggb9nvyn4nbjs6850r3r6ih-tzdata-2022a
+Deriver: rb01mbdx5pr29vjzvp93v1d9rxqg9zy7-terraform-0.12.31.drv
+Sig: nixpkgs.raunco.co:5ksq8c7CqHR4tx7mjC4TMHr63UUFoqLcvMweDo1xdLe7AWjO08AypMkyP63v/T53RbW2coGDYXxXUisXI2i7Aw==

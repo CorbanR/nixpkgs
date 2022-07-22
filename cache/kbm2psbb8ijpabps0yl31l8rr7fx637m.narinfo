@@ -1,0 +1,10 @@
+StorePath: /nix/store/kbm2psbb8ijpabps0yl31l8rr7fx637m-libevent-2.1.12
+URL: nar/0gslb08mzaybjnz82vqarkbmvsnxhndd9r1x8in52axsncwfsipr.nar.xz
+Compression: xz
+FileHash: sha256:0gslb08mzaybjnz82vqarkbmvsnxhndd9r1x8in52axsncwfsipr
+FileSize: 142216
+NarHash: sha256:0i9vwfdzvayq7ca2nc59spzvk6sc85sqal1613wpx0cnkkgyd40m
+NarSize: 617424
+References: 6d7199lzpjskj6070z5cbng9qlabxdrg-swift-corefoundation-unstable-2018-09-14 kbm2psbb8ijpabps0yl31l8rr7fx637m-libevent-2.1.12
+Deriver: w83gvcdz84c459xhkq7f53gfh8rywh6f-libevent-2.1.12.drv
+Sig: cache.nixos.org-1:bf+ylL0SedRfPcY9kNmBPcbrciJMW2sO4imFoQli/j+pLqc25iEaXMB4DZQrjdUkVqqxw+6+OHmDcJ3UmJYNBQ==

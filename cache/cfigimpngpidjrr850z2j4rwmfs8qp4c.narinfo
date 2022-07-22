@@ -1,9 +1,0 @@
-StorePath: /nix/store/cfigimpngpidjrr850z2j4rwmfs8qp4c-expat-2.4.6.tar.xz.drv
-URL: nar/0qf4nyxirb4gd8i2zsmqp30pnzmqpk91dmd648sfjs23g12z3jh4.nar.xz
-Compression: xz
-FileHash: sha256:0qf4nyxirb4gd8i2zsmqp30pnzmqpk91dmd648sfjs23g12z3jh4
-FileSize: 1404
-NarHash: sha256:1x99jyzf3y0x9dn6biw035b3dqv90vy4yhg6yg43vlar5fq79v7q
-NarSize: 3192
-References: 48m00pmd8nlhnavif9jmr73fp6yjb9zk-stdenv-darwin.drv 720ikgx7yaapyb8hvi8lkicjqwzcx3xr-builder.sh sdfiwz93l41nhirvz99bdfh0bhdmdbf6-curl-7.81.0.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv vj798mgchm9mb26yvbzyq37zrrhadf48-mirrors-list.drv
-CA: text:sha256:1c1kmphsanva8k3asr9vr3c1bcm2pw79124561ns54zkqi6n36hs

@@ -1,9 +1,0 @@
-StorePath: /nix/store/dc25sxgi3hxradrxbrhqlcqjjswhvkkx-apple-framework-Cocoa.drv
-URL: nar/0chpk2a46y4qg0s86935gw2f6az8pfghjnykwifvali3bcl4niwr.nar.xz
-Compression: xz
-FileHash: sha256:0chpk2a46y4qg0s86935gw2f6az8pfghjnykwifvali3bcl4niwr
-FileSize: 2092
-NarHash: sha256:1jsi2307l6m13wvckg78f9zdjwqwwyjdy4chcilizdl9lp6qi1gc
-NarSize: 6536
-References: 05kdrvzjgmnrfy2bhzd3dhwwy5d6903d-apple-framework-CoreData.drv 0w4zlhk4qxp1mxx41pqpz44wkjvmjbhg-stdenv-darwin.drv 3fxyybvh4mdrdrk5n38455683356p6si-print-reexports.drv 47z2y8pwh8sn0h5lgg05r8yhax92z58i-MacOS_SDK-10.12.drv 6b029vnankai4331yv3bmiq2h1y2bs6v-darwin-stubs-10.12.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh i060nm4lzilzsgix3pc6kbiyqfy7cx7h-apple-framework-AppKit.drv shgbnvbvrp2q7x8mcinqb5h412qz5m7b-bash-5.1-p16.drv
-CA: text:sha256:1x2zr0d50bbx0jhyv4pfjgxc5jrvp633vlwkdqx7i287wc5bm0kp

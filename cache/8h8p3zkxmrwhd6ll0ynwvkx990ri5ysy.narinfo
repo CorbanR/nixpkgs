@@ -1,9 +1,0 @@
-StorePath: /nix/store/8h8p3zkxmrwhd6ll0ynwvkx990ri5ysy-swift-corefoundation-unstable-2018-09-14.drv
-URL: nar/1yhr6m2ww7k1ddlcdgjg98vzckianyilbpb453d8b1l791xbjw35.nar.xz
-Compression: xz
-FileHash: sha256:1yhr6m2ww7k1ddlcdgjg98vzckianyilbpb453d8b1l791xbjw35
-FileSize: 2504
-NarHash: sha256:04dsba7hcfqy1f5sraf93lwhrz33m0n2dkvbrjmld3iylj12w141
-NarSize: 5616
-References: 7kfry6m7rlq9rcghb0rlf742jn4sgbj5-ICU-66108.drv 9006hhig7k7qkydz7730cr32jv46dyw3-python3-minimal-3.9.10.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bpj02ycvjja6jzbxn7jgg4ax9vwy3d7x-libxml2-2.9.13.drv g2771hkvcng5q6kcrnlpcfdvplg3gqv8-CFSystemDirectories.c.drv l3173a1m6qmzykb4c0arl1m04phb1c53-0001-Add-missing-TARGET_OS_-defines.patch va5mh1cvpssxywkw19fkk1n6y53mcp7g-objc4-709.1.drv wc5nl71d5k9wxjyry6kd9r6wb9p4cr0w-ninja-1.10.2.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv y22mdkf698wfxgzdx93xlz4kdbn0h0hc-curl-7.81.0.drv y4nn8mw9wmkln8qqb5fzkmfa9n593mrf-bootstrap-stage1-stdenv-darwin.drv yq12mk0k0q91p1aavjxpg5r666286pi7-source.drv
-CA: text:sha256:0q6chnv58gsdd9xl43idyf1rnbdww22qd6239prn3fx58cwh8q0w

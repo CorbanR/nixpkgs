@@ -1,9 +1,0 @@
-StorePath: /nix/store/zj0g17vjgx7baj4zfp5ciz0cng2hdl42-gcc-10.3.0.drv
-URL: nar/00mrvygqvrw9i335dp4gqvj445f36fni3j4zycrgxs7g7hl1fxv6.nar.xz
-Compression: xz
-FileHash: sha256:00mrvygqvrw9i335dp4gqvj445f36fni3j4zycrgxs7g7hl1fxv6
-FileSize: 2700
-NarHash: sha256:0b4l43a2z4vgpfkjpzcr2laxk5w4lj72n86fc596m0nng9xkjkym
-NarSize: 6824
-References: 0mn68kk0xwfqvpc7y7c5ig4c5plihwzw-bootstrap-stage3-gcc-wrapper-.drv 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 2bzzw5cp50jcf7p6disnx5ai9h04a87z-gettext-0.21.drv 3acdq9v0055iyzkg1rrx2a54cwjwdbyp-texinfo-6.8.drv 4k7n61apbmyw8wxh0914nyixpig7cia7-builder.sh 78yrvr2ll46k6rgb86z7s9fcdj6n7b8y-bootstrap-stage3-stdenv-linux.drv 7m9p086saph49hnh4wid5py5n9im4z9r-gmp-6.2.1.drv cbn3768p3snxa0faz8qy8x14v8gs0x3v-libelf-0.8.13.drv cjj314ik3xxxg6vwb241yzlsf8sk5f35-perl-5.34.0.drv csr89vvgvyw3dpfdzs98jp6f3kid5hni-glibc-2.33-117.drv fmbcpkrrhln9pkn2xr7a3n0v1dmirw5r-zlib-1.2.11.drv gsb4x03d5yhr0ckpxiy84zdrmr5ykdgk-mpfr-4.1.0.drv hbk0lh6xhfc6ikcf27xkl5lzkmgd4bsk-patchelf-0.14.3.drv n3k24gc14gl57s14vl8rifgczy99g3hd-isl-0.20.drv pz03lhak99nzyyni72m14zsjzfjvqvr8-no-sys-dirs.patch q2mb5zs1v3whbv4waqnp13gs9354f41y-binutils-wrapper-2.35.2.drv qh0zicqin3zrlj4ywz2jgz9i8c7yxwsf-libsanitizer-no-cyclades.patch sia785gc0zx4zbz1syysdilrvijanval-which-2.21.drv slgzqc5n8khqjzps5gvz2fjr9lv3x3kl-gcc-10.3.0.tar.xz.drv zijhbzbn1n4fzjw88n65rwphlxmji7w0-libmpc-1.2.1.drv
-CA: text:sha256:0c7asf6q00adwvdwb4w4jqd8m0h89v4wg4nijk0graplk9092qa8

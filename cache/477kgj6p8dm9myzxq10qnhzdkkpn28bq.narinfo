@@ -1,0 +1,9 @@
+StorePath: /nix/store/477kgj6p8dm9myzxq10qnhzdkkpn28bq-glibc-locales-2.34-210.drv
+URL: nar/14py5fy8s2ny86w6p77p1adp9sf7zvlndyw5gz4i40cx13g56xkj.nar.xz
+Compression: xz
+FileHash: sha256:14py5fy8s2ny86w6p77p1adp9sf7zvlndyw5gz4i40cx13g56xkj
+FileSize: 3216
+NarHash: sha256:02vm36007i554zd062mysvn62kmjdz0cmrc6hrkkavffqaryp8b9
+NarSize: 7584
+References: 001gp43bjqzx60cg345n2slzg7131za8-nix-nss-open-files.patch 2h7n9jn6i88wd350c9bh3r2rmcazspi5-glibc-reinstate-prlimit64-fallback.patch?id=eab07e78b691ae7866267fc04d31c7c3ad6b0eeb.drv 48gksg6lzfl8b5ajcy1cbc6ad45ssrzx-python3-minimal-3.10.5.drv 7kw224hdyxd7115lrqh9a4dv2x8msq2s-fix-x64-abi.patch 81wcz5lqa2fv2a4xcf9kyqgi4yr33dix-bison-3.8.2.drv 8haph3ng4mgsqr6p4024vj8k6kg3mqc4-nix-locale-archive.patch 95hp6hs9g73h93safadb8x6vajyqkv6q-0001-Revert-Remove-all-usage-of-BASH-or-BASH-in-installed.patch b1w7zbvm39ff1i52iyjggyvw2rdxz104-dont-use-system-ld-so-cache.patch bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv gm1vihrf3d8hks2fgjfgfyn5wm2rs49a-locales-builder.sh h4x5l3x424fb3vp8892ppnv89jzj8ypi-gcc-wrapper-11.3.0.drv jcivpvyhyw0i2krki7klzm37xh7zkcvs-locales-setup-hook.sh.drv jg09z27h00fil65iqfllc88jfsbdr1yp-libidn2-2.3.2.drv ksp0ph556jzkgq7z9v8c6ydmf4xclad0-glibc-2.34-210.drv lib8d3n1kczk1ykgsicvln8fna3p85gn-binutils-2.38.drv mgx19wbmgrh3rblbxhs6vi47sha15n11-2.34-master.patch.gz mnglr8rr7nl444h7p50ysyq8qd0fm1lm-dont-use-system-ld-so-preload.patch p4cvw09yg5rgbwmil4qadhasgksmylqh-locale-C.diff.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv ra4grbir4m5792mix26aqpabk6y26vi6-linux-headers-5.18.drv ri6jvavh6yjkcndfdmbk0drwkrp0s0ga-raw.drv rpqx6aywqaimqh8zyzyi3dqxmqxqyq7h-raw.drv xkd50xxii6k7l1kmw4l5x6xzbhamcs87-allow-kernel-2.6.32.patch yibahmgq2wm20h2kdy843wi5p76235wr-glibc-2.34.tar.xz.drv za0pg7fmysrcwrqcal26fnmzw6vycgdn-fix_path_attribute_in_getconf.patch
+CA: text:sha256:12i8l10kbgr6xnszj4nhq64lsp1qzcp1q501ck39p27mhbavh37j

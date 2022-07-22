@@ -1,0 +1,9 @@
+StorePath: /nix/store/3i4wg6knzw9qw19yxbdm24kfmsn59fp9-cracklib-2.9.7.tar.bz2.drv
+URL: nar/1bzfzb073x20gxnvapwj9nv8wc2vf7kcsaqvb7dzds4rjhfb7m31.nar.xz
+Compression: xz
+FileHash: sha256:1bzfzb073x20gxnvapwj9nv8wc2vf7kcsaqvb7dzds4rjhfb7m31
+FileSize: 1312
+NarHash: sha256:0bj7wk3jiqbzin5ddfjs2b01qxsb1vlqflqvrfid4qwdwsrkv1mr
+NarSize: 3016
+References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
+CA: text:sha256:1s9qyg0yzdgylfyz0x55xy3x84r2nya27vh835544ni9sh03765k

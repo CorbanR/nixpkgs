@@ -1,0 +1,9 @@
+StorePath: /nix/store/wr89zhh4d54ywdkahaic4wn9iwqgvg9g-nghttp2-1.47.0.drv
+URL: nar/0kmj57qz0d0sbm68lmkn9hb0zxm2yghcp9f95p2q5hrbnl504qcg.nar.xz
+Compression: xz
+FileHash: sha256:0kmj57qz0d0sbm68lmkn9hb0zxm2yghcp9f95p2q5hrbnl504qcg
+FileSize: 1432
+NarHash: sha256:0nqckrl65p551ly37bjpqj3skjylj1wsv9vlwmjlz2s0fmazbnyv
+NarSize: 3344
+References: 28pw4qh0bjikg62wvklk3a04ssx37435-pkg-config-wrapper-0.29.2.drv 5ghdlxgkqsrp1nlcxzbcpvqi37d87m83-bootstrap-stage1-stdenv-darwin.drv 91cpiy0a7ng2i641lpfnlnrym56dxfwc-nghttp2-1.47.0.tar.bz2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9l0a9x27909spsz9jb5rrjn6r5rjd5vg-zlib-1.2.12.drv d1mzf1mzlkm4ddmrn8llry59xpy2gj7j-libev-4.33.drv ix2jy7l5hr2r5fzsra8l1z0v75hfl0kh-install-shell-files.drv j2bh2a8wk1vza43j0yhwahz24jw9fsv1-c-ares-1.18.1.drv vv0dkbl2rp5cd9xwa69y9ypb2plz3slv-openssl-1.1.1q.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:0q5bc9bj6xlzrvx8nmsz4rwdhj54xx9fwgwzpr36r7sjrrds45i8

@@ -1,0 +1,9 @@
+StorePath: /nix/store/61bmdsy4mmq038wclkskfckl1krn91pf-libSystem-11.0.0.drv
+URL: nar/0af021z40z15pwgz5sz71giqd3q6v7wnd33all0mk21p3wm4xsws.nar.xz
+Compression: xz
+FileHash: sha256:0af021z40z15pwgz5sz71giqd3q6v7wnd33all0mk21p3wm4xsws
+FileSize: 1540
+NarHash: sha256:11qv2jfv7bpic766n58pm1yjp3971g6xrzah5rg991z7621fjkrh
+NarSize: 3792
+References: 5qcw9i77p93vv00gzgsgf31f62daiic5-MacOSX-SDK-11.0.0.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh g67bilmiv6jv79zj0dac63xx5wvfgjpp-rewrite-tbd-20201114.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
+CA: text:sha256:01nhr89fcv01z9fsp1dzr0fj0fypvjkdsvd8by1axb9m2k5j4z6h
