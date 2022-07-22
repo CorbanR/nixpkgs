@@ -28,6 +28,7 @@ let
     muss = callPackage ./pkgs/applications/virtualization/muss {};
     muss-dev = callPackage ./pkgs/applications/virtualization/muss/dev.nix {};
     rapture = callPackage ./pkgs/tools/security/rapture {};
+    terraform_0_12 = callPackage ./pkgs/applications/networking/cluster/terraform {};
     truss-cli = callPackage ./pkgs/applications/virtualization/truss-cli {};
     vaulted = vaulted-wrapped;
     vaulted-unwrapped = callPackage ./pkgs/tools/security/vaulted { enableWrapper = false; };

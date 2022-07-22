@@ -25,6 +25,7 @@ let
     muss = callPackage ../applications/virtualization/muss/test.nix {};
     muss-dev = callPackage ../applications/virtualization/muss/test-dev.nix {};
     rapture = callPackage ../tools/security/rapture/test.nix {};
+    terraform_0_12 = callPackage ../applications/networking/cluster/terraform/test.nix {};
     truss-cli = callPackage ../applications/virtualization/truss-cli/test.nix {};
     vaulted = callPackage ../tools/security/vaulted/test.nix {};
     xmlsec-openssl = callPackage ../development/libraries/xmlsec-openssl/test.nix {};
