@@ -2,16 +2,16 @@
 
 buildGoModule rec {
   pname = "vaulted";
-  version = "3.0.0";
+  version = "v3.1.unstable";
 
   src = fetchFromGitHub {
-    owner = "miquella";
+    owner = "CorbanR";
     repo = "vaulted";
-    rev = "v${version}";
-    sha256 = "1pimcpl9karl9lmyyc6xdjb4sn3j3gwj16666kdiqfjvi85naldj";
+    rev = "eb7dbfda3f44be229fe92102bb975e706339b377";
+    sha256 = "033n3088m4dcvhmqiblkpfmibrw75miq4153wd7nhh7r256qnc18";
   };
 
-  vendorSha256 = "1zj807wjaz2gy8hhva1vf67h6zr1vnmliv70h7w3arl0nk6rpch5";
+  vendorSha256 = "sha256-oQwPDx2dru4EMiSTuvhvo6P03m7Dw3hHab8c6a9kKkQ=";
 
   # Since vaulted spawns a new shell /etc/profile gets called(at least on OSX), which calls path_helper, which screws with the path
   # unsetting some environment variables makes it so nix paths(such as run/current-system/sw/bin) come before /bin /usr/bin.
