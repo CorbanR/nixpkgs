@@ -19,6 +19,10 @@ on:
         description: 'Deploy: [true, false]'
         required: true
         default: 'false'
+      debug_timeout:
+        description: 'Debug timeout'
+        required: false
+        default: 1
 
 jobs:
   tests-and-build:
@@ -90,6 +94,7 @@ jobs:
     - name: Setup tmate session
       if: ${{ failure() }}
       uses: mxschmitt/action-tmate@v3
+      timeout-minutes: ${{ inputs.debug_timeout }}
       with:
         limit-access-to-actor: true
 

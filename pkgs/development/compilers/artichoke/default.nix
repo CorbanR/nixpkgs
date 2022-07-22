@@ -19,19 +19,16 @@ with import <nixpkgs> {
 
 rustPlatform.buildRustPackage rec {
   pname = "artichoke";
-  version = "b2968d9dbb74823811f39fea38b6fa76924fa3f5";
-
-  cargoPatches = [ ./cargo_feature.patch ];
-  #patches = [ ./cargo_feature.patch ];
+  version = "f86225f2256b51939d7a2ea0c73ddb36a99f64ab";
 
   src = fetchFromGitHub {
     owner = "artichoke";
     repo = "artichoke";
     rev = "${version}";
-    sha256 = "1c4w3awal7i1ry0ba1z3my8vxbj22i5khp5x0wk14hdmm6aa7g1l";
+    sha256 = "1076zjl1r1w17yaini9dmfmj7w3ak6wgmrzibf49d9fddjj2i81v";
   };
 
-  cargoSha256 = "0vbcqq8xf19if7ry3vwfv1k6rxygwkcbvmk52bl03fnvpaia69q6";
+  cargoSha256 = "sha256-vqu5jx4u3/GCjredj5r6POmYrKQNttlRmsN668Nj6zw=";
 
   nativeBuildInputs = [rust-bin.nightly.latest.minimal mruby ruby rake rustfmt rust-bindgen];
 
@@ -43,15 +40,6 @@ rustPlatform.buildRustPackage rec {
         ''
       } > okie.rb
       $out/bin/artichoke okie.rb
-
-      # run on JVM with Graal Compiler
-      #$out/bin/java -XX:+UnlockExperimentalVMOptions -XX:+EnableJVMCI -XX:+UseJVMCICompiler HelloWorld | fgrep 'Hello World'
-
-      # Ahead-Of-Time compilation
-      #$out/bin/native-image -H:-CheckToolchain -H:+ReportExceptionStackTraces --no-server HelloWorld
-      #./helloworld | fgrep 'Hello World'
-
-
     '';
 
   meta = with lib; {
