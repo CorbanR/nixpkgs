@@ -29,7 +29,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: [ubuntu-20.04, macos-11.0]
+        os: [ubuntu-22.04, macos-12]
     steps:
     - uses: actions/checkout@v3
 
@@ -117,7 +117,7 @@ jobs:
   deploy:
     needs: "tests-and-build"
     if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
     - uses: actions/checkout@v3
 
@@ -131,23 +131,23 @@ jobs:
     - name: Download linux artifacts
       uses: actions/download-artifact@v3
       with:
-        name: nix-cache-ubuntu-20.04-${{ github.sha }}
-        path: nix-cache-ubuntu-20.04-${{ github.sha }}
+        name: nix-cache-ubuntu-22.04-${{ github.sha }}
+        path: nix-cache-ubuntu-22.04-${{ github.sha }}
 
       #v2.0.8
     - name: Download mac artifacts
       uses: actions/download-artifact@v3
       with:
-        name: nix-cache-macos-11.0-${{ github.sha }}
-        path: nix-cache-macos-11.0-${{ github.sha }}
+        name: nix-cache-macos-12-${{ github.sha }}
+        path: nix-cache-macos-12-${{ github.sha }}
 
     - name: Combine cache files
       run: |
         mkdir -p _output
-        cp -r nix-cache-macos-11.0-${GITHUB_SHA}/. _output
-        rm -rf nix-cache-macos-11.0-${GITHUB_SHA}/
-        cp -r nix-cache-ubuntu-20.04-${GITHUB_SHA}/. _output
-        rm -rf nix-cache-ubuntu-20.04-${GITHUB_SHA}/
+        cp -r nix-cache-macos-12-${GITHUB_SHA}/. _output
+        rm -rf nix-cache-macos-12-${GITHUB_SHA}/
+        cp -r nix-cache-ubuntu-22.04-${GITHUB_SHA}/. _output
+        rm -rf nix-cache-ubuntu-22.04-${GITHUB_SHA}/
         ls -lart -hu _output/
         du -hc _output/
 
@@ -195,7 +195,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: [ubuntu-20.04, macos-11.0]
+        os: [ubuntu-22.04, macos-12]
     steps:
     - uses: actions/checkout@v3
 
