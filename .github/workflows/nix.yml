@@ -31,14 +31,12 @@ jobs:
       matrix:
         os: [ubuntu-20.04, macos-11.0]
     steps:
-      # v2.4
-    - uses: actions/checkout@ec3a7ce113134d7a93b817d10a8272cb61118579
+    - uses: actions/checkout@v3
 
-      # v16
       # flakes and nix-command is enabled by default, to disable just set
       # extra_nix_config: |
       #   experimental-features =
-    - uses: cachix/install-nix-action@d56f3ce9be45c562799280e8a561fbbe8f36de44
+    - uses: cachix/install-nix-action@v17
       with:
         nix_path: nixpkgs=channel:nixpkgs-unstable
         install_url: https://releases.nixos.org/nix/nix-2.4/install
@@ -109,10 +107,9 @@ jobs:
       run: |
         nix path-info -f default.nix --store "file://$PWD/_output/cache" --json | json_pp || true
 
-      #v2.2.4
     - name: Upload artifacts
       if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
-      uses: actions/upload-artifact@27121b0bdffd731efa15d66772be8dc71245d074
+      uses: actions/upload-artifact@v3
       with:
         name: nix-cache-${{ matrix.os }}-${{ github.sha }}
         path: _output
@@ -122,8 +119,7 @@ jobs:
     if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
     runs-on: ubuntu-20.04
     steps:
-      # v2.4
-    - uses: actions/checkout@ec3a7ce113134d7a93b817d10a8272cb61118579
+    - uses: actions/checkout@v3
 
     - name: Cleanup tasks
       run: |
@@ -133,14 +129,14 @@ jobs:
 
       #v2.0.10
     - name: Download linux artifacts
-      uses: actions/download-artifact@3be87be14a055c47b01d3bd88f8fe02320a9bb60
+      uses: actions/download-artifact@v3
       with:
         name: nix-cache-ubuntu-20.04-${{ github.sha }}
         path: nix-cache-ubuntu-20.04-${{ github.sha }}
 
       #v2.0.8
     - name: Download mac artifacts
-      uses: actions/download-artifact@3be87be14a055c47b01d3bd88f8fe02320a9bb60
+      uses: actions/download-artifact@v3
       with:
         name: nix-cache-macos-11.0-${{ github.sha }}
         path: nix-cache-macos-11.0-${{ github.sha }}
@@ -157,7 +153,7 @@ jobs:
 
       #v4.1.6
     - name: Deploy pages
-      uses: JamesIves/github-pages-deploy-action@60b5e92fe9331f02fa1cdad4d19ddf875be0361c
+      uses: JamesIves/github-pages-deploy-action@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         ssh-key: ${{ secrets.DEPLOY_KEY }}
@@ -201,14 +197,13 @@ jobs:
       matrix:
         os: [ubuntu-20.04, macos-11.0]
     steps:
-      # v2.4
-    - uses: actions/checkout@ec3a7ce113134d7a93b817d10a8272cb61118579
+    - uses: actions/checkout@v3
 
       # v16
       # flakes and nix-command is enabled by default, to disable just set
       # extra_nix_config: |
       #   experimental-features =
-    - uses: cachix/install-nix-action@d56f3ce9be45c562799280e8a561fbbe8f36de44
+    - uses: cachix/install-nix-action@v17
       with:
         nix_path: nixpkgs=channel:nixpkgs-unstable
         install_url: https://releases.nixos.org/nix/nix-2.4/install
