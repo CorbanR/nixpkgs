@@ -1,10 +1,8 @@
-{ pkgs ? import <nixpkgs> {}, ... }:
-
-let
+{pkgs ? import <nixpkgs> {}, ...}: let
   hello = pkgs.callPackage ./. {};
 in
   pkgs.runCommand "hello" {
-    buildInputs = [ hello ];
+    buildInputs = [hello];
   } ''
     expected () {
     echo "Test expectation failed: $@"

@@ -1,7 +1,8 @@
-{ pkgs, callPackage }:
-
-with pkgs;
-let
+{
+  pkgs,
+  callPackage,
+}:
+with pkgs; let
   isDarwin = pkgs.stdenv.hostPlatform.isDarwin;
   isx86_64 = pkgs.stdenv.hostPlatform.isx86_64;
 
@@ -11,8 +12,8 @@ let
 
   # Packages that are darwin only for now
   darwinPlatformPackages = {
-    graalvm11-ce-bin = callPackage ../development/compilers/graalvm/test-bin.nix { javaVersion = "11"; }; # See installCheckPhase
-    graalvm8-ce-bin = callPackage ../development/compilers/graalvm/test-bin.nix { javaVersion = "8"; }; # See installCheckPhase
+    graalvm11-ce-bin = callPackage ../development/compilers/graalvm/test-bin.nix {javaVersion = "11";}; # See installCheckPhase
+    graalvm8-ce-bin = callPackage ../development/compilers/graalvm/test-bin.nix {javaVersion = "8";}; # See installCheckPhase
   };
 
   crossPlatformPackages = {
@@ -21,7 +22,7 @@ let
     dart = callPackage ../development/interpreters/dart {}; # See installCheckPhase
     goaccess = callPackage ../tools/misc/goaccess {};
     hello = callPackage ./hello/test.nix {};
-    hurl = callPackage ../tools/networking/hurl { inherit (darwin.apple_sdk.frameworks) Security; };
+    hurl = callPackage ../tools/networking/hurl {inherit (darwin.apple_sdk.frameworks) Security;};
     muss = callPackage ../applications/virtualization/muss/test.nix {};
     muss-dev = callPackage ../applications/virtualization/muss/test-dev.nix {};
     rapture = callPackage ../tools/security/rapture/test.nix {};
@@ -32,5 +33,5 @@ let
   };
 
   tests = {} // crossPlatformPackages // pkgs.lib.optionalAttrs isDarwin darwinPlatformPackages // pkgs.lib.optionalAttrs isx86_64 x86_64-darwinOnly;
-
-in tests
+in
+  tests

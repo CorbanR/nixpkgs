@@ -1,21 +1,24 @@
-{ stdenv, lib, fetchurl, writeTextFile, unzip, version ? "2.17.6" }:
-
-let
+{
+  stdenv,
+  lib,
+  fetchurl,
+  writeTextFile,
+  unzip,
+  version ? "2.17.6",
+}: let
   # Add a little helper script to start the dart language server
   # See https://github.com/dart-lang/sdk/blob/master/pkg/analysis_server/tool/lsp_spec/README.md
-  dartLspServer =  writeTextFile {
+  dartLspServer = writeTextFile {
     name = "dartlspserver";
-    text = (builtins.readFile ./dartlspserver);
+    text = builtins.readFile ./dartlspserver;
     executable = true;
   };
 
   sources = let
-
     base = "https://storage.googleapis.com/dart-archive/channels";
     stable_version = "stable";
     beta_version = "beta";
     dev_version = "dev";
-
   in {
     "2.17.6-x86_64-darwin" = fetchurl {
       url = "${base}/${stable_version}/release/${version}/sdk/dartsdk-macos-x64-release.zip";
@@ -43,52 +46,48 @@ let
       sha256 = "c09ab59b88f2382d561419c1add62f083634d1cac55f5dd41541d6055b30d46f";
     };
   };
-
 in
+  with lib;
+    stdenv.mkDerivation {
+      pname = "dart";
+      inherit version;
 
-with lib;
+      nativeBuildInputs = [
+        unzip
+      ];
 
-stdenv.mkDerivation {
+      src = sources."${version}-${stdenv.hostPlatform.system}" or (throw "unsupported version/system: ${version}/${stdenv.hostPlatform.system}");
 
-  pname = "dart";
-  inherit version;
+      installPhase = ''
+        mkdir -p $out
+        cp -R * $out/
+        cp ${dartLspServer} $out/bin/dartlspserver
+      '';
 
-  nativeBuildInputs = [
-    unzip
-  ];
+      dontStrip = true;
 
-  src = sources."${version}-${stdenv.hostPlatform.system}" or (throw "unsupported version/system: ${version}/${stdenv.hostPlatform.system}");
+      doInstallCheck = true;
+      installCheckPhase = ''
+        echo ${lib.escapeShellArg ''
+          void main() {
+            print('Hello, World!');
+          }
+        ''} > main.dart
+        $out/bin/dart main.dart
 
-  installPhase = ''
-    mkdir -p $out
-    cp -R * $out/
-    cp ${dartLspServer} $out/bin/dartlspserver
-  '';
+        #$out/bin/dart compile exe main.dart -o hello
+      '';
 
-  dontStrip = true;
-
-  doInstallCheck = true;
-  installCheckPhase = ''
-    echo ${lib.escapeShellArg ''
-      void main() {
-        print('Hello, World!');
-      }
-      ''} > main.dart
-    $out/bin/dart main.dart
-
-    #$out/bin/dart compile exe main.dart -o hello
-  '';
-
-  meta = {
-    homepage = "https://www.dartlang.org/";
-    maintainers = [ (import ../../../../maintainers/maintainer-list.nix).craun ];
-    description = "Scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps";
-    longDescription = ''
-      Dart is a class-based, single inheritance, object-oriented language
-      with C-style syntax. It offers compilation to JavaScript, interfaces,
-      mixins, abstract classes, reified generics, and optional typing.
-    '';
-    platforms = [ "x86_64-darwin" "aarch64-darwin" ];
-    license = licenses.bsd3;
-  };
-}
+      meta = {
+        homepage = "https://www.dartlang.org/";
+        maintainers = [(import ../../../../maintainers/maintainer-list.nix).craun];
+        description = "Scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps";
+        longDescription = ''
+          Dart is a class-based, single inheritance, object-oriented language
+          with C-style syntax. It offers compilation to JavaScript, interfaces,
+          mixins, abstract classes, reified generics, and optional typing.
+        '';
+        platforms = ["x86_64-darwin" "aarch64-darwin"];
+        license = licenses.bsd3;
+      };
+    }

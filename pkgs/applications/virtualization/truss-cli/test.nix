@@ -1,10 +1,8 @@
-{ pkgs ? import <nixpkgs> {}, ... }:
-
-let
+{pkgs ? import <nixpkgs> {}, ...}: let
   truss = pkgs.callPackage ./default.nix {};
 in
   pkgs.runCommand "truss" {
-    buildInputs = [ truss ];
+    buildInputs = [truss];
   } ''
     expected () {
     echo "Test expectation failed: $@"

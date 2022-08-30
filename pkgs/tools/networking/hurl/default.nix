@@ -1,20 +1,20 @@
-{ stdenv
-, lib
-, fetchFromGitHub
-, rustPlatform
-, asciidoctor
-, installShellFiles
-, libxml2
-, openssl
-, curl
-, pkgconfig
-, Security
-, bash
-, python3
-, gzip
-, coreutils-full
+{
+  stdenv,
+  lib,
+  fetchFromGitHub,
+  rustPlatform,
+  asciidoctor,
+  installShellFiles,
+  libxml2,
+  openssl,
+  curl,
+  pkgconfig,
+  Security,
+  bash,
+  python3,
+  gzip,
+  coreutils-full,
 }:
-
 rustPlatform.buildRustPackage rec {
   pname = "hurl";
   version = "1.6.1";
@@ -28,7 +28,7 @@ rustPlatform.buildRustPackage rec {
     $out/bin/hurl --version
   '';
   #installCheckPhase = ''
-    #echo "GET https://www.google.com" | $out/bin/hurl &> /dev/null
+  #echo "GET https://www.google.com" | $out/bin/hurl &> /dev/null
   #'';
 
   src = fetchFromGitHub {
@@ -40,8 +40,8 @@ rustPlatform.buildRustPackage rec {
 
   cargoHash = "sha256-tmHP7xwVce/hh8nX1LO/zwPIlDZkICPMlBjZjuv37xU=";
 
-  nativeBuildInputs = [ asciidoctor installShellFiles pkgconfig bash python3 gzip coreutils-full ];
-  buildInputs = [ libxml2 openssl curl  ] ++ lib.optionals stdenv.isDarwin [ Security ];
+  nativeBuildInputs = [asciidoctor installShellFiles pkgconfig bash python3 gzip coreutils-full];
+  buildInputs = [libxml2 openssl curl] ++ lib.optionals stdenv.isDarwin [Security];
 
   preFixup = ''
     patchShebangs ci/man.sh
@@ -55,7 +55,7 @@ rustPlatform.buildRustPackage rec {
     description = "Hurl, run and test HTTP requests";
     homepage = "hurl.dev";
     license = licenses.asl20;
-    maintainers = [ (import ../../../../maintainers/maintainer-list.nix).craun ];
+    maintainers = [(import ../../../../maintainers/maintainer-list.nix).craun];
     platforms = platforms.linux ++ platforms.darwin;
   };
 }

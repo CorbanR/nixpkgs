@@ -1,5 +1,8 @@
-{ lib, buildGoModule, fetchFromGitHub }:
-
+{
+  lib,
+  buildGoModule,
+  fetchFromGitHub,
+}:
 buildGoModule rec {
   pname = "muss";
   version = "0.10";
@@ -22,6 +25,6 @@ buildGoModule rec {
     description = "For when your docker-compose projects are a mess";
     platforms = platforms.linux ++ platforms.darwin;
     license = licenses.mit;
-    maintainers = [ (import ../../../../maintainers/maintainer-list.nix).craun ];
+    maintainers = [(import ../../../../maintainers/maintainer-list.nix).craun];
   };
 }

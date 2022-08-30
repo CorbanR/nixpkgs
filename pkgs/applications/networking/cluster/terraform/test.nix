@@ -1,10 +1,8 @@
-{ pkgs ? import <nixpkgs> {}, ... }:
-
-let
+{pkgs ? import <nixpkgs> {}, ...}: let
   terraform_0_12 = pkgs.callPackage ./. {};
 in
   pkgs.runCommand "test-terraform" {
-    buildInputs = [ terraform_0_12 ];
+    buildInputs = [terraform_0_12];
   } ''
     expected () {
     echo "Test expectation failed: $@"

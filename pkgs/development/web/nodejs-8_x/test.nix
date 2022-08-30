@@ -1,10 +1,8 @@
-{ pkgs ? import <nixpkgs> {}, ... }:
-
-let
+{pkgs ? import <nixpkgs> {}, ...}: let
   nodejs-8_x = pkgs.callPackage ./. {};
 in
   pkgs.runCommand "nodejs-8_x" {
-    buildInputs = [ nodejs-8_x ];
+    buildInputs = [nodejs-8_x];
   } ''
     expected () {
     echo "Test expectation failed: $@"

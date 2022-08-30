@@ -1,5 +1,8 @@
-{ lib, buildGoModule, fetchFromGitHub }:
-
+{
+  lib,
+  buildGoModule,
+  fetchFromGitHub,
+}:
 buildGoModule rec {
   pname = "truss-cli";
   version = "0.2.6";
@@ -21,6 +24,6 @@ buildGoModule rec {
     description = "CLI to help you manage many k8s clusters";
     platforms = platforms.linux ++ platforms.darwin;
     license = licenses.mit;
-    maintainers = [ (import ../../../../maintainers/maintainer-list.nix).craun ];
+    maintainers = [(import ../../../../maintainers/maintainer-list.nix).craun];
   };
 }

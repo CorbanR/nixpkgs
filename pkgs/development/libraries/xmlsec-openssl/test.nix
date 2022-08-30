@@ -1,10 +1,8 @@
-{ pkgs ? import <nixpkgs> {}, ... }:
-
-let
+{pkgs ? import <nixpkgs> {}, ...}: let
   xmlsec-openssl = pkgs.callPackage ./. {};
 in
   pkgs.runCommand "xmlsec-openssl" {
-    buildInputs = [ xmlsec-openssl ];
+    buildInputs = [xmlsec-openssl];
   } ''
     expected () {
     echo "Test expectation failed: $@"

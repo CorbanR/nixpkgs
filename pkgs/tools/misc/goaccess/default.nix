@@ -1,5 +1,12 @@
-{ stdenv, lib, fetchurl, pkgconfig, ncurses, glib, libmaxminddb }:
-
+{
+  stdenv,
+  lib,
+  fetchurl,
+  pkgconfig,
+  ncurses,
+  glib,
+  libmaxminddb,
+}:
 stdenv.mkDerivation rec {
   version = "1.6.2";
   pname = "goaccess";
@@ -14,7 +21,7 @@ stdenv.mkDerivation rec {
     "--enable-utf8"
   ];
 
-  nativeBuildInputs = [ pkgconfig ];
+  nativeBuildInputs = [pkgconfig];
   buildInputs = [
     libmaxminddb
     ncurses
@@ -23,9 +30,9 @@ stdenv.mkDerivation rec {
 
   meta = {
     description = "Real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems";
-    homepage    = "https://goaccess.io";
-    license     = lib.licenses.mit;
-    platforms   = lib.platforms.linux ++ lib.platforms.darwin;
-    maintainers = [ (import ../../../../maintainers/maintainer-list.nix).craun ];
+    homepage = "https://goaccess.io";
+    license = lib.licenses.mit;
+    platforms = lib.platforms.linux ++ lib.platforms.darwin;
+    maintainers = [(import ../../../../maintainers/maintainer-list.nix).craun];
   };
 }

@@ -1,5 +1,8 @@
-{ lib, buildGoModule, fetchFromGitHub }:
-
+{
+  lib,
+  buildGoModule,
+  fetchFromGitHub,
+}:
 buildGoModule rec {
   pname = "rapture";
   version = "2.0.0";
@@ -18,6 +21,6 @@ buildGoModule rec {
     description = "Shell-integrated CLI for assuming AWS IAM roles";
     platforms = platforms.linux ++ platforms.darwin;
     license = licenses.publicDomain;
-    maintainers = [ (import ../../../../maintainers/maintainer-list.nix).craun ];
+    maintainers = [(import ../../../../maintainers/maintainer-list.nix).craun];
   };
 }

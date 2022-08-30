@@ -1,12 +1,10 @@
-{ pkgs ? import <nixpkgs> {}, ... }:
-
-let
+{pkgs ? import <nixpkgs> {}, ...}: let
   wrapped-vaulted = pkgs.callPackage ./. {};
-  unwrapped-vaulted = pkgs.callPackage ./. { enableWrapper = false; };
-in
-  {
-    wrapped-command = pkgs.runCommand "wrapped-vaulted" {
-      buildInputs = [ wrapped-vaulted pkgs.which ];
+  unwrapped-vaulted = pkgs.callPackage ./. {enableWrapper = false;};
+in {
+  wrapped-command =
+    pkgs.runCommand "wrapped-vaulted" {
+      buildInputs = [wrapped-vaulted pkgs.which];
     } ''
       expected () {
       echo "Test expectation failed: $@"
@@ -18,8 +16,9 @@ in
       vaulted version > $out
     '';
 
-    unwrapped-command = pkgs.runCommand "unwrapped-vaulted" {
-      buildInputs = [ unwrapped-vaulted pkgs.which ];
+  unwrapped-command =
+    pkgs.runCommand "unwrapped-vaulted" {
+      buildInputs = [unwrapped-vaulted pkgs.which];
     } ''
       expected () {
       echo "Test expectation failed: $@"
@@ -33,4 +32,4 @@ in
       fi
       vaulted version > $out
     '';
-  }
+}

@@ -1,6 +1,8 @@
-{ system ? builtins.currentSystem, pkgs ? import <nixpkgs> {}, ... }:
-
-let
+{
+  system ? builtins.currentSystem,
+  pkgs ? import <nixpkgs> {},
+  ...
+}: let
   isDarwin = pkgs.stdenv.hostPlatform.isDarwin;
   isx86_64 = pkgs.stdenv.hostPlatform.isx86_64;
 
@@ -13,10 +15,10 @@ let
   # Packages that are darwin only for now
   darwinPlatformPackages = {
     dart_stable = callPackage ./pkgs/development/interpreters/dart {};
-    dart_beta = callPackage ./pkgs/development/interpreters/dart {version="2.18.0-271.2.beta";};
-    dart_dev = callPackage ./pkgs/development/interpreters/dart {version="2.19.0-13.0.dev";};
-    graalvm11-ce-bin = callPackage ./pkgs/development/compilers/graalvm/graalvm-ce-bin.nix { javaVersion = "11"; };
-    graalvm8-ce-bin = callPackage ./pkgs/development/compilers/graalvm/graalvm-ce-bin.nix { javaVersion = "8"; };
+    dart_beta = callPackage ./pkgs/development/interpreters/dart {version = "2.18.0-271.2.beta";};
+    dart_dev = callPackage ./pkgs/development/interpreters/dart {version = "2.19.0-13.0.dev";};
+    graalvm11-ce-bin = callPackage ./pkgs/development/compilers/graalvm/graalvm-ce-bin.nix {javaVersion = "11";};
+    graalvm8-ce-bin = callPackage ./pkgs/development/compilers/graalvm/graalvm-ce-bin.nix {javaVersion = "8";};
   };
 
   crossPlatformPackages = rec {
@@ -24,17 +26,18 @@ let
     artichoke = callPackage ./pkgs/development/compilers/artichoke {};
     dart = callPackage ./pkgs/development/interpreters/dart {};
     goaccess = callPackage ./pkgs/tools/misc/goaccess {};
-    hurl = callPackage ./pkgs/tools/networking/hurl { inherit (pkgs.darwin.apple_sdk.frameworks) Security; };
+    hurl = callPackage ./pkgs/tools/networking/hurl {inherit (pkgs.darwin.apple_sdk.frameworks) Security;};
     muss = callPackage ./pkgs/applications/virtualization/muss {};
     muss-dev = callPackage ./pkgs/applications/virtualization/muss/dev.nix {};
     rapture = callPackage ./pkgs/tools/security/rapture {};
     terraform_0_12 = callPackage ./pkgs/applications/networking/cluster/terraform {};
     truss-cli = callPackage ./pkgs/applications/virtualization/truss-cli {};
     vaulted = vaulted-wrapped;
-    vaulted-unwrapped = callPackage ./pkgs/tools/security/vaulted { enableWrapper = false; };
-    vaulted-wrapped = callPackage ./pkgs/tools/security/vaulted { enableWrapper = true; };
+    vaulted-unwrapped = callPackage ./pkgs/tools/security/vaulted {enableWrapper = false;};
+    vaulted-wrapped = callPackage ./pkgs/tools/security/vaulted {enableWrapper = true;};
     xmlsec-openssl = callPackage ./pkgs/development/libraries/xmlsec-openssl {};
   };
 
   self = {} // crossPlatformPackages // pkgs.lib.optionalAttrs isDarwin darwinPlatformPackages // pkgs.lib.optionalAttrs isx86_64 x86_64-darwinOnly;
-in self
+in
+  self

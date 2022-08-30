@@ -1,6 +1,12 @@
-{ callPackage, openssl, icu, python2, lib, stdenv, enableNpm ? true }:
-
-let
+{
+  callPackage,
+  openssl,
+  icu,
+  python2,
+  lib,
+  stdenv,
+  enableNpm ? true,
+}: let
   buildNodejs = callPackage <nixpkgs/pkgs/development/web/nodejs/nodejs.nix> {
     inherit icu openssl stdenv;
     python = python2;

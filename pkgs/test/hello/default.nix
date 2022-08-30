@@ -1,9 +1,13 @@
 # Test building via `nix-build -E 'with import <nixpkgs> { }; callPackage ./pkgs/test/hello { }'`
-{ lib, stdenv, fetchurl, perl }:
-
+{
+  lib,
+  stdenv,
+  fetchurl,
+  perl,
+}:
 stdenv.mkDerivation {
   name = "hello-2.1.1";
-  buildInputs = [ perl ];
+  buildInputs = [perl];
   hardeningDisable = lib.optional stdenv.isDarwin "format";
   src = fetchurl {
     url = ftp://ftp.nluug.nl/pub/gnu/hello/hello-2.1.1.tar.gz;
