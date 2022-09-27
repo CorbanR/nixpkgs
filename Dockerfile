@@ -1,6 +1,6 @@
 FROM ubuntu:focal
 
-ARG NIX_VERSION=2.6.0
+ARG NIX_VERSION=2.11.1
 
 RUN apt-get update && apt-get install -qqy curl vim-tiny xz-utils \
       tar gzip ca-certificates sudo --no-install-recommends \

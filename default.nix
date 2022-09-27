@@ -23,6 +23,7 @@
 
   crossPlatformPackages = rec {
     _nyx = callPackage ./pkgs/tools/system/nyx {}; # name conflics with another nix package hence _nyx
+    _wasmer = callPackage ./pkgs/development/interpreters/wasmer {};
     artichoke = callPackage ./pkgs/development/compilers/artichoke {};
     dart = callPackage ./pkgs/development/interpreters/dart {};
     goaccess = callPackage ./pkgs/tools/misc/goaccess {};
