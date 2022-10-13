@@ -36,7 +36,7 @@ jobs:
       # flakes and nix-command is enabled by default, to disable just set
       # extra_nix_config: |
       #   experimental-features =
-    - uses: cachix/install-nix-action@v17
+    - uses: cachix/install-nix-action@v18
       with:
         nix_path: nixpkgs=channel:nixpkgs-unstable
         #install_url: https://releases.nixos.org/nix/nix-2.4/install
@@ -203,7 +203,7 @@ jobs:
       # flakes and nix-command is enabled by default, to disable just set
       # extra_nix_config: |
       #   experimental-features =
-    - uses: cachix/install-nix-action@v17
+    - uses: cachix/install-nix-action@v18
       with:
         nix_path: nixpkgs=channel:nixpkgs-unstable
         #install_url: https://releases.nixos.org/nix/nix-2.4/install
