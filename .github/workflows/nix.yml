@@ -17,12 +17,18 @@ on:
     inputs:
       deploy:
         description: 'Deploy: [true, false]'
+        type: boolean
         required: true
-        default: 'false'
+        default: false
       debug_timeout:
         description: 'Debug timeout'
         required: false
-        default: 1
+        default: 30
+      tmate:
+        description: 'Debug with tmate?'
+        type: boolean
+        required: false
+        default: false
 
 jobs:
   tests-and-build:
@@ -51,12 +57,12 @@ jobs:
       run: rm -rf results*
 
     - name: Create output path
-      if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
+      if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
       run: mkdir -p _output/cache
 
       # We only need to do this particular step once
     - name: Create channel archive
-      if: startsWith(matrix.os,'ubuntu') && (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
+      if: startsWith(matrix.os,'ubuntu') && (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
       run: |
         tar -cJf "_output/nixexprs.tar.xz" ./*.nix pkgs/ maintainers/ \
             --transform "s,^,${PWD##*/}/," \
@@ -66,21 +72,21 @@ jobs:
         printf 'https://nixpkgs.raunco.co/cache' > "_output/binary-cache-url"
 
     - name: Build the packages
-      if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
+      if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
       run: nix build -f default.nix
 
     - name: Remove graalvm packages from cache, as they are already compiled binaries
-      if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
+      if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
       run: |
         nix store delete /nix/store/*graalvm-ce* || true
         nix store delete /nix/store/*installable*java* || true
 
     - name: optimize nix-store to reduce size
-      if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
+      if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
       run: nix store optimise
 
     - name: Sign the packages
-      if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
+      if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
       run: |
         export NIX_SECRET_KEY_FILE="$PWD/nix-cache-priv-key.pem"
         echo "$NIX_SECRET_KEY" > "$NIX_SECRET_KEY_FILE"
@@ -90,9 +96,9 @@ jobs:
         NIX_SECRET_KEY: ${{ secrets.NIX_SECRET_KEY }}
 
     - name: Setup tmate session
-      if: ${{ failure() }}
+      if: ${{ github.event.inputs.tmate }}
       uses: mxschmitt/action-tmate@v3
-      timeout-minutes: ${{ inputs.debug_timeout }}
+      timeout-minutes: ${{ github.event.inputs.debug_timeout }}
       with:
         limit-access-to-actor: true
 
@@ -108,7 +114,7 @@ jobs:
         nix path-info -f default.nix --store "file://$PWD/_output/cache" --json | json_pp || true
 
     - name: Upload artifacts
-      if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
+      if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
       uses: actions/upload-artifact@v3
       with:
         name: nix-cache-${{ matrix.os }}-${{ github.sha }}
@@ -116,7 +122,7 @@ jobs:
 
   deploy:
     needs: "tests-and-build"
-    if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
+    if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
     runs-on: ubuntu-22.04
     steps:
     - uses: actions/checkout@v3
@@ -191,7 +197,7 @@ jobs:
 
   test-channel:
     needs: "deploy"
-    if: (github.event_name == 'push' || github.event.inputs.deploy == 'true') && github.ref == 'refs/heads/master'
+    if: (github.event_name == 'push' || github.event.inputs.deploy) && github.ref == 'refs/heads/master'
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
