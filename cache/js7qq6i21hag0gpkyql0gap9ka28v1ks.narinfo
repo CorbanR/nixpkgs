@@ -1,0 +1,9 @@
+StorePath: /nix/store/js7qq6i21hag0gpkyql0gap9ka28v1ks-groff-1.22.4.drv
+URL: nar/03hrbzgkmzqaahnf5p3b5iagsbaxcknara21p8km3hzq06nrk278.nar.xz
+Compression: xz
+FileHash: sha256:03hrbzgkmzqaahnf5p3b5iagsbaxcknara21p8km3hzq06nrk278
+FileSize: 1728
+NarHash: sha256:0vkss87hzpj2pg8f9g3jypp0a4cw3s6964bnkyli96mkxrxqnnpq
+NarSize: 4656
+References: 27r90ckic0vqrfr486qz31ixd58ms90m-groff-1.22.4.tar.gz.drv 408bvj9rzv3jv0faml1r7xlyw8rs4j5j-perl-5.36.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh b7y88azisww8cf4syzmc3lrm8grc5324-site.tmac hmxvs5jh710x9kcpcnga0grkxzfyl7hh-pkg-config-wrapper-0.29.2.drv j5n4i0ziynd0kmwfh98mfadc80l6h89r-0001-Fix-cross-compilation-by-looking-for-ar.patch jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv kdk03xsllrmqwzph25z4b22plvxlgxrr-texinfo-7.0.2.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv pcc1adjvz8igp481hbh8xhh4ss7irxwm-autoreconf-hook.drv
+CA: text:sha256:00wsrjhirqpz82a83dlywapz82wainh9xg15x6k6psvmslj0ygl3

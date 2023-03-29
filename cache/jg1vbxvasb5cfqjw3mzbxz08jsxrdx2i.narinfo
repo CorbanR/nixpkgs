@@ -1,9 +1,0 @@
-StorePath: /nix/store/jg1vbxvasb5cfqjw3mzbxz08jsxrdx2i-catalog-legacy-uris.patch.drv
-URL: nar/1kh0k5dg1s9c2vr09b7inhkjz1ay4djkpxps6gwb71qqrakg71sc.nar.xz
-Compression: xz
-FileHash: sha256:1kh0k5dg1s9c2vr09b7inhkjz1ay4djkpxps6gwb71qqrakg71sc
-FileSize: 700
-NarHash: sha256:1a63v9xqf604bx0i57c4rkcndsqnn9rbp60m5mgy1k0wxxjk2if3
-NarSize: 1608
-References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv 4vq3350zc6sqnibkqpgic2d6cvi1r9hq-substitute-all.sh 5fsvq785lgmmx884r4g83a2mywgfh7vb-catalog-legacy-uris.patch bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv
-CA: text:sha256:1gr8119rsh2iks2xxnkkjmga023lqhvx0hkdfrzgzfmimi9vl9dv

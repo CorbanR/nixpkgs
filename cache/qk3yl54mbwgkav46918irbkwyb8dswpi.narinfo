@@ -1,0 +1,9 @@
+StorePath: /nix/store/qk3yl54mbwgkav46918irbkwyb8dswpi-dyld-433.5.drv
+URL: nar/14z2gy6xwsiyjjkfl42qwjspd084fzn9hzhmx63njwfm249phcgf.nar.xz
+Compression: xz
+FileHash: sha256:14z2gy6xwsiyjjkfl42qwjspd084fzn9hzhmx63njwfm249phcgf
+FileSize: 1120
+NarHash: sha256:1f4f3lssspz7accrhr66143shc5bbvicrxjjkiwvf751mdpsvjns
+NarSize: 2456
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh icjx5qffliandak1yjb47kdv2bz9bf7g-dyld-433.5.tar.gz.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv y9k5lpsbhw75hjxx57gf0vhri67ninxb-bootstrap-stage1-stdenv-darwin.drv
+CA: text:sha256:0xs5iifj3s8zykgch1ii1q20f8xiwanmi23yz8ippqsnjkzz1xrr

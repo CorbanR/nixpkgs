@@ -1,0 +1,9 @@
+StorePath: /nix/store/pvwwfm5axp4w5v4wzzkbbml2bvzzw1c1-python3.10-typing-extensions-4.5.0.drv
+URL: nar/18ixc5ic34k3hqskac29zcvmwgbvv31nddxywf8862lh67jr8x3g.nar.xz
+Compression: xz
+FileHash: sha256:18ixc5ic34k3hqskac29zcvmwgbvv31nddxywf8862lh67jr8x3g
+FileSize: 1608
+NarHash: sha256:1s01bfzf0pid8llk61bgiskvnrlglzrc0m5rw6lb52p6fcr9mwi2
+NarSize: 3840
+References: 1i0ixszrc2r03rfh3iwhfbi2f4x52wcf-python-catch-conflicts-hook.drv 2rfw6rcijjdm5x4jlw7r61pj9f6knccs-pip-build-hook.sh.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8i6cw8wgjqhkpcbn3i1k5czs1jj62g0f-python-namespaces-hook.sh.drv 9ldjr0zdj3qvmjbn8ynxgdg7h56lx4zx-wrap-python-hook.drv 9nzi0hc1xfghmydfl7z0m80ax0sjh0mm-python-imports-check-hook.sh.drv cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv hakfvz6ym2gc4gd8702cpci5ph8jxxm5-typing_extensions-4.5.0.tar.gz.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv nbwz2pkcfil2ibp3wmcrnc99gisndcmg-ensure-newer-sources-hook.drv nsp49j4gaj67csflfh9v3wp2y87p1g82-pip-install-hook.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv s3k27g1ndq5zk71882p97ary76xj36zp-python-remove-bin-bytecode-hook.drv w3x309pcbm6w25718k1l4gm6hb87lkv1-python3.10-flit-core-3.8.0.drv x8afnl0gcsqbkg0v4s7iqgxd8mknzdd8-python-remove-tests-dir-hook.drv zay2p712hcja4l7v9xm9a3sdmr7pcxd8-python-output-dist-hook.drv
+CA: text:sha256:1b92hhzdvymy0nn6fz4ggxbn9vdiahv7cc67rr9yn84nxffq7p0y

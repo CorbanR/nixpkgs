@@ -1,9 +1,0 @@
-StorePath: /nix/store/jss0gqcxr6xai4hx41acjg7gvy542j4p-libassuan-2.5.5.drv
-URL: nar/03kyd75184bxwhhr4l2d0hvyrxmh3i78dinvhcflcgh15aqnylb3.nar.xz
-Compression: xz
-FileHash: sha256:03kyd75184bxwhhr4l2d0hvyrxmh3i78dinvhcflcgh15aqnylb3
-FileSize: 1120
-NarHash: sha256:0w80r0ifc8pqvyjk30whpl9hmqax15f9bicw7jym57567s53cy2n
-NarSize: 2600
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9xr0ld3n10n98lnwmbg3hnnwi5q5v60y-libassuan-2.5.5.tar.bz2.drv bb0sis5mzjsmvrlw1qgs7f7mbpvgg1q4-libgpg-error-1.42.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv h4x5l3x424fb3vp8892ppnv89jzj8ypi-gcc-wrapper-11.3.0.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv wl9w1fn9b2fhsq741mvmp87bzp9w8ijc-gettext-0.21.drv ya9j1bvaxg2dyax9lndksblvljqm2kap-npth-1.6.drv
-CA: text:sha256:0p6qpz8y2n4rb8m8zq3q3siyasayylanmvs199qx31h779z1nzhb

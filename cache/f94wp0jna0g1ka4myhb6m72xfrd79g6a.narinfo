@@ -1,9 +1,0 @@
-StorePath: /nix/store/f94wp0jna0g1ka4myhb6m72xfrd79g6a-swift-corefoundation-unstable-2018-09-14.drv
-URL: nar/0l3j1rbdcdndixhh3zll8wvr9d814viz786g5bj0w4wd0wbmba4a.nar.xz
-Compression: xz
-FileHash: sha256:0l3j1rbdcdndixhh3zll8wvr9d814viz786g5bj0w4wd0wbmba4a
-FileSize: 2508
-NarHash: sha256:0nfb8bi9cwxma0h52k15bqjmbm64l8bz7w9ix9wp04nsvkknpcyb
-NarSize: 5640
-References: 45zwmyhqr72hgnzrbj8sr0k511bv711b-ICU-66108.drv 5r3lrxb532x4cmmi7r27mbcvmvijygj2-curl-7.84.0.drv 8kfpf8d8012301ia3zgmnphqn9597a3d-CFSystemDirectories.c.drv 90kkyylc8lngl6fj7ldnil099xad71gd-bootstrap-stage4-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cy6r530f3s6pkkwchjnmr738s8l9xmn9-ninja-1.10.2.drv jkykk0gxrr8vy93fyhp0d0sw5nb34w46-python3-minimal-3.10.5.drv l3173a1m6qmzykb4c0arl1m04phb1c53-0001-Add-missing-TARGET_OS_-defines.patch ry75d7sxwn38nchrpnmyyik4vv8vhi27-objc4-709.1.drv ww32znb2rqkpqzb0543xrlfkpqlmz1cq-source.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv y1hz3i4zykdcqfrq9aal6lrbf9dfl43c-libxml2-2.9.14.drv
-CA: text:sha256:045gysbfzhw1lmii8497bcb13pyskd6hh8mq4f5j330jwd21h1xq

@@ -1,9 +1,0 @@
-StorePath: /nix/store/sh8sf1q6g9a8l7smxjafdg7392vr8b5f-fix-glibcism.patch.drv
-URL: nar/0qp9hrvkwm712vbrzc2277vhbla6qni5b8s2gz883razxlrlb98x.nar.xz
-Compression: xz
-FileHash: sha256:0qp9hrvkwm712vbrzc2277vhbla6qni5b8s2gz883razxlrlb98x
-FileSize: 1832
-NarHash: sha256:18cd56bhg59n1yrpn119xm9lfbdgamyhjxas7zphyja2qjf8brx6
-NarSize: 4352
-References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv c1xqznsxbginlncsn7mq784r3q92vmqv-patchutils-0.3.3.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
-CA: text:sha256:1k37k2l3zdsjbibcrgsv54vix9x4y5gamlb4pjg8a30bip1q5wvq

@@ -1,9 +1,0 @@
-StorePath: /nix/store/dsqkqzwmhr0sl7cv3bvkw5ahlf7lp63z-dfaemitter-gcc-12.patch.drv
-URL: nar/1mfn7ha19bsd6h6dl4fbsigkqsb3gqyw4mpaxh198gxh9ljnc8k7.nar.xz
-Compression: xz
-FileHash: sha256:1mfn7ha19bsd6h6dl4fbsigkqsb3gqyw4mpaxh198gxh9ljnc8k7
-FileSize: 1772
-NarHash: sha256:19aa29sdl3x18scsa2kzhyc30rpi0ab5bps1vsgzr1h37n6svf3f
-NarSize: 4240
-References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv c1xqznsxbginlncsn7mq784r3q92vmqv-patchutils-0.3.3.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
-CA: text:sha256:0sbrasmapbh4qbpf4rv1ngrvwiailrv5kbc5q0x8ssaqmzrzcwdm

@@ -1,9 +1,0 @@
-StorePath: /nix/store/rb01mbdx5pr29vjzvp93v1d9rxqg9zy7-terraform-0.12.31.drv
-URL: nar/06s38cdw93bvi9afi8h0viklp4pjyjlqp8a8w47j13gj6mzf6zzb.nar.xz
-Compression: xz
-FileHash: sha256:06s38cdw93bvi9afi8h0viklp4pjyjlqp8a8w47j13gj6mzf6zzb
-FileSize: 2188
-NarHash: sha256:04kg1w8jvaninp666z4z4yqj56wplzlkx325ihkdkh8c5klcqdb3
-NarSize: 4968
-References: 3ay8yqjpq5rz9b6dl88smq97xm9k37jg-go-1.18.4.drv 5n7xll7vqdzdiq2kc4hsmsjvwhw86l0i-source.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv cps9fyi0wq9jgpila5fzghg6vgkq9zb6-provider-path.patch pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv yzn1a0zmrbh2fdhjwrgdjxvil7mxiwms-coreutils-9.1.drv z9k6s570kjlk60yy5zw7phhjbzr2vryq-fix-mac-mojave-crashes.patch.drv
-CA: text:sha256:14mv02syai9lchyy0vgbajsd6ddaikhz67314jphay13alf0047l

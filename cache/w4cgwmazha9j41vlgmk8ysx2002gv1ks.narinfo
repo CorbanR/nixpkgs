@@ -1,9 +1,0 @@
-StorePath: /nix/store/w4cgwmazha9j41vlgmk8ysx2002gv1ks-apple-framework-CoreWLAN-11.0.0.drv
-URL: nar/0ykh30vq14xbjjs9x9hz06jrbfmqbk17llsif5gsza6zw4vyw57w.nar.xz
-Compression: xz
-FileHash: sha256:0ykh30vq14xbjjs9x9hz06jrbfmqbk17llsif5gsza6zw4vyw57w
-FileSize: 1224
-NarHash: sha256:1x72j5xpfqs6vxcv12xfpqgkywpjsnnz0snjzv13q03mny7zk6gb
-NarSize: 2944
-References: 5qcw9i77p93vv00gzgsgf31f62daiic5-MacOSX-SDK-11.0.0.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh g67bilmiv6jv79zj0dac63xx5wvfgjpp-rewrite-tbd-20201114.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv z2riypmxpc1hzn38np96lkpmf67wi8z9-apple-framework-SecurityFoundation-11.0.0.drv
-CA: text:sha256:06ix88a5pp2fawyn8ixlpkdrk8rf0bsq7163753rb5h9f54r7ifh

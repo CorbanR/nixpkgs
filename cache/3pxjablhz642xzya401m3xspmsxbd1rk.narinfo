@@ -1,0 +1,9 @@
+StorePath: /nix/store/3pxjablhz642xzya401m3xspmsxbd1rk-shadow-4.13.drv
+URL: nar/1blc0rxwmmkvwk6yd5dc8796m9fda1jz61a7xawil727bjg6lhz1.nar.xz
+Compression: xz
+FileHash: sha256:1blc0rxwmmkvwk6yd5dc8796m9fda1jz61a7xawil727bjg6lhz1
+FileSize: 2232
+NarHash: sha256:1mnxnmvqkh0xn1767kfrnz21v02gsz3dqzs9z45i7bzrzwncnghh
+NarSize: 5096
+References: 4k92w0h1nhrc10ln78f1ki12zjc66x91-itstool-2.0.6.drv 57y9nilqk918zcsj7jdjnnnranpms20x-source.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh bfz281d2vdwdz4vqk30l719nka6id6pp-libxslt-1.1.37.drv bzci5ph1kd8kcpjims9d9jv87z730n8s-libxcrypt-4.4.33.drv bzh73dfsmal88c0aql47lfvkh4qgmx7z-linux-pam-1.5.2.drv cwkma3bmdggr8pby1wsv510m418qpi6v-libxml2-2.10.3.drv iipimhxawhpajs74brkif4x1y1ry9zb9-tcb-1.2.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv m25rdgw6v00djxrcnavac0r7j9phcvxh-respect-xml-catalog-files-var.patch p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv pcc1adjvz8igp481hbh8xhh4ss7irxwm-autoreconf-hook.drv pkmvxa18irni60z6ngj3cncv186f38zw-keep-path.patch pn11y633qi1vn2lwl5d834lvfxrg3z9q-runtime-shell.patch qdqk2512q682yadq549jayg0r95fb3w4-docbook-xml-4.5.drv qfdxh9p4cwr6wd7nf2vr4x5z7g6gq6bp-docbook-xsl-nons-1.79.2.drv rpyxq5xchl7skbv1932ld6is19j95i7p-fix-install-with-tcb.patch v48cdyycfxydjy5lg73p556kksg1kgw9-a281f241b592aec636d1b93a99e764499d68c7ef.patch.drv vclqi8lk69fm39vpd3629w3f4i736x01-flex-2.6.4.drv vq9azpazk09k4arh87a0dwks66mvf8aj-bison-3.8.2.drv zl9sr7rzxsf4siadwf3s6s7y5cpbvrp6-glibc-2.35-224.drv
+CA: text:sha256:19yq92hgk9z4vchl3yz41pbw2qglv8zdgw8mdhxil87a6wbjwwqh

@@ -1,9 +1,0 @@
-StorePath: /nix/store/d46m5ffhavqk9gi2pywjrb03sw29jy36-coreutils-9.1.drv
-URL: nar/0gw07yl97phycbi9mbqg8ifsr2q2f79llvf6gd85br2kx9cpmk8m.nar.xz
-Compression: xz
-FileHash: sha256:0gw07yl97phycbi9mbqg8ifsr2q2f79llvf6gd85br2kx9cpmk8m
-FileSize: 1996
-NarHash: sha256:0ykmxfyx3455663l8d3jp8p3yg2448vbfv514qbrrfcxszxbn005
-NarSize: 4584
-References: 3bbl8y61l8zm45fywy5wk2capcfcsqvs-coreutils-9.1.tar.xz.drv 5ghdlxgkqsrp1nlcxzbcpvqi37d87m83-bootstrap-stage1-stdenv-darwin.drv 6a1cqi1cyv7p7cf1a2vsgid5nyjd9wkc-xz-5.2.5.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh d47r5s3xl3q4dfdhw390ix9wfr2g1dhs-gmp-with-cxx-6.2.1.drv snhl0w63mc0s3q6y386g061bgc7jdwwn-disable-seek-hole.patch szi0nqpd4wshw0vyizvy1p99swngaba7-perl-5.34.1.drv vi30mjy9bwj6dkwbqj1py6p013r8p10z-hook.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:1r1jx8ybjiyrjps9qqkqlfjg1zxbkp45jgpsl5n7vaz3n49b058v

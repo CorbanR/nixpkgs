@@ -1,0 +1,9 @@
+StorePath: /nix/store/i04bnllncvapvs32cv5hcd4l0bvx39cz-apple-framework-NetFS-11.0.0.drv
+URL: nar/1g6df8dszadrh9vmd6mh9582x9h5jm8c0l2s2ls86s4r5yas6pd0.nar.xz
+Compression: xz
+FileHash: sha256:1g6df8dszadrh9vmd6mh9582x9h5jm8c0l2s2ls86s4r5yas6pd0
+FileSize: 1204
+NarHash: sha256:1lai2yzzz635hjgfbhm9mqdxp7zk05kbhhhl1clb36laazn91lk2
+NarSize: 2984
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh jnl83pzwf7i0cv3i0sgzrfdk8pfdg82m-stdenv-darwin.drv rn1x0hw3p0h8a5a2y2xpnrd5cwn4izrc-rewrite-tbd-20201114.drv vdc5jp9wq87kvfcyygn10xi3xjp625i6-MacOSX-SDK-11.0.0.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
+CA: text:sha256:1fha3vvhhnn8dy6ar9mvvgk49snmr22wbr8ihb7k22fli79jnq7l

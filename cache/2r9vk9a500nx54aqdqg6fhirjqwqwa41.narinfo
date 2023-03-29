@@ -1,0 +1,10 @@
+StorePath: /nix/store/2r9vk9a500nx54aqdqg6fhirjqwqwa41-nyx-1.9.7
+URL: nar/0yd1jdx4mkjv00b299g765ygyfl5c626vkvwxzf4cz5wy5j1cif4.nar.xz
+Compression: xz
+FileHash: sha256:0yd1jdx4mkjv00b299g765ygyfl5c626vkvwxzf4cz5wy5j1cif4
+FileSize: 50612
+NarHash: sha256:1fys2gdhm3v47q7isjg3xm2ckx630l98738dk6mmjhazlik79w0b
+NarSize: 147904
+References: 8xk4yl1r3n6kbyn05qhan7nbag7npymx-glibc-2.35-224 s8vg2h8xzqmjd72f3g3p1jqy2lbbapc6-openssl-3.0.8 x93pihazmpk9d1zc8va260l2bh7w8cim-libyaml-0.2.5
+Deriver: gcsinrl9qzmdclvn2kydx96csrl37c2s-nyx-1.9.7.drv
+Sig: nixpkgs.raunco.co:jjBRrxv6grOwCM+yBF4Pmaji4nI9EMan2p3jfwxX1UCOn6otrhXrhiQIGep0p6iRQ4nrK5zDagRiHv4oquf+Bg==

@@ -1,9 +1,0 @@
-StorePath: /nix/store/yqhw05h44j54gr3scm95v4dn48wmy0fb-python3.10-Jinja2-3.1.2.drv
-URL: nar/0qdq3h9xfvwy1v1kmnam3ii3cjljkv2c55csmkjbc64i96iw69rz.nar.xz
-Compression: xz
-FileHash: sha256:0qdq3h9xfvwy1v1kmnam3ii3cjljkv2c55csmkjbc64i96iw69rz
-FileSize: 1708
-NarHash: sha256:1y94w5dw945wlffqk72x8h51nak2hdw0195msbwa6ar85krpdaq6
-NarSize: 3936
-References: 04nfdi3bvvnmvfjjcbs4clm3r1gm933m-python-catch-conflicts-hook.drv 406m2gvcms42npk8kmd1zfs027dmn96r-python3-3.10.5.drv 5jldw3axjb9hcm1h0z1gi2rcyn7fm99g-setuptools-check-hook.drv 6x1k6d2m85azk9fm1k8mraj03rig1xc6-python3.10-babel-2.10.3.drv 7g25bcpdfmn0vflgbqghjf505i008c60-python3.10-setuptools-61.2.0.drv 7msb59rnk0mb8sx60r7zsnq9027wkn68-setuptools-setup-hook.drv 8jwd0qq6lh93kmfjhd4krkica6ffmx6c-Jinja2-3.1.2.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a2391lsx8zlyv4pxlm5ahljh9v0hnjsm-python-remove-bin-bytecode-hook.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv fq8qbi1afhfpbg2bh9h8060kybdpba69-pip-install-hook.drv g5m4w7xq1nkppvhh6ni6620a5svfzb33-python-remove-tests-dir-hook.drv hcq741jwlca6yaqzrk2yrbfnsb8jnz2r-python-imports-check-hook.sh.drv imjxvw9wcs1n5qq5jz78rkqkmnsd9cy4-hook.drv p20kn0gwm4sxrblpsj5dm4apj0xq964y-pytest-check-hook.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv plh39q151zx5wm63qli21f6if2vdbxbs-python3.10-markupsafe-2.1.1.drv vyn263vr7kdksqabzqj11wgs2k26v052-python-namespaces-hook.sh.drv yys7ak94hms908551350wjd1xm64i15l-hook.drv
-CA: text:sha256:0w8cfqlqpr1jnnhmss1dm84d9b4wf342ry445dha3alkf87rcn2c

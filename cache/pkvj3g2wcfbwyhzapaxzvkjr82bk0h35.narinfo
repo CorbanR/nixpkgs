@@ -1,9 +1,0 @@
-StorePath: /nix/store/pkvj3g2wcfbwyhzapaxzvkjr82bk0h35-libarchive-3.6.1.drv
-URL: nar/0k2q3li8xl1631k9s6nj76wizhd841lgdld0fx01ixydq5ls4gln.nar.xz
-Compression: xz
-FileHash: sha256:0k2q3li8xl1631k9s6nj76wizhd841lgdld0fx01ixydq5ls4gln
-FileSize: 2016
-NarHash: sha256:1c4fv1ff4j3wcmh3dgj2h23db8kpi7il8gdfqfpi9d4y5ix98fm1
-NarSize: 4640
-References: 06xps7mamhq7adn8s5kbr84pc8ncx9nv-zlib-1.2.12.drv 1dsdav87g9wpg1lbnfxdbjffdzxhxs8z-acl-2.3.1.drv 2xamd8665gkysdw42xnh3xjavvh4mviz-attr-2.5.1.drv 3n2ih3r2kml5x3mmk5kbxg9wp58c18jz-lzo-2.10.drv 7y38c7ys1g3lxhncs1nj6v9kj7vlsscc-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b6brs3vil6mc1pib0siznamdsjia4czb-sharutils-4.15.2.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv c7j8r8giys0dmxrk0cy1kxjh10jjrqiq-xz-5.2.5.drv dh5g2g3avch401qb4al9grdnk0srydh1-bzip2-1.0.6.0.2.drv gy1wsigghb1kmgdav78k3czlzvhyy3fn-libxml2-2.9.14.drv l00dzagfkdn3m6p8n0qzixh5yx5lz9dm-source.drv m079w91yzxjxzmixrsm38skqpr9lrngw-openssl-1.1.1q.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv vna381chgh63i6fp5f4b6ic2rgpirilj-e2fsprogs-1.46.5.drv xdczp2jf0mdcaqfi0xmsh3ynqkhad1hd-pkg-config-wrapper-0.29.2.drv xdy6yy1pzn5mnzwbvipn2kgs1a2c54cq-zstd-1.5.2.drv
-CA: text:sha256:1d61vwfhg78wwv3g8m5agaawgpz6vcjgjalxdjsi1j88nbij5mvv

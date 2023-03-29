@@ -1,9 +1,0 @@
-StorePath: /nix/store/lib8d3n1kczk1ykgsicvln8fna3p85gn-binutils-2.38.drv
-URL: nar/1xi4m34k44md7xv252jxnm8pk472g6kjvx9dn4v1h8q5c9x2mzr7.nar.xz
-Compression: xz
-FileHash: sha256:1xi4m34k44md7xv252jxnm8pk472g6kjvx9dn4v1h8q5c9x2mzr7
-FileSize: 1936
-NarHash: sha256:06m62g562i3anvlsaln5b29mcln90ygwhwdjwrvh5h0csaqp4yb3
-NarSize: 4536
-References: 02h9qg8gi4qr3sp3ylb7zjvcjs5pmm1r-bison-3.8.2.drv 06xps7mamhq7adn8s5kbr84pc8ncx9nv-zlib-1.2.12.drv 0df8rz15sp4ai6md99q5qy9lf0srji5z-0001-Revert-libtool.m4-fix-nm-BSD-flag-detection.patch 0p1bf2vad7k44zmzy95nv8qbn11pf0kv-deterministic-temp-prefixes.patch 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 5dzcx2f8922hyw8xsim7sfbn0wwk69kn-perl-5.34.1.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c24dpzwpja733jlabp9gpy21vm3cx50l-gettext-0.21.drv is6j9vdyz6fanhrj5fva1hqmfywf0fh5-binutils-2.38.tar.bz2.drv jaqkzzflm3n1czf09v3h4qrhpvv9f226-texinfo-6.8.drv lgniihp1bk6mkd5nn9y5ikfim2ignr52-0001-libtool.m4-update-macos-version-detection-block.patch pa83jbilxjpv5d4f62l3as4wg2fri7r7-always-search-rpath.patch sqbhaaayam0xw3a3164ks1vvbrdhl9vq-deterministic.patch wlgf03zhg4s0fysc8bl2k7f1pkipgjb1-bootstrap-stage4-stdenv-linux.drv yad5jqfv2z7yps9iaz53c3rlki7imvqx-bootstrap-stage4-gcc-wrapper-11.3.0.drv
-CA: text:sha256:0rz4kkbyn2hcrpf81wi0ar08j5x5mn5r31wap2ss74x2xhxa5swg

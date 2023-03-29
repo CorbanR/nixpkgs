@@ -1,0 +1,9 @@
+StorePath: /nix/store/8bggpj3h9p29x1znx50qi92pkq9fg8w9-cargo-1.67.1.drv
+URL: nar/0rc5y3mdij6zqw5shx2136ljbhj7qy93z14ap0g1x7mnkdvzdfbb.nar.xz
+Compression: xz
+FileHash: sha256:0rc5y3mdij6zqw5shx2136ljbhj7qy93z14ap0g1x7mnkdvzdfbb
+FileSize: 2468
+NarHash: sha256:18whz7chpcyvir1qxj7fs5c5wcqpqaaj1hm43x6j49wakbin0xlh
+NarSize: 5640
+References: 238s6i4ii8aqq4vnll83akd4d6r7rj4q-apple-framework-CoreFoundation.drv 2yq8rc6fbc6101np73zf9ryd138s5cpn-file-5.44.drv 4xfdwh5wgdyza3fldc9ymhpxnhgbzspl-cargo-check-hook.sh.drv 6gayh2v2k293x3bl0zinhgrf9g2l6wfl-cargo-install-hook.sh.drv 6ka632pqlrlpg2kqdicx4xx9c8gr28z5-apple-framework-Security.drv 6kj239isi6pjscjbxvalqfma2872cw20-pkg-config-wrapper-0.29.2.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8k695n4y8dx1d7p7hpv3mavgv4hc109x-rustc-1.67.1.drv 8xs6sff7j6fr3kxpb0n8pi3ljjhgk0im-make-shell-wrapper-hook.drv 9nrf6vvv97r84jkaf9q01vrnazrhgkkk-zlib-1.2.13.drv b2swcsxi9c735m7xkfagdlgf7ndxadzs-rustc-bootstrap-1.66.1.drv ch9kcakh5xnw8v53brva1l4czrwbi86v-install-shell-files.drv fisjxxk5qhr09p6h70dk16f3sppsanni-cargo-setup-hook.sh.drv ga6smx84zz6xahnxwcjjpf6dwg4vx62l-curl-8.0.1.drv ivvargmf9cl6yifvk2xrzymb3ac8gbqa-cmake-3.25.3.drv iypnq8ww1axzvn6y21m0wl8jyvx6b25b-stdenv-darwin.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps nqd4xq5bwjswl7lw2rmhqcc67wjaw9ky-python3-3.10.10.drv qyd8bxxh3ca5sa35k5vdbsyqlywybl47-openssl-3.0.8.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv ws40d15z3rlfmbnv4iigkkd64b02cwgh-cargo-build-hook.sh.drv xsi567hcp9f6nqkvvsk7pc1bb638d6x1-libiconv-50.drv y1ddgqja7ym3s8yiq3i77gi4cwilcms6-rustc-1.67.1-src.tar.gz.drv
+CA: text:sha256:0n32ddb2dz6khbbsc2l925px5a7ddcky3r4xq25my952r90xpr93

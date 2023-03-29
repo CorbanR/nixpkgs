@@ -1,9 +1,0 @@
-StorePath: /nix/store/svf7998gxv2wp4w5kjmaxdffkhqkibsc-clang-11.1.0.src.tar.xz.drv
-URL: nar/1ddfl6yllrg36d9yn4cxcqjdkf7wwl2lbdk911rc40gj1fj4l62x.nar.xz
-Compression: xz
-FileHash: sha256:1ddfl6yllrg36d9yn4cxcqjdkf7wwl2lbdk911rc40gj1fj4l62x
-FileSize: 1368
-NarHash: sha256:0lbr9awps1z5870djvc1qz9nh7ygkh81naik3pmf4fmlq07kg3aw
-NarSize: 3264
-References: 79s495b0mxaszby1bfqll7svwwi04zw0-bootstrap-stage0-stdenv-darwin.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh vrhd0j1flahsqrgn57lrnfc28jhb6jz0-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:0ch6rvdwlmg89c501a73lifcmkcvfr8q0rrhdg6c13gaq6p25320

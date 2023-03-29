@@ -1,0 +1,9 @@
+StorePath: /nix/store/hp88s7ljnjy4s80lwyjz0r9p8p8yy3ja-fno-common-fix.patch.drv
+URL: nar/0c14dkr8yyz81j0krcbd7x9pyi5yd4lmjs38vfcjkg51bfpxb9ln.nar.xz
+Compression: xz
+FileHash: sha256:0c14dkr8yyz81j0krcbd7x9pyi5yd4lmjs38vfcjkg51bfpxb9ln
+FileSize: 1908
+NarHash: sha256:1mnqj4s4hldpn8hcn06v5ldkw16hmbqcqw8jqnv5xxv4cc469i96
+NarSize: 4560
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv mmgy6psycvwz94c4ifjikdi8590r3n7k-patchutils-0.3.3.drv
+CA: text:sha256:0f55g1cvgzsmbc5v3pvzpjsmd9d3qfvfqcdxmhjh8hgmg2l2x5r9

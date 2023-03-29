@@ -1,0 +1,9 @@
+StorePath: /nix/store/bhwsvjysql59wp41msm8dci2g2vkymvd-glibc-iconv-2.35.drv
+URL: nar/1lb2xvxdbx83gzqnfyp7gw2irgf592rcwrndi5m10b79craxy6x6.nar.xz
+Compression: xz
+FileHash: sha256:1lb2xvxdbx83gzqnfyp7gw2irgf592rcwrndi5m10b79craxy6x6
+FileSize: 772
+NarHash: sha256:0d3a9j6cfhm293m9rk6a3a9ad850ivmlj48gcv06zass9rka7wsy
+NarSize: 1688
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv zl9sr7rzxsf4siadwf3s6s7y5cpbvrp6-glibc-2.35-224.drv
+CA: text:sha256:1b1vpcgz999mzsb4cf46givbkpz9x5zp1b8cvznwpfsdbrni5j4x

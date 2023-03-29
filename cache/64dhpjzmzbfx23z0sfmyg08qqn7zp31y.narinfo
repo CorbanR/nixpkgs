@@ -1,9 +1,0 @@
-StorePath: /nix/store/64dhpjzmzbfx23z0sfmyg08qqn7zp31y-python3-minimal-3.10.5.drv
-URL: nar/06pyd48g5asw68azlz7zp0xhsd56gl23mi8wvadv9a2y7zyrncgv.nar.xz
-Compression: xz
-FileHash: sha256:06pyd48g5asw68azlz7zp0xhsd56gl23mi8wvadv9a2y7zyrncgv
-FileSize: 3652
-NarHash: sha256:15gf3q9l2dy98a9jqbr0vd34h1d8sq3zfz2y2ach37ly3ls5jllg
-NarSize: 8976
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 0zy0xzymyjwwyk1kk493iz7mpmjab1sq-bootstrap-stage2-stdenv-linux.drv 1svk3b8qxivn62824hmxi9yjdvnjh225-bzip2-1.0.6.0.2.drv 1xcx2mj6bl0wkf5xf9m1qlxn8mskkcfz-Python-3.10.5.tar.xz.drv 27ddyklmlpiziwd0irvbwaca5gd2xirp-autoconf-archive-2022.02.11.drv 345r2zz7pgiyk91j89qlf7mhs95jrv6f-no-ldconfig.patch 3lldw71s7wnbvz9rs38fi7lbxwp1gck0-hook.drv 57kclla9vza2n87xgwg1ap54d20cz6lb-fix-finding-headers-when-cross-compiling.patch 7b5qvkdsvr5j1705yxa6r0qzvkxvdvyi-zlib-1.2.12.drv 85zya8ddq6lid45iiyiilv0sriqqv4hx-pkg-config-wrapper-0.29.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a1hkpzdqfkfdarzx2wb8c22nlr61idx6-bash-5.1-p16.drv aqayg46f12blrkn8asxxk4qwcbwy5jcm-nuke-references.drv cv1ynpzvjjr0s72jkbblbzz3ymr87lpi-0001-On-all-posix-systems-not-just-Darwin-set-LDSHARED-if.patch dkb2rjyj7lwmvsn4zzwx85kx8r61nk9w-darwin-libutil.patch i3n8yp2rsivb3plbczkhrwz80hsn01fa-xz-5.2.5.drv ikmqczy0y20n04a2b8qfflzwihv8139g-separate-debug-info.sh lhrll6r3915ngqd0f7p2pa5wb6hb8ibi-libffi-3.4.2.drv mrf2zshzc1y50pqlqllw9gpjq4jv9hpm-python-setup-hook.sh.drv r112dk8w7zvdjipki58ch00m825li7fq-virtualenv-permissions.patch s3vm9nadkpgf7kgvfdprl27pq1b0vsnl-expat-2.4.8.drv
-CA: text:sha256:10cy3ihggii5qkhyklk4imv6zr9fzl4hmqas32kfp49da4idiglh

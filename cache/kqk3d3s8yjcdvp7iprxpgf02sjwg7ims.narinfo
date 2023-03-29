@@ -1,0 +1,9 @@
+StorePath: /nix/store/kqk3d3s8yjcdvp7iprxpgf02sjwg7ims-wheel-0.38.4-source.drv
+URL: nar/07wv9hiza3gii9khp4krdhvqjs9h3i8712bnghsmzcpnz18xjvs6.nar.xz
+Compression: xz
+FileHash: sha256:07wv9hiza3gii9khp4krdhvqjs9h3i8712bnghsmzcpnz18xjvs6
+FileSize: 1856
+NarHash: sha256:1pylknm7m8wpx9wwfxvsbb8cykgnngsz9pahkfzp1p2anvig8si1
+NarSize: 4136
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 3hds42r22i98l7xwqsnismv1a7p6d8p9-0001-tests-Rename-a-a-o-_-.py-_-.py.patch 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv s36z4fwkrfiinf98pgk8xm645h4ml7lw-unzip-6.0.drv w9gwfz8r6fy3k2d5diskj4jpwppf78l0-glibc-locales-2.35-224.drv
+CA: text:sha256:00jd5k4qprf383fx0j1jq35h28v7yq8z2n8zk8mv7kvizp6pa424

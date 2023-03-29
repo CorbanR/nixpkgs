@@ -1,0 +1,9 @@
+StorePath: /nix/store/w96c01ryppx488vxp0ci3ciqaaf6h0pb-linux-headers-6.2.drv
+URL: nar/01qlj437m6nk4y5md0a5lxhp6i8cl2cbv9j8z9x3df0fmdbfxqgb.nar.xz
+Compression: xz
+FileHash: sha256:01qlj437m6nk4y5md0a5lxhp6i8cl2cbv9j8z9x3df0fmdbfxqgb
+FileSize: 1148
+NarHash: sha256:04m33yh2j1ynhn3i5yq6dlsf0a3lchb3x0qg1mcjn0v31inja8jm
+NarSize: 2520
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 2pdax5d5frps9fh59zw7jlxa1ramjlc6-linux-6.2.tar.xz.drv 408bvj9rzv3jv0faml1r7xlyw8rs4j5j-perl-5.36.0.drv 69lyjyca86317hdsc1rwf3ahn7s5kiyn-no-relocs.patch 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv psjjbw1gk6l0y3h0d6a8gpmzp47qvc0w-gcc-wrapper-12.2.0.drv
+CA: text:sha256:1l0agzzq38z2shlw61qb12rymjhsy66p2zmpwgyhpjvqghlczzvl

@@ -1,9 +1,0 @@
-StorePath: /nix/store/xlj4dypk3nz63skvrj5dh88gqx51s9cv-perl5.34.1-HTTP-Negotiate-6.01.drv
-URL: nar/0nwqvhs87hrda823v6bcbb06yafgvkwji2xdvp22h6csd41lnh0g.nar.xz
-Compression: xz
-FileHash: sha256:0nwqvhs87hrda823v6bcbb06yafgvkwji2xdvp22h6csd41lnh0g
-FileSize: 964
-NarHash: sha256:01zk7c5pz7vss5qhcj7vcbl6fm1s6qqa1qya8y6yvw60aask3w3b
-NarSize: 2320
-References: 9b1k8b4ynbzcl6x9i9vfqh8kgyzs2v38-HTTP-Negotiate-6.01.tar.gz.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv nqm9bzdgamsnr2pdhs8mpnzdpdwshx3m-perl5.34.1-HTTP-Message-6.26.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv qf3mzpvsmkrw963xchbivcci06078n13-builder.sh r8b46bf8m04lkvnj6r8ydgqblv0qmmp9-perl-5.34.1.drv
-CA: text:sha256:1iv2ffsbmzyg10m39qdqdjhid5m4jp71xq5p1qn16dla8y3jnz7a

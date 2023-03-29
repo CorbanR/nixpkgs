@@ -1,0 +1,9 @@
+StorePath: /nix/store/8agbw9qwml9b88138ac1mv1hvc6rq7r5-bindgen-cli-0.64.0.tar.gz.drv
+URL: nar/1jp9qphi2q2q5xglkwi9h0ddkrrzmyb7220gfaz7d4db33dwy3wd.nar.xz
+Compression: xz
+FileHash: sha256:1jp9qphi2q2q5xglkwi9h0ddkrrzmyb7220gfaz7d4db33dwy3wd
+FileSize: 1736
+NarHash: sha256:093509pdwnq9xmyfhb34i4xrlh9gfjx07a838xwdhwf9ibngv48z
+NarSize: 3856
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv s36z4fwkrfiinf98pgk8xm645h4ml7lw-unzip-6.0.drv w9gwfz8r6fy3k2d5diskj4jpwppf78l0-glibc-locales-2.35-224.drv
+CA: text:sha256:1hch1c6gzzpy1v73wwjfr1inmqmr9p04jkfn7qhgd1bl12gnbq15

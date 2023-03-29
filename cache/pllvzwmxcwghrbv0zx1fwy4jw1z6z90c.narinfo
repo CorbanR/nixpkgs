@@ -1,9 +1,0 @@
-StorePath: /nix/store/pllvzwmxcwghrbv0zx1fwy4jw1z6z90c-bzip2-1.0.6.0.2.drv
-URL: nar/026bs75wk1i6w21s2ds0jzhr44mjf2fa96qw32limw0hwsb0vdjq.nar.xz
-Compression: xz
-FileHash: sha256:026bs75wk1i6w21s2ds0jzhr44mjf2fa96qw32limw0hwsb0vdjq
-FileSize: 1168
-NarHash: sha256:0lx69i2zcxgf72j45xikfs3n3bd7rc685nxliybqqia17x1gkfkw
-NarSize: 2880
-References: 4arvn2spr60flhdc9r6zlw5jr7riw406-bzip2-1.0.6.0.2.tar.gz.drv 5ghdlxgkqsrp1nlcxzbcpvqi37d87m83-bootstrap-stage1-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh r8acyr4xb2yw1k73qjzm9sxmpws27gjr-CVE-2016-3189.patch vi30mjy9bwj6dkwbqj1py6p013r8p10z-hook.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv wnf28g32lllbi3i80n97gyzfj2sf9zyx-cve-2019-12900.patch
-CA: text:sha256:1r0l6vib0c3ngw1amp82dzd5d8032qc496cx02p964sllj4h6h87

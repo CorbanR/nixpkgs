@@ -1,0 +1,9 @@
+StorePath: /nix/store/94m75rfd78vgb1pmcjvp7bdra53g0h1g-Libc-825.40.1.drv
+URL: nar/1dssbvcdspm40gjp421nc5xmasyy8571b64dj798j2qilc8pb5ms.nar.xz
+Compression: xz
+FileHash: sha256:1dssbvcdspm40gjp421nc5xmasyy8571b64dj798j2qilc8pb5ms
+FileSize: 1300
+NarHash: sha256:1prcf11bcg3sz9ayqjpfwf2xw46923c22gk3d6jrmyp0sd76snz5
+NarSize: 2792
+References: 1m0i4hxyqyadspcymi45mrvbyrnwj1rg-Libc-825.40.1.tar.gz.drv 6bzi7ph0511fmrh3zvfz7fjsrs70sbzn-unifdef-2.12.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh i6kvyjidcjsp0rs0zar3mcj13gfmyi3f-ed-1.19.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv y9k5lpsbhw75hjxx57gf0vhri67ninxb-bootstrap-stage1-stdenv-darwin.drv
+CA: text:sha256:0avlmmqvapq4x0xpnrpm1ki1ggnv34yvkw2csq50kmi3p4l2scxp

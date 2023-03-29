@@ -1,9 +1,0 @@
-StorePath: /nix/store/aal9bmq1nag0cb0pqfnfncm1aaw18ssn-perl5.34.1-Encode-Locale-1.05.drv
-URL: nar/1qr8dwdmd89a74xlp19z58bzs0f4nl0whmgyr4axysqjcvj9jhqf.nar.xz
-Compression: xz
-FileHash: sha256:1qr8dwdmd89a74xlp19z58bzs0f4nl0whmgyr4axysqjcvj9jhqf
-FileSize: 1004
-NarHash: sha256:134lrccqvc32175vf886127wnn6rd45g5myhk15wc802kzlw05cz
-NarSize: 2416
-References: 52r3dg1y2n7gnj2z7x3izsbhwcn9nyxv-perl-5.34.1.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv f8wfy6mic53g8ldgrrcajklplx5k61wx-Encode-Locale-1.05.tar.gz.drv qf3mzpvsmkrw963xchbivcci06078n13-builder.sh x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
-CA: text:sha256:18rnjpcgqcx8xwc2fjqpxapffl9nnw5kaf2vc6j3r4447qy4shb9

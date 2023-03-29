@@ -1,9 +1,0 @@
-StorePath: /nix/store/w06pfw4030pdwx27v840py26j7yc4wpn-libselinux-3.3.drv
-URL: nar/0ryrkrqq7lghblwdk7hsp284605s21bz91z84gydlgcipvasjcsw.nar.xz
-Compression: xz
-FileHash: sha256:0ryrkrqq7lghblwdk7hsp284605s21bz91z84gydlgcipvasjcsw
-FileSize: 1620
-NarHash: sha256:0f70nzfkld3ywqli24maxwc1fkxn8v7j9ijnnfn5n1gbd7b3r9q5
-NarSize: 3776
-References: 3310xw1yd1s1qkz0ykpy29zva4wgg9l8-raw.drv 406m2gvcms42npk8kmd1zfs027dmn96r-python3-3.10.5.drv 7kkvd3sj7sr2284vfsm3z59anfvv06qj-pcre-8.45.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ilywgjr5xl8kpbr8gcifnw95xsc2nc2c-swig-3.0.12.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv qyzmzw95p8bdkgrppciy1g156666f04y-libsepol-3.3.drv r8090yp36qz3mpigcv7jiz55zczq0k4s-libselinux-3.3.tar.gz.drv xdczp2jf0mdcaqfi0xmsh3ynqkhad1hd-pkg-config-wrapper-0.29.2.drv
-CA: text:sha256:17aqqif71xlyg9sfgiysk3sjdnbb83644djbmjdfa5kwfkjfkbri

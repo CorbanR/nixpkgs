@@ -1,9 +1,0 @@
-StorePath: /nix/store/cyjbz45g8q58jmdvfp7sq3jrqzj0v42i-nghttp2-1.47.0.drv
-URL: nar/0bgvdc1vhkggwxinh0shns9awm4lq14w695v8472sn3855j3xxiz.nar.xz
-Compression: xz
-FileHash: sha256:0bgvdc1vhkggwxinh0shns9awm4lq14w695v8472sn3855j3xxiz
-FileSize: 1444
-NarHash: sha256:0w0k4br6vf9gkgy49xb5y31kqwmc144nqwhb0xg6j42in6z3syk4
-NarSize: 3336
-References: 90kkyylc8lngl6fj7ldnil099xad71gd-bootstrap-stage4-stdenv-darwin.drv 91cpiy0a7ng2i641lpfnlnrym56dxfwc-nghttp2-1.47.0.tar.bz2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh k8wz9a3ac1swg3bjjmn34xbkq7fpzjia-libev-4.33.drv mqqykzsx5y1mjmfgk1mwzkj4nw22ll3r-c-ares-1.18.1.drv pwfvdq32z1z285862737dc7bf18dzw3h-pkg-config-wrapper-0.29.2.drv q51hfba8mxqfdvpn8yw6hcqrz5wd528h-openssl-1.1.1q.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv xk1b2mnnkl53h3hbfb8aavdx0yaixscg-install-shell-files.drv yg9cplf13bk7j9dqjym1dpc0qgrpy5hr-zlib-1.2.12.drv
-CA: text:sha256:014ys5vcixn6h47wvbpmc2n91yj7jaq5z36k6j5h4smqjs8zlz7g

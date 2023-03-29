@@ -1,0 +1,9 @@
+StorePath: /nix/store/rwkcsx3clvq2dqdb7cxpk5xddsrxlylk-bootstrap-stage4-stdenv-linux.drv
+URL: nar/1qc4jm3r0w2pxxyhqscdxr5g8y89ird7iiypjg2cvpfshq3l8ypj.nar.xz
+Compression: xz
+FileHash: sha256:1qc4jm3r0w2pxxyhqscdxr5g8y89ird7iiypjg2cvpfshq3l8ypj
+FileSize: 1336
+NarHash: sha256:1s9lngbc45h103x5675c647kvq20rw2jg646ncrk5ks37vk4l7im
+NarSize: 3352
+References: 1wkxd0d8xc5nbfns2jjy924jvxd972gp-bootstrap-tools.drv 5yzw0vhkyszf2d179m0qfkgxmp5wjjx4-move-docs.sh bxsly8a56yb8kyrq03s82a3vyc8fqrb3-multiple-outputs.sh cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh ckzrg0f0bdyx8rf703nc61r3hz5yys9q-builder.sh d275wzmimzi3xp4j3vbkvxscmc79q088-strip.sh fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh h9lc1dpi14z7is86ffhl3ld569138595-audit-tmpdir.sh i7ppfr8z4qaprsxx4z27wn6x5kc8d4hx-setup.sh k1l72djdkcpdb7j6f3nxh5y1i90jxa40-patchelf-0.15.0.drv kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh lxj07r0fq4hhxkw165vwf5vkrfsh3rns-xz-5.4.1.drv m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh nf1lkdrhapsx5lr6diyxyjr7pb7r20gr-patch-shebangs.sh ngg1cv31c8c7bcm2n8ww4g06nq7s4zhm-set-source-date-epoch-to-latest.sh pag6l61paj1dc9sv15l7bm5c17xn5kyk-move-systemd-user-units.sh wgrbkkaldkrlrni33ccvm3b6vbxzb656-make-symlinks-relative.sh xyff06pkhki3qy1ls77w10s0v79c9il0-reproducible-builds.sh
+CA: text:sha256:1r6iwylgwdb713wx5qx8p1za8dhnjdr5bkvavb64qkqnx0n7khkm

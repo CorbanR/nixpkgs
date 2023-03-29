@@ -1,9 +1,0 @@
-StorePath: /nix/store/yl6g04fsr6p9lkvccqjjl8q1xnnmw49s-fix-glibc-2.34.patch
-URL: nar/13w92khhb438pnbci4ari6rdrm5k890yv6wkmxv7839l0700ha6h.nar.xz
-Compression: xz
-FileHash: sha256:13w92khhb438pnbci4ari6rdrm5k890yv6wkmxv7839l0700ha6h
-FileSize: 2120
-NarHash: sha256:09pl954694jsly5rzhvb2a9nbmcp52inn15fm7hz2wcxgzqkqkg7
-NarSize: 7744
-References: 
-CA: fixed:r:sha256:09pl954694jsly5rzhvb2a9nbmcp52inn15fm7hz2wcxgzqkqkg7

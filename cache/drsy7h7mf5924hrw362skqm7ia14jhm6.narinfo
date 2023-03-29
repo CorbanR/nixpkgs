@@ -1,9 +1,0 @@
-StorePath: /nix/store/drsy7h7mf5924hrw362skqm7ia14jhm6-hwdata-0.360.drv
-URL: nar/1lhssfl7cgn39f787dm617a4x14xbs6dw3v41vgnh7jwfdf6vc7k.nar.xz
-Compression: xz
-FileHash: sha256:1lhssfl7cgn39f787dm617a4x14xbs6dw3v41vgnh7jwfdf6vc7k
-FileSize: 880
-NarHash: sha256:1w8d52m1azlp53xf10sx0vl10zac4fqlk15vza7qc389z7hbn50l
-NarSize: 1760
-References: 3pc2kp1mhhqmadr31cz4425q2j6n11x9-source.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv
-CA: text:sha256:11ibizxw7gcds00zi23nprs2nrrbh01799400sb0ynalq81yvh3c

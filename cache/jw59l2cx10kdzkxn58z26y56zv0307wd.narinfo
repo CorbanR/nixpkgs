@@ -1,9 +1,0 @@
-StorePath: /nix/store/jw59l2cx10kdzkxn58z26y56zv0307wd-go-1.16-linux-amd64-bootstrap.drv
-URL: nar/18wbyb94j4v9l1dkrrkny822b25f0knhy0vakj78wavqmyaawn3i.nar.xz
-Compression: xz
-FileHash: sha256:18wbyb94j4v9l1dkrrkny822b25f0knhy0vakj78wavqmyaawn3i
-FileSize: 824
-NarHash: sha256:0iyc24dd9m6nn8l2y72wb6zfyhc0cp11n30j1z7cxjw2n0cpnbs2
-NarSize: 1776
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv i12bm4x60zw803c1pn46gc4m8z8wyp9i-go1.16.linux-amd64.tar.gz.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv
-CA: text:sha256:05bizjkza5qdm5q54j0138g0q4pmh29gbg2z7h9735ygb9sk9c8v

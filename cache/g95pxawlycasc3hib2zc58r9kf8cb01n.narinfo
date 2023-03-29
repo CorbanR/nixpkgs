@@ -1,0 +1,9 @@
+StorePath: /nix/store/g95pxawlycasc3hib2zc58r9kf8cb01n-python3-3.10.10-env.drv
+URL: nar/14982sbc2s6zmd9j66wbnizs3n1p9ql9fzxf5zrxf3aw9xbzvc8g.nar.xz
+Compression: xz
+FileHash: sha256:14982sbc2s6zmd9j66wbnizs3n1p9ql9fzxf5zrxf3aw9xbzvc8g
+FileSize: 1588
+NarHash: sha256:0hyhbbwcwpj8l4yl402kjgpqqqav6qqmis6xyi7g4is3riqxnq6r
+NarSize: 4016
+References: 26bj0a8c7rac2hfx7q4f212i163rwgba-make-binary-wrapper-hook.drv 4j9hk5n5n724bvrj7gn3wa1r2iq43pkx-python3.10-six-1.16.0.drv 6r7777cqkiy71mbjn6jhhfjgd9vjdn38-builder.pl.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7rh9n73g0lhsv518wldfnhv9ym3dalkk-perl-5.36.0.drv jnl83pzwf7i0cv3i0sgzrfdk8pfdg82m-stdenv-darwin.drv nqd4xq5bwjswl7lw2rmhqcc67wjaw9ky-python3-3.10.10.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv ycpf2ayhck2pzl49wyba2y5m8fwsqdg2-python3.10-gyp-unstable-2022-04-01.drv
+CA: text:sha256:09mxrxm42mhpsh1gzl4l0vfsindx2dgvi6880bpxacqb9a94mdmv

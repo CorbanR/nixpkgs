@@ -1,9 +1,0 @@
-StorePath: /nix/store/4wf5lbvx2slmmfv5ic8nlsr1lmpfcz9y-libunistring-1.0.drv
-URL: nar/1xcn5jhb5y0h5p9jj2y9mk2mw7ys9zqpdvi3hdgylg6jcvacr6i1.nar.xz
-Compression: xz
-FileHash: sha256:1xcn5jhb5y0h5p9jj2y9mk2mw7ys9zqpdvi3hdgylg6jcvacr6i1
-FileSize: 1024
-NarHash: sha256:00j3wyybj73xvcb5axrjr8ww9124sj4qlnzgd3agbqrwdm852clf
-NarSize: 2512
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv isy0i4m3vzf1p4197bkdmm7vh828w657-libiconv-50.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv xa71dn7jgivvxpdqfninn0whl30h67xh-libunistring-1.0.tar.gz.drv
-CA: text:sha256:091z3qdpz095yikq066gfamibydgp45yh3qlj8m53vmpnjf22088

@@ -1,0 +1,9 @@
+StorePath: /nix/store/ks6cva46f49xa61h6dba6hj3c61x7yn3-libev-4.33.drv
+URL: nar/0cyxrfgs4p3vd15nvhf5j4if9hb53w0wivnq2scyap6hpijx1y1h.nar.xz
+Compression: xz
+FileHash: sha256:0cyxrfgs4p3vd15nvhf5j4if9hb53w0wivnq2scyap6hpijx1y1h
+FileSize: 812
+NarHash: sha256:0dha10kpq9zq1acbl36qzw603mgd83pwf9hccx10hnj7x12jmx3b
+NarSize: 1808
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh cw97g7jcj2w03f4jwzw9lmlhpp5bdwdc-libev-4.33.tar.gz.drv r0x0mak6dlb0951i9mzml6kzwk05r294-bootstrap-stage4-stdenv-darwin.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
+CA: text:sha256:09sy5q5v9nx1dk4lsmqka4kaa9qc87x7if09h0x8i9f0lmbzg9sg

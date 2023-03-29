@@ -1,9 +1,0 @@
-StorePath: /nix/store/v9pvrcdwbb0n66sksvrnrhyr5zw0xqp7-rubygems-3.2.26.tgz.drv
-URL: nar/0rwk4r3gvrwwgifdv1rwxv6pdgwrxdz4yra621nvid2wmkr9zyg5.nar.xz
-Compression: xz
-FileHash: sha256:0rwk4r3gvrwwgifdv1rwxv6pdgwrxdz4yra621nvid2wmkr9zyg5
-FileSize: 1296
-NarHash: sha256:052mf22yrns62m22pl8pjrfj1az010zprvvslllr43lbiivi6hnw
-NarSize: 2968
-References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
-CA: text:sha256:1gkq6kp3za3h6ds8b7il0jjic3wi361cm785dkcjs1bdfi0hs0k2

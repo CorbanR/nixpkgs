@@ -1,9 +1,0 @@
-StorePath: /nix/store/5hlr9kynp96hpqmvmk5g59dy76nkis7s-Capture-Tiny-0.48.tar.gz.drv
-URL: nar/1lfclj8fqyzmxsa64bi7qk8879wf3hbanmisv0xxq9bg86skya27.nar.xz
-Compression: xz
-FileHash: sha256:1lfclj8fqyzmxsa64bi7qk8879wf3hbanmisv0xxq9bg86skya27
-FileSize: 1312
-NarHash: sha256:0w6hbycvxnqiy210c7h3rpjc56fr91w43mp8ipsbyhzg1ww9qc3h
-NarSize: 3000
-References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
-CA: text:sha256:0j0v6y709j3saqjl9qxbbcl50kmgqp9vzp9w0pjyrhmyhf88qpcn

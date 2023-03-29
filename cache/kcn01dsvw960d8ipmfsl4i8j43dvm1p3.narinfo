@@ -1,9 +1,0 @@
-StorePath: /nix/store/kcn01dsvw960d8ipmfsl4i8j43dvm1p3-gnutls-3.7.6.drv
-URL: nar/0232fcf5yj1qpm58x3j1fg6xh0jsxfx66hwhqw9lv7i6099r31bf.nar.xz
-Compression: xz
-FileHash: sha256:0232fcf5yj1qpm58x3j1fg6xh0jsxfx66hwhqw9lv7i6099r31bf
-FileSize: 2648
-NarHash: sha256:1zlbm6vclp3ykpvv8l4zw3pgpbfg1wazxk9nh29spynn8r4vavpg
-NarSize: 6136
-References: 06xps7mamhq7adn8s5kbr84pc8ncx9nv-zlib-1.2.12.drv 2sz1whb6s9409i2crcy2n6i8yi2gvzid-which-2.21.drv 3clrdw41k5k03wg30qvgsb6mgdkvrds3-gnutls-3.7.6.tar.xz.drv 3n2ih3r2kml5x3mmk5kbxg9wp58c18jz-lzo-2.10.drv 4qblr15zk0ln58sai79x0qnw631ifkmm-net-tools-2.10.drv 51zw3ipvxllxyk0h9gy0a3v7g6h6488h-nix-ssl-cert-file.patch 5i3fr3g8iwin0asp1y4sa41c1swbwk0l-lzip-1.23.drv 7b62vrvnf8zh7pz5jnan81am928yh5hi-nettle-3.7.3.drv 8rr6yxkx82x6ar1xi3kx6cw85dpbyahm-glibc-iconv-2.34.drv 94qprnynlikrmsxxlgwgmr9p17kigpwv-gmp-with-cxx-6.2.1.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv fdvp7iyvaxxg9700s3y674n4j542mr65-libtasn1-4.18.0.drv gj61908v9zxbm3742vvqbd4x40vdcca6-libunistring-1.0.drv h5665wffxgad2phylx6xl1mddbp7jn0d-libidn2-2.3.2.drv irj9xhdqk7b9adcik9iywgb4n6ww45xg-dns-root-data-2019-01-11.drv n67a4r7rn1ay37n9945rvmnz74xlgi59-util-linux-minimal-2.38.drv n732qg3hpwy2arm9agh8illz031h6b03-unbound-1.16.0.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv r8b46bf8m04lkvnj6r8ydgqblv0qmmp9-perl-5.34.1.drv wfnw2gdabjyr24qjwrwa9rs2p7da1mc8-dummy.crt wl9w1fn9b2fhsq741mvmp87bzp9w8ijc-gettext-0.21.drv xdczp2jf0mdcaqfi0xmsh3ynqkhad1hd-pkg-config-wrapper-0.29.2.drv yrk8473l7qvcv3j92ingm276ipa7l570-p11-kit-0.24.1.drv
-CA: text:sha256:13s30qs370p1fqlg0gfp0s1svyivgn6hvy9r55d87vk31g6gik2l

@@ -1,0 +1,9 @@
+StorePath: /nix/store/wxa55gczcd82r1pmmbm1f5hmka2zry6l-apple-framework-CloudKit-11.0.0.drv
+URL: nar/02z0s0pkvk2pnc5v4x5p5xckrxx75b7m9hzji1qc77vfi05gmyh4.nar.xz
+Compression: xz
+FileHash: sha256:02z0s0pkvk2pnc5v4x5p5xckrxx75b7m9hzji1qc77vfi05gmyh4
+FileSize: 1296
+NarHash: sha256:1zabf6vqkk9qjzmk7zq0k4j7ab4nv2rwy444j5iw4s76wpkvppls
+NarSize: 3368
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh j4ns031grdxa6q4gg75zsan4v2i4rz28-apple-framework-CoreLocation-11.0.0.drv jnl83pzwf7i0cv3i0sgzrfdk8pfdg82m-stdenv-darwin.drv rn1x0hw3p0h8a5a2y2xpnrd5cwn4izrc-rewrite-tbd-20201114.drv vdc5jp9wq87kvfcyygn10xi3xjp625i6-MacOSX-SDK-11.0.0.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
+CA: text:sha256:15q2kq81bbddx9zanqw0whhvdx79yzjv458q2wh96snd7nyswqk4

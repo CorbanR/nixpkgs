@@ -1,0 +1,9 @@
+StorePath: /nix/store/h56zva54kv5xhj3smdnj9hfn7afjd2mh-git-minimal-2.39.2.drv
+URL: nar/10fggrny7i7fy5nan4wm4bbnq4pd057vba0kd24hww3r0f4374vb.nar.xz
+Compression: xz
+FileHash: sha256:10fggrny7i7fy5nan4wm4bbnq4pd057vba0kd24hww3r0f4374vb
+FileSize: 4100
+NarHash: sha256:1r4rp9dvk4fxah54l6yml98k65s6akfk9fvj6qb7x2wnq2dw2ypd
+NarSize: 9992
+References: 0ry045qgnbgqqb3biy75v8frgsjk4rzq-make-shell-wrapper-hook.drv 0skl9pj00yd4nlnyj5j2hb9lwi03r4in-gettext-0.21.drv 207371kxkgxw54hgaryxrk4sv237la8g-coreutils-9.1.drv 2q9j86m5xxssjj0jxq36yylnakdnzavx-git-2.39.2.tar.xz.drv 3jbv3scpmj2kxhshfz544jq37dzywbss-openssl-3.0.8.drv 408bvj9rzv3jv0faml1r7xlyw8rs4j5j-perl-5.36.0.drv 559ajlir5yfj4rbs7165piq57h9ir5pd-installCheck-path.patch 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 86jqlsil7fmb7zi1mydpdm6dfhyjqqsj-gnugrep-3.7.drv 932zqmiq6nar2f4a6ag6z49fm58k6060-gawk-5.2.1.drv 935s4ihbw5l4ccxdv7q5vxlgk08kcnc5-zlib-1.2.13.drv adgdkjgx1n2r7a8mjgp4jz7g48na9pq0-separate-debug-info.sh bhwsvjysql59wp41msm8dci2g2vkymvd-glibc-iconv-2.35.drv c8s72qk1ym92b219cv2mv8098aqj51mq-gnused-4.9.drv hmxvs5jh710x9kcpcnga0grkxzfyl7hh-pkg-config-wrapper-0.29.2.drv ifg4cz6hs8fjlsz9p8pkp5id2i2mr4v3-cpio-2.13.drv j6vpikcvv4ry0pwalvpz1m65k2wckavl-docbook2texi.patch jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv khf1qm2gppz8lb45lx2kp91xknmrcrl1-git-send-email-honor-PATH.patch laplipjzl6gn1lhjcq86fr8ajmb62ms2-expat-2.5.0.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv rcsmiycdrhwziqr33r0i645p0ylrixgs-curl-8.0.1.drv xprdd33cnqprwk19lxi57h907fz7xic2-git-sh-i18n.patch
+CA: text:sha256:04h39yqdlpbgqakkgljqn36pzv43v655j1d7a7jsnp2gldqw7jgp

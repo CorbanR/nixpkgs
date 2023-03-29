@@ -1,9 +1,0 @@
-StorePath: /nix/store/9lz3zjfxyd38jxhwm1vwvdfl5ihij8j5-ppp-838.50.1.drv
-URL: nar/1p9w51g9danr66hmqabcl57cmzwg3azsvfg270f3ks2bda1mifhd.nar.xz
-Compression: xz
-FileHash: sha256:1p9w51g9danr66hmqabcl57cmzwg3azsvfg270f3ks2bda1mifhd
-FileSize: 1152
-NarHash: sha256:0k0qgd4y9h3rksypwkg95wabphq01fvkmyjgcbh28y6c6z4fmxlb
-NarSize: 2680
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b341r3rqv5ryc6sb16jfw5bcl40qlnwj-ppp-838.50.1.tar.gz.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
-CA: text:sha256:1rfb23y9bgjy63wpl3n705y1rw5dk2w3vqr8nwabrn9qva8b3x9r

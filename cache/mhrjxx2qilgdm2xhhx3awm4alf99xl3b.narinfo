@@ -1,0 +1,9 @@
+StorePath: /nix/store/mhrjxx2qilgdm2xhhx3awm4alf99xl3b-gnutls-3.8.0.drv
+URL: nar/16d87ff0hp5yll625zn894z4586ryyalf1kxfirxgzrsyfp8hczp.nar.xz
+Compression: xz
+FileHash: sha256:16d87ff0hp5yll625zn894z4586ryyalf1kxfirxgzrsyfp8hczp
+FileSize: 2672
+NarHash: sha256:0gg8nsjc5xcz9vp21bnx5sf06x1d88lcar86na0rd5agh07gq18n
+NarSize: 6200
+References: 0skl9pj00yd4nlnyj5j2hb9lwi03r4in-gettext-0.21.drv 14mvw037rm9547kz1x083v9np4lwdhm4-libidn2-2.3.2.drv 3qdyl80fb0l88pjbzplfwf39cpcz943n-lzip-1.23.drv 408bvj9rzv3jv0faml1r7xlyw8rs4j5j-perl-5.36.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 81imnyyhrz1fb2qjjh7k3q0vlfqv3ij6-unbound-1.17.1.drv 935s4ihbw5l4ccxdv7q5vxlgk08kcnc5-zlib-1.2.13.drv a79kzqiiyxv6bhv9qwdsk3q3zb8l6y29-gnutls-3.8.0.tar.xz.drv bhwsvjysql59wp41msm8dci2g2vkymvd-glibc-iconv-2.35.drv fb56szw1cn21s5py4av2vnc7rjxbna7w-nix-ssl-cert-file.patch gcv62gg734j16i6la3q9i9pyagq64f2b-util-linux-minimal-2.38.1.drv hmxvs5jh710x9kcpcnga0grkxzfyl7hh-pkg-config-wrapper-0.29.2.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv km9a2xvviq615zcwk6qzp4bcaklj00ad-libunistring-1.1.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv qga9w38c5qj2h99kwjd3wyadd081gs9n-dns-root-data-2019-01-11.drv rvv4wn5mx4ip30yfizn15qgarma5rzg2-gmp-with-cxx-6.2.1.drv s1dbdvpdl44vh1xwn5mjdz2bcdxyf0a8-nettle-3.8.1.drv s1ybmz2gv1lj3biw9r15cxkdm7fas09r-which-2.21.drv sgwv4761lydgnyg3wh3nffasypd8xbh2-net-tools-2.10.drv shb9qmf06c1921928ghdfhr8ckc32v18-libtasn1-4.19.0.drv wfnw2gdabjyr24qjwrwa9rs2p7da1mc8-dummy.crt xhzzllisin4msvdkf20vynaav00yycyx-p11-kit-0.24.1.drv yi883z7a7ak8y9fdycgh8bjvah8swqp3-lzo-2.10.drv
+CA: text:sha256:0drpj08b354jdavvdap8s2kwyww1mlf6mv0xgmab57c7pa60w6lb

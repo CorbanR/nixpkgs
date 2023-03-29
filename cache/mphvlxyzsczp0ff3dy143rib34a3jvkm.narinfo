@@ -1,0 +1,9 @@
+StorePath: /nix/store/mphvlxyzsczp0ff3dy143rib34a3jvkm-c-ares-1.19.0.tar.gz.drv
+URL: nar/07kwfnwc4fzdjsn2vvgz0vfph2qdj4v3mwwksipz6pyqgcla34gl.nar.xz
+Compression: xz
+FileHash: sha256:07kwfnwc4fzdjsn2vvgz0vfph2qdj4v3mwwksipz6pyqgcla34gl
+FileSize: 1308
+NarHash: sha256:0ihw80ygynmjbfplma4fdi14p7i0jfixhxrxwwcdmk9z003bgx0q
+NarSize: 3000
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
+CA: text:sha256:1a7j3kylcgjxzmqzw3cnpqfpxj9j2df4l37h5bdgx4xmfscb5pv0

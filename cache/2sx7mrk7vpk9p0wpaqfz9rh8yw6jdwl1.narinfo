@@ -1,9 +1,0 @@
-StorePath: /nix/store/2sx7mrk7vpk9p0wpaqfz9rh8yw6jdwl1-binutils-2.38.drv
-URL: nar/1q2xsml8d0p1xjcgda93qf5dd745dr4dqg8gfdgfx8gzswymmxwx.nar.xz
-Compression: xz
-FileHash: sha256:1q2xsml8d0p1xjcgda93qf5dd745dr4dqg8gfdgfx8gzswymmxwx
-FileSize: 2348
-NarHash: sha256:1bkrl8dkn9w3c31y5ha2ivldlr66y4308jqm1jpgqabsajlzlrcc
-NarSize: 5440
-References: 0df8rz15sp4ai6md99q5qy9lf0srji5z-0001-Revert-libtool.m4-fix-nm-BSD-flag-detection.patch 0p1bf2vad7k44zmzy95nv8qbn11pf0kv-deterministic-temp-prefixes.patch 1r9i4rnm4ily6pp0iygw16ar3dwy32gy-binutils-2.38.tar.bz2.drv 70m2nvc60xjmalkm6jdjw1sns2n215fi-bison-3.8.2.drv 7w8h8n4kkikxmwqzymlrkrljmvmafbm7-gettext-0.21.drv 8hyxacv0ld8m8jkxpdvwkmdj7v2ga1z7-clang-wrapper-11.1.0.drv 8n4wr9w5r3byz9n1f4cd4q8kqxq7mp96-autoconf-2.69.drv 90kkyylc8lngl6fj7ldnil099xad71gd-bootstrap-stage4-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh gjj5q9vgnw2w4li26l1r7255fc61m01q-texinfo-6.8.drv iwnp6ry2xxzs59xcx678qpa311lpxl25-perl-5.34.1.drv l7lq93xk23nzga4rkm2gdzzzdhi9k70x-automake-1.16.5.drv lgniihp1bk6mkd5nn9y5ikfim2ignr52-0001-libtool.m4-update-macos-version-detection-block.patch pa83jbilxjpv5d4f62l3as4wg2fri7r7-always-search-rpath.patch qz43zcyfy8am565lm8b7q45vrf96c7dx-libtool-2.4.7.drv sqbhaaayam0xw3a3164ks1vvbrdhl9vq-deterministic.patch x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv yg9cplf13bk7j9dqjym1dpc0qgrpy5hr-zlib-1.2.12.drv
-CA: text:sha256:0zjf4wnwl5rx6jn91wj5h7yhxsxaj2y8q9x1ly929zna1ifdz8by

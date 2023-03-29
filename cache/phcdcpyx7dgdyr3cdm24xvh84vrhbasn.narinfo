@@ -1,0 +1,9 @@
+StorePath: /nix/store/phcdcpyx7dgdyr3cdm24xvh84vrhbasn-compiler-rt-libc-11.1.0.drv
+URL: nar/0vsk13190l07rhd7zwnfwgdszcx7knwgrr3r4wpvrjl7xvn7maqc.nar.xz
+Compression: xz
+FileHash: sha256:0vsk13190l07rhd7zwnfwgdszcx7knwgrr3r4wpvrjl7xvn7maqc
+FileSize: 1680
+NarHash: sha256:1smh5kqikvi5xxrl536yh7ql4k9hn8k9a7l3b0j0dnfjlx27msiw
+NarSize: 4240
+References: 3ic95d8vv23cdj4vq7634zh5zcdsda1p-normalize-var.patch 3m53ki7pr92hacq8mghsldg1wc4wrifm-codesign.patch 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 706qcmh667cmjwffc4vbjs9c745c7hs0-gnu-install-dirs.patch 8mvcwn96881p7v9zgjgl6n37128ppfig-armv6-no-ldrexd-strexd.patch bzci5ph1kd8kcpjims9d9jv87z730n8s-libxcrypt-4.4.33.drv cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv frkrq5gbyq7qxrvf6al1m70zi81bqfmr-llvm-11.1.0.drv j9lspxnlbkrcskxpxg7q6nb74wnn6v2b-darwin-plistbuddy-workaround.patch jd7mnr62kxgks1rwnrrfg22vwnggkpxf-armv7l.patch jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv jl211i76zlx7arawvv1pva3kx82n7yf9-compiler-rt-11.1.0.src.tar.xz.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv rd6gan216l9rm9xs5whbkzsc6c6kqq31-armv6-mcr-dmb.patch szp08bm3rfwy2ximrfdmnl6d0mbvpln4-cmake-3.25.3.drv wfbzv6p35wfg394qapwq27rc5k71ppix-armv6-sync-ops-no-thumb.patch y87vwjq5v1fi0d077xqrsnkqrax3p4iz-libsanitizer-no-cyclades-11.patch ylv0v02l6panidz2hkh756fz363yc68h-X86-support-extension.patch
+CA: text:sha256:0rq570y9ri5xg1wpck756ls9chpp9qad3nlz2rgyw0xwl1ba2dp1

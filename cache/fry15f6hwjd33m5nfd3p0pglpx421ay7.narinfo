@@ -1,9 +1,0 @@
-StorePath: /nix/store/fry15f6hwjd33m5nfd3p0pglpx421ay7-nss-3.68.4.drv
-URL: nar/017rgrgzjdkgv1xkx35p2nsld2wv6phf4a4by3hqh6dh2hr4lwaz.nar.xz
-Compression: xz
-FileHash: sha256:017rgrgzjdkgv1xkx35p2nsld2wv6phf4a4by3hqh6dh2hr4lwaz
-FileSize: 2744
-NarHash: sha256:1nijw0s474j6b0b01yyw5mmlcvgdsm6bxxzv1z9nfgqrgj4yqn6w
-NarSize: 6544
-References: 06xps7mamhq7adn8s5kbr84pc8ncx9nv-zlib-1.2.12.drv 6pwa4wdza3savbx84mzmph9wfgrh7c90-ninja-1.10.2.drv 90d7z1chvfhhpaf08yfz5askimdbcbvp-nss-3.68.4.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a5skdyvh7a4iap5bpvlrxfq68y330xli-fix-cross-compilation.patch bp2d23ib1sqvimz8ny15y1bkwj0r2f67-python3-3.10.5-env.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv d1nqisym0lc34g1bzn6dc161n28y3i62-85_security_load.patch h4x5l3x424fb3vp8892ppnv89jzj8ypi-gcc-wrapper-11.3.0.drv hwfrqnji6b6mjp6b6p2i1fcrkfgcnbzh-nspr-4.34.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv pp9ld04adz7j9gpivdgwd1l5f36b89k3-sqlite-3.39.0.drv r8b46bf8m04lkvnj6r8ydgqblv0qmmp9-perl-5.34.1.drv xcldda7ghrxd3c3hgj3z8jd6vwnvdzl2-nss-3.15.4-pem-support-20140109.patch.xz.drv yn8zz3jvnan2p4rd52k4797aznjfmgd6-ckpem.patch yrk8473l7qvcv3j92ingm276ipa7l570-p11-kit-0.24.1.drv yzn1a0zmrbh2fdhjwrgdjxvil7mxiwms-coreutils-9.1.drv
-CA: text:sha256:11v30y285ypm85mzpmpjv32h69czngzplnv3rjz62qqz4964grj6

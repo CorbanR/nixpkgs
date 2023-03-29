@@ -1,9 +1,0 @@
-StorePath: /nix/store/896ji3ynxi12mcn0rk85avsisjyzaw30-allow-import-of-previously-known-keys-even-without-UI.patch
-URL: nar/0gm0vlspvw0fgim64204j00jifv9k1dd3qmdq68s2di5cs6571dg.nar.xz
-Compression: xz
-FileHash: sha256:0gm0vlspvw0fgim64204j00jifv9k1dd3qmdq68s2di5cs6571dg
-FileSize: 1508
-NarHash: sha256:0v9cvfaqybhw2f2m28dbk0hxy6biwxqw85zksn0gkggq0xliw295
-NarSize: 3376
-References: 
-CA: fixed:r:sha256:0v9cvfaqybhw2f2m28dbk0hxy6biwxqw85zksn0gkggq0xliw295

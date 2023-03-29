@@ -1,0 +1,9 @@
+StorePath: /nix/store/w7skf8sw7gga9a5l80mrfg4gnq6amp97-Test-Deep-1.130.tar.gz.drv
+URL: nar/00sfxd28gbnabjap7dm8h9l54ynh20dxmf886hfmxdlwf8vh0y37.nar.xz
+Compression: xz
+FileHash: sha256:00sfxd28gbnabjap7dm8h9l54ynh20dxmf886hfmxdlwf8vh0y37
+FileSize: 1316
+NarHash: sha256:1vygnd08dfydzmrrylr1wgawmdlhwkm7kl3x1828sayb5zksicyy
+NarSize: 2984
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
+CA: text:sha256:0ccw1fyjf85hjr15nm6i9wsmr1kg1yjw1m6kx1mhczjli1yvbxhx

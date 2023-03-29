@@ -1,0 +1,9 @@
+StorePath: /nix/store/zggkzi0kvkg61v4xnv988vvv6gbv2178-patchutils-0.3.3.tar.xz.drv
+URL: nar/00swdy22lfymywj8h8w2g35dwq0pz82ys17vdhfhwy8zmz5dx45m.nar.xz
+Compression: xz
+FileHash: sha256:00swdy22lfymywj8h8w2g35dwq0pz82ys17vdhfhwy8zmz5dx45m
+FileSize: 1320
+NarHash: sha256:07kjzcjykvdhanql87hwxx54vb25jkr38dy3vrj9fzzmfm3ydzxw
+NarSize: 3032
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
+CA: text:sha256:1k4bkmn1jrbyrinzhsbxx8m58wif31wsfxl3navr1ps7kgjr4wr6

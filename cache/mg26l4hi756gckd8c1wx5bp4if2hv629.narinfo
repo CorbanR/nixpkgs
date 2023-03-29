@@ -1,9 +1,0 @@
-StorePath: /nix/store/mg26l4hi756gckd8c1wx5bp4if2hv629-python3.10-buildcatrust-0.1.3.drv
-URL: nar/1jyimvgimin6z833x3207sy9wrhvwanpphm76r7aw4xl7lc0rcms.nar.xz
-Compression: xz
-FileHash: sha256:1jyimvgimin6z833x3207sy9wrhvwanpphm76r7aw4xl7lc0rcms
-FileSize: 1728
-NarHash: sha256:0wxmpp0d275c0q5v401hgmv159a062cgq5ffq9wpcxhnqxa0nxfm
-NarSize: 4008
-References: 0jp3yvaa6f0y5ibl4s591knawhzjcc87-python-namespaces-hook.sh.drv 0yqzy7cdgrjx18ap6pgi1myfk1i3225m-python-remove-bin-bytecode-hook.drv 72xvqk64sdxq5v1vhywafx2smgri50cy-pytest-check-hook.drv 9c1x18y3zjcqd61rii1ylj6fqzxb6jym-python-catch-conflicts-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh axnb3f8jrin86pfa586waxb0kb09rwka-setuptools-setup-hook.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv fjzksics23hlkpvw7xzh4nqi5zvxwmgf-python-remove-tests-dir-hook.drv i7qnz0jw6wicsfmzr32y14i3567nznxn-buildcatrust-0.1.3.tar.gz.drv jcm8jhrj809xnv37r9dbzryydp2dn7ml-python-imports-check-hook.sh.drv krss2ziyzvim7i9bxcjjz9qg5j6m845m-hook.drv n2akaq46dr3gbrmrrv7vcz85rhikrdni-hook.drv r08f587ni59f57df8k5hx1ivql6x7brb-python3-3.10.5.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv xhs43jnm9dck3lkv7n5mikyywsdd9xca-setuptools-check-hook.drv ynvpz6c45mq54a0a5ghcrcd7lbgira5n-python3.10-setuptools-61.2.0.drv z8lphm5m425zxaa2wrq6nbxzrb1a5v4g-pip-install-hook.drv
-CA: text:sha256:0ayyj2g8mm5ci8372wzlxr2i53xzawbdzbxpddlcq34a1hp7s56n

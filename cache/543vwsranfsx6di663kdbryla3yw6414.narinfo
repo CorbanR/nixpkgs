@@ -1,9 +1,0 @@
-StorePath: /nix/store/543vwsranfsx6di663kdbryla3yw6414-llvm-11.1.0.drv
-URL: nar/05dkwsh1fyn63q36ksrzk5d0fmkvvkb1hdf7dil5yy7xrwx3jqwg.nar.xz
-Compression: xz
-FileHash: sha256:05dkwsh1fyn63q36ksrzk5d0fmkvvkb1hdf7dil5yy7xrwx3jqwg
-FileSize: 2836
-NarHash: sha256:10nb79b9hsvwza8lx1lp5mbylim2p6p903wjvcjdmf0rz4qqadhl
-NarSize: 6656
-References: 06xps7mamhq7adn8s5kbr84pc8ncx9nv-zlib-1.2.12.drv 20b2yhk02v1riq1fhxn8mqxr6kal6qk7-uops-CMOV16rm-noreg.diff.drv 406m2gvcms42npk8kmd1zfs027dmn96r-python3-3.10.5.drv 40y377a2w1hih5dwhxa8fqd7lk40rqzn-b498303066a63a203d24f739b2d2e0e56dca70d1.patch.drv 5yl5407h5il8lwx2bws3yigiddc3jrsy-polly-11.1.0.src.tar.xz.drv 6wv8acdd7bm7npixgr3rk86mf55fj47c-llvm-config-link-static.patch 7shn1rryzki5amaq6f571qnb1qh9pj4d-libpfm-4.11.0.drv 9fd3xdcfv1dw93y99a18lw735fx8kvgy-gnu-install-dirs.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv dsqkqzwmhr0sl7cv3bvkw5ahlf7lp63z-dfaemitter-gcc-12.patch.drv dxzy09kyi4xrg91x205b3gal1986mnp5-libbfd-2.38.drv gy1wsigghb1kmgdav78k3czlzvhyy3fn-libxml2-2.9.14.drv m8vr0961iy6h0z6rqw5bc7gc9bvyfz87-nvptx-gcc-12.patch.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv qajs39jxzvsbwaf8lnwgk0205dr214j1-libffi-3.4.2.drv r80acwp5y7jqrz0wzpzsbp1rxjxc4qp3-llvm-11.1.0.src.tar.xz.drv ra9hzh1gkrbk867gaa58yhy1imknmamq-ncurses-6.3-p20220507.drv sc7fjfyca9wzpfsz434jnykgssyp7gy1-cmake-3.23.2.drv
-CA: text:sha256:11cixb5cl2md10w3kkrsvrbayypx3dlr32wqjcfyb8dvqjna75vc

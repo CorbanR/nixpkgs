@@ -1,0 +1,9 @@
+StorePath: /nix/store/3z4j79p6z14bhk0pjrb9xjxa1ffxy253-docbook-xsl-nons-1.79.2.tar.bz2.drv
+URL: nar/0szh8iam0cnhpfhhw8qhdqmv66qjvj36wz9855c764hx61k38qji.nar.xz
+Compression: xz
+FileHash: sha256:0szh8iam0cnhpfhhw8qhdqmv66qjvj36wz9855c764hx61k38qji
+FileSize: 1348
+NarHash: sha256:0wj975x5wa7kc3vb8fgiw1sfbr1q6gxxmywfjy828vrrrngb9p84
+NarSize: 3096
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
+CA: text:sha256:0c3cd9q9wwiv9m46hr7pdxkwm0x1panfpbgga7hxwk3fdg54f3g7

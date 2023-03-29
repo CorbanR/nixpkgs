@@ -1,9 +1,0 @@
-StorePath: /nix/store/c6gfly4kk8sfvqvzjcv8nbyjcagg1sdb-llvm-14.0.6.drv
-URL: nar/16k92d7dkr4k6xg1jb9mf2zh6hsxay69sb3vdpsrbmagm560q13z.nar.xz
-Compression: xz
-FileHash: sha256:16k92d7dkr4k6xg1jb9mf2zh6hsxay69sb3vdpsrbmagm560q13z
-FileSize: 2192
-NarHash: sha256:07ak16rv9294jhkdnihxcil492f9yl3h248rg35g30gxkq8w70fx
-NarSize: 5216
-References: 8ljcbj21a90h4wfnm82flpylflf7ac87-cmake-3.23.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv ls4ipvw2rksl767hszarffwkp7div0yr-gnu-install-dirs.patch lzxggd145l3359bd6byzfq2iwn463dfd-libxml2-2.9.14.drv pkh5gw4gm6cyk0gl4z0zjvy18p5qgl2q-libffi-3.4.2.drv q65x7h02nbf4x8xcf83r49mck43jxwfq-ncurses-6.3-p20220507.drv r08f587ni59f57df8k5hx1ivql6x7brb-python3-3.10.5.drv r7l1x3x1w3s6y2v5kdfbqv1bv99k3dm7-llvm-src-14.0.6.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv yg9cplf13bk7j9dqjym1dpc0qgrpy5hr-zlib-1.2.12.drv
-CA: text:sha256:1z7kfzgwjnd7vjdn709l47n6wq1bdy8lnrh6ad9rap5hnsp7p2qp

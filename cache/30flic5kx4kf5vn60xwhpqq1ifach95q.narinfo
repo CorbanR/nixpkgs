@@ -1,9 +1,0 @@
-StorePath: /nix/store/30flic5kx4kf5vn60xwhpqq1ifach95q-coreutils-full-9.1.drv
-URL: nar/00qh5i3nh66viclw4w30z23g5lg9d6kpkzcyin0lmdamn27h5c6d.nar.xz
-Compression: xz
-FileHash: sha256:00qh5i3nh66viclw4w30z23g5lg9d6kpkzcyin0lmdamn27h5c6d
-FileSize: 2136
-NarHash: sha256:00x3rjq1lypcxnjwz7wlaj83qg5fb3kr0nal4wls19vnxzcdr7w3
-NarSize: 4936
-References: 0h810j7rjcs4gad691nhhm5w88cnj4yv-openssl-1.1.1q.drv 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 1dsdav87g9wpg1lbnfxdbjffdzxhxs8z-acl-2.3.1.drv 2xamd8665gkysdw42xnh3xjavvh4mviz-attr-2.5.1.drv 5dzcx2f8922hyw8xsim7sfbn0wwk69kn-perl-5.34.1.drv 6jhs2d9bg370ycmqbawn7wahy766xv1b-gmp-with-cxx-stage4-6.2.1.drv 8y1x4bg35d30z4lc6qc26wdkxlq6kasw-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh c7j8r8giys0dmxrk0cy1kxjh10jjrqiq-xz-5.2.5.drv ikmqczy0y20n04a2b8qfflzwihv8139g-separate-debug-info.sh j86wp62svy9k5zm7hqsa8127x9bl20l9-coreutils-9.1.tar.xz.drv wlgf03zhg4s0fysc8bl2k7f1pkipgjb1-bootstrap-stage4-stdenv-linux.drv
-CA: text:sha256:19hvmq8h7nmm8yw09s5nf8izihc97kzgr93lxkclc5xd5x2c378r

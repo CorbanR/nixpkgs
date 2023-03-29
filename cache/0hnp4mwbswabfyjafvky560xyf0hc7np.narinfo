@@ -1,0 +1,9 @@
+StorePath: /nix/store/0hnp4mwbswabfyjafvky560xyf0hc7np-ruby-2.7.7.drv
+URL: nar/0apjfjknivrf8xg1ngvyzrvcah2bgrscjp6px48jpc5mxhkrj5x8.nar.xz
+Compression: xz
+FileHash: sha256:0apjfjknivrf8xg1ngvyzrvcah2bgrscjp6px48jpc5mxhkrj5x8
+FileSize: 3920
+NarHash: sha256:14ikrwnk5n0pp27qwcafqvmci645lz5l9r6gpdr8kdpb2hzycdk5
+NarSize: 9160
+References: 0ysc0pg3p07q0ihmxi80l3vzpldz7agv-ruby-2.7.7.tar.gz.drv 15j86cw1y89msdxcrxfynm24zxwk8yqf-clang-wrapper-11.1.0.drv 1w1dg8j73dih7lcagr47rgvgdgiy3jpc-rubygems-3.4.8.drv 3clqklgrjn30g5fc7jzglfwi4rrd5kfm-objc4-709.1.drv 4gizpkprg5sgbfd551m5dq4pgpxsafsn-261d8dd20afd26feb05f00a560abd99227269c1c.patch.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7wjdl6xx61nd5gyd3jfmsl7mdh4aayp3-autoreconf-hook.drv 9nrf6vvv97r84jkaf9q01vrnazrhgkkk-zlib-1.2.13.drv axq0jdwjvwxbh925442j3abxs92pqc7g-libunwind-35.3.drv d00vwhmdwj00pvnjwlksrkd88zwzi8mk-rbinstall-new-rubygems-compat.patch d5zv4sfq7xfz99flihjvmvawzafvx0g8-openssl-1.1.1t.drv g2gv7ccs69sjw7j4zh9wb3ykjydm1gcg-autoconf-2.71.drv h0hyifj4abmqsfs5j8sjzwqgs43s35kl-libffi-3.4.4.drv hqarzhp1wlqxiky21a605v3j1vjw18gl-readline-8.2p1.drv i81rrf5kyj1wzksirpdxh2836v1012j4-ncurses-6.4.drv ijj25cx44pa58m70413h2kmwgak7ymvk-gdbm-1.23.drv iypnq8ww1axzvn6y21m0wl8jyvx6b25b-stdenv-darwin.drv mccw2fr7qrgwchgxyq2lsv9kaw6mqz1w-apple-framework-Foundation.drv pyyribywr42aisxywg4pw4kn2wj431fl-source.drv qprq1q1ka0zsdsw1x20dd5596l0w40c4-bison-3.8.2.drv si2b1s85xxca5ixz8x890q4l63ljys0k-remove-references-to.drv v1wmn22g6sr8sszr7y1fhki0az1gajxj-groff-1.22.4.drv w7yayg65p8vvi97a2952bpvq7rfwnszp-do-not-regenerate-revision.h.patch wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv wq7zxvl223s5s97y3dhc3gkyk5d6dw0w-rbconfig.rb xsi567hcp9f6nqkvvsk7pc1bb638d6x1-libiconv-50.drv yxjlpqg1s8i1fz62g3r9v6gx7c51s00a-libyaml-0.2.5.drv
+CA: text:sha256:1qkab26f7di8bhj2zc9bna4n28ka3v9f0ssms92jkapwaydndcz9

@@ -1,0 +1,9 @@
+StorePath: /nix/store/n7vcq4v8fzvqll5zw3wdxhwivrzzzgim-python3.10-pytest-7.2.1.drv
+URL: nar/0b3q4caq15lzia2822bmmafblfca79m78hn8wv9wybvgfqk3p805.nar.xz
+Compression: xz
+FileHash: sha256:0b3q4caq15lzia2822bmmafblfca79m78hn8wv9wybvgfqk3p805
+FileSize: 2148
+NarHash: sha256:0qmjj214czf1ayjvs07x442mn1g2c02m7h2afgpj7nnvq0sl6g6y
+NarSize: 5240
+References: 1i0ixszrc2r03rfh3iwhfbi2f4x52wcf-python-catch-conflicts-hook.drv 1zkjidgsyf1b09kbiksghlcifb390grv-pytest-hook.drv 2rfw6rcijjdm5x4jlw7r61pj9f6knccs-pip-build-hook.sh.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8i6cw8wgjqhkpcbn3i1k5czs1jj62g0f-python-namespaces-hook.sh.drv 9ldjr0zdj3qvmjbn8ynxgdg7h56lx4zx-wrap-python-hook.drv 9nzi0hc1xfghmydfl7z0m80ax0sjh0mm-python-imports-check-hook.sh.drv a023vh4zi7cmjrrj78r5h989kgrk8573-python3.10-attrs-22.2.0.drv cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv gcbzj2g14iqfpcii8v7kvrxjs77l09as-python3.10-tomli-2.0.1.drv gj5b7mhj1brg955a1rda96ls8wicy5f2-python3.10-packaging-23.0.drv janpl6hndqc4c8n65af9m3dsvi2rxy7g-python3.10-py-1.11.0.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv lnggry4lxi9zrmrbha7wffvaik5b9amr-python3.10-iniconfig-2.0.0.drv nbwz2pkcfil2ibp3wmcrnc99gisndcmg-ensure-newer-sources-hook.drv nsp49j4gaj67csflfh9v3wp2y87p1g82-pip-install-hook.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv s3k27g1ndq5zk71882p97ary76xj36zp-python-remove-bin-bytecode-hook.drv x8afnl0gcsqbkg0v4s7iqgxd8mknzdd8-python-remove-tests-dir-hook.drv ya58khaazbr20frjklbmf74lwr9ypfl3-python3.10-pluggy-1.0.0.drv yh28kszsmr5i9birvwai6dfvj4iq7q3a-pytest-7.2.1.tar.gz.drv zay2p712hcja4l7v9xm9a3sdmr7pcxd8-python-output-dist-hook.drv zbwv64g4m9j3hmrh27y05z7d19lgwry1-python3.10-exceptiongroup-1.1.0.drv zsib4zy7zwzznv72smkg883fpalw98dd-python3.10-setuptools-scm-7.1.0.drv
+CA: text:sha256:1m375rhnagrrd2g7k31yfp24p3fhmpibwxpzc46sjig67kszh4p4

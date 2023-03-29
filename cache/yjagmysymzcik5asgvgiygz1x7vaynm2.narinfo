@@ -1,9 +1,0 @@
-StorePath: /nix/store/yjagmysymzcik5asgvgiygz1x7vaynm2-graalvm-ce-java11.drv
-URL: nar/19mhcfd8nqz6vknjg99a9cmqwgr2pyxmg1xi4578wv9pajsc4snh.nar.xz
-Compression: xz
-FileHash: sha256:19mhcfd8nqz6vknjg99a9cmqwgr2pyxmg1xi4578wv9pajsc4snh
-FileSize: 1700
-NarHash: sha256:11npgqx4nr63plx4c81mpkwvzxmnm62ar604w4jhf5z6aiyikzgh
-NarSize: 3928
-References: 7ic46i8sbsd467rpamqmb4h9wppysqdd-native-image-installable-svm-java11-darwin-amd64-20.3.0.jar.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9s0jjz76mzn3rixy0x1aiaiikmdb2dnc-graalvm-ce-java11-darwin-amd64-20.3.0.tar.gz.drv b1flv1036nvdvg9kzba4fywg5aa8vq3v-llvm-toolchain-installable-java11-darwin-amd64-20.3.0.jar.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv jfrgdcpm44cn2vrc33p29nvvlpd1222a-hook.drv p3walafz5kh4lk65hz35b27x2dz980bq-wasm-installable-svm-java11-darwin-amd64-20.3.0.jar.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv yg9cplf13bk7j9dqjym1dpc0qgrpy5hr-zlib-1.2.12.drv
-CA: text:sha256:0wnvxivgc63kn5sdkzwsmnw821qqsb58acwpfvdmmxw8sjv29x5y

@@ -1,9 +1,0 @@
-StorePath: /nix/store/3l48dr6m7ii20ggcvymxzj7i407diqz5-gemfile-and-lockfile.drv
-URL: nar/1rvrclny8j9l6iimrx3i4y8w53gbbbsn52cxlj19jhavcg2w525q.nar.xz
-Compression: xz
-FileHash: sha256:1rvrclny8j9l6iimrx3i4y8w53gbbbsn52cxlj19jhavcg2w525q
-FileSize: 760
-NarHash: sha256:1czja0n9saz94r6l5is952mdzdch2jflvlamcqpcd99fwwm68cs9
-NarSize: 1768
-References: 12hnhzrficsggsz6c57kzsw2cflh3xch-Gemfile.lock 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a9rvvadmafbqh3l7gkd910v8w1bj9ssh-Gemfile bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv
-CA: text:sha256:0dv0h4pqgng0cj8wmjk9jg5gp5z21d79h13ih0p5c4i4g9lzalkq

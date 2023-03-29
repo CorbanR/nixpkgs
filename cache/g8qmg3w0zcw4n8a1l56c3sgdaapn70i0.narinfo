@@ -1,0 +1,9 @@
+StorePath: /nix/store/g8qmg3w0zcw4n8a1l56c3sgdaapn70i0-xmlto-0.0.28.tar.bz2.drv
+URL: nar/0w3ccpl78xnsqkx90s5lbqpcdphlbl5skvkpqmayy5slhr0rmk2z.nar.xz
+Compression: xz
+FileHash: sha256:0w3ccpl78xnsqkx90s5lbqpcdphlbl5skvkpqmayy5slhr0rmk2z
+FileSize: 1312
+NarHash: sha256:1fcy2sh7iccjsvrj7mzc3mc3a46vbcg0n8yn1njs9f5sidlrgbj9
+NarSize: 3000
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
+CA: text:sha256:12xj1vlqsa40xpmmckifdpkns5xvn172y1wmayyw2psvx7rr8yjl

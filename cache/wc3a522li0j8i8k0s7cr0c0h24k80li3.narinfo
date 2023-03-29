@@ -1,9 +1,0 @@
-StorePath: /nix/store/wc3a522li0j8i8k0s7cr0c0h24k80li3-llvm-14.0.6.drv
-URL: nar/0p2n8mq8idwgg2v84pb9ik009ygp2cvmhmq0jhrh6qa4cz55m491.nar.xz
-Compression: xz
-FileHash: sha256:0p2n8mq8idwgg2v84pb9ik009ygp2cvmhmq0jhrh6qa4cz55m491
-FileSize: 2164
-NarHash: sha256:1hpjz8jdigy25i160x80icpibplyllddyjyl08hnfflg8a9mml70
-NarSize: 4976
-References: 06xps7mamhq7adn8s5kbr84pc8ncx9nv-zlib-1.2.12.drv 2sz1whb6s9409i2crcy2n6i8yi2gvzid-which-2.21.drv 406m2gvcms42npk8kmd1zfs027dmn96r-python3-3.10.5.drv 7shn1rryzki5amaq6f571qnb1qh9pj4d-libpfm-4.11.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv dxzy09kyi4xrg91x205b3gal1986mnp5-libbfd-2.38.drv gy1wsigghb1kmgdav78k3czlzvhyy3fn-libxml2-2.9.14.drv ls4ipvw2rksl767hszarffwkp7div0yr-gnu-install-dirs.patch lslqhzvnd9xc4agdkbhib9ws7w3q018j-llvm-src-14.0.6.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv qajs39jxzvsbwaf8lnwgk0205dr214j1-libffi-3.4.2.drv ra9hzh1gkrbk867gaa58yhy1imknmamq-ncurses-6.3-p20220507.drv sc7fjfyca9wzpfsz434jnykgssyp7gy1-cmake-3.23.2.drv
-CA: text:sha256:0qw9xdc00yf2faf0gab4cn2v0m0ixw42sscsaz2h3zh99czzfhiw

@@ -1,0 +1,9 @@
+StorePath: /nix/store/a45804mvdn99fz2f0px5jsdc3rqgr7nv-setuptools_scm-7.1.0.tar.gz.drv
+URL: nar/1a1gp2wybdf75v0kjvizwp4rds0sla877saz54fh9c6xj1aad6m9.nar.xz
+Compression: xz
+FileHash: sha256:1a1gp2wybdf75v0kjvizwp4rds0sla877saz54fh9c6xj1aad6m9
+FileSize: 1304
+NarHash: sha256:05x6klx1ykpiq3i5q0nnjg9szdbvz6fc4fa6zhq33s6gj8q9ykqa
+NarSize: 3000
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
+CA: text:sha256:0cgi0hb7k9n1y7yp35bqlirxirq1iak9fzybwv1jzhzbxm5a4wgn

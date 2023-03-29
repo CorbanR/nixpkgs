@@ -1,9 +1,0 @@
-StorePath: /nix/store/1crgkncfijmqca7cw9xvydr6vs4lkaw0-cmake-boot-3.23.2.drv
-URL: nar/1nlxa4vw1z8n9kzmh6zzvyamqxvcw0d2pg91k8v2i0dqv5g39shf.nar.xz
-Compression: xz
-FileHash: sha256:1nlxa4vw1z8n9kzmh6zzvyamqxvcw0d2pg91k8v2i0dqv5g39shf
-FileSize: 1736
-NarHash: sha256:1ms08d24w15zh2m9pwwiic8x921nz1wirai22hnygz0irigiv5dk
-NarSize: 4512
-References: 05ck4gsf2wp06sr5p8lc1q1lsk8pp1zn-ps-adv_cmds-119.drv 28pw4qh0bjikg62wvklk3a04ssx37435-pkg-config-wrapper-0.29.2.drv 34qn4by9lqrri323ahm5vizv6bgsbhfn-006-darwin-always-set-runtime-c-flag.diff 5ghdlxgkqsrp1nlcxzbcpvqi37d87m83-bootstrap-stage1-stdenv-darwin.drv 7hm9g3jaz77pkm7wihhd1sqcb0575s8a-cmake-3.23.2.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cy9r6mmdmdbvkrd86yi49cg3p9gy32jq-bootstrap-stage0-clang-wrapper-11.1.0.drv djgfsrkfrrwrcgawqy6mqi6g3xj1yx1m-setup-hook.sh fm9b1wr5qfnj8vq83a2yr9001q0cj3rc-001-search-path.diff k845qxmkbra9fc4628lpi0q8yjmc1sx9-005-remove-systemconfiguration-dep.diff ri7qddqm02y0w2g43zqqz8lzy2pbdgrk-002-application-services.diff rq41inv92jszcs5x62nc5cci5hapbjpw-003-libuv-application-services.diff v18cvsmx11ny3k9245gs6bh56ry291b6-bootstrap-stage0-Libsystem.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:1nj8bz6dmc0vmw20x1i9xji3v7makhcnsiw0gihmdz1mrdvymwaj

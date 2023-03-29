@@ -1,0 +1,9 @@
+StorePath: /nix/store/27r90ckic0vqrfr486qz31ixd58ms90m-groff-1.22.4.tar.gz.drv
+URL: nar/1fcplsczdnif73d9mzyjp4dx3ghdq8d8lvf6c3y62m4cn4jla8g0.nar.xz
+Compression: xz
+FileHash: sha256:1fcplsczdnif73d9mzyjp4dx3ghdq8d8lvf6c3y62m4cn4jla8g0
+FileSize: 1304
+NarHash: sha256:0r9g4fxxm5fhfhqbbd5ygfhz0njw1p99v7hhiibzvpp93hcjcyvx
+NarSize: 2984
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
+CA: text:sha256:0jjb88qlgb143713qczyyis1kgk1amkffmyj5dj3bvv21lk2nz4b

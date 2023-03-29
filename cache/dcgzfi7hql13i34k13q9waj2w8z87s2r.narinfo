@@ -1,9 +1,0 @@
-StorePath: /nix/store/dcgzfi7hql13i34k13q9waj2w8z87s2r-libxslt-1.1.35.drv
-URL: nar/1plvjkpd595rxgiiyngv4avdzqk1k4q0n223xc0c87w1gpppsrm6.nar.xz
-Compression: xz
-FileHash: sha256:1plvjkpd595rxgiiyngv4avdzqk1k4q0n223xc0c87w1gpppsrm6
-FileSize: 1456
-NarHash: sha256:0ngjp02h72815bj6z7nadsx1j704axfrlygi7631f8qz1lndmm6y
-NarSize: 3608
-References: 406m2gvcms42npk8kmd1zfs027dmn96r-python3-3.10.5.drv 582a532ddvkyjbq8ik9ld5dxqnxjq111-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv gy1wsigghb1kmgdav78k3czlzvhyy3fn-libxml2-2.9.14.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv ra9hzh1gkrbk867gaa58yhy1imknmamq-ncurses-6.3-p20220507.drv rhzzqjcy2vd2hfy5z10qcky8qn15j0ig-libxslt-1.1.35.tar.xz.drv v7ckl0ilyvanvzgc558r3c31kps5mrrp-hook.drv xdczp2jf0mdcaqfi0xmsh3ynqkhad1hd-pkg-config-wrapper-0.29.2.drv
-CA: text:sha256:05v46ns4jv70r8aj5hl26b6hr2wwjcr5dl7pil338fjf4warc6z0

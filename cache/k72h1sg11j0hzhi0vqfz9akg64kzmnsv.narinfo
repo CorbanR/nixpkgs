@@ -1,0 +1,9 @@
+StorePath: /nix/store/k72h1sg11j0hzhi0vqfz9akg64kzmnsv-itstool-2.0.6.tar.bz2.drv
+URL: nar/1ysqzlbj812n3isxvpqm2xdww6zrjqqi7z5gpzzvhx7azk03d7qi.nar.xz
+Compression: xz
+FileHash: sha256:1ysqzlbj812n3isxvpqm2xdww6zrjqqi7z5gpzzvhx7azk03d7qi
+FileSize: 1308
+NarHash: sha256:0p32izql1bgzblwkwyx1cc65hg09sfqwy02klxgmw4fr4mj5h55c
+NarSize: 3008
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
+CA: text:sha256:0clsflxdrlbc4ijq0727v6x8nmm3lsmq3jhl74l4kq524rcx345p

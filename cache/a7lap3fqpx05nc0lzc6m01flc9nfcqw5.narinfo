@@ -1,9 +1,0 @@
-StorePath: /nix/store/a7lap3fqpx05nc0lzc6m01flc9nfcqw5-libarchive-3.6.1.drv
-URL: nar/0616ihf67dj230djyxh4p47lzb4jaxcswy6dszalr6bvhiwjk02z.nar.xz
-Compression: xz
-FileHash: sha256:0616ihf67dj230djyxh4p47lzb4jaxcswy6dszalr6bvhiwjk02z
-FileSize: 1940
-NarHash: sha256:13b8k1i15r4jwniy9vzjywy90cbkvfw24hcdl84zsj323smiprqs
-NarSize: 4392
-References: 4zpvb8vysi56rj4kxfrcv0rzv0csvawl-source.drv 5vkngxnkgvpxn7dcc61pi8nkm94k57vp-zstd-1.5.2.drv 81jjl4kk878wp3dcbz4cnc6g2crlyjdh-bzip2-1.0.6.0.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dc6xix3pqm5ak2rkxmxmb3nrqnkvsm6q-openssl-1.1.1q.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv iizs3xazwcp7pb1h01ddsyhpf075r8w7-xz-5.2.5.drv lcs76jhnlfzg73xbr7gs98dan69qf3gj-pkg-config-wrapper-0.29.2.drv lzxggd145l3359bd6byzfq2iwn463dfd-libxml2-2.9.14.drv p5scdmmkq2nqy96gaiikkmfnkrgi557a-hook.drv rd8i1rpjdcrgnpkyblhn0ghx557y4jp5-lzo-2.10.drv rd9qpvjy4b3c83rj3w4n435mp0y3b96z-sharutils-4.15.2.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv yg9cplf13bk7j9dqjym1dpc0qgrpy5hr-zlib-1.2.12.drv
-CA: text:sha256:1p2b7ajvs00jrw0iyj31knvdh0bblc9q7ajv9cxc69w8dja6xi4s

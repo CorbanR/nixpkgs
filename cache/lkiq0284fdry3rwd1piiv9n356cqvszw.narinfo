@@ -1,9 +1,0 @@
-StorePath: /nix/store/lkiq0284fdry3rwd1piiv9n356cqvszw-tpm2-tss-3.2.0.drv
-URL: nar/1i99flgzlg1b0flz4ygzxif3a0j03536qpa1xdd34yv5sc8w30ka.nar.xz
-Compression: xz
-FileHash: sha256:1i99flgzlg1b0flz4ygzxif3a0j03536qpa1xdd34yv5sc8w30ka
-FileSize: 2228
-NarHash: sha256:1laalydggsp6w3a344mmmwwi1f11c4i22m93iqmv97j63qw65spi
-NarSize: 4792
-References: 13pxi421slyvb7fhzlb3fsw4qhvirz24-shadow-4.11.1.drv 2disbhav68lhbgl6r6i31zxxifcm9da7-doxygen-1.9.4.drv 2sz1whb6s9409i2crcy2n6i8yi2gvzid-which-2.21.drv 3b8sq00ymfln2byc05bqdrk7m23gldcs-libgcrypt-1.10.1.drv 6rrfg20g6fky5as082xrgj3qzvi67a66-json-c-0.16.drv 7y38c7ys1g3lxhncs1nj6v9kj7vlsscc-hook.drv 8f4y5jzz9xrdihnyimy4c9rqfqp8dnfg-cmocka-1.1.5.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh awpahlz1g9f0829wma0hsj3z9fz2kp57-iproute2-5.18.0.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv fvy4rrpybwmhisd0s2g5kcn23r0yk9y4-autoconf-archive-2022.02.11.drv h96djwfa6873wi3rwjxcxv6y1f7fffs3-uthash-2.3.0.drv hpqxcz1wfwmhl9abpwxkx507kq722vbs-procps-3.3.16.drv ldfpnqg1crd45xn450nz5sb9a8v10kgr-ibm-sw-tpm2-1661.drv m079w91yzxjxzmixrsm38skqpr9lrngw-openssl-1.1.1q.drv mwfjjpraz78dfif2lpis5fpldwlc5j9c-source.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv r8b46bf8m04lkvnj6r8ydgqblv0qmmp9-perl-5.34.1.drv xdczp2jf0mdcaqfi0xmsh3ynqkhad1hd-pkg-config-wrapper-0.29.2.drv yrrsskydxvc395awm1a3ws1jpbp000x7-no-dynamic-loader-path.patch zvih134g6n0fgwhf6ld4r30263zhif4y-curl-7.84.0.drv
-CA: text:sha256:0xsyj224z2r1ynaqgxn4pvni8yax7x5fpmdw05aw05cdh8dhrfqy

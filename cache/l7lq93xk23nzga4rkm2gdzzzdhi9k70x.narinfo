@@ -1,9 +1,0 @@
-StorePath: /nix/store/l7lq93xk23nzga4rkm2gdzzzdhi9k70x-automake-1.16.5.drv
-URL: nar/0gss9f2am9wl19pf2jvlsi75kn5hsq4rw3dq19sskk82wbrya335.nar.xz
-Compression: xz
-FileHash: sha256:0gss9f2am9wl19pf2jvlsi75kn5hsq4rw3dq19sskk82wbrya335
-FileSize: 1048
-NarHash: sha256:1vb13axnkxyg5i26vcvlk8np3hmmx91chhdspzxq6vsms4vlbrsq
-NarSize: 2392
-References: 4cmjzk8yr6i5vls5d2050p653zzdvmvp-setup-hook.sh 90kkyylc8lngl6fj7ldnil099xad71gd-bootstrap-stage4-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh g2v2llk5d52h80qv0xpbd5yfgcmjcdqi-automake-1.16.5.tar.xz.drv iwnp6ry2xxzs59xcx678qpa311lpxl25-perl-5.34.1.drv jrk7y6x07q88db4fwzc67xv8knhfhza2-autoconf-2.71.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
-CA: text:sha256:0hx0431ifp9jlgka6m8s0j5vckvlml2hgsl28q17d5xqq1gz4pfl

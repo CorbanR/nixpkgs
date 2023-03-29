@@ -1,0 +1,9 @@
+StorePath: /nix/store/bhqaw3yvpa05rqrxrnpaq3c5gn16x5ss-flex-2.6.4.drv
+URL: nar/188jfqpvv89mlk1xsfawghybswdlgg8fjmzzy2apnnjgyn5v673j.nar.xz
+Compression: xz
+FileHash: sha256:188jfqpvv89mlk1xsfawghybswdlgg8fjmzzy2apnnjgyn5v673j
+FileSize: 1304
+NarHash: sha256:07abjck8qy29g1scg6gmkzbw5zd10m27ak9mh92sq8hfvr1bl0zx
+NarSize: 2784
+References: 15j86cw1y89msdxcrxfynm24zxwk8yqf-clang-wrapper-11.1.0.drv 5vkv61qv5a2xhchlwvyh3k5pf9ifcj8j-glibc-2.26.patch.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7wjdl6xx61nd5gyd3jfmsl7mdh4aayp3-autoreconf-hook.drv ar7dddqvyvmw6x5q2n8ydbf3f27xi7mx-gnum4-1.4.19.drv asqrf99f1b3yavz99wf2rszzhvrvi4xy-help2man-1.49.3.drv iypnq8ww1axzvn6y21m0wl8jyvx6b25b-stdenv-darwin.drv ny05ijf8fqd2k7w3aki40qc39y95xxrd-flex-2.6.4.tar.gz.drv qprq1q1ka0zsdsw1x20dd5596l0w40c4-bison-3.8.2.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
+CA: text:sha256:0gfc9fnlf735agw86sfmmnmdkixr1byj2haxg6ji0a71qglw45n0

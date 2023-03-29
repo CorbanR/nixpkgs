@@ -1,0 +1,9 @@
+StorePath: /nix/store/qrf9291x7hf8aangzr3kfzivy9z5h5b5-python3.10-setuptools-67.4.0.drv
+URL: nar/0c6zpayk252ibgy18dn1z97i4fv4zixlbfviqdh2widlcks6ldhw.nar.xz
+Compression: xz
+FileHash: sha256:0c6zpayk252ibgy18dn1z97i4fv4zixlbfviqdh2widlcks6ldhw
+FileSize: 1500
+NarHash: sha256:1mp0xaniy7kr25l6a2wl6nx3hvsj1mfgkcslmhr5d7qhab2jkvvc
+NarSize: 3392
+References: 395wyy38msz0847lg8jpczlzy9l0cbxl-pip-install-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8i6cw8wgjqhkpcbn3i1k5czs1jj62g0f-python-namespaces-hook.sh.drv 9ldjr0zdj3qvmjbn8ynxgdg7h56lx4zx-wrap-python-hook.drv 9nzi0hc1xfghmydfl7z0m80ax0sjh0mm-python-imports-check-hook.sh.drv cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv fq8jdhnkzlnvf95gvl754vkx9kd2sfp4-setuptools-67.4.0-sdist.tar.gz.drv jc85zhxgpcmxm1k3bdgn1gxfv1yl5bgs-setuptools-setup-hook.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv nbwz2pkcfil2ibp3wmcrnc99gisndcmg-ensure-newer-sources-hook.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv s3k27g1ndq5zk71882p97ary76xj36zp-python-remove-bin-bytecode-hook.drv x6x37hiilqy7vfp6wj6yfhvfdwagpqh1-python3.10-bootstrapped-pip-23.0.1.drv x8afnl0gcsqbkg0v4s7iqgxd8mknzdd8-python-remove-tests-dir-hook.drv
+CA: text:sha256:16pqgy5hfh9vh7c8ahymzpnxs3qfk28lm3dalxfaknzgfck2yws5

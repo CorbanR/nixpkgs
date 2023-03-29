@@ -1,9 +1,0 @@
-StorePath: /nix/store/kll5qjy9m3wnl1ff9z19wlwdh6vhdxh1-keyutils-1.6.3.tar.gz.drv
-URL: nar/1156c7a138g4vjz9inznpxp9w8cpwxsd2r6di2jz0gg8ql58nn08.nar.xz
-Compression: xz
-FileHash: sha256:1156c7a138g4vjz9inznpxp9w8cpwxsd2r6di2jz0gg8ql58nn08
-FileSize: 1336
-NarHash: sha256:1wkr6gc3ghjczkj9s7bga5275zznnl57rk21a7wic4p6bp591pdz
-NarSize: 3032
-References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
-CA: text:sha256:1z3h0r04gnvfn1vv7qgdk3vax6ynhcfhsx1aga4zdryz9qfr992w

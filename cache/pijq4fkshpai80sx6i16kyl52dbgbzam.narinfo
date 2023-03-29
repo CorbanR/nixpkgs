@@ -1,0 +1,9 @@
+StorePath: /nix/store/pijq4fkshpai80sx6i16kyl52dbgbzam-binutils-2.40.drv
+URL: nar/0j0h8dmvjarb3lifs6lannkljci95aadq0l31r2skqfv8vf90lnr.nar.xz
+Compression: xz
+FileHash: sha256:0j0h8dmvjarb3lifs6lannkljci95aadq0l31r2skqfv8vf90lnr
+FileSize: 2232
+NarHash: sha256:1jqcq2h25qrdhppd3j8qk7m42d8zkv7yfwyqa00jjspvsjjnm22y
+NarSize: 5632
+References: 0df8rz15sp4ai6md99q5qy9lf0srji5z-0001-Revert-libtool.m4-fix-nm-BSD-flag-detection.patch 0skl9pj00yd4nlnyj5j2hb9lwi03r4in-gettext-0.21.drv 20d5pi1a5i9jj041i0gvr9zcs7bjbw46-binutils-2.40.tar.bz2.drv 408bvj9rzv3jv0faml1r7xlyw8rs4j5j-perl-5.36.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 935s4ihbw5l4ccxdv7q5vxlgk08kcnc5-zlib-1.2.13.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv lgniihp1bk6mkd5nn9y5ikfim2ignr52-0001-libtool.m4-update-macos-version-detection-block.patch p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv pa83jbilxjpv5d4f62l3as4wg2fri7r7-always-search-rpath.patch psjjbw1gk6l0y3h0d6a8gpmzp47qvc0w-gcc-wrapper-12.2.0.drv rf3kjgy7pbvymp55hxw28dg5g937lmcv-plugins-no-BINDIR.patch sqbhaaayam0xw3a3164ks1vvbrdhl9vq-deterministic.patch vq9azpazk09k4arh87a0dwks66mvf8aj-bison-3.8.2.drv xrw086zw3xqsvy9injgil8n2qdkvkpff-0001-Revert-libtool.m4-fix-the-NM-nm-over-here-B-option-w.patch
+CA: text:sha256:01lhjihh45nff8qprw2ia3h1d2xgm99w86id75w591ryblrcniwd

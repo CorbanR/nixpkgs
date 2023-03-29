@@ -1,9 +1,0 @@
-StorePath: /nix/store/2h7n9jn6i88wd350c9bh3r2rmcazspi5-glibc-reinstate-prlimit64-fallback.patch?id=eab07e78b691ae7866267fc04d31c7c3ad6b0eeb.drv
-URL: nar/1mk8yisjzk4pj7xsv2ic6v2dlfh8xmpd2k2nvmdk0jk2zn2ap8cb.nar.xz
-Compression: xz
-FileHash: sha256:1mk8yisjzk4pj7xsv2ic6v2dlfh8xmpd2k2nvmdk0jk2zn2ap8cb
-FileSize: 1368
-NarHash: sha256:14xj2a31pl5l0hx7mzwam9qzshwxa6fjllg2rb52m3qm1yr3jyz3
-NarSize: 3272
-References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
-CA: text:sha256:168fl46a482f41bynw5yfpxhyfx82zmk7qkcjq7iw4g0v6zsxnic

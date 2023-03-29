@@ -1,9 +1,0 @@
-StorePath: /nix/store/7g30wg245yl3zmkhlmz1wn95j4wgiy01-gettext-0.21.drv
-URL: nar/0iy3dxd82jj35pf3k30ida9r8aq7wpdvfbhbk2yaz9hdbwkampz9.nar.xz
-Compression: xz
-FileHash: sha256:0iy3dxd82jj35pf3k30ida9r8aq7wpdvfbhbk2yaz9hdbwkampz9
-FileSize: 1360
-NarHash: sha256:0kp95hjyy3cvd0mk2k0hrcn0f8f6sq73w4rrffy59bqaplylwg3q
-NarSize: 3272
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 34vpnpik7b1fb91gwv8pfw7s7v8yir01-gettext-0.21.tar.gz.drv 797k3249lr4rx8wslf7kcsa3hv6fis3x-role.bash 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh i909svim3ykl1jwdzj763i0i2bpkw3bx-bootstrap-stage1-stdenv-linux.drv m4fb3m8sy958v3hxl5s26kn2v0l9kmvc-bash-5.1-p16.drv ny42y6hs4p294rvnrwbmrpwzqghw2816-gettext-setup-hook.sh p2fp6i7hjx9af1wbwr32k217wp2dxmiw-absolute-paths.diff q2bhbxcv9cfsn3nhkr42a8isaydia0jn-xz-5.2.5.drv
-CA: text:sha256:0rhsixmph3dwrjr1vfndvsjjvvsbcns331fhr9q1yzb6xhk695wf

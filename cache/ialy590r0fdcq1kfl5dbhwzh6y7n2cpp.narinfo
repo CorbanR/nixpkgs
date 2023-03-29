@@ -1,9 +1,0 @@
-StorePath: /nix/store/ialy590r0fdcq1kfl5dbhwzh6y7n2cpp-flex-2.6.4.drv
-URL: nar/0jlb463rx9kzlbpjkn62zf5j25vjy9zgnbgj7nmy69wxn64ik0fw.nar.xz
-Compression: xz
-FileHash: sha256:0jlb463rx9kzlbpjkn62zf5j25vjy9zgnbgj7nmy69wxn64ik0fw
-FileSize: 1300
-NarHash: sha256:0iy46xj1zyj6ll4ch80l3acc3r53pv231631b78jnas9h29i508g
-NarSize: 2816
-References: 5ghdlxgkqsrp1nlcxzbcpvqi37d87m83-bootstrap-stage1-stdenv-darwin.drv 5sz1lw56knkh546j4kpx51wnhrxrpw9k-flex-2.6.4.tar.gz.drv 78wigjp1inhg83ly27z27gfp71x2dawm-glibc-2.26.patch.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cy9r6mmdmdbvkrd86yi49cg3p9gy32jq-bootstrap-stage0-clang-wrapper-11.1.0.drv ikgxsi4fwnmvrd0p75j0zy036jj4gm86-bison-3.8.2.drv smam51iaqqqxg825xax0gdz6ssmvpmvi-help2man-1.49.2.drv vi30mjy9bwj6dkwbqj1py6p013r8p10z-hook.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv z6p2kh57hqalrlz16l0ry5dzmwjhbwk6-gnum4-1.4.19.drv
-CA: text:sha256:17p4c4pz83ymvdak0ip1w15dibzdspp330iyn0lymh78yqwwnhz7

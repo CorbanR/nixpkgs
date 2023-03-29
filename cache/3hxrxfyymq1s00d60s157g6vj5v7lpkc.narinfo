@@ -1,0 +1,9 @@
+StorePath: /nix/store/3hxrxfyymq1s00d60s157g6vj5v7lpkc-rust-bindgen-unwrapped-0.64.0-vendor.tar.gz.drv
+URL: nar/183km0fphbin31xp223vf1qmb5qii8xqsf8v1307k272jz8fw155.nar.xz
+Compression: xz
+FileHash: sha256:183km0fphbin31xp223vf1qmb5qii8xqsf8v1307k272jz8fw155
+FileSize: 2008
+NarHash: sha256:07qxvzlbwm2q2wpl3d3mg06662i432415g96j4kirmkikp5snxhr
+NarSize: 4272
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8agbw9qwml9b88138ac1mv1hvc6rq7r5-bindgen-cli-0.64.0.tar.gz.drv gdxrzmcxwn4mp32cfdzxnrpjd4d2cbp5-cargo-1.67.1.drv h56zva54kv5xhj3smdnj9hfn7afjd2mh-git-minimal-2.39.2.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv k7lp7bjkbvpxqxpjnl33cyychmc8dsnx-nss-cacert-3.86.drv mj3rcllwh27ic978cmz36ixgs07jzkvy-cargo-vendor-normalise.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv
+CA: text:sha256:0rmggvnir6l6jryfing3pfyfmc2jq7z8j7x03q2cgrbsyv6jxdlj

@@ -1,9 +1,0 @@
-StorePath: /nix/store/klrvrlj6kspw18ar0588052imqhgysjl-texinfo-6.8.drv
-URL: nar/1x02d1453pxpbwy2gmj6m1yjmzx1znsn3kmbcd3qsf000ly9h6wf.nar.xz
-Compression: xz
-FileHash: sha256:1x02d1453pxpbwy2gmj6m1yjmzx1znsn3kmbcd3qsf000ly9h6wf
-FileSize: 1332
-NarHash: sha256:1p8g368jhqbk5vjmwbpp79pdajhxm58fyyfdc3y0iphmdp0ws1aq
-NarSize: 2936
-References: 5ghdlxgkqsrp1nlcxzbcpvqi37d87m83-bootstrap-stage1-stdenv-darwin.drv 6a1cqi1cyv7p7cf1a2vsgid5nyjd9wkc-xz-5.2.5.drv 7ijjrk1l1icqjds5ypdri7gxw9kxkicw-bash-5.1-p16.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bwblmfz4cy0w1l9gbl9s70snb10fnz6z-gettext-0.21.drv cy9r6mmdmdbvkrd86yi49cg3p9gy32jq-bootstrap-stage0-clang-wrapper-11.1.0.drv szi0nqpd4wshw0vyizvy1p99swngaba7-perl-5.34.1.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv yl6g04fsr6p9lkvccqjjl8q1xnnmw49s-fix-glibc-2.34.patch yp9m6dfsbdfl4bx65qgmjxi66bvn6cdc-texinfo-6.8.tar.xz.drv
-CA: text:sha256:0hxynq4yqi9ip45brcvaddicyfllcrbq24b7kcjdlvgrff7h369k

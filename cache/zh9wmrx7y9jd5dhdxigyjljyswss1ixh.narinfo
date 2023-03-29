@@ -1,9 +1,0 @@
-StorePath: /nix/store/zh9wmrx7y9jd5dhdxigyjljyswss1ixh-llvm-11.1.0.drv
-URL: nar/0j72zaqh11xi2cddxinx37ncik2zzbsadfhzzwxbpr3hak1gyyyb.nar.xz
-Compression: xz
-FileHash: sha256:0j72zaqh11xi2cddxinx37ncik2zzbsadfhzzwxbpr3hak1gyyyb
-FileSize: 2940
-NarHash: sha256:066plf7lvsj6c0hp5s66dbi2awmy7zl0qq396p8fvy0yb8f8993i
-NarSize: 7088
-References: 1crgkncfijmqca7cw9xvydr6vs4lkaw0-cmake-boot-3.23.2.drv 1ki8bkhj1630bhprism6cr90i34ydsvx-dfaemitter-gcc-12.patch.drv 6wv8acdd7bm7npixgr3rk86mf55fj47c-llvm-config-link-static.patch 85pksxq3dflwc1kapc91jrhp205lc1d3-nvptx-gcc-12.patch.drv 9fd3xdcfv1dw93y99a18lw735fx8kvgy-gnu-install-dirs.patch 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9x2qbx2zpmzb2fp3vqcrpzd7n8dm5mnd-bootstrap-stage3-stdenv-darwin.drv hcnnj7iiz31p72a6hv901rd93c67qzr0-llvm-11.1.0.src.tar.xz.drv jkykk0gxrr8vy93fyhp0d0sw5nb34w46-python3-minimal-3.10.5.drv pkh5gw4gm6cyk0gl4z0zjvy18p5qgl2q-libffi-3.4.2.drv pxgdawf38kq4mh9jzw7qdxbfv00zyjwr-polly-11.1.0.src.tar.xz.drv q65x7h02nbf4x8xcf83r49mck43jxwfq-ncurses-6.3-p20220507.drv r8g8901ymm2fi9n1yqs7f037hk6flr66-uops-CMOV16rm-noreg.diff.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv y1hz3i4zykdcqfrq9aal6lrbf9dfl43c-libxml2-2.9.14.drv yg9cplf13bk7j9dqjym1dpc0qgrpy5hr-zlib-1.2.12.drv z369bny6xz9pyvrknqrsbjqz693jblja-b498303066a63a203d24f739b2d2e0e56dca70d1.patch.drv
-CA: text:sha256:0nm0mp3fm1c93f5sydki642qmjwjxacgjbi3ssvp1mmzrhjyi24a

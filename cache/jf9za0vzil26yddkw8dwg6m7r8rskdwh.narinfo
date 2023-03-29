@@ -1,0 +1,9 @@
+StorePath: /nix/store/jf9za0vzil26yddkw8dwg6m7r8rskdwh-cmake-boot-3.25.3.drv
+URL: nar/0s4qg8i6i0m9qrvyfjifqqjpb873nx9w24wra9v7rzi9mbkba1rw.nar.xz
+Compression: xz
+FileHash: sha256:0s4qg8i6i0m9qrvyfjifqqjpb873nx9w24wra9v7rzi9mbkba1rw
+FileSize: 1860
+NarHash: sha256:0q8n87il9ddmvyfl4fhsdmim47cxiaynmk5v3a4slm29nh6gjxlf
+NarSize: 4808
+References: 15j86cw1y89msdxcrxfynm24zxwk8yqf-clang-wrapper-11.1.0.drv 34qn4by9lqrri323ahm5vizv6bgsbhfn-006-darwin-always-set-runtime-c-flag.diff 3i0fr43dl44a046jfcm0s1pq9xscj0ln-ps-adv_cmds-119.drv 6kj239isi6pjscjbxvalqfma2872cw20-pkg-config-wrapper-0.29.2.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7yjka9xvfmk5s2cn1alkqlmkbqifcgv6-002-application-services.diff 90zhp2cinpnqvf70avx7i81gh6187swd-cmake-3.25.3.tar.gz.drv ar1p4gcvlqf8dwbkfrcb01srbywinaj5-check-pc-files-hook.sh fcrwascnw3lacr1nnshaqxi8w8gnhzvw-cctools-binutils-darwin-973.0.1.drv iypnq8ww1axzvn6y21m0wl8jyvx6b25b-stdenv-darwin.drv k0qj9nfiy76y67ga43pszjqdk8f3915i-001-search-path.diff k845qxmkbra9fc4628lpi0q8yjmc1sx9-005-remove-systemconfiguration-dep.diff mf3bdryqkpb2zrwmgynximfywj44ynxh-setup-hook.sh rk0d1isq3rc0i5wvhdzlrhfrbp0b3rds-Libsystem-1238.60.2.drv rq41inv92jszcs5x62nc5cci5hapbjpw-003-libuv-application-services.diff wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
+CA: text:sha256:0dm77x9q576czllfky7n6pvjc3mfyh92ciki3z977r3kd2g6k45m

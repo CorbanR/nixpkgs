@@ -1,9 +1,0 @@
-StorePath: /nix/store/zp5appp7pgp49ibk8jbwin6yzak6nf6k-artichoke-f86225f2256b51939d7a2ea0c73ddb36a99f64ab.drv
-URL: nar/19wmvzdhsgx1k58w3hyk82nhzzk445v7k9376grwbfl5dyhh8mxy.nar.xz
-Compression: xz
-FileHash: sha256:19wmvzdhsgx1k58w3hyk82nhzzk445v7k9376grwbfl5dyhh8mxy
-FileSize: 2064
-NarHash: sha256:0v4xgin5bjlkzj71xi4zlrjc27mpq6q5j7zd4rhsm8dhpimg52zp
-NarSize: 4768
-References: 1ynbi3k4r7gzmyrdrxw54qd3w6kvmdka-rust-bindgen-0.59.2.drv 329pmybgm5c7khzdcs45hs2jv8scdyqa-source.drv 6r0inxqz5v3dnxk9skavhqhzirzb3bis-cargo-check-hook.sh.drv 7hzwwln2rwq1caf7wzzbjyiyjk90dz6y-artichoke-f86225f2256b51939d7a2ea0c73ddb36a99f64ab-vendor.tar.gz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ahyjb1fpzn8s6dsj5wrpdda615f3cwxp-cargo-setup-hook.sh.drv cq3wbvd4p9y5y7xg33k7xm4i27h5rbfq-git-minimal-2.37.0.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv isy0i4m3vzf1p4197bkdmm7vh828w657-libiconv-50.drv jcy82inv8maznyp5b85d32dj6v6b0z4i-rake-12.3.2.drv jsqmvbvfqw3qiqf7nrfa4gwik7sr45i8-cargo-install-hook.sh.drv k4rzikgbmh6mqgvrn53h1i81cs22gyap-mruby-3.1.0.drv karm2gaszl87nan75rvkrgzhvm42qfw5-cargo-build-hook.sh.drv l6qymk9mzaavbangrlf1bvspacy3jdaj-rust-minimal-1.64.0-nightly-2022-07-22.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps ql3byas6zp79y2pmr41ymzlssv2ia1y3-rustfmt-1.62.0.drv qnd65b7nrpqnn8ix7fdkhkqh16rrnh9q-rustc-1.62.0.drv rccnmb3jgshsl4z1c56xr1pjkmqad54a-nss-cacert-3.80.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv z5vjh1a0xl1fj31yv9hs4qr8q3v4605x-ruby-2.7.6.drv
-CA: text:sha256:1wjchil2fhjic2120v3vccarv3i5b25y956n3k0pdsbjblb9kk75

@@ -1,9 +1,0 @@
-StorePath: /nix/store/b6brs3vil6mc1pib0siznamdsjia4czb-sharutils-4.15.2.drv
-URL: nar/0cpsdn52p3y8rc85h5rrghnjb26i588535vk8nsd68qv4pnwhvky.nar.xz
-Compression: xz
-FileHash: sha256:0cpsdn52p3y8rc85h5rrghnjb26i588535vk8nsd68qv4pnwhvky
-FileSize: 1320
-NarHash: sha256:0hak4qr2ry17a94x0wygpjn0s0qrdb3sks431kaj8rlbhy93annl
-NarSize: 2944
-References: 8mz5iw1m8590cyk6y9ay5974vbwdn8db-sharutils-4.15.2.tar.xz.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b2vw5lpzm0vcd47yglv19s8pvgq2k049-sharutils-4.15.2-Do-not-include-lib-md5.c-into-src-shar.c.patch.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv w2jbv7rkkxyy0bdby0knfxfza2fvhi8l-sharutils-4.15.2-Fix-building-with-GCC-10.patch.drv wl9w1fn9b2fhsq741mvmp87bzp9w8ijc-gettext-0.21.drv xw7hl7j2xsb98wz51fl5lk53q52m1zfr-02-fix-ftbfs-with-glibc-2.28.patch.drv yzn1a0zmrbh2fdhjwrgdjxvil7mxiwms-coreutils-9.1.drv zfqppkqpvqq1br6c9ln2w31z1x0qg3dr-01-fix-heap-buffer-overflow-cve-2018-1000097.patch.drv
-CA: text:sha256:1lmpwhrr874fvvnbiyz4gcingh03k6zbg84mclwkq8aajzs9k26s

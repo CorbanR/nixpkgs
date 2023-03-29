@@ -1,0 +1,9 @@
+StorePath: /nix/store/p1z294b61ahndr0y7vwqxh1yqn91181h-Module-Build-Tiny-0.039.tar.gz.drv
+URL: nar/034ipxh9mrmdixq0pjhlvvq5ba3iykmd74l1kh17zkrng5n1l7gl.nar.xz
+Compression: xz
+FileHash: sha256:034ipxh9mrmdixq0pjhlvvq5ba3iykmd74l1kh17zkrng5n1l7gl
+FileSize: 1320
+NarHash: sha256:0lr66w03a7g9m9s0ws548ry8y0qlflbmgmdfa7r891mzqhfd9p3y
+NarSize: 3016
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
+CA: text:sha256:1rsl7369wki23z03ka7w5c1i15ny04m161vaf5fysma1navd46xr

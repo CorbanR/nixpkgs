@@ -1,0 +1,9 @@
+StorePath: /nix/store/askdg7h8d7il6503ibgr3cp4g1bh45z3-clang-wrapper-11.1.0.drv
+URL: nar/0i6d8zizvx6jaipc8b6bcl6z4w7dq1hm4dl1l8qpw45295r5p02w.nar.xz
+Compression: xz
+FileHash: sha256:0i6d8zizvx6jaipc8b6bcl6z4w7dq1hm4dl1l8qpw45295r5p02w
+FileSize: 2744
+NarHash: sha256:063hikfw8vqakdna0szy93212v85yhm2avkf04qdi4048by7hn40
+NarSize: 8768
+References: 207371kxkgxw54hgaryxrk4sv237la8g-coreutils-9.1.drv 27i9f0kqzzh93jn6am55ncn77l4iknhx-gcc-12.2.0.drv 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 36jsw7szjwxnq06wgskkab3san8bpg24-binutils-wrapper-2.40.drv 47gspvwaxra868q4rsmva0g5nz7zac6p-add-clang-cc-cflags-before.sh 4s2wzdjf9ghw6vpr7k85r4dvm6vh559b-expand-response-params.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 797k3249lr4rx8wslf7kcsa3hv6fis3x-role.bash 86jqlsil7fmb7zi1mydpdm6dfhyjqqsj-gnugrep-3.7.drv hznwcyb002km43zwqcbn0zb58yiv44ym-utils.bash ji2yrl1na00bwav65hh1vr0nc0s1xzvz-add-flags.sh jigp11fpqn0l423jzj5la75y0fxcynry-add-hardening.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv kh2giy3cw9p783miz3m5c1biimhjs6c0-clang-11.1.0.drv nxjrlyc7ffn2gizah8xhnxwwscjxf7zp-setup-hook.sh phcdcpyx7dgdyr3cdm24xvh84vrhbasn-compiler-rt-libc-11.1.0.drv qcg8z319akzxghndc3jwly9n685rkbky-cc-wrapper.sh zl9sr7rzxsf4siadwf3s6s7y5cpbvrp6-glibc-2.35-224.drv
+CA: text:sha256:0cpg3pmfvvi87m34nrl09sskvbv149fdn5fa49gxm4c14x1b4a1g

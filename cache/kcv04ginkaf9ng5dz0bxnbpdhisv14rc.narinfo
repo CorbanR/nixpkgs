@@ -1,0 +1,9 @@
+StorePath: /nix/store/kcv04ginkaf9ng5dz0bxnbpdhisv14rc-m4-1.4.19.tar.bz2.drv
+URL: nar/1yd02qpd4rva4ym85apq7lnrk27b6p4cd6wa7k0wdy8jz7f7wpwi.nar.xz
+Compression: xz
+FileHash: sha256:1yd02qpd4rva4ym85apq7lnrk27b6p4cd6wa7k0wdy8jz7f7wpwi
+FileSize: 1304
+NarHash: sha256:04v1gizhkgd9nfwxn28rfm1wrzh68nsv9z17xa8viyjvhmx3zj7c
+NarSize: 2976
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
+CA: text:sha256:0pmybla4qrbsy7k029xwf0kgfd6fyg5g64a7njav681lvm1jhb87

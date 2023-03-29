@@ -1,9 +1,0 @@
-StorePath: /nix/store/49j40ch9wcg53pw203kka8ihr4znq76k-Add-substitue-functions-for-strndupa-rawmemchr.patch.drv
-URL: nar/1sw2p888y1a74s7j0c50jkb73yxj8qmnv633m5c01v7wrmyjkln6.nar.xz
-Compression: xz
-FileHash: sha256:1sw2p888y1a74s7j0c50jkb73yxj8qmnv633m5c01v7wrmyjkln6
-FileSize: 1804
-NarHash: sha256:01g485ac8qgxx2j0mb106ai4rwzdnqxqj3hzc2ld5j3df8d4qq4k
-NarSize: 4344
-References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv c1xqznsxbginlncsn7mq784r3q92vmqv-patchutils-0.3.3.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
-CA: text:sha256:0r3mg4b0sa2k8xyd5qhqhnlrqwjxizik4c3m0ma8p52fcyb26av1

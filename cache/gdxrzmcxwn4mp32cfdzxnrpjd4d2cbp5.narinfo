@@ -1,0 +1,9 @@
+StorePath: /nix/store/gdxrzmcxwn4mp32cfdzxnrpjd4d2cbp5-cargo-1.67.1.drv
+URL: nar/1h1lyyxhafs4i05z1sf02sfjc0kpljff8gzyj0d85kc9qy0sl2w6.nar.xz
+Compression: xz
+FileHash: sha256:1h1lyyxhafs4i05z1sf02sfjc0kpljff8gzyj0d85kc9qy0sl2w6
+FileSize: 2176
+NarHash: sha256:0833gzvghvg7qipczfskqiawifmhngan3pdz5bjk5aqaxgyiid84
+NarSize: 4936
+References: 0gvsdxdp70xj28z9zimmh2fbgcwl3gwf-rustc-bootstrap-1.66.1.drv 0ry045qgnbgqqb3biy75v8frgsjk4rzq-make-shell-wrapper-hook.drv 1cs7357m9h8k3wfahz8yn11lpgj19wcy-cargo-check-hook.sh.drv 396lqzdpdwam5pc69q45fhswdl6v9g1h-rustc-1.67.1-src.tar.gz.drv 3jbv3scpmj2kxhshfz544jq37dzywbss-openssl-3.0.8.drv 3wfwaiscrlvcznbk6497c0nbplqjxzgr-cargo-setup-hook.sh.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 935s4ihbw5l4ccxdv7q5vxlgk08kcnc5-zlib-1.2.13.drv cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv grm1li1apdvbqb92xrvxv43hac5jhhkf-cargo-install-hook.sh.drv hmxvs5jh710x9kcpcnga0grkxzfyl7hh-pkg-config-wrapper-0.29.2.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv qgsmrjjwkbwxq5d2fs72kxgyg8hh6cga-rustc-1.67.1.drv r6jcqv67saj457cj7v7mzxivachwn4mv-file-5.44.drv rcsmiycdrhwziqr33r0i645p0ylrixgs-curl-8.0.1.drv szp08bm3rfwy2ximrfdmnl6d0mbvpln4-cmake-3.25.3.drv w31bjh9m2xkwfkggzcnnb6y8c01gz15b-cargo-build-hook.sh.drv xzw3dwlpin59wr7zn2x9ivggj04cf7qx-install-shell-files.drv
+CA: text:sha256:1jnkph3cxcgnrq14273b3n1yfm8dcxz8xi862pxyi9v0z0z6sx55

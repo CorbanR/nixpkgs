@@ -1,9 +1,0 @@
-StorePath: /nix/store/5saz2189rhazyw3fmnrnybm1hnmz18id-eap8021x-222.40.1.drv
-URL: nar/0vvkna564vax54ynkn8kj3zfwbjlnl3vlb359j31bzmmfd737wf1.nar.xz
-Compression: xz
-FileHash: sha256:0vvkna564vax54ynkn8kj3zfwbjlnl3vlb359j31bzmmfd737wf1
-FileSize: 1136
-NarHash: sha256:1pjfzxhs05adjr13688gi2khba8bsga7pdkh8rczw2csqi8f9sah
-NarSize: 2480
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh am82rkbfbfhlqsq8q7kw9lknmmv131f6-eap8021x-222.40.1.tar.gz.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
-CA: text:sha256:1fg5gpffscwmlh1z39h29xl6b52ym4zb9z4vw8daj32kivbmd5jw

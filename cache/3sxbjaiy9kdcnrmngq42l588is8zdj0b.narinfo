@@ -1,0 +1,9 @@
+StorePath: /nix/store/3sxbjaiy9kdcnrmngq42l588is8zdj0b-python3.10-pip-23.0.1.drv
+URL: nar/0ac699h3ml01iby8xwmcf7yfcvmrp92gc5i93is6dqc2ibdlk6w3.nar.xz
+Compression: xz
+FileHash: sha256:0ac699h3ml01iby8xwmcf7yfcvmrp92gc5i93is6dqc2ibdlk6w3
+FileSize: 1488
+NarHash: sha256:0qsv6gni0zis48bahjwb7kjfm98bklr3hvvkjh4wf7kzzc31yzl0
+NarSize: 3296
+References: 1i0ixszrc2r03rfh3iwhfbi2f4x52wcf-python-catch-conflicts-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8i6cw8wgjqhkpcbn3i1k5czs1jj62g0f-python-namespaces-hook.sh.drv 9ldjr0zdj3qvmjbn8ynxgdg7h56lx4zx-wrap-python-hook.drv 9nzi0hc1xfghmydfl7z0m80ax0sjh0mm-python-imports-check-hook.sh.drv cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv k15fr5zkr392933f69183qa4rbjyfrvz-pip-23.0.1-source.drv nbwz2pkcfil2ibp3wmcrnc99gisndcmg-ensure-newer-sources-hook.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv s3k27g1ndq5zk71882p97ary76xj36zp-python-remove-bin-bytecode-hook.drv x6x37hiilqy7vfp6wj6yfhvfdwagpqh1-python3.10-bootstrapped-pip-23.0.1.drv x8afnl0gcsqbkg0v4s7iqgxd8mknzdd8-python-remove-tests-dir-hook.drv
+CA: text:sha256:0ggx27lfkahh1nivh3ydjzgpydwzq658r90wm2l5nnj4kdwq05lm

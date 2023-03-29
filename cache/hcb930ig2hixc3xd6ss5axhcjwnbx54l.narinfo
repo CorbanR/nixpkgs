@@ -1,0 +1,9 @@
+StorePath: /nix/store/hcb930ig2hixc3xd6ss5axhcjwnbx54l-gnutar-1.34.drv
+URL: nar/0ymflcgg6x5sdw63jjwp8nffpzf3gmmkz19fiw65dg05718rjps2.nar.xz
+Compression: xz
+FileHash: sha256:0ymflcgg6x5sdw63jjwp8nffpzf3gmmkz19fiw65dg05718rjps2
+FileSize: 1040
+NarHash: sha256:12a5hm7m0b9da5sila4qk6q029csdn59nijirif24ibiyjg2fi0j
+NarSize: 2288
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7wjdl6xx61nd5gyd3jfmsl7mdh4aayp3-autoreconf-hook.drv iypnq8ww1axzvn6y21m0wl8jyvx6b25b-stdenv-darwin.drv ppjwc3b9b3w2hrb909qpb8j0pnb69way-tar-1.34.tar.xz.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
+CA: text:sha256:080vrk7zqjz8l65003mj5ig2sb6f8v7zivwypz2362filbwx7qmp

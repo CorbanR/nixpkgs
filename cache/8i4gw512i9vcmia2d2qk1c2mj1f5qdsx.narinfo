@@ -1,0 +1,9 @@
+StorePath: /nix/store/8i4gw512i9vcmia2d2qk1c2mj1f5qdsx-disable-trashcan.patch.drv
+URL: nar/04y1d9h7v6djk54l9c0d37haf90jyb5x70nwmivs1hvwii4rc7ak.nar.xz
+Compression: xz
+FileHash: sha256:04y1d9h7v6djk54l9c0d37haf90jyb5x70nwmivs1hvwii4rc7ak
+FileSize: 1900
+NarHash: sha256:1709zvzn3vkihqq8d920p40ci5xhxizqzpyj971jz0qypgh69pgd
+NarSize: 4536
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv mmgy6psycvwz94c4ifjikdi8590r3n7k-patchutils-0.3.3.drv
+CA: text:sha256:17piz75cqgxdhcc2pisrqmq74sb8kk790mhksc0radkwmf0l1y54

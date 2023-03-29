@@ -1,9 +1,0 @@
-StorePath: /nix/store/h55wi148y2p7h2zdmxspcxnwydmjqni3-SDKSettings.plist.drv
-URL: nar/06c6yv5x5250mbf77q19wcdz1dc59407cly33i47zfppfshw7p3x.nar.xz
-Compression: xz
-FileHash: sha256:06c6yv5x5250mbf77q19wcdz1dc59407cly33i47zfppfshw7p3x
-FileSize: 1200
-NarHash: sha256:143r10hn9qfvvjb8wdrmdjrz6fbqwqzcm60ci1q9bxkn7pkmaysv
-NarSize: 2640
-References: 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
-CA: text:sha256:1pfcl2y1vv656lhrn0w5vy1knqd2drnljrq44bv48rr5hyf7p1g7

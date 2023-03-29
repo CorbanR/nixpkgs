@@ -1,9 +1,0 @@
-StorePath: /nix/store/lqah8pbcnlj9lgls9f0mxssv7xj6zlb3-w3m-0.5.3+git20190105.drv
-URL: nar/1cvbxslrmjdlrgriw0jssswqnx34jlj5y1anl2d9rhxvzslaq6x1.nar.xz
-Compression: xz
-FileHash: sha256:1cvbxslrmjdlrgriw0jssswqnx34jlj5y1anl2d9rhxvzslaq6x1
-FileSize: 1592
-NarHash: sha256:1db9z1zpjkwahkd291qw49bva9j2cjllws1ffv1r5xi8f0yx755h
-NarSize: 3520
-References: 06xps7mamhq7adn8s5kbr84pc8ncx9nv-zlib-1.2.12.drv 21m0hfgfqnw91000d4r86jz87cyp377h-boehm-gc-8.0.6.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b5x746s8vx77x8lvzg1s63jfdyh6hhq1-source.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv dil04c0w3283n4znmp7whpm4dcd4iyz1-RAND_egd.libressl.patch fkk0036g5p0hlhqknpdg3fz50kxi6ajc-https.patch.drv lgys4fcbplyxpva7jqarvbh2qp5cpr91-man-db-2.10.2.drv m079w91yzxjxzmixrsm38skqpr9lrngw-openssl-1.1.1q.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv r8b46bf8m04lkvnj6r8ydgqblv0qmmp9-perl-5.34.1.drv ra9hzh1gkrbk867gaa58yhy1imknmamq-ncurses-6.3-p20220507.drv wl9w1fn9b2fhsq741mvmp87bzp9w8ijc-gettext-0.21.drv xdczp2jf0mdcaqfi0xmsh3ynqkhad1hd-pkg-config-wrapper-0.29.2.drv
-CA: text:sha256:1gk2y61dj0kw07jmw8qwx265qz5caqg02ijib09jnvwps7zy4ym1

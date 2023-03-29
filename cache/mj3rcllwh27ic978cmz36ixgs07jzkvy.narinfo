@@ -1,0 +1,9 @@
+StorePath: /nix/store/mj3rcllwh27ic978cmz36ixgs07jzkvy-cargo-vendor-normalise.drv
+URL: nar/1l5dz19gzx8gnxnqq8pnkjkaz7sxjxhfsjjs0675kpvfsdyf7kv0.nar.xz
+Compression: xz
+FileHash: sha256:1l5dz19gzx8gnxnqq8pnkjkaz7sxjxhfsjjs0675kpvfsdyf7kv0
+FileSize: 1000
+NarHash: sha256:0w8835zdi1n7zxalvghfs3sxsmprklmpqg8mz2584xvj97cli2qn
+NarSize: 2296
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9ldjr0zdj3qvmjbn8ynxgdg7h56lx4zx-wrap-python-hook.drv j8v48wn28digw9mscq336fzz3frnvhx6-python3.10-toml-0.10.2.drv jd8cd27k8g9qrf4by5ld8pmzkq9a33jf-cargo-vendor-normalise.py jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv q0hmsd1h8bph16h58w80nafjg48yqdbw-fetchcargo-default-config.toml
+CA: text:sha256:1nz965b9yawa4ss1nz9ysh2nqiwl94pbg2q9agphrbq5bbpyn58c

@@ -1,9 +1,0 @@
-StorePath: /nix/store/ggh4l7av35757pv58nafjd0vwif7szg0-python3-3.10.5-env.drv
-URL: nar/0mn0j2nspdys8zjsi4pc1k7pzwm1r1fa6l3cxpnm7bj9mqimbzgc.nar.xz
-Compression: xz
-FileHash: sha256:0mn0j2nspdys8zjsi4pc1k7pzwm1r1fa6l3cxpnm7bj9mqimbzgc
-FileSize: 1668
-NarHash: sha256:1kql0h2iqk0029l4gcfpkm56zyc6bdhlfj59sjw9ayj2xrl9cvyj
-NarSize: 4592
-References: 2v997m4ng71xrqvm9r5fb9kb2bj8ywb2-python3.10-pytz-2022.1.drv 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv 406m2gvcms42npk8kmd1zfs027dmn96r-python3-3.10.5.drv 6x1k6d2m85azk9fm1k8mraj03rig1xc6-python3.10-babel-2.10.3.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv kcbipniv8xy6lfnwfw5n7mpk0fg0hjr0-python3.10-lxml-4.9.0.drv la4qbqfb6wh5xl9flfdm43p3jgy5p7ji-builder.pl.drv plh39q151zx5wm63qli21f6if2vdbxbs-python3.10-markupsafe-2.1.1.drv r8b46bf8m04lkvnj6r8ydgqblv0qmmp9-perl-5.34.1.drv vhn913yjk8cc2hxd9wkdjx77nibvsc0m-hook.drv yqhw05h44j54gr3scm95v4dn48wmy0fb-python3.10-Jinja2-3.1.2.drv
-CA: text:sha256:1pm009j8k1aizzvka2m9dmvkl7wwryci5sp9f4frl4gprhq97gr3

@@ -1,9 +1,0 @@
-StorePath: /nix/store/42iy0c3i5a6sl1fs3gfrrb0igcjnifr6-rust-std-nightly-x86_64-unknown-linux-gnu.tar.xz.drv
-URL: nar/0zwvcdwf4ijgrrdrh0ifidxmy3q2xrc200lf2jzvl1qqfsp75jb6.nar.xz
-Compression: xz
-FileHash: sha256:0zwvcdwf4ijgrrdrh0ifidxmy3q2xrc200lf2jzvl1qqfsp75jb6
-FileSize: 1332
-NarHash: sha256:0y6npsn1s063kl0wr1q8k26nlivfgfl1xznbmahi8qlkjq67ai3p
-NarSize: 3096
-References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
-CA: text:sha256:0rdq22qbc68rk4cc9z5n9v1lxzz135079cqm9vz7g23jn1kdbb2h

@@ -1,9 +1,0 @@
-StorePath: /nix/store/fbhc56nqqzz63yidwm63p4g9k66iq0pl-gnu-efi-3.0.14.drv
-URL: nar/1sc66im1bg29d16w5pw4xkvrk09w6hz663hlswyaym3601c6g02r.nar.xz
-Compression: xz
-FileHash: sha256:1sc66im1bg29d16w5pw4xkvrk09w6hz663hlswyaym3601c6g02r
-FileSize: 940
-NarHash: sha256:18cpxd8rgvv2wykynlq07rzcg60rqjakrqcsb0rfzgdhsg5qzn2z
-NarSize: 1960
-References: 6ahkx51b9l7z6zigd5r87g2km5wg8jsv-gnu-efi-3.0.14.tar.bz2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv cyw2rwb1bgm40aw3r48pxixzslyhkjzb-parallel-build.patch.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv qgk0s064m7anrnri9v8sdivr54gsl791-pciutils-3.7.0.drv
-CA: text:sha256:0h1q73bf37p63sf1l011va13pycfk9d86laiipijnx7030xhnkzi

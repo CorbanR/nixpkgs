@@ -1,9 +1,0 @@
-StorePath: /nix/store/6xjbzxfpra5x7n3r92b725nkv5n9j6yi-fuse-3.11.0.drv
-URL: nar/00f41z22mc2cv3gdarrbsqa9vgpn5km4mnmi1q7qyk67cvq7mi9b.nar.xz
-Compression: xz
-FileHash: sha256:00f41z22mc2cv3gdarrbsqa9vgpn5km4mnmi1q7qyk67cvq7mi9b
-FileSize: 1588
-NarHash: sha256:0kxa1klpsv5b867284l99qd3y76a9qaf3hh83rajiyx6xxzxxlcl
-NarSize: 3488
-References: 6pwa4wdza3savbx84mzmph9wfgrh7c90-ninja-1.10.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv chk1md9y6rgjksln9ry2ja76aba507si-source.drv db0675zrmhngs6a197fiwiyhwva5aw1x-meson-0.61.2.drv g0y2g6ji80by38713iva7iqx4810dx05-fuse3-Do-not-set-FUSERMOUNT_DIR.patch mpfi4376ak9g2z1qpdbqr9jr5bsf759h-fuse3-install.patch n67a4r7rn1ay37n9945rvmnz74xlgi59-util-linux-minimal-2.38.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv xdczp2jf0mdcaqfi0xmsh3ynqkhad1hd-pkg-config-wrapper-0.29.2.drv
-CA: text:sha256:1wffm7jq0n46qa4jfm7sp88yy2p8h8znig43vn77zzk4pz4aq48j

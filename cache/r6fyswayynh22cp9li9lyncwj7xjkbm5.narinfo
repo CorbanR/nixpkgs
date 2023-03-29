@@ -1,0 +1,10 @@
+StorePath: /nix/store/r6fyswayynh22cp9li9lyncwj7xjkbm5-libyaml-0.2.5
+URL: nar/0pxcckz8hq6r8xxdhsr4rcvsgj5m9l4ibpskiqwvy5wmsdslss4q.nar.xz
+Compression: xz
+FileHash: sha256:0pxcckz8hq6r8xxdhsr4rcvsgj5m9l4ibpskiqwvy5wmsdslss4q
+FileSize: 49328
+NarHash: sha256:10qhfnkl8ln818fd5785a56l23nvw4gpdyzzi132g8dsnwdb4apq
+NarSize: 187216
+References: r6fyswayynh22cp9li9lyncwj7xjkbm5-libyaml-0.2.5 snm5082bb3zfkwfnw5glas1g9q16r1cd-swift-corefoundation-unstable-2018-09-14
+Deriver: yxjlpqg1s8i1fz62g3r9v6gx7c51s00a-libyaml-0.2.5.drv
+Sig: cache.nixos.org-1:AKmvn+kJrQ7m5Oif/JGcW66NcYYvpx6rUvW68s2Lgua7Rg0gJ5xM8D5/dU/xU3MzI+mzDbjb2mxCjl2XUcX4Bw==

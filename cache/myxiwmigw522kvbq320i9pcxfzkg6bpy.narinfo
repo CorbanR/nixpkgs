@@ -1,9 +1,0 @@
-StorePath: /nix/store/myxiwmigw522kvbq320i9pcxfzkg6bpy-perl-5.34.1.drv
-URL: nar/07l528w0wax5qalg1xd2i2hgpyb98y2xcb15vv6vj1kdfv1hq9pr.nar.xz
-Compression: xz
-FileHash: sha256:07l528w0wax5qalg1xd2i2hgpyb98y2xcb15vv6vj1kdfv1hq9pr
-FileSize: 1964
-NarHash: sha256:166z3q2gbb7hc6ls0h64v63k7vh2gb4lnpmlklr2m5pay58ijfsl
-NarSize: 4696
-References: 06xps7mamhq7adn8s5kbr84pc8ncx9nv-zlib-1.2.12.drv 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 5l83a6hndx8yxajn90b1x1cs13bqd0kz-gcc-11.3.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh ksp0ph556jzkgq7z9v8c6ydmf4xclad0-glibc-2.34-210.drv mb381gpm9k5wdl37l5ad5pp8w11qzhjg-no-sys-dirs-5.31.patch srr6xmjy79z5cn06mr7sx51p4hz8sv58-perl-5.34.1.tar.gz.drv wlgf03zhg4s0fysc8bl2k7f1pkipgjb1-bootstrap-stage4-stdenv-linux.drv yad5jqfv2z7yps9iaz53c3rlki7imvqx-bootstrap-stage4-gcc-wrapper-11.3.0.drv
-CA: text:sha256:1xazw85hxvmj9ys43l4qq6kyl121h9p8j4wl2llrbnrf9q5w4wjc

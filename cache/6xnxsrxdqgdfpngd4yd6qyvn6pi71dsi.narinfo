@@ -1,0 +1,9 @@
+StorePath: /nix/store/6xnxsrxdqgdfpngd4yd6qyvn6pi71dsi-curl-8.0.1.drv
+URL: nar/0xid94g4b2z8n32lxrhlb2wrzjaf4a1i6v2f05nfa7m08axmyaib.nar.xz
+Compression: xz
+FileHash: sha256:0xid94g4b2z8n32lxrhlb2wrzjaf4a1i6v2f05nfa7m08axmyaib
+FileSize: 1856
+NarHash: sha256:12152n35s4il67imxzk9w3rf5wgr21vg342nhzgh5gsb4cjqqwcb
+NarSize: 4464
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7v9d19i7nqnz0zb2yr4nd5dp1p1w10vp-perl-5.36.0.drv 9nrf6vvv97r84jkaf9q01vrnazrhgkkk-zlib-1.2.13.drv d57zf5q7awsdafp92867hifdf22vxmfw-libssh2-1.10.0.drv iypnq8ww1axzvn6y21m0wl8jyvx6b25b-stdenv-darwin.drv nmas6ic1sw7xz6j11gga037h2cr3v14l-nghttp2-1.51.0.drv pgqnlzywp3k1kf420i8bv8absrpc1lwy-curl-8.0.1.tar.bz2.drv rq4vdxwirz02ayh38d0zqw3s6yikn03v-openssl-3.0.8.drv w1c7ihmg8ykp1ddpjldq7i5407cqsbz4-7.79.1-darwin-no-systemconfiguration.patch wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv zizcqv6f6hbfxpmh4ac7v1n7v0lvg261-pkg-config-wrapper-0.29.2.drv
+CA: text:sha256:1ccb1phkxirj38bdwgyqh6i6paghabi3wv9issn7nlad7h36wjis

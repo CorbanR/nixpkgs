@@ -1,9 +1,0 @@
-StorePath: /nix/store/yibahmgq2wm20h2kdy843wi5p76235wr-glibc-2.34.tar.xz.drv
-URL: nar/0aqqfzgidj28ffvgyz6vd1cycsrk6n9hbfnisrlphm5z8ibkzrbq.nar.xz
-Compression: xz
-FileHash: sha256:0aqqfzgidj28ffvgyz6vd1cycsrk6n9hbfnisrlphm5z8ibkzrbq
-FileSize: 1292
-NarHash: sha256:0982cz1sbl451d2ikjdx9p5s0a90h7lkddwh2nf723n3bp3lp3na
-NarSize: 2952
-References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
-CA: text:sha256:0vlgawq2mayxzh99z5jwgiihxxkgg4ar1h0z7vclwnn8fr8x7kpf

@@ -1,9 +1,0 @@
-StorePath: /nix/store/4dyjdr37861gw24s2lykxdy2viyjibq6-lndir-1.0.3.drv
-URL: nar/07drz6401m4kjq71qdqqikp905idfmb49mqnj1rng3a12bpnhd0q.nar.xz
-Compression: xz
-FileHash: sha256:07drz6401m4kjq71qdqqikp905idfmb49mqnj1rng3a12bpnhd0q
-FileSize: 1036
-NarHash: sha256:1a38yvmmcr7hwf6chchn2ad252269qsxjgcv9y7qpvfcf0jvzp1g
-NarSize: 2216
-References: bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv vh1cpdrgrbipscys6lzr0sfcamr0r2vk-builder.sh xdczp2jf0mdcaqfi0xmsh3ynqkhad1hd-pkg-config-wrapper-0.29.2.drv yjvz9ghcgaqb965h8m7v6zsbp6hdj31a-lndir-1.0.3.tar.bz2.drv
-CA: text:sha256:1vacmvmsy12snma8a9qc800zqdfk60vyajrhm99j6kr3vwyp203p

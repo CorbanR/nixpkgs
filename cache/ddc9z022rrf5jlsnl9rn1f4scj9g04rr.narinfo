@@ -1,9 +1,0 @@
-StorePath: /nix/store/ddc9z022rrf5jlsnl9rn1f4scj9g04rr-gnused-4.8.drv
-URL: nar/0lqsylf89j1kswnfs0210frcsrbp54cfjsblvmbsdm2606hbipwm.nar.xz
-Compression: xz
-FileHash: sha256:0lqsylf89j1kswnfs0210frcsrbp54cfjsblvmbsdm2606hbipwm
-FileSize: 836
-NarHash: sha256:0xccsydchy5x7sq1qprrk3yji6j7b06vx2p6dh9vzds359in1kw5
-NarSize: 1864
-References: 0zhkga32apid60mm7nh92z2970im5837-bootstrap-tools.drv 5dzcx2f8922hyw8xsim7sfbn0wwk69kn-perl-5.34.1.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh cnh3rigjsk9vfismiz6cjx3qf6g0pipz-sed-4.8.tar.xz.drv wlgf03zhg4s0fysc8bl2k7f1pkipgjb1-bootstrap-stage4-stdenv-linux.drv
-CA: text:sha256:0a7qhl8a1916kla6bbr3k02k6p7vgq4mnhnd38qk1b83n4ph930n

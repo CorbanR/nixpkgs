@@ -1,9 +1,0 @@
-StorePath: /nix/store/dy8wxgs9wcai1wv5ayqgabgb6ja7bcj9-HTML-Parser-3.75.tar.gz.drv
-URL: nar/1cjmkm4xv0civ30llby5adpq097xjm4ksvh7slyr2wfqshvln0dr.nar.xz
-Compression: xz
-FileHash: sha256:1cjmkm4xv0civ30llby5adpq097xjm4ksvh7slyr2wfqshvln0dr
-FileSize: 1316
-NarHash: sha256:1ascy7k655m1j2r2fz5s95r9djgcgifxp2n45vskfbqxypx1ajpx
-NarSize: 3000
-References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
-CA: text:sha256:0cqvv1rfn1qvrdwvabxx6df2cj6qjgx9mwp21d6jz7rzzhghzaz8

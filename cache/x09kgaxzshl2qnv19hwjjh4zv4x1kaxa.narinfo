@@ -1,9 +1,0 @@
-StorePath: /nix/store/x09kgaxzshl2qnv19hwjjh4zv4x1kaxa-m4-1.4.19.tar.bz2.drv
-URL: nar/03y7nn9cwswgk6a4rzq3d6iwkn5n0i2v048w1f3zhlkr7avs2mcw.nar.xz
-Compression: xz
-FileHash: sha256:03y7nn9cwswgk6a4rzq3d6iwkn5n0i2v048w1f3zhlkr7avs2mcw
-FileSize: 1392
-NarHash: sha256:1d2z7zkcblbnragf0l69kdx9si0gk2frfzm90762jrn42f3n65xy
-NarSize: 3208
-References: 788wc4ldndpzc9bsl3qyjbqmfs3474sg-curl-7.84.0.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh njy0fp2wb9r6dm9blgckx8p8r3qmpv5l-mirrors-list.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
-CA: text:sha256:07pz67amb5g966qfsifbc82j3j618w49pvyb9jf3n5nvl8fc5v6j

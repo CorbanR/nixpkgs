@@ -1,0 +1,9 @@
+StorePath: /nix/store/yjlbsd6hdk6a7wpz6gwxvaxmclsfdh44-flex-2.6.4.tar.gz.drv
+URL: nar/01nxrjfdpv8qw0lg7r4qbbycx7mw11pcih3wqicd4msc40n2dyrh.nar.xz
+Compression: xz
+FileHash: sha256:01nxrjfdpv8qw0lg7r4qbbycx7mw11pcih3wqicd4msc40n2dyrh
+FileSize: 1324
+NarHash: sha256:13fiic7ll42214qnszi13phbd9h1v6ff7jf642s3k3fm2b436sbf
+NarSize: 3016
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
+CA: text:sha256:1lsdjd3hsi65yjdcqbd3nk2dwwv6gs3h7nmn6kjs84hq5bpzrzha

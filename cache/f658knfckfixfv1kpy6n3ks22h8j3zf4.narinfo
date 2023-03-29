@@ -1,9 +1,0 @@
-StorePath: /nix/store/f658knfckfixfv1kpy6n3ks22h8j3zf4-stdenv-darwin.drv
-URL: nar/0gphppvvwx58l08dpz2av97wj5dcba2146by1x6d6id6rawrqm93.nar.xz
-Compression: xz
-FileHash: sha256:0gphppvvwx58l08dpz2av97wj5dcba2146by1x6d6id6rawrqm93
-FileSize: 2248
-NarHash: sha256:1jz4q2pylc21ly8q78k72f8dsyns42kfszz4ygvfwawmrsma82z6
-NarSize: 5248
-References: 0fl818d332y6nvf63lkk91n5dmhw3yhy-coreutils-9.1.drv 0z44lakmm4zcpay1w0zvfs0xdi6mn6jr-gnutar-1.34.drv 1i5y55x4b4m9qkx5dqbmr1r6bvrqbanw-multiple-outputs.sh 4ni52d8agzsg6imxpap6i2ag6am7yk39-findutils-4.9.0.drv 59jmzisg8fkm9c125fw384dqq1np602l-move-docs.sh 5pf0h7bl72dyf2dwq4w7v0rgbfp08m4d-file-5.42.drv 81jjl4kk878wp3dcbz4cnc6g2crlyjdh-bzip2-1.0.6.0.2.drv ac972vi6qkimq1czhdr04irdf7mxq1n8-clang-wrapper-11.1.0.drv bkxq1nfi6grmww5756ynr1aph7w04lkk-strip.sh bnj8d7mvbkg3vdb07yz74yhl3g107qq5-patch-shebangs.sh cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh cin95jsgg2l30vnm599k44iaipi6q8bz-patch-2.7.6.drv ckzrg0f0bdyx8rf703nc61r3hz5yys9q-builder.sh dysrjm10311r45dkizj87mhgiffnws73-gzip-1.12.drv f1zbp5c862746nhwkqwk32g0gm4c1nfi-gnused-4.8.drv f94wp0jna0g1ka4myhb6m72xfrd79g6a-swift-corefoundation-unstable-2018-09-14.drv fi0yr6070rqgmd24a8ngnmd0dydfxjqq-diffutils-3.8.drv fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh iizs3xazwcp7pb1h01ddsyhpf075r8w7-xz-5.2.5.drv kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh kxw6q8v6isaqjm702d71n2421cxamq68-make-symlinks-relative.sh lg6g85jvn0s82v9qlgpsd8hlzkamz42i-setup.sh m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh ngg1cv31c8c7bcm2n8ww4g06nq7s4zhm-set-source-date-epoch-to-latest.sh ryh9cdwl2sf5cp24zakywm81s5f9fkyx-adv_cmds-119.drv wgh87fykhfbckz5b8ppkqr3m3ldhmb77-gnumake-4.3.drv wiq1sfqfrc577l9nj7rxcjl61d30q6kd-gawk-5.1.1.drv wlwcf1nw2b21m4gghj70hbg1v7x53ld8-reproducible-builds.sh x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv y4dikvnppaf6a35jhrbvlzb2y7bwskcn-gnugrep-3.7.drv
-CA: text:sha256:15gzixmbngrxi39a1c3acchij0wdvlp2a1ahrcpsx8rqkd1fvykf

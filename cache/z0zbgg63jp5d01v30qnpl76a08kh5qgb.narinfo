@@ -1,0 +1,9 @@
+StorePath: /nix/store/z0zbgg63jp5d01v30qnpl76a08kh5qgb-audit-2.8.5.tar.gz.drv
+URL: nar/1bg5nzqj5s1assyrd262smdzkw62wgbx7m78s5qg1gia4my03791.nar.xz
+Compression: xz
+FileHash: sha256:1bg5nzqj5s1assyrd262smdzkw62wgbx7m78s5qg1gia4my03791
+FileSize: 1316
+NarHash: sha256:0d2npyjwhy7jx98cpmq62kmw9mkfjw9as0l39c8z8n88cg1s6mdx
+NarSize: 3000
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
+CA: text:sha256:1wnn88lma7fjvxic3mv6jxdr7ssxwwzcx32nsh047m85x6yz4qjs

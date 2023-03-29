@@ -1,9 +1,0 @@
-StorePath: /nix/store/vxh3kcbhb63kc580pm1pbk0hdj0p6ic7-apple-framework-CoreText-11.0.0.drv
-URL: nar/1cvzmxq7sm9pqa3py6yx5sm5zq6fyxnw1w6r4fd20gv2mxfb4vqb.nar.xz
-Compression: xz
-FileHash: sha256:1cvzmxq7sm9pqa3py6yx5sm5zq6fyxnw1w6r4fd20gv2mxfb4vqb
-FileSize: 1216
-NarHash: sha256:0a4hgx8awxd9a2h4i8fgrr15b2h68k6k2xlrrdmvdygcc7ihcw68
-NarSize: 2920
-References: 5qcw9i77p93vv00gzgsgf31f62daiic5-MacOSX-SDK-11.0.0.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh g67bilmiv6jv79zj0dac63xx5wvfgjpp-rewrite-tbd-20201114.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv y4vcshv99brl25v33xn4wr2m6mf1xmb4-apple-framework-CoreGraphics-11.0.0.drv
-CA: text:sha256:1fk2j02mjggqf620p1z85srks5nms82sb95a395i8y4v39y4k45j

@@ -1,9 +1,0 @@
-StorePath: /nix/store/8vzsj3ymzs1gglj0mg061qaxy5c8pq8l-nghttp2-1.47.0.drv
-URL: nar/1fdnr6aaj08gygxaa861n4dvki9s4hj4srkqzg46kkj3rg72jh6k.nar.xz
-Compression: xz
-FileHash: sha256:1fdnr6aaj08gygxaa861n4dvki9s4hj4srkqzg46kkj3rg72jh6k
-FileSize: 1496
-NarHash: sha256:1vlkg416jm7f6vpcvk53zpbqw52zvxjbdlqw9hiqkq3zhv8j1g5j
-NarSize: 3392
-References: 06xps7mamhq7adn8s5kbr84pc8ncx9nv-zlib-1.2.12.drv 2frprpvmkxsra7ns9i6mnjlmf7711rid-libev-4.33.drv 73mxgqvj5p1x7n6fv2yp630f7350draa-install-shell-files.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bq1jciq5awpadlkwh4v10yvpplpdvxnx-nghttp2-1.47.0.tar.bz2.drv bqdgnjlwrw4i8m25s52z1ggyqv1dvhfl-c-ares-1.18.1.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv m079w91yzxjxzmixrsm38skqpr9lrngw-openssl-1.1.1q.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv q94634zf397bikc6zsgmghi3f57y8w9n-tzdata-2022a.drv wg0xca0sfbi1h5y7ylgjzhf0x9h5m07p-CUnit-2.1-3.drv xdczp2jf0mdcaqfi0xmsh3ynqkhad1hd-pkg-config-wrapper-0.29.2.drv
-CA: text:sha256:1v7cbwmi0vqmmmgz5qmy8zayc475z9fp9zxs4vwi4ras6v0wp2f6

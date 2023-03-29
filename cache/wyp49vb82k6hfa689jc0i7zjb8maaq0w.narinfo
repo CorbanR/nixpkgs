@@ -1,9 +1,0 @@
-StorePath: /nix/store/wyp49vb82k6hfa689jc0i7zjb8maaq0w-clang-11.1.0.drv
-URL: nar/1iigbhx8jgfnm32car084xlbkjh4widydvxscy5c6agbdalnggc0.nar.xz
-Compression: xz
-FileHash: sha256:1iigbhx8jgfnm32car084xlbkjh4widydvxscy5c6agbdalnggc0
-FileSize: 1860
-NarHash: sha256:1wxqn4572lmgv53z7cffsyl110gy87qggxfwy83rqk7pqpa7nmhq
-NarSize: 4448
-References: 34zhl915l308dpa7v2786z3xgbvy6398-purity.patch 406m2gvcms42npk8kmd1zfs027dmn96r-python3-3.10.5.drv 4zvn12jwgn7dy8yflzbk4xm8vbq1n4rk-clang-tools-extra-11.1.0.src.tar.xz.drv 543vwsranfsx6di663kdbryla3yw6414-llvm-11.1.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv f8fdz99fc6jyfry6z7rp7adwicdsmj7p-clang-11-12-LLVMgold-path.patch.drv gy1wsigghb1kmgdav78k3czlzvhyy3fn-libxml2-2.9.14.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv r5r2hiffm618bgdlqiwfx9ir5vd1n641-clang-11.1.0.src.tar.xz.drv sc7fjfyca9wzpfsz434jnykgssyp7gy1-cmake-3.23.2.drv yrskcbyfm56qm4vs9dnacg8mqpqx7qwx-gnu-install-dirs.patch
-CA: text:sha256:1qhlj767d9ichl5mpg0hcij90hkjrqfhii55rcrdwzmxczyq8j3g

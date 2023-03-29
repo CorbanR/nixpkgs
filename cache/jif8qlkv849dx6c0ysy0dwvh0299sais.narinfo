@@ -1,0 +1,9 @@
+StorePath: /nix/store/jif8qlkv849dx6c0ysy0dwvh0299sais-source.drv
+URL: nar/0rwrs83kjbcb3pkdaaq5wlwanplkk94xbdgiay8fihjrix2b920y.nar.xz
+Compression: xz
+FileHash: sha256:0rwrs83kjbcb3pkdaaq5wlwanplkk94xbdgiay8fihjrix2b920y
+FileSize: 1736
+NarHash: sha256:0fr9qadyk1ilvksg2qawaf5cfw5bc05fqgsk144ng3256z6sii76
+NarSize: 3976
+References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh 9s3dzp1lzlrcm9khzw2idmf93fl4jfg4-bootstrap-stage0-stdenv-darwin.drv ca6wziwrh32z0d9gbi7mywj38h3rgvbv-unzip-6.0.drv rbywli8q5syqfq8q4z7j5k77pay2ixbx-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:1ajalgb6nl85cc3z8ainzcr0vp3n5rdd3kswb7lnnvf0nc5m6gb8

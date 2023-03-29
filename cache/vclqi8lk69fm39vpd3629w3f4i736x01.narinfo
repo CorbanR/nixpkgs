@@ -1,0 +1,9 @@
+StorePath: /nix/store/vclqi8lk69fm39vpd3629w3f4i736x01-flex-2.6.4.drv
+URL: nar/02bi3a5m2cgdywnln6izq6q6nw4523f0yqsdkjz0a489vs75q1yf.nar.xz
+Compression: xz
+FileHash: sha256:02bi3a5m2cgdywnln6izq6q6nw4523f0yqsdkjz0a489vs75q1yf
+FileSize: 1168
+NarHash: sha256:15gg1777grz7038piw4jb50lzjavd4r1pqfjrlbrb1vl7fjfnw0k
+NarSize: 2480
+References: 3g6cc32rp5bdl6qs7wfrwf9hcj5sziqa-gnum4-1.4.19.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh is5vjslkp7afxqscb5j771gdhmbsz3dk-glibc-2.26.patch.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv pcc1adjvz8igp481hbh8xhh4ss7irxwm-autoreconf-hook.drv psjjbw1gk6l0y3h0d6a8gpmzp47qvc0w-gcc-wrapper-12.2.0.drv vq9azpazk09k4arh87a0dwks66mvf8aj-bison-3.8.2.drv yh8cnwf1ahzwksp13a2qpjpnc1yvfcrn-help2man-1.49.3.drv yjlbsd6hdk6a7wpz6gwxvaxmclsfdh44-flex-2.6.4.tar.gz.drv
+CA: text:sha256:0h07jxm6km5w4hwqc88pg0a33zlc6283br3a87h851ibzjqa4a98

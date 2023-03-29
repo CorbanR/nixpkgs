@@ -1,9 +1,0 @@
-StorePath: /nix/store/9c8xr42qns0f6kyf52y5lbz9i3b23w4j-apple-framework-CFNetwork-11.0.0.drv
-URL: nar/11fwj7kdfg8pbhbayx4v3x6npns6vnyxxnrhqqjdpprlsv6zbay7.nar.xz
-Compression: xz
-FileHash: sha256:11fwj7kdfg8pbhbayx4v3x6npns6vnyxxnrhqqjdpprlsv6zbay7
-FileSize: 1124
-NarHash: sha256:0czm8yrbl50iqfpnn8yrs1pp63a27jznbxpbli2cpih1njw70bx6
-NarSize: 2568
-References: 5qcw9i77p93vv00gzgsgf31f62daiic5-MacOSX-SDK-11.0.0.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh g67bilmiv6jv79zj0dac63xx5wvfgjpp-rewrite-tbd-20201114.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
-CA: text:sha256:0maj4bqcdz8bdj754w5kh2s2v8jslqh8pbc2wsmhryfasly8v165

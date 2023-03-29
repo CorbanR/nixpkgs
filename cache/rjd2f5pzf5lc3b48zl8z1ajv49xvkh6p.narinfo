@@ -1,9 +1,0 @@
-StorePath: /nix/store/rjd2f5pzf5lc3b48zl8z1ajv49xvkh6p-system_cmds-550.6.drv
-URL: nar/16l7i8k758x8am325h0l23mjynsvn6sa9z3s0ldjmzqmgpwshicl.nar.xz
-Compression: xz
-FileHash: sha256:16l7i8k758x8am325h0l23mjynsvn6sa9z3s0ldjmzqmgpwshicl
-FileSize: 2320
-NarHash: sha256:1h02nr1pbjnzhsfdrqx1lvhfsqgn735zwrby3sn2yzffr83qa48a
-NarSize: 5512
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv f94wp0jna0g1ka4myhb6m72xfrd79g6a-swift-corefoundation-unstable-2018-09-14.drv inijfjh9j1v3g1b9b6l8v2yhm2p5spn7-openpam-20170430.drv kxd5791nl5kmv1a8n10z3l9hi7av9n44-apple-framework-OpenDirectory.drv mzy1ivzn5c35pkcvgq41d25n47ip6i6q-openbsm-1.1.drv nfh83bqn78bgimm22s049sjzfdzw8ysv-Librpcsvc-26.drv nhzdfhr7s70rwn0y8p0d83jf4aq86686-apple-framework-IOKit.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv xk3l64fapfpwbxj7d2r654sjvpxrql4z-libutil-47.30.1.drv z4r7d19zd4ghqh729dfbmrwmx08w44mh-system_cmds-550.6.tar.gz.drv
-CA: text:sha256:0kh0gfxa8xycmmakqshh4ipv32kqdm8fp1qb5whm2n3hv47rip7g

@@ -1,0 +1,9 @@
+StorePath: /nix/store/0a6mfxp11j55d3d35jwimq5dfh626ica-psutil-5.9.4.tar.gz.drv
+URL: nar/15bnww62w4vbidx86hmzgn7vrm93asax09dg9xkq5qnyr0zxljqs.nar.xz
+Compression: xz
+FileHash: sha256:15bnww62w4vbidx86hmzgn7vrm93asax09dg9xkq5qnyr0zxljqs
+FileSize: 1300
+NarHash: sha256:0i472y89ylv9nlfh3h3pakfiwc0sg1nwc7jy7gg2rqy9f1pdisf5
+NarSize: 2960
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
+CA: text:sha256:05gwd7a2kk7847fvhhczd5sw7nh8kyivrclvkc2051l2nqyqzsg5

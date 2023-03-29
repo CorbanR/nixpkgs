@@ -1,9 +1,0 @@
-StorePath: /nix/store/al8q8pjmgkmcm5i674zjczrnvg0vgxlp-artichoke-f86225f2256b51939d7a2ea0c73ddb36a99f64ab.drv
-URL: nar/1mwbc1nzy1j5dd19jdy8qh5mwfyxgzcbsds6k8yvxwxhnq9bj867.nar.xz
-Compression: xz
-FileHash: sha256:1mwbc1nzy1j5dd19jdy8qh5mwfyxgzcbsds6k8yvxwxhnq9bj867
-FileSize: 1888
-NarHash: sha256:0mflmpil6jhmghkh8hkwqx9zv23k4xy68nl3x7xwwndp0mr6ii0d
-NarSize: 4376
-References: 3jlv2xqd69fybginxkccycyfkfim0lq7-rust-bindgen-0.59.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv cpga41299qlap5n8b0a8hbardslad0s5-rake-12.3.2.drv db9fnj4vy68zvi31142f4pzdgj6daskl-ruby-2.7.6.drv dbxxb080mlr5wv07iws43jx0xa8y3bx4-nss-cacert-3.80.drv f7kzpn6g9plr1aaf17z6dgf9a8dlsw12-cargo-install-hook.sh.drv jjq53xljkabl42ayk5q7vv786zhcsvfb-rust-minimal-1.64.0-nightly-2022-07-22.drv k3kjjl5zyzwlhwi7gnazz7vz4lds0ql7-git-minimal-2.37.0.drv k4d0037ll9z2jz2ggdkfq3gjl358cxmm-mruby-3.1.0.drv kkdd1b7jlv34rm24kv3f0x96b8b274s4-cargo-setup-hook.sh.drv lwjbrv381x7zhqbk1z2zcbj51gw4dg50-cargo-check-hook.sh.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv pxhrm6cl5c1ad5srm61ln4ailhn88h76-artichoke-f86225f2256b51939d7a2ea0c73ddb36a99f64ab-vendor.tar.gz.drv v0l572k4lbzrl45b9vwd9lm78446aypk-rustfmt-1.62.0.drv wvvap065wxg4ynx8f3xwjsmy9ck17agw-cargo-build-hook.sh.drv xihv1mv6g9hazkingpcbfakr6c0rbdmp-source.drv z548czvxq2gh8z4s072c8n00l1rl1a6c-rustc-1.62.0.drv
-CA: text:sha256:1xan3xcbjqfj5bzc6h4grxqi0nffq86l2y1fadfw4ixd9vbsb953

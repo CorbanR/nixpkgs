@@ -1,0 +1,9 @@
+StorePath: /nix/store/idb3lxm98plnfk4zyffdcqcdh7j4iads-fuse-3.11.0.drv
+URL: nar/0bnbqflq640v9p006r256n5nrnl02kyykbjn3i7fm10lg4kc92bl.nar.xz
+Compression: xz
+FileHash: sha256:0bnbqflq640v9p006r256n5nrnl02kyykbjn3i7fm10lg4kc92bl
+FileSize: 1600
+NarHash: sha256:0na7k5yxyd9can8681spq5l0w57x0ykpz5pa8ck3jh00qm909h2k
+NarSize: 3520
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7qlpbwvv7i4hzb5afaybfrpgxyz3sdh0-ninja-1.11.1.drv 9nin4lrlnkyag6qmdzx6am3i8g2wai3x-meson-1.0.0.drv dv7fxvbv6hknspir7iznx5w95ql7ifnn-source.drv g0y2g6ji80by38713iva7iqx4810dx05-fuse3-Do-not-set-FUSERMOUNT_DIR.patch gcv62gg734j16i6la3q9i9pyagq64f2b-util-linux-minimal-2.38.1.drv hmxvs5jh710x9kcpcnga0grkxzfyl7hh-pkg-config-wrapper-0.29.2.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mpfi4376ak9g2z1qpdbqr9jr5bsf759h-fuse3-install.patch p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv
+CA: text:sha256:0la02shmfxr60rljx7m5p82zg0ymllj7yp3bk5fdmjjaihr640k3

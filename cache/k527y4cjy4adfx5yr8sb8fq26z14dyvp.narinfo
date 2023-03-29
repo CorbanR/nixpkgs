@@ -1,9 +1,0 @@
-StorePath: /nix/store/k527y4cjy4adfx5yr8sb8fq26z14dyvp-flex-2.6.4.drv
-URL: nar/18vq133w1n5pkir1g085nmz7r31vmlxiazpr9pyfgkk9bs79dkzm.nar.xz
-Compression: xz
-FileHash: sha256:18vq133w1n5pkir1g085nmz7r31vmlxiazpr9pyfgkk9bs79dkzm
-FileSize: 1284
-NarHash: sha256:104mhkkvsamk5l4fxag8xkpynpskvfzsnvbjqp78l2x9dnlxyxyz
-NarSize: 2736
-References: 04wbwyb6ki8x51q3l75hicdcj4asr4h4-gnum4-1.4.19.drv 0j4kxm3vihdg3qa0349y65cjjc1fcq62-glibc-2.26.patch.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh ai84j35sqiih0h7yaafhnhxgrcclnj2j-help2man-1.49.2.drv cskw6k91k3hh5x9bnsbm0kcqrflmhpx0-hook.drv dhlic9x2gh55gfqphl998xjslpv8klzn-clang-wrapper-11.1.0.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv p8d2vxq4mf3ks7rdx10s85yq287smqqf-flex-2.6.4.tar.gz.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv ybypb0477pnn9ikmy1x0smdh2g1p36kv-bison-3.8.2.drv
-CA: text:sha256:101j90l8riy9n88cys6in7qrdylajwa2b8h92s1xhc8qaqw30dyy

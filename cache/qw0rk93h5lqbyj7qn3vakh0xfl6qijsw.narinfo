@@ -1,0 +1,9 @@
+StorePath: /nix/store/qw0rk93h5lqbyj7qn3vakh0xfl6qijsw-libidn2-2.3.2.drv
+URL: nar/1faia1jxsypr9q7619qai5hdf7lkr4n25ar0di6l6q6gyvybk5mx.nar.xz
+Compression: xz
+FileHash: sha256:1faia1jxsypr9q7619qai5hdf7lkr4n25ar0di6l6q6gyvybk5mx
+FileSize: 1384
+NarHash: sha256:1y9pm9wqn1apmn9qxcc99c5fvbawhxl0dy33ywjczhpr201vmi4r
+NarSize: 3376
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8aynqh9fx9pr91igzwavkvp6r4p3fypy-help2man-1.49.3.drv hdvbp9any9czkqm729hm49zrvbipmnm9-libunistring-1.1.drv jyxmidnx3sci112y1bq37d58svz7dmns-texinfo-7.0.2.drv lggaiaidvp90imn74fxnh4ggykpw40ba-libidn2-2.3.2.tar.gz.drv r0x0mak6dlb0951i9mzml6kzwk05r294-bootstrap-stage4-stdenv-darwin.drv szfjhkhmsxfyc289vz39882d3l866888-fix-error-darwin.patch v0swip5ykcrcjmwr1nzdzpfn8jrn1diq-clang-wrapper-11.1.0.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv xsi567hcp9f6nqkvvsk7pc1bb638d6x1-libiconv-50.drv
+CA: text:sha256:0j2s61k88l5v15j5gzrf0aqmpn07jlap1vj9vc7sv77s1dskwi9x

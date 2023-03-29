@@ -1,9 +1,0 @@
-StorePath: /nix/store/mzy1ivzn5c35pkcvgq41d25n47ip6i6q-openbsm-1.1.drv
-URL: nar/06j98pbpsf7p2nyncxy819w6q5ajmydg66jhikjl740w3wrapp9r.nar.xz
-Compression: xz
-FileHash: sha256:06j98pbpsf7p2nyncxy819w6q5ajmydg66jhikjl740w3wrapp9r
-FileSize: 892
-NarHash: sha256:1nhbkn8c5zmclrv2jky0130f0p28j3rzyrgn9sh4h74xlfkppxz5
-NarSize: 1960
-References: 20lkawvrhq99g8zvxfq1lxi86v46rzj3-source.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv l0a3y5k2p3hh606kmhblf64c5z01rrvl-bsm-add-audit_token_to_pid.patch x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
-CA: text:sha256:0p2wx6f17z5gcrrv7ismrilh1484zk3m3jffxliah6fqp6752lgs

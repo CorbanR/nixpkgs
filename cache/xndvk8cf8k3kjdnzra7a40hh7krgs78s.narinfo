@@ -1,0 +1,9 @@
+StorePath: /nix/store/xndvk8cf8k3kjdnzra7a40hh7krgs78s-compiler-rt-libc-11.1.0.drv
+URL: nar/0k883xlvn75ssqc3s4a8js780ggf21xgj2c703f6raxkmj2xhyxv.nar.xz
+Compression: xz
+FileHash: sha256:0k883xlvn75ssqc3s4a8js780ggf21xgj2c703f6raxkmj2xhyxv
+FileSize: 1864
+NarHash: sha256:05j8vkm3aqhb063bghiwv1baw8ywqxrdpsc06qjchdv1c9kp919b
+NarSize: 4592
+References: 3ic95d8vv23cdj4vq7634zh5zcdsda1p-normalize-var.patch 3m53ki7pr92hacq8mghsldg1wc4wrifm-codesign.patch 665wwmhazpq8bqjky78z3nhsnikaw3bs-compiler-rt-11.1.0.src.tar.xz.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 706qcmh667cmjwffc4vbjs9c745c7hs0-gnu-install-dirs.patch 7ciayqand3y46rzsr0x0n49wr7h52rbl-llvm-11.1.0.drv 8mvcwn96881p7v9zgjgl6n37128ppfig-armv6-no-ldrexd-strexd.patch hg4xdjrfyxqz6ayxql5zpyaibwjqrfx9-cmake-boot-3.25.3.drv j9lspxnlbkrcskxpxg7q6nb74wnn6v2b-darwin-plistbuddy-workaround.patch jd7mnr62kxgks1rwnrrfg22vwnggkpxf-armv7l.patch l3rc7hh76fz7l9bbn9mi7ggdzmf6i81k-xcrun.drv n27wqd0b2jx13nf6r8nslb8vfm96l8wb-python3-minimal-3.10.10.drv rd6gan216l9rm9xs5whbkzsc6c6kqq31-armv6-mcr-dmb.patch wfbzv6p35wfg394qapwq27rc5k71ppix-armv6-sync-ops-no-thumb.patch wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv wry8lpz0cpy9pizfkv6rif67ha2l3q6k-bootstrap-stage3-stdenv-darwin.drv y87vwjq5v1fi0d077xqrsnkqrax3p4iz-libsanitizer-no-cyclades-11.patch ylv0v02l6panidz2hkh756fz363yc68h-X86-support-extension.patch
+CA: text:sha256:08ak4jyrqpxkyqcp3mvdgnabsljpnn9kb1kygvhicirmz235kh36

@@ -1,9 +1,0 @@
-StorePath: /nix/store/qgk0s064m7anrnri9v8sdivr54gsl791-pciutils-3.7.0.drv
-URL: nar/1ly60wczqs12n8n283gf70lg2mww9gfz3xcbvw1cdqj4vyc0r3jy.nar.xz
-Compression: xz
-FileHash: sha256:1ly60wczqs12n8n283gf70lg2mww9gfz3xcbvw1cdqj4vyc0r3jy
-FileSize: 1288
-NarHash: sha256:0yj4gnhsyfc9yn5pa9x9a9qlz4rbhlpcwclkbawxayc4s3zj3lld
-NarSize: 2632
-References: 06xps7mamhq7adn8s5kbr84pc8ncx9nv-zlib-1.2.12.drv 2sz1whb6s9409i2crcy2n6i8yi2gvzid-which-2.21.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ccc7i1mfyb6dcc8mvfxhyywwqlysr8wk-kmod-29.drv drsy7h7mf5924hrw362skqm7ia14jhm6-hwdata-0.360.drv p9cs40m4sacdbw7a3aqg91lfkssy9zd7-pciutils-3.7.0.tar.xz.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv xdczp2jf0mdcaqfi0xmsh3ynqkhad1hd-pkg-config-wrapper-0.29.2.drv
-CA: text:sha256:1hy9d5wxbclw13ir9sgjcr4bvqhj6wvw2p4smxxqbawxkd3vla75

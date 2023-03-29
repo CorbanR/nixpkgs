@@ -1,9 +1,0 @@
-StorePath: /nix/store/f1zbp5c862746nhwkqwk32g0gm4c1nfi-gnused-4.8.drv
-URL: nar/15f6w8n4w7wij0i808a9iajq0iqhfd4r10hy66i7i1smiwmpr52c.nar.xz
-Compression: xz
-FileHash: sha256:15f6w8n4w7wij0i808a9iajq0iqhfd4r10hy66i7i1smiwmpr52c
-FileSize: 944
-NarHash: sha256:0da3m16pdjp22k58hvmvs5mgmm1x6f4hqilmim2n12f3pabmjyq7
-NarSize: 2112
-References: 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9x2qbx2zpmzb2fp3vqcrpzd7n8dm5mnd-bootstrap-stage3-stdenv-darwin.drv qqp9yi7n1n28ncx14w9baqhjnqpv47jj-sed-4.8.tar.xz.drv szi0nqpd4wshw0vyizvy1p99swngaba7-perl-5.34.1.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
-CA: text:sha256:1298pndbrdq1nvwj1gzdxr3yzbr4c5wcy186p754ckpw637n7z9h

@@ -1,9 +1,0 @@
-StorePath: /nix/store/jp7r2hhvyi23yvpd0nm7gqxaj6jhg3kv-iptables-1.8.8.tar.bz2.drv
-URL: nar/1amnfmqs3y7mhgswr8a7cqh6prd9pv2kwr0v0zsl1p6kbbmq7iqj.nar.xz
-Compression: xz
-FileHash: sha256:1amnfmqs3y7mhgswr8a7cqh6prd9pv2kwr0v0zsl1p6kbbmq7iqj
-FileSize: 1312
-NarHash: sha256:1q2rq6qf038jjr1bbirwgwpq8lbhwd0m09hg2mhr2c8x2m35qy8m
-NarSize: 3000
-References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
-CA: text:sha256:1idlgflbqk6s6pni02wi129rzmn3g9bqvnm8636hpw8gh85xg09x

@@ -1,0 +1,9 @@
+StorePath: /nix/store/sjvhp9m69lnp39504raq4zhlgd6jbdnw-ruby-2.7.7.drv
+URL: nar/0rfji26h517w23cj6nr3qvvsxw9zc6m3l7hkhhq21q9q9j6v9328.nar.xz
+Compression: xz
+FileHash: sha256:0rfji26h517w23cj6nr3qvvsxw9zc6m3l7hkhhq21q9q9j6v9328
+FileSize: 3560
+NarHash: sha256:05js5imld57imiz45k1dch2gdsx8yn3rhh3cvdpknq7bfxsf7ny6
+NarSize: 8312
+References: 0bhxhkwpqnkqm7v0nxy8kx112408rnpf-ruby-2.7.7.tar.gz.drv 0y0vhady68akyyz6crk3l1fs3z99hc26-autoconf-2.71.drv 1qiqak8zvprwk7ayvj4pbb4pwfpm0cr8-261d8dd20afd26feb05f00a560abd99227269c1c.patch.drv 38dnd4bvs7l9spilvn89l5mxlqs8ws9s-readline-8.2p1.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 935s4ihbw5l4ccxdv7q5vxlgk08kcnc5-zlib-1.2.13.drv 9bg4j3sr0iggca6myv4gx1by4pvcdaqd-libffi-3.4.4.drv b541ji09l0pwikmqawy6ymsc7l85fhgy-remove-references-to.drv d00vwhmdwj00pvnjwlksrkd88zwzi8mk-rbinstall-new-rubygems-compat.patch gmqwjslh6az134jmg2m0xcmdzzdbkc2d-libyaml-0.2.5.drv imfkmpda0wkav7wcdkiqxcijvnfqmxy6-ncurses-6.4.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv js7qq6i21hag0gpkyql0gap9ka28v1ks-groff-1.22.4.drv kflydgvwcs9xbfm93kg08p4zxmcfrp1z-rubygems-3.4.8.drv lhfils9zjrydv37hdp30w0gjaqi6yvcs-source.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv pcc1adjvz8igp481hbh8xhh4ss7irxwm-autoreconf-hook.drv pjr20188mq059b2075qmch76v6dw121f-openssl-1.1.1t.drv psjjbw1gk6l0y3h0d6a8gpmzp47qvc0w-gcc-wrapper-12.2.0.drv vq9azpazk09k4arh87a0dwks66mvf8aj-bison-3.8.2.drv w7yayg65p8vvi97a2952bpvq7rfwnszp-do-not-regenerate-revision.h.patch wq7zxvl223s5s97y3dhc3gkyk5d6dw0w-rbconfig.rb yrpskd98dzkzlvn0z65xxkg6l83g2inw-gdbm-1.23.drv
+CA: text:sha256:0zyn5yqpl98pfrp2zbyl8wqpj84md2mnfh276l01vwyvi396qcsh

@@ -1,9 +1,0 @@
-StorePath: /nix/store/84hb66lvqx4iminl8yx6k7wzwv6yrmll-nss-3.68.4.drv
-URL: nar/1d0qc31anmf86x7ik6p0sqgnnnj2nh3jhywrhd7by2za9b1wqfbg.nar.xz
-Compression: xz
-FileHash: sha256:1d0qc31anmf86x7ik6p0sqgnnnj2nh3jhywrhd7by2za9b1wqfbg
-FileSize: 3080
-NarHash: sha256:17li6i4isdwyw63vrjws2ak331y0w83jzhbrnm0zbdwx7jxv8wv3
-NarSize: 7392
-References: 0fl818d332y6nvf63lkk91n5dmhw3yhy-coreutils-9.1.drv 4q71fmhqdycrpc8kf0rb170v31s72xvp-nss-3.68.4.tar.gz.drv 52r3dg1y2n7gnj2z7x3izsbhwcn9nyxv-perl-5.34.1.drv 586p1cf4fv2pyjzpsm6wwdv31vbqjkqb-p11-kit-0.24.1.drv 5i2q6bk4chlrm6zsffp300hy667qx07j-sqlite-3.39.0.drv 7a3836562ym16iz19jjwivzwnrsrvkyr-ninja-1.10.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a5skdyvh7a4iap5bpvlrxfq68y330xli-fix-cross-compilation.patch d1nqisym0lc34g1bzn6dc161n28y3i62-85_security_load.patch dhlic9x2gh55gfqphl998xjslpv8klzn-clang-wrapper-11.1.0.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv gkqlp36k156ap28izvn7r2rq396vrdd0-nss-3.15.4-pem-support-20140109.patch.xz.drv jbw6gp11rsbsvq8iv3d03w2ss3v3gbbf-fix-darwin-dylib-names-hook.drv sgsr06izgkkv9p6kllnzqxl93vmpq624-python3-3.10.5-env.drv v0vlaikk5iw5mh9j4qjbb9q16dw9mhjr-nspr-4.34.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv yg9cplf13bk7j9dqjym1dpc0qgrpy5hr-zlib-1.2.12.drv yn8zz3jvnan2p4rd52k4797aznjfmgd6-ckpem.patch yvysx7q8fckn73c6p9xpbh56k4kffba4-cctools-port-949.0.1.drv
-CA: text:sha256:13fd05njc7yahh0pgkcfrln8j1prf5haw18bqf0zap8ss6qd28gr

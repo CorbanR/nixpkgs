@@ -1,9 +1,0 @@
-StorePath: /nix/store/jfah9j310ddawj0lgnx17a8038mmr63n-gmp-with-cxx-6.2.1.drv
-URL: nar/1ir8wrh767gcv6c0fgbdh7a2wgapjpks6m6k1hyhdg95mjkb5bsy.nar.xz
-Compression: xz
-FileHash: sha256:1ir8wrh767gcv6c0fgbdh7a2wgapjpks6m6k1hyhdg95mjkb5bsy
-FileSize: 1180
-NarHash: sha256:0l0hlvcc8igb12icxyn9k0f8z46fgkkssafy2zyinbchnfifm6ha
-NarSize: 2784
-References: 9kpnpv7r8sry0x17kscxrlnvp6cz6y6y-bootstrap-stage0-clang-wrapper-11.1.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9x2qbx2zpmzb2fp3vqcrpzd7n8dm5mnd-bootstrap-stage3-stdenv-darwin.drv cg328ds0rnz5vs9haa23sd9bihj1d7ma-gmp-6.2.1.tar.bz2.drv h96aykl4imzhfapnmavplr49v43c8apx-6.2.1-CVE-2021-43618.patch x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv z6p2kh57hqalrlz16l0ry5dzmwjhbwk6-gnum4-1.4.19.drv
-CA: text:sha256:0w32y8863j1yhhg66029xa5l29lpqli3h5gywp64rhbm1lr27z2j

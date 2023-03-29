@@ -1,0 +1,10 @@
+StorePath: /nix/store/7c136xdrgkka3sdrdifj1dbffk27m7pq-libunistring-1.1
+URL: nar/0c61b1vacv8hpapxxmbk887r8jvfr80fi8qbdsd6avrawgg4bjqb.nar.xz
+Compression: xz
+FileHash: sha256:0c61b1vacv8hpapxxmbk887r8jvfr80fi8qbdsd6avrawgg4bjqb
+FileSize: 449000
+NarHash: sha256:1r57si9l8ycnc6gdp4w5xs2rc4qmk5099f4l69nfpmbrf3hz4b2d
+NarSize: 1887968
+References: 7c136xdrgkka3sdrdifj1dbffk27m7pq-libunistring-1.1 jbcx7ddcqlqqiy59dxm111lzybbljvhk-libiconv-50
+Deriver: hdvbp9any9czkqm729hm49zrvbipmnm9-libunistring-1.1.drv
+Sig: cache.nixos.org-1:0WBVg9oVQTSimipbvjzNpEMI9IyHzhmcictnOPf9kMv+teLdr3fYqnxYzqa7TNUarp0m6fcBsHKsYnHzd3+jBw==

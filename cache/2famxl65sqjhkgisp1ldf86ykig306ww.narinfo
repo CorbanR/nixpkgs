@@ -1,0 +1,9 @@
+StorePath: /nix/store/2famxl65sqjhkgisp1ldf86ykig306ww-python3.10-pyelftools-0.29.drv
+URL: nar/148b63756v7krfr5c8rj1h8jf2y86ghhk9l7nj1vqj4f29y5x5w1.nar.xz
+Compression: xz
+FileHash: sha256:148b63756v7krfr5c8rj1h8jf2y86ghhk9l7nj1vqj4f29y5x5w1
+FileSize: 1720
+NarHash: sha256:0lvklf4iiz7ddmyac7bq324aixa2bdzzvg13bvyazpq5hdyhniry
+NarSize: 4176
+References: 1i0ixszrc2r03rfh3iwhfbi2f4x52wcf-python-catch-conflicts-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8i6cw8wgjqhkpcbn3i1k5czs1jj62g0f-python-namespaces-hook.sh.drv 9ldjr0zdj3qvmjbn8ynxgdg7h56lx4zx-wrap-python-hook.drv 9nzi0hc1xfghmydfl7z0m80ax0sjh0mm-python-imports-check-hook.sh.drv cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv g7phbzm32fm9gm73rm4x3nd4yqnsy7f5-source.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv lrqd5nf1nvsav8yzf1j02dn3m58z0fvc-setuptools-setup-hook.drv nbwz2pkcfil2ibp3wmcrnc99gisndcmg-ensure-newer-sources-hook.drv nsp49j4gaj67csflfh9v3wp2y87p1g82-pip-install-hook.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv s3k27g1ndq5zk71882p97ary76xj36zp-python-remove-bin-bytecode-hook.drv vdlwfw2kp772prkan464z1ky74mqrnp8-setuptools-check-hook.drv x8afnl0gcsqbkg0v4s7iqgxd8mknzdd8-python-remove-tests-dir-hook.drv zay2p712hcja4l7v9xm9a3sdmr7pcxd8-python-output-dist-hook.drv
+CA: text:sha256:0h0p872qi0lcx73jdg85rywl6b9hhahdcdvblmk7aj86v22ng2nn

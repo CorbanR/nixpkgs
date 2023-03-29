@@ -1,9 +1,0 @@
-StorePath: /nix/store/r7a833qn6fsxqaas133yvg3x0px7af9p-cargo-bootstrap-1.61.0.drv
-URL: nar/13xlvc4b562ay5bn2icmk75jsbr66wcm4xcawsnhzcbmsrjwqhiw.nar.xz
-Compression: xz
-FileHash: sha256:13xlvc4b562ay5bn2icmk75jsbr66wcm4xcawsnhzcbmsrjwqhiw
-FileSize: 1032
-NarHash: sha256:1nl19v64m0sv0ji2amihqhprbx3qs262cacx9v5vsqzdawlqiad7
-NarSize: 2224
-References: 2lvyrpmaj77hlzc2pkh12qzqlrnyzxkn-rust-1.61.0-x86_64-unknown-linux-gnu.tar.gz.drv 30m9arbns88cws9mv69d3jlcs0fp9lp2-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv grsxbds4kczds30hqwd9shhjsajvl7wz-rustc-bootstrap-1.61.0.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv
-CA: text:sha256:1js7r62i4z40ifmmhrm6p8y0bjxlwk7nkbmbhl8qzgji5zlixd30

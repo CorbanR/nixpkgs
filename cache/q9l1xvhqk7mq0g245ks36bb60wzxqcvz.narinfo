@@ -1,9 +1,0 @@
-StorePath: /nix/store/q9l1xvhqk7mq0g245ks36bb60wzxqcvz-kexec-tools-2.0.23.drv
-URL: nar/07nn2jhf08ywf4pqddrlb9qmgix48gfbqhqrvn65jdbsj8ia8ybj.nar.xz
-Compression: xz
-FileHash: sha256:07nn2jhf08ywf4pqddrlb9qmgix48gfbqhqrvn65jdbsj8ia8ybj
-FileSize: 976
-NarHash: sha256:0ymng06v0pfnjd1skrpp4kxcvagqg0z3ackimzp64hh4gvkmp70p
-NarSize: 2040
-References: 06xps7mamhq7adn8s5kbr84pc8ncx9nv-zlib-1.2.12.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv fxq5wb49gv3hxm9jpvx7m9m7ac1cl97y-kexec-tools-2.0.23.tar.xz.drv h4x5l3x424fb3vp8892ppnv89jzj8ypi-gcc-wrapper-11.3.0.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv
-CA: text:sha256:1850kz9ns95cdilfls4gvyxckqs7csxphj7fz6wsj35pqhfsgb0y

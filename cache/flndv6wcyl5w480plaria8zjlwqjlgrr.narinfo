@@ -1,9 +1,0 @@
-StorePath: /nix/store/flndv6wcyl5w480plaria8zjlwqjlgrr-aed7294b7b0c228cc0666a8b04f2959bf310ab57.patch.drv
-URL: nar/15hwyairj6srrswx5497lhcr19zy8dw176xyfxrxh2wch55yfdd3.nar.xz
-Compression: xz
-FileHash: sha256:15hwyairj6srrswx5497lhcr19zy8dw176xyfxrxh2wch55yfdd3
-FileSize: 1792
-NarHash: sha256:1g6pq9p21800skipp90x5ddz2mg1c529fa1nhr3kghf8sniik7r3
-NarSize: 4376
-References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv c1xqznsxbginlncsn7mq784r3q92vmqv-patchutils-0.3.3.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
-CA: text:sha256:1hr4wvc21xgffzkhyzr9chij0l8l4yapqd7i49vsn5sfzyd50bg3

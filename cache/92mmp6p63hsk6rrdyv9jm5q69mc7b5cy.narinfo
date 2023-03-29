@@ -1,0 +1,9 @@
+StorePath: /nix/store/92mmp6p63hsk6rrdyv9jm5q69mc7b5cy-rust-bindgen-unwrapped-0.64.0.drv
+URL: nar/0642aqhqpj6wnpnd3xil43kbinnq0slpf3vx8ggrg679scsdh8iw.nar.xz
+Compression: xz
+FileHash: sha256:0642aqhqpj6wnpnd3xil43kbinnq0slpf3vx8ggrg679scsdh8iw
+FileSize: 1780
+NarHash: sha256:1svkhyjal7czfkxsjk0lsmk4c73ywyyy79k0vbj9q3l5fzr7xihv
+NarSize: 4104
+References: 15j86cw1y89msdxcrxfynm24zxwk8yqf-clang-wrapper-11.1.0.drv 596j247dyl6mippnnkhqraphmqixlsha-rust-bindgen-unwrapped-0.64.0-vendor.tar.gz.drv 6gayh2v2k293x3bl0zinhgrf9g2l6wfl-cargo-install-hook.sh.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8k695n4y8dx1d7p7hpv3mavgv4hc109x-rustc-1.67.1.drv fisjxxk5qhr09p6h70dk16f3sppsanni-cargo-setup-hook.sh.drv iypnq8ww1axzvn6y21m0wl8jyvx6b25b-stdenv-darwin.drv kdxiaj3231km08vf0d5j170ns74liyid-clang-11.1.0.drv lcby2hnwrbnza4ic4rnkhldbi3mjky1n-cargo-build-hook.sh.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps wggzlqh3fhb00akgjqkwlia9a6ay6azj-bindgen-cli-0.64.0.tar.gz.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv xpwgwj7i3ivq0bs1qlzjb9m9bjw8piw6-rustfmt-nightly-1.67.1.drv xsi567hcp9f6nqkvvsk7pc1bb638d6x1-libiconv-50.drv zg0lkfcb49wx821wnczz6rbpmdf0z33h-cargo-check-hook.sh.drv
+CA: text:sha256:1pmwwqx74iqxa01acrn7nf5cz4hb24smny4a09zl1vpybycsd7zy

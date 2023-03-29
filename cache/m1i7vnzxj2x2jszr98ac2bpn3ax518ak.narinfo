@@ -1,9 +1,0 @@
-StorePath: /nix/store/m1i7vnzxj2x2jszr98ac2bpn3ax518ak-Encode-Locale-1.05.tar.gz.drv
-URL: nar/1qdzhk9wwd34jv7ji46z7jhc0miwl5m4z6nys1y88pym2jy456n9.nar.xz
-Compression: xz
-FileHash: sha256:1qdzhk9wwd34jv7ji46z7jhc0miwl5m4z6nys1y88pym2jy456n9
-FileSize: 1272
-NarHash: sha256:1jqwnb74wx805arizi0gjn3m81z8hjj8sy52wkn630m7h6hl7kxb
-NarSize: 3016
-References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
-CA: text:sha256:08y66lgcnbr0872kw3w19cqjib21215sv1pyrx6c9qv1jl07nxja

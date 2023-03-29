@@ -1,0 +1,9 @@
+StorePath: /nix/store/6w6y192af1sljdgxy9qp7xd6wqk87rs2-clang-11-12-LLVMgold-path.patch.drv
+URL: nar/1jncwadvs0w39s9nj9y9ymgxr2yv3rk74c5dmml726ah573symzb.nar.xz
+Compression: xz
+FileHash: sha256:1jncwadvs0w39s9nj9y9ymgxr2yv3rk74c5dmml726ah573symzb
+FileSize: 776
+NarHash: sha256:0gqf7wypnllabvh16pzi14w90fwb8snw1xrvxp5g0p9izfwwmh2n
+NarSize: 1760
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 4vq3350zc6sqnibkqpgic2d6cvi1r9hq-substitute-all.sh frkrq5gbyq7qxrvf6al1m70zi81bqfmr-llvm-11.1.0.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv v2az1r12rfivd43pvq2s0brp60n54mqa-clang-11-12-LLVMgold-path.patch
+CA: text:sha256:0ifs12hg0q71ljbic75plygwk7dvhj2q8wz8zdnbn6hkhyvnf9xg

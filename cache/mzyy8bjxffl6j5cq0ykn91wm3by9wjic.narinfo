@@ -1,9 +1,0 @@
-StorePath: /nix/store/mzyy8bjxffl6j5cq0ykn91wm3by9wjic-setuptools-61.2.0-sdist.tar.gz.drv
-URL: nar/0jw9zkscy2gkygj0vhsk2fdi0g11c2nn13yvbig0g3jqjz2axscg.nar.xz
-Compression: xz
-FileHash: sha256:0jw9zkscy2gkygj0vhsk2fdi0g11c2nn13yvbig0g3jqjz2axscg
-FileSize: 1252
-NarHash: sha256:13hp8a3sc8vzpfymhasinhhn1218iwvb4sgqni9v6py9nmzpzqkm
-NarSize: 2928
-References: 0qzs4kq2lvl09k80nf54bl00hd2ylfam-tag-date.patch 4933xwzwrk0cs9y3af8qxs4hxx3b7zk6-setuptools-61.2.0-source.drv 7mksxf8ybd0j7ciwz9s5gf2xb8mmqs7r-aed7294b7b0c228cc0666a8b04f2959bf310ab57.patch.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh alckvda5hllp5w48vxbbvpx65w2i6v3j-setuptools-distutils-C++.patch f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv r08f587ni59f57df8k5hx1ivql6x7brb-python3-3.10.5.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
-CA: text:sha256:0w8z1q57524n78f8b1v5n605vgljd0f8li92flgq64sh9vw644l6

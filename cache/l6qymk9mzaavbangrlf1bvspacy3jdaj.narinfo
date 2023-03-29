@@ -1,9 +1,0 @@
-StorePath: /nix/store/l6qymk9mzaavbangrlf1bvspacy3jdaj-rust-minimal-1.64.0-nightly-2022-07-22.drv
-URL: nar/02rfdlx1hmcdwxwmxqimyw9bxhmklf248rfw49zsvy2b828x8mdx.nar.xz
-Compression: xz
-FileHash: sha256:02rfdlx1hmcdwxwmxqimyw9bxhmklf248rfw49zsvy2b828x8mdx
-FileSize: 1736
-NarHash: sha256:06vladcsbi2kgwm7hx5xv7dy2i7hm8158jjjrw9m2y3k5mcaqpia
-NarSize: 4352
-References: 6k8xzd9rdjach8cqffnr9xl1gjq3d0ia-rust-std-1.64.0-nightly-2022-07-22-x86_64-apple-darwin.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dhlic9x2gh55gfqphl998xjslpv8klzn-clang-wrapper-11.1.0.drv isy0i4m3vzf1p4197bkdmm7vh828w657-libiconv-50.drv mpghga9m7ym5hv5cw8xrcmwzmx6akrny-cargo-1.64.0-nightly-2022-07-22-x86_64-apple-darwin.drv nnscrmv4wx0vh2hm41sr7jc5h3sqbn89-cargo-miri-wrapper.sh r4lnqr3a5n6bcczqxrhhlyap6avif79p-lndir-1.0.3.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv xrsjsnmlx9zkpbygwwqzp6p0gsk4qv2b-rustc-1.64.0-nightly-2022-07-22-x86_64-apple-darwin.drv
-CA: text:sha256:1911sys23v3lgyi9sw9mihrvrh8a3gk6yfc20sn5xf5rfzc27xmv

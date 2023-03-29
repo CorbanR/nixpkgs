@@ -1,9 +1,0 @@
-StorePath: /nix/store/67qdqa2df339n9a86qm82cvjwslyh636-python3.10-flaky-3.7.0.drv
-URL: nar/085h75v6j1b1d7ispasvxb39d9yayxkkwa2jp525bv2il1pxfa7x.nar.xz
-Compression: xz
-FileHash: sha256:085h75v6j1b1d7ispasvxb39d9yayxkkwa2jp525bv2il1pxfa7x
-FileSize: 1844
-NarHash: sha256:1d0fwi0q5g7arqf07ws5636qxjxxwqdg24jbxqackniv1pjjp2wa
-NarSize: 4304
-References: 04nfdi3bvvnmvfjjcbs4clm3r1gm933m-python-catch-conflicts-hook.drv 3zwvh6lc814mkrkadhkffr3d9kqm6yd6-python3.10-mock-4.0.3.drv 406m2gvcms42npk8kmd1zfs027dmn96r-python3-3.10.5.drv 5jldw3axjb9hcm1h0z1gi2rcyn7fm99g-setuptools-check-hook.drv 7g25bcpdfmn0vflgbqghjf505i008c60-python3.10-setuptools-61.2.0.drv 7msb59rnk0mb8sx60r7zsnq9027wkn68-setuptools-setup-hook.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh a2391lsx8zlyv4pxlm5ahljh9v0hnjsm-python-remove-bin-bytecode-hook.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv fq8qbi1afhfpbg2bh9h8060kybdpba69-pip-install-hook.drv g5m4w7xq1nkppvhh6ni6620a5svfzb33-python-remove-tests-dir-hook.drv hcq741jwlca6yaqzrk2yrbfnsb8jnz2r-python-imports-check-hook.sh.drv imjxvw9wcs1n5qq5jz78rkqkmnsd9cy4-hook.drv l81c9v651il39cy15m2a6i7v0am3c2xw-flaky-3.7.0.tar.gz.drv mz874jlpjj1dyxvdnc82jw3d0r36dnsr-python3.10-pytest-7.1.1.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv vyn263vr7kdksqabzqj11wgs2k26v052-python-namespaces-hook.sh.drv yys7ak94hms908551350wjd1xm64i15l-hook.drv zcmv6yafi1r9nhcxr4igywblrva4jvm7-python3.10-nose-1.3.7.drv
-CA: text:sha256:18is58qvmgi6a7viq8zpyyslfhyzap2rmnirciz56yw39sv258xk

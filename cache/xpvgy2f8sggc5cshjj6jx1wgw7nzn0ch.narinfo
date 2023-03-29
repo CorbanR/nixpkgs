@@ -1,0 +1,9 @@
+StorePath: /nix/store/xpvgy2f8sggc5cshjj6jx1wgw7nzn0ch-perl5.36.0-TimeDate-2.33.drv
+URL: nar/1k6wprdqr9mz0hm5767k2275f6rjpbzilvhxkgcl44rkd57z2116.nar.xz
+Compression: xz
+FileHash: sha256:1k6wprdqr9mz0hm5767k2275f6rjpbzilvhxkgcl44rkd57z2116
+FileSize: 908
+NarHash: sha256:0x5wl6l7fbskc2p2wvcrblv3w7lzhamyh5k292by36xdbajq1vng
+NarSize: 2136
+References: 408bvj9rzv3jv0faml1r7xlyw8rs4j5j-perl-5.36.0.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mr9jqy8gyvxfm4k0n2c7b4yww1k3vqx4-TimeDate-2.33.tar.gz.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv vpnqz8y7xx5hbvljgrad2z914ndjhxfd-builder.sh
+CA: text:sha256:19lm39m4kmy78q5nbfdc87mxkr0am42ys0ihiiy7ns68giv97wdm

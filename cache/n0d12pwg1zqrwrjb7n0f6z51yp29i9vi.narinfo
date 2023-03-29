@@ -1,9 +1,0 @@
-StorePath: /nix/store/n0d12pwg1zqrwrjb7n0f6z51yp29i9vi-filelock-3.7.1.tar.gz.drv
-URL: nar/0yb05azfmaafdrba4qf3ggh7yj8ni306nz8fi75zhjazafcc21jl.nar.xz
-Compression: xz
-FileHash: sha256:0yb05azfmaafdrba4qf3ggh7yj8ni306nz8fi75zhjazafcc21jl
-FileSize: 1292
-NarHash: sha256:0wwqz9p4xlv5jr9kpq94krch4a8pnqr223lmdmbfdwb1isk8vg0x
-NarSize: 2944
-References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
-CA: text:sha256:1qyz3gy6w6al0avf5pwwmjy7bisscfq3s7z8hk6d21mdz9m2nsjv

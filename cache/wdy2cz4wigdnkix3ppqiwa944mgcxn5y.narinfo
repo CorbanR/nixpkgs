@@ -1,9 +1,0 @@
-StorePath: /nix/store/wdy2cz4wigdnkix3ppqiwa944mgcxn5y-apple-framework-ServiceManagement-11.0.0.drv
-URL: nar/0ppyn2n6ig50zlh05bx1llvdzgx9v7g2k98xb7sk08jsp5avaq9i.nar.xz
-Compression: xz
-FileHash: sha256:0ppyn2n6ig50zlh05bx1llvdzgx9v7g2k98xb7sk08jsp5avaq9i
-FileSize: 1216
-NarHash: sha256:1f7hj3yyf6bb01qrzik75yjkl783fn77awvgfmzbm8820pvkx00y
-NarSize: 2960
-References: 5qcw9i77p93vv00gzgsgf31f62daiic5-MacOSX-SDK-11.0.0.drv 7dwj9i8rfrwrmcx3sq9fimfpk5093cry-apple-framework-Security-11.0.0.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh g67bilmiv6jv79zj0dac63xx5wvfgjpp-rewrite-tbd-20201114.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
-CA: text:sha256:16i9ahmw0kqmams70kqgxp7d8l0dwig4ijcvkcd7vq0rdmd6wc6h

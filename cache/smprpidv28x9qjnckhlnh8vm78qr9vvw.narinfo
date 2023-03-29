@@ -1,9 +1,0 @@
-StorePath: /nix/store/smprpidv28x9qjnckhlnh8vm78qr9vvw-python3.10-bootstrapped-pip-22.1.2.drv
-URL: nar/10pzxdrp0l7zzbpx0s2njhf6d50rxnfbs6qr26il4c08svia9qvp.nar.xz
-Compression: xz
-FileHash: sha256:10pzxdrp0l7zzbpx0s2njhf6d50rxnfbs6qr26il4c08svia9qvp
-FileSize: 1568
-NarHash: sha256:13f0h22jmzbn1zf98hd2v99ajv9rcqxkc0443cghg91mq8pcbd60
-NarSize: 3840
-References: 1svzy7znc51flb7yi8xqb73pjn5mmjl5-pip-install-hook.drv 30m9arbns88cws9mv69d3jlcs0fp9lp2-hook.drv 406m2gvcms42npk8kmd1zfs027dmn96r-python3-3.10.5.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh b280ay0f2hfmyy2y0zf0zxm18bli8wad-setuptools-setup-hook.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv dqrcxgfpvgl3wz1qwyxq8pilz01m8mfc-setuptools-61.2.0-sdist.tar.gz.drv fx5ifqnh9zn47l6bm6z7wc6b338dmqmf-pip-22.1.2-source.drv ivgrbm838l4w5jrclvyrp4m11akvkgzp-wheel-0.37.1-source.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv yrj8j5mrg8lbgs7z1fn39863hfn0c1lm-unzip-6.0.drv
-CA: text:sha256:15gkppm0d1f6r0g37i4sbymsf5g3501g6v2ql63nif42avkza9rf

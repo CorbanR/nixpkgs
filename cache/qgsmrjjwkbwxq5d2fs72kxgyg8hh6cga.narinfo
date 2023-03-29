@@ -1,0 +1,9 @@
+StorePath: /nix/store/qgsmrjjwkbwxq5d2fs72kxgyg8hh6cga-rustc-1.67.1.drv
+URL: nar/0c5zrc2p90swv8834awhr8l8857w43li7vsyifw6s2bidwhr70gk.nar.xz
+Compression: xz
+FileHash: sha256:0c5zrc2p90swv8834awhr8l8857w43li7vsyifw6s2bidwhr70gk
+FileSize: 2716
+NarHash: sha256:15pniaxgvgd44iwiabgp14r6wnh3p5m23h2620nf0i615qyc5813
+NarSize: 7424
+References: 0gvsdxdp70xj28z9zimmh2fbgcwl3gwf-rustc-bootstrap-1.66.1.drv 0hxf76ikyl2dcynxvf8p83vxm27na8pw-re-erased-regions-are-local.patch.drv 396lqzdpdwam5pc69q45fhswdl6v9g1h-rustc-1.67.1-src.tar.gz.drv 3jbv3scpmj2kxhshfz544jq37dzywbss-openssl-3.0.8.drv 5fpz33vj1blkkc1yjr9cgph5nh0czijc-llvm-15.0.7.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9bg4j3sr0iggca6myv4gx1by4pvcdaqd-libffi-3.4.4.drv b541ji09l0pwikmqawy6ymsc7l85fhgy-remove-references-to.drv cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv hmxvs5jh710x9kcpcnga0grkxzfyl7hh-pkg-config-wrapper-0.29.2.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv ngj1dzvrqlhryd4py4ijirz92rj598kz-xz-5.4.1.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv psjjbw1gk6l0y3h0d6a8gpmzp47qvc0w-gcc-wrapper-12.2.0.drv r6jcqv67saj457cj7v7mzxivachwn4mv-file-5.44.drv s1ybmz2gv1lj3biw9r15cxkdm7fas09r-which-2.21.drv skyp8xs2584fkc44ki1cim9ag55wbi68-setup-hook.sh szp08bm3rfwy2ximrfdmnl6d0mbvpln4-cmake-3.25.3.drv zmg5h3l5zizw1cc9ypvahsr26qhh17rp-cargo-bootstrap-1.66.1.drv
+CA: text:sha256:15nvsjnb3hx3pcqw43hs9pq0kavrg6xr4cm38f14zrw8fs5xbwqb

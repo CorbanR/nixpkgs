@@ -1,0 +1,9 @@
+StorePath: /nix/store/xix5m51ywdax3sc4d95fwi2ppfscwdfc-python3.10-lxml-4.9.2.drv
+URL: nar/03bk4w447kgwya3wsqsfv6bc1zscq6hlhmgiwb178c6nsf2042zd.nar.xz
+Compression: xz
+FileHash: sha256:03bk4w447kgwya3wsqsfv6bc1zscq6hlhmgiwb178c6nsf2042zd
+FileSize: 1784
+NarHash: sha256:0gsj5l8dyb03s84fn5d1x4s4sa0j2binp66gr3d7gly0g9a5miji
+NarSize: 4248
+References: 1i0ixszrc2r03rfh3iwhfbi2f4x52wcf-python-catch-conflicts-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8i6cw8wgjqhkpcbn3i1k5czs1jj62g0f-python-namespaces-hook.sh.drv 935s4ihbw5l4ccxdv7q5vxlgk08kcnc5-zlib-1.2.13.drv 9ldjr0zdj3qvmjbn8ynxgdg7h56lx4zx-wrap-python-hook.drv 9nzi0hc1xfghmydfl7z0m80ax0sjh0mm-python-imports-check-hook.sh.drv bfz281d2vdwdz4vqk30l719nka6id6pp-libxslt-1.1.37.drv c312xgvbar7bhqzmjkfg5gcpgn9w59k7-python3.10-cython-0.29.33.drv cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv cwkma3bmdggr8pby1wsv510m418qpi6v-libxml2-2.10.3.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv lrqd5nf1nvsav8yzf1j02dn3m58z0fvc-setuptools-setup-hook.drv nbwz2pkcfil2ibp3wmcrnc99gisndcmg-ensure-newer-sources-hook.drv nsp49j4gaj67csflfh9v3wp2y87p1g82-pip-install-hook.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv s3k27g1ndq5zk71882p97ary76xj36zp-python-remove-bin-bytecode-hook.drv x0k8qqng76rcmak1slqgqb5bgq6g7kai-source.drv x8afnl0gcsqbkg0v4s7iqgxd8mknzdd8-python-remove-tests-dir-hook.drv zay2p712hcja4l7v9xm9a3sdmr7pcxd8-python-output-dist-hook.drv
+CA: text:sha256:18cc7a5l4wxakx8i2jjhq1d5iqzralr2b15mk1h0vf6z3nxnlnvk

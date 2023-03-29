@@ -1,0 +1,9 @@
+StorePath: /nix/store/gh43nz57l3p1z032hl5bn4k2bfvxm9a7-audit-2.8.5.drv
+URL: nar/0prxyg2l5bzd6q0b22yi4dwna9wr53kcdwl8kx12f1y1q4ql8i65.nar.xz
+Compression: xz
+FileHash: sha256:0prxyg2l5bzd6q0b22yi4dwna9wr53kcdwl8kx12f1y1q4ql8i65
+FileSize: 1732
+NarHash: sha256:07hxig8sl1dsvci7hcx3m81mjb9j8wmx816zkxlspwck498x55v3
+NarSize: 4000
+References: 2zqk53fyirrj961nd06vnfb6p68dlqsv-weak-symbols.patch 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv d6s4ajgyx052nmh3xksrgxzm64bzymn6-swig-3.0.12.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv nczml22ilbczh7zdkn86hhkalj4kp4i4-no-ipx.patch.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv pcc1adjvz8igp481hbh8xhh4ss7irxwm-autoreconf-hook.drv psjjbw1gk6l0y3h0d6a8gpmzp47qvc0w-gcc-wrapper-12.2.0.drv r5c3ccvddcf1a272da0mcaaxgxypzmch-ignore-flexible-array.patch.drv rv7h9acl7hqkscpyr2fyd7z8apx41bll-017e6c6ab95df55f34e339d2139def83e5dada1f.patch.drv w96c01ryppx488vxp0ci3ciqaaf6h0pb-linux-headers-6.2.drv z0zbgg63jp5d01v30qnpl76a08kh5qgb-audit-2.8.5.tar.gz.drv z25qm6aiph46cap2pxgdx6cz9xipvm9g-Add-substitue-functions-for-strndupa-rawmemchr.patch-fix-copyright-merge-conflict.drv
+CA: text:sha256:1x60s1wnrwxaa00ysr5ip36sv23lzi91lng48zmpzl98b3phhx0k

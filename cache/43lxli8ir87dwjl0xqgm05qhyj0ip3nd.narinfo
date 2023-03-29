@@ -1,0 +1,9 @@
+StorePath: /nix/store/43lxli8ir87dwjl0xqgm05qhyj0ip3nd-perl-5.36.0.drv
+URL: nar/0p4985hlvqsvanqnwk1nr11qnxgq262dlymylwy1x0ma90a1j3mf.nar.xz
+Compression: xz
+FileHash: sha256:0p4985hlvqsvanqnwk1nr11qnxgq262dlymylwy1x0ma90a1j3mf
+FileSize: 2248
+NarHash: sha256:0sl7ifbzpj35yc4p2acxamj08cz0fl4xqs9qxll9v0jcg0477kqw
+NarSize: 5464
+References: 1baad96s1v4h94yk2i15320yy8nc1wwj-clang-11.1.0.drv 4fh97vd55q72gs2qv8v277w6kgzxbb7y-perl-5.36.0.tar.gz.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 85f1q5rm0qzqay7fk3935h6kvzfqdcfv-http-tiny-verify-ssl-by-default.patch 9nrf6vvv97r84jkaf9q01vrnazrhgkkk-zlib-1.2.13.drv dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh mb381gpm9k5wdl37l5ad5pp8w11qzhjg-no-sys-dirs-5.31.patch n315a3g9bcxlypqzbm36nzrrg40h6lcj-cpp-precomp.patch r0x0mak6dlb0951i9mzml6kzwk05r294-bootstrap-stage4-stdenv-darwin.drv rk0d1isq3rc0i5wvhdzlrhfrbp0b3rds-Libsystem-1238.60.2.drv v0swip5ykcrcjmwr1nzdzpfn8jrn1diq-clang-wrapper-11.1.0.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv x0ll5lnagy6lg7hgvqb26il3qnmsqisd-sw_vers.patch
+CA: text:sha256:1wh6cxj5sanrv7szb3clrj9k2d90f2087ainq423wah49p6rfs1d

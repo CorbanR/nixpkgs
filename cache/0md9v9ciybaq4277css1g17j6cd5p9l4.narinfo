@@ -1,9 +1,0 @@
-StorePath: /nix/store/0md9v9ciybaq4277css1g17j6cd5p9l4-nghttp2-1.47.0.drv
-URL: nar/0hcvcab8vi5rzx8hljsqy6wcqh77vqapdf4v5kg7gj0378gr1anc.nar.xz
-Compression: xz
-FileHash: sha256:0hcvcab8vi5rzx8hljsqy6wcqh77vqapdf4v5kg7gj0378gr1anc
-FileSize: 1424
-NarHash: sha256:1j6nabar2jab1smh9v5m2b77gr15644ak7j1gp4ql4kyfq0gfnkz
-NarSize: 3304
-References: 5dafazjyzm2w01frx04bx4c7lr2p60ig-nghttp2-1.47.0.tar.bz2.drv 8mjyb33ybpp3h4bgbggmwgnm8zndzkyb-c-ares-1.18.1.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh dc6xix3pqm5ak2rkxmxmb3nrqnkvsm6q-openssl-1.1.1q.drv f3hqirx435x9i1jwvdz51j09rq51sy86-stdenv-darwin.drv g145km8b75alwm2nxnpvilhxvcyka0hd-install-shell-files.drv lcs76jhnlfzg73xbr7gs98dan69qf3gj-pkg-config-wrapper-0.29.2.drv nnqlqr07i2g53gjy4irrb86b8s13d1da-libev-4.33.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv yg9cplf13bk7j9dqjym1dpc0qgrpy5hr-zlib-1.2.12.drv
-CA: text:sha256:1n3rbnqf3m5wrk4azmnsqb82dnlygm1h66yqypcgcy2rillw4c0g

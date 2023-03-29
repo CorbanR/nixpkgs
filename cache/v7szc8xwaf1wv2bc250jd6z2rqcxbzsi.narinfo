@@ -1,9 +1,0 @@
-StorePath: /nix/store/v7szc8xwaf1wv2bc250jd6z2rqcxbzsi-rapture-2.0.0-go-modules.drv
-URL: nar/1rb2sd20dc8byj8y9ixgb0zdgcsgsakqpx1qb1pjisdfb7vmgsrb.nar.xz
-Compression: xz
-FileHash: sha256:1rb2sd20dc8byj8y9ixgb0zdgcsgsakqpx1qb1pjisdfb7vmgsrb
-FileSize: 1368
-NarHash: sha256:1na9phzbn7whsdyvqv8fgvda4yf5jfjf6md5rdffkyynp4pmq71x
-NarSize: 2776
-References: 3ay8yqjpq5rz9b6dl88smq97xm9k37jg-go-1.18.4.drv 5cmb0z54amyffx0678fgvp7mf9x78iij-git-2.37.0.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv dbxxb080mlr5wv07iws43jx0xa8y3bx4-nss-cacert-3.80.drv f8wwzrsaxpjzi36wl9nbkvj9rlsw1ql9-source.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv
-CA: text:sha256:0y68pk21w7v2njdfgxi0w420sv76a8l3skgx8pyyr0zbyibrw4sg

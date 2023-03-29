@@ -1,0 +1,9 @@
+StorePath: /nix/store/wnxfcagwck6s9admp4bp0brzfnwczznb-perl5.36.0-Capture-Tiny-0.48.drv
+URL: nar/12jqxj1s7c5lklw1rrvcpv6ifjp3p9nqhi7f1qn8rbrnv1i7r3q3.nar.xz
+Compression: xz
+FileHash: sha256:12jqxj1s7c5lklw1rrvcpv6ifjp3p9nqhi7f1qn8rbrnv1i7r3q3
+FileSize: 1020
+NarHash: sha256:12hfbzvr5mkpyrx08l6dri6j56ghbvnr3v40cz85k5m8nwmmdx36
+NarSize: 2432
+References: 42m0yq15l89v59qjvwvk8nids174qzsq-Capture-Tiny-0.48.tar.gz.drv 7rh9n73g0lhsv518wldfnhv9ym3dalkk-perl-5.36.0.drv iypnq8ww1axzvn6y21m0wl8jyvx6b25b-stdenv-darwin.drv vpnqz8y7xx5hbvljgrad2z914ndjhxfd-builder.sh wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
+CA: text:sha256:1f0dwmcfcci0ys0hmy0wnbqgc7iz24ln2l100jr29087ffn50iwg

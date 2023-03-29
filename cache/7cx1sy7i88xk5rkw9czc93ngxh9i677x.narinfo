@@ -1,9 +1,0 @@
-StorePath: /nix/store/7cx1sy7i88xk5rkw9czc93ngxh9i677x-apple-framework-IOKit-11.0.0.drv
-URL: nar/0k92bdszm1j179i70mschaw0j680zxjpxi8jkgd2cbq9cflc5sfc.nar.xz
-Compression: xz
-FileHash: sha256:0k92bdszm1j179i70mschaw0j680zxjpxi8jkgd2cbq9cflc5sfc
-FileSize: 1128
-NarHash: sha256:1pfrg8w4ynm8pxd0ap0y5jkjz1vp2haj7w248ybklfxlyazypmy6
-NarSize: 2544
-References: 5qcw9i77p93vv00gzgsgf31f62daiic5-MacOSX-SDK-11.0.0.drv 99nmdcsbl9fdsgh37hx0jjc1gsbbzp19-stdenv-darwin.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh g67bilmiv6jv79zj0dac63xx5wvfgjpp-rewrite-tbd-20201114.drv x2j8f7rar5z3n7rxbsxmbr5hwkknccwp-bash-5.1-p16.drv
-CA: text:sha256:0k04fdv5rybgmjpkrdpr2mrxzyw0ccb5a6rlgadw2mz2ciy7bdll

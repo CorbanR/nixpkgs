@@ -1,0 +1,9 @@
+StorePath: /nix/store/h2vl695fc0b9y22j7c8bq1552s648ka2-fix-rpath.patch.drv
+URL: nar/063ym284hiz8sgrrqlv67vkhcljk8h0v0phh3lyq0hqpb1fda5x3.nar.xz
+Compression: xz
+FileHash: sha256:063ym284hiz8sgrrqlv67vkhcljk8h0v0phh3lyq0hqpb1fda5x3
+FileSize: 680
+NarHash: sha256:0qnlq3a0c86ljfjkhq9pa7q98azzr0nybsyi4hnbigvr8wv55pi0
+NarSize: 1544
+References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 4vq3350zc6sqnibkqpgic2d6cvi1r9hq-substitute-all.sh bcyh2lqb07k9a2g6y7668jv9g6zs5am0-fix-rpath.patch jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv
+CA: text:sha256:1pppjma66fnb1hpsqiqd2vsr38mjhxdcss55iv0lc4k9s0d5hqdg

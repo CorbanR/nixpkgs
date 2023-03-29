@@ -1,9 +1,0 @@
-StorePath: /nix/store/imqspffx731ca5cmfwcx2qqwsgysll73-gnupg-2.3.6.drv
-URL: nar/0iz9l55y8y3cq4inddwc4blkfplgl70j0sb9lgqvva31fv02l8f4.nar.xz
-Compression: xz
-FileHash: sha256:0iz9l55y8y3cq4inddwc4blkfplgl70j0sb9lgqvva31fv02l8f4
-FileSize: 2064
-NarHash: sha256:0wcjw1pksfwbyqa54kc761a7glxcswwdpir9lpl955v421p0rg3x
-NarSize: 4968
-References: 09ysgw8zj28zy31l02dcrjrvs9mibvav-tests-add-test-cases-for-import-without-uid.patch 3b8sq00ymfln2byc05bqdrk7m23gldcs-libgcrypt-1.10.1.drv 7b1ks72hp6hm3shsdc47d3cib53r6y8a-gnupg-2.3.6.tar.bz2.drv 896ji3ynxi12mcn0rk85avsisjyzaw30-allow-import-of-previously-known-keys-even-without-UI.patch 8rr6yxkx82x6ar1xi3kx6cw85dpbyahm-glibc-iconv-2.34.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bb0sis5mzjsmvrlw1qgs7f7mbpvgg1q4-libgpg-error-1.42.drv bn9ga54bjw05z7psd1gxh3dnhn8h1dr7-CVE-2022-34903-g10-fix-garbled-status-messages-in-NOTATION_DATA.patch bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv cdh58ifalsx66n1jhxrfhgh4xgkwcx87-texinfo-6.8.drv h4x5l3x424fb3vp8892ppnv89jzj8ypi-gcc-wrapper-11.3.0.drv jss0gqcxr6xai4hx41acjg7gvy542j4p-libassuan-2.5.5.drv lkiq0284fdry3rwd1piiv9n356cqvszw-tpm2-tss-3.2.0.drv lr98izcb4cqnwx0hq03lmmi3jb946qm5-v3-0001-Disallow-compressed-signatures-and-certificates.patch ml6k7sqh826hy2cilhq7n44fnbh0zbd9-accept-subkeys-with-a-good-revocation-but-no-self-sig.patch n14rxg9lby5gz2vr5q4y5nijv90cm9bv-fix-libusb-include-path.patch pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv pgicm84k8l765f1zhdxkyhb0v4v22vpn-libksba-1.6.0.drv wl9w1fn9b2fhsq741mvmp87bzp9w8ijc-gettext-0.21.drv xdczp2jf0mdcaqfi0xmsh3ynqkhad1hd-pkg-config-wrapper-0.29.2.drv ya9j1bvaxg2dyax9lndksblvljqm2kap-npth-1.6.drv
-CA: text:sha256:1ld9c4fmywxf5rfy3zj7nqz7ac9mgzxbb8isy775am4wykfs20mk

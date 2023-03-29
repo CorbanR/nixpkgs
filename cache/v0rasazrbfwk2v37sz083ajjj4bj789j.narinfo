@@ -1,0 +1,9 @@
+StorePath: /nix/store/v0rasazrbfwk2v37sz083ajjj4bj789j-fix-cross-compilation.patch.drv
+URL: nar/1gr6bg4lgdycr51vfd709bqyndf23vf5ia9z355yzwmgjhlx7gvj.nar.xz
+Compression: xz
+FileHash: sha256:1gr6bg4lgdycr51vfd709bqyndf23vf5ia9z355yzwmgjhlx7gvj
+FileSize: 872
+NarHash: sha256:0yna4snzgnshbsp6632ival6k3i531lwk5x8l86hd2abhvdsbrda
+NarSize: 2024
+References: 2vwxypx6glxg6jhf0vm8iaii6ijrkw7h-tcl-8.6.11.drv 4vq3350zc6sqnibkqpgic2d6cvi1r9hq-substitute-all.sh 5241l4i852qd9imqz3jgv9rv9gv701gk-fix-cross-compilation.patch b3yxm4065brv4xzqqcgvzc4kh530v7sq-bootstrap-stage3-stdenv-darwin.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
+CA: text:sha256:13gjww6ifn20pvk4ihi4lbji2xhskli6sf9byinlf4761amibrg8

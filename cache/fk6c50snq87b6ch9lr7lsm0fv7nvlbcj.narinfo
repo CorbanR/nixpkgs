@@ -1,0 +1,9 @@
+StorePath: /nix/store/fk6c50snq87b6ch9lr7lsm0fv7nvlbcj-python3.10-hatchling-1.13.0.drv
+URL: nar/14flc9q8f82ccj5fjskfssy1raqvc7brnfnvzgjgw1ph8gcyynlz.nar.xz
+Compression: xz
+FileHash: sha256:14flc9q8f82ccj5fjskfssy1raqvc7brnfnvzgjgw1ph8gcyynlz
+FileSize: 2040
+NarHash: sha256:1xl2sp66dx1mg6brq4f9k9p9jx9fbz8b72q7x2ys8lflkw3y9c0v
+NarSize: 4872
+References: 029xbsmrq9v65hknd4mjk3gs2bvxwwq2-hatchling-1.13.0.tar.gz.drv 11zk8akrwi6dmvjj1dkimpmx4ijgkzbi-python3.10-packaging-23.0.drv 3bd4dv4bf5wd5c0w0lf6a2wraydinim1-python3.10-pluggy-1.0.0.drv 41ky5rgnwql0mz0k6w6fjarzpxgg7lvb-pip-install-hook.drv 58c8wzr1kjr2q36qdjkx9nfahj6ym8b9-wrap-python-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7ann0zya47lsjnrxjf969l83nfdsn395-python-remove-tests-dir-hook.drv anp61lsjpgq01hnxqa7www3yz732dyfd-python-namespaces-hook.sh.drv diq5wr65ld9rjfcdxdys62kibmcq35r8-python3.10-tomli-2.0.1.drv ha9wx2s7vcw916rv5xs8ksm7p5l2n0q6-python-catch-conflicts-hook.drv iypnq8ww1axzvn6y21m0wl8jyvx6b25b-stdenv-darwin.drv kdp8ib70arwkgcz81pgspw4bmpcdff9j-python-remove-bin-bytecode-hook.drv l2lh3ldkc1kvkgxv30lm3cfqnmkgn8dm-python3.10-editables-0.3.drv mpr1siz83667wamk0ma6s3k4006az4mi-python3.10-pathspec-0.11.0.drv nb5gb58wbz1pgc89ync2dz4kaasxrwmr-python-imports-check-hook.sh.drv nqd4xq5bwjswl7lw2rmhqcc67wjaw9ky-python3-3.10.10.drv slcsnl50fgp37n4y4sdbzp85lydhbxmy-pip-build-hook.sh.drv w5abqnnl50b6ci9gyz5jk5m2avmvrdbc-python-output-dist-hook.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv zg38fz3shmy495d2hj2ygb0m2bxvlw6k-ensure-newer-sources-hook.drv
+CA: text:sha256:1m08bnsk8mr21vavpg3kg97mmx0bxprw7mcs1abgxdq353zfgvf4

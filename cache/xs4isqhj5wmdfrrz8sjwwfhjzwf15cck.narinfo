@@ -1,9 +1,0 @@
-StorePath: /nix/store/xs4isqhj5wmdfrrz8sjwwfhjzwf15cck-expect-5.45.4.drv
-URL: nar/0bkc99smnczw4pp0hh59y49dnfjxh1ssjp2sai6x5rr69n305siv.nar.xz
-Compression: xz
-FileHash: sha256:0bkc99smnczw4pp0hh59y49dnfjxh1ssjp2sai6x5rr69n305siv
-FileSize: 1312
-NarHash: sha256:0pb3vxma72v2z6wbgikfjfy7fgqqb5rj4d2xgi70hxr8r7m8jpx3
-NarSize: 3024
-References: 30m9arbns88cws9mv69d3jlcs0fp9lp2-hook.drv 3akk7kq9zgfwz8cmniqvs26lngn5zr1q-tcl-8.6.11.drv 7dfxca5vr7jy50w0wnhqv93i64z154y6-0001-enable-cross-compilation.patch.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh 9s22q9sk5g4ipxrmhkwba7jbvlpxbi3v-expect5.45.4.tar.gz.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv pdvj096mfnygmdipv9zvqrwryf8w0p26-stdenv-linux.drv s6rdjf309jah21cyd7x4qg0fxhjjznzx-tcl-package-hook.drv v7ckl0ilyvanvzgc558r3c31kps5mrrp-hook.drv
-CA: text:sha256:07jxx6vpvjmqhhjdyyqidm811h693dn943mg1p1j0srxwsy1y2zd

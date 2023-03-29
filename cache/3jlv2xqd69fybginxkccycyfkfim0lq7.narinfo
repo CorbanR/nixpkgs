@@ -1,9 +1,0 @@
-StorePath: /nix/store/3jlv2xqd69fybginxkccycyfkfim0lq7-rust-bindgen-0.59.2.drv
-URL: nar/1zgfq5rihrr2gqyqrfcyn2b2hh8dw3gxlz1pmz2i2kmwsx1dzgrp.nar.xz
-Compression: xz
-FileHash: sha256:1zgfq5rihrr2gqyqrfcyn2b2hh8dw3gxlz1pmz2i2kmwsx1dzgrp
-FileSize: 1008
-NarHash: sha256:0mygyv2jwbncgj82s56dv0sw4rdzv56xr6c3qs0d9ca99cpwc0bn
-NarSize: 2440
-References: 1g1n7i4n0f026f0dag561mh9z346nkwl-clang-wrapper-11.1.0.drv 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv 42s0kxzfwcvjy1k52mrpgxni0c7pgv0s-rust-bindgen-unwrapped-0.59.2.drv 9krlzvny65gdc8s7kpb6lkx8cd02c25b-default-builder.sh bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv wyp49vb82k6hfa689jc0i7zjb8maaq0w-clang-11.1.0.drv x1i6xnc3v1y0rrnx1dd980kdr2sdifja-wrapper.sh
-CA: text:sha256:0dndz0ffk8ncqri86sh95p66ys8j32nvpjwv5f01x3k4hvh1b5r3

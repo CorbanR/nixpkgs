@@ -1,0 +1,9 @@
+StorePath: /nix/store/nhfw6vm8hg2nrm51yin3rqb2gir0002p-tcl-package-hook.drv
+URL: nar/0f8plybbyin1nas2scfbcis2nynh3zqf5avky5rf12yqk00w2m33.nar.xz
+Compression: xz
+FileHash: sha256:0f8plybbyin1nas2scfbcis2nynh3zqf5avky5rf12yqk00w2m33
+FileSize: 940
+NarHash: sha256:0242bc10c3in3xk1fxzicxzrfa3h99a1q3k59am9lbdm52k226q9
+NarSize: 2160
+References: 2qw0p25np1zfcz82kdbhrz59zs14lldh-make-shell-wrapper-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh b3yxm4065brv4xzqqcgvzc4kh530v7sq-bootstrap-stage3-stdenv-darwin.drv w1hzw7qnvs1vhzpp5g021990v2kbxjfh-tcl-package-hook.sh wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
+CA: text:sha256:18lqiwgiz02nnmd0c2p4inaw90bcy6k6c81hd1jzx43683rv1hq6

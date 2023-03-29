@@ -1,0 +1,9 @@
+StorePath: /nix/store/w9gwfz8r6fy3k2d5diskj4jpwppf78l0-glibc-locales-2.35-224.drv
+URL: nar/115g8b0q2cvshp22f5rlzmw6cciwh78pjx6yrchhh98b7lddmmr4.nar.xz
+Compression: xz
+FileHash: sha256:115g8b0q2cvshp22f5rlzmw6cciwh78pjx6yrchhh98b7lddmmr4
+FileSize: 3124
+NarHash: sha256:1y1xh1606chsdf9l8py6iz34apxnksz4f4fcdx0bvabpi5isk2xw
+NarSize: 7424
+References: 001gp43bjqzx60cg345n2slzg7131za8-nix-nss-open-files.patch 17yjw33i747j1v1md1fgi4s2i0hy8klq-locales-builder.sh 5acak1pw4j29yal5vljczhkwbs16bc3d-locales-setup-hook.sh.drv 7kw224hdyxd7115lrqh9a4dv2x8msq2s-fix-x64-abi.patch 8haph3ng4mgsqr6p4024vj8k6kg3mqc4-nix-locale-archive.patch b1w7zbvm39ff1i52iyjggyvw2rdxz104-dont-use-system-ld-so-cache.patch f3i9w8q5mdi4xpgjdixy3aq1drdlifbv-libidn2-2.3.2.drv gxmzw1rcx7gigw0cqsv5pfyrg9l35yfd-glibc-2.35.tar.xz.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv l9yiy982yxkijaazijr741w36a97llcs-0001-Revert-Remove-all-usage-of-BASH-or-BASH-in-installed.patch mnglr8rr7nl444h7p50ysyq8qd0fm1lm-dont-use-system-ld-so-preload.patch mnw63wmnk13hm2igikmfsgr9ca2vs9gl-python3-minimal-3.10.10.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv pbl6gwzzj2px724cis2z36a3bbh10bxp-binutils-2.40.drv psjjbw1gk6l0y3h0d6a8gpmzp47qvc0w-gcc-wrapper-12.2.0.drv sxv7vwsanif38wri00hr2cg91ffagcjf-2.35-master.patch.gz vq9azpazk09k4arh87a0dwks66mvf8aj-bison-3.8.2.drv w96c01ryppx488vxp0ci3ciqaaf6h0pb-linux-headers-6.2.drv za0pg7fmysrcwrqcal26fnmzw6vycgdn-fix_path_attribute_in_getconf.patch zl9sr7rzxsf4siadwf3s6s7y5cpbvrp6-glibc-2.35-224.drv
+CA: text:sha256:1s7w94370248r69vhdx5nm1ap5bnknm0zwy1brnmv9jqhf2v8x9z

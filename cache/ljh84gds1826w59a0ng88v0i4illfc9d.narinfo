@@ -1,9 +1,0 @@
-StorePath: /nix/store/ljh84gds1826w59a0ng88v0i4illfc9d-apipkg-2.1.1.tar.gz.drv
-URL: nar/16zcra5mvqrxi1ap4h0pwfqcym8jjxn8bx0mqrw2clnnd4pgzvpw.nar.xz
-Compression: xz
-FileHash: sha256:16zcra5mvqrxi1ap4h0pwfqcym8jjxn8bx0mqrw2clnnd4pgzvpw
-FileSize: 1296
-NarHash: sha256:04w12crw7j4b9hqs2bz4a2a511kfzjasn3708y8mwlpblxgmihk1
-NarSize: 2968
-References: 3j1j700107ir9ndhhqw5n41v8qfgg36n-stdenv-linux.drv avy30sz07akpkymc90yjq8272c1bk1r6-mirrors-list.drv bsi5ibvsl7xzjv5kyiqh5lafg07l4z59-bash-5.1-p16.drv ca8iygnxsqa5ii6pxk5asrrnbknd354y-curl-7.84.0.drv lphxcbw5wqsjskipaw1fb8lcf6pm6ri6-builder.sh
-CA: text:sha256:1qss9dp6kf49lcynqz7868dsb35rf6c033zqf7d70psayxx5vlhx
