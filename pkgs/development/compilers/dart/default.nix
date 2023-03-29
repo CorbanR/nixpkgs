@@ -6,7 +6,7 @@
   unzip,
   version ? (
     if stdenv.isDarwin
-    then "2.17.6"
+    then "2.19.6"
     else ""
   ),
 }:
@@ -21,4 +21,4 @@ else
   let
     options = {inherit stdenv fetchurl unzip;} // lib.optionalAttrs (version != "") {inherit version;};
   in
-    callPackage <nixpkgs/pkgs/development/interpreters/dart> options
+  callPackage <nixpkgs/pkgs/development/compilers/dart> options

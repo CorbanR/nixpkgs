@@ -12,7 +12,7 @@ buildGoModule rec {
     owner = "get-bridge";
     repo = "muss";
     rev = "${version}";
-    sha256 = "1qp0c2l4s7mx3w9gx385l9wypswmwykp05kvx9kfq3s7a597bm44";
+    sha256 = "sha256-hNR1UlFHD+xm6nsWcKfnlevreaIFjf4SH70eTahg4OI=";
   };
 
   doCheck = false;

@@ -14,23 +14,18 @@
 
   # Packages that are darwin only for now
   darwinPlatformPackages = {
-    dart_stable = callPackage ./pkgs/development/interpreters/dart {};
-    dart_beta = callPackage ./pkgs/development/interpreters/dart {version = "2.18.0-271.2.beta";};
-    dart_dev = callPackage ./pkgs/development/interpreters/dart {version = "2.19.0-13.0.dev";};
-    graalvm11-ce-bin = callPackage ./pkgs/development/compilers/graalvm/graalvm-ce-bin.nix {javaVersion = "11";};
-    graalvm8-ce-bin = callPackage ./pkgs/development/compilers/graalvm/graalvm-ce-bin.nix {javaVersion = "8";};
+    dart_stable = callPackage ./pkgs/development/compilers/dart {};
+    dart_beta = callPackage ./pkgs/development/compilers/dart {version = "3.0.0-290.3.beta";};
+    dart_dev = callPackage ./pkgs/development/compilers/dart {version = "3.0.0-369.0.dev";};
   };
 
   crossPlatformPackages = rec {
     _nyx = callPackage ./pkgs/tools/system/nyx {}; # name conflics with another nix package hence _nyx
     artichoke = callPackage ./pkgs/development/compilers/artichoke {};
-    dart = callPackage ./pkgs/development/interpreters/dart {};
-    goaccess = callPackage ./pkgs/tools/misc/goaccess {};
-    hurl = callPackage ./pkgs/tools/networking/hurl {inherit (pkgs.darwin.apple_sdk.frameworks) Security;};
+    dart = callPackage ./pkgs/development/compilers/dart {};
     muss = callPackage ./pkgs/applications/virtualization/muss {};
     muss-dev = callPackage ./pkgs/applications/virtualization/muss/dev.nix {};
     rapture = callPackage ./pkgs/tools/security/rapture {};
-    terraform_0_12 = callPackage ./pkgs/applications/networking/cluster/terraform {};
     truss-cli = callPackage ./pkgs/applications/virtualization/truss-cli {};
     vaulted = vaulted-wrapped;
     vaulted-unwrapped = callPackage ./pkgs/tools/security/vaulted {enableWrapper = false;};
