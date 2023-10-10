@@ -4,7 +4,7 @@
   fetchurl,
   writeTextFile,
   unzip,
-  version ? "2.19.6",
+  version ? "3.1.3",
 }: let
   # Add a little helper script to start the dart language server
   # See https://github.com/dart-lang/sdk/blob/master/pkg/analysis_server/tool/lsp_spec/README.md
@@ -20,30 +20,30 @@
     beta_version = "beta";
     dev_version = "dev";
   in {
-    "2.19.6-x86_64-darwin" = fetchurl {
+    "3.1.3-x86_64-darwin" = fetchurl {
       url = "${base}/${stable_version}/release/${version}/sdk/dartsdk-macos-x64-release.zip";
-      sha256 = "999a66d6d67aef780a5cf455bdf551133587e79e7853a962412e4c79affa95da";
+      sha256 = "ddadd6bf48675440fa683afddc771f0917adba5e58adc5bd5261c1a2bcf47201";
     };
-    "3.0.0-290.3.beta-x86_64-darwin" = fetchurl {
+    "3.2.0-210.1.beta-x86_64-darwin" = fetchurl {
       url = "${base}/${beta_version}/release/${version}/sdk/dartsdk-macos-x64-release.zip";
-      sha256 = "6adcd14258e50d852b873ca8888e224d520af44d971ecbf44c6ccb1138a2efbc";
+      sha256 = "f8de231b80d74c211a6849d20326596042ae921c87f31d6041c0f9e3858cbe48";
     };
-    "3.0.0-369.0.dev-x86_64-darwin" = fetchurl {
+    "3.2.0-236.0.dev-x86_64-darwin" = fetchurl {
       url = "${base}/${dev_version}/release/${version}/sdk/dartsdk-macos-x64-release.zip";
-      sha256 = "54bc7a12c1672abc9643c9beb4568b0e3bf82d3966a38cc75030be1c42ea3418";
+      sha256 = "8b85b2575e8fd4c47bf65f40a94b1d9d82e805fdeeca40aea2db44c1087850ac";
     };
 
-    "2.19.6-aarch64-darwin" = fetchurl {
+    "3.1.3-aarch64-darwin" = fetchurl {
       url = "${base}/${stable_version}/release/${version}/sdk/dartsdk-macos-arm64-release.zip";
-      sha256 = "3c6b54b6f44bca38bdc7858ea45734f297951eba5fb10c8fa7b86b4a3f43edb6";
+      sha256 = "795ad45899ff4004403ed6aa998181f10936cbf6c8d7125e8d1dad6fb3d35659";
     };
-    "3.0.0-290.3.beta-aarch64-darwin" = fetchurl {
+    "3.2.0-210.1.beta-aarch64-darwin" = fetchurl {
       url = "${base}/${beta_version}/release/${version}/sdk/dartsdk-macos-arm64-release.zip";
-      sha256 = "d8ba093d655b3cedfa3398105b9ce820c8452c0086061c8fb3bbd7cfee8023dc";
+      sha256 = "8b2cee0df8199d6868b3160ead16cbe463434f0d6fdf4ed15b70ae0d17f6c120";
     };
-    "3.0.0-369.0.dev-aarch64-darwin" = fetchurl {
+    "3.2.0-236.0.dev-aarch64-darwin" = fetchurl {
       url = "${base}/${dev_version}/release/${version}/sdk/dartsdk-macos-arm64-release.zip";
-      sha256 = "4a42b7ad9914b67b5056a59f04f9ceab8c306a5a33e5bf898e0fc667b2d58383";
+      sha256 = "618a436fe9e1c26d0d9797004c7e55c3a73f36532437e30dec076e4ca80ab3e3";
     };
   };
 in

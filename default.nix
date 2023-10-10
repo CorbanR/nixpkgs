@@ -8,19 +8,16 @@
 
   callPackage = pkgs.lib.callPackageWith (pkgs // self);
 
-  x86_64-darwinOnly = {
-    # nodejs-8_x = callPackage ./pkgs/development/web/nodejs-8_x {}; # Not sure what broke this package in Ubuntu.. but moving here for now as I primarily use this on OSX only
-  };
+  x86_64-darwinOnly = {};
 
   # Packages that are darwin only for now
   darwinPlatformPackages = {
     dart_stable = callPackage ./pkgs/development/compilers/dart {};
-    dart_beta = callPackage ./pkgs/development/compilers/dart {version = "3.0.0-290.3.beta";};
-    dart_dev = callPackage ./pkgs/development/compilers/dart {version = "3.0.0-369.0.dev";};
+    dart_beta = callPackage ./pkgs/development/compilers/dart {version = "3.2.0-210.1.beta";};
+    dart_dev = callPackage ./pkgs/development/compilers/dart {version = "3.2.0-236.0.dev";};
   };
 
   crossPlatformPackages = rec {
-    _nyx = callPackage ./pkgs/tools/system/nyx {}; # name conflics with another nix package hence _nyx
     artichoke = callPackage ./pkgs/development/compilers/artichoke {};
     dart = callPackage ./pkgs/development/compilers/dart {};
     muss = callPackage ./pkgs/applications/virtualization/muss {};

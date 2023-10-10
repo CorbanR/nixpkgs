@@ -16,17 +16,16 @@ with import <nixpkgs> {
 };
   rustPlatform.buildRustPackage rec {
     pname = "artichoke";
-    version = "73f8bd2f4c30bd7057b7f471b8928d6312440d06";
+    version = "7454564203f1a782425f9e82b0b9e258997df118";
 
     src = fetchFromGitHub {
       owner = "artichoke";
       repo = "artichoke";
       rev = "${version}";
-      sha256 = "sha256-osog4kYkgwQ1szqBmKvJwHPksnmvbTbjFvDEcTa9tRo=";
+      sha256 = "sha256-JQKydDK/eIJSzQ1RUsxiH/T6Bgr0J+ZkGGcrcD+uhtQ=";
     };
 
-    cargoSha256 = "sha256-3XiWi/yxlG+zNe3SUhhIOIIUQKQ5CBlrkG1lV9MHuKc=";
-
+    cargoSha256 = "sha256-/VrXLFcbZcAl0RRVPUgbhw+bzRc9NFHx0bRnK2O+jvc=";
     nativeBuildInputs = [rust-bin.nightly.latest.minimal mruby ruby rake rustfmt rust-bindgen];
 
     doInstallCheck = true;

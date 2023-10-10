@@ -12,7 +12,6 @@ with pkgs; let
   darwinPlatformPackages = {};
 
   crossPlatformPackages = {
-    _nyx = callPackage ../tools/system/nyx {}; # name conflics with another nix package hence _nyx; See installCheckPhase
     artichoke = callPackage ../development/compilers/artichoke {}; # See installCheckPhase
     dart = callPackage ../development/compilers/dart {}; # See installCheckPhase
     hello = callPackage ./hello/test.nix {};
