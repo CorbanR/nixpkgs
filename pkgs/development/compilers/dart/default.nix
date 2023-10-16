@@ -6,7 +6,7 @@
   unzip,
   version ? (
     if stdenv.isDarwin
-    then "2.19.6"
+    then "3.1.3"
     else ""
   ),
 }:
