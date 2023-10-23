@@ -42,6 +42,7 @@ with import <nixpkgs> {
       description = "Ruby implementation written in Rust";
       homepage = "https://github.com/artichoke/artichoke";
       license = licenses.mit;
+      platforms = platforms.darwin;
       maintainers = [(import ../../../../maintainers/maintainer-list.nix).craun];
     };
   }
