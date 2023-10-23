@@ -15,10 +15,10 @@
     dart_stable = callPackage ./pkgs/development/compilers/dart {};
     dart_beta = callPackage ./pkgs/development/compilers/dart {version = "3.2.0-210.1.beta";};
     dart_dev = callPackage ./pkgs/development/compilers/dart {version = "3.2.0-236.0.dev";};
+    artichoke = callPackage ./pkgs/development/compilers/artichoke {};
   };
 
   crossPlatformPackages = rec {
-    artichoke = callPackage ./pkgs/development/compilers/artichoke {};
     dart = callPackage ./pkgs/development/compilers/dart {};
     muss = callPackage ./pkgs/applications/virtualization/muss {};
     muss-dev = callPackage ./pkgs/applications/virtualization/muss/dev.nix {};
