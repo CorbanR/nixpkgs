@@ -1,9 +1,0 @@
-StorePath: /nix/store/v2nlwlc3jpn4qhlfz1svn1ja64rb6kml-apple-framework-ColorSync-11.0.0.drv
-URL: nar/0apq7lz73ic8k17fg64ll5n2p5jq238f9zq9c4p2hnb0anca75xr.nar.xz
-Compression: xz
-FileHash: sha256:0apq7lz73ic8k17fg64ll5n2p5jq238f9zq9c4p2hnb0anca75xr
-FileSize: 1208
-NarHash: sha256:0za38i4l6a0dz556zm755r3gpn2blb248ggaxxqflnq65whpcszq
-NarSize: 3024
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh jnl83pzwf7i0cv3i0sgzrfdk8pfdg82m-stdenv-darwin.drv rn1x0hw3p0h8a5a2y2xpnrd5cwn4izrc-rewrite-tbd-20201114.drv vdc5jp9wq87kvfcyygn10xi3xjp625i6-MacOSX-SDK-11.0.0.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
-CA: text:sha256:16262madgwajh7ay55iyvigvk1a2d3af67lcda20f12x2sjckmsv

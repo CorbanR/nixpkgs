@@ -1,9 +1,0 @@
-StorePath: /nix/store/3vw4s5z1yg0bz19dv927y7mqsdjwj356-Libnotify-165.20.1.drv
-URL: nar/1hw13401vdq08rvc6xq93hphgjkr53zzwdf8chksfsqcq62yrswq.nar.xz
-Compression: xz
-FileHash: sha256:1hw13401vdq08rvc6xq93hphgjkr53zzwdf8chksfsqcq62yrswq
-FileSize: 1124
-NarHash: sha256:1dl2b1s1ql4m0i12hn16nw2d0a3npmzny533i4nfpbn11g68izgq
-NarSize: 2496
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9zmz6x1vf1gfaidzjmzflfkhrgxynycj-Libnotify-165.20.1.tar.gz.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv y9k5lpsbhw75hjxx57gf0vhri67ninxb-bootstrap-stage1-stdenv-darwin.drv
-CA: text:sha256:02vpcw1gnml08hzzi66fgvv1gvlwgcl7z7hkxcln93yaavf8jc5v

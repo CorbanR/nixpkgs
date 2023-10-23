@@ -1,0 +1,9 @@
+StorePath: /nix/store/i3xrnimj9wjb79h3l40qid30pd0sqpdj-python3.10-pygments-2.15.1.drv
+URL: nar/09wzlwg3di9v3s92aq3r3hxk0234dhxc54i7ji4xww0zjmrbx73l.nar.xz
+Compression: xz
+FileHash: sha256:09wzlwg3di9v3s92aq3r3hxk0234dhxc54i7ji4xww0zjmrbx73l
+FileSize: 1760
+NarHash: sha256:06gvd3q071ffbx4g2ndhkvlp6q90qay17i56gz8bxrbmwmyzdxa5
+NarSize: 4144
+References: 3pxnxyklpmmxwqma9zdks1yf38lyvn2c-python-output-dist-hook.drv 5bsbpwnnhbz5jni1283l2hsiql8ri6zq-python-remove-bin-bytecode-hook.drv 6v82wg9401iq3xyzdd521h8qzqpm0z2q-pypa-build-hook.sh.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9r6cc5r3nf8f6q70hrh18a56871hzxiv-wrap-python-hook.drv c2wrkw05xs3pi2s1y2266fsjkmwqn1xg-python-namespaces-hook.sh.drv f6xa4hhgd2gbbg7rwphy10s18n53crpw-python-catch-conflicts-hook.drv h7rbqnncyy5z24d6cj41wccxwkzs31x9-ensure-newer-sources-hook.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv nq2h2c6fh57164l0xpv9923i25fc0rzn-python-remove-tests-dir-hook.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv qah3hjnzbg10zpdl65zl4ybryn4fyl97-Pygments-2.15.1.tar.gz.drv r30v8xr0h0nrzdjhzy465633ybbj27cw-python3-3.10.12.drv s9zk4j4w8yawv45milnalbmipz6a3xl0-pypa-install-hook.drv sn5f3q8m5n43dbn4kdv2fliw4wny1f60-python3.10-setuptools-68.0.0.drv wz4lr06pa42g5px6dakgbrc9fqlhz84m-python-imports-check-hook.sh.drv
+CA: text:sha256:06an1j0h5j69wpx6k5jljisbqsnjrnny25k3nwawgjg853lxpinb

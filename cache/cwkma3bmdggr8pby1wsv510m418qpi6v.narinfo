@@ -1,9 +1,0 @@
-StorePath: /nix/store/cwkma3bmdggr8pby1wsv510m418qpi6v-libxml2-2.10.3.drv
-URL: nar/1gij7qh40jnz8knyvvvwcjp18f6bp91jj05y74maci1iidq0cprq.nar.xz
-Compression: xz
-FileHash: sha256:1gij7qh40jnz8knyvvvwcjp18f6bp91jj05y74maci1iidq0cprq
-FileSize: 1636
-NarHash: sha256:0iaxyhic210mraj23x24zg7d6p8nn13ayhcjz0yai4ykil75pnk3
-NarSize: 3960
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 82ynld5pb1rxs187w0sqqkfbrh5zj6kh-libxml2-2.10.3.tar.xz.drv 935s4ihbw5l4ccxdv7q5vxlgk08kcnc5-zlib-1.2.13.drv cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv frr6f2hq56j6b4wc0bsklaqskjsagqc0-utf8-xmlErrorFuncHandler.patch hmxvs5jh710x9kcpcnga0grkxzfyl7hh-pkg-config-wrapper-0.29.2.drv imfkmpda0wkav7wcdkiqxcijvnfqmxy6-ncurses-6.4.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv pcc1adjvz8igp481hbh8xhh4ss7irxwm-autoreconf-hook.drv y7pfh1gnd362vfn3c0d1709k6mh9kc0p-find-xml-catalogs-hook.drv
-CA: text:sha256:029ir8cbzyd9zgdh39s1kn2rwj4jhgm1m0y820ljxsa1b6zvm9db

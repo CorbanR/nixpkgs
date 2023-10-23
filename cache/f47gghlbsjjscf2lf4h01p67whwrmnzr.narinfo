@@ -1,0 +1,9 @@
+StorePath: /nix/store/f47gghlbsjjscf2lf4h01p67whwrmnzr-python3.10-cffi-1.15.1.drv
+URL: nar/0j5r2qd27x9ss923x4466998x2gwk9dj28qi4dva6wvnc4mnyw81.nar.xz
+Compression: xz
+FileHash: sha256:0j5r2qd27x9ss923x4466998x2gwk9dj28qi4dva6wvnc4mnyw81
+FileSize: 2372
+NarHash: sha256:1680ppp27yfhm70qxv2amz68fmw7gv1z9yav3rc9lnq2dqr3644p
+NarSize: 5584
+References: 2q5b31qbf71abcma4wsqkn50ncjh250d-setuptools-setup-hook.drv 2w40p3nn8bdpz8hk1vicqgmimfq0j6xz-9c7d865e17ec16a847090a3e0d1498b698b99756.patch.drv 3pxnxyklpmmxwqma9zdks1yf38lyvn2c-python-output-dist-hook.drv 5bsbpwnnhbz5jni1283l2hsiql8ri6zq-python-remove-bin-bytecode-hook.drv 5z9s2fwa562cql2w5mwn9klfl12a1qpv-cffi-1.15.1.tar.gz.drv 6bpyfm65j0n45rzr4d5h7ljllbi8h7p2-bd02e1b122612baa74a126e428bacebc7889e897.patch.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7mr8f110hrbf0i2pk5wqpzc3s8l50f5d-pytest-check-hook.drv 9r6cc5r3nf8f6q70hrh18a56871hzxiv-wrap-python-hook.drv c2wrkw05xs3pi2s1y2266fsjkmwqn1xg-python-namespaces-hook.sh.drv c86cfz2pfck0fksjayym9yb5pm3pxahm-python3.10-pycparser-2.21.drv f3qbybvi10z88cjj3g33ak704jfclxqj-libffi-3.4.4.drv f6xa4hhgd2gbbg7rwphy10s18n53crpw-python-catch-conflicts-hook.drv h7rbqnncyy5z24d6cj41wccxwkzs31x9-ensure-newer-sources-hook.drv hvhb9i0jg49ia3p3c9vi4p5dk020pn04-darwin-use-libffi-closures.diff l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv nq2h2c6fh57164l0xpv9923i25fc0rzn-python-remove-tests-dir-hook.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv q34g5qlybml3jnrvwwj43512vljns7fq-setuptools-check-hook.drv r30v8xr0h0nrzdjhzy465633ybbj27cw-python3-3.10.12.drv s9zk4j4w8yawv45milnalbmipz6a3xl0-pypa-install-hook.drv wz4lr06pa42g5px6dakgbrc9fqlhz84m-python-imports-check-hook.sh.drv yha5cfc812n0lj8f89r3vzi3z1yk2xaa-pkg-config-wrapper-0.29.2.drv
+CA: text:sha256:06kqkb1v359xgr86gwarh100r2ha813783kw3lr6a75qp88gm9xs

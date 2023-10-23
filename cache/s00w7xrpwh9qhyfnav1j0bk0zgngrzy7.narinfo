@@ -1,0 +1,9 @@
+StorePath: /nix/store/s00w7xrpwh9qhyfnav1j0bk0zgngrzy7-libdispatch-442.1.4.drv
+URL: nar/1vhljv207ax054m9j118r60cd66xxwm0wp21ksjszrkbim4n1fyk.nar.xz
+Compression: xz
+FileHash: sha256:1vhljv207ax054m9j118r60cd66xxwm0wp21ksjszrkbim4n1fyk
+FileSize: 1476
+NarHash: sha256:0n013fvandabmsmqpkv0qg93v1s8c3znji3v9q9adwl61mk78c0x
+NarSize: 3672
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv jzwqkk0jlgahb7c90xwbimmx1qsi7dq1-bootstrap-stage2-CF-stdenv-darwin.drv z6kilszpcz3sdp7nc96253l3ivnrjjpa-libdispatch-442.1.4.tar.gz.drv
+CA: text:sha256:1qnawn2fd7i1v1a6qg3d9xv7w3vz4ig42ssa28mp0jpk4bshsgvw

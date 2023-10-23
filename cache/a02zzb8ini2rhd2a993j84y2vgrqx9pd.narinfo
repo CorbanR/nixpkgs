@@ -1,0 +1,9 @@
+StorePath: /nix/store/a02zzb8ini2rhd2a993j84y2vgrqx9pd-docbook-xsl-nons-1.79.2.drv
+URL: nar/0vvkv35v8sgkpk25cb0xlw8w9gsmrgkl8b37j8lr6mw4x3ds7fw1.nar.xz
+Compression: xz
+FileHash: sha256:0vvkv35v8sgkpk25cb0xlw8w9gsmrgkl8b37j8lr6mw4x3ds7fw1
+FileSize: 1232
+NarHash: sha256:1klgand2dghgwmpvh2gdk5zzkpr6aa3mnlz1g1rx7xqgwsc7zv7p
+NarSize: 2688
+References: 2wv3f6wn8cly84i9b2j7212yksk60pah-find-xml-catalogs-hook.drv 5lsv830f3g4cpj6vl78yhx5phbk5af09-docbook-style-xsl-non-recursive-string-subst.patch.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8ap1nkfymqdx501jhhq98pz561p6pghm-docbook-xsl-nons-1.79.2.tar.bz2.drv g1zkk5zgxpi9888q4y7bd60dw83qrs65-07631601e6602bc49b8eac3aab9d2b35968d3e7a.patch.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv yl3q4x0zh8il407i07j97afqh7xmzai1-catalog-legacy-uris.patch.drv
+CA: text:sha256:1p74qlg7xdxpg91ai0sl5r8yp1j8lsn72rp7ca9mc2vv4z6dpvbk

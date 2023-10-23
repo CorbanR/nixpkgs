@@ -1,0 +1,9 @@
+StorePath: /nix/store/dj0qw842dlp209rycdfnv0gv9abrn9wc-python3-minimal-3.10.12.drv
+URL: nar/1f6avzjp880fybqklr4w2ckmh9srdzrq769r0r7ak8k4yd1hg9m1.nar.xz
+Compression: xz
+FileHash: sha256:1f6avzjp880fybqklr4w2ckmh9srdzrq769r0r7ak8k4yd1hg9m1
+FileSize: 3680
+NarHash: sha256:17hb3l6j5ys7xi3zwckwjqc2g2fv75r758v1n81kb8h3mg6pwcyv
+NarSize: 9312
+References: 1l7a8n502sdw0cmq6kv6xc7gncidi3kz-bzip2-1.0.8.drv 345r2zz7pgiyk91j89qlf7mhs95jrv6f-no-ldconfig.patch 57kclla9vza2n87xgwg1ap54d20cz6lb-fix-finding-headers-when-cross-compiling.patch 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh aafa965mg7grhivxa01mmbqksz6c3w77-python-3.x-distutils-C++.patch cv1ynpzvjjr0s72jkbblbzz3ymr87lpi-0001-On-all-posix-systems-not-just-Darwin-set-LDSHARED-if.patch dkb2rjyj7lwmvsn4zzwx85kx8r61nk9w-darwin-libutil.patch f3qbybvi10z88cjj3g33ak704jfclxqj-libffi-3.4.4.drv fhmrqgf4gy6m8753fz6sr1b7bppdawii-nuke-references.drv fixr4abaw4dj323aa2j4y2fa6p5cbfqf-xz-5.4.4.drv hyi63n123n58aqgs4g865g3psi4mm72x-libxcrypt-4.4.36.drv l7zfa5in1rrfs5x4l1p4wg5rda0sm6vl-zlib-1.3.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv nsqsj7kmvyg9jw3anflhipq1v6df7cmr-bootstrap-stage1-stdenv-darwin.drv r112dk8w7zvdjipki58ch00m825li7fq-virtualenv-permissions.patch r2r7znd209lsghnslxv2r39y9y7vdkpf-Python-3.10.12.tar.xz.drv vhyr3kjdqykw47xqcd3wm3z62861jfzr-python-setup-hook.sh.drv w6yf7y5xixzqxs1c61bf4nj0s4p2vgx1-expat-2.5.0.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv x6aiw4vay2b63slqz5byimn0alhg5b1s-darwin-tcl-tk.patch
+CA: text:sha256:16lfp2xpx4hqw8jdbmyzz8qi3bdxf6whgg7r1w94hdpd052by96r

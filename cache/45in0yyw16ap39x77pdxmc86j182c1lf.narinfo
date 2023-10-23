@@ -1,0 +1,9 @@
+StorePath: /nix/store/45in0yyw16ap39x77pdxmc86j182c1lf-perl5.38.0-Net-SMTP-SSL-1.04.drv
+URL: nar/123q7cnqsa2i9s90zmh1nb7ir46rycps49749zxm056igbrcj8kf.nar.xz
+Compression: xz
+FileHash: sha256:123q7cnqsa2i9s90zmh1nb7ir46rycps49749zxm056igbrcj8kf
+FileSize: 1088
+NarHash: sha256:1hgvafjn1fvbk2j8ww8m0yv2l0ihvvyhwwjxk0rqv9hzja9064gm
+NarSize: 2592
+References: 13nlybllni04a5bxximwsp8ixrin778w-Net-SMTP-SSL-1.04.tar.gz.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv k73yrysjgfs8fyml5zz33gcs2rdfwdkc-perl5.38.0-IO-Socket-SSL-2.068.drv szz76xqzbb3i6fdyna5j9hqk1bj6mzhv-perl-5.38.0.drv vpnqz8y7xx5hbvljgrad2z914ndjhxfd-builder.sh
+CA: text:sha256:1qylfp1fa0xy9fgrbqvyp6zbf61fg7qks041k19rca507yhwvvvl

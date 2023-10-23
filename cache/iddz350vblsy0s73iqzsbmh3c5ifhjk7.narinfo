@@ -1,9 +1,0 @@
-StorePath: /nix/store/iddz350vblsy0s73iqzsbmh3c5ifhjk7-perl-5.36.0.drv
-URL: nar/07prx20fw8hxhrizwmhsqxd6a0r6p0i07dm7dxi1sywrvw07kqq1.nar.xz
-Compression: xz
-FileHash: sha256:07prx20fw8hxhrizwmhsqxd6a0r6p0i07dm7dxi1sywrvw07kqq1
-FileSize: 2096
-NarHash: sha256:0ij4arnqzziqa9pfkmczmqbrpw9kriyl7a5cy0xnhzl89q80rb7j
-NarSize: 4960
-References: 27i9f0kqzzh93jn6am55ncn77l4iknhx-gcc-12.2.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 85f1q5rm0qzqay7fk3935h6kvzfqdcfv-http-tiny-verify-ssl-by-default.patch 935s4ihbw5l4ccxdv7q5vxlgk08kcnc5-zlib-1.2.13.drv b53i1gainsvya49b5dn9cmpa0nlaw9kr-perl-5.36.0.tar.gz.drv bzci5ph1kd8kcpjims9d9jv87z730n8s-libxcrypt-4.4.33.drv dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mb381gpm9k5wdl37l5ad5pp8w11qzhjg-no-sys-dirs-5.31.patch p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv psjjbw1gk6l0y3h0d6a8gpmzp47qvc0w-gcc-wrapper-12.2.0.drv zl9sr7rzxsf4siadwf3s6s7y5cpbvrp6-glibc-2.35-224.drv
-CA: text:sha256:1j7kzjsa9w64hy3p116xbilnv5b2ylbzfsg9ip5dpnbqpcacnw3k

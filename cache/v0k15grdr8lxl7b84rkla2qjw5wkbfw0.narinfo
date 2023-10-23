@@ -1,9 +1,0 @@
-StorePath: /nix/store/v0k15grdr8lxl7b84rkla2qjw5wkbfw0-cmake-boot-3.25.3.drv
-URL: nar/1pkwplgdiw746yispa91f0hmrmh3xax37ivxwd7yib2rn955xh2h.nar.xz
-Compression: xz
-FileHash: sha256:1pkwplgdiw746yispa91f0hmrmh3xax37ivxwd7yib2rn955xh2h
-FileSize: 1644
-NarHash: sha256:0rhvb1l871hjhil5pijz6483lm9xvrwhsj93nbfcj3k59rs9c62s
-NarSize: 3992
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7yjka9xvfmk5s2cn1alkqlmkbqifcgv6-002-application-services.diff ar1p4gcvlqf8dwbkfrcb01srbywinaj5-check-pc-files-hook.sh hmxvs5jh710x9kcpcnga0grkxzfyl7hh-pkg-config-wrapper-0.29.2.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv k0qj9nfiy76y67ga43pszjqdk8f3915i-001-search-path.diff mf3bdryqkpb2zrwmgynximfywj44ynxh-setup-hook.sh p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv pbl6gwzzj2px724cis2z36a3bbh10bxp-binutils-2.40.drv psjjbw1gk6l0y3h0d6a8gpmzp47qvc0w-gcc-wrapper-12.2.0.drv riq0vjnnrr5ig8ac7zw2h7z3kkap0s53-cmake-3.25.3.tar.gz.drv rq41inv92jszcs5x62nc5cci5hapbjpw-003-libuv-application-services.diff zl9sr7rzxsf4siadwf3s6s7y5cpbvrp6-glibc-2.35-224.drv
-CA: text:sha256:07n9w1l2zrq7z452fwwfm1ynvi1p19lg6qvjxj64pknm150fyq09

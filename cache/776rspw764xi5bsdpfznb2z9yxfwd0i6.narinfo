@@ -1,9 +1,0 @@
-StorePath: /nix/store/776rspw764xi5bsdpfznb2z9yxfwd0i6-rust-std-1.70.0-nightly-2023-03-29-x86_64-unknown-linux-gnu.drv
-URL: nar/0cbz58ii0n0260g817n3hpyqldi14l3yr20k72sgwvsc41fghv4n.nar.xz
-Compression: xz
-FileHash: sha256:0cbz58ii0n0260g817n3hpyqldi14l3yr20k72sgwvsc41fghv4n
-FileSize: 1364
-NarHash: sha256:1alhwa3zd8r22wyhbl6q795wa4icx8dyix3i3gdfgwj7270kl96w
-NarSize: 3024
-References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh dcjak6awi9yqq01ja4i72xr5p10wn4x1-gnutar-1.34.drv jbpfykxzrk0sbdsvl5kd234q7q2357mf-rust-std-nightly-x86_64-unknown-linux-gnu.tar.xz.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv p5354bawnzc997ysdf3cjhqla37b1097-auto-patchelf-hook.drv
-CA: text:sha256:0fr5x6pa5pnizbdbjffn68vr5bc7x7xbnb03pk74frbh22rnw0xr

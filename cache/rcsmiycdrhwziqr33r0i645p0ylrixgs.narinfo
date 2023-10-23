@@ -1,9 +1,0 @@
-StorePath: /nix/store/rcsmiycdrhwziqr33r0i645p0ylrixgs-curl-8.0.1.drv
-URL: nar/1x3g1kc4h1y0fzlx200zslaplrkqakmda8p1cfbdbx1y9xm3rgrm.nar.xz
-Compression: xz
-FileHash: sha256:1x3g1kc4h1y0fzlx200zslaplrkqakmda8p1cfbdbx1y9xm3rgrm
-FileSize: 2032
-NarHash: sha256:14ivf0w7flzsq8xjvgzih590v17v3vikkvsy6bn00fri6nhrsy85
-NarSize: 5096
-References: 14mvw037rm9547kz1x083v9np4lwdhm4-libidn2-2.3.2.drv 2bjbpxz2a1fq79isj1bb4bkwc02qhq2j-curl-8.0.1.tar.bz2.drv 3jbv3scpmj2kxhshfz544jq37dzywbss-openssl-3.0.8.drv 408bvj9rzv3jv0faml1r7xlyw8rs4j5j-perl-5.36.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 935s4ihbw5l4ccxdv7q5vxlgk08kcnc5-zlib-1.2.13.drv adgdkjgx1n2r7a8mjgp4jz7g48na9pq0-separate-debug-info.sh ah6skss7qizfifx2qby1xklvc8c4kcj4-zstd-1.5.4.drv f41h5fms1j53axp1xz4l3p44hbqqg2s2-libssh2-1.10.0.drv hmxvs5jh710x9kcpcnga0grkxzfyl7hh-pkg-config-wrapper-0.29.2.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv jm14jf5pgs67fjpgcnnkj8cps0jp5pdv-nghttp2-1.51.0.drv lvw8jr8xlb63mp8r8qzjr1cq1l7ins4n-libkrb5-1.20.1.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv rzbxmyz4b7jbwp09pjk874vykf8f50kb-brotli-1.0.9.drv w1c7ihmg8ykp1ddpjldq7i5407cqsbz4-7.79.1-darwin-no-systemconfiguration.patch
-CA: text:sha256:13flh73zjpzzssqv906yb9avacn4pljl5wx8y8nrr0h5fcz4bjdf

@@ -1,0 +1,9 @@
+StorePath: /nix/store/wj963r2rqbh2zr1xy57hxhgdqy1lrxvq-libnet-3.13.tar.gz.drv
+URL: nar/1jp8p37n99mlhscz948x0sj40xgz64imyvw1zvzphkqr80g2kzi8.nar.xz
+Compression: xz
+FileHash: sha256:1jp8p37n99mlhscz948x0sj40xgz64imyvw1zvzphkqr80g2kzi8
+FileSize: 1352
+NarHash: sha256:024ya0pj3j2hqny1f2a5j1sgmswaisyvpl9y8zg3apy0i5i9xz4l
+NarSize: 3200
+References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh p4jpyr1vsixxl6sbkfy0r0398wwmqbci-bootstrap-stage0-stdenv-darwin.drv pfc1kmyhx8lkwakqlc0yarb8p5nldl4f-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:12n96fh172ypfjs83x4n4b5mic354xicvk04x79vihymf3ixijvm

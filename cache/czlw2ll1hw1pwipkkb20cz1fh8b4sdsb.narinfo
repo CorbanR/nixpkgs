@@ -1,9 +1,0 @@
-StorePath: /nix/store/czlw2ll1hw1pwipkkb20cz1fh8b4sdsb-06-initialize-the-symlink-flag.patch.drv
-URL: nar/0db678j0bfsj1cyab8vyzhnj14jqzimcwgcrblxrywyy81sns75y.nar.xz
-Compression: xz
-FileHash: sha256:0db678j0bfsj1cyab8vyzhnj14jqzimcwgcrblxrywyy81sns75y
-FileSize: 1424
-NarHash: sha256:10idb2y200as8wc515sr5v8wmb5swyy43sq71spsl7mdhzc5z6rb
-NarSize: 3256
-References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
-CA: text:sha256:0nwqp13jr7c5i65g6ckrxi9lbxa4nkzpm042sqxdw7ca0qy4naai

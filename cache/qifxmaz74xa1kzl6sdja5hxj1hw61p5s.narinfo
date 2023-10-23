@@ -1,9 +1,0 @@
-StorePath: /nix/store/qifxmaz74xa1kzl6sdja5hxj1hw61p5s-artichoke-73f8bd2f4c30bd7057b7f471b8928d6312440d06.drv
-URL: nar/11wdary0p043sanzaz7lawrbmqgg1c1ghp4g1ac3r1rn9sbw64c8.nar.xz
-Compression: xz
-FileHash: sha256:11wdary0p043sanzaz7lawrbmqgg1c1ghp4g1ac3r1rn9sbw64c8
-FileSize: 1948
-NarHash: sha256:0frgar9czg1njsb71c25aaflpv1gg2lqyqdfj2jhrnrxb3hhyqr8
-NarSize: 4512
-References: 0hnp4mwbswabfyjafvky560xyf0hc7np-ruby-2.7.7.drv 11ywg0jmwq9p6g6x616wsm6dw777hsh2-rake-13.0.6.drv 13nj74czdnfva1i126bky9dal55w9b8d-mruby-3.2.0.drv 20xjjzzg0g3zf3ngwx6l6hhf74kq89yj-source.drv 6gayh2v2k293x3bl0zinhgrf9g2l6wfl-cargo-install-hook.sh.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8k695n4y8dx1d7p7hpv3mavgv4hc109x-rustc-1.67.1.drv bpqbnghzyxdwinfkq18fw87dcrjakznx-rustfmt-1.67.1.drv cfzsv4bdd25jjp357ksyqgip3668g00y-rust-bindgen-0.64.0.drv fisjxxk5qhr09p6h70dk16f3sppsanni-cargo-setup-hook.sh.drv iypnq8ww1axzvn6y21m0wl8jyvx6b25b-stdenv-darwin.drv lcby2hnwrbnza4ic4rnkhldbi3mjky1n-cargo-build-hook.sh.drv lra12icrk4hc09qmmfjby6qplr2wqcx0-rust-minimal-1.70.0-nightly-2023-03-29.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps vl3cjwg0m7dfdddz7syff9bsl1chd8zz-artichoke-73f8bd2f4c30bd7057b7f471b8928d6312440d06-vendor.tar.gz.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv xsi567hcp9f6nqkvvsk7pc1bb638d6x1-libiconv-50.drv zg0lkfcb49wx821wnczz6rbpmdf0z33h-cargo-check-hook.sh.drv
-CA: text:sha256:0snirx1l5r2ni2qzzax00qinifnhkmnqdxy2vqdyfpxclfzi800m

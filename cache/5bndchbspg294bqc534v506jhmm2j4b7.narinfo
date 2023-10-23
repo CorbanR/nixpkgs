@@ -1,9 +1,0 @@
-StorePath: /nix/store/5bndchbspg294bqc534v506jhmm2j4b7-e2fsprogs-1.46.6.drv
-URL: nar/1wyr7nj8d0vaacvbk90gisq8fd1bg2r5b4bgwd6mrdpjg3p37lfy.nar.xz
-Compression: xz
-FileHash: sha256:1wyr7nj8d0vaacvbk90gisq8fd1bg2r5b4bgwd6mrdpjg3p37lfy
-FileSize: 1648
-NarHash: sha256:0xhf0v0rkjk7r0jlr1gb0163sy7dg8gah1bk2vdvray5yr1509ph
-NarSize: 3968
-References: 0skl9pj00yd4nlnyj5j2hb9lwi03r4in-gettext-0.21.drv 408bvj9rzv3jv0faml1r7xlyw8rs4j5j-perl-5.36.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7llq5f386cs9hhpaqd243glqvjclal5w-e2fsprogs-1.46.6.tar.gz.drv 9fn2gc5s9bnwhx6yq0al9za8rragbpp2-fix-glibcism.patch.drv gcv62gg734j16i6la3q9i9pyagq64f2b-util-linux-minimal-2.38.1.drv hmxvs5jh710x9kcpcnga0grkxzfyl7hh-pkg-config-wrapper-0.29.2.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv kdk03xsllrmqwzph25z4b22plvxlgxrr-texinfo-7.0.2.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv psjjbw1gk6l0y3h0d6a8gpmzp47qvc0w-gcc-wrapper-12.2.0.drv q3sb8hwazrc24kwqd114j39a9zbvc3cb-fuse-2.9.9.drv
-CA: text:sha256:08gh1mzgvsazqxrkwhhxx5gw4yayldbivnwpyg8yrrmxgj8mgf4l

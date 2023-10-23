@@ -1,0 +1,9 @@
+StorePath: /nix/store/ajfmc3ly3cl7x7pa12zwpg5bb629hbm4-gzip-1.13.drv
+URL: nar/1bli1mxc0qyci7yaikbhfsbxnd8xy8j6c2ix7s75nz6z4ssp19xs.nar.xz
+Compression: xz
+FileHash: sha256:1bli1mxc0qyci7yaikbhfsbxnd8xy8j6c2ix7s75nz6z4ssp19xs
+FileSize: 1228
+NarHash: sha256:0bxjcpaqq2fa6nbw39i3g5mmyj2kw1q672b38qs0z39apf5v3rpa
+NarSize: 2712
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv ms2f8ikwpv4zzigy6qkpix8dg60cg28r-gzip-1.13.tar.xz.drv qsxiff6qzz2vf9ph0rianvbxy9zxc6pm-xz-5.4.4.drv r22pxsixr7120fv0k28n2mdqp4lzcik8-bootstrap-stage4-stdenv-darwin.drv xz8h3h35v0miw8zsvbf8q0h19fxmz5sk-make-shell-wrapper-hook.drv
+CA: text:sha256:14cx43yzirk94bkwcq3sr00b67y1x49v3hc9ajxy91038rm4i5jz

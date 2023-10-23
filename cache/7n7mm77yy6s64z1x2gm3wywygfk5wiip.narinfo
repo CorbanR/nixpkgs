@@ -1,9 +1,0 @@
-StorePath: /nix/store/7n7mm77yy6s64z1x2gm3wywygfk5wiip-python3.10-flit-scm-1.7.0.drv
-URL: nar/1v9z0afrh10bxn01kwkgcm73dhff6f6a1r3rgdgvbgcn6bq8rmc1.nar.xz
-Compression: xz
-FileHash: sha256:1v9z0afrh10bxn01kwkgcm73dhff6f6a1r3rgdgvbgcn6bq8rmc1
-FileSize: 1860
-NarHash: sha256:1bkahg2j9qyz3r26cy9s7vylfd7y183zzish7psywrm55kzjzmzj
-NarSize: 4568
-References: 28g7chzv6gc4sw8zinaaaanv0zfcjnjq-python3.10-setuptools-scm-7.1.0.drv 41ky5rgnwql0mz0k6w6fjarzpxgg7lvb-pip-install-hook.drv 58c8wzr1kjr2q36qdjkx9nfahj6ym8b9-wrap-python-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7ann0zya47lsjnrxjf969l83nfdsn395-python-remove-tests-dir-hook.drv anp61lsjpgq01hnxqa7www3yz732dyfd-python-namespaces-hook.sh.drv diq5wr65ld9rjfcdxdys62kibmcq35r8-python3.10-tomli-2.0.1.drv fjjav8vvilr0l74gqidxkqgsk85jwmc1-python3.10-flit-core-3.8.0.drv ha9wx2s7vcw916rv5xs8ksm7p5l2n0q6-python-catch-conflicts-hook.drv iypnq8ww1axzvn6y21m0wl8jyvx6b25b-stdenv-darwin.drv kdp8ib70arwkgcz81pgspw4bmpcdff9j-python-remove-bin-bytecode-hook.drv mkzxkzy9fkkg6qww84iw8ivp7dqh8dx0-source.drv nb5gb58wbz1pgc89ync2dz4kaasxrwmr-python-imports-check-hook.sh.drv nqd4xq5bwjswl7lw2rmhqcc67wjaw9ky-python3-3.10.10.drv slcsnl50fgp37n4y4sdbzp85lydhbxmy-pip-build-hook.sh.drv w5abqnnl50b6ci9gyz5jk5m2avmvrdbc-python-output-dist-hook.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv zg38fz3shmy495d2hj2ygb0m2bxvlw6k-ensure-newer-sources-hook.drv
-CA: text:sha256:1pxvbrwikgixp5gfpwjacfjb9jvi1nwj3i2qb09p50l9b17rk8cj

@@ -1,0 +1,9 @@
+StorePath: /nix/store/ijjr2qj7asdv5aga4aakvw932vg3xq60-perl5.38.0-Authen-SASL-2.16.drv
+URL: nar/091r44xm1hbbwgp0gdwmslcbh1c2bs52s084r4mm7y2925bic07r.nar.xz
+Compression: xz
+FileHash: sha256:091r44xm1hbbwgp0gdwmslcbh1c2bs52s084r4mm7y2925bic07r
+FileSize: 1088
+NarHash: sha256:0vr91w1khnlrkmhzfmvngbdi6p76bmg4vwh8kjzq2jippfdv7vgr
+NarSize: 2584
+References: 3xzv63iib9pd0n130bi85sqy384ps505-Authen-SASL-2.16.tar.gz.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv is02993q2wm9y1kp6cnvlhqb9zm8s2z4-perl5.38.0-Digest-HMAC-1.03.drv szz76xqzbb3i6fdyna5j9hqk1bj6mzhv-perl-5.38.0.drv vpnqz8y7xx5hbvljgrad2z914ndjhxfd-builder.sh
+CA: text:sha256:00f1clzwjvdf1yxcfi4ciypk5fdm3y3a3hz3c47iijzglqr170sp

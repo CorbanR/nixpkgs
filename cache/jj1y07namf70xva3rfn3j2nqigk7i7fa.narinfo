@@ -1,9 +1,0 @@
-StorePath: /nix/store/jj1y07namf70xva3rfn3j2nqigk7i7fa-fix-static.patch.drv
-URL: nar/11751a5jdsw87lakk1qimy2fnm2d3vp23xfzs2yd8xy6wgigyg5h.nar.xz
-Compression: xz
-FileHash: sha256:11751a5jdsw87lakk1qimy2fnm2d3vp23xfzs2yd8xy6wgigyg5h
-FileSize: 1400
-NarHash: sha256:0ip7zskcgbb20kl6aiybq9j2965iznvgw9swqsbdm320lk9pvkjx
-NarSize: 3280
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh 9s3dzp1lzlrcm9khzw2idmf93fl4jfg4-bootstrap-stage0-stdenv-darwin.drv rbywli8q5syqfq8q4z7j5k77pay2ixbx-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:0dbz4xqj9gj4vzk09l7ddkdyaki5cb1xqh4q4fc64m8m5m3hsgwv

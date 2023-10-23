@@ -1,0 +1,10 @@
+StorePath: /nix/store/4jbbqki46wabw1xwqhc3788fab6b6ybr-libffi-3.4.4
+URL: nar/04xcx96xc11bcpxlzh6grywhlkv583r0c6y2bzpmhdiyk3l5s8lg.nar.xz
+Compression: xz
+FileHash: sha256:04xcx96xc11bcpxlzh6grywhlkv583r0c6y2bzpmhdiyk3l5s8lg
+FileSize: 14940
+NarHash: sha256:1aaalx5y06hbksfz1vjl74lwwql47ij3k4qwl2a1h3qb8jpw12wx
+NarSize: 40144
+References: 3wcxl9bhpaxd0jblzz22ay10rgdr1x80-swift-corefoundation-unstable-2018-09-14 4jbbqki46wabw1xwqhc3788fab6b6ybr-libffi-3.4.4
+Deriver: gcprgrf4g21hms1vh2mvm9rczh8dk7af-libffi-3.4.4.drv
+Sig: cache.nixos.org-1:/DHkuen50FRNQHN0RcCvx6vHIXz/v0Z6z/7jkW89d4VTKcEgLBU7d6swJmKjxQyAdJBQ8fMb44enVgHqyTF/CQ==

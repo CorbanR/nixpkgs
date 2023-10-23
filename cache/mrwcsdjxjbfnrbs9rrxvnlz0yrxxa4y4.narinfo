@@ -1,9 +1,0 @@
-StorePath: /nix/store/mrwcsdjxjbfnrbs9rrxvnlz0yrxxa4y4-go-1.20.2.drv
-URL: nar/10k7ww84w4w74f03p0x95fnzl5qw28m0nqml93hxlyi0w3mmbr01.nar.xz
-Compression: xz
-FileHash: sha256:10k7ww84w4w74f03p0x95fnzl5qw28m0nqml93hxlyi0w3mmbr01
-FileSize: 1604
-NarHash: sha256:1ygyyha0ygi986w0ihdid96n48d192iyvqml55isql3w974ki2vf
-NarSize: 3496
-References: 1cwv8hmzzn9s9b7rcvpymk6z6gm0c64p-go_no_vendor_checks-1.16.patch 4sb1cg8kvaw8jdvdryflpwvrds2gkfz2-go-1.17.13-linux-amd64-bootstrap.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh a8q8rn169fmsh188iwynjlsln8fs3sgn-go1.20.2.src.tar.gz.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv lpiqwlpxwrm9pxqbrrd00s85qn044d1k-mailcap-1.17.patch.drv nj96j5l43bfp713gq8pnabag70lbsvwf-tzdata-1.19.patch.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv x48d0s4gns4jrck6qkwrpqn7nh9ygpx6-remove-tools-1.11.patch xk0fmaxmkia3mkv5gv39a7ly1dmbpjs5-iana-etc-1.17.patch.drv zl9sr7rzxsf4siadwf3s6s7y5cpbvrp6-glibc-2.35-224.drv
-CA: text:sha256:0c58gz0758sbymah2lks302bv3m8qbappi8llbhwfx1478ljlzsm

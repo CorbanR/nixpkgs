@@ -1,9 +1,0 @@
-StorePath: /nix/store/s36z4fwkrfiinf98pgk8xm645h4ml7lw-unzip-6.0.drv
-URL: nar/0y1hrnr81fyh1pjqmcw2j215rk9x3k4bwxcsd6ajfhfpsjkf4hls.nar.xz
-Compression: xz
-FileHash: sha256:0y1hrnr81fyh1pjqmcw2j215rk9x3k4bwxcsd6ajfhfpsjkf4hls
-FileSize: 1816
-NarHash: sha256:1iwlrfkx06q1ccf68hy3iv162ilvcq0f1hpzakvyxdwk6z6vnf2y
-NarSize: 4456
-References: 03l3l9h1fy6rl84gyd5zqqap7y2389s5-bzip2-1.0.8.drv 1k1wn8807yizgz3ghnbd4k6zsc0dzfkr-CVE-2014-9913.patch 2cq4hsc1v8ylccspw8351r72s56w1fia-CVE-2015-7697.diff 3ipp4r0n6fpcfpygbjxvrya5jzlswp0j-28-cve-2022-0529-and-cve-2022-0530.patch.drv 5x9ddbs5yr3dyvkab7lgqbhnx2kx4b1p-CVE-2019-13232-1.patch.drv 6np2acjv1nxcg0xzsv9a76wyrpxznkna-CVE-2014-8141.diff 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 6zqn6w9rwkgfa6z1hpagnh5xhz2dag6m-CVE-2015-7696.diff 97d26l91h0db8h0qkmhxwi5d8shrilv6-CVE-2016-9844.patch cciw7lgkldvx25d77cxpjhh1iw4xghd9-setup-hook.sh czlw2ll1hw1pwipkkb20cz1fh8b4sdsb-06-initialize-the-symlink-flag.patch.drv d9b2qrrq32jzdsdx4y33inzrra5n5z5n-CVE-2014-8140.diff jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv lwjqzf5my8ql3znw9vc1jqbdzvy2pl5k-unzip60.tar.gz.drv p46prhgmv7ibjh9igfkbc6zfxbbi6sk5-dont-hardcode-cc.patch p55a764pi2f4kkx3adb43bxb2dnb4z6r-CVE-2018-18384.patch p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv pdcj2chp5c2gvm2jc3shbajfc62kbx1i-CVE-2014-9636.diff rdkdki1f24q8mqgnbsyk7gmh28c027ks-CVE-2014-8139.diff sfwpkjb4cg2cbfqbwvs77hcq3ilp8wpg-CVE-2019-13232-2.patch.drv vq01spywn64v3y5gdfpbv3zqi46sp6w9-CVE-2019-13232-3.patch.drv
-CA: text:sha256:03nfy6mg2ma8n2py1xdlqpjgv4ncj2nz3zs10xazzl3xi9vbijkz

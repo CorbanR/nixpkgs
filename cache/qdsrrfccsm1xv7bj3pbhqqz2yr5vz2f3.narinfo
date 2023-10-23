@@ -1,0 +1,9 @@
+StorePath: /nix/store/qdsrrfccsm1xv7bj3pbhqqz2yr5vz2f3-xcodebuild-0.1.2-pre.drv
+URL: nar/03qjaahxb9b0b7d6f3dwqlnaq43i9sllm54y5pa2lancj0wpm4aw.nar.xz
+Compression: xz
+FileHash: sha256:03qjaahxb9b0b7d6f3dwqlnaq43i9sllm54y5pa2lancj0wpm4aw
+FileSize: 1964
+NarHash: sha256:0f958isghird9sq8mlwmcmvwmpl2sfcg504pxsd37mp30rpfqxs1
+NarSize: 4664
+References: 31r9smw9b3f5ljgra01gyy4rm8br7rx5-xcrun.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 85r7pz09kgzfjbnikcgj4bvb58fp4nb6-Toolchains.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv 9gzjs1wfccrxdd7b69sjpv3p9hrxcvff-xcbuild-0.1.2-pre.drv h83527gkc8agjs27yf9k9sq0i6b88jrr-Platforms.drv ldhwi6haib93chi8igw6wx1fy8c2hznk-make-shell-wrapper-hook.drv vrnqbawb2andp7g83d2pirl3n5ybx2fm-nix.xcconfig.drv w12mifg34dx2l90mdc7gq9qirc9hn979-stdenv-darwin.drv z62vr57aqvr510xiy33h3f5kbiz8j7f2-xcode-select.drv
+CA: text:sha256:0psgccr974wqdz1pdrcklqymw132x3rpydd0ilglb3pxpijqcdam

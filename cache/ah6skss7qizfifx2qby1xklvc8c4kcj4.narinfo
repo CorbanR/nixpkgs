@@ -1,9 +1,0 @@
-StorePath: /nix/store/ah6skss7qizfifx2qby1xklvc8c4kcj4-zstd-1.5.4.drv
-URL: nar/1yhv88x18yav2nb5cb75mrxgyvyn10xndb0r28vs1dx9zidh5fh1.nar.xz
-Compression: xz
-FileHash: sha256:1yhv88x18yav2nb5cb75mrxgyvyn10xndb0r28vs1dx9zidh5fh1
-FileSize: 1584
-NarHash: sha256:189s3qnny4i5vgxa861hnzkrhsx279qwggvgf5nns2ax3yg82lvb
-NarSize: 3648
-References: 4yqn3hyd777gh72xag90gp7brwq2pb2q-source.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 86jqlsil7fmb7zi1mydpdm6dfhyjqqsj-gnugrep-3.7.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv n91acyjrlchm0snw0w16i4683pf788ax-playtests-darwin.patch p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv r6jcqv67saj457cj7v7mzxivachwn4mv-file-5.44.drv v0k15grdr8lxl7b84rkla2qjw5wkbfw0-cmake-boot-3.25.3.drv
-CA: text:sha256:0vnpgy7b5frhwav6xbp0mf6zmmg95mi9qraazmzmv6smw710fm1i

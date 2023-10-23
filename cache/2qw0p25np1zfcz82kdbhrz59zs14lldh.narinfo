@@ -1,9 +1,0 @@
-StorePath: /nix/store/2qw0p25np1zfcz82kdbhrz59zs14lldh-make-shell-wrapper-hook.drv
-URL: nar/0l6168ci8pijj9g856dvdp6xfzjgrvmyyk7k3mi6avxgmrxcvnbb.nar.xz
-Compression: xz
-FileHash: sha256:0l6168ci8pijj9g856dvdp6xfzjgrvmyyk7k3mi6avxgmrxcvnbb
-FileSize: 952
-NarHash: sha256:042iqd1fxdshg4kqiyiycdvcrg6qb4abxjlsig70a8i97qqjsdy7
-NarSize: 2320
-References: 1qrnbw8xsww3vydd71lwfp32ylgx9i8g-make-wrapper.sh 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh b3yxm4065brv4xzqqcgvzc4kh530v7sq-bootstrap-stage3-stdenv-darwin.drv b9l6ip07va1wls8fbh19gvmkryfjym6x-die-hook.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
-CA: text:sha256:12x8w37szi04qi2krffxbxsp4mpdcbwhyvchbbp5mzlckck4ndms

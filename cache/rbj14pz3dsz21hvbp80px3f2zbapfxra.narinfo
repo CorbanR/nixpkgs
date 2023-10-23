@@ -1,0 +1,9 @@
+StorePath: /nix/store/rbj14pz3dsz21hvbp80px3f2zbapfxra-coreutils-9.3.drv
+URL: nar/0ilfw91lmirjl4yb0cvyhv5qwzgf8v9b7i7sxv0yk1bdigs6xxbb.nar.xz
+Compression: xz
+FileHash: sha256:0ilfw91lmirjl4yb0cvyhv5qwzgf8v9b7i7sxv0yk1bdigs6xxbb
+FileSize: 2000
+NarHash: sha256:1s0v9jq685agl7xi25vms8y84jg6pn8n70p08bljk9lfax6ks616
+NarSize: 4600
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv b2q065860syhm668gd5zvydshis7dilj-perl-5.38.0.drv dz6mklh0m8c8sgj2s1a5nc8s7x9qsvpq-gmp-with-cxx-6.3.0.drv k536zxx9408a83bn101msgqfdzckxjxv-coreutils-9.3.tar.xz.drv l08y9w0xnb2i0difi1wgphnhpjla429c-autoreconf-hook.drv qsxiff6qzz2vf9ph0rianvbxy9zxc6pm-xz-5.4.4.drv r22pxsixr7120fv0k28n2mdqp4lzcik8-bootstrap-stage4-stdenv-darwin.drv
+CA: text:sha256:0f26ikbw37yhr0ybnpg3sz2dnfhrcy7h6yr4247q4lqa93pc5878

@@ -1,9 +1,0 @@
-StorePath: /nix/store/wlzxh5mpwfiz6zprds520dgg57ldqip4-apple-framework-ApplicationServices-11.0.0.drv
-URL: nar/0mcr1nqw3vabmi2gi3m5nh05pnln96wycvng9f3bwa63ckj4zvds.nar.xz
-Compression: xz
-FileHash: sha256:0mcr1nqw3vabmi2gi3m5nh05pnln96wycvng9f3bwa63ckj4zvds
-FileSize: 1600
-NarHash: sha256:1sa1svhc9nkml0zbw02zlzvrldv5r87p1j7fxr2jkmdj1cc1hbir
-NarSize: 4848
-References: 1pzpywzzyfrz7jmxqms5gf3s46brah4z-apple-framework-ImageIO-11.0.0.drv 3pdjkz0nyk64jlax44bzrbdb8624kqla-apple-framework-CoreText-11.0.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh jnl83pzwf7i0cv3i0sgzrfdk8pfdg82m-stdenv-darwin.drv k1kcs1zx6gc8zya75ymb8356adyvsb39-apple-framework-CoreGraphics-11.0.0.drv kv7bgw5gr0ck90sfcynhhmb49fi06wgv-apple-framework-CoreServices-11.0.0.drv rn1x0hw3p0h8a5a2y2xpnrd5cwn4izrc-rewrite-tbd-20201114.drv v2nlwlc3jpn4qhlfz1svn1ja64rb6kml-apple-framework-ColorSync-11.0.0.drv vdc5jp9wq87kvfcyygn10xi3xjp625i6-MacOSX-SDK-11.0.0.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
-CA: text:sha256:0rf9vs53a8c3pnckfrb9ibx31mrzbqgyrs3ws2ng04yfsl5w9hc1

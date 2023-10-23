@@ -1,9 +1,0 @@
-StorePath: /nix/store/vck0lq5ydlqkm15gsh9mk81j2nq0i97w-libxml2-2.10.1.drv
-URL: nar/1k5w5l6xdmrsi3jviq4810hrcbx8lmn2zi7787m44sa7j81kdvp9.nar.xz
-Compression: xz
-FileHash: sha256:1k5w5l6xdmrsi3jviq4810hrcbx8lmn2zi7787m44sa7j81kdvp9
-FileSize: 1560
-NarHash: sha256:19xbm1jkzfwq3ljsgzbpaam7904s89gmdx65di9ziv5yhsr9qx4s
-NarSize: 3632
-References: 218ml7f1f402xmdi1d8ns8svdv79m50l-autoreconf-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 758qhdlbqchv7kka8f211qnnvksb8d79-pkg-config-wrapper-0.29.2.drv 9nrf6vvv97r84jkaf9q01vrnazrhgkkk-zlib-1.2.13.drv a0b8kirkyz5q4g90hc4ykim7m96m52z4-libxml2-2.10.1.tar.xz.drv frr6f2hq56j6b4wc0bsklaqskjsagqc0-utf8-xmlErrorFuncHandler.patch hqbv8fxvn7i9x7g7q648q95bxazlvr2g-find-xml-catalogs-hook.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv wry8lpz0cpy9pizfkv6rif67ha2l3q6k-bootstrap-stage3-stdenv-darwin.drv xsi567hcp9f6nqkvvsk7pc1bb638d6x1-libiconv-50.drv
-CA: text:sha256:0z0yawd66zijzdvvwc4n8y4zndh97d7vl9d91h2v507j5ij0g8b7

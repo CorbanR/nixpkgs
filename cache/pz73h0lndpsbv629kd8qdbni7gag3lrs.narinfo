@@ -1,9 +1,0 @@
-StorePath: /nix/store/pz73h0lndpsbv629kd8qdbni7gag3lrs-nss-3.79.4.drv
-URL: nar/1girf7v6h4y0zy2zsvz4cmqqfh4d2fj9q33jd3l0vnsjvr15nr0g.nar.xz
-Compression: xz
-FileHash: sha256:1girf7v6h4y0zy2zsvz4cmqqfh4d2fj9q33jd3l0vnsjvr15nr0g
-FileSize: 2552
-NarHash: sha256:1wwyysac95sqknirbdsy1vs4zx2k8hp6kv9y7k6b5cn7xv8vp78l
-NarSize: 6024
-References: 207371kxkgxw54hgaryxrk4sv237la8g-coreutils-9.1.drv 3cd1iif1qgqxkqchmhn7wjajcs96vja7-nspr-4.35.drv 408bvj9rzv3jv0faml1r7xlyw8rs4j5j-perl-5.36.0.drv 46rxvpn1nq40f377ymsf4f08x8n9fabn-sqlite-3.41.1.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7qlpbwvv7i4hzb5afaybfrpgxyz3sdh0-ninja-1.11.1.drv 935s4ihbw5l4ccxdv7q5vxlgk08kcnc5-zlib-1.2.13.drv a5skdyvh7a4iap5bpvlrxfq68y330xli-fix-cross-compilation.patch f07lkkz45rnz4dhw8x8mb6lzbjh12rpp-85_security_load_3.77+.patch fw3clpmvih9xwdz3g4lyy78g4q5w36p0-python3-3.10.10-env.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv p4gin35g7ajn869i0aj5apggjn443cxa-nss-3.79.4.tar.gz.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv psjjbw1gk6l0y3h0d6a8gpmzp47qvc0w-gcc-wrapper-12.2.0.drv xhzzllisin4msvdkf20vynaav00yycyx-p11-kit-0.24.1.drv
-CA: text:sha256:0zg35x3rlyz4509sk7ynsp9m15sg7va1yfw2291d45gjac7fsk42

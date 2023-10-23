@@ -1,9 +1,0 @@
-StorePath: /nix/store/b9l6ip07va1wls8fbh19gvmkryfjym6x-die-hook.drv
-URL: nar/1fbkpws010n5bx2iawwr7scaiijzskmxq0klglic9szwfl25kyak.nar.xz
-Compression: xz
-FileHash: sha256:1fbkpws010n5bx2iawwr7scaiijzskmxq0klglic9szwfl25kyak
-FileSize: 860
-NarHash: sha256:0b5y0jh7qq4hxwdaqvl48s2rmav9c4l499vv0m0lfnbzv84qfrpz
-NarSize: 1960
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 819fzxfwzp7zhhi4wy5nkapimkb1bsx5-die.sh b3yxm4065brv4xzqqcgvzc4kh530v7sq-bootstrap-stage3-stdenv-darwin.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
-CA: text:sha256:13gk505qywsb81yakq2gf3fa95nridqrk068db1avw2jh3r5ngr9

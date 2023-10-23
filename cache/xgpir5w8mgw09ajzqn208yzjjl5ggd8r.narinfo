@@ -1,9 +1,0 @@
-StorePath: /nix/store/xgpir5w8mgw09ajzqn208yzjjl5ggd8r-libxml2-2.10.3.tar.xz.drv
-URL: nar/1rs47lxbqqs6iwzwqh6y17icnsj9c0hpxhv39l5fdy2nr3x10bgf.nar.xz
-Compression: xz
-FileHash: sha256:1rs47lxbqqs6iwzwqh6y17icnsj9c0hpxhv39l5fdy2nr3x10bgf
-FileSize: 1408
-NarHash: sha256:1z61zfrw52kbbljbhrf3pklrdql1p0a619higcyicbnrzymm99az
-NarSize: 3264
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh 6xnxsrxdqgdfpngd4yd6qyvn6pi71dsi-curl-8.0.1.drv gqfvpd2x69qwqirkhs8l3xyl274g0a1i-mirrors-list.drv jnl83pzwf7i0cv3i0sgzrfdk8pfdg82m-stdenv-darwin.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
-CA: text:sha256:0gq7dkqv8h03m9pjwg6czbl65c1js17v4ww8dl7bmxxsgw2lymf0

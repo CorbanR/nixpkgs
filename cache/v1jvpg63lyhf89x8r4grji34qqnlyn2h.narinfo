@@ -1,0 +1,9 @@
+StorePath: /nix/store/v1jvpg63lyhf89x8r4grji34qqnlyn2h-llvm-manpages-11.1.0.drv
+URL: nar/1vlq6pv4ngmad325f4qd87gls5hk5z810x6lnihvm24hkl8lymkz.nar.xz
+Compression: xz
+FileHash: sha256:1vlq6pv4ngmad325f4qd87gls5hk5z810x6lnihvm24hkl8lymkz
+FileSize: 2436
+NarHash: sha256:1ryj551b4smq9ilsvlng405qc4w2lxycr4vxv81dqzlw6w9d01x2
+NarSize: 5440
+References: 23q4bqmy97d2qhcinp9zg2m7k31jmgxy-libxml2-2.11.5.drv 2cbwqd0fd7cw2xn9kh937zwjx0ljg1ja-signals-gcc-13.patch.drv 2h9jyby2f2c440rwikmncscf7ha7s4pj-python3.10-sphinx-5.3.0.drv 2jz4rpkz1fsv0nz8vn0brbv0d0d85j9s-llvm-11.1.0.src.tar.xz.drv 6apj78y6y849llzh1rhjdrgj2wdjld0p-base64-gcc-13.patch.drv 6wv8acdd7bm7npixgr3rk86mf55fj47c-llvm-config-link-static.patch 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 92yvh2b0ppwg8qiiqsd38hyy1r8k2kzd-python3-minimal-scproxy-3.10.12.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv 9fd3xdcfv1dw93y99a18lw735fx8kvgy-gnu-install-dirs.patch cgqqax8a28x5gvjmnl7wvxbprwfbin33-uops-CMOV16rm-noreg.diff.drv gcprgrf4g21hms1vh2mvm9rczh8dk7af-libffi-3.4.4.drv ggma1lqzlgwsv1biaw0zqx6mvilk4h81-cmake-boot-3.26.4.drv ig19hy29z82cz7n0j7szh9y6vibg9aiz-dfaemitter-gcc-12.patch.drv nrr5b16i01p0kdpx979yp69j0ly69c7i-5cd554303ead0f8891eee3cd6d25cb07f5a7bf67.patch.drv rji7i822vrxix1q65rabx86wyhijnm5g-bootstrap-stage3-stdenv-darwin.drv sr2zbl0r99mzr96ivzp59g6cvkd62dbc-python3.10-recommonmark-0.7.1.drv v97xfhb649895vg5019bv401ryp04y4m-nvptx-gcc-12.patch.drv xrpfvhcj0lzjpxi34lygs7y6fa58rlks-polly-11.1.0.src.tar.xz.drv yagizfls06mjq5ac8r7wkcj9la820895-b498303066a63a203d24f739b2d2e0e56dca70d1.patch.drv
+CA: text:sha256:1dxfyxsi04bjf2ayz8crrxwjy8xk9z2pj0pas9ylwh6wfml5661q

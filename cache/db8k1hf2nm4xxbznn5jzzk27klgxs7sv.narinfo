@@ -1,0 +1,9 @@
+StorePath: /nix/store/db8k1hf2nm4xxbznn5jzzk27klgxs7sv-Net-SSLeay-1.92.tar.gz.drv
+URL: nar/11b4zwwzzmdkly9znd5if6riid6k5d3cmxdksn1q6p86gxbq15wm.nar.xz
+Compression: xz
+FileHash: sha256:11b4zwwzzmdkly9znd5if6riid6k5d3cmxdksn1q6p86gxbq15wm
+FileSize: 1360
+NarHash: sha256:010fg4l8qkp91915rf6aric2arsp674bfz1n9wvc7m2dxi60i5dy
+NarSize: 3224
+References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh p4jpyr1vsixxl6sbkfy0r0398wwmqbci-bootstrap-stage0-stdenv-darwin.drv pfc1kmyhx8lkwakqlc0yarb8p5nldl4f-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:1x05kfzczz6my6h07ycvjddx2pl5j3r6nxrafhlsx8jvsim1v1fw

@@ -1,9 +1,0 @@
-StorePath: /nix/store/b5g1wp0iawlpzpks42d72s1dvzhwvmg0-perl5.36.0-Mozilla-CA-20200520.drv
-URL: nar/16fxzgz27b8imalx9ayqjy3lp46b7zlni6nm0g894ylxqb3h7hss.nar.xz
-Compression: xz
-FileHash: sha256:16fxzgz27b8imalx9ayqjy3lp46b7zlni6nm0g894ylxqb3h7hss
-FileSize: 1040
-NarHash: sha256:1m0xyhhdnfjqjl4mjas4xw48svpq6vvawds8hv0s9bq97yaaq1i8
-NarSize: 2408
-References: 408bvj9rzv3jv0faml1r7xlyw8rs4j5j-perl-5.36.0.drv dh7q0li0yhklmvl8l2wzj5a76vxl8s2s-Mozilla-CA-20200520.tar.gz.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv k7lp7bjkbvpxqxpjnl33cyychmc8dsnx-nss-cacert-3.86.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv vpnqz8y7xx5hbvljgrad2z914ndjhxfd-builder.sh
-CA: text:sha256:0y0sld9y37wlzdpa3c4bbb1n6wzdnvid9hr3rfpvbzmwsfs4aka7

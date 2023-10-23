@@ -1,9 +1,0 @@
-StorePath: /nix/store/sbx5319nb8cpwzs18n4pphg4ghkhpmng-asciidoc-10.2.0.drv
-URL: nar/1qkwrdk6ax9nxcyk8hr6gq7b1irafrwblndy3kv4c9alpwk5bf2j.nar.xz
-Compression: xz
-FileHash: sha256:1qkwrdk6ax9nxcyk8hr6gq7b1irafrwblndy3kv4c9alpwk5bf2j
-FileSize: 2596
-NarHash: sha256:0dm33y9qp86m80j7allsvlzn8xcxs4nlbaxhdhhvsmh708yw3fay
-NarSize: 5920
-References: 1i0ixszrc2r03rfh3iwhfbi2f4x52wcf-python-catch-conflicts-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8i6cw8wgjqhkpcbn3i1k5czs1jj62g0f-python-namespaces-hook.sh.drv 9ldjr0zdj3qvmjbn8ynxgdg7h56lx4zx-wrap-python-hook.drv 9nzi0hc1xfghmydfl7z0m80ax0sjh0mm-python-imports-check-hook.sh.drv bfz281d2vdwdz4vqk30l719nka6id6pp-libxslt-1.1.37.drv cdlqhdxhrxzblrklryp3dqqcsmzc6csv-source.drv cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv cwkma3bmdggr8pby1wsv510m418qpi6v-libxml2-2.10.3.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv l83lkk9d672q6i07r26z21l2nvpy1m0i-python3.10-pytest-mock-3.10.0.drv lrqd5nf1nvsav8yzf1j02dn3m58z0fvc-setuptools-setup-hook.drv n7vcq4v8fzvqll5zw3wdxhwivrzzzgim-python3.10-pytest-7.2.1.drv nbwz2pkcfil2ibp3wmcrnc99gisndcmg-ensure-newer-sources-hook.drv nsp49j4gaj67csflfh9v3wp2y87p1g82-pip-install-hook.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv pcc1adjvz8igp481hbh8xhh4ss7irxwm-autoreconf-hook.drv qdqk2512q682yadq549jayg0r95fb3w4-docbook-xml-4.5.drv qfdxh9p4cwr6wd7nf2vr4x5z7g6gq6bp-docbook-xsl-nons-1.79.2.drv s36z4fwkrfiinf98pgk8xm645h4ml7lw-unzip-6.0.drv s3k27g1ndq5zk71882p97ary76xj36zp-python-remove-bin-bytecode-hook.drv vdlwfw2kp772prkan464z1ky74mqrnp8-setuptools-check-hook.drv wbiyw0blqs9dfw6sspzr6ib90y80bwis-docbook-xsl-ns-1.79.2.drv x8afnl0gcsqbkg0v4s7iqgxd8mknzdd8-python-remove-tests-dir-hook.drv xzw3dwlpin59wr7zn2x9ivggj04cf7qx-install-shell-files.drv zay2p712hcja4l7v9xm9a3sdmr7pcxd8-python-output-dist-hook.drv
-CA: text:sha256:0v01y5075h23p6qn0s2n451by9y9jrdjk8xrm3fp6b4kyjhgv4yx

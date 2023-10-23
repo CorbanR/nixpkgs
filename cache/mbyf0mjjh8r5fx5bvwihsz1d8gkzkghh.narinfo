@@ -1,0 +1,9 @@
+StorePath: /nix/store/mbyf0mjjh8r5fx5bvwihsz1d8gkzkghh-ninja-1.11.1.drv
+URL: nar/0iwgrhygiaxlxlh35sd3m4nisyyrvn4vzvf269alc8jghqgqla4n.nar.xz
+Compression: xz
+FileHash: sha256:0iwgrhygiaxlxlh35sd3m4nisyyrvn4vzvf269alc8jghqgqla4n
+FileSize: 1752
+NarHash: sha256:1gq3zry12gxbknvhzsblf2grcpcbmw9vdc0zbjacrkddr8ljfxbf
+NarSize: 3816
+References: 15jppca3c0q0fdbzq3lfwcng6f2k4z0z-install-shell-files.drv 4kyp1zl9vbjbsdhm005kp6xvpx3a47qk-re2c-3.1.drv 4xl9526ghnyqjx7n9bdv41jk5c7c1fff-asciidoc-10.2.0.drv 600rhn81nibcfswwaqmhik62ncprjd2m-docbook-xml-4.5.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh a02zzb8ini2rhd2a993j84y2vgrqx9pd-docbook-xsl-nons-1.79.2.drv a6a2wlf4zc01zn2zdpfjgp1cy79ldrn1-setup-hook.sh azax4isp5al7xw03n3sabylvh8x277g5-gcc-wrapper-12.3.0.drv fbyjcpdqv92z8fc85plz3m6j4f0m2jv2-python3-3.10.12.drv glwhy22vwb9pddl2db0f52fa6csyy8m1-libxslt-1.1.38.drv j6hqlc5smdgj006jzw9b8958hcyfizr9-source.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv
+CA: text:sha256:0h37y4s9bp4m1rn7lq0bwl5j9rcywy04ggyvga6zdgknp7yi7kxy

@@ -1,9 +1,0 @@
-StorePath: /nix/store/x9jcq7cd55bs6rg12wkiqpd95z79xfv3-go-1.20.2.drv
-URL: nar/0f8xidfl36nfvpknn4xm72ghza6zdsf9wf855h65849488xda34q.nar.xz
-Compression: xz
-FileHash: sha256:0f8xidfl36nfvpknn4xm72ghza6zdsf9wf855h65849488xda34q
-FileSize: 2004
-NarHash: sha256:1jgb7p566jka4rx8w0m9qb9pzvqp5arjl9lsns37zf58kxwkc8wh
-NarSize: 4592
-References: 15j86cw1y89msdxcrxfynm24zxwk8yqf-clang-wrapper-11.1.0.drv 1cwv8hmzzn9s9b7rcvpymk6z6gm0c64p-go_no_vendor_checks-1.16.patch 35ngsafrp2bdx4k9cs6x4yhnn9wcglp0-stdenv-darwin.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7liz3mwn4fzcy9drpzj6ps8plv55lvj5-tzdata-1.19.patch.drv av54lrzh4l6b0ngw58ajq12lbcfb97pj-mailcap-1.17.patch.drv dkp791r96qwp9x81dcl5z39vk791k2dw-iana-etc-1.17.patch.drv dsig8vgiqfs3d6b2l8gknh3c3wjsyx82-apple-framework-Foundation-11.0.0.drv i34wryfx0gl49vl7sr7iyzwicmnczvh5-go1.20.2.src.tar.gz.drv pzqsj36laf8gpbnm0k6rib5fqrn5ij1y-xcodebuild-0.1.2-pre.drv swhrfshvkip6rcy3gg8qvg6is4spprvw-apple-framework-Security-11.0.0.drv w605baha4m1zr1gfnn7465znm543a7rm-go-1.17.13-darwin-amd64-bootstrap.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv x48d0s4gns4jrck6qkwrpqn7nh9ygpx6-remove-tools-1.11.patch
-CA: text:sha256:0gw56ajyg9bwfh2n55v58rf1qmw8igkmwv58fxqdvgg02acank73

@@ -1,9 +1,0 @@
-StorePath: /nix/store/chx51qiafw62rqmwm501cz9f6rhw8624-HTTP-Negotiate-6.01.tar.gz.drv
-URL: nar/1cc31736xa1svzl6gwz9pyzlsdwghs0kv4rclcahz4q47b3i3kj2.nar.xz
-Compression: xz
-FileHash: sha256:1cc31736xa1svzl6gwz9pyzlsdwghs0kv4rclcahz4q47b3i3kj2
-FileSize: 1320
-NarHash: sha256:10c7zw653q996lqbnx5krbcgzb3np355lm1wxf8y0jj6xj402ki8
-NarSize: 3000
-References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
-CA: text:sha256:1g592rjj7zjdi1p3qvv6b4z4ncr0089zi9msf9wp5nn7fcp68w88

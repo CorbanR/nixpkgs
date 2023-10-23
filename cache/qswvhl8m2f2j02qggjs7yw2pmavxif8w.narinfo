@@ -1,9 +1,0 @@
-StorePath: /nix/store/qswvhl8m2f2j02qggjs7yw2pmavxif8w-perl5.36.0-FCGI-ProcManager-0.28.drv
-URL: nar/0kqslhdmpadlxzx78d68qp7n6n03xnl604f03fhkpikh4la8az4v.nar.xz
-Compression: xz
-FileHash: sha256:0kqslhdmpadlxzx78d68qp7n6n03xnl604f03fhkpikh4la8az4v
-FileSize: 916
-NarHash: sha256:0avf2ljq8l39ml5fhwi55283jf2ircglcmhjl1jnpchzb1kclaqq
-NarSize: 2200
-References: 408bvj9rzv3jv0faml1r7xlyw8rs4j5j-perl-5.36.0.drv i8yvq37ccs3z0ra32v4wphip4gvkddw0-FCGI-ProcManager-0.28.tar.gz.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv vpnqz8y7xx5hbvljgrad2z914ndjhxfd-builder.sh
-CA: text:sha256:1gc9qcgv2781hawi11a11nzx7l2nmw56fjcy592rbw2cbngxxwlf

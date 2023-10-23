@@ -1,0 +1,9 @@
+StorePath: /nix/store/7hjv8lvwvycyrx4ba5slpkk8j518mlab-bzip2-1.0.8.drv
+URL: nar/0jas283dx3qg6dcp421m9m0ncap7pgkb5wmmb800k1hyaqlyav85.nar.xz
+Compression: xz
+FileHash: sha256:0jas283dx3qg6dcp421m9m0ncap7pgkb5wmmb800k1hyaqlyav85
+FileSize: 1172
+NarHash: sha256:0zkm2m7z7yicmak9h39rbbs4b32sb9b8x9iw1lzm6fvcdk2c36sn
+NarSize: 2816
+References: 1kvr4k6xs8v1h2x6vclfwkjg64zrlfxn-bzip2-1.0.6.2-autoconfiscated.patch.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 888cc69y5a42n34xwbr1nnbkm6gn8r4w-autoreconf-hook.drv ks6kir3vky8mb8zqpfhchwasn0rv1ix6-bootstrap-tools.drv mhrxc5w6drwi4m5ykbdrayz7869i9mx9-bzip2-1.0.8.tar.gz.drv paxir5s9racqd31pv7y2nsrj0ibwmhyg-bootstrap-stage4-stdenv-linux.drv
+CA: text:sha256:1zxl4ac5zjxd0pxbwiya8mr9npbdfwdw59kz5fzi35ahmxcjs1sp

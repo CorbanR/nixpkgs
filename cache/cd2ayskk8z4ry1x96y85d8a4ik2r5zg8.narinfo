@@ -1,0 +1,9 @@
+StorePath: /nix/store/cd2ayskk8z4ry1x96y85d8a4ik2r5zg8-python3-minimal-3.10.12.drv
+URL: nar/1jnxgc6655yfwhljvr1lib88xmdlpxifwcibc5f1pqk5sxaasksr.nar.xz
+Compression: xz
+FileHash: sha256:1jnxgc6655yfwhljvr1lib88xmdlpxifwcibc5f1pqk5sxaasksr
+FileSize: 3880
+NarHash: sha256:01llm591xfqvqvb3hhbvkxa2p512awxjfmkg2gyrjy1avw1km1xq
+NarSize: 9792
+References: 0yd2y3adg7mlmgv76gkkxs99xbw7yskx-Python-3.10.12.tar.xz.drv 1cwqp9msvi5z8517czfl88dd42yhrdwg-separate-debug-info.sh 2g0dyb060d1w6984qb1lb9vmgvjbpapy-pkg-config-wrapper-0.29.2.drv 345r2zz7pgiyk91j89qlf7mhs95jrv6f-no-ldconfig.patch 57kclla9vza2n87xgwg1ap54d20cz6lb-fix-finding-headers-when-cross-compiling.patch 693cy78bkvd9bwxwq5dch311g6nk0qp6-python-setup-hook.sh.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7hjv8lvwvycyrx4ba5slpkk8j518mlab-bzip2-1.0.8.drv 888cc69y5a42n34xwbr1nnbkm6gn8r4w-autoreconf-hook.drv bfkai78lvdgfz0396q1xi3nyqr8mpslb-nuke-references.drv cv1ynpzvjjr0s72jkbblbzz3ymr87lpi-0001-On-all-posix-systems-not-just-Darwin-set-LDSHARED-if.patch dkb2rjyj7lwmvsn4zzwx85kx8r61nk9w-darwin-libutil.patch g4f9r0cc5ds1vyzk1w7i3ys6dl2r0lpl-xz-5.4.4.drv hlywj8fn1m2fx7sg7c8x09g4fwx871h7-libffi-3.4.4.drv ks6kir3vky8mb8zqpfhchwasn0rv1ix6-bootstrap-tools.drv mzmxgcq3qrqynwmkvib057v51riyxnsn-expat-2.5.0.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv paxir5s9racqd31pv7y2nsrj0ibwmhyg-bootstrap-stage4-stdenv-linux.drv r112dk8w7zvdjipki58ch00m825li7fq-virtualenv-permissions.patch sj8n9710wip87gv71jq6hmb6s7ls3q8x-autoconf-archive-2023.02.20.drv xnhj1q06y5l0icin4wkssxpyaiv2s93h-libxcrypt-4.4.36.drv znd2jpwvs913wjny0zag97rp1wz3zrjk-zlib-1.3.drv
+CA: text:sha256:0jfn2q5vw59265qsxhq71yhg6dn0965gvc6h2p1la05415i6di4a

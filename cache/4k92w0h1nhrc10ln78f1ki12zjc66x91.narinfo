@@ -1,9 +1,0 @@
-StorePath: /nix/store/4k92w0h1nhrc10ln78f1ki12zjc66x91-itstool-2.0.6.drv
-URL: nar/1h0sic136v02jvn09x40n8kbngxj39j2y5pf5kc54z4dkja9iacf.nar.xz
-Compression: xz
-FileHash: sha256:1h0sic136v02jvn09x40n8kbngxj39j2y5pf5kc54z4dkja9iacf
-FileSize: 944
-NarHash: sha256:0q6d95q0ikdy79hwa880jgzq57x7klrrbyvl8n3ada13x0aycq4i
-NarSize: 2120
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9ldjr0zdj3qvmjbn8ynxgdg7h56lx4zx-wrap-python-hook.drv cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv cwkma3bmdggr8pby1wsv510m418qpi6v-libxml2-2.10.3.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv k72h1sg11j0hzhi0vqfz9akg64kzmnsv-itstool-2.0.6.tar.bz2.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv
-CA: text:sha256:0arb0y9l36whvxympg568zx37ybdiv6lpff2b18rnzpcd418f9b7

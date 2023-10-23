@@ -1,0 +1,9 @@
+StorePath: /nix/store/9x9ahc9nvjqgc94amjf91i4vvxgqnyx2-libclosure-65.drv
+URL: nar/05h6k8rn7qlpqwyg0afnk7zr7v1lcw6mnjmi6laphd9k8aqin0n1.nar.xz
+Compression: xz
+FileHash: sha256:05h6k8rn7qlpqwyg0afnk7zr7v1lcw6mnjmi6laphd9k8aqin0n1
+FileSize: 1128
+NarHash: sha256:0d4qqbf836b0zxbrhrm4zjkylcdvs4rjy2rvnpyi53q84a78khad
+NarSize: 2480
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh cj5fnwliv8v3a7i8vkgfjf94838ksri5-bootstrap-stage1-stdenv-darwin.drv fngayiscxbyfcwrbfb4c6qgdgavf1p68-libclosure-65.tar.gz.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:0ck2ra8rrff3a2c0nhdz2zxip1akhl9l2mfs15gs1ykjsc8l6i9x

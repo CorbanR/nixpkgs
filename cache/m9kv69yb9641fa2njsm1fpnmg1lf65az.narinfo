@@ -1,9 +1,0 @@
-StorePath: /nix/store/m9kv69yb9641fa2njsm1fpnmg1lf65az-apple-framework-CFNetwork.drv
-URL: nar/1ijp68axywd06zwycwb7ws8br4j0j4l732sfmpd5khgx3x8a9jcl.nar.xz
-Compression: xz
-FileHash: sha256:1ijp68axywd06zwycwb7ws8br4j0j4l732sfmpd5khgx3x8a9jcl
-FileSize: 1976
-NarHash: sha256:1ibbbbxym15d3ns47ry683zwmqmbnxz3mzslkqg4w4sf04h8var0
-NarSize: 6152
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh d65d3ghpn4is851dvbbj1jc3zyrs2z6m-darwin-stubs-10.12.drv fh327p0kpzh06q1b748srm0ybx5gg6ma-print-reexports.drv hbq6dqvqkckkkkmynx3ndmh83h0ha600-MacOS_SDK-10.12.drv iypnq8ww1axzvn6y21m0wl8jyvx6b25b-stdenv-darwin.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
-CA: text:sha256:0s8zil37hc8ldf503py25x4sf1sjnakmzp3x0c8s8vs0x6vnm6sa

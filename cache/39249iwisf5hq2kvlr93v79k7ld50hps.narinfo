@@ -1,0 +1,9 @@
+StorePath: /nix/store/39249iwisf5hq2kvlr93v79k7ld50hps-scons-4.5.2.drv
+URL: nar/07zfib5bl62n1fha7rl8kgdks0dnik01sr1szrr9nfsd0mrc4c9z.nar.xz
+Compression: xz
+FileHash: sha256:07zfib5bl62n1fha7rl8kgdks0dnik01sr1szrr9nfsd0mrc4c9z
+FileSize: 1800
+NarHash: sha256:0glp8pp6brsp38fyycvchsrd5dc60ggkwg9vrkykvij6l317fll1
+NarSize: 4256
+References: 3glqljk20iyhnzr5sz30k3p5gfj07r0v-python-remove-tests-dir-hook.drv 4gs2zap1s6lpvn9gd6lwj5yriafy8sxh-python3-3.10.12.drv 569ckkgdw05ayxxlvf0xdqw6kcdpj6fa-wrap-python-hook.drv 5v49yn6811xaz73581cmz6ds3md4n8lf-pypa-install-hook.drv 64spj723i0aflvkwff0vc625bh880nxz-python-remove-bin-bytecode-hook.drv 66q7qqp126ddv19fg32arddv0c1sby2r-env.patch 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7i9iwx6j9rbc32kcqijwzmg8cm3w0ml1-setuptools-setup-hook.drv 8sw6wgkdgd3rna2s483dhshg284qqqgm-python-namespaces-hook.sh.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv pgv9c923jyjl2vsp7qlmmylglh09y4xx-python-output-dist-hook.drv pqg1r9r71h1b1qdlsh0klq2pb41xb1mv-ensure-newer-sources-hook.drv v9ij02aqnhsdapdw6b36h1y6spv49hkb-python-imports-check-hook.sh.drv y09r6afncqi24nk9pa98kf4y7q5f5ay5-SCons-4.5.2.tar.gz.drv y823dmnv8kgcg2lyvzx0g3m41x7pfyij-python-catch-conflicts-hook.drv yj7vhmsj5jd3yfdm681zby4y4vq55xwx-setup-hook.sh
+CA: text:sha256:188p7lib07whwjv3xfpp7r30v61hyp9xh2nvpwl6jdlh0mv2inka

@@ -1,0 +1,9 @@
+StorePath: /nix/store/na8cshqi7dq7c2536wm6fin1614kda3c-memstream-0.1.drv
+URL: nar/02wqsq4mg2k9w2iszhvd2gf19rjpg943madsazjj1kqb9ghlj6sj.nar.xz
+Compression: xz
+FileHash: sha256:02wqsq4mg2k9w2iszhvd2gf19rjpg943madsazjj1kqb9ghlj6sj
+FileSize: 964
+NarHash: sha256:01ip1nflw9w4iaiaimlh2k4qr0z1s4qi109brfs1bzgjcqp5rh5q
+NarSize: 2192
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv 9spy5c2jm34m6shbq1qwrwrmkqykmclv-bootstrap-stage2-CF-stdenv-darwin.drv mivdq84gay9q8jc0d6gcvmz5pwl2ywga-memstream-0.1.tar.gz.drv
+CA: text:sha256:071rr75ca1arvw9cnmbrjyfbxq1q2cxfl2wn1fjz5i5b8is209p6

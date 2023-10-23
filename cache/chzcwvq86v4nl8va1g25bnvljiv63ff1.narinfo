@@ -1,0 +1,9 @@
+StorePath: /nix/store/chzcwvq86v4nl8va1g25bnvljiv63ff1-gnutls-3.8.1.drv
+URL: nar/0xpshf6jhgcmb82q52x5kiv1mq82n1qb4zlrb765g8g5zsqixqnj.nar.xz
+Compression: xz
+FileHash: sha256:0xpshf6jhgcmb82q52x5kiv1mq82n1qb4zlrb765g8g5zsqixqnj
+FileSize: 2668
+NarHash: sha256:1i87iqklq62hl6np8ik60124p90m9dhs0145ci4c396myg73vflh
+NarSize: 6056
+References: 1i1h5vsjyrw12brnl45azlc3djixdr0n-lzip-1.23.drv 29bl948sh3w5c4m1najhw0wy00pvx5xq-p11-kit-0.25.0.drv 2fcip1b6qjvnvw3z91hnqy55nni37f4r-gettext-0.21.1.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 6zdl7x8hdldmyzfr9a8mvwvzq416irsl-pkg-config-wrapper-0.29.2.drv 853p4lv1h78r4qap0fjdycnavfx420f5-GNUTLS_NO_EXTENSIONS.patch.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv a67p1g10lbdca0vqa5jd24kk18ya3qb2-lzo-2.10.drv ac9635ay4rllkx5w3blfb3h6nnj1b1ri-nettle-3.9.1.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv d0q0mlla854vg1b1lcnfdkasfzdppyc1-dns-root-data-2019-01-11.drv dz6mklh0m8c8sgj2s1a5nc8s7x9qsvpq-gmp-with-cxx-6.3.0.drv fb56szw1cn21s5py4av2vnc7rjxbna7w-nix-ssl-cert-file.patch fpl8vlnrky422bk7x8nk9ygqxvxf0hdl-texinfo-7.0.3.drv ild5d0nwhjsbrc8d919frvjysmf1l3bd-gnutls-3.8.1.tar.xz.drv iv6w72z0jkfspfhd8f3hviai8gk5w3l9-libidn2-2.3.4.drv n64y6zff0sdzq4l3gy75qd4di7c3slmm-zlib-1.3.drv pwiwfvnq3wibx1bxgzb2pri2xpz7wg30-libiconv-50.drv rdbbbgxkmzbv02zzyk4dfbfap096r63c-libunistring-1.1.drv rs9vz3pyp4gh19xm395j7sx88294p86w-unbound-1.18.0.drv szz76xqzbb3i6fdyna5j9hqk1bj6mzhv-perl-5.38.0.drv vmgh66r8m224bgrz53jjam7z2qvbxkg0-libtasn1-4.19.0.drv war9br20m50w468261dryl2ap26f3a0q-apple-framework-Security.drv wfnw2gdabjyr24qjwrwa9rs2p7da1mc8-dummy.crt
+CA: text:sha256:1cvh79q8vcjwvjdnz3g20wvnja71y2dm6s6zmnam647442y6b1j6

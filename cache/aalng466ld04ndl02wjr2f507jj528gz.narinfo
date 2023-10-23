@@ -1,9 +1,0 @@
-StorePath: /nix/store/aalng466ld04ndl02wjr2f507jj528gz-builder.pl.drv
-URL: nar/1rscki2wrf0pcr7h3d8b8kqnz4z83ijmhdv0nyg1qgxlpa3afq7v.nar.xz
-Compression: xz
-FileHash: sha256:1rscki2wrf0pcr7h3d8b8kqnz4z83ijmhdv0nyg1qgxlpa3afq7v
-FileSize: 676
-NarHash: sha256:0llkczzrk6yzm0ibhlg0a7czyx036jlmykz58jnj8ysg0l446s9y
-NarSize: 1520
-References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 4vq3350zc6sqnibkqpgic2d6cvi1r9hq-substitute-all.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv wgf2n4x6vx7fjzhdx2vbij7cblyrzm62-builder.pl
-CA: text:sha256:1hiazjnil9qjgqrm35av13yzqxp7f95wv09lbfk4j7n5zy2ddmf1

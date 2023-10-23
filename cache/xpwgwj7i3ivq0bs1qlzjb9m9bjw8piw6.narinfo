@@ -1,9 +1,0 @@
-StorePath: /nix/store/xpwgwj7i3ivq0bs1qlzjb9m9bjw8piw6-rustfmt-nightly-1.67.1.drv
-URL: nar/1ripnz7559gqa9x3b994jb63jzwg0jdigjg34nw4p84j5jbbwl7p.nar.xz
-Compression: xz
-FileHash: sha256:1ripnz7559gqa9x3b994jb63jzwg0jdigjg34nw4p84j5jbbwl7p
-FileSize: 1556
-NarHash: sha256:12bi0km9xbc7qxyanv5470rza07y6kxx6y762r4z9vflhlympxms
-NarSize: 3520
-References: 6gayh2v2k293x3bl0zinhgrf9g2l6wfl-cargo-install-hook.sh.drv 6ka632pqlrlpg2kqdicx4xx9c8gr28z5-apple-framework-Security.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8k695n4y8dx1d7p7hpv3mavgv4hc109x-rustc-1.67.1.drv fisjxxk5qhr09p6h70dk16f3sppsanni-cargo-setup-hook.sh.drv iypnq8ww1axzvn6y21m0wl8jyvx6b25b-stdenv-darwin.drv lcby2hnwrbnza4ic4rnkhldbi3mjky1n-cargo-build-hook.sh.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv xsi567hcp9f6nqkvvsk7pc1bb638d6x1-libiconv-50.drv y1ddgqja7ym3s8yiq3i77gi4cwilcms6-rustc-1.67.1-src.tar.gz.drv zg0lkfcb49wx821wnczz6rbpmdf0z33h-cargo-check-hook.sh.drv
-CA: text:sha256:0rg4a3kwfd5acjggjmbcz7akg60nw1gkn78r8cn2wb3gz2525zy3

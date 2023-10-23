@@ -1,0 +1,9 @@
+StorePath: /nix/store/9jpp9dm3iynz39zms6q96xx05354gxdi-cmake-boot-3.26.4.drv
+URL: nar/0xql3y0ykkljqga231kw3y131v5f16vfnrc5h4p82jb4ry235jrv.nar.xz
+Compression: xz
+FileHash: sha256:0xql3y0ykkljqga231kw3y131v5f16vfnrc5h4p82jb4ry235jrv
+FileSize: 1640
+NarHash: sha256:1f932dxn5i117awag88hrn40467b9zkhx1qq5d8nrvwjjh1i9gdn
+NarSize: 3984
+References: 2ic3ks7mycm4l8dndbbpzp8m4giagbcp-binutils-2.40.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 708x5k47a93c556c7cv6dpmqk101bamh-pkg-config-wrapper-0.29.2.drv 7yjka9xvfmk5s2cn1alkqlmkbqifcgv6-002-application-services.diff ar1p4gcvlqf8dwbkfrcb01srbywinaj5-check-pc-files-hook.sh azax4isp5al7xw03n3sabylvh8x277g5-gcc-wrapper-12.3.0.drv k0qj9nfiy76y67ga43pszjqdk8f3915i-001-search-path.diff kvvbjlfz5jywnx961aypc86r4rpv2plr-glibc-2.37-8.drv mf3bdryqkpb2zrwmgynximfywj44ynxh-setup-hook.sh p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv rq41inv92jszcs5x62nc5cci5hapbjpw-003-libuv-application-services.diff x2bd4bqaf13d6cxh281icbgh3754lfm0-cmake-3.26.4.tar.gz.drv
+CA: text:sha256:0iwfgsalr48y93fg8ls16p1138i6870gysf6r0d3rfzhx0phz1mh

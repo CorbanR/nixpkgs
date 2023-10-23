@@ -1,9 +1,0 @@
-StorePath: /nix/store/r5mqxlx27nlk1i9lyphdw70n5pncphj6-libxcrypt-4.4.33.tar.xz.drv
-URL: nar/0sav5q87bray9bpjwgnbq70zvd4q9qbcm1ai64sglpgzvjirjgcb.nar.xz
-Compression: xz
-FileHash: sha256:0sav5q87bray9bpjwgnbq70zvd4q9qbcm1ai64sglpgzvjirjgcb
-FileSize: 1368
-NarHash: sha256:0wbvhcp22861pk8bpcd7a8k5cbgrkpjgpljwaci51j5kaab8vqvl
-NarSize: 3248
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh 9s3dzp1lzlrcm9khzw2idmf93fl4jfg4-bootstrap-stage0-stdenv-darwin.drv rbywli8q5syqfq8q4z7j5k77pay2ixbx-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:17w9p4crs5g8fsidw4nv6ni1g8b976vka0r5cx0azvnakgfwvpyr

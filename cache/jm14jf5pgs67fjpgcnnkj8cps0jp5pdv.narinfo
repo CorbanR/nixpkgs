@@ -1,9 +1,0 @@
-StorePath: /nix/store/jm14jf5pgs67fjpgcnnkj8cps0jp5pdv-nghttp2-1.51.0.drv
-URL: nar/14k286r4qjqc0wpq8kqhax2m64ih5mzya2l5skvbcan6i80j748q.nar.xz
-Compression: xz
-FileHash: sha256:14k286r4qjqc0wpq8kqhax2m64ih5mzya2l5skvbcan6i80j748q
-FileSize: 1524
-NarHash: sha256:1snk2frjkkr71vavlnvan2zhanbi0jf3sfk2bw64sly40q22z9wb
-NarSize: 3456
-References: 3jbv3scpmj2kxhshfz544jq37dzywbss-openssl-3.0.8.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 935s4ihbw5l4ccxdv7q5vxlgk08kcnc5-zlib-1.2.13.drv dh5vafvx889l7im45c85bsnys7arwh1n-libev-4.33.drv dz2a43645zb9qkxpm25wivbk69a2csy0-tzdata-2022g.drv hmxvs5jh710x9kcpcnga0grkxzfyl7hh-pkg-config-wrapper-0.29.2.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv jmc04nksbqzzncm920r1vcqyxd0wddjr-nghttp2-1.51.0.tar.bz2.drv mwlxbwjw7n8ab782ql3zmz066skgs416-CUnit-2.1-3.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv vs483dxcaqzws4xppnn5yj8br4p97084-c-ares-1.19.0.drv xzw3dwlpin59wr7zn2x9ivggj04cf7qx-install-shell-files.drv
-CA: text:sha256:18rs9bzb8sl51xb6krc3v0ii6scn93zskpjp3q2j4wl73cx777h2

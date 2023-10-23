@@ -1,9 +1,0 @@
-StorePath: /nix/store/kflydgvwcs9xbfm93kg08p4zxmcfrp1z-rubygems-3.4.8.drv
-URL: nar/12nmv8k0w6110diwla129s5j3pw5hh0nnd67kzrnmn324q32g7kc.nar.xz
-Compression: xz
-FileHash: sha256:12nmv8k0w6110diwla129s5j3pw5hh0nnd67kzrnmn324q32g7kc
-FileSize: 900
-NarHash: sha256:0j3p98j0sqvb3i8hg01gw6w6srbjw56sjqh336gvrryag5mwa9f5
-NarSize: 2096
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv nlivy11dm5lm8xp7wqvbjwriibm3y9zc-0001-add-post-extract-hook.patch p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv qdb4nlc3ghgd0xpxld4z5ip0dj8mmg8z-0002-binaries-with-env-shebang.patch wgzghd3b4klgnjfqv1i3wqydpms4s6c1-rubygems-3.4.8.tgz.drv x5zgvg1ikf64rszqzcdxs1q9yj7qbc4a-0003-gem-install-default-to-user.patch
-CA: text:sha256:1lv8lm3g8g8iqj7lg4kpw1z7m98l0akdd02f3ndi3x99838kx8an

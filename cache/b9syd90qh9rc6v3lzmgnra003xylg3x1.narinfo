@@ -1,9 +1,0 @@
-StorePath: /nix/store/b9syd90qh9rc6v3lzmgnra003xylg3x1-krb5-1.20.1.tar.gz.drv
-URL: nar/06916wpppi3ww575nzkc383rg7y00hy7imcjz5ayi932xdbkdrrk.nar.xz
-Compression: xz
-FileHash: sha256:06916wpppi3ww575nzkc383rg7y00hy7imcjz5ayi932xdbkdrrk
-FileSize: 1356
-NarHash: sha256:0042ww3r2dkjg8bkyq293cldsk70jdajbjdbgwssrcxqjz5lshss
-NarSize: 3232
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh 9s3dzp1lzlrcm9khzw2idmf93fl4jfg4-bootstrap-stage0-stdenv-darwin.drv rbywli8q5syqfq8q4z7j5k77pay2ixbx-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:0qq0faz0zva3n95pmg6bg1dr6b0pvklbnf7afmi6zv68sca1qf0i

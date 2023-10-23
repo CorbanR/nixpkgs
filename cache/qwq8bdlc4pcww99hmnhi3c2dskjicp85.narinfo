@@ -1,9 +1,0 @@
-StorePath: /nix/store/qwq8bdlc4pcww99hmnhi3c2dskjicp85-libarchive-3.6.2.drv
-URL: nar/1h9nkvismp2j15sb34fa1sk24fawlxc450r87z6i8l2ld82fqp4g.nar.xz
-Compression: xz
-FileHash: sha256:1h9nkvismp2j15sb34fa1sk24fawlxc450r87z6i8l2ld82fqp4g
-FileSize: 1892
-NarHash: sha256:1qcbsmsk9hviqs4nwgzygb3z758gkkxpjl06br9gdxwl3xpiz2az
-NarSize: 4776
-References: 03l3l9h1fy6rl84gyd5zqqap7y2389s5-bzip2-1.0.8.drv 2d5m3fsvd0vh2v9gw50g1g6rr0dfdpi4-autoreconf-hook.drv 2pidfgr4flxl7xqwvfjifxfqql112rgc-acl-2.3.1.drv 2rjnzc0dfnykjzyz1zycm580ggp8jf7v-attr-2.5.1.drv 3jbv3scpmj2kxhshfz544jq37dzywbss-openssl-3.0.8.drv 5bndchbspg294bqc534v506jhmm2j4b7-e2fsprogs-1.46.6.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 935s4ihbw5l4ccxdv7q5vxlgk08kcnc5-zlib-1.2.13.drv ah6skss7qizfifx2qby1xklvc8c4kcj4-zstd-1.5.4.drv cwkma3bmdggr8pby1wsv510m418qpi6v-libxml2-2.10.3.drv fm8303iywnzj54cvn7jqhl4jlc913nnn-sharutils-4.15.2.drv hmxvs5jh710x9kcpcnga0grkxzfyl7hh-pkg-config-wrapper-0.29.2.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv ngj1dzvrqlhryd4py4ijirz92rj598kz-xz-5.4.1.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv yi883z7a7ak8y9fdycgh8bjvah8swqp3-lzo-2.10.drv z90rg3faqbyhn82ixh7i4yvnc4gwv7sj-source.drv
-CA: text:sha256:05g2k9xchyzk68rjc5j3bbf2vbhd51kv04y3cj0mj73jidlcwlsx

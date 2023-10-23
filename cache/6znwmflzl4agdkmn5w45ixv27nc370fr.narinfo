@@ -1,9 +1,0 @@
-StorePath: /nix/store/6znwmflzl4agdkmn5w45ixv27nc370fr-autoconf-archive-2022.09.03.drv
-URL: nar/0vyswm92gmnff4ljfc3bg99lhv5k9dv9ps6988mm5s2hxagbdgyk.nar.xz
-Compression: xz
-FileHash: sha256:0vyswm92gmnff4ljfc3bg99lhv5k9dv9ps6988mm5s2hxagbdgyk
-FileSize: 808
-NarHash: sha256:125rn38qiqplaczvqhliy73wxzs4wvq2qgqr1fdw37knriw5i2x7
-NarSize: 1840
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh a01zliphs8cvmcw18p8rlw5k1k6xldam-autoconf-archive-2022.09.03.tar.xz.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv ngj1dzvrqlhryd4py4ijirz92rj598kz-xz-5.4.1.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv
-CA: text:sha256:1chzg56iqivnc18jd2h0ki043n5m4w0q9y8bhnlppw4gvs9gg33d

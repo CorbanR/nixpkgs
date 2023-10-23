@@ -1,0 +1,9 @@
+StorePath: /nix/store/lc8lyc1vs3w1klzip9hjzh7milbshwlw-xmlsec-1.2.31.drv
+URL: nar/1dk5ahm7r7kqvggkfl7iwwrlxggfamb5311g8g0i39z4wr1bidk0.nar.xz
+Compression: xz
+FileHash: sha256:1dk5ahm7r7kqvggkfl7iwwrlxggfamb5311g8g0i39z4wr1bidk0
+FileSize: 1680
+NarHash: sha256:0349v74xyzcs3sbf2y6mk28dahmhnj8c7b42dwfh197sf5ig36hc
+NarSize: 3616
+References: 49yx6h9gay7vmnlqsxjfk9nn3n74bgva-nss-3.90.drv 5gj6k8fy03ldflmhbq25fyp3d8wkzify-libtool-2.4.7.drv 68lisfb26nk4fasax5xmg2v5v3513vkh-libxml2-2.11.5.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 708x5k47a93c556c7cv6dpmqk101bamh-pkg-config-wrapper-0.29.2.drv 7a33wr9ba1nhjbyanqiyraqz3j6zbmqh-xmlsec1-1.2.34.tar.gz.drv 9ns3s7dczl6c8smmwx5sbci44r30f2nv-libgcrypt-1.10.2.drv di8adg893w26yjydxns6clb0g6y7x4qd-lt_dladdsearchdir.patch glwhy22vwb9pddl2db0f52fa6csyy8m1-libxslt-1.1.38.drv ip9f5923mbb2hzcssh3597bglshvy0qy-gnutls-3.8.1.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv w413fn4wzsw1jrfs8k2xmp4v1nky3y6z-openssl-3.0.10.drv
+CA: text:sha256:07yaj8rn10867r64sj400bp2b3b9vjj4by8qz2gbm5rzngxydsr7

@@ -1,0 +1,9 @@
+StorePath: /nix/store/hr3750vnsdiknb1g929j64xpj5xfcy4m-libffi-3.4.4.drv
+URL: nar/1k0amy2y9925k953r97pybg3n3ia73dzzdqpgd0jyz1v0rb75gfw.nar.xz
+Compression: xz
+FileHash: sha256:1k0amy2y9925k953r97pybg3n3ia73dzzdqpgd0jyz1v0rb75gfw
+FileSize: 1040
+NarHash: sha256:0hvjbbhwdl4iz4s4ii7zszp49f0w06d2sm1kassj3by7mi2c404z
+NarSize: 2472
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv ym1m4b27d4bvg6h367g208yz05lmxgyx-libffi-3.4.4.tar.gz.drv
+CA: text:sha256:10n22y8qpkca221lil7d5jsvgqf3x4i2nryyjf1fm3qswym5sn9q

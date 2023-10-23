@@ -1,9 +1,0 @@
-StorePath: /nix/store/l83lkk9d672q6i07r26z21l2nvpy1m0i-python3.10-pytest-mock-3.10.0.drv
-URL: nar/0wj505d0gahmik38as01ap60sld4b6da1s7haic8z4x4d14rlh8n.nar.xz
-Compression: xz
-FileHash: sha256:0wj505d0gahmik38as01ap60sld4b6da1s7haic8z4x4d14rlh8n
-FileSize: 1916
-NarHash: sha256:1sf3i4v3vfjxypiby9ncf04a3n9y8fx7wz54igg717df588lbykq
-NarSize: 4616
-References: 05b51nvvgf6qr2fxvvkwxi79f9bbqsyg-e2016928db1147a2a46de6ee9fa878ca0e9d8fc8.patch.drv 1i0ixszrc2r03rfh3iwhfbi2f4x52wcf-python-catch-conflicts-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8i6cw8wgjqhkpcbn3i1k5czs1jj62g0f-python-namespaces-hook.sh.drv 9ldjr0zdj3qvmjbn8ynxgdg7h56lx4zx-wrap-python-hook.drv 9nzi0hc1xfghmydfl7z0m80ax0sjh0mm-python-imports-check-hook.sh.drv cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv k8dww4q3jpxx2szv38vh0w2m66sfj7i4-pytest-mock-3.10.0.tar.gz.drv lrqd5nf1nvsav8yzf1j02dn3m58z0fvc-setuptools-setup-hook.drv lxl1wsq2ig022hvmcx76wmjr6sl9cx81-python3.10-pytest-asyncio-0.20.3.drv n7vcq4v8fzvqll5zw3wdxhwivrzzzgim-python3.10-pytest-7.2.1.drv nbwz2pkcfil2ibp3wmcrnc99gisndcmg-ensure-newer-sources-hook.drv nsp49j4gaj67csflfh9v3wp2y87p1g82-pip-install-hook.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv pfnlk8az05yjg924zjnq97nrny84hfbb-pytest-check-hook.drv s3k27g1ndq5zk71882p97ary76xj36zp-python-remove-bin-bytecode-hook.drv vdlwfw2kp772prkan464z1ky74mqrnp8-setuptools-check-hook.drv x8afnl0gcsqbkg0v4s7iqgxd8mknzdd8-python-remove-tests-dir-hook.drv zay2p712hcja4l7v9xm9a3sdmr7pcxd8-python-output-dist-hook.drv zsib4zy7zwzznv72smkg883fpalw98dd-python3.10-setuptools-scm-7.1.0.drv
-CA: text:sha256:1s9xxq3faf9mma35y4mkril4w119xj917c5rpig7s53iqgwgs8k8

@@ -1,9 +1,0 @@
-StorePath: /nix/store/hbi8ff99nd8abw6x8svllhmm9w4ch76g-rust-1.66.1-x86_64-unknown-linux-gnu.tar.gz.drv
-URL: nar/0xdh5zg12ywwr4j30wq2zlz726hljad79y3i2zj334q31if93xa4.nar.xz
-Compression: xz
-FileHash: sha256:0xdh5zg12ywwr4j30wq2zlz726hljad79y3i2zj334q31if93xa4
-FileSize: 1292
-NarHash: sha256:0djs4m2za2ail5brly81h53lzfikakq5x3m55n2mybxws31dk9sx
-NarSize: 3104
-References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
-CA: text:sha256:03457px4zx9fzf8aandf593ljylc6g86bacvhr0gn0fy9n8h151c

@@ -1,0 +1,9 @@
+StorePath: /nix/store/6x15wsy10fk1482macnk93kx035lzh7b-python3.10-tomli-2.0.1.drv
+URL: nar/0c74fffg6kjxd1hidhzm6b4zbi64f838k6j01qyfzxsi8ws9blpr.nar.xz
+Compression: xz
+FileHash: sha256:0c74fffg6kjxd1hidhzm6b4zbi64f838k6j01qyfzxsi8ws9blpr
+FileSize: 1580
+NarHash: sha256:1rrrn198dk85cnrxq458dq99r5l308s51rybvdvjsz7ir148ba5r
+NarSize: 3696
+References: 13cyxa5v1syj13xmzsccs0s9bq98gxcg-python-remove-tests-dir-hook.drv 46i3vim2nmbblf82v471qabih7hzg3p5-pypa-build-hook.sh.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 762qm62g5kf1iwgmxcj4xcd31w426qzb-pypa-install-hook.drv 9ch8hyg0zjccvav10pmrs92a7lkswmrl-python-remove-bin-bytecode-hook.drv bhhzgg2fcr2k8g8ix581nnb1ys8cmal2-unittest-check-hook.drv dli1sw8mp5kh8ic29rswaglf3kvmim5c-python-imports-check-hook.sh.drv fbyjcpdqv92z8fc85plz3m6j4f0m2jv2-python3-3.10.12.drv ipxz7lkjp6jjr6xkcvz33jal354154gh-wrap-python-hook.drv kxlpr3barrd5fsmd9izn7cmj9xmzf4bg-python-namespaces-hook.sh.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv qm6wphh843v3xg8k06ijk58x2jdhh3pd-python3.10-flit-core-3.9.0.drv wmcf492qb380drizrhjnzzdhlczykfr8-python-output-dist-hook.drv xh4w027x5ahy68p3idzxlph5a38rd4rd-source.drv yrb198d2sygj8f2hcraprfkxjxfx5j3z-ensure-newer-sources-hook.drv
+CA: text:sha256:11j2xkj4ni0bvsaghqz8y4i2jmdi97ncaah39icj3fyv2zmgi5cz

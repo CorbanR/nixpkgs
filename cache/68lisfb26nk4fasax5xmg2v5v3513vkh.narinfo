@@ -1,0 +1,9 @@
+StorePath: /nix/store/68lisfb26nk4fasax5xmg2v5v3513vkh-libxml2-2.11.5.drv
+URL: nar/0hs0kcbc7m0wrxqjc77qk1jbkcv9vvblw7r96dji869hw31fzd0v.nar.xz
+Compression: xz
+FileHash: sha256:0hs0kcbc7m0wrxqjc77qk1jbkcv9vvblw7r96dji869hw31fzd0v
+FileSize: 1588
+NarHash: sha256:0aaw923q0rxl6i9f5sa4xybjkkca8ij4xbxfqp8sy3h8865k16v8
+NarSize: 3808
+References: 2wv3f6wn8cly84i9b2j7212yksk60pah-find-xml-catalogs-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 708x5k47a93c556c7cv6dpmqk101bamh-pkg-config-wrapper-0.29.2.drv fbyjcpdqv92z8fc85plz3m6j4f0m2jv2-python3-3.10.12.drv ildqwl18s28np8r9d9jcjmkmqm47qwhx-ncurses-6.4.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv qb1863mh6w24fwk0xy4359211msvpm3x-autoreconf-hook.drv s31wwp9mwyaq0yi52j3mqiwdcl87s4py-libxml2-2.11.5.tar.xz.drv znd2jpwvs913wjny0zag97rp1wz3zrjk-zlib-1.3.drv
+CA: text:sha256:0z908f1hxqpah7g7938545abn26capap9rwl6dw282fwarrs5liy

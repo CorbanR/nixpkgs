@@ -1,0 +1,9 @@
+StorePath: /nix/store/40wf5xf2dhfz46nijaay5zrdf2gni9hf-bootstrap-stage0-binutils-wrapper-boot.drv
+URL: nar/1w3ih5lab6abpws6g72vc9ndsih1vdrc04jlbqi3xq7mbysxbvb0.nar.xz
+Compression: xz
+FileHash: sha256:1w3ih5lab6abpws6g72vc9ndsih1vdrc04jlbqi3xq7mbysxbvb0
+FileSize: 2240
+NarHash: sha256:0d2ddq4nkfspdhkzyqwfyjbidvz8sbmgcq1kyfps3dxbc41lvbxd
+NarSize: 6784
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9rq2ab2wl3ia1ism6zjvdxcnpv9s9rgn-add-hardening.sh bybz12bxjbk94hm58zc70sc0xhj2dxif-add-darwin-ldflags-before.sh c803q5iyvcr7mwjr48bj27gyjc79fpd7-bootstrap-stage0-Libsystem.drv dk3ly72kiv27srcj1mjr5n4112vx2hfk-setup-hook.sh kgcmpr4i443sdyszl1b7i4k86ddxbrwi-utils.bash mrzpfh0ml9k07sw019ydagbb2z1q4sxz-add-flags.sh p2ynpdqzm8lfdq6xywa8igkjp56b8q65-ld-wrapper.sh p4jpyr1vsixxl6sbkfy0r0398wwmqbci-bootstrap-stage0-stdenv-darwin.drv v9034cqc4h5bm10z4vz3n1q2n55grv5y-role.bash wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:00sd0zg97npaf4wr522h47bfc38l2p44n0ybyxnmp218gl4x8bk9

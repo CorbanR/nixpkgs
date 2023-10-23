@@ -1,9 +1,0 @@
-StorePath: /nix/store/bkna79z98yy9qimq6h2z146clbi17h4q-cctools-port-973.0.1.drv
-URL: nar/13rqmsn84db3x2ppzcvp8xs12jp980fmn4n9fhgfi69h0wz2njq3.nar.xz
-Compression: xz
-FileHash: sha256:13rqmsn84db3x2ppzcvp8xs12jp980fmn4n9fhgfi69h0wz2njq3
-FileSize: 2480
-NarHash: sha256:078gmr03igaakspvfiyp7qf34mjbnliqvqkrm6178ibc6xjbvrax
-NarSize: 6912
-References: 0clkspc29vazbw2q0i8wy0xg0pijwb8a-libtool-2.4.7.drv 23zga27bszckpq5ag81ynv9d80lsrxfg-automake-1.16.5.drv 4284ff56lbs223w240a8rx0wavsxccfb-4a734070cd2838e49658464003de5b92271d8b9e.patch.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9njkamnh30mwa0m5gzms5p5sbvbq9s50-autoconf-2.71.drv ag3xh545nybk78i47ga97pxyaxzk9rgw-darwin-no-memstream.patch iyfzhynhq4r7gnb0nqqyd1vn8impdxg0-install-shell-files.drv jrhnx42c70wkrj0c2l69yfg93wck3qk8-libtapi-1100.0.11.drv m3hxkkcmkqpa33y6bvqf9k61vdw5p8jp-objc4-709.1.drv pflp7nbpq9qbida92xbsj3lcblz1qxws-source.drv pih7s1g34vdn51z5bk57ly6yad9pq40d-autoreconf-hook.drv r0x0mak6dlb0951i9mzml6kzwk05r294-bootstrap-stage4-stdenv-darwin.drv r9iy2wdkq3w0n1hbyg92c2sqg3vcbkhl-ld-ignore-rpath-link.patch wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv x7nl1nga76gp1klwhg9m1sxbl84lzr6m-025899b7b3593dedb0c681e689e57c0e7bbd9b80.patch.drv zr59kiajvksmks3vl1hja2ybix9z2zqk-ld-rpath-nonfinal.patch
-CA: text:sha256:027n06krmng7y9f1bmid23r4q0sf88r9w2rmgb9fi7170wvca53r

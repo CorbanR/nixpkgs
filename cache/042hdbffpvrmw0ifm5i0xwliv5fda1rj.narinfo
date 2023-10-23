@@ -1,9 +1,0 @@
-StorePath: /nix/store/042hdbffpvrmw0ifm5i0xwliv5fda1rj-hatchling-1.13.0.tar.gz.drv
-URL: nar/013kx6ypsrmvgz1vkp6s0rydfr88jzjlaypr4z1ipkn7kypha0fr.nar.xz
-Compression: xz
-FileHash: sha256:013kx6ypsrmvgz1vkp6s0rydfr88jzjlaypr4z1ipkn7kypha0fr
-FileSize: 1304
-NarHash: sha256:01g8x9j897fmpwkn8phqszb5a9a2g8z34ymkphva7b6hjdbg9ljp
-NarSize: 2976
-References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
-CA: text:sha256:1rjjgzfdm3d5p9jsrnpdi0zkzz9kx1ya8gxgay0vlvi7p8336v6w

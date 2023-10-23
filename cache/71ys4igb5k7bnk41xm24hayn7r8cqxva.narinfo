@@ -1,9 +1,0 @@
-StorePath: /nix/store/71ys4igb5k7bnk41xm24hayn7r8cqxva-Pygments-2.14.0.tar.gz.drv
-URL: nar/19qn8l4j520zpif12gsx6fa6vs7k3rnk0fdwjwfgcrb446vy35x1.nar.xz
-Compression: xz
-FileHash: sha256:19qn8l4j520zpif12gsx6fa6vs7k3rnk0fdwjwfgcrb446vy35x1
-FileSize: 1304
-NarHash: sha256:0jq6vap1nh2kzxca7znq15yxvj4gkhzjz7m93pb48v0zdpjhksp6
-NarSize: 2976
-References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
-CA: text:sha256:1dll291kgmn5s9lbh25f7wk2y0026gjs99bpxj72gbm0b8g2fh60

@@ -1,9 +1,0 @@
-StorePath: /nix/store/81imnyyhrz1fb2qjjh7k3q0vlfqv3ij6-unbound-1.17.1.drv
-URL: nar/0jz1yj3zj7jkbs3zqma89nhik651ck9r4kzyla04pjv4h3nk5280.nar.xz
-Compression: xz
-FileHash: sha256:0jz1yj3zj7jkbs3zqma89nhik651ck9r4kzyla04pjv4h3nk5280
-FileSize: 1916
-NarHash: sha256:1986lpqs7p71mrg5027szkrmd59ziabig0alq72873k5f4my56ya
-NarSize: 5216
-References: 0ry045qgnbgqqb3biy75v8frgsjk4rzq-make-shell-wrapper-hook.drv 3jbv3scpmj2kxhshfz544jq37dzywbss-openssl-3.0.8.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh dg8ncgkfgbbji21rxgkyqin45259vgl2-unbound-1.17.1.tar.gz.drv hmxvs5jh710x9kcpcnga0grkxzfyl7hh-pkg-config-wrapper-0.29.2.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv laplipjzl6gn1lhjcq86fr8ajmb62ms2-expat-2.5.0.drv ln5r3wm812qwm4wxfwr2479sj443j5i8-libevent-2.1.12.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv qga9w38c5qj2h99kwjd3wyadd081gs9n-dns-root-data-2019-01-11.drv s1dbdvpdl44vh1xwn5mjdz2bcdxyf0a8-nettle-3.8.1.drv vq9azpazk09k4arh87a0dwks66mvf8aj-bison-3.8.2.drv
-CA: text:sha256:1c0h2f1y1123qk9mrihzsmb6f1lbbwmfhwp4qdp0f7mhx0xhjvzz

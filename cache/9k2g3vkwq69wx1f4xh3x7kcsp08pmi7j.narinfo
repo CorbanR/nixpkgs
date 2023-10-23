@@ -1,0 +1,9 @@
+StorePath: /nix/store/9k2g3vkwq69wx1f4xh3x7kcsp08pmi7j-file-5.45.drv
+URL: nar/1279y40l9x3vnnis84xycqfnv2zn9wlvp0i5ch2gc4g5aji4gnxc.nar.xz
+Compression: xz
+FileHash: sha256:1279y40l9x3vnnis84xycqfnv2zn9wlvp0i5ch2gc4g5aji4gnxc
+FileSize: 928
+NarHash: sha256:0j4h0j1lw0nr3a80cb05j06j0gs1mp5qbf9v4s3n9vjkd34770s8
+NarSize: 2208
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh kf7fzzm4nz10qaxv9lpjwqqxxgbrz50m-32-bit-time_t.patch klfl82nqgac8fyl7z83q1i7rngka20d3-file-5.45.tar.gz.drv ks6kir3vky8mb8zqpfhchwasn0rv1ix6-bootstrap-tools.drv paxir5s9racqd31pv7y2nsrj0ibwmhyg-bootstrap-stage4-stdenv-linux.drv znd2jpwvs913wjny0zag97rp1wz3zrjk-zlib-1.3.drv
+CA: text:sha256:16k2ni0v71wgfcp0m3yq7r5c75g4v2p7s8n294368wccg5zgmd01

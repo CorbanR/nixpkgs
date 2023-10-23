@@ -1,0 +1,9 @@
+StorePath: /nix/store/adhprvri4hq06pghfhwy0k8w1jpqyl66-Mozilla-CA-20200520.tar.gz.drv
+URL: nar/0lq0pk5r95vx1404aiasawrapscd5cs2mfnay5d1x6s0mp2glwpv.nar.xz
+Compression: xz
+FileHash: sha256:0lq0pk5r95vx1404aiasawrapscd5cs2mfnay5d1x6s0mp2glwpv
+FileSize: 1316
+NarHash: sha256:0pxmwrw1d16lrqcc4gzbsylrar4xsxzi03ya2vzkc8g41spjc440
+NarSize: 3000
+References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh i8a31hfv8pz9l0z1y7iimdl6h04dga75-stdenv-linux.drv lr82zvprmf5m7q1p5hq0kmgd3645w3dx-curl-8.3.0.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv zj04va6kfr8j44f34ya6ng6w2pdm87jg-mirrors-list.drv
+CA: text:sha256:05hnkqmw38yy5hfjyb560pyjaj5z8bcms1k1lk29x56kgj9b5cd7

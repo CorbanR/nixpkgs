@@ -1,9 +1,0 @@
-StorePath: /nix/store/r1j595n1nwdihrn5ymhhw6s4kbp06b46-mDNSResponder-765.50.9.drv
-URL: nar/1bgawpw31ddzhs08mz2aaqyqqqiwybcdppwsn5klyag0gf1z4w6c.nar.xz
-Compression: xz
-FileHash: sha256:1bgawpw31ddzhs08mz2aaqyqqqiwybcdppwsn5klyag0gf1z4w6c
-FileSize: 1132
-NarHash: sha256:15faylgljr2q8c2pr98n2hqahzl9g6rgw6rpf69wmx35j9j10nar
-NarSize: 2520
-References: 46ls1k7mxvx2c8s0886r27iq8hpkqvgf-mDNSResponder-765.50.9.tar.gz.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv y9k5lpsbhw75hjxx57gf0vhri67ninxb-bootstrap-stage1-stdenv-darwin.drv
-CA: text:sha256:1gm8cx29svl4p35afbf2scbmy8jgsdi3vfr8nwn41lvj996lhhcw

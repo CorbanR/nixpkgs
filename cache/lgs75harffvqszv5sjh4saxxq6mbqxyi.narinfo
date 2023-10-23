@@ -1,0 +1,9 @@
+StorePath: /nix/store/lgs75harffvqszv5sjh4saxxq6mbqxyi-nss-3.92.tar.gz.drv
+URL: nar/0qfih38n68q9nb0hsk3hk22v4s23shjl95vfnk1g6d1f52ih1dlc.nar.xz
+Compression: xz
+FileHash: sha256:0qfih38n68q9nb0hsk3hk22v4s23shjl95vfnk1g6d1f52ih1dlc
+FileSize: 1416
+NarHash: sha256:0yzhplvh40qmisf081mnwhzhs2hg7k5840zjy41i6dy73214p0c5
+NarSize: 3240
+References: 1y4dpnbygkhb7xkd2iajjq9j0y5glmld-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh 6cl94yz7awlxs83hvfr4pryxnnxmfa12-curl-8.3.0.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv w12mifg34dx2l90mdc7gq9qirc9hn979-stdenv-darwin.drv
+CA: text:sha256:03lrxz8cwcs80mr54fqlp2afaj3q828a857cvg6wz51ch7ip99dv

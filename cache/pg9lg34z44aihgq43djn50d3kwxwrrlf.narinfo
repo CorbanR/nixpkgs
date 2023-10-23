@@ -1,9 +1,0 @@
-StorePath: /nix/store/pg9lg34z44aihgq43djn50d3kwxwrrlf-expect-5.45.4.drv
-URL: nar/1dn2ns577bsmb1ivs7dl6gm5a2yzxizabjp7pd8m3cmr6h3s661i.nar.xz
-Compression: xz
-FileHash: sha256:1dn2ns577bsmb1ivs7dl6gm5a2yzxizabjp7pd8m3cmr6h3s661i
-FileSize: 1548
-NarHash: sha256:0qpm1sm36hvybyp5rfiksgqwls6m2d7gzd7fy682nd1i6svhnhll
-NarSize: 3648
-References: 218ml7f1f402xmdi1d8ns8svdv79m50l-autoreconf-hook.drv 2qw0p25np1zfcz82kdbhrz59zs14lldh-make-shell-wrapper-hook.drv 2vwxypx6glxg6jhf0vm8iaii6ijrkw7h-tcl-8.6.11.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh dvv964pfn4hsp2gh7wzbi1ih4py1xj5f-expect5.45.4.tar.gz.drv nhfw6vm8hg2nrm51yin3rqb2gir0002p-tcl-package-hook.drv v0rasazrbfwk2v37sz083ajjj4bj789j-fix-cross-compilation.patch.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv wry8lpz0cpy9pizfkv6rif67ha2l3q6k-bootstrap-stage3-stdenv-darwin.drv yjzr74myb727fl74sm4f4lq8x8b3rwlz-0001-enable-cross-compilation.patch.drv
-CA: text:sha256:0p196q6pcf2x47s60j0qrb1x0yx0plj9dg3hlc804rgm2qipd36n

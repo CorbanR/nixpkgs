@@ -1,9 +1,0 @@
-StorePath: /nix/store/1v0yx1k0kdzqzkqkq31dpahzbczsdb83-docbook-style-xsl-non-recursive-string-subst.patch.drv
-URL: nar/0f2mz2z7s6iy1p67ds6y1f08waz5avh4k8sqdl2nfvyjhwvi8pgx.nar.xz
-Compression: xz
-FileHash: sha256:0f2mz2z7s6iy1p67ds6y1f08waz5avh4k8sqdl2nfvyjhwvi8pgx
-FileSize: 2028
-NarHash: sha256:0vk4xgymf35fyk9s634hl3q598dxmbqfpf8r9cgw8dnq0n02mmwh
-NarSize: 4976
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh 6xnxsrxdqgdfpngd4yd6qyvn6pi71dsi-curl-8.0.1.drv gqfvpd2x69qwqirkhs8l3xyl274g0a1i-mirrors-list.drv jnl83pzwf7i0cv3i0sgzrfdk8pfdg82m-stdenv-darwin.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv zrcwqn33cqjx7kh1ihda8jz1gw53pxnx-patchutils-0.3.3.drv
-CA: text:sha256:0x8lavgmazbmflz1qvpp50p634b31mwzkp92ygjlkmx9433v9lwp

@@ -1,9 +1,0 @@
-StorePath: /nix/store/m13b9vpv4n1nra7wim0fhf1as15gqkyr-cctools-binutils-darwin-wrapper-973.0.1.drv
-URL: nar/0m9bkziclxdcsvsjnfhp741m4vmhszdlcfx2sxckpgrqdda93md6.nar.xz
-Compression: xz
-FileHash: sha256:0m9bkziclxdcsvsjnfhp741m4vmhszdlcfx2sxckpgrqdda93md6
-FileSize: 2584
-NarHash: sha256:064nq9kcvppbr36779rg86yajh2qh7isx37d4z04cf3sh0j8zncx
-NarSize: 7416
-References: 0xkk11r81nq8kb10cdxg3s17lcv4dyrv-bootstrap-stage4-stdenv-darwin.drv 2jkb5w8pra1h52hkz9ll3l22bh0cv8fp-ld-wrapper.sh 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 797k3249lr4rx8wslf7kcsa3hv6fis3x-role.bash bybz12bxjbk94hm58zc70sc0xhj2dxif-add-darwin-ldflags-before.sh c1vmxz359mfljs3cdimhd2fr6fw0n99s-add-hardening.sh c3ic8spy5nhglxzg9jc412xzgvd64nyh-expand-response-params.drv dk3ly72kiv27srcj1mjr5n4112vx2hfk-setup-hook.sh fcrwascnw3lacr1nnshaqxi8w8gnhzvw-cctools-binutils-darwin-973.0.1.drv hznwcyb002km43zwqcbn0zb58yiv44ym-utils.bash kq45wh5vf2pgq99his7q5qy3nhjhms87-gnugrep-3.7.drv lsplgizvmm3xmvliyvwv1q528rs3x5w1-coreutils-9.1.drv mrzpfh0ml9k07sw019ydagbb2z1q4sxz-add-flags.sh p42bz788b705kkd99dmv2d4x7gsrqlz4-libSystem-11.0.0.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
-CA: text:sha256:1w1fmdc4p3f7855pj4nxdnqy7j1hkyr1n0vz613svdjbgxiy7dn6

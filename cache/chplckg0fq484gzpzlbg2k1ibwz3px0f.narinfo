@@ -1,0 +1,9 @@
+StorePath: /nix/store/chplckg0fq484gzpzlbg2k1ibwz3px0f-db-5.3.28.drv
+URL: nar/1x2va93mfa3npi9kv1icwb3nwlq7hzlgysayw3xnxgj6nccsrnbv.nar.xz
+Compression: xz
+FileHash: sha256:1x2va93mfa3npi9kv1icwb3nwlq7hzlgysayw3xnxgj6nccsrnbv
+FileSize: 1564
+NarHash: sha256:03yzi78whq4rd2s49brfv9bmpnlihc7308gngiq7jv1snaslil1a
+NarSize: 3680
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh ky3k9vamivjyji36043nrkz194l7966g-CVE-2017-10140-cwd-db_config.patch n4ii9rpjrlsyfyjikbk2hcqh1fr5w1ic-db-5.3.28.tar.gz.drv nsqsj7kmvyg9jw3anflhipq1v6df7cmr-bootstrap-stage1-stdenv-darwin.drv p56njrk3dmlrjy3ah8c36swji3kiym60-clang-5.3.patch w1si7nrykydfkxrcfhhf7yl3c2x2kfdc-darwin-mutexes.patch wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv wy81ax2nq440a9gjsgbf8cmzrkvbh0lj-autoreconf-hook.drv
+CA: text:sha256:196fxzii40pwdj5syw80xhy0dwgnx97yd8rz3dxi2px6zspby417

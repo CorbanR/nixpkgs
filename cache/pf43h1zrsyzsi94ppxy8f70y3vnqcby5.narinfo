@@ -1,0 +1,10 @@
+StorePath: /nix/store/pf43h1zrsyzsi94ppxy8f70y3vnqcby5-libidn2-2.3.4
+URL: nar/0fc2qakwb533vlc4h2gci426ig103iylwxb0i1jkiggqgpy2rzvj.nar.xz
+Compression: xz
+FileHash: sha256:0fc2qakwb533vlc4h2gci426ig103iylwxb0i1jkiggqgpy2rzvj
+FileSize: 69792
+NarHash: sha256:13q8ydmyzfvagzd9dydwfkbfapdgjks4283rvw27vs1mnqapxsfq
+NarSize: 207896
+References: 3wcxl9bhpaxd0jblzz22ay10rgdr1x80-swift-corefoundation-unstable-2018-09-14 9y7gq06wk496bkk4j8iphl5gd4jxgwaa-libiconv-50 nm04hss4904l42z9ybsny0s1w9rk8hhz-libunistring-1.1 pf43h1zrsyzsi94ppxy8f70y3vnqcby5-libidn2-2.3.4
+Deriver: iv6w72z0jkfspfhd8f3hviai8gk5w3l9-libidn2-2.3.4.drv
+Sig: cache.nixos.org-1:oZ1R74BOFATSKmOkZuJ2Ey/LvsAiITnEOmBJLp5UwfQSVrQEcRZKXR268toAIz681JeSmw0mmqsWu3XzUKEqDQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/9plrdkj3pzfiyz8ah7n1q1sqjc5cx2qb-openssl-3.0.10
+URL: nar/06gg647p1divazjqkc5hn2nfvmmj52ky63lw8pgz396b60vis5ag.nar.xz
+Compression: xz
+FileHash: sha256:06gg647p1divazjqkc5hn2nfvmmj52ky63lw8pgz396b60vis5ag
+FileSize: 1659876
+NarHash: sha256:14kc0mdadks6aalhzxdm2676pw9672iq7cnjgc284pavay7slarx
+NarSize: 4855912
+References: 3wcxl9bhpaxd0jblzz22ay10rgdr1x80-swift-corefoundation-unstable-2018-09-14 9plrdkj3pzfiyz8ah7n1q1sqjc5cx2qb-openssl-3.0.10
+Deriver: yxqx1vh5dgkc6l5qqmdk5bsmi88a12ms-openssl-3.0.10.drv
+Sig: cache.nixos.org-1:1c53Je71aOPGvoXPrNPiyeW0Zb8xjMo1hFMmKcqjB6/CiAiPfBrPEGk+CxP+lEq287YWsB5uvOi8udm2q4Y8Dg==

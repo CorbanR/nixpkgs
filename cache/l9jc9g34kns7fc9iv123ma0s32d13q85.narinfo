@@ -1,0 +1,9 @@
+StorePath: /nix/store/l9jc9g34kns7fc9iv123ma0s32d13q85-llvm-16.0.6.drv
+URL: nar/0jzqbq5y7ghncprrl318lpb7z2h3zkaw8ngyyipid11m7mbv7wyz.nar.xz
+Compression: xz
+FileHash: sha256:0jzqbq5y7ghncprrl318lpb7z2h3zkaw8ngyyipid11m7mbv7wyz
+FileSize: 4140
+NarHash: sha256:18fh31khbs3bajsglchv1fdp71x2jad079xhmyikhvb4vx7dk7d9
+NarSize: 9848
+References: 0n02j2xhay378xnfm2glf1xmxi8qpgla-cmake-3.26.4.drv 23q4bqmy97d2qhcinp9zg2m7k31jmgxy-libxml2-2.11.5.drv 31rx7799zv5p7l9kmpkhn0zmc62nrghb-DarwinTools-1.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv 9n0gl7q22sgqsbd5kvjs8r34wpfddddv-ncurses-6.4.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv cf81k34hxdj4hnwpmm7v9z8jpn9mj2h5-gnu-install-dirs.patch dgrl6c5bdmb5l352zrk8i09jakg21av3-ninja-1.11.1.drv gcprgrf4g21hms1vh2mvm9rczh8dk7af-libffi-3.4.4.drv gr73nf6sca9nyzl88x58y3qxrav04yhd-polly-lit-cfg-add-libs-to-dylib-path.patch hdhnym9qs0rgdfsjggcn10j1vva8afrg-sysctl-system_cmds-550.6.drv ismw70sqmd3pjg7kwbdypghj2b43c7vk-llvm-src-16.0.6.drv lzwpi2h5bwgjl91d7csfcm5vvrz88bf9-lit-shell-script-runner-set-dyld-library-path.patch n64y6zff0sdzq4l3gy75qd4di7c3slmm-zlib-1.3.drv rcdzyb4rkml4hhjdg3xbscipaz94v3jk-gnu-install-dirs-polly.patch syssfm9j83s7hlyhxgsn7bn2lbkh5rdz-llvm-lit-cfg-add-libs-to-dylib-path.patch w1k6c9a4hp1my94jcc1jg4srbrl7la0w-python3-3.10.12-env.drv wm6l53wq4irwa23r170an2r8drpwlws9-which-2.21.drv
+CA: text:sha256:1sap290linm4gx5w4l43vlyj1vchnh96sc7ax06svrh0s3zd4i6g

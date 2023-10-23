@@ -1,9 +1,0 @@
-StorePath: /nix/store/vq01spywn64v3y5gdfpbv3zqi46sp6w9-CVE-2019-13232-3.patch.drv
-URL: nar/1nwpriwz6v8yfqizs3c99sq6c3gpnmha0862khbl0l2m3zsmp93s.nar.xz
-Compression: xz
-FileHash: sha256:1nwpriwz6v8yfqizs3c99sq6c3gpnmha0862khbl0l2m3zsmp93s
-FileSize: 1344
-NarHash: sha256:1x4wi2hq8cbl81vvrf8f86a2n4ianyjsmqs75airrmr5zkgzzmf6
-NarSize: 3040
-References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
-CA: text:sha256:1q2w3i0hf6zzhqw72yi1ldafmablazrpj5xamk9cg2mvn4725vfk

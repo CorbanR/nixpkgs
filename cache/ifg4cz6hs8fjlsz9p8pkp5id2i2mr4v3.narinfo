@@ -1,9 +1,0 @@
-StorePath: /nix/store/ifg4cz6hs8fjlsz9p8pkp5id2i2mr4v3-cpio-2.13.drv
-URL: nar/07ckcp92hgzspnwsi8b3b1zk3wikcyb6b5my6za76kin16kxl0h0.nar.xz
-Compression: xz
-FileHash: sha256:07ckcp92hgzspnwsi8b3b1zk3wikcyb6b5my6za76kin16kxl0h0
-FileSize: 1080
-NarHash: sha256:1as5l19qpyl0zi2674y863l0j9inkabd0am8b9bvvwhhxjlh2011
-NarSize: 2536
-References: 18dmw34kw0ynnxmzszk61glwyadp9d44-CVE-2021-38185-2.patch.drv 417gylv8xsxyzpwm0y9d900p8ypvwab5-CVE-2021-38185-1.patch.drv 5qfwcl5crnw4yk504mclrgr4iamp9fyx-CVE-2021-38185-3.patch.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh adgdkjgx1n2r7a8mjgp4jz7g48na9pq0-separate-debug-info.sh cy7cqdgsvr9f5z4r8lpa6f03x5lnn2l8-cpio-2.13.tar.bz2.drv hp88s7ljnjy4s80lwyjz0r9p8p8yy3ja-fno-common-fix.patch.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv
-CA: text:sha256:08459v9qvvil5gvxyb4xyxc93db4218p4j0zfi8ya52n244k57hf

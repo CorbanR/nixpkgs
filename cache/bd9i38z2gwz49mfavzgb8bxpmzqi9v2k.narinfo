@@ -1,0 +1,9 @@
+StorePath: /nix/store/bd9i38z2gwz49mfavzgb8bxpmzqi9v2k-coreutils-9.3.drv
+URL: nar/1asc96176py4grgj5r315zn23qc3grsvkphxp4z7f1cv2nx6gs0f.nar.xz
+Compression: xz
+FileHash: sha256:1asc96176py4grgj5r315zn23qc3grsvkphxp4z7f1cv2nx6gs0f
+FileSize: 2116
+NarHash: sha256:18chdzpfwfjc23flcimhgsl83kj5fh8vzai617j8s6sp9p8fsszb
+NarSize: 4920
+References: 1cwqp9msvi5z8517czfl88dd42yhrdwg-separate-debug-info.sh 4g5i55a4bibk0m014j3ajlc70qgxl8f7-perl-5.38.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 888cc69y5a42n34xwbr1nnbkm6gn8r4w-autoreconf-hook.drv 8f2h184nxqib0jc70g6gbkyh8h1ly2fd-coreutils-9.3.tar.xz.drv c3pm3g39226bhp1vm8zdvd1ld18mkjq4-acl-2.3.1.drv g4f9r0cc5ds1vyzk1w7i3ys6dl2r0lpl-xz-5.4.4.drv idsws43icanbvgsp0l40i0yccyzv8rbw-attr-2.5.1.drv kjxgw0bhz3hzgcl6nn51rpm8jbnw8fi8-gmp-with-cxx-6.3.0.drv ks6kir3vky8mb8zqpfhchwasn0rv1ix6-bootstrap-tools.drv paxir5s9racqd31pv7y2nsrj0ibwmhyg-bootstrap-stage4-stdenv-linux.drv
+CA: text:sha256:0p4dkargg9hhn24a5mhk5s5rm5vfdaaqba1qcxn2zjgvd78qlswq

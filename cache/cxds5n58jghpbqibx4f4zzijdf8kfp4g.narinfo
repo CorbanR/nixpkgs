@@ -1,0 +1,9 @@
+StorePath: /nix/store/cxds5n58jghpbqibx4f4zzijdf8kfp4g-adv_cmds-119.drv
+URL: nar/05xn8y9bwxhrsmkjplw44cmdzmpsw7y6smw8avyzw7hnxspjj83f.nar.xz
+Compression: xz
+FileHash: sha256:05xn8y9bwxhrsmkjplw44cmdzmpsw7y6smw8avyzw7hnxspjj83f
+FileSize: 2180
+NarHash: sha256:0755hklhv5dajlz60lbx7ljylg5qsjfxbqmz9s9b3dyji2naya24
+NarSize: 5408
+References: 0ika7zjkw7qii490m9737sfvixilldwb-bootstrap-stage1-clang-wrapper-boot.drv 69iv5shmpibhdkxmd23nda1sh6fmiv7m-adv_cmds-119.tar.gz.drv 6ka6sx26pw4fqyaczbgzsirkkr5hnw6q-source.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7451lc440slh3zjdi5lk0xcggm4mf0vi-flex-2.6.4.drv b2q065860syhm668gd5zvydshis7dilj-perl-5.38.0.drv nsqsj7kmvyg9jw3anflhipq1v6df7cmr-bootstrap-stage1-stdenv-darwin.drv qsx2fdv2np6ylzckapqj0zasyi44bm69-bsdmake-24.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv yzp5hk1mbp1jbhj9hhxlcx7d92kpjqhj-bison-3.8.2.drv
+CA: text:sha256:1qk5xn2l1dbh6w2ybbqgqr66v29lzvg4v7sjzh6v4vbgm3wrnn81

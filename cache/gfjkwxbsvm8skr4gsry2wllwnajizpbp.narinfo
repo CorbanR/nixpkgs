@@ -1,0 +1,9 @@
+StorePath: /nix/store/gfjkwxbsvm8skr4gsry2wllwnajizpbp-libpipeline-1.5.7.drv
+URL: nar/0rakrmxwj3jh7c1lamkvsczz2a4f5d0pmsq7gk0hih0r0zlp7skx.nar.xz
+Compression: xz
+FileHash: sha256:0rakrmxwj3jh7c1lamkvsczz2a4f5d0pmsq7gk0hih0r0zlp7skx
+FileSize: 704
+NarHash: sha256:0qcjnb17236cnpjlj7irg5y4nhzlv4dkwnaf7rwn891774yb06xa
+NarSize: 1560
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv xy5blz9pxpsiwgdm1mn7gpv5i0prwfdz-libpipeline-1.5.7.tar.gz.drv
+CA: text:sha256:0ga1nyjr2sndngd8370jfmiplx7adwvwssbnd216kl8hl3mnnb12

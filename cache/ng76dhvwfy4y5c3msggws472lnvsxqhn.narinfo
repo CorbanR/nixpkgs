@@ -1,9 +1,0 @@
-StorePath: /nix/store/ng76dhvwfy4y5c3msggws472lnvsxqhn-libxml2-2.10.1.drv
-URL: nar/1yvsd9q1wvm4q69lyzigh63qxq9msk4srfrqqhv5j2hma7r696p7.nar.xz
-Compression: xz
-FileHash: sha256:1yvsd9q1wvm4q69lyzigh63qxq9msk4srfrqqhv5j2hma7r696p7
-FileSize: 1860
-NarHash: sha256:1mk91h6yr34r5phb47smx91a5xw1i8d7q1ca1za59rkrjf7ppn4d
-NarSize: 4480
-References: 6q9bhnqyclw91pr2la4l3cdhffz43af1-libiconv-50.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 758qhdlbqchv7kka8f211qnnvksb8d79-pkg-config-wrapper-0.29.2.drv a0b8kirkyz5q4g90hc4ykim7m96m52z4-libxml2-2.10.1.tar.xz.drv bgfjpi56g8lwxzrlkh706jfd8q6kmfpw-bootstrap-stage1-stdenv-darwin.drv c3q37yji85n77qgzg9l3jc1a7ggwlhgs-autoreconf-hook.drv frr6f2hq56j6b4wc0bsklaqskjsagqc0-utf8-xmlErrorFuncHandler.patch h20gcp5h5ipdabd5kwiq2ldi1c6klnl7-zlib-1.2.13.drv n27wqd0b2jx13nf6r8nslb8vfm96l8wb-python3-minimal-3.10.10.drv pzwn79v19jny5m4z62k77k51qsmmajry-find-xml-catalogs-hook.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv x97fllm90izckal45vq210vnwhz4gzc9-ncurses-6.4.drv
-CA: text:sha256:1g5mycz6b79cwizm0wwcrp7p5yps8kyai301qpcddmfncqqmx8zg

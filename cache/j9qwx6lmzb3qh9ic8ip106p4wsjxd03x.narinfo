@@ -1,0 +1,9 @@
+StorePath: /nix/store/j9qwx6lmzb3qh9ic8ip106p4wsjxd03x-llvm-11.1.0.drv
+URL: nar/0miqsz5xzcrfh0ziv6sfabnzhkmn1p7rl1xl79113incjm5ckm1x.nar.xz
+Compression: xz
+FileHash: sha256:0miqsz5xzcrfh0ziv6sfabnzhkmn1p7rl1xl79113incjm5ckm1x
+FileSize: 3248
+NarHash: sha256:1ppqvmmlzzbnr9383gv6l4nx6d5sf4rwb6j75fxrbx6f1awxp0z3
+NarSize: 7768
+References: 2jz4rpkz1fsv0nz8vn0brbv0d0d85j9s-llvm-11.1.0.src.tar.xz.drv 3gas0qjpah0myq8awsrwwpg1hsbhm3h1-ncurses-6.4.drv 6wv8acdd7bm7npixgr3rk86mf55fj47c-llvm-config-link-static.patch 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7lidknqlassyhwwrbp4bsbc8rcp59f03-uops-CMOV16rm-noreg.diff.drv 92yvh2b0ppwg8qiiqsd38hyy1r8k2kzd-python3-minimal-scproxy-3.10.12.drv 9fd3xdcfv1dw93y99a18lw735fx8kvgy-gnu-install-dirs.patch a4b6ijqx9yi2q75zvskf6jwz76srz396-bootstrap-stage-xclang-stdenv-darwin.drv azkmxfrbm107fx27wml4gpm8zwdv4wam-dfaemitter-gcc-12.patch.drv b8jkzxsig8f481ihww2r5k45w87acjrf-nvptx-gcc-12.patch.drv f3qbybvi10z88cjj3g33ak704jfclxqj-libffi-3.4.4.drv fhx9y5va41yag5x31anpshsa2m92bbqk-b498303066a63a203d24f739b2d2e0e56dca70d1.patch.drv ggma1lqzlgwsv1biaw0zqx6mvilk4h81-cmake-boot-3.26.4.drv jl8qr1vbs7w1vhlv5478na4qxm8rkjda-libxml2-2.10.1.drv l7zfa5in1rrfs5x4l1p4wg5rda0sm6vl-zlib-1.3.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv n3hqb5kczhvam5jx8zl6w9kd3049ycpk-signals-gcc-13.patch.drv nx0lsz8j4h6gijwlznnj09d2yia5sh3l-base64-gcc-13.patch.drv xrpfvhcj0lzjpxi34lygs7y6fa58rlks-polly-11.1.0.src.tar.xz.drv y180xr4l8dmvkab3d8a280ssgbbgikv7-5cd554303ead0f8891eee3cd6d25cb07f5a7bf67.patch.drv
+CA: text:sha256:1yyhrw4jl3pqggkv6sxaqfg512f17l14n0v2xhyd413zpf5r67ys

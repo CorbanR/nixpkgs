@@ -1,9 +1,0 @@
-StorePath: /nix/store/0lm3gyhx9z9k73bz6j4kr6bh3f2rkwgx-bsdmake-24.drv
-URL: nar/1p4zbkg8rc1kxl0fl850xq3ccwsrr3zvb479dcm3sh5rbfghq2xr.nar.xz
-Compression: xz
-FileHash: sha256:1p4zbkg8rc1kxl0fl850xq3ccwsrr3zvb479dcm3sh5rbfghq2xr
-FileSize: 1716
-NarHash: sha256:1x38h2wxm9yx907sk4mmp892nrxr1xbjsbbnmrx6ipzrav9hlnm0
-NarSize: 4144
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7pijmvyagbi789c83bpy0jxkplajabi1-make-shell-wrapper-hook.drv dxi2kl6zglfi31lbdknp2190gymz2j59-bootstrap-stage2-stdenv-darwin.drv kgpk701jkgdw4qgc98467qjy6rgdnsvv-bsdmake-24.tar.gz.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:0h11rsxfsnmgj77k3pyc5vwf04q745qnhn4pyrcw2nambkyrl3f5

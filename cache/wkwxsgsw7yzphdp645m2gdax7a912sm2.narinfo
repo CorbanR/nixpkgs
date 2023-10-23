@@ -1,9 +1,0 @@
-StorePath: /nix/store/wkwxsgsw7yzphdp645m2gdax7a912sm2-artichoke-73f8bd2f4c30bd7057b7f471b8928d6312440d06.drv
-URL: nar/1q9fba70dwiwwfh7akh5397k76wkcv7xvvglhlkivpwvx525hnzn.nar.xz
-Compression: xz
-FileHash: sha256:1q9fba70dwiwwfh7akh5397k76wkcv7xvvglhlkivpwvx525hnzn
-FileSize: 1788
-NarHash: sha256:1f488xkkxh9zzimyqq8mlrjxxlarks0cj8ymhjsmd9v2alw12fr6
-NarSize: 4128
-References: 3wfwaiscrlvcznbk6497c0nbplqjxzgr-cargo-setup-hook.sh.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 925rpvyl0cnxmbph3m2ms5lpx4nlplq4-rust-bindgen-0.64.0.drv fdi6w9wg3nhi4g1hw0v4fd2a85lrh158-rake-13.0.6.drv gi4cnx04g76xg7139zhdfpjp7g8slx0i-cargo-build-hook.sh.drv gmxp35gr7jivxl3l1l9myjmqf2abnyic-cargo-check-hook.sh.drv grm1li1apdvbqb92xrvxv43hac5jhhkf-cargo-install-hook.sh.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv ks1qp7s77z7vpd23d3vfs0jq4md6szcm-rust-minimal-1.70.0-nightly-2023-03-29.drv lfywr78yfjd9fszq9x5vrkn34ca1csqa-artichoke-73f8bd2f4c30bd7057b7f471b8928d6312440d06-vendor.tar.gz.drv mjl6d91xanrmq8jr2rkm00cwwixlw13g-rustfmt-1.67.1.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv qgsmrjjwkbwxq5d2fs72kxgyg8hh6cga-rustc-1.67.1.drv rkcjwaq5dys9ifpm4mmd23mjhnyscpww-mruby-3.2.0.drv sjvhp9m69lnp39504raq4zhlgd6jbdnw-ruby-2.7.7.drv vs732xbf1vg6mp03d2z62fkkyakv93bc-source.drv
-CA: text:sha256:071j06g35bw63c06kzrrla28xs6gpw3rambxa313vw0il2y6fw6f

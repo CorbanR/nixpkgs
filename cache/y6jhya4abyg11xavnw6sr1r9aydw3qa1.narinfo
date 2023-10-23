@@ -1,9 +1,0 @@
-StorePath: /nix/store/y6jhya4abyg11xavnw6sr1r9aydw3qa1-expect-5.45.4.drv
-URL: nar/02j6idlcfnhnhn2jvns1i7ckc55yb8am4h62bl3la1bnysp17ks0.nar.xz
-Compression: xz
-FileHash: sha256:02j6idlcfnhnhn2jvns1i7ckc55yb8am4h62bl3la1bnysp17ks0
-FileSize: 1412
-NarHash: sha256:18m5ppz018jgkwj6bmfc8pyfpj8v8z7lkkl6q704yaj3p5lrli1s
-NarSize: 3288
-References: 075wzqh32k2f3jhsf3d9lsr5x8mkp52v-0001-enable-cross-compilation.patch.drv 0ry045qgnbgqqb3biy75v8frgsjk4rzq-make-shell-wrapper-hook.drv 3glrc27mshl1fpa7d4n0p9d0wjspr80s-tcl-package-hook.drv 6nbl88hb8gj263gfdy9rgxvmpcm6k96b-expect5.45.4.tar.gz.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv l4n43542p9w53mvjwgfa1rj23nj8bnbn-fix-cross-compilation.patch.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv pcc1adjvz8igp481hbh8xhh4ss7irxwm-autoreconf-hook.drv xdlq74mdxh33il5nfdc0sk22bxzrdccd-tcl-8.6.11.drv
-CA: text:sha256:070cxdj0vvflm1i0saij963vgg0448rz5hxs3qack2mf6i5p9dz1

@@ -1,9 +1,0 @@
-StorePath: /nix/store/7ciayqand3y46rzsr0x0n49wr7h52rbl-llvm-11.1.0.drv
-URL: nar/147ab54pxrxbmbpplkskap5464v55s0lwn4v28278wizmgvy9z0m.nar.xz
-Compression: xz
-FileHash: sha256:147ab54pxrxbmbpplkskap5464v55s0lwn4v28278wizmgvy9z0m
-FileSize: 3040
-NarHash: sha256:042agwvphyv3sq5c8wxq6yd8rsinjqq3bly8qqvvvsh47dg67yp3
-NarSize: 7256
-References: 6wv8acdd7bm7npixgr3rk86mf55fj47c-llvm-config-link-static.patch 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8asgd05ax0qxbahr4rwwl1nkfwd1w48i-uops-CMOV16rm-noreg.diff.drv 9fd3xdcfv1dw93y99a18lw735fx8kvgy-gnu-install-dirs.patch 9nrf6vvv97r84jkaf9q01vrnazrhgkkk-zlib-1.2.13.drv fndacmsp02slimxh95ib61yg8jd0qrar-llvm-11.1.0.src.tar.xz.drv h0hyifj4abmqsfs5j8sjzwqgs43s35kl-libffi-3.4.4.drv hg4xdjrfyxqz6ayxql5zpyaibwjqrfx9-cmake-boot-3.25.3.drv i81rrf5kyj1wzksirpdxh2836v1012j4-ncurses-6.4.drv lb0d4mp6scq58dfjdjcjajajh0wvs6vr-dfaemitter-gcc-12.patch.drv n27wqd0b2jx13nf6r8nslb8vfm96l8wb-python3-minimal-3.10.10.drv ncbg3clx47wazcxv4814dl5bfmcrfvsz-nvptx-gcc-12.patch.drv qakn3cy2vy51vd6d3ywky9n7j433c7gg-b498303066a63a203d24f739b2d2e0e56dca70d1.patch.drv vck0lq5ydlqkm15gsh9mk81j2nq0i97w-libxml2-2.10.1.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv wry8lpz0cpy9pizfkv6rif67ha2l3q6k-bootstrap-stage3-stdenv-darwin.drv xj9lr4lfsmbchgwky035i6a3z7k10xrb-polly-11.1.0.src.tar.xz.drv
-CA: text:sha256:1yf4d1nis047q3i4v9l943vv1jc8ajz8vidl4hc39xp2s2khmq09

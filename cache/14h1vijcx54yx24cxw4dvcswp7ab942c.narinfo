@@ -1,9 +1,0 @@
-StorePath: /nix/store/14h1vijcx54yx24cxw4dvcswp7ab942c-python3.10-buildcatrust-0.1.3.drv
-URL: nar/0yvhivy9d0fl9nxzh85srcywcjgqfajkz86zj0aybbiwff7hvm64.nar.xz
-Compression: xz
-FileHash: sha256:0yvhivy9d0fl9nxzh85srcywcjgqfajkz86zj0aybbiwff7hvm64
-FileSize: 1800
-NarHash: sha256:04jk6ybndpf2igi7sqam4ndfy7y98n1bd3ycl1hd6fz5mpfk2h5s
-NarSize: 4280
-References: 41ky5rgnwql0mz0k6w6fjarzpxgg7lvb-pip-install-hook.drv 58c8wzr1kjr2q36qdjkx9nfahj6ym8b9-wrap-python-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7ann0zya47lsjnrxjf969l83nfdsn395-python-remove-tests-dir-hook.drv anp61lsjpgq01hnxqa7www3yz732dyfd-python-namespaces-hook.sh.drv f592bayymj3h1my56s5d9zfhmwmq7rbx-setuptools-check-hook.drv gvdphf9gmg20yy03pvyqig362mvlgsg0-setuptools-setup-hook.drv ha9wx2s7vcw916rv5xs8ksm7p5l2n0q6-python-catch-conflicts-hook.drv iypnq8ww1axzvn6y21m0wl8jyvx6b25b-stdenv-darwin.drv kdp8ib70arwkgcz81pgspw4bmpcdff9j-python-remove-bin-bytecode-hook.drv nb5gb58wbz1pgc89ync2dz4kaasxrwmr-python-imports-check-hook.sh.drv nqd4xq5bwjswl7lw2rmhqcc67wjaw9ky-python3-3.10.10.drv shvvkaa0ny1561l9chicy2j60rqr79jj-buildcatrust-0.1.3.tar.gz.drv w5abqnnl50b6ci9gyz5jk5m2avmvrdbc-python-output-dist-hook.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv x9q4hlrzggfkidk6pl7p6nzbf9f37yql-pytest-check-hook.drv zg38fz3shmy495d2hj2ygb0m2bxvlw6k-ensure-newer-sources-hook.drv
-CA: text:sha256:1k2w3fc5qbcg72n38z6z4yl7y148i7myka37x51gxmzwy3qhmpqa

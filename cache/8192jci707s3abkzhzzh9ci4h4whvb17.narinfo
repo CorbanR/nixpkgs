@@ -1,0 +1,9 @@
+StorePath: /nix/store/8192jci707s3abkzhzzh9ci4h4whvb17-developer_cmds-62.drv
+URL: nar/15qa2f1gq1yqwrx3599dd1pv5sj2s6dvjbsaf6y4885nndixm2bb.nar.xz
+Compression: xz
+FileHash: sha256:15qa2f1gq1yqwrx3599dd1pv5sj2s6dvjbsaf6y4885nndixm2bb
+FileSize: 1572
+NarHash: sha256:197ng9550xvv9bp3aw9cg6kqwkkiv1lpmx0qv0z4wdwaa83mlh70
+NarSize: 3392
+References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7h615c4zrj9zfsarqgpfbg35d7k7li2m-xcbuild-hook.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv ldhwi6haib93chi8igw6wx1fy8c2hznk-make-shell-wrapper-hook.drv mgy1diy93qhcrljnws4028wk9mbx2p5n-clang-wrapper-11.1.0.drv rdv74r4k06x7834kgi8w2hjdpadqsfjx-rpcgen-support-hyper-and-quad-types.patch z5f838lghl1q9llqq3g68j9faynb77zh-developer_cmds-62.tar.gz.drv
+CA: text:sha256:0d31q58r9fpakj5bxqlbm910c7imam8znc2xhfkx8xgknz0v34xw

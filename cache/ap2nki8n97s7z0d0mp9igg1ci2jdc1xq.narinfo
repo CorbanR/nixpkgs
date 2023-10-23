@@ -1,0 +1,9 @@
+StorePath: /nix/store/ap2nki8n97s7z0d0mp9igg1ci2jdc1xq-lz4-1.9.4.drv
+URL: nar/1px84irraay7kv8cl61kr1rv5s9nfsyyjmf5ka55hpwa006y3aw6.nar.xz
+Compression: xz
+FileHash: sha256:1px84irraay7kv8cl61kr1rv5s9nfsyyjmf5ka55hpwa006y3aw6
+FileSize: 1088
+NarHash: sha256:0sv15957cxfxx8wb0d2hihkv46yl0vxh0jfcjf3kx7p3m3am6y8d
+NarSize: 2456
+References: 3m1y87li4fxvgq363n0c6sj8l8a5x7f5-build-shared-no.patch.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv kl7ln4wai07m26h5i6hmw2v5lh0x12c4-source.drv
+CA: text:sha256:0b1wrisqainmrqka96al8zqphxbvhcb1hd4c9s242z3kvfa9vax2

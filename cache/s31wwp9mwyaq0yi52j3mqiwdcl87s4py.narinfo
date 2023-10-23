@@ -1,0 +1,9 @@
+StorePath: /nix/store/s31wwp9mwyaq0yi52j3mqiwdcl87s4py-libxml2-2.11.5.tar.xz.drv
+URL: nar/0zcn7r56h9gqasmck044c5kdxbvz1vadvc2rdqlqps6754fkxfaf.nar.xz
+Compression: xz
+FileHash: sha256:0zcn7r56h9gqasmck044c5kdxbvz1vadvc2rdqlqps6754fkxfaf
+FileSize: 1308
+NarHash: sha256:1jfny7bwmb6jbwf5frhjqqdf7z8qx3j68dbnhgknl5cv6akybdbb
+NarSize: 3000
+References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh i8a31hfv8pz9l0z1y7iimdl6h04dga75-stdenv-linux.drv lr82zvprmf5m7q1p5hq0kmgd3645w3dx-curl-8.3.0.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv zj04va6kfr8j44f34ya6ng6w2pdm87jg-mirrors-list.drv
+CA: text:sha256:0k4g7ia0v0i358n4ify61dsyka0n6y7hyj0qasvaf051fbp7xjd0

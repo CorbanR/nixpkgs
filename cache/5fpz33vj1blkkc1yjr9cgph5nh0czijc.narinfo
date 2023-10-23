@@ -1,9 +1,0 @@
-StorePath: /nix/store/5fpz33vj1blkkc1yjr9cgph5nh0czijc-llvm-15.0.7.drv
-URL: nar/13rwqsl2dxjh2j52sx96d7wmq3vhs5hsazh9cgf4pc8kdk1r3ac8.nar.xz
-Compression: xz
-FileHash: sha256:13rwqsl2dxjh2j52sx96d7wmq3vhs5hsazh9cgf4pc8kdk1r3ac8
-FileSize: 2688
-NarHash: sha256:1kf50hxxg5a0h5i9bp06zy750hzyy697vxbrb2lhmqxnl66ri3is
-NarSize: 6288
-References: 42cfxc9172hjvrxn79ql1wkmmf8pmm78-python3-3.10.10-env.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7qlpbwvv7i4hzb5afaybfrpgxyz3sdh0-ninja-1.11.1.drv 935s4ihbw5l4ccxdv7q5vxlgk08kcnc5-zlib-1.2.13.drv 9bg4j3sr0iggca6myv4gx1by4pvcdaqd-libffi-3.4.4.drv a00d5iiq7ns4cq7vrawzgk7khig7490f-libpfm-4.12.0.drv cwkma3bmdggr8pby1wsv510m418qpi6v-libxml2-2.10.3.drv fy4zpwfd3w603ka4i4d4hq0l6gapvqx7-llvm-src-15.0.7.drv gr73nf6sca9nyzl88x58y3qxrav04yhd-polly-lit-cfg-add-libs-to-dylib-path.patch imfkmpda0wkav7wcdkiqxcijvnfqmxy6-ncurses-6.4.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv pijq4fkshpai80sx6i16kyl52dbgbzam-binutils-2.40.drv pwzhcv27ialqbwh6584wr4c73xca6632-lit-shell-script-runner-set-dyld-library-path.patch rcdzyb4rkml4hhjdg3xbscipaz94v3jk-gnu-install-dirs-polly.patch s1ybmz2gv1lj3biw9r15cxkdm7fas09r-which-2.21.drv sinjjzbn52f5665m1i2mvj239kp3anpk-gnu-install-dirs.patch syssfm9j83s7hlyhxgsn7bn2lbkh5rdz-llvm-lit-cfg-add-libs-to-dylib-path.patch szp08bm3rfwy2ximrfdmnl6d0mbvpln4-cmake-3.25.3.drv
-CA: text:sha256:19agf89s57x46iy6axx463v1v6pg1k0m8q9jp6jsgdrz8g90r36w

@@ -1,0 +1,9 @@
+StorePath: /nix/store/4g14kmr4a6rcgwrnqqwy25nw6j3fsi52-glibc-locales-2.37-8.drv
+URL: nar/0m593mgd71njz23knpwbm5lvqxbxi9klfy5bgbcvflly9m8m581x.nar.xz
+Compression: xz
+FileHash: sha256:0m593mgd71njz23knpwbm5lvqxbxi9klfy5bgbcvflly9m8m581x
+FileSize: 3004
+NarHash: sha256:1dzbk0g1y0ril35j0rrlnp674yyqqbldvsciff86qllwnd2vy3vw
+NarSize: 7000
+References: 001gp43bjqzx60cg345n2slzg7131za8-nix-nss-open-files.patch 17yjw33i747j1v1md1fgi4s2i0hy8klq-locales-builder.sh 3nsxf1f3ab96g3661f6f9vkz8ycrcfj2-bison-3.8.2.drv 7kw224hdyxd7115lrqh9a4dv2x8msq2s-fix-x64-abi.patch 7wx8r8rz7g3x9d17fh1yvnd9axwg5kw9-locales-setup-hook.sh.drv 8haph3ng4mgsqr6p4024vj8k6kg3mqc4-nix-locale-archive.patch b1w7zbvm39ff1i52iyjggyvw2rdxz104-dont-use-system-ld-so-cache.patch bx2nar4w6g27lmdbnfcp2v2m61rg17bn-libidn2-2.3.4.drv cd2ayskk8z4ry1x96y85d8a4ik2r5zg8-python3-minimal-3.10.12.drv d5wci3j7vrg9pw3pwl2v5k882insz8df-binutils-patchelfed-ld-2.40.drv h635jjqzf1g34hbb87lwki2z56zmvnwb-glibc-2.37.tar.xz.drv k06glk8f3dxj3k0m9b9y7ph2nbnd1ns0-0001-Revert-Remove-all-usage-of-BASH-or-BASH-in-installed.patch ks6kir3vky8mb8zqpfhchwasn0rv1ix6-bootstrap-tools.drv kvvbjlfz5jywnx961aypc86r4rpv2plr-glibc-2.37-8.drv mnglr8rr7nl444h7p50ysyq8qd0fm1lm-dont-use-system-ld-so-preload.patch paxir5s9racqd31pv7y2nsrj0ibwmhyg-bootstrap-stage4-stdenv-linux.drv qy5c4cqjk56k84k2m8ylhdzgpvg4jzqz-bootstrap-stage4-gcc-wrapper-12.3.0.drv rwnpifhbiky8wmzsfyzah2qpah1z1mzk-reenable_DT_HASH.patch sjr79wy0v8lj5zxjpszg2jsgfs3m0yws-2.37-master.patch.gz yfdbgn2djd8gnlc11lb0ddcrf4wpzqfm-linux-headers-6.5.drv za0pg7fmysrcwrqcal26fnmzw6vycgdn-fix_path_attribute_in_getconf.patch
+CA: text:sha256:1j0c9zjhhzn9lpb8lpfyfxkf1w5xyb69p5rnkfzc0dhxps17dk22

@@ -1,0 +1,9 @@
+StorePath: /nix/store/kxyx5mykbxvv7iij7yhc5pchpnvxgdwv-expect-5.45.4.drv
+URL: nar/0dshxsy1a1lki0b8c8m54gch9da8213arc5bqyzzs50g39a4xsbl.nar.xz
+Compression: xz
+FileHash: sha256:0dshxsy1a1lki0b8c8m54gch9da8213arc5bqyzzs50g39a4xsbl
+FileSize: 1412
+NarHash: sha256:1xfxzw0x6qxpl309ilc65la2023z1vvikr907p1xi9jl6p9bpj7p
+NarSize: 3296
+References: 4bm4cp7f2nbg7q3pkjb2hkwlq9yw99ki-0001-enable-cross-compilation.patch.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh g41qndlwdqdxyicxj4dnpyfm6n66waq4-expect5.45.4.tar.gz.drv iwgy5x1dvrk7k2jxbc0y86lfz897s63g-tcl-package-hook.drv l971pysig3lqp1aq14vqbfv5wndbxkm0-tcl-8.6.13.drv m3l87mhxgw8a7c1c3ja3wjvvicw4fpnx-fix-cross-compilation.patch.drv nk95lj714998zxa3qig346h5kc4mn4l3-make-shell-wrapper-hook.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv qb1863mh6w24fwk0xy4359211msvpm3x-autoreconf-hook.drv
+CA: text:sha256:01wpr4xbfza69qvqhdqialc42zlq0zb59j18s3akk4qknqkk5wh9

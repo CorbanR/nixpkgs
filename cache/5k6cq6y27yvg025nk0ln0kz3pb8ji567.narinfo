@@ -1,0 +1,9 @@
+StorePath: /nix/store/5k6cq6y27yvg025nk0ln0kz3pb8ji567-openssl-3.0.10.drv
+URL: nar/1b98wrn4kkv3gbzcbkz0g1jq93w4ca7cky0bb491873xcwzfn5f6.nar.xz
+Compression: xz
+FileHash: sha256:1b98wrn4kkv3gbzcbkz0g1jq93w4ca7cky0bb491873xcwzfn5f6
+FileSize: 2000
+NarHash: sha256:11hx0dcnl6xzyhg05g02g7y8f27higgkdbsbhj2asdldl4mfn72j
+NarSize: 4912
+References: 1cwqp9msvi5z8517czfl88dd42yhrdwg-separate-debug-info.sh 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh bd9i38z2gwz49mfavzgb8bxpmzqi9v2k-coreutils-9.3.drv cklrwbwi889pp2fdsswdjvn12sdy5i5j-openssl-disable-kernel-detection.patch ds2nqid3d1i1ks6jnizni8ywkkpfz6dw-openssl-3.0.10.tar.gz.drv lzmcfv2m4ripknpvbsv8wcg1ik1kif4h-use-etc-ssl-certs.patch nk95lj714998zxa3qig346h5kc4mn4l3-make-shell-wrapper-hook.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv s90m3nvb1vzsp4vcpckl1q9f3rll2a3z-legacy.cnf sq4h6bqjx12v9whvm65pjss25hg1538q-nix-ssl-cert-file.patch y6kgq2whq4cg87w45ha2x0m2ndljqn94-perl-5.38.0.drv
+CA: text:sha256:1dq2nffp2g5abdvanfaz4dqrmsislphywrfcjfx19zlqvg7h93bl

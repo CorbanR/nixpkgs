@@ -1,9 +1,0 @@
-StorePath: /nix/store/2pv5ivygj6js2lbbwxhrq5ly0chbmzzy-libgcrypt-1.10.1.tar.bz2.drv
-URL: nar/093rn076hq5iqsxqgcfxfxsp6lh3dpfnh53vwmgfd3jbybj2jwq8.nar.xz
-Compression: xz
-FileHash: sha256:093rn076hq5iqsxqgcfxfxsp6lh3dpfnh53vwmgfd3jbybj2jwq8
-FileSize: 1400
-NarHash: sha256:1cmqbn1yxw1liis43z2szmk6mbsij8bjmh1bghpgb3g92xw0vxy8
-NarSize: 3240
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh 6xnxsrxdqgdfpngd4yd6qyvn6pi71dsi-curl-8.0.1.drv gqfvpd2x69qwqirkhs8l3xyl274g0a1i-mirrors-list.drv jnl83pzwf7i0cv3i0sgzrfdk8pfdg82m-stdenv-darwin.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
-CA: text:sha256:1aphsa7r134zrjssh6lrh7i7x88c9pv5nhpxlaz97291x67w048r

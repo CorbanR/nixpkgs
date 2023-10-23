@@ -1,9 +1,0 @@
-StorePath: /nix/store/2hm76djsgaqfgspry3fyap93spq8605j-glibc-2.26.patch.drv
-URL: nar/185n5jcii56sqlhvjcq5fi1an9jnfr5wqbnrvs54m283y42qik3y.nar.xz
-Compression: xz
-FileHash: sha256:185n5jcii56sqlhvjcq5fi1an9jnfr5wqbnrvs54m283y42qik3y
-FileSize: 1432
-NarHash: sha256:16xqw1imflbfc7c2g6npg5lzkxv64nilrv068h0cvy4ir2qi9dvf
-NarSize: 3344
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh 9s3dzp1lzlrcm9khzw2idmf93fl4jfg4-bootstrap-stage0-stdenv-darwin.drv rbywli8q5syqfq8q4z7j5k77pay2ixbx-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:1mgz4hh1ask0ihx3j421flky5nw4m3b989qgllai63l5lvbjbayz

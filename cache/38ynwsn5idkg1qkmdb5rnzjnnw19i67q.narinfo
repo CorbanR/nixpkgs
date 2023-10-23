@@ -1,0 +1,9 @@
+StorePath: /nix/store/38ynwsn5idkg1qkmdb5rnzjnnw19i67q-man-db-2.11.2.drv
+URL: nar/1xj2vxjkwwya777npzdm5z4bq0dvlhvyhw27k1w7b7qlx910i0pq.nar.xz
+Compression: xz
+FileHash: sha256:1xj2vxjkwwya777npzdm5z4bq0dvlhvyhw27k1w7b7qlx910i0pq
+FileSize: 2592
+NarHash: sha256:06ynlk5fzv81xny8a6bqkdxfn3mkh0yq6kyvxfah5jv60hnbrl4q
+NarSize: 5784
+References: 1lvzq9xb1ip4s38fnwy5cjnfyfaqn3gh-autoreconf-hook.drv 48zz95fn7q85ml1jh4z8rhmi5ssrfpa2-update-warning-regex.drv 5p5lvww49rmbxky3wgrjwid0r3vwnzwd-man-db-2.11.2.tar.xz.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 6ziwjrqcadjfzgl9afsqd80pqch84hgh-fix-test-failures-when-iconv-not-available.drv 85y9qfn2h8h7c24d7ss2ndxd82x8yk1q-make-shell-wrapper-hook.drv a6kikjd4vcjivzw4683k7ijgl9lbn7df-avoid-translation-fallout-from-lexgrog-fix.drv chplckg0fq484gzpzlbg2k1ibwz3px0f-db-5.3.28.drv f5mb2h055yga15lgqrqb3qjv50xg46dp-improve-lexgrog-portability.drv g0nlgaa8i06lfkqwwk1drdbp18qnn214-zstd-1.5.5.drv j174ha4axax2xlqd18ivh2n2jbky37kq-libpipeline-1.5.7.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv sapf3alh1rwkgr6av8n6x1rgyc93pnv7-libiconv-50.drv slcsv81r1ygkg7rm2l048bk1ywahis6d-groff-1.23.0.drv spl6s672ix9rfl4mvjaxf7wkpdniix8r-systemwide-man-db-conf.patch xxiv4say28ppxk21irizqpcmgll0j2nx-gzip-1.13.drv yha5cfc812n0lj8f89r3vzi3z1yk2xaa-pkg-config-wrapper-0.29.2.drv
+CA: text:sha256:1h70rf4qa7lc8xqdnzjjpwp6srirg0jrclv7n0yz1l363li7ycfw

@@ -1,0 +1,9 @@
+StorePath: /nix/store/9yrzyfnrki768fnf9mang049k23sfisi-python3.10-pluggy-1.2.0.drv
+URL: nar/1z72bslvj4jrfj8f3cipyl2dxs2lv39938sic4ynrsda0dbq7d38.nar.xz
+Compression: xz
+FileHash: sha256:1z72bslvj4jrfj8f3cipyl2dxs2lv39938sic4ynrsda0dbq7d38
+FileSize: 1612
+NarHash: sha256:0myvcs3syp6s9b7n37vg3mc3dagn1a7hw1xlawz2lbl3h7szg6x6
+NarSize: 3736
+References: 13cyxa5v1syj13xmzsccs0s9bq98gxcg-python-remove-tests-dir-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 762qm62g5kf1iwgmxcj4xcd31w426qzb-pypa-install-hook.drv 84x6yynafkf4xaifa0z0awd7v99pgp36-python3.10-setuptools-scm-7.1.0.drv 9ch8hyg0zjccvav10pmrs92a7lkswmrl-python-remove-bin-bytecode-hook.drv 9yffxlxcnd75kzlp51g0x1vn29dz1pva-source.drv dli1sw8mp5kh8ic29rswaglf3kvmim5c-python-imports-check-hook.sh.drv fbyjcpdqv92z8fc85plz3m6j4f0m2jv2-python3-3.10.12.drv ipxz7lkjp6jjr6xkcvz33jal354154gh-wrap-python-hook.drv kxlpr3barrd5fsmd9izn7cmj9xmzf4bg-python-namespaces-hook.sh.drv nyg3d3s05ljvsyk1sbrdsax01fl7dwgn-python-catch-conflicts-hook.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv q0rm93r4d80fgc292yqj81fqzwl1kqq2-pypa-build-hook.sh.drv wmcf492qb380drizrhjnzzdhlczykfr8-python-output-dist-hook.drv yrb198d2sygj8f2hcraprfkxjxfx5j3z-ensure-newer-sources-hook.drv
+CA: text:sha256:0s717mwsf972k9d1m50apdqayak7ddsg6rzj28zgqv5165vbx2iz

@@ -1,9 +1,0 @@
-StorePath: /nix/store/ycpf2ayhck2pzl49wyba2y5m8fwsqdg2-python3.10-gyp-unstable-2022-04-01.drv
-URL: nar/12h4baq52jq785kdlzvrvkibpd475kafh6m98grfz388v1fshjz3.nar.xz
-Compression: xz
-FileHash: sha256:12h4baq52jq785kdlzvrvkibpd475kafh6m98grfz388v1fshjz3
-FileSize: 1852
-NarHash: sha256:0g73bb2fcr0lyhmxjajinzsw0108djg3l7gqqcs1iq02rvl8bgd5
-NarSize: 4456
-References: 41ky5rgnwql0mz0k6w6fjarzpxgg7lvb-pip-install-hook.drv 4j9hk5n5n724bvrj7gn3wa1r2iq43pkx-python3.10-six-1.16.0.drv 58c8wzr1kjr2q36qdjkx9nfahj6ym8b9-wrap-python-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7ann0zya47lsjnrxjf969l83nfdsn395-python-remove-tests-dir-hook.drv 908qj1m1bmgxhyfy72dnxkchz84pqxii-no-darwin-cflags.patch anp61lsjpgq01hnxqa7www3yz732dyfd-python-namespaces-hook.sh.drv f592bayymj3h1my56s5d9zfhmwmq7rbx-setuptools-check-hook.drv fsznw8f3d6i0d1i0rs0pjiyi1yplhig3-source.drv gvdphf9gmg20yy03pvyqig362mvlgsg0-setuptools-setup-hook.drv h467zwh5a9wz7z74qnrfrqkz6kxp6px7-no-xcode.patch ha9wx2s7vcw916rv5xs8ksm7p5l2n0q6-python-catch-conflicts-hook.drv iypnq8ww1axzvn6y21m0wl8jyvx6b25b-stdenv-darwin.drv kdp8ib70arwkgcz81pgspw4bmpcdff9j-python-remove-bin-bytecode-hook.drv nb5gb58wbz1pgc89ync2dz4kaasxrwmr-python-imports-check-hook.sh.drv nqd4xq5bwjswl7lw2rmhqcc67wjaw9ky-python3-3.10.10.drv w5abqnnl50b6ci9gyz5jk5m2avmvrdbc-python-output-dist-hook.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv zg38fz3shmy495d2hj2ygb0m2bxvlw6k-ensure-newer-sources-hook.drv
-CA: text:sha256:1a5qrvgiv8z0lyq48vxfdjm4af7fl7fxijwr7k1vam3iqhvd71qd

@@ -1,9 +1,0 @@
-StorePath: /nix/store/j3sd3khnrszn34xp15lczyv7g63fb6bm-libkrb5-1.20.1.drv
-URL: nar/12cxswkyflyfjk6m9nwqca69j0db02gpz95npiavf858cklg4azd.nar.xz
-Compression: xz
-FileHash: sha256:12cxswkyflyfjk6m9nwqca69j0db02gpz95npiavf858cklg4azd
-FileSize: 1492
-NarHash: sha256:0g7znwss4cnrmfaqhbmvnlvjx6rgyi964bwm9y5gkjw4j7vfa2nc
-NarSize: 3288
-References: 0r3738x3l55d8a8s147ic7byia1ya96b-pkg-config-wrapper-0.29.2.drv 5vvj4i6dp606i30kb9kfj25cr59aigi6-openssl-3.0.8.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh b9syd90qh9rc6v3lzmgnra003xylg3x1-krb5-1.20.1.tar.gz.drv l9w9hzkd6548lj55rjhpvnc7hxql9fsy-perl-5.36.0.drv pp3wf4jfkzp45r4as4h63wpw059kf1mn-bootstrap_cmds-121.drv r0x0mak6dlb0951i9mzml6kzwk05r294-bootstrap-stage4-stdenv-darwin.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
-CA: text:sha256:1gz34c5ia7kfarl0ksllqrz7cvhmkrrv53dmka2n9c7lpa9grcsn

@@ -1,0 +1,10 @@
+StorePath: /nix/store/n8djskg2xmycn678iy01wrp1v2824z3r-gnutls-3.8.1
+URL: nar/06q3yp0mw1761la61r5gncyxrpvh56qbcn553qjg3s4rfy8ar74i.nar.xz
+Compression: xz
+FileHash: sha256:06q3yp0mw1761la61r5gncyxrpvh56qbcn553qjg3s4rfy8ar74i
+FileSize: 957560
+NarHash: sha256:0vx6ksd4p6qlbxl6d7p9wf3vbpvpnzq1km9wwyjrz7jqx8dwp56f
+NarSize: 3230840
+References: 8ny01r2xa5mv5brk9srdmv91wrjvxila-libidn2-2.3.4 aca4n2qzi8bzrfajkglfhl1cs0dfslzj-unbound-1.18.0-lib br1p5pan2pgmgrm81kj43qawd9b9nns1-libunistring-1.1 gz2lpz41529pdwx157dmwxk0gj94z0d2-dns-root-data-2019-01-11 ig0kkzw4n2pws12dj7szjm71f1a43if6-zlib-1.3 ld03l52xq2ssn4x0g5asypsxqls40497-glibc-2.37-8 n8djskg2xmycn678iy01wrp1v2824z3r-gnutls-3.8.1 pym51dbjzgqkkwk1rxm56ngvf57aaq0v-p11-kit-0.25.0 qmfxliqa7drz0vamnr475jw5l5j01plx-gmp-with-cxx-6.3.0 qw1l1nqirrawbpbjqmd1rnymiwqclfsh-libtasn1-4.19.0 w0w5c6crn5v0251mb440n81grfdqw42j-nettle-3.9.1 xq05361kqwzcdamcsxr4gzg8ksxrb8sg-gcc-12.3.0-lib
+Deriver: 4crg4l8spa6n7wbylcmqf25nbgd44xf0-gnutls-3.8.1.drv
+Sig: cache.nixos.org-1:oXVsmRLXlszMSv6JmBCgBGFGQnq2V34VT1vyFgC+9WOIOtIbL0tFbRwr6OTLRQlUzZokoRcNaW54XNJGt8swBw==

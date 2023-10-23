@@ -1,0 +1,9 @@
+StorePath: /nix/store/lg2zwqjcg6cwfcbvsazhcxgk7l9qdzn4-perl-5.38.0.drv
+URL: nar/1vbhck29qprn2h0rpbrv9r3xhsq3l7in9675p2ljil3w2z2sxvba.nar.xz
+Compression: xz
+FileHash: sha256:1vbhck29qprn2h0rpbrv9r3xhsq3l7in9675p2ljil3w2z2sxvba
+FileSize: 1984
+NarHash: sha256:081hjl4asjcp8k5w8kjazx0zh6a1inhnzdsx1l3apnz3v3rs68zp
+NarSize: 4616
+References: 55lbvcqz3z97jcqf2zxqwav58wq52z8l-no-sys-dirs-5.38.0.patch 66glv40s5l2a08zyd2bbsig2zirc98s9-gcc-12.3.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh azax4isp5al7xw03n3sabylvh8x277g5-gcc-wrapper-12.3.0.drv dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh dx1s8b9cr40lrrkk4669iqhs4g9c3i6z-perl-5.38.0.tar.gz.drv kvvbjlfz5jywnx961aypc86r4rpv2plr-glibc-2.37-8.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv znd2jpwvs913wjny0zag97rp1wz3zrjk-zlib-1.3.drv
+CA: text:sha256:0z43qgj6v5mbra3xw8pazksxvy6cvh8dd6yahsaxrz84qgncnhpv

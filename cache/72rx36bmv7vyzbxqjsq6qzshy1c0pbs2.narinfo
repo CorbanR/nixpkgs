@@ -1,9 +1,0 @@
-StorePath: /nix/store/72rx36bmv7vyzbxqjsq6qzshy1c0pbs2-diffutils-3.9.drv
-URL: nar/19v9x2l5rvy0l5cfdxlkbzlqi3gnfd34hi49wk0kia5j6rfjvv0q.nar.xz
-Compression: xz
-FileHash: sha256:19v9x2l5rvy0l5cfdxlkbzlqi3gnfd34hi49wk0kia5j6rfjvv0q
-FileSize: 1128
-NarHash: sha256:0jhqjy0w3a7bki7ahi1h3mrypzbz9m2vfxhainkjd4x2ifvs3ii7
-NarSize: 2568
-References: 52mc9p1i14w5l0s33axhvkj1psgdlsqv-xz-5.4.1.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh lsplgizvmm3xmvliyvwv1q528rs3x5w1-coreutils-9.1.drv ly7i1zn8qnwjcbxczafi2xnycqavbxdz-diffutils-3.9.tar.xz.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv wry8lpz0cpy9pizfkv6rif67ha2l3q6k-bootstrap-stage3-stdenv-darwin.drv z37qsb6fnzyicmq26342lfqdssjjl5aa-fix-diff-D.patch
-CA: text:sha256:0yyfcv8ly3sqv23kkznwya553a4hz9j6glm8d5gw0g1zyyk0myx2

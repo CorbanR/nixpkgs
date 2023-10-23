@@ -1,9 +1,0 @@
-StorePath: /nix/store/wbiyw0blqs9dfw6sspzr6ib90y80bwis-docbook-xsl-ns-1.79.2.drv
-URL: nar/16hsnj21fj7v5930h4xpp0cml43hs6mjnf1kbwfkc8vdsvmgzg1f.nar.xz
-Compression: xz
-FileHash: sha256:16hsnj21fj7v5930h4xpp0cml43hs6mjnf1kbwfkc8vdsvmgzg1f
-FileSize: 1228
-NarHash: sha256:1ag1chm12mq1mdvx46wx0a76sg95hl750gmjh1i85bnk048nsvrl
-NarSize: 2672
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7l56v03r9bj66lcp1f524qnx8969kyki-docbook-style-xsl-non-recursive-string-subst.patch.drv 8nrzgr5hwhsjfa18hsagaqisyi120chq-07631601e6602bc49b8eac3aab9d2b35968d3e7a.patch.drv f0qmi306925n6wfnyjahcpxm5dxg3vgk-catalog-legacy-uris.patch.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv lg7civbwv84hf0vh3q5qgig3gs7lfrm1-docbook-xsl-1.79.2.tar.bz2.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv y7pfh1gnd362vfn3c0d1709k6mh9kc0p-find-xml-catalogs-hook.drv
-CA: text:sha256:0s48gzj8yicl45nrnqhy2py70mxrdbc9slpyfardiagpj3scavv1

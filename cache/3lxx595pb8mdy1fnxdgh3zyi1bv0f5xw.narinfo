@@ -1,0 +1,9 @@
+StorePath: /nix/store/3lxx595pb8mdy1fnxdgh3zyi1bv0f5xw-libcxx-11.1.0.drv
+URL: nar/0p9mry8y1vsgnwqwh4vby4iynbl9n5gc4vk70c9z94shp7l3kzzf.nar.xz
+Compression: xz
+FileHash: sha256:0p9mry8y1vsgnwqwh4vby4iynbl9n5gc4vk70c9z94shp7l3kzzf
+FileSize: 1792
+NarHash: sha256:11ln7qs076cgwclxadj7zrh7f4rnhl2nv9jqzvdb1rjyq64hbbbd
+NarSize: 3976
+References: 2jz4rpkz1fsv0nz8vn0brbv0d0d85j9s-llvm-11.1.0.src.tar.xz.drv 5390qxbqcv5xm4jyqx66hfvfrgf82xx8-bootstrap-stage-xclang-stdenv-darwin.drv 5d56jpr4xzzkwnkhxrj2by3njldflpsn-libcxxabi-11.1.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 92yvh2b0ppwg8qiiqsd38hyy1r8k2kzd-python3-minimal-scproxy-3.10.12.drv ggma1lqzlgwsv1biaw0zqx6mvilk4h81-cmake-boot-3.26.4.drv jwwg8s2bl8d2ksb1ghvk1590pc2jcd9g-fix-darwin-dylib-names-hook.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv sqzxyll3mjzfah3g3r8syhn32fd2s7f5-libcxxabi-11.1.0.src.tar.xz.drv var4pvra086kmrnfpri4k5laay8bgjgi-libcxx-11.1.0.src.tar.xz.drv x1mcf5hwjacbvr23brvz1j9d2jrrl7xi-19bc9ea480b60b607a3e303f20c7a3a2ea553369.patch.drv ym4y16msxvvpbcsc0s829has6v8mxg56-gnu-install-dirs.patch
+CA: text:sha256:121czkj3bafzaba22bihmjn5s65x6q79f18sb1020lvlz5vjpj8c

@@ -1,9 +1,0 @@
-StorePath: /nix/store/3nx60lmbf3wcrr0sh0hiffx30qldrvyl-file-5.44.drv
-URL: nar/1vz95d0x5j61qyia4ah7j7c573sy9l79a1i4h0mpl7d1grrbfrmy.nar.xz
-Compression: xz
-FileHash: sha256:1vz95d0x5j61qyia4ah7j7c573sy9l79a1i4h0mpl7d1grrbfrmy
-FileSize: 960
-NarHash: sha256:0lnnq9hf1n9zy08877vp1p8w47x4w2w05qhn10jl0ca239w1r9n5
-NarSize: 2168
-References: 1wkxd0d8xc5nbfns2jjy924jvxd972gp-bootstrap-tools.drv 2y5gjv1ml8bnkxxr0h5wj9sf5vdl496y-zlib-1.2.13.drv 3wbgxa2x6mihz9ypdk87sjngqalhm5x7-file-5.44.tar.gz.drv 42x8md7z1aj6gsy9p0khy06yz9ni98s2-bootstrap-stage2-stdenv-linux.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh mb3gr62cl6ckp7skaqdg5sx6mshbcs5i-file-5.44-decompress-empty.patch?h=dfc57da515a2aaf085bea68267cc727f1bfaa691.drv yc96d88sjf4ij0991xcf4xdavx7cdkjm-pyzip.patch
-CA: text:sha256:1j6l22j0ygcrdx98h9nrxd1lj16663ndhdiki7c2yz282cbnmvxh

@@ -1,9 +1,0 @@
-StorePath: /nix/store/w3x309pcbm6w25718k1l4gm6hb87lkv1-python3.10-flit-core-3.8.0.drv
-URL: nar/06hf5940sg4hjiq7xzm2d78wm5vagskq9k3yalg6ry9p04z5rj9r.nar.xz
-Compression: xz
-FileHash: sha256:06hf5940sg4hjiq7xzm2d78wm5vagskq9k3yalg6ry9p04z5rj9r
-FileSize: 1600
-NarHash: sha256:1mf7j2dxhazs79x70zhi1piqrg0mpjx0bd7qcr24is5hxqmqpagd
-NarSize: 3848
-References: 1i0ixszrc2r03rfh3iwhfbi2f4x52wcf-python-catch-conflicts-hook.drv 2rfw6rcijjdm5x4jlw7r61pj9f6knccs-pip-build-hook.sh.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8i6cw8wgjqhkpcbn3i1k5czs1jj62g0f-python-namespaces-hook.sh.drv 9ldjr0zdj3qvmjbn8ynxgdg7h56lx4zx-wrap-python-hook.drv 9nzi0hc1xfghmydfl7z0m80ax0sjh0mm-python-imports-check-hook.sh.drv cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv nbwz2pkcfil2ibp3wmcrnc99gisndcmg-ensure-newer-sources-hook.drv nsp49j4gaj67csflfh9v3wp2y87p1g82-pip-install-hook.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv s3k27g1ndq5zk71882p97ary76xj36zp-python-remove-bin-bytecode-hook.drv s8ci84k0mqjq9kz9gx7bx3kdy6cmy0r9-source.drv x8afnl0gcsqbkg0v4s7iqgxd8mknzdd8-python-remove-tests-dir-hook.drv zay2p712hcja4l7v9xm9a3sdmr7pcxd8-python-output-dist-hook.drv
-CA: text:sha256:147cz0yqs7ljs2yx9g04did8fcz5alh965597zglq9k36hj85zks

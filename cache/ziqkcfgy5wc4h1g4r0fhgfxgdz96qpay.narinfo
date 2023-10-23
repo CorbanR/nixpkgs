@@ -1,9 +1,0 @@
-StorePath: /nix/store/ziqkcfgy5wc4h1g4r0fhgfxgdz96qpay-docbook-xml-4.3.zip.drv
-URL: nar/0fvb5vmgghhnhlh1s49hsqyqjxaz6pqnlkgpqlg454v98104wrlq.nar.xz
-Compression: xz
-FileHash: sha256:0fvb5vmgghhnhlh1s49hsqyqjxaz6pqnlkgpqlg454v98104wrlq
-FileSize: 1304
-NarHash: sha256:04a59ax5ill5wix4q39w1ih9f7k5pdkxmrlcv9ay0h9qw6xpn9ri
-NarSize: 2992
-References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
-CA: text:sha256:1m7n9n2w80f489rxhgbiv2flk02ykkydl81ypwr58y03bh2xvm88

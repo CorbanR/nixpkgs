@@ -1,0 +1,9 @@
+StorePath: /nix/store/wcy9gvcdqn1kvaxyv3gj86kss9fc8gw8-libevent-2.1.12.drv
+URL: nar/11cb21z77islly4isf6dw8q7lyn1nzb5pri3164vxcayqq3zjm5z.nar.xz
+Compression: xz
+FileHash: sha256:11cb21z77islly4isf6dw8q7lyn1nzb5pri3164vxcayqq3zjm5z
+FileSize: 1292
+NarHash: sha256:12sl3az01zc0gb3c0sghdm6rf34iymcs1dfi5gnmiqlszziqlxbz
+NarSize: 3072
+References: 51qfk3jwim3ixldmxbbln7jqs3y695jj-fix-darwin-dylib-names-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv al6x3vcijigyz2qjppd68mwmcyx0g068-libevent-2.1.12-stable.tar.gz.drv ihv2crg385c6dl5631s77klcwywjjj6r-883630f76cbf512003b81de25cd96cb75c6cf0f9.patch.drv yxqx1vh5dgkc6l5qqmdk5bsmi88a12ms-openssl-3.0.10.drv
+CA: text:sha256:1aiy95ghl4dnk0rkkv1zq50h3xbjfvg63cv4ks1rk2fhhd85lpbb

@@ -1,9 +1,0 @@
-StorePath: /nix/store/9nrm85sjfpzynk8dj84fzqwv9wb575sx-perl-5.36.0.drv
-URL: nar/1p0k9zhgnpyylifkf9w7arhgpigmq3gragh8ch3rmvp3w6kxgcg8.nar.xz
-Compression: xz
-FileHash: sha256:1p0k9zhgnpyylifkf9w7arhgpigmq3gragh8ch3rmvp3w6kxgcg8
-FileSize: 2036
-NarHash: sha256:0cx9cx3ff6cqc5336krkn08sfgj82av4a630sflgqf4s32nrf6f4
-NarSize: 5032
-References: 1wkxd0d8xc5nbfns2jjy924jvxd972gp-bootstrap-tools.drv 42chk5ds6s4m4f0dqiwv8bj3sk6qfmpf-bootstrap-stage1-stdenv-linux.drv 4p5q0ypxslgf3jsicnzqhq7f7imy3srf-bootstrap-stage0-glibc-bootstrap.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7za2qp7pq2slmpy6j5l5y50jqdrwajp1-bootstrap-stage1-gcc-wrapper-.drv 85f1q5rm0qzqay7fk3935h6kvzfqdcfv-http-tiny-verify-ssl-by-default.patch b53i1gainsvya49b5dn9cmpa0nlaw9kr-perl-5.36.0.tar.gz.drv dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh m7id9y6mf4aq922q7dfzh85rqw6rk3jw-zlib-1.2.13.drv mb381gpm9k5wdl37l5ad5pp8w11qzhjg-no-sys-dirs-5.31.patch
-CA: text:sha256:1w4jjf2565skjv6pgwb6wvgazllqrw12qql0mjapjldr3jaqd7xy

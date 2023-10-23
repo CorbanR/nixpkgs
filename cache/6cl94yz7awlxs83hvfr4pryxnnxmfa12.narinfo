@@ -1,0 +1,9 @@
+StorePath: /nix/store/6cl94yz7awlxs83hvfr4pryxnnxmfa12-curl-8.3.0.drv
+URL: nar/0vm64qn34rchzxp9anw9zw65n4l3n7567rqv35ql4ihcynfyvykl.nar.xz
+Compression: xz
+FileHash: sha256:0vm64qn34rchzxp9anw9zw65n4l3n7567rqv35ql4ihcynfyvykl
+FileSize: 1860
+NarHash: sha256:1yg2qwc3knfb96kyn8fihv4ni07g9hnxx134xh9xic8x0nxm0qga
+NarSize: 4480
+References: 4ysj8jv0bf6dxfzppfbn4s5l0pszmngw-pkg-config-wrapper-0.29.2.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv a8w6gzlxlzxq5k5xv9hvkjixm899iv4p-nghttp2-1.54.0.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv i4r03h7gli30sn22jrfr3y2ah1qn9092-libssh2-1.11.0.drv msc70gx7g465ch6lqng6nrp2yihjnqhv-perl-5.38.0.drv n64y6zff0sdzq4l3gy75qd4di7c3slmm-zlib-1.3.drv qbdh1s26a8gq8krspcsd0alzf8bpglir-7.79.1-darwin-no-systemconfiguration.patch siqbn8wvr3cj9krha4q6wbfii7qf9466-openssl-3.0.10.drv xrj978dwi49y3cqmsap4ichbxajzk6gr-curl-8.3.0.tar.xz.drv
+CA: text:sha256:16wlb8pa9wrml54sl97szvgl8j0kw91xh0sn2rg8m924wykp8j07

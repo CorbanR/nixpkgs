@@ -1,0 +1,9 @@
+StorePath: /nix/store/jm81l8wz5l7jm69mfkl9a7a1ssjk9d75-python3.10-sphinxcontrib-applehelp-1.0.2.drv
+URL: nar/1vkq91bh2nzwwzzj5aqniv4j79nx8p23dcqhgbhdghrqg2zq2c6v.nar.xz
+Compression: xz
+FileHash: sha256:1vkq91bh2nzwwzzj5aqniv4j79nx8p23dcqhgbhdghrqg2zq2c6v
+FileSize: 1660
+NarHash: sha256:1rk7vcipj0yxgja7v9l1xby48d85bbg746r4f07q0n9k6ricwa4p
+NarSize: 4008
+References: 1g6ny9y8vn7dfib02yb9nncyy93bqjyz-sphinxcontrib-applehelp-1.0.2.tar.gz.drv 2q5b31qbf71abcma4wsqkn50ncjh250d-setuptools-setup-hook.drv 3pxnxyklpmmxwqma9zdks1yf38lyvn2c-python-output-dist-hook.drv 5bsbpwnnhbz5jni1283l2hsiql8ri6zq-python-remove-bin-bytecode-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9r6cc5r3nf8f6q70hrh18a56871hzxiv-wrap-python-hook.drv c2wrkw05xs3pi2s1y2266fsjkmwqn1xg-python-namespaces-hook.sh.drv f6xa4hhgd2gbbg7rwphy10s18n53crpw-python-catch-conflicts-hook.drv h7rbqnncyy5z24d6cj41wccxwkzs31x9-ensure-newer-sources-hook.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv nq2h2c6fh57164l0xpv9923i25fc0rzn-python-remove-tests-dir-hook.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv r30v8xr0h0nrzdjhzy465633ybbj27cw-python3-3.10.12.drv s9zk4j4w8yawv45milnalbmipz6a3xl0-pypa-install-hook.drv wz4lr06pa42g5px6dakgbrc9fqlhz84m-python-imports-check-hook.sh.drv
+CA: text:sha256:18n3bm7j6500r7878vh3ravprxdrk5jm0j8j7m86frlmmwnhfadd

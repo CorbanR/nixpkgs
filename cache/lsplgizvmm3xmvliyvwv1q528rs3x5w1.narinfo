@@ -1,9 +1,0 @@
-StorePath: /nix/store/lsplgizvmm3xmvliyvwv1q528rs3x5w1-coreutils-9.1.drv
-URL: nar/04pym7lq721bvz9p39il77v0kzyrhs1ac41y042077zax9d8hr68.nar.xz
-Compression: xz
-FileHash: sha256:04pym7lq721bvz9p39il77v0kzyrhs1ac41y042077zax9d8hr68
-FileSize: 2036
-NarHash: sha256:0hsxdm1lqnn2a1z9n1rr3z7ky65p54x3jqy4q7isp7rnf5m8gp6p
-NarSize: 4736
-References: 07r5ay6fwdchhypxyyyyi9m3sd88ayzw-gmp-with-cxx-6.2.1.drv 218ml7f1f402xmdi1d8ns8svdv79m50l-autoreconf-hook.drv 52mc9p1i14w5l0s33axhvkj1psgdlsqv-xz-5.4.1.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7v3qdk87jxn1qv85d37q5l0gwhsspzn6-perl-5.36.0.drv rf8wxqd8j771jg812yfmxpbp004k0yrp-coreutils-9.1.tar.xz.drv snhl0w63mc0s3q6y386g061bgc7jdwwn-disable-seek-hole.patch wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv wry8lpz0cpy9pizfkv6rif67ha2l3q6k-bootstrap-stage3-stdenv-darwin.drv
-CA: text:sha256:1qxwxiwh7fiak43j5lmqbwj8avm5x6afjcbdx0735dqkw65iq295

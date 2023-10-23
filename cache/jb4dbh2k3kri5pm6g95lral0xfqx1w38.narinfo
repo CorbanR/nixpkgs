@@ -1,0 +1,9 @@
+StorePath: /nix/store/jb4dbh2k3kri5pm6g95lral0xfqx1w38-apple-framework-IOSurface.drv
+URL: nar/0g4q700y4cnaa69kzqqarvwn4lh30q9qjn8829gd4nfls7iz86wm.nar.xz
+Compression: xz
+FileHash: sha256:0g4q700y4cnaa69kzqqarvwn4lh30q9qjn8829gd4nfls7iz86wm
+FileSize: 2124
+NarHash: sha256:1sa1qp7q2qfh1ynk23a66dwy1gmzci2v4xih0cp1hgj3aaq7j5hm
+NarSize: 6608
+References: 2vdmb5gw9j5mvfw4flsqvm4px3fjf4ny-print-reexports.drv 6cy65sxwjpsvkx45wflkppl7kmybc58w-apple-framework-IOKit.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh c3x71wkhbf94icbwyf9qpj40ccdq1i5s-MacOS_SDK-10.12.drv d5mn54hnbrc8y8p7kkj6d9j1d2hsnb0w-darwin-stubs-10.12.drv qpiangq6qxckbyhdabhbjz6apnb8fsgn-apple-lib-xpc.drv
+CA: text:sha256:13f0rq76167wzsbp7nmxwrrpxbw3w0i8h0rzfbx90b8vwrp3gwbi

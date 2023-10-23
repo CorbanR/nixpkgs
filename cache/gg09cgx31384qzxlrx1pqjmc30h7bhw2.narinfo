@@ -1,0 +1,10 @@
+StorePath: /nix/store/gg09cgx31384qzxlrx1pqjmc30h7bhw2-muss-0.10
+URL: nar/00asciws5mw8vqkx2z3li2vbybgp2my7v0k4y56a8knhz3niprmx.nar.xz
+Compression: xz
+FileHash: sha256:00asciws5mw8vqkx2z3li2vbybgp2my7v0k4y56a8knhz3niprmx
+FileSize: 1358092
+NarHash: sha256:1v3b0yd1q8bv16bi4hpm2v3pzlxp60wfkjw0ak74qv1x9akmfsx6
+NarSize: 4387136
+References: dk5vk3c9zknbjzzxmiglzv46qgv32gb0-tzdata-2023c
+Deriver: lfy8ndgahp5yk1d9gybhif074jp0r89b-muss-0.10.drv
+Sig: nixpkgs.raunco.co:3IVp6WER7NWmbvOfXIJluqiA+Jg7BogWDm0bl0StcQzN9lfq8N4vXt2xTs6B2fAQWg56LnQ/6bXjM05+B7xPCA==

@@ -1,9 +1,0 @@
-StorePath: /nix/store/42chk5ds6s4m4f0dqiwv8bj3sk6qfmpf-bootstrap-stage1-stdenv-linux.drv
-URL: nar/174db0wlwjrb74qvah8i6r0bvx40d17mnfjy55wkrlbwya49brx8.nar.xz
-Compression: xz
-FileHash: sha256:174db0wlwjrb74qvah8i6r0bvx40d17mnfjy55wkrlbwya49brx8
-FileSize: 1272
-NarHash: sha256:1afmfwcbvs8fp6fw08x0vcknj1c0qzlwfz2a15c3yv038sn5jpnd
-NarSize: 3256
-References: 1wkxd0d8xc5nbfns2jjy924jvxd972gp-bootstrap-tools.drv 5yzw0vhkyszf2d179m0qfkgxmp5wjjx4-move-docs.sh 7za2qp7pq2slmpy6j5l5y50jqdrwajp1-bootstrap-stage1-gcc-wrapper-.drv bxsly8a56yb8kyrq03s82a3vyc8fqrb3-multiple-outputs.sh cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh ckzrg0f0bdyx8rf703nc61r3hz5yys9q-builder.sh d275wzmimzi3xp4j3vbkvxscmc79q088-strip.sh fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh h9lc1dpi14z7is86ffhl3ld569138595-audit-tmpdir.sh i7ppfr8z4qaprsxx4z27wn6x5kc8d4hx-setup.sh kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh nf1lkdrhapsx5lr6diyxyjr7pb7r20gr-patch-shebangs.sh ngg1cv31c8c7bcm2n8ww4g06nq7s4zhm-set-source-date-epoch-to-latest.sh pag6l61paj1dc9sv15l7bm5c17xn5kyk-move-systemd-user-units.sh wgrbkkaldkrlrni33ccvm3b6vbxzb656-make-symlinks-relative.sh xyff06pkhki3qy1ls77w10s0v79c9il0-reproducible-builds.sh
-CA: text:sha256:173qni53zml2piapfsfgpxssr0nak9z6v0j1yisffpj4k9q728sh

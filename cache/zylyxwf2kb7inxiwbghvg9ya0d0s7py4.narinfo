@@ -1,9 +1,0 @@
-StorePath: /nix/store/zylyxwf2kb7inxiwbghvg9ya0d0s7py4-autoconf-2.71.drv
-URL: nar/03jjdbjn4ngs5cgnqhfn91zvg4hvgmhq9n95f9vwyvxs25w2djnq.nar.xz
-Compression: xz
-FileHash: sha256:03jjdbjn4ngs5cgnqhfn91zvg4hvgmhq9n95f9vwyvxs25w2djnq
-FileSize: 1108
-NarHash: sha256:0c030x5lz3cwi4aak5aidzpaxwn4qw4dbwab1va1zlz57gv54jhj
-NarSize: 2568
-References: 1wkxd0d8xc5nbfns2jjy924jvxd972gp-bootstrap-tools.drv 3s34xgd79p8i0yrvxib0bcw531mgcwak-bootstrap-stage4-stdenv-linux.drv 4hcdpxjmr4nh625ry840g70xp00vdf5a-2.71-fix-race.patch 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9nrm85sjfpzynk8dj84fzqwv9wb575sx-perl-5.36.0.drv c99ihlhb2lh875spzsl6rnc4058grxvn-autoconf-2.71.tar.xz.drv pvq00yr7n3k4zpfv56vv1636s9lq7r4c-gnum4-1.4.19.drv s0g2nbr3zmrsvjzjjvb4d2nvh93ram05-texinfo-7.0.2.drv
-CA: text:sha256:1cig0hhnjqqwvzm0ccvapmkw4pbaiicziwz32grp73hz938vxvj5

@@ -1,0 +1,10 @@
+StorePath: /nix/store/5xpslg4ahrnbc6lbm0vbj5svw7s31v3x-gmp-with-cxx-6.3.0
+URL: nar/0mkfjb061b6xpx9ssasxydzm1mzdammlhzff8r41dyyln8csh27n.nar.xz
+Compression: xz
+FileHash: sha256:0mkfjb061b6xpx9ssasxydzm1mzdammlhzff8r41dyyln8csh27n
+FileSize: 269092
+NarHash: sha256:1wg7jzdn4dbl7qvggyqqn3f7pb2z160l6gszcapwm2a14za7n81g
+NarSize: 689320
+References: 3wcxl9bhpaxd0jblzz22ay10rgdr1x80-swift-corefoundation-unstable-2018-09-14 5xpslg4ahrnbc6lbm0vbj5svw7s31v3x-gmp-with-cxx-6.3.0 vdifn4xm14kg9l70ril4insyyx8sjk24-libcxxabi-11.1.0 wg08gaaizg12q1v5dxz2ivvarnjd3s69-libcxx-11.1.0
+Deriver: dz6mklh0m8c8sgj2s1a5nc8s7x9qsvpq-gmp-with-cxx-6.3.0.drv
+Sig: cache.nixos.org-1:6Q6zE7VXdJ40se4hjhkbaTer+cGAdXiGqoOb3/Y231Pw4UhggqJviugrrcQI0deebL/ubk9YA6n4gTgeA0l6DQ==

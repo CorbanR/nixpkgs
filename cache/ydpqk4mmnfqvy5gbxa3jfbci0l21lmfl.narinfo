@@ -1,0 +1,9 @@
+StorePath: /nix/store/ydpqk4mmnfqvy5gbxa3jfbci0l21lmfl-xnu-3789.70.16.drv
+URL: nar/0d784hg0lp3pswdgmp3wf1v008aj08n6x19mr7sh42scparx1ay4.nar.xz
+Compression: xz
+FileHash: sha256:0d784hg0lp3pswdgmp3wf1v008aj08n6x19mr7sh42scparx1ay4
+FileSize: 8616
+NarHash: sha256:0ffap0gr66v5s3n0fbp9j5xx6g2g40lh8f6fl53wqy0bsidyv7wr
+NarSize: 38216
+References: 5n69qba1ps7ywb94fi4p5ly3v3havdds-gnum4-1.4.19.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7451lc440slh3zjdi5lk0xcggm4mf0vi-flex-2.6.4.drv 8l1sn2xmz8p5dd5z231n2dxqc4jr7apg-bootstrap-stage2-Libsystem-stdenv-darwin.drv 92yvh2b0ppwg8qiiqsd38hyy1r8k2kzd-python3-minimal-scproxy-3.10.12.drv b2q065860syhm668gd5zvydshis7dilj-perl-5.38.0.drv j3vg7rxbfrxx2r913x0x85345xb8kgh3-unifdef-2.12.drv j7awqij0wsqylhx1q1ygda5ga81is6i1-clang-wrapper-11.1.0.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv psn95pj18ss8rcfvavbp764m2c10akw3-xnu-3789.70.16.tar.gz.drv ri371cj5svw3r8k55rfd95bh43a75f15-bootstrap_cmds-121.drv yhhwdxmfjs0xvqmyqnlibkhxpcbyp3h9-python3.patch yzp5hk1mbp1jbhj9hhxlcx7d92kpjqhj-bison-3.8.2.drv
+CA: text:sha256:08h4xvvr4fac8nr15jhlrw8xkd2229i67x82h0ka119ncdh3mi69

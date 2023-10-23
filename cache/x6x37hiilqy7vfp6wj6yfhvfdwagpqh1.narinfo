@@ -1,9 +1,0 @@
-StorePath: /nix/store/x6x37hiilqy7vfp6wj6yfhvfdwagpqh1-python3.10-bootstrapped-pip-23.0.1.drv
-URL: nar/0pw6ls4nl72rjl2plknp06r49szrljfq4gpxpmpjsxp4yzhqx3q3.nar.xz
-Compression: xz
-FileHash: sha256:0pw6ls4nl72rjl2plknp06r49szrljfq4gpxpmpjsxp4yzhqx3q3
-FileSize: 1688
-NarHash: sha256:01xh0nvf6wai7w79qg0anypkiy5azj6461b8cbww0322wrz821vy
-NarSize: 4064
-References: 0ry045qgnbgqqb3biy75v8frgsjk4rzq-make-shell-wrapper-hook.drv 395wyy38msz0847lg8jpczlzy9l0cbxl-pip-install-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv fq8jdhnkzlnvf95gvl754vkx9kd2sfp4-setuptools-67.4.0-sdist.tar.gz.drv jc85zhxgpcmxm1k3bdgn1gxfv1yl5bgs-setuptools-setup-hook.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv k15fr5zkr392933f69183qa4rbjyfrvz-pip-23.0.1-source.drv kqk3d3s8yjcdvp7iprxpgf02sjwg7ims-wheel-0.38.4-source.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv s36z4fwkrfiinf98pgk8xm645h4ml7lw-unzip-6.0.drv
-CA: text:sha256:0fw957n9xyncahsk91cgb9sq5gs1ll51645whqm2s6zn24ncivps

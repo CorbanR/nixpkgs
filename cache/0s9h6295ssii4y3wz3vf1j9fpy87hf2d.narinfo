@@ -1,0 +1,10 @@
+StorePath: /nix/store/0s9h6295ssii4y3wz3vf1j9fpy87hf2d-gnutls-3.8.1
+URL: nar/19yf927i7vlwfbgdp10knyrf63nkr8qhxxcxpj7g0scavyf1aq64.nar.xz
+Compression: xz
+FileHash: sha256:19yf927i7vlwfbgdp10knyrf63nkr8qhxxcxpj7g0scavyf1aq64
+FileSize: 879240
+NarHash: sha256:1f5sdiyl7qci0xshs58ap7qc4h1irvybjv0spnzvhmvmagx3qcks
+NarSize: 2797368
+References: 0s9h6295ssii4y3wz3vf1j9fpy87hf2d-gnutls-3.8.1 5xpslg4ahrnbc6lbm0vbj5svw7s31v3x-gmp-with-cxx-6.3.0 5yf6r5c4wk8jw46wmx1s2jfpihiry72w-gettext-0.21.1 8fnrnlpz45i5m8cs207jz21w3h7k7hgc-zlib-1.3 9y7gq06wk496bkk4j8iphl5gd4jxgwaa-libiconv-50 ghy6jcfnahrv6xkmz8rayvr9rc6ap71q-libtasn1-4.19.0 jlv5yql00hh3bg8myyld5h319b5cqrrg-dns-root-data-2019-01-11 nm04hss4904l42z9ybsny0s1w9rk8hhz-libunistring-1.1 nzdw7l3575ppqb7hn4719sh79dsqig6i-unbound-1.18.0-lib pf43h1zrsyzsi94ppxy8f70y3vnqcby5-libidn2-2.3.4 vdifn4xm14kg9l70ril4insyyx8sjk24-libcxxabi-11.1.0 wg08gaaizg12q1v5dxz2ivvarnjd3s69-libcxx-11.1.0 xwhrv8dwcslasly817nc88s1r12n41am-nettle-3.9.1 z301hb4sqh66bqah6zb24mfhxqg50f9j-p11-kit-0.25.0
+Deriver: iiplj848iscnpk75wr6gsgbmvbqjik16-gnutls-3.8.1.drv
+Sig: cache.nixos.org-1:ELGyItSAh4ENtWFVMbv+L9gdTL6cRliCaN1Q2NnlehiyERX6vwvsGQhxpU3ybz+katbCwxuATQeXfv/MkHCVDA==

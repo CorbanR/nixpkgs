@@ -1,0 +1,9 @@
+StorePath: /nix/store/h8zma0xrl8w0j85dmc58yw6lyl29m29z-tzdata-1.19.patch.drv
+URL: nar/1hw6fdwzklxx4xg2cvygkph2ph2gzgizhb4vkjvh59f8gqysbskq.nar.xz
+Compression: xz
+FileHash: sha256:1hw6fdwzklxx4xg2cvygkph2ph2gzgizhb4vkjvh59f8gqysbskq
+FileSize: 740
+NarHash: sha256:1cys057qjb8psg12xxdx4zb4wlvairgh9a8wllp89kcq1ygl9jjb
+NarSize: 1672
+References: 4vq3350zc6sqnibkqpgic2d6cvi1r9hq-substitute-all.sh g8ksnqqpc13ahsciqqnm9jsnf1fh72r6-tzdata-1.19.patch i8a31hfv8pz9l0z1y7iimdl6h04dga75-stdenv-linux.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv qknsn5ry2sm3hps4x9i7g438x0c41a91-tzdata-2023c.drv
+CA: text:sha256:00dw0kx5sqqb2wqr4dwr30yn8hbgr3ix54c626v2v9n8mm18wdx5

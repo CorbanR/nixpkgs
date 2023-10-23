@@ -1,0 +1,9 @@
+StorePath: /nix/store/gard53893qg62j4yk9z3767md26vvrr6-apple-framework-CoreAudio-11.0.0.drv
+URL: nar/0awyh2aa3ahgqkxjbqdimfb281fb2zmg8mfp147sy734pkkh8w41.nar.xz
+Compression: xz
+FileHash: sha256:0awyh2aa3ahgqkxjbqdimfb281fb2zmg8mfp147sy734pkkh8w41
+FileSize: 1508
+NarHash: sha256:1val44nd40aaig48jlail81zc7d59mbxhszqw7l9rl4kvc6skfib
+NarSize: 4200
+References: 2r3sfgwa6l0wr8mr6jzaqvg7nh66pyrn-MacOSX-SDK-11.0.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv adf04syvigj8358xcxhprmxw3g8yfi37-apple-framework-CoreFoundation-11.0.0.drv dkmxr0h01w8vs7540xhjmn8p4hcm8rky-apple-framework-CoreFoundation-11.0.0.drv igc5aff06xmsg3d7lxbs15v4llnxfdd0-apple-framework-IOKit-11.0.0.drv vzqhqkqxj2wiac04axrzg0nb4s4sb592-apple-framework-CoreAudioTypes-11.0.0.drv w12mifg34dx2l90mdc7gq9qirc9hn979-stdenv-darwin.drv yfijg7pa84mjm43g5948fbnp9qb4wp83-rewrite-tbd-unstable-2023-03-27.drv
+CA: text:sha256:1si8l0m6js0lwhb9k8xz5lklv5wl2ysgm3lnikb4fisibw6m9rnd

@@ -1,9 +1,0 @@
-StorePath: /nix/store/8mq0c9q48flvsmpsi8mgmvnvbss9psgn-libssh2-1.10.0.tar.gz.drv
-URL: nar/1ryyrqnij4sna0wja6hja8gnlj83bi06klrmx7a6ipsdija30fy4.nar.xz
-Compression: xz
-FileHash: sha256:1ryyrqnij4sna0wja6hja8gnlj83bi06klrmx7a6ipsdija30fy4
-FileSize: 1408
-NarHash: sha256:0756fw81r8qkpc2aypdybmr1bcambfncr96wmbxfk9n537nhghd1
-NarSize: 3264
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh 6xnxsrxdqgdfpngd4yd6qyvn6pi71dsi-curl-8.0.1.drv gqfvpd2x69qwqirkhs8l3xyl274g0a1i-mirrors-list.drv jnl83pzwf7i0cv3i0sgzrfdk8pfdg82m-stdenv-darwin.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
-CA: text:sha256:0k2si2m2wjmd7a5dnlqawmi9mfpz98j7f17spv4q6mcsd03qks0i

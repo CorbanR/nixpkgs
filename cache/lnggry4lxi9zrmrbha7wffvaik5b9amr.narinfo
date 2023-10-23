@@ -1,9 +1,0 @@
-StorePath: /nix/store/lnggry4lxi9zrmrbha7wffvaik5b9amr-python3.10-iniconfig-2.0.0.drv
-URL: nar/13yfmmb28fa812dgz086hm0cq1xn640q4sm387jhqjc4mr88b69x.nar.xz
-Compression: xz
-FileHash: sha256:13yfmmb28fa812dgz086hm0cq1xn640q4sm387jhqjc4mr88b69x
-FileSize: 1648
-NarHash: sha256:1imsnld9b7qzkdpw7b7w88h86db05yp0h06s0k4myfp33akpwpg3
-NarSize: 3896
-References: 1i0ixszrc2r03rfh3iwhfbi2f4x52wcf-python-catch-conflicts-hook.drv 2rfw6rcijjdm5x4jlw7r61pj9f6knccs-pip-build-hook.sh.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8i6cw8wgjqhkpcbn3i1k5czs1jj62g0f-python-namespaces-hook.sh.drv 9ldjr0zdj3qvmjbn8ynxgdg7h56lx4zx-wrap-python-hook.drv 9nzi0hc1xfghmydfl7z0m80ax0sjh0mm-python-imports-check-hook.sh.drv a5m6dk0nbazi1fw4kpp19h7448brn63r-version.patch.drv cw0qmrdxn3pi2gysdvglk8v2b798d3hy-python3-3.10.10.drv gdkqyi61d9p3fr4gj19vfbayzm9fpwiq-python3.10-hatchling-1.13.0.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv nbwz2pkcfil2ibp3wmcrnc99gisndcmg-ensure-newer-sources-hook.drv nsp49j4gaj67csflfh9v3wp2y87p1g82-pip-install-hook.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv s3k27g1ndq5zk71882p97ary76xj36zp-python-remove-bin-bytecode-hook.drv x8afnl0gcsqbkg0v4s7iqgxd8mknzdd8-python-remove-tests-dir-hook.drv ypxjix4v9x3hpn81nnhpny990zgbh4bg-iniconfig-2.0.0.tar.gz.drv zay2p712hcja4l7v9xm9a3sdmr7pcxd8-python-output-dist-hook.drv
-CA: text:sha256:1hzjj8ij673qw2h99nk17bg92xbg3i1nbqza1gmbl1irqwjhgvhs

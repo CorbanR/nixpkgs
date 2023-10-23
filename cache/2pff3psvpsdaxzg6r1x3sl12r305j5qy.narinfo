@@ -1,9 +1,0 @@
-StorePath: /nix/store/2pff3psvpsdaxzg6r1x3sl12r305j5qy-libcap-ng-0.8.3.drv
-URL: nar/0qyd2r756f1swpwjxmc9ippqrqw76r2rqnbx7pb0b5m9gar12p74.nar.xz
-Compression: xz
-FileHash: sha256:0qyd2r756f1swpwjxmc9ippqrqw76r2rqnbx7pb0b5m9gar12p74
-FileSize: 720
-NarHash: sha256:0vlxahabmdshj20fmi8nvp4icc641y0xibib0vhxm2wkpi9m0h7m
-NarSize: 1560
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv jjyp7cj6h0xy6d5w35bvhpgym540rzxp-libcap-ng-0.8.3.tar.gz.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv
-CA: text:sha256:0x65vzfs0la47w68hqskrmaksnqm0zq7f4j8p4ffrrq1q4mrcfbb

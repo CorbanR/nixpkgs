@@ -1,0 +1,9 @@
+StorePath: /nix/store/h2yvagv7ffmn2961zgdlx5abikm3viwy-man-db-2.11.2.drv
+URL: nar/13z0s8q87bigmjixhvilgm1b8vjfw7q4rl4laryzdrmprqffa20z.nar.xz
+Compression: xz
+FileHash: sha256:13z0s8q87bigmjixhvilgm1b8vjfw7q4rl4laryzdrmprqffa20z
+FileSize: 2576
+NarHash: sha256:0kqgnyd1v8s8rdn29pg3avylsa44x9nwlwaf46x7pf85i4z60lky
+NarSize: 5736
+References: 0jhf9ikqd3x1gdbwxi2mx4bvzri2hpi7-groff-1.23.0.drv 0sgrwdkbgdv3bh4zwc89y4y6577qjl52-improve-lexgrog-portability.drv 3fwmdwrj37p1h5zgnai2lczjlflai0w1-db-5.3.28.drv 5w8kqyzzkiipss22j812cqp42p8w5z88-avoid-translation-fallout-from-lexgrog-fix.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 6yl4rs3wdvz86qcvzxvhbjgmgi5dxpiy-fix-test-failures-when-iconv-not-available.drv 6zdl7x8hdldmyzfr9a8mvwvzq416irsl-pkg-config-wrapper-0.29.2.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv 9sn24cks2z7rddsqw1jk6l896p8imy81-libpipeline-1.5.7.drv ajfmc3ly3cl7x7pa12zwpg5bb629hbm4-gzip-1.13.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv j0vg5hbcnp2yy132nr551w812whh9b19-zstd-1.5.5.drv k08zqrnayicynrm5vb4as3hhrr39jd9w-man-db-2.11.2.tar.xz.drv ldhwi6haib93chi8igw6wx1fy8c2hznk-make-shell-wrapper-hook.drv pwiwfvnq3wibx1bxgzb2pri2xpz7wg30-libiconv-50.drv rdqwgwfy0s1fgzfk0w4xdqy1vfp7d49k-autoreconf-hook.drv smnsi43xny7fwpi7fq6ks9512l93n24f-update-warning-regex.drv spl6s672ix9rfl4mvjaxf7wkpdniix8r-systemwide-man-db-conf.patch
+CA: text:sha256:06wcc4ar2jyzzaznlv1xk5qy2r9dg2dnm8vsy2ah6gxiarjg5qr3

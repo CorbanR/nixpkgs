@@ -1,9 +1,0 @@
-StorePath: /nix/store/j16znljsnk20hi5xp4kv86b5gb1vijjk-cracklib-words-2.9.8.gz.drv
-URL: nar/16hvfbm59zph51i0s1glhxp55llykvmw28b0ry12q3ys7jf368pi.nar.xz
-Compression: xz
-FileHash: sha256:16hvfbm59zph51i0s1glhxp55llykvmw28b0ry12q3ys7jf368pi
-FileSize: 1320
-NarHash: sha256:1p02880jmnamwk9hxf9kljabb0rk68k1ir2d8wmx1grk6v2wpqrh
-NarSize: 3016
-References: 2jp0p2kyf49f665s8vgfg3gdpaqpdvpp-stdenv-linux.drv 3c6sxp8m3a007wvvxxi4q8vddf5h8dnm-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv mg6cmxqqr9285wc4c49mk5jz8gjb0wx1-curl-8.0.1.drv
-CA: text:sha256:0g2w0mj6k5nwcj2m3v9wqys86h6nv3hafljxj627rbsfqp4wfgmq

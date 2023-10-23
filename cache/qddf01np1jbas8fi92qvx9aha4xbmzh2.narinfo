@@ -1,0 +1,9 @@
+StorePath: /nix/store/qddf01np1jbas8fi92qvx9aha4xbmzh2-clang-11.1.0.drv
+URL: nar/1hzczdcvqssh9jjd8w3z1fw4709254h8l55qgfvipbkj8nkl8r3y.nar.xz
+Compression: xz
+FileHash: sha256:1hzczdcvqssh9jjd8w3z1fw4709254h8l55qgfvipbkj8nkl8r3y
+FileSize: 2068
+NarHash: sha256:1v47i8101r63cbp5dbsznwrrnxr95blyfxm3j8jiz6s5rz85f1cv
+NarSize: 5040
+References: 23q4bqmy97d2qhcinp9zg2m7k31jmgxy-libxml2-2.11.5.drv 34zhl915l308dpa7v2786z3xgbvy6398-purity.patch 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 92yvh2b0ppwg8qiiqsd38hyy1r8k2kzd-python3-minimal-scproxy-3.10.12.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv a1317anzscdxg8vz13zlvfbk01dslc8n-fix-darwin-dylib-names-hook.drv dc5gvkkdcc2qydwnmyq8vnr1k19d97hb-clang-11.1.0.src.tar.xz.drv ggma1lqzlgwsv1biaw0zqx6mvilk4h81-cmake-boot-3.26.4.drv rf11ygdlnl59wp3yg10750c6y0rjwy17-llvm-11.1.0.drv rji7i822vrxix1q65rabx86wyhijnm5g-bootstrap-stage3-stdenv-darwin.drv v4nmnaaimbp32bs7z3mp1azgj7xn21wx-clang-11-12-LLVMgold-path.patch.drv yrskcbyfm56qm4vs9dnacg8mqpqx7qwx-gnu-install-dirs.patch zj47pxfr0bx9fm76yy16qqsvdqxn7v4h-clang-tools-extra-11.1.0.src.tar.xz.drv
+CA: text:sha256:02qswn7r40zvpxkcazsvvrp8z4jysx8nb9x2wg8bna58niqf4rg8

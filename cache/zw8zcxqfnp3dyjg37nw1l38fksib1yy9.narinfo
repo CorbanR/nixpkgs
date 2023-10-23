@@ -1,0 +1,9 @@
+StorePath: /nix/store/zw8zcxqfnp3dyjg37nw1l38fksib1yy9-python3.10-installer-0.7.0.drv
+URL: nar/0697an5zsi8q36lj6rqmcc2y0rha6k092gfkq6wv4fh92hpdwmdi.nar.xz
+Compression: xz
+FileHash: sha256:0697an5zsi8q36lj6rqmcc2y0rha6k092gfkq6wv4fh92hpdwmdi
+FileSize: 1616
+NarHash: sha256:0riwzmd5i3bki3ig41yva858yn5qxqfwga9xbqhndbjf4gvvvc4q
+NarSize: 3808
+References: 3glqljk20iyhnzr5sz30k3p5gfj07r0v-python-remove-tests-dir-hook.drv 4gs2zap1s6lpvn9gd6lwj5yriafy8sxh-python3-3.10.12.drv 569ckkgdw05ayxxlvf0xdqw6kcdpj6fa-wrap-python-hook.drv 64spj723i0aflvkwff0vc625bh880nxz-python-remove-bin-bytecode-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8sw6wgkdgd3rna2s483dhshg284qqqgm-python-namespaces-hook.sh.drv 96qpl6gkc0n9kppcilwfid8pqb8mjf99-python3.10-flit-core-3.9.0.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv ff3wm8g3iwvrz811i1diyz11kqdnahxc-pypa-install-hook.drv pgv9c923jyjl2vsp7qlmmylglh09y4xx-python-output-dist-hook.drv pqg1r9r71h1b1qdlsh0klq2pb41xb1mv-ensure-newer-sources-hook.drv pv7k53ll0gvf9gaacsdk3wi3kf1fxa1r-source.drv v9ij02aqnhsdapdw6b36h1y6spv49hkb-python-imports-check-hook.sh.drv vjcj87h3jmd5h9y8zbbxfbav47mg6x7l-pypa-build-hook.sh.drv
+CA: text:sha256:1jslx2sdqc2s0n64zvs3af2cv8nxsb14i5d33pmlpwna4p0pq6f8

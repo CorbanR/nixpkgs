@@ -1,0 +1,9 @@
+StorePath: /nix/store/2ic3ks7mycm4l8dndbbpzp8m4giagbcp-binutils-2.40.drv
+URL: nar/1py2c1k0vdi6x3157rsq2lb80d1vpr1j2a1v7284584rkxclcm1c.nar.xz
+Compression: xz
+FileHash: sha256:1py2c1k0vdi6x3157rsq2lb80d1vpr1j2a1v7284584rkxclcm1c
+FileSize: 2276
+NarHash: sha256:1g865dc91wmmwryavykqg76gdx1kma9zkckv9d68q2z0dhn9rcr5
+NarSize: 5824
+References: 0df8rz15sp4ai6md99q5qy9lf0srji5z-0001-Revert-libtool.m4-fix-nm-BSD-flag-detection.patch 20d5pi1a5i9jj041i0gvr9zcs7bjbw46-binutils-2.40.tar.bz2.drv 36bsrrhh615qgnrpjkbhzz5xym65y7nd-CVE-2023-1972.patch 3nsxf1f3ab96g3661f6f9vkz8ycrcfj2-bison-3.8.2.drv 4g5i55a4bibk0m014j3ajlc70qgxl8f7-perl-5.38.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 994k15rzmn2iashf95hnrwakghpzy0ks-gettext-0.21.1.drv ks6kir3vky8mb8zqpfhchwasn0rv1ix6-bootstrap-tools.drv lgniihp1bk6mkd5nn9y5ikfim2ignr52-0001-libtool.m4-update-macos-version-detection-block.patch pa83jbilxjpv5d4f62l3as4wg2fri7r7-always-search-rpath.patch paxir5s9racqd31pv7y2nsrj0ibwmhyg-bootstrap-stage4-stdenv-linux.drv qy5c4cqjk56k84k2m8ylhdzgpvg4jzqz-bootstrap-stage4-gcc-wrapper-12.3.0.drv rf3kjgy7pbvymp55hxw28dg5g937lmcv-plugins-no-BINDIR.patch sqbhaaayam0xw3a3164ks1vvbrdhl9vq-deterministic.patch xrw086zw3xqsvy9injgil8n2qdkvkpff-0001-Revert-libtool.m4-fix-the-NM-nm-over-here-B-option-w.patch znd2jpwvs913wjny0zag97rp1wz3zrjk-zlib-1.3.drv
+CA: text:sha256:1mv93c49h6x0vq41pmdkjs29i18chkdq2dszb2201lnz72i888hn

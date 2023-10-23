@@ -1,0 +1,9 @@
+StorePath: /nix/store/r9vv3mpiay3xx1rh7w5x5baxphqr2piw-python3.10-pytest-7.4.0.drv
+URL: nar/1dmsgs3xns9agwiq4bq5xyff8k05hw214q2wmis786ilpvhrvl28.nar.xz
+Compression: xz
+FileHash: sha256:1dmsgs3xns9agwiq4bq5xyff8k05hw214q2wmis786ilpvhrvl28
+FileSize: 2148
+NarHash: sha256:0a6vlkwycrjfnzivpgmqxx7nwga8ws7z840zzgkchzhsfxmacmp5
+NarSize: 5240
+References: 13cyxa5v1syj13xmzsccs0s9bq98gxcg-python-remove-tests-dir-hook.drv 4gic8ck7qqlsr7xlfc1k69imwanffnrs-python3.10-attrs-23.1.0.drv 6x15wsy10fk1482macnk93kx035lzh7b-python3.10-tomli-2.0.1.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 762qm62g5kf1iwgmxcj4xcd31w426qzb-pypa-install-hook.drv 84x6yynafkf4xaifa0z0awd7v99pgp36-python3.10-setuptools-scm-7.1.0.drv 8yph0nmn83dry6vsf7h6vbnc3r2wyhxk-pytest-hook.drv 9ch8hyg0zjccvav10pmrs92a7lkswmrl-python-remove-bin-bytecode-hook.drv 9yrzyfnrki768fnf9mang049k23sfisi-python3.10-pluggy-1.2.0.drv dli1sw8mp5kh8ic29rswaglf3kvmim5c-python-imports-check-hook.sh.drv fbyjcpdqv92z8fc85plz3m6j4f0m2jv2-python3-3.10.12.drv i7gll9wzdkh0wzf4qzpv546hd68c7swg-pytest-7.4.0.tar.gz.drv ipxz7lkjp6jjr6xkcvz33jal354154gh-wrap-python-hook.drv kxlpr3barrd5fsmd9izn7cmj9xmzf4bg-python-namespaces-hook.sh.drv lil97jb8a0f77km3lm0clj9ndrnsn0c9-python3.10-py-1.11.0.drv m4hgkbf3xyi8vfjy973813587i6zcshw-python3.10-packaging-23.1.drv nyg3d3s05ljvsyk1sbrdsax01fl7dwgn-python-catch-conflicts-hook.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv py7rzyk4qmxzs5y9wp0p253wj2afrw92-python3.10-iniconfig-2.0.0.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv q0rm93r4d80fgc292yqj81fqzwl1kqq2-pypa-build-hook.sh.drv qyjmz54axhjysavdkvxnlhj82ciqg55l-python3.10-exceptiongroup-1.1.2.drv wmcf492qb380drizrhjnzzdhlczykfr8-python-output-dist-hook.drv yrb198d2sygj8f2hcraprfkxjxfx5j3z-ensure-newer-sources-hook.drv
+CA: text:sha256:1jp3azvqw9r5ag5imqvy8zs86f5vl7ss5rc5nrwhr1r4sykll6sl

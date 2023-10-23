@@ -1,9 +1,0 @@
-StorePath: /nix/store/r6jcqv67saj457cj7v7mzxivachwn4mv-file-5.44.drv
-URL: nar/03f7vs4ld0mpckx827hb5nwqb34kry6lzly3w89b9maqnyl4bkza.nar.xz
-Compression: xz
-FileHash: sha256:03f7vs4ld0mpckx827hb5nwqb34kry6lzly3w89b9maqnyl4bkza
-FileSize: 940
-NarHash: sha256:0cn2js744ynrlgbfd79plqpl54c9pzvfqkzr4ffl5zl2iwdahhkx
-NarSize: 2120
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 935s4ihbw5l4ccxdv7q5vxlgk08kcnc5-zlib-1.2.13.drv a1hmimf72dmn2vbr5lf51cayczrrg1rw-file-5.44.tar.gz.drv c0xvq4w674n3ggn3hcsnw7qcp1nfq568-file-5.44-decompress-empty.patch?h=dfc57da515a2aaf085bea68267cc727f1bfaa691.drv jjhl4mmc31mxn7zk38414xhl3ki70dg8-bash-5.2-p15.drv p7yawb5jr6hn44n1fldfryc97sgf5gb6-stdenv-linux.drv yc96d88sjf4ij0991xcf4xdavx7cdkjm-pyzip.patch
-CA: text:sha256:1wxf7yf5xvg1nlzcwmjxyzyakjr6wba90yp68dgp02dd5y50in9l

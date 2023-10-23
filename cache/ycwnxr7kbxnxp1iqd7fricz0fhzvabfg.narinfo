@@ -1,0 +1,9 @@
+StorePath: /nix/store/ycwnxr7kbxnxp1iqd7fricz0fhzvabfg-python3.10-attrs-23.1.0.drv
+URL: nar/1cvjvq75fq3n8pa02pls0439f98lff4mkspl0nliyl8f251w2603.nar.xz
+Compression: xz
+FileHash: sha256:1cvjvq75fq3n8pa02pls0439f98lff4mkspl0nliyl8f251w2603
+FileSize: 1872
+NarHash: sha256:0yi61r53vf3b47g0gglv7cqfx4mhnjw74bjr7k8nvxcgh70p2kb9
+NarSize: 4504
+References: 3glqljk20iyhnzr5sz30k3p5gfj07r0v-python-remove-tests-dir-hook.drv 4gs2zap1s6lpvn9gd6lwj5yriafy8sxh-python3-3.10.12.drv 569ckkgdw05ayxxlvf0xdqw6kcdpj6fa-wrap-python-hook.drv 5v49yn6811xaz73581cmz6ds3md4n8lf-pypa-install-hook.drv 64spj723i0aflvkwff0vc625bh880nxz-python-remove-bin-bytecode-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8sw6wgkdgd3rna2s483dhshg284qqqgm-python-namespaces-hook.sh.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akpdvkkaqmk3fhw1kjpj42mnid6nb7mh-pypa-build-hook.sh.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv kdgyyc5d5869g7x91bsy7l4z2bgnipfc-attrs-23.1.0.tar.gz.drv lszlalfig0zix324jxq7bf23w1wccmld-python3.10-hatchling-1.18.0.drv pgv9c923jyjl2vsp7qlmmylglh09y4xx-python-output-dist-hook.drv pqg1r9r71h1b1qdlsh0klq2pb41xb1mv-ensure-newer-sources-hook.drv qf0xxfnvmwqmab979b2lz3wn1jn39sfd-remove-hatch-plugins.patch v9ij02aqnhsdapdw6b36h1y6spv49hkb-python-imports-check-hook.sh.drv y823dmnv8kgcg2lyvzx0g3m41x7pfyij-python-catch-conflicts-hook.drv
+CA: text:sha256:15hkqkxcbyai3wm53qw6887gmpx3g4n6bm9v0b2vfwfd56azmg2g

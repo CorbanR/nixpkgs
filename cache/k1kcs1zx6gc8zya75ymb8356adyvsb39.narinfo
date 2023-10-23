@@ -1,9 +1,0 @@
-StorePath: /nix/store/k1kcs1zx6gc8zya75ymb8356adyvsb39-apple-framework-CoreGraphics-11.0.0.drv
-URL: nar/1yk9g2iqsjmqfhkvz7xi62v4r325pw20031nnq22ijxn3mhx5y2s.nar.xz
-Compression: xz
-FileHash: sha256:1yk9g2iqsjmqfhkvz7xi62v4r325pw20031nnq22ijxn3mhx5y2s
-FileSize: 1520
-NarHash: sha256:0d8pqii3rk9q56bnbspsril4gc92pcj5ma0lpasir79v151wvc5c
-NarSize: 4456
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh b60kfpxj949vywhxi22sr4dg766db28h-apple-framework-IOSurface-11.0.0.drv bsckh2a22lkxnn88740laff2b7mgcq39-apple-framework-IOKit-11.0.0.drv c51jc2acjpnvw7bdgmfa4nrwcpc6crxm-apple-framework-SystemConfiguration-11.0.0.drv hp5mxkgrxcfi6pvnpvh30kry1jwq2lgz-apple-framework-Accelerate-11.0.0.drv jnl83pzwf7i0cv3i0sgzrfdk8pfdg82m-stdenv-darwin.drv rn1x0hw3p0h8a5a2y2xpnrd5cwn4izrc-rewrite-tbd-20201114.drv vdc5jp9wq87kvfcyygn10xi3xjp625i6-MacOSX-SDK-11.0.0.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv
-CA: text:sha256:0b1nv8hvpzv660zpq9246kn24an9vgc7as320jsssm45lgfpv5cg

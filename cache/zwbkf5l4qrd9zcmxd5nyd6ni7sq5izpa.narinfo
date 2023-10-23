@@ -1,9 +1,0 @@
-StorePath: /nix/store/zwbkf5l4qrd9zcmxd5nyd6ni7sq5izpa-apr-util-1.6.1.drv
-URL: nar/18bc0s4vq0z6f0lxkzkzxfpn3q0c1vvjb8mqvhsd8v5wipiyavz3.nar.xz
-Compression: xz
-FileHash: sha256:18bc0s4vq0z6f0lxkzkzxfpn3q0c1vvjb8mqvhsd8v5wipiyavz3
-FileSize: 1892
-NarHash: sha256:08zqmzya5rz7gk72qzbl2igp6swq9a6i7rslr09ib4f62i1gc50y
-NarSize: 4552
-References: 3l19gfavkkjdkasa37wp86ifbfy243if-apr-util-1.6.1.tar.bz2.drv 3zk5aj42lm9irjqgrfx5w70axxzwn0gx-apr-1.7.2.drv 6p28dn7v2wxl2af8i14q73054ip8nm4p-db-5.3.28.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8xs6sff7j6fr3kxpb0n8pi3ljjhgk0im-make-shell-wrapper-hook.drv afv9gvnpi26wn5gjhlm1lapa9dn7rbjs-gnused-4.9.drv d5n9qjsfmb7rn7dc6x8p6dbhq3d5p9qj-fix-libxcrypt-build.patch g87vlwj5hwy4rdpj44giiw3z9n5akmij-openldap-2.6.4.drv i739iypfv08z85aijyrda0h56wphzyj4-libxcrypt-4.4.33.drv iypnq8ww1axzvn6y21m0wl8jyvx6b25b-stdenv-darwin.drv kvvlmdj9q4hdxqs25fmm5pgvb7r6hrj5-expat-2.5.0.drv qyd8bxxh3ca5sa35k5vdbsyqlywybl47-openssl-3.0.8.drv wjwc5207kphdvnmdg8zflpm37lgwgdwg-bash-5.2-p15.drv xsi567hcp9f6nqkvvsk7pc1bb638d6x1-libiconv-50.drv
-CA: text:sha256:134h0aafpi6f7n4nz83adykzl754cdg5j62g4ib18n4kwaa8anrm
