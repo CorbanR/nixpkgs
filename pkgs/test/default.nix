@@ -9,10 +9,12 @@ with pkgs; let
   x86_64-darwinOnly = {};
 
   # Packages that are darwin only for now
-  darwinPlatformPackages = {};
+  # Fails with Unable to find libclang: "couldn't find any valid shared libraries matching: ['libclang.so', 'libclang-*.so', 'libclang.so.*', 'libclang-*.so.*'], set the `LIBCLANG_PATH` on linux so sticking with darwin for now 
+  darwinPlatformPackages = {
+    artichoke = callPackage ../development/compilers/artichoke {}; # See installCheckPhase
+  };
 
   crossPlatformPackages = {
-    artichoke = callPackage ../development/compilers/artichoke {}; # See installCheckPhase
     dart = callPackage ../development/compilers/dart {}; # See installCheckPhase
     hello = callPackage ./hello/test.nix {};
     muss = callPackage ../applications/virtualization/muss/test.nix {};
