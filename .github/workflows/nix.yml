@@ -45,7 +45,9 @@ jobs:
     - uses: cachix/install-nix-action@v23
       with:
         nix_path: nixpkgs=channel:nixpkgs-unstable
-        #install_url: https://releases.nixos.org/nix/nix-2.4/install
+
+    - name: Run the Magic Nix Cache
+      uses: DeterminateSystems/magic-nix-cache-action@v2
 
     - name: Print nix.conf
       run: cat /etc/nix/nix.conf
@@ -212,7 +214,9 @@ jobs:
     - uses: cachix/install-nix-action@v23
       with:
         nix_path: nixpkgs=channel:nixpkgs-unstable
-        #install_url: https://releases.nixos.org/nix/nix-2.4/install
+
+    - name: Run the Magic Nix Cache
+      uses: DeterminateSystems/magic-nix-cache-action@v2
 
     - name: Print nix.conf
       run: cat /etc/nix/nix.conf
