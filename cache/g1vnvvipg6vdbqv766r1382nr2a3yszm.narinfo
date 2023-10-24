@@ -1,10 +1,10 @@
 StorePath: /nix/store/g1vnvvipg6vdbqv766r1382nr2a3yszm-truss-cli-0.3.2
-URL: nar/1b67gwg57ssz9ic318m5mzky1rjbc35im7ywgc44ngrk8wkhq9jh.nar.xz
+URL: nar/0xscqd5w3hngfr3psd5wy855wgxbp95a2zi5m5d36fw3kmc1lfx4.nar.xz
 Compression: xz
-FileHash: sha256:1b67gwg57ssz9ic318m5mzky1rjbc35im7ywgc44ngrk8wkhq9jh
-FileSize: 9520836
-NarHash: sha256:0mc7jbpi6bwbisyzqm2i5kgz729hrd7xd7alsfar3xbjb6fc8dff
+FileHash: sha256:0xscqd5w3hngfr3psd5wy855wgxbp95a2zi5m5d36fw3kmc1lfx4
+FileSize: 9519596
+NarHash: sha256:1mfd3sqg2j17nx1cl4q2wp6i45gm6b93ayd6571ganh9vyqhq2fc
 NarSize: 47370656
 References: dk5vk3c9zknbjzzxmiglzv46qgv32gb0-tzdata-2023c ld03l52xq2ssn4x0g5asypsxqls40497-glibc-2.37-8 pfqk28f0yaq18ha10ri9d3a8z5kv8s6l-mailcap-2.1.53 zfywx7mqfwiiw7a1zdv79bxmh5p2d2p1-iana-etc-20230316
 Deriver: adj8k28w8xmzfmgmmdwy8s14s9r7i2x7-truss-cli-0.3.2.drv
-Sig: nixpkgs.raunco.co:bM06d2eikqbBuWA437XvLBt/lV0YllSvgkD/kCyRDU/X3TdQUrlxqLX7nz4bExbcrQj8V5reXRjabFpBZmrnAQ==
+Sig: nixpkgs.raunco.co:BkBtjISS/rJJpJ+2vkI9BbL+lSjLEQQ7WgLL2Qa/oaO4MOWwdnlQ8SaZvl24Fvnj0jydTb4wyf7vRzQjCgEgDQ==
