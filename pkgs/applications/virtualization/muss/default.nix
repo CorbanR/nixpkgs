@@ -15,7 +15,7 @@ buildGoModule rec {
   };
 
   doCheck = false;
-  vendorSha256 = "sha256-+qTpEdMw5hb3Bm7zguk0WElSJpj1/MpybxOXQZO5P9o=";
+  vendorHash = "sha256-+qTpEdMw5hb3Bm7zguk0WElSJpj1/MpybxOXQZO5P9o=";
 
   ldflags = ["-X github.com/get-bridge/muss/cmd.Version=${version}"];
   tags = ["netgo"];

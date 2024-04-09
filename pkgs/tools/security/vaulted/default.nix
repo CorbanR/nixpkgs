@@ -18,7 +18,7 @@ buildGoModule rec {
     sha256 = "033n3088m4dcvhmqiblkpfmibrw75miq4153wd7nhh7r256qnc18";
   };
 
-  vendorSha256 = "sha256-oQwPDx2dru4EMiSTuvhvo6P03m7Dw3hHab8c6a9kKkQ=";
+  vendorHash = "sha256-oQwPDx2dru4EMiSTuvhvo6P03m7Dw3hHab8c6a9kKkQ=";
 
   # Since vaulted spawns a new shell /etc/profile gets called(at least on OSX), which calls path_helper, which screws with the path
   # unsetting some environment variables makes it so nix paths(such as run/current-system/sw/bin) come before /bin /usr/bin.

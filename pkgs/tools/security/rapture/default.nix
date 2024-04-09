@@ -14,7 +14,7 @@ buildGoModule rec {
     sha256 = "0r1alk2nkv5cyk4j2cdgih4zy82x55svhq8l6q7p9nl4m4xkz9ka";
   };
 
-  vendorSha256 = "0d0pbsk66glhd8phdjmvmq0iqmzj56jqz03fk8bshdgj69w966pv";
+  vendorHash = "0d0pbsk66glhd8phdjmvmq0iqmzj56jqz03fk8bshdgj69w966pv";
 
   meta = with lib; {
     homepage = "https://github.com/daveadams/go-rapture";

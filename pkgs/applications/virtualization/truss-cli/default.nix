@@ -16,7 +16,7 @@ buildGoModule rec {
 
   doCheck = false;
 
-  vendorSha256 = "sha256-9hV4gh6RHsPff9XsFyVybMc5QSe54ZPZjIrPL+HFVBs=";
+  vendorHash = "sha256-9hV4gh6RHsPff9XsFyVybMc5QSe54ZPZjIrPL+HFVBs=";
   ldflags = ["-s -w -X github.com/get-bridge/truss-cli/cmd.Version=${version}"];
 
   meta = with lib; {
