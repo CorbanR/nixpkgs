@@ -1,0 +1,9 @@
+StorePath: /nix/store/60k1mihdj2fr48b80g9ziplhak74y5m0-apple-framework-CoreServices-11.0.0.drv
+URL: nar/0s3svwbpkamy7wa4h2pvpahar0xpllcsn4ls4fyai5ps9yrqix6j.nar.xz
+Compression: xz
+FileHash: sha256:0s3svwbpkamy7wa4h2pvpahar0xpllcsn4ls4fyai5ps9yrqix6j
+FileSize: 1812
+NarHash: sha256:1jzwqzdia6wdlii15k86q7mwmc9zbxc3d5p68sw5zlsmbxpjsw9y
+NarSize: 5752
+References: 2py99219sqcb2g21zjgx5vgb25nawwhj-rewrite-tbd-unstable-2023-03-27.drv 2varlhppvnsxqz2b2138j454whwcvfpl-apple-framework-CoreFoundation-11.0.0.drv 6x6bvngbi39niblndlr0bf9ygac60ipj-apple-framework-CoreAudio-11.0.0.drv 8mja2yphp7m3fna1vilppl93mcshyhmh-apple-framework-CoreFoundation-11.0.0.drv 92pq21sd85b8cnqf8s9xaa2lf0czb8dn-apple-framework-ServiceManagement-11.0.0.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kzkv4g1p7rr7nd7vqdzq5zjb5gfy6sjz-MacOSX-SDK-11.0.0.drv m513kdb4zj062ydp131lq947fvj5k6lq-apple-framework-Security-11.0.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vr44rpr0047xknrqfhzlwfw6qdakn0fd-apple-framework-CFNetwork-11.0.0.drv wjdhc4lrcg2p90133fra7230dbfdgpxn-apple-framework-DiskArbitration-11.0.0.drv y4a327rync7f81k05dqj39mvmma950jr-apple-framework-NetFS-11.0.0.drv
+CA: text:sha256:1yrkq6ylwcmkhv1gdpn5yi5sbh69n69l34401j6vgycjrya07cq1

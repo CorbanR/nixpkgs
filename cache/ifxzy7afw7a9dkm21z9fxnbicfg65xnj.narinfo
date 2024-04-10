@@ -1,0 +1,9 @@
+StorePath: /nix/store/ifxzy7afw7a9dkm21z9fxnbicfg65xnj-sharutils-4.15.2.drv
+URL: nar/0lhhvnqhk6xij6353zcmhfh30r997dqci85g9q8wq2rcmil2f5xp.nar.xz
+Compression: xz
+FileHash: sha256:0lhhvnqhk6xij6353zcmhfh30r997dqci85g9q8wq2rcmil2f5xp
+FileSize: 1512
+NarHash: sha256:1z872m0c1wi2amrf53xmqwa8wmkiqhj05p2kgys39a8hmlmay11m
+NarSize: 3416
+References: 0yha3804n7j78fpcb0mkzznyqd1vw35x-gettext-0.21.1.drv 1xhgjgk5q6daqjcbjy0z8fkwsvrf444q-sharutils-4.15.2.tar.xz.drv abz13jsznzpvyfw4q91wxkagqx8sxdan-coreutils-9.4.drv hp0lni76ldl1509y5w32bp7bgck0dl3l-sharutils-4.15.2-Do-not-include-lib-md5.c-into-src-shar.c.patch.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv mh88fk4dx2pwzwa2z6s7jsfnzs296rqf-sharutils-4.15.2-Fix-building-with-GCC-10.patch.drv rp3h6bp7pn3ydsc539fchza5fbpa1ggp-01-fix-heap-buffer-overflow-cve-2018-1000097.patch.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv yl0kgnpg1fswlbpfhp15kavmd7j1afdd-02-fix-ftbfs-with-glibc-2.28.patch.drv
+CA: text:sha256:1azc63lcn3xlh0hrah2cr0jvh18i57fyjl16q1d1qricrcyq2z0b

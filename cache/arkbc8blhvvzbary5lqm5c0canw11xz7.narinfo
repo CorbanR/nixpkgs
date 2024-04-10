@@ -1,0 +1,9 @@
+StorePath: /nix/store/arkbc8blhvvzbary5lqm5c0canw11xz7-tzdata-2024a.drv
+URL: nar/0lkixy15s67jpjiygjzz7f8zk53137k4mapwcbfzdq0xk8pyldfk.nar.xz
+Compression: xz
+FileHash: sha256:0lkixy15s67jpjiygjzz7f8zk53137k4mapwcbfzdq0xk8pyldfk
+FileSize: 1636
+NarHash: sha256:0j13569fx8zfg6776nclwqpqwk059c77ji4nqp73slnl507sjkhm
+NarSize: 3840
+References: 0cvy2rjfmmknz32yh7dw4m90p07q6581-tzcode2024a.tar.gz.drv 3q9vpdf0bqlbqr3s867nisz8phx4c9kb-tzdata-setup-hook.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv p45im6jhaifhdfx097drh0v1alj8zghp-tzdata2024a.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh w98pydy8vbj8h3qc9w383ryivz4wqknk-bootstrap-stage3-stdenv-darwin.drv
+CA: text:sha256:1002csb26fgbbm73nrflgc8iix7m1dnnlp0lwpjlnyl32c2p2d83

@@ -1,9 +1,0 @@
-StorePath: /nix/store/slcsv81r1ygkg7rm2l048bk1ywahis6d-groff-1.23.0.drv
-URL: nar/0ydm2js2bxnv19pwysl7plslz1nz79bfv2p6bmxjxa6dxx8dh5c1.nar.xz
-Compression: xz
-FileHash: sha256:0ydm2js2bxnv19pwysl7plslz1nz79bfv2p6bmxjxa6dxx8dh5c1
-FileSize: 1808
-NarHash: sha256:0dz5pfbwz67sp5jbk1mannwxbr2yc5gbxr8k118565rfzhqqr5mp
-NarSize: 4728
-References: 4m7rgji50w2j9w09a3kzdgix27kr0cl0-groff-1.23.0.tar.gz.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh b2q065860syhm668gd5zvydshis7dilj-perl-5.38.0.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv lz0ih9cdc2kijz916pixv6alplmgl71y-texinfo-7.0.3.drv nsqsj7kmvyg9jw3anflhipq1v6df7cmr-bootstrap-stage1-stdenv-darwin.drv wb7clyvk9lsr4rkay1l8bqixpri7vx5k-site.tmac wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv wy81ax2nq440a9gjsgbf8cmzrkvbh0lj-autoreconf-hook.drv yha5cfc812n0lj8f89r3vzi3z1yk2xaa-pkg-config-wrapper-0.29.2.drv
-CA: text:sha256:0nw1hfajyc0qm883dqvc0y74xkp1yi0k6d2fblxwh121147lr2jx

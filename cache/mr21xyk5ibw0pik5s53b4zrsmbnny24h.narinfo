@@ -1,9 +1,0 @@
-StorePath: /nix/store/mr21xyk5ibw0pik5s53b4zrsmbnny24h-memstream-hook.drv
-URL: nar/0w36x5aas28k60b0la4i7dkl2v1ajkxcbaj8lljbx1jrwn5id0ys.nar.xz
-Compression: xz
-FileHash: sha256:0w36x5aas28k60b0la4i7dkl2v1ajkxcbaj8lljbx1jrwn5id0ys
-FileSize: 932
-NarHash: sha256:11pn2syc1qss122x6y3s1hy1gzc9rr05sfg7zdqzd0grkrsy9rpc
-NarSize: 2128
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv jzwqkk0jlgahb7c90xwbimmx1qsi7dq1-bootstrap-stage2-CF-stdenv-darwin.drv na8cshqi7dq7c2536wm6fin1614kda3c-memstream-0.1.drv ys26rcfbfnbgwxagg4fj68g8yq0mmssq-setup-hook.sh
-CA: text:sha256:017zbfbi5w01ydwbzxbpn8b65l87bai9swbdlcgn611n6bf1wnjm

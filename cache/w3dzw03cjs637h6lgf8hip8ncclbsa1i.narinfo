@@ -1,9 +1,0 @@
-StorePath: /nix/store/w3dzw03cjs637h6lgf8hip8ncclbsa1i-gettext-0.21.1.drv
-URL: nar/0v2bfixnfspp1vr3dqh4l4g7m6wsby98bz51n8zinavkk4vii6ai.nar.xz
-Compression: xz
-FileHash: sha256:0v2bfixnfspp1vr3dqh4l4g7m6wsby98bz51n8zinavkk4vii6ai
-FileSize: 1408
-NarHash: sha256:0kb5kipi3lz5wmh1wy6jbkybapi4z40xrvnlz78z2i6kv2ghab8l
-NarSize: 3440
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh g4f9r0cc5ds1vyzk1w7i3ys6dl2r0lpl-xz-5.4.4.drv gl5xq1gn7zysbynidsx30i22ag936cpb-gettext-0.21.1.tar.gz.drv ny42y6hs4p294rvnrwbmrpwzqghw2816-gettext-setup-hook.sh p2fp6i7hjx9af1wbwr32k217wp2dxmiw-absolute-paths.diff p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv v9034cqc4h5bm10z4vz3n1q2n55grv5y-role.bash yqwx9yln5i68nw61mmp9gz066yz3ri99-0001-msginit-Do-not-use-POT-Creation-Date.patch
-CA: text:sha256:0vdyj68ca0dqynrgqqvk1vz88r5pf9aszgllrg3frp20dyc16zsn

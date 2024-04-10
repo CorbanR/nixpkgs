@@ -1,0 +1,9 @@
+StorePath: /nix/store/v38ddr78lh6sv7yxbgwjb83f7pmh4pml-apple-framework-Combine-11.0.0.drv
+URL: nar/0bz8fd4fagn4arkb28s2lvi0h0s3ac06kyr9i8i1ims63dz7idsy.nar.xz
+Compression: xz
+FileHash: sha256:0bz8fd4fagn4arkb28s2lvi0h0s3ac06kyr9i8i1ims63dz7idsy
+FileSize: 1240
+NarHash: sha256:124mcwq9yk40myfsap73sj7cvyirvdfw3hgkni28j2b7ga027hva
+NarSize: 3144
+References: 2py99219sqcb2g21zjgx5vgb25nawwhj-rewrite-tbd-unstable-2023-03-27.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kzkv4g1p7rr7nd7vqdzq5zjb5gfy6sjz-MacOSX-SDK-11.0.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1m42dj26wf3039rr81bjia556ywajdas8py16c2f9v774j8kjz2r

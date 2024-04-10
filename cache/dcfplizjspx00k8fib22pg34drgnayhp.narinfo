@@ -1,0 +1,9 @@
+StorePath: /nix/store/dcfplizjspx00k8fib22pg34drgnayhp-sqlite-3.45.2.drv
+URL: nar/0szq086m6s68chycgqaqn2777nl98kqxr88hwgi90dyzpdp31cp1.nar.xz
+Compression: xz
+FileHash: sha256:0szq086m6s68chycgqaqn2777nl98kqxr88hwgi90dyzpdp31cp1
+FileSize: 1648
+NarHash: sha256:19m6vlrz7xfi9ylqcqsgbp04s1z5hy6yg74b2vim6my7cxmb2lh9
+NarSize: 4232
+References: b5m5diafkvsiw4ggyz4qn5f4fp2pwnkm-sqlite-autoconf-3450200.tar.gz.drv dbpslq9v4n3hrqphxpbf2a4smhggd2am-zlib-1.3.1.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:0ghgz62h4144036hylady09g1hbxm6cj6pmmpl5i6fgd1kqrq42a

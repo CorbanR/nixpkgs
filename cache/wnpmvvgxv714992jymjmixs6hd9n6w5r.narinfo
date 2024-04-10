@@ -1,0 +1,9 @@
+StorePath: /nix/store/wnpmvvgxv714992jymjmixs6hd9n6w5r-Libc-1158.50.2.drv
+URL: nar/0yfa0dlpibfsyd1kryq40vs3cplpzfn98wpfnp4ski8x3dfqndvz.nar.xz
+Compression: xz
+FileHash: sha256:0yfa0dlpibfsyd1kryq40vs3cplpzfn98wpfnp4ski8x3dfqndvz
+FileSize: 2120
+NarHash: sha256:17scp4mmcl908mxmq9z7ihsdrmvxqva1vvyywvwg9wap7qz5hgjc
+NarSize: 5112
+References: 07csm7qk00ihhywkzhlkbk9p16pj2ivr-Libc-1158.50.2.tar.gz.drv 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv 58silbas0pxa5ij9jd9aszvrh0n8nx6i-0001-Define-TARGET_OS_EMBEDDED-in-std-lib-io-if-not-defin.patch 9579n5rvckzq3y5aik21l3mwk6j477wa-bootstrap-stage1-sysctl-stdenv-darwin.drv bpsm4v4fyiym76v24zf0v997rij8l819-unifdef-2.12.drv px07aw1cj7198pya1wd6z5x8rpnx2dif-ed-1.20.1.drv qa3cmsm2qmplgq34301kfz17l15zknbz-CrashReporterClient.h v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v80gdzrjzba15gcfk00ahwsa9vrzy6s4-source.drv
+CA: text:sha256:1ig3777drd6mvd525a4mbszwhpqxq4xvbq762ymp770ah5mym4iq

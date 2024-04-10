@@ -1,9 +1,0 @@
-StorePath: /nix/store/dy09fy1srnz2y84r2g2ia134s0ympijl-lld-11.1.0.drv
-URL: nar/07fcra4iyi2j000jrywghipx0qjp235pvxby7ap8rrcdmns61ffq.nar.xz
-Compression: xz
-FileHash: sha256:07fcra4iyi2j000jrywghipx0qjp235pvxby7ap8rrcdmns61ffq
-FileSize: 1188
-NarHash: sha256:1xdq4zvdakxskf2zsga1vgr1rjwm09854yr912xgffz32m2g69g6
-NarSize: 2776
-References: 00519fw2lzh5jwazgizirz575h8rvn6a-lld-11.1.0.src.tar.xz.drv 23q4bqmy97d2qhcinp9zg2m7k31jmgxy-libxml2-2.11.5.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv 9spy5c2jm34m6shbq1qwrwrmkqykmclv-bootstrap-stage2-CF-stdenv-darwin.drv ggma1lqzlgwsv1biaw0zqx6mvilk4h81-cmake-boot-3.26.4.drv j9qwx6lmzb3qh9ic8ip106p4wsjxd03x-llvm-11.1.0.drv v3p7rmc9r5qwzvxsm6gq779dmw26i9qb-gnu-install-dirs.patch
-CA: text:sha256:1xlxq2s9r6f9fh5vi9inp01y219fyva08qs7386ra3hbdn9bp818

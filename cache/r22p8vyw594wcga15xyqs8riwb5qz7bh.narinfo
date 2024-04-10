@@ -1,0 +1,9 @@
+StorePath: /nix/store/r22p8vyw594wcga15xyqs8riwb5qz7bh-xar-1.6.1.drv
+URL: nar/19yndbl0vkk9x348grgjhaaxyhw1wib7fabh4cd7ww3qyzhhldx1.nar.xz
+Compression: xz
+FileHash: sha256:19yndbl0vkk9x348grgjhaaxyhw1wib7fabh4cd7ww3qyzhhldx1
+FileSize: 1488
+NarHash: sha256:04gmc594kg3kz2zxw55k8ab2bhbcxlla4ib6vfm3ca5g7afhjxnf
+NarSize: 3288
+References: 3jjd65b6nyg7g30ixszjcsgb08j5mmhn-0001-Add-useless-descriptions-to-AC_DEFINE.patch 3vm6v9li75vfly3zw0pnqn98246h49n2-bzip2-1.0.8.drv 6glzb8y4s0d3qgm18b0hxx70m4ig6m52-xar-1.6.1.tar.gz.drv 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv av97mgizry68zs3764abq7lxh97rs7vl-autoreconf-hook.drv j3frsgc0zsrg2pg7w9pqmxjh6qd01aqs-0002-Use-pkg-config-for-libxml2.patch nmgblikv5fnydsy5jg3rhy7g101vvmh0-pkg-config-wrapper-0.29.2.drv nwldz574yq75p9k29s13giw0i5nrgpgx-openssl-3.0.13.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vfh501jlb356kilr2zcsdhkfrd2cdx2i-xz-5.4.6.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv xdyabdxqf6r3af9qngmcrxkkkpwyxj5a-zlib-1.3.1.drv zkbh58ar2d4i1qmy5nf0wbx1aqk0f8mb-libxml2-2.12.6.drv
+CA: text:sha256:0vqh3q3gk6ba1lkm7jbs9ipyrwjj5r85l7bnzr68d4dngvchxxml

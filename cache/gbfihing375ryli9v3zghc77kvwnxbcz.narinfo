@@ -1,0 +1,9 @@
+StorePath: /nix/store/gbfihing375ryli9v3zghc77kvwnxbcz-apple-framework-CoreMIDI.drv
+URL: nar/0rb0nwvjpg9a4rlh047armzhr20lz6vf9g6dhm67sygp86birri4.nar.xz
+Compression: xz
+FileHash: sha256:0rb0nwvjpg9a4rlh047armzhr20lz6vf9g6dhm67sygp86birri4
+FileSize: 1988
+NarHash: sha256:162ak19n8xb0y6nbdb6cjq5h691yz4zsfb3d10byjcyyncawn0ni
+NarSize: 6184
+References: 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv ihxi1pqa05vwlj8v5nicmifz3233gqnd-print-reexports.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv ysdarccdh2vf1fnkczhlmrqaqxq1ck96-MacOS_SDK-10.12.drv
+CA: text:sha256:1bds1ss1wm1p3ggz3hlp7q2vgvqpygbb7dq9j3b1r57lm77jppav

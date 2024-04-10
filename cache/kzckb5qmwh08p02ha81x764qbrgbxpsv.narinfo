@@ -1,0 +1,9 @@
+StorePath: /nix/store/kzckb5qmwh08p02ha81x764qbrgbxpsv-llvm-16.0.6.drv
+URL: nar/0nw317bnai4dw6a26hvh4cv13rdybp41nfg0a6v4dly92v92m8pn.nar.xz
+Compression: xz
+FileHash: sha256:0nw317bnai4dw6a26hvh4cv13rdybp41nfg0a6v4dly92v92m8pn
+FileSize: 4368
+NarHash: sha256:0y4i2nhsmw0jkaz9s6f3yzn51b5r07kgzxki7vaqzrzd3bgbbvpn
+NarSize: 10440
+References: 2ims4p5chhyqv0y44nssjbwv1454nrqj-libffi-3.4.6.drv 5j9ci9whzlpwmlka08gspfqnw4mnlapf-ninja-1.11.1.drv 8ca08sz0sz6pqfna36y09wa3zgmz34g9-ncurses-6.4.drv 9n1ra2lsgigni16j00nhh2v0zfrq4mwi-libxml2-2.12.6.drv cf81k34hxdj4hnwpmm7v9z8jpn9mj2h5-gnu-install-dirs.patch dbpslq9v4n3hrqphxpbf2a4smhggd2am-zlib-1.3.1.drv fz3v80xsb49pnj0va588vg40z4vpjpwr-python3-3.11.8-env.drv gr73nf6sca9nyzl88x58y3qxrav04yhd-polly-lit-cfg-add-libs-to-dylib-path.patch hm50q3vmqy5kfxndh0m33aimcvbmzzzb-sysctl-system_cmds-970.0.4.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv im7l02rz1nbnyp9a4cxn3s198fw2kw7s-which-2.21.drv jasdgvnh3ry8vq2b7dlacw9pnq7jx9j4-DarwinTools-1.drv lzwpi2h5bwgjl91d7csfcm5vvrz88bf9-lit-shell-script-runner-set-dyld-library-path.patch pypqb574a0qipwj1941p342xcma7lah3-cmake-minimal-3.28.3.drv rcdzyb4rkml4hhjdg3xbscipaz94v3jk-gnu-install-dirs-polly.patch syssfm9j83s7hlyhxgsn7bn2lbkh5rdz-llvm-lit-cfg-add-libs-to-dylib-path.patch v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh w98pydy8vbj8h3qc9w383ryivz4wqknk-bootstrap-stage3-stdenv-darwin.drv y1ifxxwpjn7ggwg3lk6ncbmcakfpn57z-llvm-src-16.0.6.drv
+CA: text:sha256:0sdrs1vcmpxzml3x9mr01ld3rqwkawk9wvc9fz1k1rzcgpy7mabm

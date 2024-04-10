@@ -1,9 +1,0 @@
-StorePath: /nix/store/cw1ky8sk02mqndf20rriljxhf3jrca0f-python3.10-editables-0.3.drv
-URL: nar/1k0sjpjvib69s7j6kgmlqh4qqbp33z5693vbd5j0a9yh6cf27g70.nar.xz
-Compression: xz
-FileHash: sha256:1k0sjpjvib69s7j6kgmlqh4qqbp33z5693vbd5j0a9yh6cf27g70
-FileSize: 1528
-NarHash: sha256:0v1hc6jll8ys9f9i986a5ilc0890gicmw8azrkrrjpigpdv6p3a0
-NarSize: 3600
-References: 13cyxa5v1syj13xmzsccs0s9bq98gxcg-python-remove-tests-dir-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 762qm62g5kf1iwgmxcj4xcd31w426qzb-pypa-install-hook.drv 9ch8hyg0zjccvav10pmrs92a7lkswmrl-python-remove-bin-bytecode-hook.drv 9xwap8ahnx63rf4zarw1c702vhj9r3hd-setuptools-setup-hook.drv dli1sw8mp5kh8ic29rswaglf3kvmim5c-python-imports-check-hook.sh.drv fbyjcpdqv92z8fc85plz3m6j4f0m2jv2-python3-3.10.12.drv ipxz7lkjp6jjr6xkcvz33jal354154gh-wrap-python-hook.drv kxlpr3barrd5fsmd9izn7cmj9xmzf4bg-python-namespaces-hook.sh.drv lgrgah0h6znka9yjxnwfgyjxlc7w2jhx-editables-0.3.tar.gz.drv nyg3d3s05ljvsyk1sbrdsax01fl7dwgn-python-catch-conflicts-hook.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv wmcf492qb380drizrhjnzzdhlczykfr8-python-output-dist-hook.drv yrb198d2sygj8f2hcraprfkxjxfx5j3z-ensure-newer-sources-hook.drv
-CA: text:sha256:16kkcf1qr653a2ci4pfxipwkg501z53n041h2fzpaq01wz6m8r70

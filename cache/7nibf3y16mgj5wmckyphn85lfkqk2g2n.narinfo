@@ -1,0 +1,9 @@
+StorePath: /nix/store/7nibf3y16mgj5wmckyphn85lfkqk2g2n-DarwinTools-1.tar.gz.drv
+URL: nar/0y7jlspcjrh9czldr9yhd7ny3mmplxjzspbg40r80m1hf1cxk9q0.nar.xz
+Compression: xz
+FileHash: sha256:0y7jlspcjrh9czldr9yhd7ny3mmplxjzspbg40r80m1hf1cxk9q0
+FileSize: 1480
+NarHash: sha256:1pc49n6igw9gdlnqkgvcav9qgjhndxgwbllk005xj339hxq72k7l
+NarSize: 3432
+References: 5w0vc855d00nrifm3vkmh37qsn58dgav-curl-8.6.0.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv sd1k3yj1bkaznkw4j7hqnm1psg6c74av-mirrors-list.drv
+CA: text:sha256:1kc202wr50qn4vcxh6gcph78x9xb79nf00bc1swf3l3kkq6a02f3

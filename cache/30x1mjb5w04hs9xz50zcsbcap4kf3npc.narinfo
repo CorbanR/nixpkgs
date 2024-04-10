@@ -1,9 +1,0 @@
-StorePath: /nix/store/30x1mjb5w04hs9xz50zcsbcap4kf3npc-curl-8.3.0.drv
-URL: nar/0h1w1w84j60n707xaj2x04x9s3yyssqsydadpy81xs3jh2c8cggm.nar.xz
-Compression: xz
-FileHash: sha256:0h1w1w84j60n707xaj2x04x9s3yyssqsydadpy81xs3jh2c8cggm
-FileSize: 2120
-NarHash: sha256:0il1i4fpw3m408kmnp1q65kdjrsb9d148bpsich77mzwkwg28ljy
-NarSize: 5240
-References: 08pgrn7wfy4z9zrm07hw61lh84620s4p-libssh2-1.11.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv b2q065860syhm668gd5zvydshis7dilj-perl-5.38.0.drv dlvbkybqip684mysf1x44nnsci6cpn7x-libkrb5-1.20.1.drv iv6w72z0jkfspfhd8f3hviai8gk5w3l9-libidn2-2.3.4.drv j0vg5hbcnp2yy132nr551w812whh9b19-zstd-1.5.5.drv mhww6j97j9qvz5g9kkc2dgyz6gw8792v-nghttp2-1.54.0.drv n64y6zff0sdzq4l3gy75qd4di7c3slmm-zlib-1.3.drv qbdh1s26a8gq8krspcsd0alzf8bpglir-7.79.1-darwin-no-systemconfiguration.patch qdls3lrdm21z9grfmdrnjkcwzmqhavav-brotli-1.1.0.drv r22pxsixr7120fv0k28n2mdqp4lzcik8-bootstrap-stage4-stdenv-darwin.drv xrj978dwi49y3cqmsap4ichbxajzk6gr-curl-8.3.0.tar.xz.drv yha5cfc812n0lj8f89r3vzi3z1yk2xaa-pkg-config-wrapper-0.29.2.drv yxqx1vh5dgkc6l5qqmdk5bsmi88a12ms-openssl-3.0.10.drv
-CA: text:sha256:049nrmyskvmjxv74hx1833i2llj976wqn629ni1wfavhbkgdijgk

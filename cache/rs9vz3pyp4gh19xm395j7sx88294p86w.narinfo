@@ -1,9 +1,0 @@
-StorePath: /nix/store/rs9vz3pyp4gh19xm395j7sx88294p86w-unbound-1.18.0.drv
-URL: nar/1ys9nf3kar68pm323ii2d1wvy7k97m8ilvwj9mvjgglwfclshyrx.nar.xz
-Compression: xz
-FileHash: sha256:1ys9nf3kar68pm323ii2d1wvy7k97m8ilvwj9mvjgglwfclshyrx
-FileSize: 1972
-NarHash: sha256:1wny2d8njqdccgzwdagp708rd93xwzni6lyip99xf0na4npzajn8
-NarSize: 5352
-References: 5gi4w3na59n6man7x4gizcadsncf7n8s-bison-3.8.2.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 6zdl7x8hdldmyzfr9a8mvwvzq416irsl-pkg-config-wrapper-0.29.2.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv ac9635ay4rllkx5w3blfb3h6nnj1b1ri-nettle-3.9.1.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv d0q0mlla854vg1b1lcnfdkasfzdppyc1-dns-root-data-2019-01-11.drv g62d03qvdy72i4q36xmlndl3sgam3kp7-unbound-1.18.0.tar.gz.drv k9aams8dxdnfy7x9j0yc32ysrjz1wmjx-expat-2.5.0.drv ldhwi6haib93chi8igw6wx1fy8c2hznk-make-shell-wrapper-hook.drv wcy9gvcdqn1kvaxyv3gj86kss9fc8gw8-libevent-2.1.12.drv yxqx1vh5dgkc6l5qqmdk5bsmi88a12ms-openssl-3.0.10.drv
-CA: text:sha256:0h6yxvw2nj3s1l8zngjizfwpn36y7kb0b2523j79qnzi7w5ay19g

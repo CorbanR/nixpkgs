@@ -1,9 +1,0 @@
-StorePath: /nix/store/y6kgq2whq4cg87w45ha2x0m2ndljqn94-perl-5.38.0.drv
-URL: nar/0xqv8051a55j4xdfd79awijnc8iimjng7qlm3xzi0bvgl4j5bdwd.nar.xz
-Compression: xz
-FileHash: sha256:0xqv8051a55j4xdfd79awijnc8iimjng7qlm3xzi0bvgl4j5bdwd
-FileSize: 2040
-NarHash: sha256:0lm34rr03m0vpnb8ywafflgy4p2bafi7l4cc42wr3jyibdsn1abr
-NarSize: 4736
-References: 4m68vp89kj5fc1s8vsvjcpnbkinl166y-perl-5.38.0.tar.gz.drv 55lbvcqz3z97jcqf2zxqwav58wq52z8l-no-sys-dirs-5.38.0.patch 66glv40s5l2a08zyd2bbsig2zirc98s9-gcc-12.3.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh azax4isp5al7xw03n3sabylvh8x277g5-gcc-wrapper-12.3.0.drv dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh i38iknfjrrmq3xmn4b7kk5xni1f6vm9p-libxcrypt-4.4.36.drv kvvbjlfz5jywnx961aypc86r4rpv2plr-glibc-2.37-8.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv znd2jpwvs913wjny0zag97rp1wz3zrjk-zlib-1.3.drv
-CA: text:sha256:0590ly208zrkxwkvvyw7lnqiapdxpdhs119mjwbv4qjpidaqmlbc

@@ -1,9 +1,0 @@
-StorePath: /nix/store/97nba3by416pmqszz8bkfq91y5ji75dv-git-minimal-2.42.0.drv
-URL: nar/00hd40rv71lnc9x19kyx6r2s1aifzv6afxh6hwasa2pd6s35xyr7.nar.xz
-Compression: xz
-FileHash: sha256:00hd40rv71lnc9x19kyx6r2s1aifzv6afxh6hwasa2pd6s35xyr7
-FileSize: 4612
-NarHash: sha256:0kd55n0wafpg502n2r0i8b0s8s2yy052f2xp35v3nhi001q08y20
-NarSize: 11264
-References: 2fcip1b6qjvnvw3z91hnqy55nni37f4r-gettext-0.21.1.drv 30x1mjb5w04hs9xz50zcsbcap4kf3npc-curl-8.3.0.drv 4fv6y5ah6k4r8nfff5dn69p7ry6z4g2a-cpio-2.14.drv 4hb322d8x57sxk2wrjj77snhgblqbdb9-git-2.42.0.tar.xz.drv 559ajlir5yfj4rbs7165piq57h9ir5pd-installCheck-path.patch 62y3j90r2bvrw0q2z1qxv1shkxkffras-gawk-5.2.2.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 6zdl7x8hdldmyzfr9a8mvwvzq416irsl-pkg-config-wrapper-0.29.2.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv hwqxbrq2r8kp6h3ccl04rh9g40gk2vgg-apple-framework-CoreServices.drv j6vpikcvv4ry0pwalvpz1m65k2wckavl-docbook2texi.patch k4vg03m2fbf03d5l2zir4cjkmr0hwq44-gnused-4.9.drv k9aams8dxdnfy7x9j0yc32ysrjz1wmjx-expat-2.5.0.drv khf1qm2gppz8lb45lx2kp91xknmrcrl1-git-send-email-honor-PATH.patch ldhwi6haib93chi8igw6wx1fy8c2hznk-make-shell-wrapper-hook.drv n64y6zff0sdzq4l3gy75qd4di7c3slmm-zlib-1.3.drv pwiwfvnq3wibx1bxgzb2pri2xpz7wg30-libiconv-50.drv q8n5narmzpckbp85rk57xv0q5156fizz-gnugrep-3.11.drv rbj14pz3dsz21hvbp80px3f2zbapfxra-coreutils-9.3.drv szz76xqzbb3i6fdyna5j9hqk1bj6mzhv-perl-5.38.0.drv war9br20m50w468261dryl2ap26f3a0q-apple-framework-Security.drv xprdd33cnqprwk19lxi57h907fz7xic2-git-sh-i18n.patch yxqx1vh5dgkc6l5qqmdk5bsmi88a12ms-openssl-3.0.10.drv
-CA: text:sha256:125na5hq815kbdifrzcmscaixcv53rwr7c0pv56cns4iv11dqhp7

@@ -1,9 +1,0 @@
-StorePath: /nix/store/6v82wg9401iq3xyzdd521h8qzqpm0z2q-pypa-build-hook.sh.drv
-URL: nar/12y0nh9p9z94k2gdpc8j6vxnpgzqjdpkb438wk92ylm4dz4yily5.nar.xz
-Compression: xz
-FileHash: sha256:12y0nh9p9z94k2gdpc8j6vxnpgzqjdpkb438wk92ylm4dz4yily5
-FileSize: 1028
-NarHash: sha256:17yn4gwi5rqza6m55yrzalk9g26ki4bwmfqkvzsbgiz96ndr2lz1
-NarSize: 2448
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh hbynvv2770avphlyi2f6bdqvqs8qifhx-pypa-build-hook.sh l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv mgz64lz144ajizlf3gylich35nmb7xzj-bootstrap-stage1-sysctl-stdenv-darwin.drv r2rb0bp1m02yg1dls5l9577mf59n1dbr-python3.10-wheel-0.41.1.drv sgm5lmys6p5i52wrd5wf48bysq30g7l4-python3.10-build-0.10.0.drv
-CA: text:sha256:0rqwgx7nirmf7i785pxv78q03pbacm8n01as0m4jzg0s7269kzmz

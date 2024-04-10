@@ -1,0 +1,9 @@
+StorePath: /nix/store/jmp1awmbs8sjcp7nvv5r050nmmrzmqga-gcc-13.2.0.drv
+URL: nar/09a8nw21hmk1ak16wjimdjzrp1a9n0bpkcjrxdqajqma4spl5qkf.nar.xz
+Compression: xz
+FileHash: sha256:09a8nw21hmk1ak16wjimdjzrp1a9n0bpkcjrxdqajqma4spl5qkf
+FileSize: 6308
+NarHash: sha256:186kyfdin57qb1bpdi8l4lk8l1cnqdwvg1hfvidyabhizs8f4lic
+NarSize: 19688
+References: 0y1r5x8nm7ccyhgi7fiwbay8p6b8n2rr-bash-5.2p26.drv 1570hxsb9cjybz4vybqbfzkimd5c6k6a-perl-5.38.2.drv 2z83ybky63vznh609m0p31fbvf79ymai-nuke-references.drv 632b0y5mkcdwbsw2g3xh5qznw2vv5axr-ppc-musl.patch 7x6bimj6ipi6ag859gi2fc6by87x37j7-no-sys-dirs-riscv.patch 9577hmdlmhki67cg8ar85cvidyg7xr7p-gcc-12-no-sys-dirs.patch axz0mzl03rnyvyghcl3jwghcq1pyf6kj-texinfo-7.0.3.drv g1sn1rmgwdl4s2xymw7zxflzx6y9y0fm-ICE-PR110280.patch gvnv5whqqsqv7p4mm1jk355a38r6f9k3-libmpc-1.3.1.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv hbvydflpm13bf794sgl9q8camp9mdpyx-which-2.21.drv j0j9yl69hnf9q51w9qpr24lscsq7k81c-gcc-13.2.0.tar.xz.drv ja673f47sh9b2q518mjgn36lc8bssky9-zlib-1.3.1.drv k0r4cz3py5pdvf51m4v7yj08bcs364zr-bootstrap-stage3-stdenv-linux.drv kwbaf5qrl3lzavpdxmv85gb2flvnycpc-gettext-0.21.1.drv kz4d98imalngbpmxcjlmjhgvv8y4h8b1-libxcrypt-4.4.36.drv rcfhmxw0d3j356s2j3ry1hxiz638q4qd-bootstrap-stage3-gcc-wrapper-13.2.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vrrfhj52mzzcczfzwf3zssgq13lmi2k5-isl-0.20.drv w6daagc5hj4apggp6gcjw16l53jbhxyi-gmp-6.3.0.drv whqr60qmw5mrmianp9330xwy3swbjcvs-mpfr-4.2.1.drv wzjbyqr1c3clnkxwk4jvfx38plm4qxig-patchelf-0.15.0.drv xpplvxiwb4li2qd5nvhyd2mngrpna0ya-mangle-NIX_STORE-in-__FILE__.patch zg20m2pa78407kihcn901xi0asqa49n7-binutils-patchelfed-ld-wrapper-2.41.drv zib7y8ps3vk3c6qxh74qyxs108620y9z-glibc-2.39-5.drv
+CA: text:sha256:05n08xalqf3pgw1wvvc0r59jsbcs8dj350p8249yy30bkyvlkf2l

@@ -1,0 +1,9 @@
+StorePath: /nix/store/fn2ryknvx826bz5b16kc9kd51ay6n63h-cargo-nightly-x86_64-apple-darwin.tar.xz.drv
+URL: nar/0q33qwsqd215i8i5qayff746f1x4xzz36b1sxa5znk0s2jn543ss.nar.xz
+Compression: xz
+FileHash: sha256:0q33qwsqd215i8i5qayff746f1x4xzz36b1sxa5znk0s2jn543ss
+FileSize: 1468
+NarHash: sha256:1m2j4r7fp2xq5p1sjnki2xdkbss48nq94d00dxp72sf75ll0gzwg
+NarSize: 3480
+References: 5w0vc855d00nrifm3vkmh37qsn58dgav-curl-8.6.0.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv sd1k3yj1bkaznkw4j7hqnm1psg6c74av-mirrors-list.drv
+CA: text:sha256:0xbs59n3iszksfh8mnn55cyp0138vhq3zc8iygkxlxcyjgmq2w3x

@@ -1,0 +1,9 @@
+StorePath: /nix/store/082zlg52mh706qhz2z6xw4l427910mi8-Test-NoWarnings-1.06.tar.gz.drv
+URL: nar/0sf8vf25n3cg45ld7qmvgv5jp1a0a31y605xgqpsmq0pq0axnw47.nar.xz
+Compression: xz
+FileHash: sha256:0sf8vf25n3cg45ld7qmvgv5jp1a0a31y605xgqpsmq0pq0axnw47
+FileSize: 1456
+NarHash: sha256:0c8gm9v725z0qcbd3skgdd7kzcs7bjwaih338b0fa0fih04iajhb
+NarSize: 3400
+References: 5w0vc855d00nrifm3vkmh37qsn58dgav-curl-8.6.0.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv sd1k3yj1bkaznkw4j7hqnm1psg6c74av-mirrors-list.drv
+CA: text:sha256:0yhybf6khcjy4a313af12p6x40w13mz33z6b44pl6az49xan6i98

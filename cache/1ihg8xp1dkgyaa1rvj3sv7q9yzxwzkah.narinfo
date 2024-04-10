@@ -1,0 +1,9 @@
+StorePath: /nix/store/1ihg8xp1dkgyaa1rvj3sv7q9yzxwzkah-libmalloc-116.50.8.drv
+URL: nar/1agdsls9hb9jhjzwcas1ly7ml6gyxia0v7crrdl6lxnya2mfn6yb.nar.xz
+Compression: xz
+FileHash: sha256:1agdsls9hb9jhjzwcas1ly7ml6gyxia0v7crrdl6lxnya2mfn6yb
+FileSize: 1124
+NarHash: sha256:071smz6jcp3snnw3nb42m4k9rxm3rixs058gl8cijwqkinjk8k0x
+NarSize: 2480
+References: 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv 9kdrf3vlzzs0xk8q0n6dpr0mwdmsqimb-libmalloc-116.50.8.tar.gz.drv pvyk43zzyf1m8bi93n67liygpkzl074j-bootstrap-stage2-Libsystem-stdenv-darwin.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:01ly117vwhsx4w17nmlga6p3kqflgz7843nkmjh35yx7g0h1hhc7

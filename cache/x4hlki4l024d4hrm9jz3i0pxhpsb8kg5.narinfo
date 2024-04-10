@@ -1,0 +1,9 @@
+StorePath: /nix/store/x4hlki4l024d4hrm9jz3i0pxhpsb8kg5-serf-1.3.10.drv
+URL: nar/0q35531pfz58vvcfclsz77xgdw3ca6yaysfrx8i8g3lcp0bm5ilj.nar.xz
+Compression: xz
+FileHash: sha256:0q35531pfz58vvcfclsz77xgdw3ca6yaysfrx8i8g3lcp0bm5ilj
+FileSize: 1660
+NarHash: sha256:1v6yvppn2khrb6d0mz1rnkpngqdl7mi54v586kdhdpnc3bcrsryg
+NarSize: 3896
+References: 017gk8lndb3x42vn11ykjr9l6nbj8pgp-apr-util-1.6.3.drv 4qsqby3adj17x5ml6pdwdlisfxv0kgia-scons.patch 6dgis3rka2gj6bw27pnlwmzwc061px9j-libserf-1.3.9-errgetfunc.patch.drv 83adchnqgrwyrdh1phsrl4j43v3gwp8y-libkrb5-1.21.2.drv 9zlzfsbx4xkq5yf35kh7s0brvy3kf80d-scons-4.5.2.drv b7gwzg0g1nmhmfgf27z69jqaqrvagbxs-libiconv-50.drv d33lm37ch6kvgikn6snpbidwhn2z13br-openssl-3.0.13.drv dbpslq9v4n3hrqphxpbf2a4smhggd2am-zlib-1.3.1.drv fap69i7cp9lbnn1a0h6f456rc13326am-apr-1.7.4.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh x53pwcgq3wqsxzf8cr9ywia2zh5s6h63-pkg-config-wrapper-0.29.2.drv y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv yh1rwavj4gybh487r0301sp6in5bv7gy-serf-1.3.10.tar.bz2.drv
+CA: text:sha256:0m54ypv5mbpr1rvxn5xr4n6vcdx798zb8m3x6nsr34484nc9zp72

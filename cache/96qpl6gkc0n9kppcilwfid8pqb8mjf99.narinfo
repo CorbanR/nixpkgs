@@ -1,9 +1,0 @@
-StorePath: /nix/store/96qpl6gkc0n9kppcilwfid8pqb8mjf99-python3.10-flit-core-3.9.0.drv
-URL: nar/1advmkz4bd2b1d43cw9x61jii6153v15z598yyr1mvhzplywhgz9.nar.xz
-Compression: xz
-FileHash: sha256:1advmkz4bd2b1d43cw9x61jii6153v15z598yyr1mvhzplywhgz9
-FileSize: 1576
-NarHash: sha256:15ja4vrs9a6wlrr6as8hhsrna2c74j8vibwxllgn6s00zpw68v4x
-NarSize: 3688
-References: 3glqljk20iyhnzr5sz30k3p5gfj07r0v-python-remove-tests-dir-hook.drv 4gs2zap1s6lpvn9gd6lwj5yriafy8sxh-python3-3.10.12.drv 569ckkgdw05ayxxlvf0xdqw6kcdpj6fa-wrap-python-hook.drv 64spj723i0aflvkwff0vc625bh880nxz-python-remove-bin-bytecode-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 74bbh0a9r8z10nggds7jg9danvp17s4n-source.drv 8sw6wgkdgd3rna2s483dhshg284qqqgm-python-namespaces-hook.sh.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv ff3wm8g3iwvrz811i1diyz11kqdnahxc-pypa-install-hook.drv pgv9c923jyjl2vsp7qlmmylglh09y4xx-python-output-dist-hook.drv pqg1r9r71h1b1qdlsh0klq2pb41xb1mv-ensure-newer-sources-hook.drv v9ij02aqnhsdapdw6b36h1y6spv49hkb-python-imports-check-hook.sh.drv vjcj87h3jmd5h9y8zbbxfbav47mg6x7l-pypa-build-hook.sh.drv
-CA: text:sha256:138nhbbgdy762iv8xpgpn2pp5aygwin86z6sfdlnzvkg77scrgva

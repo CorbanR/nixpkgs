@@ -1,9 +1,0 @@
-StorePath: /nix/store/y0z8p78kmsqwfza4y96yj5y9la2bsff1-tcb-1.2.drv
-URL: nar/0qvvfa34diqa7k86qlqbvv8b4mg91841k3bq9wvw8v796xni0a8r.nar.xz
-Compression: xz
-FileHash: sha256:0qvvfa34diqa7k86qlqbvv8b4mg91841k3bq9wvw8v796xni0a8r
-FileSize: 1220
-NarHash: sha256:0sh2g1gb5b1aksvwvd1mzc4819m25nxzh9qh2nac6kb3qcvk263k
-NarSize: 2768
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 708x5k47a93c556c7cv6dpmqk101bamh-pkg-config-wrapper-0.29.2.drv a02c49gvnrgg0fs1cw2c62g2q1q338ad-fix-makefiles.patch i38iknfjrrmq3xmn4b7kk5xni1f6vm9p-libxcrypt-4.4.36.drv kj0l2m9f2bq6d867k4808anjji81h3l7-source.drv m8p8fq7248lkkigixrmas71x7gkdw1v9-linux-pam-1.5.2.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv
-CA: text:sha256:0napz071i4hpqw5mmqzcpr44nyhnxjp9h3kjxgqf4bqrj23clirz

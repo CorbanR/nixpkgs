@@ -1,0 +1,9 @@
+StorePath: /nix/store/pypqb574a0qipwj1941p342xcma7lah3-cmake-minimal-3.28.3.drv
+URL: nar/0c8559fss9l1z09f8rj8q9aa18685x2fvs3z9s3z2f6212vpzsar.nar.xz
+Compression: xz
+FileHash: sha256:0c8559fss9l1z09f8rj8q9aa18685x2fvs3z9s3z2f6212vpzsar
+FileSize: 1980
+NarHash: sha256:0qrba132724ckrx6pv047jshww0rm2vw2nckmf91kvrgf9kh2ycc
+NarSize: 5248
+References: 08g21p1mryn3n3b2xi2jy68d7flj8j9n-005-remove-systemconfiguration-dep.diff 34qn4by9lqrri323ahm5vizv6bgsbhfn-006-darwin-always-set-runtime-c-flag.diff 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv 7yjka9xvfmk5s2cn1alkqlmkbqifcgv6-002-application-services.diff ar1p4gcvlqf8dwbkfrcb01srbywinaj5-check-pc-files-hook.sh bxskpmssq3waxjcqrpj7czh071dm1mw3-apple-framework-CoreFoundation.drv cjx3j24mcdlls93csibiayz0qnwdwj61-bootstrap-stage0-Libsystem.drv iphwwxcmil1mzqn9rq92llm45v66wz86-ps-adv_cmds-119.drv k0qj9nfiy76y67ga43pszjqdk8f3915i-001-search-path.diff mf3bdryqkpb2zrwmgynximfywj44ynxh-setup-hook.sh nmgblikv5fnydsy5jg3rhy7g101vvmh0-pkg-config-wrapper-0.29.2.drv nq6fdrh9rxfx50wq1jicz0hvxkchx806-bootstrap-stage1-clang-wrapper-boot.drv rq41inv92jszcs5x62nc5cci5hapbjpw-003-libuv-application-services.diff v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vjxracxb3v1v2a83njrkjhz5wwg4234p-apple-framework-CoreServices.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv y6s0268grg5bag7l4jh6x19j5nawghpd-cmake-3.28.3.tar.gz.drv
+CA: text:sha256:1cpz0bv140n7636pwlwmyxrb007ynnyfa1kx9ab0lmiyr9v2qb3l

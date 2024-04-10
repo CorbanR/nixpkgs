@@ -1,0 +1,9 @@
+StorePath: /nix/store/vym2njc61wz533ys3n6ljm6phmdcwz56-dejagnu-1.6.3.drv
+URL: nar/0hrngjnql9n7w9rmg6g8dlrz34navadv25c4jzw4d22qwd5iv03c.nar.xz
+Compression: xz
+FileHash: sha256:0hrngjnql9n7w9rmg6g8dlrz34navadv25c4jzw4d22qwd5iv03c
+FileSize: 1220
+NarHash: sha256:1m5hf6n917p79yc8jfh32acrbvks5560zq0h4gffcb21hj87y82l
+NarSize: 2424
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv glfiarlznmsczgan1bxdq2ykc8ywq97x-make-shell-wrapper-hook.drv jrkap6365wzf1vj69kmhkk5a7c0mwijc-dejagnu-1.6.3.tar.gz.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh yf73ay11mkzwb13dqvf37gxvn22gnbz4-expect-5.45.4.drv
+CA: text:sha256:0j5nsjb4f5r016nz72q68fhjb1gknr3afnh3h5xg4m5k7g9l8frm

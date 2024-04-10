@@ -1,9 +1,0 @@
-StorePath: /nix/store/lgay6fs9cbq57sl46dravx3qnacwvxc7-artichoke-7454564203f1a782425f9e82b0b9e258997df118.drv
-URL: nar/0innzsmf8i3vbz2kbfkrh3q3k361prbddh5jm4rm4y31b4k7w0g1.nar.xz
-Compression: xz
-FileHash: sha256:0innzsmf8i3vbz2kbfkrh3q3k361prbddh5jm4rm4y31b4k7w0g1
-FileSize: 2012
-NarHash: sha256:003i737npdjlh8dh0jk2f4ygvzxa36m57fi7rqh06sp8kzqb7fp9
-NarSize: 4664
-References: 12id3ai76dxfxgmmwddan570h9b2fzgw-mruby-3.2.0.drv 2hypj7jii7w8l507fkfl1hl82dp1nrk4-cargo-check-hook.sh.drv 3cz98v6xf0lyiv8wqv1lx8kisw48rfj7-rust-minimal-1.75.0-nightly-2023-10-22.drv 3n4bpiwkhnrdh6agz74c4xbvsjdwfjg6-ruby-3.1.4.drv 3qrp5wf7fa835va4mfip9h3fvf0nh2p1-rust-bindgen-0.66.1.drv 5viyims1xv929ll0z4zi733kfhbl2skq-cargo-setup-hook.sh.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 6xgvdcvyv6nry4zdiaac3cc5jkp5d4qa-cargo-install-hook.sh.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv fzkmipfz4gm5k84ydvjx673xmpi31n1y-cargo-build-hook.sh.drv jw56292g2wdvmnjf19ds1ca5abp2s4wm-auditable-cargo-1.72.0.drv lvblsd5aldw0m5xakfnr75rpri3mnw0s-rustc-1.72.0.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps p7vl56bbv2z7a5xnnj0am20zbbq3jayf-artichoke-7454564203f1a782425f9e82b0b9e258997df118-vendor.tar.gz.drv prmzj8n429pbk46h5shda4j1qqmk9005-rake-13.0.6.drv pwiwfvnq3wibx1bxgzb2pri2xpz7wg30-libiconv-50.drv x1pgkw8av0kmb7fn569fclrdj4mc1lhn-rustfmt-1.72.0.drv z64n55746gc02gh8g35fg3d883vja136-source.drv
-CA: text:sha256:0wwjprf3pskrf49gvz94qmbfqaq39880hbgnb41gr8zxjjyb11nz

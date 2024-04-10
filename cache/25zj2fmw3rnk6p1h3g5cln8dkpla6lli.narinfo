@@ -1,0 +1,9 @@
+StorePath: /nix/store/25zj2fmw3rnk6p1h3g5cln8dkpla6lli-ldns-1.8.3.drv
+URL: nar/0p7zy6fci1gnkb24dq427shrn1x19n4pk4nlm9831k58ia9936mj.nar.xz
+Compression: xz
+FileHash: sha256:0p7zy6fci1gnkb24dq427shrn1x19n4pk4nlm9831k58ia9936mj
+FileSize: 1344
+NarHash: sha256:0jd2lp0fdz2bdr7fss5aa2ib9jx0cmrik20vsdxxsg1dy8cr6n1v
+NarSize: 3112
+References: 3jlfnk9a0d5s4gsjb066xwdnhcpn950q-dns-root-data-2023-11-27.drv 5x1a3ak7csj2ahx9n2fdlxphq24iwc4c-ldns-1.8.3.tar.gz.drv 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv d6v4p62520vgz4953gj6skggvrkdffih-perl-5.38.2.drv nwldz574yq75p9k29s13giw0i5nrgpgx-openssl-3.0.13.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:158i9483mjvbvd3v19ssy7xzgqwm97rq6wz809hp5mcdnnv9myw0

@@ -1,0 +1,9 @@
+StorePath: /nix/store/asxk3wf1x5d0fiaihrfkd1y57jl6d2f6-coreutils-9.4.drv
+URL: nar/08hvmyhcrbnxggk2hbg8kx7yyfxpm837z5rvmsc1zq0vfdr7ad75.nar.xz
+Compression: xz
+FileHash: sha256:08hvmyhcrbnxggk2hbg8kx7yyfxpm837z5rvmsc1zq0vfdr7ad75
+FileSize: 2036
+NarHash: sha256:0qwi31j8nf7f72mqjg0yj980afrb64593mrpf7n56cqh01d60s1x
+NarSize: 4712
+References: 0jvy84fslc07wn534gcp38xjylkhg8h7-autoreconf-hook.drv 36065gmqb1qvrmdq0ihrgi3pg5n6qvjh-coreutils-9.4.tar.xz.drv 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wgwbq2g7jfr204npb98d39id7k9k35s2-perl-5.38.2.drv wml5p915cdigq5pzm9h0msba20z12abj-xz-5.4.6.drv
+CA: text:sha256:0f7wssh7p502gnb17q7wgnbs7izr5vq2jg0mmz8n32wm86bfmgs8

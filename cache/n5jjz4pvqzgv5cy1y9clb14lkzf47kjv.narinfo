@@ -1,0 +1,9 @@
+StorePath: /nix/store/n5jjz4pvqzgv5cy1y9clb14lkzf47kjv-cctools-binutils-darwin-16.0.6-973.0.1.drv
+URL: nar/0zknn5bdzdd8slrkiv1hif5vk5yqnwb81lmxxkdwimvfq2pcrv12.nar.xz
+Compression: xz
+FileHash: sha256:0zknn5bdzdd8slrkiv1hif5vk5yqnwb81lmxxkdwimvfq2pcrv12
+FileSize: 1560
+NarHash: sha256:0g2iwxba703wid26piw60nvcnybgsjllr3c8a79v9kp53nwxgcb9
+NarSize: 3896
+References: 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv fzj1jsga4j5bbh0ydrbrmlifm5zbgf01-llvm-16.0.6.drv gg8747wkzyhi00w1g1nfqxvh4067q3q4-bootstrap-stage-xclang-stdenv-darwin.drv pxg5fqixj5jzb3sdj2qbd8crls6d3xhg-cctools-llvm-16.0.6-973.0.1.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh w76a5vyfilr2h7hd45fylv7ka1map9gz-binutils-2.41.drv
+CA: text:sha256:1iyivd7d9kbqiglvdh6xwjpnlpwshfs68jig7x949hgwf0f79s24

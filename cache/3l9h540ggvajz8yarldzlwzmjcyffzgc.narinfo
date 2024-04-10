@@ -1,9 +1,0 @@
-StorePath: /nix/store/3l9h540ggvajz8yarldzlwzmjcyffzgc-cpio-2.14.tar.bz2.drv
-URL: nar/1m5bc421wzz6lh3iy86w0lqmylsz8yx70877vrkpmj83qy4gmcwh.nar.xz
-Compression: xz
-FileHash: sha256:1m5bc421wzz6lh3iy86w0lqmylsz8yx70877vrkpmj83qy4gmcwh
-FileSize: 1340
-NarHash: sha256:0lly42gjfdds5c9gwi94n2whi46sckqmipyr91kgx9shf5kgj3k8
-NarSize: 3200
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh p4jpyr1vsixxl6sbkfy0r0398wwmqbci-bootstrap-stage0-stdenv-darwin.drv pfc1kmyhx8lkwakqlc0yarb8p5nldl4f-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:16km3ing9xn0kfl36r8knvnqj1m8q1bandgcvhg9nd9cfcihngr7

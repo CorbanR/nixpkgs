@@ -1,9 +1,0 @@
-StorePath: /nix/store/3i82dc5k28zl92qnjyi7ppw4vx4myv13-python3.10-typing-extensions-4.7.1.drv
-URL: nar/1jx772paqn58sjn1j16pxfhf1p71fbz0mmbwqz7i5f63i6xrn6n1.nar.xz
-Compression: xz
-FileHash: sha256:1jx772paqn58sjn1j16pxfhf1p71fbz0mmbwqz7i5f63i6xrn6n1
-FileSize: 1716
-NarHash: sha256:0r3fc22cl1f1wivvcjxrapn773jqr1jnbybyb4ac7rr3wdq84r6l
-NarSize: 4112
-References: 3glqljk20iyhnzr5sz30k3p5gfj07r0v-python-remove-tests-dir-hook.drv 4gs2zap1s6lpvn9gd6lwj5yriafy8sxh-python3-3.10.12.drv 569ckkgdw05ayxxlvf0xdqw6kcdpj6fa-wrap-python-hook.drv 5v49yn6811xaz73581cmz6ds3md4n8lf-pypa-install-hook.drv 64spj723i0aflvkwff0vc625bh880nxz-python-remove-bin-bytecode-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8sw6wgkdgd3rna2s483dhshg284qqqgm-python-namespaces-hook.sh.drv 96qpl6gkc0n9kppcilwfid8pqb8mjf99-python3.10-flit-core-3.9.0.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akpdvkkaqmk3fhw1kjpj42mnid6nb7mh-pypa-build-hook.sh.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv pgv9c923jyjl2vsp7qlmmylglh09y4xx-python-output-dist-hook.drv pqg1r9r71h1b1qdlsh0klq2pb41xb1mv-ensure-newer-sources-hook.drv v9ij02aqnhsdapdw6b36h1y6spv49hkb-python-imports-check-hook.sh.drv vbpq7p5incj73fg8zrnsc49rf3nmbx2b-typing_extensions-4.7.1.tar.gz.drv y823dmnv8kgcg2lyvzx0g3m41x7pfyij-python-catch-conflicts-hook.drv
-CA: text:sha256:1ayrpz8sjj0hq53sw3p9wxhgi2w2cd4kz7gbdivlb55vsn23yzaj

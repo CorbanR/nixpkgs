@@ -1,9 +1,0 @@
-StorePath: /nix/store/4agsjv6wsvf1hzxlk8cij44wyvlwjh31-bootstrap-stage0-CF.drv
-URL: nar/001b20jmffax7dgm3va0yz7p9w7s0rvi1qpm787ryfmmyr18dxj2.nar.xz
-Compression: xz
-FileHash: sha256:001b20jmffax7dgm3va0yz7p9w7s0rvi1qpm787ryfmmyr18dxj2
-FileSize: 788
-NarHash: sha256:1d6hsmrrrzvhbx31w42qq4cfqpmrqdg1ihmig4g4ac3m7wic5lx4
-NarSize: 1848
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh p4jpyr1vsixxl6sbkfy0r0398wwmqbci-bootstrap-stage0-stdenv-darwin.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:17wa07zh2kcm7mzrpymny3cy7wam12q7d21nk8qx9bcpdsbg7ff5

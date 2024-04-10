@@ -1,0 +1,9 @@
+StorePath: /nix/store/v4h5pp00q8z693ciylpsbf837yvp37ip-gawk-5.2.2.tar.xz.drv
+URL: nar/19rkpqv5zxx2l0gsflhf0nfqwshvrgbfz0585a1fv3wq7ybs1sl2.nar.xz
+Compression: xz
+FileHash: sha256:19rkpqv5zxx2l0gsflhf0nfqwshvrgbfz0585a1fv3wq7ybs1sl2
+FileSize: 1340
+NarHash: sha256:1yfs1nggzp4pg4cxwrl5y7si0s8wkh78dg5qcfs4igsvmi4rbawb
+NarSize: 3200
+References: 9fb7876pspxqmf8756csxc1zwipig3q1-bootstrap-stage0-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zgh2kqjbwiiyh82327d197lcz6dipxlw-mirrors-list.drv
+CA: text:sha256:0wfxaknabm4cxxdvqngyijm5as9vp47yx80j6yh0xyzg7cin5l4i

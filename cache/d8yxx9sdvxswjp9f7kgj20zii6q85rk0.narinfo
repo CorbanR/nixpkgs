@@ -1,0 +1,9 @@
+StorePath: /nix/store/d8yxx9sdvxswjp9f7kgj20zii6q85rk0-apple-framework-Kerberos.drv
+URL: nar/0xs3cdsal1yasjizhw65zs8fwyq9z3s7vgd64qpsbwd4z10y8mfw.nar.xz
+Compression: xz
+FileHash: sha256:0xs3cdsal1yasjizhw65zs8fwyq9z3s7vgd64qpsbwd4z10y8mfw
+FileSize: 1992
+NarHash: sha256:1m012rn8wsr1q9rb4a8a125spcnyv5bamfckw3k3i1i1j7z8maas
+NarSize: 6288
+References: 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v7jcqifji2sdni1bcvjnqqb66w31dx7i-MacOS_SDK-10.12.drv xgm4z1k5bcbw8466dajw7aryaym3wndw-print-reexports.drv
+CA: text:sha256:02hq7yrlplz2866p16da923x57cpyr1s7wqrmanyd1mlan3hp48f

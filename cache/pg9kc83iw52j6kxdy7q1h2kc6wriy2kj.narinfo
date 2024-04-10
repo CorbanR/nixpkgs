@@ -1,0 +1,9 @@
+StorePath: /nix/store/pg9kc83iw52j6kxdy7q1h2kc6wriy2kj-python3.11-future-1.0.0.drv
+URL: nar/1gvdw44qzlraz8568f89wxky7vrp23966lwdl6jy3mkqgmf99rh5.nar.xz
+Compression: xz
+FileHash: sha256:1gvdw44qzlraz8568f89wxky7vrp23966lwdl6jy3mkqgmf99rh5
+FileSize: 1852
+NarHash: sha256:18h7nmkh2fnyjc4in5j2h1153gkrd6593xl1jj0cms2p9vr5lwsf
+NarSize: 4408
+References: 1x8m520lxi7k8mi14ags76cgad318nja-python3-3.11.8.drv 46d08420bh83lij55cbj0rxpd3g290i6-python-imports-check-hook.sh.drv 67fsxi67v0065rzgz4k6vja7sx84640d-future-1.0.0.tar.gz.drv 7flcgadzsl7pidysz7y2j01fr1szmkad-python-namespaces-hook.sh.drv b6c3y21lhik4fm1q26sd9aaz3m3l8995-python-runtime-deps-check-hook.sh.drv bpasqnadfnkxblixjgi13z1dq6dnzjp3-pypa-install-hook.drv dmczbdk4h75yx2iyvgsvznc9cq247xg7-wrap-python-hook.drv hxaax8irvw5m0dlj28xry5na9ibcdbpy-python-catch-conflicts-hook.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kzhraibfkbrwq2gz1r94yk1n8bq6y94d-python-remove-bin-bytecode-hook.drv r9ac0v66fi0x1xilq089qmj5sgwi3vkh-pypa-build-hook.sh.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vvpk5gcslwkzmnhfkz3s2nii7bqfi5sb-python-remove-tests-dir-hook.drv w98pydy8vbj8h3qc9w383ryivz4wqknk-bootstrap-stage3-stdenv-darwin.drv wa0m792wbiv7k1im2xz2n83vrbpr3yxh-ensure-newer-sources-hook.drv yxnm9z8yqd3cih441y92jxbc2cd6d53m-python3.11-setuptools-69.1.1.drv zwhrsbig75c0qsy6bcf4n4wsv9ixmsy2-python-output-dist-hook.drv
+CA: text:sha256:1rrh5hmv0prdqdifzl77bfvqinnmvc1d9jsb9yxsyh77g1pfpnkl

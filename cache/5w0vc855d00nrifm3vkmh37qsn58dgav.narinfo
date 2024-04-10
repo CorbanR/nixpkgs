@@ -1,0 +1,9 @@
+StorePath: /nix/store/5w0vc855d00nrifm3vkmh37qsn58dgav-curl-8.6.0.drv
+URL: nar/00n4813j2m9j02vl89bxnjmfcwb5j6aiy06x1si7c6qymvbd3mn7.nar.xz
+Compression: xz
+FileHash: sha256:00n4813j2m9j02vl89bxnjmfcwb5j6aiy06x1si7c6qymvbd3mn7
+FileSize: 2056
+NarHash: sha256:1yya8v75mhvrnqakz2p5cdy2r1ra3bja7bfr0p4y1mjxsn60s4z3
+NarSize: 5008
+References: 4pggpwnxc00gvfnanx68swl93x5d78q8-libssh2-1.11.0.drv 58p9vxaxj0y6frqmh7cqp3ralfqrcl90-openssl-3.0.13.drv 5wff97jz9s5ysabqij67blsw0sgdxrwv-nghttp2-1.60.0.drv 79ca4cxl8q508g5hz9kzw6943kr02iy4-pkg-config-wrapper-0.29.2.drv 7ywa6znqar7yiyh2i6qsmj6bsznlan7n-apple-framework-SystemConfiguration.drv 9i4i0ylaqbm6dd8cyzmw2ls2jri8mm92-apple-framework-CoreFoundation.drv dbpslq9v4n3hrqphxpbf2a4smhggd2am-zlib-1.3.1.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kmk193n9pnw7xs8ksrmaryhqwzxrqcnc-curl-8.6.0.tar.xz.drv nbckk6sk9jrjs2c7fjx7kdap6rrm91m0-apple-framework-CoreServices.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wgwbq2g7jfr204npb98d39id7k9k35s2-perl-5.38.2.drv y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:0kq6rqgfw9hfi4lm848bjnsnxyfsscqp8iscl2lik1c6fjw2abc1

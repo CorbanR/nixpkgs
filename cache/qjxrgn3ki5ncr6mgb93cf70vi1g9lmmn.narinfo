@@ -1,9 +1,0 @@
-StorePath: /nix/store/qjxrgn3ki5ncr6mgb93cf70vi1g9lmmn-xar-1.6.1.drv
-URL: nar/1zik40pa51hhi89ryjs2ihinlnkq4ncrjkn3zvp8sq1s6vva6l5j.nar.xz
-Compression: xz
-FileHash: sha256:1zik40pa51hhi89ryjs2ihinlnkq4ncrjkn3zvp8sq1s6vva6l5j
-FileSize: 1480
-NarHash: sha256:00sx16pdlp93wl9wf14fjhhd4v65a310j4sncwvw872y1mfqmv46
-NarSize: 3240
-References: 23q4bqmy97d2qhcinp9zg2m7k31jmgxy-libxml2-2.11.5.drv 2xjik49hhblpam64wn1xgv2ghl4g8qhx-bzip2-1.0.8.drv 3jjd65b6nyg7g30ixszjcsgb08j5mmhn-0001-Add-useless-descriptions-to-AC_DEFINE.patch 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 6zdl7x8hdldmyzfr9a8mvwvzq416irsl-pkg-config-wrapper-0.29.2.drv 94rkpjdh1fsfwnyrqmz3czzrm4d0na0h-xar-1.6.1.tar.gz.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv j3frsgc0zsrg2pg7w9pqmxjh6qd01aqs-0002-Use-pkg-config-for-libxml2.patch n64y6zff0sdzq4l3gy75qd4di7c3slmm-zlib-1.3.drv qsxiff6qzz2vf9ph0rianvbxy9zxc6pm-xz-5.4.4.drv rdqwgwfy0s1fgzfk0w4xdqy1vfp7d49k-autoreconf-hook.drv yxqx1vh5dgkc6l5qqmdk5bsmi88a12ms-openssl-3.0.10.drv
-CA: text:sha256:0ykbipcvykjzgr998l373wy3fgqanz10lwk5fnnggvwjpifmw84q

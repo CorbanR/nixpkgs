@@ -1,0 +1,9 @@
+StorePath: /nix/store/lk7hdnc4z7bh6z8p86qsgc3mrjxlnhmb-libedit-20230828-3.1.tar.gz.drv
+URL: nar/1dkd29jrs9nvrhmcaxy3x1pvyami8ccy8ag4llvl1fb0alirrma8.nar.xz
+Compression: xz
+FileHash: sha256:1dkd29jrs9nvrhmcaxy3x1pvyami8ccy8ag4llvl1fb0alirrma8
+FileSize: 1348
+NarHash: sha256:0bd2g10w4z5khjxqv8n7gd5c8a5l06n14sxcqam0cbg1ffxrnkr0
+NarSize: 3248
+References: 9fb7876pspxqmf8756csxc1zwipig3q1-bootstrap-stage0-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zgh2kqjbwiiyh82327d197lcz6dipxlw-mirrors-list.drv
+CA: text:sha256:0h1yrmmnjw57f4z4gsrimajspqrrkkg4md6bzk8n90napcs4m1g4

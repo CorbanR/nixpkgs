@@ -1,9 +1,0 @@
-StorePath: /nix/store/lvblsd5aldw0m5xakfnr75rpri3mnw0s-rustc-1.72.0.drv
-URL: nar/0lzdih30jzvbv73d21vskj85b6bmcdz3gdxmrd3ymnvb2ws8zpd7.nar.xz
-Compression: xz
-FileHash: sha256:0lzdih30jzvbv73d21vskj85b6bmcdz3gdxmrd3ymnvb2ws8zpd7
-FileSize: 2932
-NarHash: sha256:1x1q0y3xxrh3pvflp6zcp0zcismhkf9xskdqyq98zwn0r2y0z2r3
-NarSize: 7864
-References: 0n02j2xhay378xnfm2glf1xmxi8qpgla-cmake-3.26.4.drv 1k3gs4fjws5cjcnci6v6xyqay05xn0mk-cargo-bootstrap-1.71.1.drv 2wxvk073y0fb8bvqj1s1k0ya3046r9al-file-5.45.drv 4gs2zap1s6lpvn9gd6lwj5yriafy8sxh-python3-3.10.12.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 6zdl7x8hdldmyzfr9a8mvwvzq416irsl-pkg-config-wrapper-0.29.2.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv bnzi1c7frzkavbk8sg8zfisscfc3vyxl-remove-references-to.drv gcprgrf4g21hms1vh2mvm9rczh8dk7af-libffi-3.4.4.drv i0gxnd241nlipk0f54q1xqypaxb0r99b-rustc-1.72.0-src.tar.gz.drv l9jc9g34kns7fc9iv123ma0s32d13q85-llvm-16.0.6.drv mgy1diy93qhcrljnws4028wk9mbx2p5n-clang-wrapper-11.1.0.drv nrq5db4m0pkbmkwlp43q4pasq75xj7lk-rustc-bootstrap-1.71.1.drv pwiwfvnq3wibx1bxgzb2pri2xpz7wg30-libiconv-50.drv qsxiff6qzz2vf9ph0rianvbxy9zxc6pm-xz-5.4.4.drv skyp8xs2584fkc44ki1cim9ag55wbi68-setup-hook.sh war9br20m50w468261dryl2ap26f3a0q-apple-framework-Security.drv wm6l53wq4irwa23r170an2r8drpwlws9-which-2.21.drv yxqx1vh5dgkc6l5qqmdk5bsmi88a12ms-openssl-3.0.10.drv
-CA: text:sha256:12d6544q7ba4ywnkzcjbi0w5zyjl07harlbxmlfjasgbi3pigjmx

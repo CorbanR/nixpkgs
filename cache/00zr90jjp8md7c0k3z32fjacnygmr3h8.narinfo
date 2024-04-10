@@ -1,0 +1,9 @@
+StorePath: /nix/store/00zr90jjp8md7c0k3z32fjacnygmr3h8-groff-1.23.0.drv
+URL: nar/1jqwdilhffbxgnb8z0r8m7p4cxkswgnqhzaycn2r9d3hfdka5gcc.nar.xz
+Compression: xz
+FileHash: sha256:1jqwdilhffbxgnb8z0r8m7p4cxkswgnqhzaycn2r9d3hfdka5gcc
+FileSize: 1856
+NarHash: sha256:0vv42nmbanijdqj1qb00vyqcjp2gfiq999fflfqaaphnxfd93542
+NarSize: 4864
+References: 1diimhjq1fbjdxr50ap0iawp79mj9dvb-site.tmac 2kw3qqjrq3dsrsk7viynyxmszsl5x4gr-groff-1.23.0.tar.gz.drv 97p08jaf00m8rxznl12imikj5spgpxkw-autoreconf-hook.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv imxny7nz7pnb9riagprwi1vmxpn5vxfh-perl-5.38.2.drv rh6w7793dszm5xf3a2m82x155b981m1k-texinfo-7.0.3.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wli86mkxc641g4bp31mc211x8pm13pyr-bison-3.8.2.drv x53pwcgq3wqsxzf8cr9ywia2zh5s6h63-pkg-config-wrapper-0.29.2.drv y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:1yqvnnsni6nx55faq2q63d85mq64qwswmrkm7ycn8w8lx2pg8r6m

@@ -1,0 +1,9 @@
+StorePath: /nix/store/69z18mwap08cwbyryfdb6ww6svwdhhfi-apple-framework-SystemConfiguration-11.0.0.drv
+URL: nar/0dp8rckahb89pggyywkwyakj3vnrs7329293867qfrfm6jjs63zx.nar.xz
+Compression: xz
+FileHash: sha256:0dp8rckahb89pggyywkwyakj3vnrs7329293867qfrfm6jjs63zx
+FileSize: 1448
+NarHash: sha256:1rxml37y2liqrjv3jf0i11a353ajvjj2mzzyc6j8bha0s6wwrpin
+NarSize: 4064
+References: 2py99219sqcb2g21zjgx5vgb25nawwhj-rewrite-tbd-unstable-2023-03-27.drv 2varlhppvnsxqz2b2138j454whwcvfpl-apple-framework-CoreFoundation-11.0.0.drv 8mja2yphp7m3fna1vilppl93mcshyhmh-apple-framework-CoreFoundation-11.0.0.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kzkv4g1p7rr7nd7vqdzq5zjb5gfy6sjz-MacOSX-SDK-11.0.0.drv m513kdb4zj062ydp131lq947fvj5k6lq-apple-framework-Security-11.0.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:003va1ldz26skmzfh8bl99p4shngcxbc7n1dv0n0g2m33kg6k1rs

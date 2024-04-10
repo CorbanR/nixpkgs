@@ -1,0 +1,9 @@
+StorePath: /nix/store/mscv4b5ilg8c5x43gbw8kqbxh67ck4jz-coreutils-9.4.drv
+URL: nar/19c377mvkpp4hiyv0xih0lmpzlx7ldmcq1380jfjn41nbgysy1sm.nar.xz
+Compression: xz
+FileHash: sha256:19c377mvkpp4hiyv0xih0lmpzlx7ldmcq1380jfjn41nbgysy1sm
+FileSize: 1992
+NarHash: sha256:06k0zcldrhyckrcyixf2ka2cprxfj94if62hszby5hc1qbx98qpc
+NarSize: 4656
+References: 12l2v3kmacnpmx14p2345kk41fpv31rw-separate-debug-info.sh 2nqm56w67h51hhzx8id50az3jxgn9bs7-xz-5.4.6.drv 3hagc5ggcrckn74pkama12466m1sbxzn-coreutils-9.4.tar.xz.drv b1pdhszggz3k91kq1g6v9wb52lfdbldd-autoreconf-hook.drv grlmm1f5z4lnjl21xxq4byrbk5slb35w-bootstrap-stage4-stdenv-linux.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv sl7jycnb8sjpih0j0la3yijdj9pnrkcz-perl-5.38.2.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1gzj5zzagxirh54axm8ky0v1c253fasddsz4hxf9q1snigjbcipa

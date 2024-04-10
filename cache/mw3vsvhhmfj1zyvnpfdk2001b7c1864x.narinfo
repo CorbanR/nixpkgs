@@ -1,0 +1,9 @@
+StorePath: /nix/store/mw3vsvhhmfj1zyvnpfdk2001b7c1864x-perl5.38.2-XML-Parser-2.46.drv
+URL: nar/0cg5j0m8pfx0333l87z79b8s1n04xik5q90kk1jg202kr2rfbjcz.nar.xz
+Compression: xz
+FileHash: sha256:0cg5j0m8pfx0333l87z79b8s1n04xik5q90kk1jg202kr2rfbjcz
+FileSize: 1180
+NarHash: sha256:0izm38y2bf1si275a0jysid3xq1nrvf2bbblhx322mnzkszs1qkf
+NarSize: 2776
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 1qcmmpjnzqgjvh17z4didnrjrafsbysv-XML-Parser-2.46.tar.gz.drv 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh bnw2l92w2y042cwl6w982hddzacakrjd-perl-5.38.2.drv hjp9rmxkjlwl70d5rr68ffvrws39spjk-perl5.38.2-libwww-perl-6.72.drv qhmvfms1yjagdi8981n1chpxx88xhg9y-xml-parser-0001-HACK-Assumes-Expat-paths-are-good.patch qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv yc024n1d913mvngsr70biqj6350v49dg-expat-2.6.2.drv
+CA: text:sha256:0zcxr94qg85649f2prc1pg7i7akwc0cx0ii1xr8f1cl87xmzxb9b

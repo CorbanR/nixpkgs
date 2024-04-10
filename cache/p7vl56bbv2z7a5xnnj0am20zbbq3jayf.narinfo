@@ -1,9 +1,0 @@
-StorePath: /nix/store/p7vl56bbv2z7a5xnnj0am20zbbq3jayf-artichoke-7454564203f1a782425f9e82b0b9e258997df118-vendor.tar.gz.drv
-URL: nar/1ggvlgpvv2xvs6v5qgfh7gdvg6d9vijaq8h4p6gd7066g80k4vmc.nar.xz
-Compression: xz
-FileHash: sha256:1ggvlgpvv2xvs6v5qgfh7gdvg6d9vijaq8h4p6gd7066g80k4vmc
-FileSize: 2104
-NarHash: sha256:1z39iyr641lm2mrbj1c3ni612xiz4n46racgnsxw8gxabh4lkyc1
-NarSize: 4560
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 97nba3by416pmqszz8bkfq91y5ji75dv-git-minimal-2.42.0.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv ci2m18gk6glybzdmmkviwg22dx2mkf8c-cargo-vendor-normalise.drv cp34vbbhch8kvyvh0hf22b8786nmig2n-nss-cacert-3.92.drv j3gw44jbzc4vg9k7sjy8c6rwp5il34ga-cargo-1.72.0.drv z64n55746gc02gh8g35fg3d883vja136-source.drv
-CA: text:sha256:07fs11mirns952hx423xsypd5klny08swiyrx7ib5x5chqwcifir

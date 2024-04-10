@@ -1,0 +1,9 @@
+StorePath: /nix/store/6h6cg4cxycw8id6cyvil6kgy2vcc21vz-libfido2-1.14.0.tar.gz.drv
+URL: nar/0wcm8qs5xby22zn8s5sxph9bldpini3l2y2q3wkah5qw1k7iqgqw.nar.xz
+Compression: xz
+FileHash: sha256:0wcm8qs5xby22zn8s5sxph9bldpini3l2y2q3wkah5qw1k7iqgqw
+FileSize: 1368
+NarHash: sha256:0s6frxyxqm740xwsg446lqy6985q8x42ag8b1wr35iihnss8xx85
+NarSize: 3280
+References: 9fb7876pspxqmf8756csxc1zwipig3q1-bootstrap-stage0-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zgh2kqjbwiiyh82327d197lcz6dipxlw-mirrors-list.drv
+CA: text:sha256:0xf1g6ax22l80dkaiv8aiwwdp9s0fglqr98q83w6ka5il8cymb4f

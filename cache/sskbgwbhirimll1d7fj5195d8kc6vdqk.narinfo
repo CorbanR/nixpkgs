@@ -1,0 +1,9 @@
+StorePath: /nix/store/sskbgwbhirimll1d7fj5195d8kc6vdqk-xnu-3789.70.16.drv
+URL: nar/03nn7r98xx0saq411964k57y374khpkm5b6q86vypbwx783krdc7.nar.xz
+Compression: xz
+FileHash: sha256:03nn7r98xx0saq411964k57y374khpkm5b6q86vypbwx783krdc7
+FileSize: 8632
+NarHash: sha256:1n4v3b11xnhkrzbh836jd8dd6iihnrcn7f1v60acfg6rlzxdazn0
+NarSize: 38360
+References: 08xrrxs8gadrwswsm5ds0rvp2i6jlc92-flex-2.6.4.drv 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv 6n6a648afm6pds4kpswfnzqj2i9i452y-bootstrap-stage1-sysctl-clang-wrapper-boot.drv 9579n5rvckzq3y5aik21l3mwk6j477wa-bootstrap-stage1-sysctl-stdenv-darwin.drv bpsm4v4fyiym76v24zf0v997rij8l819-unifdef-2.12.drv bx6p2rkma3ws8m65xb3v16rw065jfdpx-python3-minimal-scproxy-3.11.8.drv d6v4p62520vgz4953gj6skggvrkdffih-perl-5.38.2.drv d9n7391g4clxkyhvjmx78md8xp2vj3zi-bison-3.8.2.drv lqy9wxf9qmfzkmx97dzhaqz12d1rv0aj-xnu-3789.70.16.tar.gz.drv m77dfdijdr5pgnyl1l4798cfq8cn8ads-gnum4-1.4.19.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh xbmvqxikdl8wq5wnrsrm606221hmjb2h-bootstrap_cmds-121.drv yhhwdxmfjs0xvqmyqnlibkhxpcbyp3h9-python3.patch
+CA: text:sha256:0m7lzyj7iviqljln477s71vnh5psl5mi7qbby9qk1ri2daxr63qv

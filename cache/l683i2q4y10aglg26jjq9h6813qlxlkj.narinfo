@@ -1,0 +1,9 @@
+StorePath: /nix/store/l683i2q4y10aglg26jjq9h6813qlxlkj-openldap-2.6.7.tgz.drv
+URL: nar/0qkrkipmh4ny5w2g29n9xks9kxlvi5b91xgg1prq2ckgqxpjis1r.nar.xz
+Compression: xz
+FileHash: sha256:0qkrkipmh4ny5w2g29n9xks9kxlvi5b91xgg1prq2ckgqxpjis1r
+FileSize: 1368
+NarHash: sha256:1zca8k2gnj47gpi9w5vgdwr2fknqnbxna3aqxhhh1574a9fa2hvd
+NarSize: 3256
+References: 9fb7876pspxqmf8756csxc1zwipig3q1-bootstrap-stage0-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zgh2kqjbwiiyh82327d197lcz6dipxlw-mirrors-list.drv
+CA: text:sha256:0had29pxqm55a1s6mhdsf4s60jyicif67238gbx4n5xsra98373v

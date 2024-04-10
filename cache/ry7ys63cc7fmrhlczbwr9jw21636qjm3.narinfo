@@ -1,0 +1,9 @@
+StorePath: /nix/store/ry7ys63cc7fmrhlczbwr9jw21636qjm3-unbound-1.19.2.tar.gz.drv
+URL: nar/1f6kkgj9cs0sinqiy8jlcnbbmqzkgaig6bzjhfwg87sxx8y11inj.nar.xz
+Compression: xz
+FileHash: sha256:1f6kkgj9cs0sinqiy8jlcnbbmqzkgaig6bzjhfwg87sxx8y11inj
+FileSize: 1312
+NarHash: sha256:0awh8m4jbir8ii47y7v30cqriq4pn3fi32x8xrm8yiwklf24kmm9
+NarSize: 3000
+References: 54k11sjcal05q1cncw9fxsggdgk8awmf-curl-8.6.0.drv 6gp9fjlmrqlcz3mq8930f3pl0vjjj2hf-stdenv-linux.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv zy4m4n0jb3b89p43w9c2myly276dfa7n-mirrors-list.drv
+CA: text:sha256:1wqmpwjgypc8ybca17nicdsb9h61sk4l43h14sr3r2ycxx1x2cby

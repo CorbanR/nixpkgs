@@ -1,0 +1,9 @@
+StorePath: /nix/store/nwldz574yq75p9k29s13giw0i5nrgpgx-openssl-3.0.13.drv
+URL: nar/0jay38x76l668vggsq7w2lqkis3xykaxq0b6rygwcnj0d6iq8c2m.nar.xz
+Compression: xz
+FileHash: sha256:0jay38x76l668vggsq7w2lqkis3xykaxq0b6rygwcnj0d6iq8c2m
+FileSize: 1920
+NarHash: sha256:07v1r37ffwrpqqcjpf9ck6zzfsyvlhqkc0ppim2ir97qnrqg959v
+NarSize: 4704
+References: 2cqnhs2ds0gn7xrq0zcwbj7gsv6l5xr7-use-etc-ssl-certs-darwin.patch 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv cklrwbwi889pp2fdsswdjvn12sdy5i5j-openssl-disable-kernel-detection.patch d6v4p62520vgz4953gj6skggvrkdffih-perl-5.38.2.drv i63bxzf2lvfr0p03q83l0dlrihlyixy6-make-shell-wrapper-hook.drv sq4h6bqjx12v9whvm65pjss25hg1538q-nix-ssl-cert-file.patch v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zh2da6b8wdigdfy5kbjf8r40vik258yj-openssl-3.0.13.tar.gz.drv
+CA: text:sha256:0bcyfyppz88b0ppajgg8x9iibly66caiv7r1yf6q3jciff50caj8

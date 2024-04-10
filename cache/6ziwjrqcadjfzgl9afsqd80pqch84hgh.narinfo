@@ -1,9 +1,0 @@
-StorePath: /nix/store/6ziwjrqcadjfzgl9afsqd80pqch84hgh-fix-test-failures-when-iconv-not-available.drv
-URL: nar/1di5v9y1xlnhgsfzq4r4mz68bddjsg1i9m43ajajvnvam0sf4zsh.nar.xz
-Compression: xz
-FileHash: sha256:1di5v9y1xlnhgsfzq4r4mz68bddjsg1i9m43ajajvnvam0sf4zsh
-FileSize: 1948
-NarHash: sha256:0sqrw0k25spv0q2va0wxwgjg4q1jb74asl0apa6blwbn30h4vs6r
-NarSize: 4816
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh p4jpyr1vsixxl6sbkfy0r0398wwmqbci-bootstrap-stage0-stdenv-darwin.drv pfc1kmyhx8lkwakqlc0yarb8p5nldl4f-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zkjblcpkkryd3lydvrysrnc6gwgp4dlw-patchutils-0.3.3.drv
-CA: text:sha256:1ph03183q5hby2q607r9h6fkvfclh36n968xy5gzlfs7b8a565bg

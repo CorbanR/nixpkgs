@@ -1,0 +1,9 @@
+StorePath: /nix/store/nsjysdia0mknjxr55l003ar31g2j6r81-apple-framework-AudioToolbox.drv
+URL: nar/19cqrm6v78awhmz19bkhic8f0w74plgfs3w8lj459hnvjzfbsxy9.nar.xz
+Compression: xz
+FileHash: sha256:19cqrm6v78awhmz19bkhic8f0w74plgfs3w8lj459hnvjzfbsxy9
+FileSize: 2136
+NarHash: sha256:0hr7k324jkp2451xssff8rkwv4sfgb3qpqg7j2iva50qab9ai18b
+NarSize: 6744
+References: 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv 8rh32bn5k46y6xvra2ymb7k6a9qj17wz-apple-framework-CoreMIDI.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv ihxi1pqa05vwlj8v5nicmifz3233gqnd-print-reexports.drv iiban8k1dh1sgww3i0f6ysaax4dszsjl-apple-framework-CoreAudio.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv ysdarccdh2vf1fnkczhlmrqaqxq1ck96-MacOS_SDK-10.12.drv
+CA: text:sha256:0c0cny9gkrsglngvly31qa1xdhmcpk6ww704qz2kk0xkdym3879p

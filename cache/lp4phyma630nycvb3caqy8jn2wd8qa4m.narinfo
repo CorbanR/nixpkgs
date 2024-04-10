@@ -1,0 +1,9 @@
+StorePath: /nix/store/lp4phyma630nycvb3caqy8jn2wd8qa4m-apple-framework-AudioUnit.drv
+URL: nar/03v2hpyla4asdq59yaybhh5hqll82vlkiyrys9mmkcabsq931pdp.nar.xz
+Compression: xz
+FileHash: sha256:03v2hpyla4asdq59yaybhh5hqll82vlkiyrys9mmkcabsq931pdp
+FileSize: 2212
+NarHash: sha256:0cvp3j6l914r8d158q50hs5gx66bb442yqyqlvisw95y0yn1g7fb
+NarSize: 7072
+References: 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv 6pkchfyi6hr04n25gh88zdcp0a3mm53b-apple-framework-AudioToolbox.drv 9hz7p7ldqrrww4qzpi1r9qxq56bvwbcb-apple-framework-Carbon.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v7jcqifji2sdni1bcvjnqqb66w31dx7i-MacOS_SDK-10.12.drv xgm4z1k5bcbw8466dajw7aryaym3wndw-print-reexports.drv yfshwlb18q1mghs9w93qsxzmj4vibbc7-apple-framework-CoreAudio.drv
+CA: text:sha256:0cl4ch8h1zxxvn1nqqx0pkcmxxs67k4qlk0yrxnh2l2vsky1ic23

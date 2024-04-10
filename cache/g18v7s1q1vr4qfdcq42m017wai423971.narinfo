@@ -1,0 +1,9 @@
+StorePath: /nix/store/g18v7s1q1vr4qfdcq42m017wai423971-gnum4-1.4.19.drv
+URL: nar/0h9s0vbp1mqqyllcqnar49f8ba5wsjfd2fcm8sy70q85hfpfkvxy.nar.xz
+Compression: xz
+FileHash: sha256:0h9s0vbp1mqqyllcqnar49f8ba5wsjfd2fcm8sy70q85hfpfkvxy
+FileSize: 748
+NarHash: sha256:0h2902l0yis16n8bc37h5cx97j7vhs5j4jdnbg3s0g83jzvdyac3
+NarSize: 1696
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 7iak4031qpwdn4fmwx9klrhccgwcz5di-m4-1.4.19.tar.bz2.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0snn4hxif2ql17yfjksml2abiqa81f8c7hy5x02mdmaaqqsd5c2n

@@ -1,0 +1,9 @@
+StorePath: /nix/store/ncr63h34xvj6k58cxrqa6qjghkchcjnx-gperf-3.1.drv
+URL: nar/0fd4s62ii0abfnf5k7hs9d118465bn12bj72iv0fkly2nyyhg4az.nar.xz
+Compression: xz
+FileHash: sha256:0fd4s62ii0abfnf5k7hs9d118465bn12bj72iv0fkly2nyyhg4az
+FileSize: 928
+NarHash: sha256:1fsng7c77flah5pb6d3sjcv70lrihn7j5iwa13395avvdw8z0amn
+NarSize: 2184
+References: 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv 77rsvl37xp174nvk2wh9bxla5jzj7bca-bootstrap-stage1-sysctl-stdenv-darwin.drv bkdqqypzfsz21dwlinv4ql6bqnj0sq0g-gperf-3.1.tar.gz.drv fhgxnl9w44p4wq4hs9g64y3fyjbjh809-gperf-c++17-register-fix.patch v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0xvdfy921vy8bkk1izxp5f7jlcgbyb6vl2vy191gf3r0az75da8b

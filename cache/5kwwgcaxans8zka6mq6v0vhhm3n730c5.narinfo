@@ -1,9 +1,0 @@
-StorePath: /nix/store/5kwwgcaxans8zka6mq6v0vhhm3n730c5-SDKs.drv
-URL: nar/095g1gswd8yjy8gpzml385qkp0saqbhx4q69z40qs70v1kagvyvr.nar.xz
-Compression: xz
-FileHash: sha256:095g1gswd8yjy8gpzml385qkp0saqbhx4q69z40qs70v1kagvyvr
-FileSize: 1040
-NarHash: sha256:1mrx2aqbilvnlflczc5pzclvblczlmpx7l6wpd4109a70l3z2zfc
-NarSize: 2352
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv kshw9iassci9383nyyps9ydliik6slrz-SDKSettings.plist.drv q4c3hgkcr50a7nzarb1mggcs3a4kjq14-SystemVersion.plist.drv vyxkv8r4sc7sr2sm9xl4lxbyxzs9g8wi-SDKSettings.json.drv w12mifg34dx2l90mdc7gq9qirc9hn979-stdenv-darwin.drv
-CA: text:sha256:0kdzqpxyfjjwjlym0ygic5shp8pjrhadnrrwhfxy6a0wanklj5fn

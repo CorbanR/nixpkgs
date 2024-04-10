@@ -1,0 +1,9 @@
+StorePath: /nix/store/a4z8gp77lfrj1p9any1q047lx4vsg67n-python3.11-brotlicffi-1.1.0.0.drv
+URL: nar/1s81330i47f0rkrbm11xjcy759mw0495shcnadzgiqjz63gxf5wa.nar.xz
+Compression: xz
+FileHash: sha256:1s81330i47f0rkrbm11xjcy759mw0495shcnadzgiqjz63gxf5wa
+FileSize: 1844
+NarHash: sha256:0vjy46lw7927rf5yssfwzbsmcn9469ig4rchrgjv2w6aw39mzvjc
+NarSize: 4408
+References: 0x4akick2gp1v5qrgcc7srylfrv2il49-source.drv 1x8m520lxi7k8mi14ags76cgad318nja-python3-3.11.8.drv 46d08420bh83lij55cbj0rxpd3g290i6-python-imports-check-hook.sh.drv 562s7fm1vzk7jqvvlnpy3k0ryq61mhxr-setuptools-setup-hook.drv 7flcgadzsl7pidysz7y2j01fr1szmkad-python-namespaces-hook.sh.drv 8n3fd1nncgw2l5rx0y0zr7ir2kjc8bxi-brotli-1.1.0.drv 8zdssxwqr43jm4qx68ks7gpm6p6h9v1z-python3.11-cffi-1.16.0.drv bpasqnadfnkxblixjgi13z1dq6dnzjp3-pypa-install-hook.drv dmczbdk4h75yx2iyvgsvznc9cq247xg7-wrap-python-hook.drv hxaax8irvw5m0dlj28xry5na9ibcdbpy-python-catch-conflicts-hook.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kzhraibfkbrwq2gz1r94yk1n8bq6y94d-python-remove-bin-bytecode-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vvpk5gcslwkzmnhfkz3s2nii7bqfi5sb-python-remove-tests-dir-hook.drv w98pydy8vbj8h3qc9w383ryivz4wqknk-bootstrap-stage3-stdenv-darwin.drv wa0m792wbiv7k1im2xz2n83vrbpr3yxh-ensure-newer-sources-hook.drv zwhrsbig75c0qsy6bcf4n4wsv9ixmsy2-python-output-dist-hook.drv
+CA: text:sha256:0qkw2s9m2ily8bjjym41ihy4flq3gyg38rkchcglqsagpb8bjk8v

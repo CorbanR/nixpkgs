@@ -1,0 +1,9 @@
+StorePath: /nix/store/fnn86z1c01ya4di1y5f9qghr6v6pxfm6-CVE-2023-40305.part-2.patch.drv
+URL: nar/130hnb0fpf0w20s9ndllahn94iky7klrwfslxw53hg4qkgfr6kdi.nar.xz
+Compression: xz
+FileHash: sha256:130hnb0fpf0w20s9ndllahn94iky7klrwfslxw53hg4qkgfr6kdi
+FileSize: 2044
+NarHash: sha256:1swwl0l0lxxsk6nr1qg0z2f44sp5x8fqs0zxf9i5iq3lia4di84b
+NarSize: 4952
+References: 5w0vc855d00nrifm3vkmh37qsn58dgav-curl-8.6.0.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv l23lgh75k1m7ibn19vqcad32rjg33hcq-patchutils-0.3.3.drv sd1k3yj1bkaznkw4j7hqnm1psg6c74av-mirrors-list.drv
+CA: text:sha256:0g97fwifbsrhy2yf489g4ymycag3pyjkqj3rdzjjc4szzlb3zf14

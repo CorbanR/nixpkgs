@@ -1,0 +1,9 @@
+StorePath: /nix/store/f5k2rp1l60f6kk7ah9ik7a5baiknzrh4-cyrus-sasl-2.1.28.tar.gz.drv
+URL: nar/199418hd3ld5n817rkr408np52p1wl7gz8v0j16kjkvsjm2rbjfw.nar.xz
+Compression: xz
+FileHash: sha256:199418hd3ld5n817rkr408np52p1wl7gz8v0j16kjkvsjm2rbjfw
+FileSize: 1396
+NarHash: sha256:0yb2p12s3svhszcv9ls0g4qwxzqcs5k698ydaaav75v7z5nx738y
+NarSize: 3432
+References: 9fb7876pspxqmf8756csxc1zwipig3q1-bootstrap-stage0-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zgh2kqjbwiiyh82327d197lcz6dipxlw-mirrors-list.drv
+CA: text:sha256:1w3q1wjylh59cbbfq77zpqhv6vk0f1r3zzv69f61q7m9sj047c6a

@@ -1,0 +1,9 @@
+StorePath: /nix/store/46878bjhf59x1kcb89wlna2jg00wjci5-python3.11-gevent-24.2.1.drv
+URL: nar/03kiwiqx89qwhwvzaf0ca84i44r4sf744cixdj0gvm8gr3bxng7m.nar.xz
+Compression: xz
+FileHash: sha256:03kiwiqx89qwhwvzaf0ca84i44r4sf744cixdj0gvm8gr3bxng7m
+FileSize: 2324
+NarHash: sha256:1pm3729l477wkw43y67x7bwfpdy5a24ihm3fx87s2b3zm99fzwfh
+NarSize: 5592
+References: 18hkgaq68sl103x134gryi0ayj1kbscq-python3.11-zope.event-4.6.drv 1x8m520lxi7k8mi14ags76cgad318nja-python3-3.11.8.drv 46d08420bh83lij55cbj0rxpd3g290i6-python-imports-check-hook.sh.drv 4q0gax2vypx6nyb2kr8g3gl74dkw29br-gevent-24.2.1.tar.gz.drv 7flcgadzsl7pidysz7y2j01fr1szmkad-python-namespaces-hook.sh.drv 8hs7v83ax598p3b0jgpgpkqyi978z50a-python3.11-zope.interface-5.5.2.drv 8zdssxwqr43jm4qx68ks7gpm6p6h9v1z-python3.11-cffi-1.16.0.drv b6c3y21lhik4fm1q26sd9aaz3m3l8995-python-runtime-deps-check-hook.sh.drv bpasqnadfnkxblixjgi13z1dq6dnzjp3-pypa-install-hook.drv dic46f23c8c5wqndlinb53b5bh7xjs7i-python3.11-cython-3.0.9.drv dmczbdk4h75yx2iyvgsvznc9cq247xg7-wrap-python-hook.drv gvfscdl3k72hmi3hwj8mw88p11mxlvw7-libev-4.33.drv hxaax8irvw5m0dlj28xry5na9ibcdbpy-python-catch-conflicts-hook.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv jchcny6cq6nzwazvv6376nmi2mr8590v-python3.11-importlib-metadata-7.0.2.drv kzhraibfkbrwq2gz1r94yk1n8bq6y94d-python-remove-bin-bytecode-hook.drv nn00yjzk8nikg92mzbc94j2gn2cxbwmh-python3.11-wheel-0.42.0.drv r9ac0v66fi0x1xilq089qmj5sgwi3vkh-pypa-build-hook.sh.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vvpk5gcslwkzmnhfkz3s2nii7bqfi5sb-python-remove-tests-dir-hook.drv w98pydy8vbj8h3qc9w383ryivz4wqknk-bootstrap-stage3-stdenv-darwin.drv wa0m792wbiv7k1im2xz2n83vrbpr3yxh-ensure-newer-sources-hook.drv yh8ny0vrrf4sr57xp446rrq8rn5wi9q3-python3.11-greenlet-3.0.3.drv yxnm9z8yqd3cih441y92jxbc2cd6d53m-python3.11-setuptools-69.1.1.drv zwhrsbig75c0qsy6bcf4n4wsv9ixmsy2-python-output-dist-hook.drv
+CA: text:sha256:0ir45dclk0sqrh2sf6ympr9m3r7bg34wmvwqmgsr0v1aifh8xni0

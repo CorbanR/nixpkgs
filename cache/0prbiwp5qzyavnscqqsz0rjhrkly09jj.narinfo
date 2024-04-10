@@ -1,9 +1,0 @@
-StorePath: /nix/store/0prbiwp5qzyavnscqqsz0rjhrkly09jj-python3.10-pystemmer-2.2.0.drv
-URL: nar/075i5gg7s7lshyi46c62fq209l63lh3pxi04ngbyr3q9g1df59v8.nar.xz
-Compression: xz
-FileHash: sha256:075i5gg7s7lshyi46c62fq209l63lh3pxi04ngbyr3q9g1df59v8
-FileSize: 2120
-NarHash: sha256:1y6dw1jg4x543m339p144drgnvpqqkz72g4jbn06drzj4swdp6ph
-NarSize: 5144
-References: 2q5b31qbf71abcma4wsqkn50ncjh250d-setuptools-setup-hook.drv 3pxnxyklpmmxwqma9zdks1yf38lyvn2c-python-output-dist-hook.drv 5bsbpwnnhbz5jni1283l2hsiql8ri6zq-python-remove-bin-bytecode-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7sxv0172bmbihrp1cf70n7fnpw1d3njb-source.drv 9r6cc5r3nf8f6q70hrh18a56871hzxiv-wrap-python-hook.drv c2wrkw05xs3pi2s1y2266fsjkmwqn1xg-python-namespaces-hook.sh.drv f6xa4hhgd2gbbg7rwphy10s18n53crpw-python-catch-conflicts-hook.drv fs3vjy5l1pv0mpclqv75kfvdm40bfchj-libstemmer-2.2.0.drv h7rbqnncyy5z24d6cj41wccxwkzs31x9-ensure-newer-sources-hook.drv iy8m9c5smkn8myy18pjyn65c4q2imlai-b2826f19fe8ba65238b5f3b4cee7096a698f048e.patch.drv jjnrv0x1jhbfwbp9vnrds64idh2vrjvs-2f52b4b2ff113fe6c33cebe14ed4fd4388bb1742.patch.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv nq2h2c6fh57164l0xpv9923i25fc0rzn-python-remove-tests-dir-hook.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv q34g5qlybml3jnrvwwj43512vljns7fq-setuptools-check-hook.drv r30v8xr0h0nrzdjhzy465633ybbj27cw-python3-3.10.12.drv s8iziy7iw8fd6jiy5ivlw6pxk6gai9vp-python3.10-cython-0.29.36.drv s9zk4j4w8yawv45milnalbmipz6a3xl0-pypa-install-hook.drv wz4lr06pa42g5px6dakgbrc9fqlhz84m-python-imports-check-hook.sh.drv
-CA: text:sha256:1a1ddqxhzbnsc11fnb0232c0vayp3isx2q4dg6hkis9grkq6n1pz

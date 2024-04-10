@@ -1,0 +1,9 @@
+StorePath: /nix/store/2mvz93hiid6wlx444anpwkcak0g9p18k-docbook-xml-4.3.drv
+URL: nar/1pf764alnn5jffr72awq5inpyyah3c5zlws7ax4fq951iwdqsmjw.nar.xz
+Compression: xz
+FileHash: sha256:1pf764alnn5jffr72awq5inpyyah3c5zlws7ax4fq951iwdqsmjw
+FileSize: 1100
+NarHash: sha256:0bnfydyby0vgnhcqd7ab0fda8hklrs1whqqn70b4carsyg2rmq97
+NarSize: 2416
+References: 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv 82sjhsvghpbj9719a1mvdr26wvr62bfs-unzip-6.0.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv pgnm13ffclaka6llwj77m8kk2h38fjq5-docbook-xml-4.3.zip.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v8av0499flp5kbb43g846013ni9aw5x0-find-xml-catalogs-hook.drv
+CA: text:sha256:0f2cd4nfwdxqkqa735d7jx16cnyqzyvc8rib2w5f31iiff5msjic

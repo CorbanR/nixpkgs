@@ -1,0 +1,9 @@
+StorePath: /nix/store/awdnlplbapmjs27g952a67c3k3c49fpg-iana-etc-1.17.patch.drv
+URL: nar/0i2gfa3sddq8c9bvwi13jl8ypwns1kyn5v0fkcnc0rvw22hppyps.nar.xz
+Compression: xz
+FileHash: sha256:0i2gfa3sddq8c9bvwi13jl8ypwns1kyn5v0fkcnc0rvw22hppyps
+FileSize: 884
+NarHash: sha256:00m197iaxc1h5q2nxfvj3h3qjmq9dza4vickan9bzwqdaqqpir8x
+NarSize: 2072
+References: 4vq3350zc6sqnibkqpgic2d6cvi1r9hq-substitute-all.sh 8ipriyyj9m50arfcivwjhhv40f65512f-iana-etc-1.17.patch cfpbh7zypfbly32k4aw6ps105iaca241-iana-etc-20231227.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv
+CA: text:sha256:0kgww3gvk9y4n67nimx8fz8fqdrvw3ib2q04dfcr7znvf75k4g5w

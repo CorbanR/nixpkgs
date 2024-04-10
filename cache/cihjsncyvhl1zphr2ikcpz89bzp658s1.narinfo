@@ -1,0 +1,9 @@
+StorePath: /nix/store/cihjsncyvhl1zphr2ikcpz89bzp658s1-launchd-842.92.1.drv
+URL: nar/063ngr898jwm5yp0w5jw5z00mhcqcaqbx2jfvb3b4jan0nbzn5yr.nar.xz
+Compression: xz
+FileHash: sha256:063ngr898jwm5yp0w5jw5z00mhcqcaqbx2jfvb3b4jan0nbzn5yr
+FileSize: 1228
+NarHash: sha256:0a5a8dsiby0pdkfpmkbs24s1skl2085r3rv01b50zjm710sd96n1
+NarSize: 2856
+References: fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv lizrpd4zckk5bag21p52rl7y39lhih2v-launchd-842.92.1.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1vvhw41hxmwvxjwa99i0fzc9qxpnph2k725kf2vzsxdrhzhn9wdx

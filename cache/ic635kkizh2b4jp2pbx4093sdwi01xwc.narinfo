@@ -1,0 +1,9 @@
+StorePath: /nix/store/ic635kkizh2b4jp2pbx4093sdwi01xwc-perl5.38.2-XML-SAX-1.02.drv
+URL: nar/19svpgf48wb0gf9634fg9k7jv99kh0b0jmgqvwx8xsqyhk7fh5gm.nar.xz
+Compression: xz
+FileHash: sha256:19svpgf48wb0gf9634fg9k7jv99kh0b0jmgqvwx8xsqyhk7fh5gm
+FileSize: 1112
+NarHash: sha256:0s5iwqp0br6kbb3y59bpkjy22dbcl4rabyw81i1p21pk5cl47ypc
+NarSize: 2568
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh bnw2l92w2y042cwl6w982hddzacakrjd-perl-5.38.2.drv n69a08g9xi2y01licb3yyg06drggj0zw-perl5.38.2-XML-SAX-Base-1.09.drv q2dcda4pnf37mar4bx56bc02ag2y2fjd-perl5.38.2-XML-NamespaceSupport-1.12.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv w01smnfp43rins9k0c6p5n7jwq2r89pk-XML-SAX-1.02.tar.gz.drv
+CA: text:sha256:1gmpng7fwq08ylqc38xlp8q983363c61sm5k48if6s9gih6ygfgh

@@ -1,0 +1,9 @@
+StorePath: /nix/store/w5qfqfq3dgyzsq7gmkld56jcvc4vy9zw-fuse-2.9.9.drv
+URL: nar/1yy6vx3zzscgn1lyvdzskgv01cckgpnwh839ar1w2ml9pa1mibgg.nar.xz
+Compression: xz
+FileHash: sha256:1yy6vx3zzscgn1lyvdzskgv01cckgpnwh839ar1w2ml9pa1mibgg
+FileSize: 1660
+NarHash: sha256:1mg9yh7ifvi45qmzx9khm4pzcj72v4zzwaxz1sxcr1fkfknwc6a8
+NarSize: 3600
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 15148br4qiyqw9qj3nnbbqvrb2ic6r5j-util-linux-minimal-2.39.3.drv 2xzcmn0mj548biangnpfgmdvhc3xa71q-source.drv 5bmd27yp66w5kfzaki2b65lf8b1vxwas-fuse-3.16.2.drv k0alq44vgbq9ap8x9rmf6gwccqq1lby8-gettext-0.21.1.drv kli6c1qjrrbiblzxfl2qmmlslmli84ij-shadow-4.14.6.drv q20d6d6lkd6b58r5ncg5398cn8vr7nqr-fuse2-Do-not-set-FUSERMOUNT_DIR.patch qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv spryins4rzr9c14g7p1nhn4ly5aqm8nl-autoreconf-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh xl47cvn9qxmg5p4vbri6kgbxmdhh7cfi-fuse-2.9.9-closefrom-glibc-2-34.patch?id=8a970396fca7aca2d5a761b8e7a8242f1eef14c9.drv
+CA: text:sha256:0370k11gq1ll1h8awpzz69v3n07p30xhkj68kzchicw3drwxgp4l

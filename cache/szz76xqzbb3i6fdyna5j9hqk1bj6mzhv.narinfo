@@ -1,9 +1,0 @@
-StorePath: /nix/store/szz76xqzbb3i6fdyna5j9hqk1bj6mzhv-perl-5.38.0.drv
-URL: nar/12mxmvkywmsy4862xcpq8ikshb41pvi5kv94r2c3c5a758wqmsqp.nar.xz
-Compression: xz
-FileHash: sha256:12mxmvkywmsy4862xcpq8ikshb41pvi5kv94r2c3c5a758wqmsqp
-FileSize: 2228
-NarHash: sha256:0n87998rd2mlyj3vpn91076p6rqqmh5cp4pq6vhan5crds6h9856
-NarSize: 5336
-References: 4hm244x3n7las9qkgsxwdqndac7xxk3j-perl-5.38.0.tar.gz.drv 55lbvcqz3z97jcqf2zxqwav58wq52z8l-no-sys-dirs-5.38.0.patch 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh mgy1diy93qhcrljnws4028wk9mbx2p5n-clang-wrapper-11.1.0.drv n315a3g9bcxlypqzbm36nzrrg40h6lcj-cpp-precomp.patch n64y6zff0sdzq4l3gy75qd4di7c3slmm-zlib-1.3.drv qddf01np1jbas8fi92qvx9aha4xbmzh2-clang-11.1.0.drv qmpf4ib9byvny85r9i212wam2gic59m3-libxcrypt-4.4.36.drv qwws3apyhna2vn48s6fjnrw4yj3pcsx6-Libsystem-1238.60.2.drv x0ll5lnagy6lg7hgvqb26il3qnmsqisd-sw_vers.patch
-CA: text:sha256:1jzz80pjxlvz6wy1aw3cgklx1q3nkq1dbi4i3sjh7fxm59l0kyia

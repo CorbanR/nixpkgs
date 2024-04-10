@@ -1,9 +1,0 @@
-StorePath: /nix/store/c803q5iyvcr7mwjr48bj27gyjc79fpd7-bootstrap-stage0-Libsystem.drv
-URL: nar/1mrr8883plnmb6xkrcfl0n9w6b4l23rj9km8s9ng0b9mzz8c7vxf.nar.xz
-Compression: xz
-FileHash: sha256:1mrr8883plnmb6xkrcfl0n9w6b4l23rj9km8s9ng0b9mzz8c7vxf
-FileSize: 1012
-NarHash: sha256:11463w4qslc16qi4y2y6hixjrcg55asw1srvg0s9x10n34bw1qv8
-NarSize: 2520
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9nmvxvis95i4i2y90zbvaklnbhqhfzfb-darwin-stubs-10.12.drv p4jpyr1vsixxl6sbkfy0r0398wwmqbci-bootstrap-stage0-stdenv-darwin.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:08ryil564lm1d09j48d24a8ka7gx0nwag60dr2fjhpqd4r1jm46m

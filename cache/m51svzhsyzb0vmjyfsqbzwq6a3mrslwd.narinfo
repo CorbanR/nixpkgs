@@ -1,9 +1,0 @@
-StorePath: /nix/store/m51svzhsyzb0vmjyfsqbzwq6a3mrslwd-apple-framework-SecurityFoundation.drv
-URL: nar/1kvmri0qaf6wpv5j6h2z9wvpsya9wscl7yrds33aprc48f5vfyxk.nar.xz
-Compression: xz
-FileHash: sha256:1kvmri0qaf6wpv5j6h2z9wvpsya9wscl7yrds33aprc48f5vfyxk
-FileSize: 1988
-NarHash: sha256:15x8qzrbqdnyk3ac5ddli7193kga4qsa2751l6s3ji0rk8l543la
-NarSize: 6280
-References: 2vdmb5gw9j5mvfw4flsqvm4px3fjf4ny-print-reexports.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh c3x71wkhbf94icbwyf9qpj40ccdq1i5s-MacOS_SDK-10.12.drv d5mn54hnbrc8y8p7kkj6d9j1d2hsnb0w-darwin-stubs-10.12.drv
-CA: text:sha256:1hhgiiq499s1znip69czy0lf4dvr80zdbadhaiw0d24srng1klra

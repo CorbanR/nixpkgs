@@ -1,9 +1,0 @@
-StorePath: /nix/store/hs9jicy76rxl87j3lnpsbg5hjxyihs0k-unbound-1.18.0.drv
-URL: nar/0r5x4xikafaw2qjhzzcs7q1402bdynswb14phc8vr0r9szcyphka.nar.xz
-Compression: xz
-FileHash: sha256:0r5x4xikafaw2qjhzzcs7q1402bdynswb14phc8vr0r9szcyphka
-FileSize: 1944
-NarHash: sha256:120m495siidvhqr3g9xdb8dzc4gdmqj9zk5qbda25q6wf3q3g5w7
-NarSize: 5320
-References: 54frrj2xyv3qkxwg8qf9dq9b8blb7988-libevent-2.1.12.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 708x5k47a93c556c7cv6dpmqk101bamh-pkg-config-wrapper-0.29.2.drv 72zn3kabv87r2grdv0qi58gsbv0kw96q-unbound-1.18.0.tar.gz.drv a2pp0q5kx1hin9bx1a7fhwv9wgf3y92c-expat-2.5.0.drv fqc0s3j8bcjwrkqjrjbrdbqg0g10w9ji-nettle-3.9.1.drv mdz3sggiz7dlv8skxs8xnaa4gc04m2s1-dns-root-data-2019-01-11.drv nk95lj714998zxa3qig346h5kc4mn4l3-make-shell-wrapper-hook.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv qvsqrm131g6nry8qd67af3a0a4v686bs-bison-3.8.2.drv w413fn4wzsw1jrfs8k2xmp4v1nky3y6z-openssl-3.0.10.drv
-CA: text:sha256:08vx91bmi0zr4xiyyvrmr44dk3dnvcbh5qyw70dbnjrp13ry7yjc

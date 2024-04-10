@@ -1,9 +1,0 @@
-StorePath: /nix/store/nxrz03477nrxzcc8kbhj6ii2rwwl6zy1-Libc-1158.50.2.drv
-URL: nar/1zz1xwjsfxlgdfwqsw3rzrm65h2fcmi6v7ivb7crg4bpy463w08g.nar.xz
-Compression: xz
-FileHash: sha256:1zz1xwjsfxlgdfwqsw3rzrm65h2fcmi6v7ivb7crg4bpy463w08g
-FileSize: 2072
-NarHash: sha256:1k8ir1d0w4dysj5ylx8gmhxzwljrb3d8q0gr7x1idgaxcra1i89z
-NarSize: 4984
-References: 23pgxb98lcpi9cfbswik7cvbvdi730xr-ed-1.19.drv 58silbas0pxa5ij9jd9aszvrh0n8nx6i-0001-Define-TARGET_OS_EMBEDDED-in-std-lib-io-if-not-defin.patch 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh cj5fnwliv8v3a7i8vkgfjf94838ksri5-bootstrap-stage1-stdenv-darwin.drv j5f9v68mgl32m3imydm4zj8ndcafbd3h-source.drv msdg8kr9r0gphwcgwvlk4r6da6q4jdgx-unifdef-2.12.drv qa3cmsm2qmplgq34301kfz17l15zknbz-CrashReporterClient.h r9icn0qnmn271hllcan9d588ykm2xfs7-Libc-1158.50.2.tar.gz.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:0dyszy9n7xk6kfpkz0rw9v3p6cjxjqkhmlrsdq0xwj151c16sf6q

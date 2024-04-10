@@ -1,0 +1,9 @@
+StorePath: /nix/store/x4jnj7z6j1vnwqmdy3hpyi4fhhbx9f8w-libarchive-3.7.2.drv
+URL: nar/1djjsvs206bgj3jkrczmiwfv24pfnqm57iy0k705m27b53d68pbh.nar.xz
+Compression: xz
+FileHash: sha256:1djjsvs206bgj3jkrczmiwfv24pfnqm57iy0k705m27b53d68pbh
+FileSize: 1964
+NarHash: sha256:08k5rq25s2g4fjgvzn610l1184jp0xrqg7dq5vhfrrxfh9rr1kg8
+NarSize: 4920
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 2nqm56w67h51hhzx8id50az3jxgn9bs7-xz-5.4.6.drv 356gn69x591s18dna8yx83dp45gw3kjj-attr-2.5.2.drv 508gn2w9g1giizvavs3qyb1kckja8z43-bzip2-1.0.8.drv bi6dqphrr6n7578vnvyd4h70wjxcpgk8-pkg-config-wrapper-0.29.2.drv gd3pvyxakadc27hlv7zlxbhfhmxjx036-zstd-1.5.5.drv ijsqcnq4zbpv3l6bcycjrwgv7q76dnyy-sharutils-4.15.2.drv ja673f47sh9b2q518mjgn36lc8bssky9-zlib-1.3.1.drv jc70lw392q8wrrmczi2mn4hqwqrn7fx1-e2fsprogs-1.47.0.drv jygmbf7m1bsbcq0imgcl6fjhvh28mp2i-openssl-3.0.13.drv n7lj5x78aygpjv932labqnwj593h96sk-32-bit-tests-fix.patch.drv nivkjsqvgwd6rvl3832662w2inqadc56-acl-2.3.2.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv qwk4hh2zaj5agzw6mhn2pmydf5cvsrcj-libxml2-2.12.6.drv r04lfxvagvs536dax5vnxhdi4lbvh7wf-lzo-2.10.drv spryins4rzr9c14g7p1nhn4ly5aqm8nl-autoreconf-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh z744n901k4zi12dcnkp5a9r6zzccsdfr-source.drv
+CA: text:sha256:0v2alzhf9y4a20n2qvfvkqjxclkppkgxng5irsyfhrrgp8i6b783

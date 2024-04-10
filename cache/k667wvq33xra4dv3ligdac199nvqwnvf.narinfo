@@ -1,0 +1,9 @@
+StorePath: /nix/store/k667wvq33xra4dv3ligdac199nvqwnvf-flex-2.6.4.drv
+URL: nar/10d6di3brq01xbmqlq03xszbyb04zmkm84pgb7i46pnrxygvjjkc.nar.xz
+Compression: xz
+FileHash: sha256:10d6di3brq01xbmqlq03xszbyb04zmkm84pgb7i46pnrxygvjjkc
+FileSize: 1340
+NarHash: sha256:1716dkc5kbia9bj42jrhw6hc7fpzfghi5iag3ylnwvh2qbwqnpjj
+NarSize: 2896
+References: 2bsc3v70a241fwm94wzswkp3d8zfv6nw-glibc-2.26.patch.drv 8gndsc9yvjna64adcc4372nbp9qal2bj-gnum4-1.4.19.drv 97p08jaf00m8rxznl12imikj5spgpxkw-autoreconf-hook.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv raiv1gxwiyfssqadgs2v397cp90xfi2c-help2man-1.49.3.drv rc50mpqyl5mbz1nvs7jhrvfg26vmfd4k-clang-wrapper-16.0.6.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wli86mkxc641g4bp31mc211x8pm13pyr-bison-3.8.2.drv y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv yfcdsw3w52yrsgx9jydxfajbippj3l9c-flex-2.6.4.tar.gz.drv
+CA: text:sha256:0mywk7x2s5chq3jfrhc1g95fz07404czaadgbgnrzdgsgi9f04l7

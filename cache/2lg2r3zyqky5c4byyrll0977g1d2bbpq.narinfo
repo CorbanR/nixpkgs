@@ -1,9 +1,0 @@
-StorePath: /nix/store/2lg2r3zyqky5c4byyrll0977g1d2bbpq-xcbuild-0.1.2-pre.drv
-URL: nar/1f396sl95bm1wacrwkw1invhvvmjzykidq7ijnj6ls51j3zwqyf4.nar.xz
-Compression: xz
-FileHash: sha256:1f396sl95bm1wacrwkw1invhvvmjzykidq7ijnj6ls51j3zwqyf4
-FileSize: 1772
-NarHash: sha256:0mdsp33xqgpavgw0i1nnc2a0r1fcy2mc6kh0w1ifa5gwsnv71mim
-NarSize: 3776
-References: 05bdqi0chi5kav7n7yxyj0a3j43025r8-source.drv 0n02j2xhay378xnfm2glf1xmxi8qpgla-cmake-3.26.4.drv 23q4bqmy97d2qhcinp9zg2m7k31jmgxy-libxml2-2.11.5.drv 2hl7ghanczhhkbhsc33nvhsn8h89yx2y-apple-framework-ImageIO.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv dgrl6c5bdmb5l352zrk8i09jakg21av3-ninja-1.11.1.drv h5w1irii5ysndzw79svj87llmxhj0k7a-includes.patch hwqxbrq2r8kp6h3ccl04rh9g40gk2vgg-apple-framework-CoreServices.drv n64y6zff0sdzq4l3gy75qd4di7c3slmm-zlib-1.3.drv npw9n3fb5vx2cwrmxw80gahlcx0rfr18-source.drv r49igaxngdwwxd3q3j84zg637ladd569-apple-framework-CoreGraphics.drv ysd78w85xbpxvbpb8qm8zdy90cf7kpml-source.drv zq2mz1pd6nq089la403i11cjna32pn4w-libpng-apng-1.6.40.drv
-CA: text:sha256:0aw5w981f5xi0p85kvpxz33ilqfgv05baa6wd4s8zc9k1z20vxg6

@@ -1,0 +1,9 @@
+StorePath: /nix/store/6sqgscjbzmga54ahfal8f513nkvxdzjc-libcxx-src-16.0.6.drv
+URL: nar/16xg2sq3lh65l0wwm9pmcnlymfjcrw8yc3v5sksps76z66xldr8i.nar.xz
+Compression: xz
+FileHash: sha256:16xg2sq3lh65l0wwm9pmcnlymfjcrw8yc3v5sksps76z66xldr8i
+FileSize: 964
+NarHash: sha256:0a2arnb111vj12d7h4ib5i1y1134ibl94k8xgvdwp4ik84avsyc0
+NarSize: 2552
+References: 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv pz6pq5gsccjgdy69v94vr19pjfr0d30g-source.drv ryf113a6way7z93bgwx69d0il6bg6qj3-bootstrap-stage-xclang-stdenv-darwin.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1qj6h0km7zx234bj55p98vs9cwmg6ir7w358z1fv09a6yv55j8hp

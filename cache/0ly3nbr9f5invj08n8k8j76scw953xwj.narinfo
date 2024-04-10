@@ -1,0 +1,9 @@
+StorePath: /nix/store/0ly3nbr9f5invj08n8k8j76scw953xwj-libcxx-16.0.6.drv
+URL: nar/0wzbrazddlfqyd1xcbq6840s20pm4167bivj7vkjx877g1apf5pg.nar.xz
+Compression: xz
+FileHash: sha256:0wzbrazddlfqyd1xcbq6840s20pm4167bivj7vkjx877g1apf5pg
+FileSize: 1220
+NarHash: sha256:1p062vd30vpv7znqfqdhg5wjaf8mrdcmbznr1d7n0bakdqs0pndi
+NarSize: 2736
+References: 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv 5j9ci9whzlpwmlka08gspfqnw4mnlapf-ninja-1.11.1.drv 6sqgscjbzmga54ahfal8f513nkvxdzjc-libcxx-src-16.0.6.drv bx6p2rkma3ws8m65xb3v16rw065jfdpx-python3-minimal-scproxy-3.11.8.drv pypqb574a0qipwj1941p342xcma7lah3-cmake-minimal-3.28.3.drv qli17q53m509g5qlp5n16whxxp1q39rz-bootstrap-stage-xclang-stdenv-darwin.drv rjr3f45i0h67wn0cbv91s06xkh6wk7k0-fix-darwin-dylib-names-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1xbbcnrnw393gv3k29f5ax7zycp9balsl91kdl9j7g3vs7niiblp

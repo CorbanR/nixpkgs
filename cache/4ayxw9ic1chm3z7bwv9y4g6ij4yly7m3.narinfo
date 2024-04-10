@@ -1,0 +1,9 @@
+StorePath: /nix/store/4ayxw9ic1chm3z7bwv9y4g6ij4yly7m3-perl5.38.2-CGI-4.59.drv
+URL: nar/0xd6kvk2z4q8wh2z8vvj0418mm0v8pxfhwzpy0407raq7vdn9hm7.nar.xz
+Compression: xz
+FileHash: sha256:0xd6kvk2z4q8wh2z8vvj0418mm0v8pxfhwzpy0407raq7vdn9hm7
+FileSize: 1176
+NarHash: sha256:1mwj230phl4ql4d7kgfdi7ljfgv27kdcxd44wfrc4ph0fyqicwv4
+NarSize: 2736
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh bnw2l92w2y042cwl6w982hddzacakrjd-perl-5.38.2.drv fkfbpd3dnx3l1knlm31s59ix905m1jv8-perl5.38.2-Test-Warn-0.37.drv n63x77dkmrxwsp8f96jrmc2l9w8lqzp7-perl5.38.2-HTML-Parser-3.81.drv n7vpc2xgbhg7fcrvdclqj33gdk4cih8n-CGI-4.59.tar.gz.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv qldj3mganchc3ap8vblxmj9vj2gc9252-perl5.38.2-Test-Deep-1.204.drv rhsw5xb1pqwfmyvh0z2740j3kmjgzrq9-perl5.38.2-Test-NoWarnings-1.06.drv
+CA: text:sha256:1hjjmz8qlksb2fbyfw7la5yc2jgr0j717nfn3vmha0ysc2ym7mn8

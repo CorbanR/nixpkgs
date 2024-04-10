@@ -1,0 +1,10 @@
+StorePath: /nix/store/djzpbhqxbx6i4d2ry56pyx0di0m96x87-rapture-2.0.0
+URL: nar/1g83j0k6xrb3g3564177m3bsmbgcf0jakxnqs7myrh5nanjmfv1r.nar.xz
+Compression: xz
+FileHash: sha256:1g83j0k6xrb3g3564177m3bsmbgcf0jakxnqs7myrh5nanjmfv1r
+FileSize: 2328832
+NarHash: sha256:1dbc6vnal8v5x289lk97f9zn107nk9iisz92rx0wh30s3h4i1sx5
+NarSize: 8048896
+References: f5r0imm1321f3m56qvm4y3p0sak92ppm-iana-etc-20231227 qiknqc1jswsxgf0k7dda3acq2fnqz4jl-tzdata-2024a rw2k7ph7wy3lc2ps73ln5gphjxzc1kii-mailcap-2.1.53
+Deriver: m06zhswyyazvfpfnm5jpmn5nihzrmm8n-rapture-2.0.0.drv
+Sig: nixpkgs.raunco.co:NPbryoxG+5m22/dBd7UNQNHAmb/jn3imVAEuu8yxOzt3fliK8HgP0W52Ukk9b7ADMeCgrEbjTHBBwHzW7Ub3BA==

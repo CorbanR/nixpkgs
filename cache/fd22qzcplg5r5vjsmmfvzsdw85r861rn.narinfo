@@ -1,9 +1,0 @@
-StorePath: /nix/store/fd22qzcplg5r5vjsmmfvzsdw85r861rn-xmlsec-1.2.31.drv
-URL: nar/1qs10vqflhi903rlzj720bvrwc19zjcv7sir29a318nvniqw9nd7.nar.xz
-Compression: xz
-FileHash: sha256:1qs10vqflhi903rlzj720bvrwc19zjcv7sir29a318nvniqw9nd7
-FileSize: 1840
-NarHash: sha256:0jsmnxmvvm9mxxg41k8s2131l663jkdxp26nbl4gw1sdbh4cb8ql
-NarSize: 4040
-References: 1lgbrl3vczmfr6zh2qb1pwick6qydx4f-libxslt-1.1.38.drv 23q4bqmy97d2qhcinp9zg2m7k31jmgxy-libxml2-2.11.5.drv 688j5ml68wqa4p7zydwfl8ld9358l9bv-libtool-2.4.7.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 6zdl7x8hdldmyzfr9a8mvwvzq416irsl-pkg-config-wrapper-0.29.2.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv chzcwvq86v4nl8va1g25bnvljiv63ff1-gnutls-3.8.1.drv d5xkcp1s7irmylrdhlr37qcwgxcxnc49-nss-3.90.drv di8adg893w26yjydxns6clb0g6y7x4qd-lt_dladdsearchdir.patch dvhlaszvhf9ajwmnh13nkzlapfjksdyd-libgcrypt-1.10.2.drv ik8558rik9zf2k8irbnfy9p0qphaqb9w-xmlsec1-1.2.34.tar.gz.drv imym6zqs442glr1xp6psvan4vr4kqzy7-remove_bsd_base64_decode_flag.patch yxqx1vh5dgkc6l5qqmdk5bsmi88a12ms-openssl-3.0.10.drv
-CA: text:sha256:0vgn8m39a1i12fpps2zhk0vrcfzrji2bywjz5664hnykd6nhmbml

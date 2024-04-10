@@ -1,0 +1,9 @@
+StorePath: /nix/store/d6v4p62520vgz4953gj6skggvrkdffih-perl-5.38.2.drv
+URL: nar/0phhv3bpfmcnbx0w47khhjs07d7nj0v0r7fd10z74dk9s81ap37q.nar.xz
+Compression: xz
+FileHash: sha256:0phhv3bpfmcnbx0w47khhjs07d7nj0v0r7fd10z74dk9s81ap37q
+FileSize: 2248
+NarHash: sha256:05mawxff2savyr6709g75zxhz0knypjlnmvqmakyh9vlmwqjw7aq
+NarSize: 5544
+References: 55lbvcqz3z97jcqf2zxqwav58wq52z8l-no-sys-dirs-5.38.0.patch 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv cjx3j24mcdlls93csibiayz0qnwdwj61-bootstrap-stage0-Libsystem.drv dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh jnqc5nmjwz8d4539g20vmzi6g66175lw-bootstrap-stage0-clang.drv n315a3g9bcxlypqzbm36nzrrg40h6lcj-cpp-precomp.patch nq6fdrh9rxfx50wq1jicz0hvxkchx806-bootstrap-stage1-clang-wrapper-boot.drv pq7nyxp4vr42i7gd9ibc4vp6kpnj3b3x-perl-5.38.2.tar.gz.drv sm8q2gxaq4ndk54g59kcgg53khyil8yb-libxcrypt-4.4.36.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv x0ll5lnagy6lg7hgvqb26il3qnmsqisd-sw_vers.patch xdyabdxqf6r3af9qngmcrxkkkpwyxj5a-zlib-1.3.1.drv
+CA: text:sha256:13xg08cywy24fyqrh7qvsh2x5f412h376sxcc5ys1rx17ww9z8pz

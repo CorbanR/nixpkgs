@@ -1,9 +1,0 @@
-StorePath: /nix/store/s8362rbwf82kir00vcm539sg1nbxyvpk-cctools-binutils-darwin-wrapper-973.0.1.drv
-URL: nar/0lc5k7f76xc9psvx5idg8s17jai0lvnkmmwsp0i2jccnavmgn0x2.nar.xz
-Compression: xz
-FileHash: sha256:0lc5k7f76xc9psvx5idg8s17jai0lvnkmmwsp0i2jccnavmgn0x2
-FileSize: 2468
-NarHash: sha256:1jj39hj2h8yf9f9kj4kgryxcbfrv5maqy73l5ks6vmjpv4jzbl7b
-NarSize: 7320
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9lfxayhmbgvwklgiblyl2w4p7wp7ailf-expand-response-params.drv 9rq2ab2wl3ia1ism6zjvdxcnpv9s9rgn-add-hardening.sh ahshdgbz28l53q37pbjg9cy46x9fd6g3-Libsystem-1238.60.2.drv bybz12bxjbk94hm58zc70sc0xhj2dxif-add-darwin-ldflags-before.sh cj5fnwliv8v3a7i8vkgfjf94838ksri5-bootstrap-stage1-stdenv-darwin.drv dk3ly72kiv27srcj1mjr5n4112vx2hfk-setup-hook.sh kgcmpr4i443sdyszl1b7i4k86ddxbrwi-utils.bash mrzpfh0ml9k07sw019ydagbb2z1q4sxz-add-flags.sh p2ynpdqzm8lfdq6xywa8igkjp56b8q65-ld-wrapper.sh v62y4y0422s6z686m4b02j4pinz9dh7s-cctools-binutils-darwin-973.0.1.drv v9034cqc4h5bm10z4vz3n1q2n55grv5y-role.bash wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:0rlxs9153f5lrmp97dz5z2ybnhqjhn49ssdhkmam0n6kwji08y69

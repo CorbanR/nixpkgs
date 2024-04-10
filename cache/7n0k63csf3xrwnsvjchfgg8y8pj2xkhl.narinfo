@@ -1,0 +1,9 @@
+StorePath: /nix/store/7n0k63csf3xrwnsvjchfgg8y8pj2xkhl-nghttp2-1.60.0.drv
+URL: nar/1v52cxjpwq1rkq9p975cibb1qwardij2mg5mb4qwn3b1r5hx96z3.nar.xz
+Compression: xz
+FileHash: sha256:1v52cxjpwq1rkq9p975cibb1qwardij2mg5mb4qwn3b1r5hx96z3
+FileSize: 1568
+NarHash: sha256:1sb1jh1mfp59vkrgvrdy5vh20kyg194ixrnigdw0i2xi6799qr4h
+NarSize: 3624
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 7wvi7259j81yxrf553lvcidkv3yg0ckd-install-shell-files.drv bi6dqphrr6n7578vnvyd4h70wjxcpgk8-pkg-config-wrapper-0.29.2.drv j2jchfln5yzmm9qx4wcrxjhw3dbdm5ir-nghttp2-1.60.0.tar.bz2.drv ja673f47sh9b2q518mjgn36lc8bssky9-zlib-1.3.1.drv jygmbf7m1bsbcq0imgcl6fjhvh28mp2i-openssl-3.0.13.drv kl0ac09zn2fgqjj1ck9qgz3rhdfkqmh2-libev-4.33.drv ph1icliscldh4ca5yl39mqamqy0187b6-tzdata-2024a.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv rss25krz71lf1gnwx5s5b7hmxxhgbg1l-CUnit-2.1-3.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh ydrp14ba6xmd5jhak5is09cvld8qz9g4-c-ares-1.27.0.drv
+CA: text:sha256:08lyr9i48k2sj29j4mzss0wj67ynrgs96iixd1fd2nyzf6a13qah

@@ -1,0 +1,9 @@
+StorePath: /nix/store/1c0z8314g6g5rcx83dg6gsizdi0wllfz-xnu-private-3789.70.16.drv
+URL: nar/0hvw2pd7mv2vwsxq73qsng3q88n5sp9wdjl20nxniq2hb7kv0vz9.nar.xz
+Compression: xz
+FileHash: sha256:0hvw2pd7mv2vwsxq73qsng3q88n5sp9wdjl20nxniq2hb7kv0vz9
+FileSize: 948
+NarHash: sha256:1y3c0ladazqh7jrs16g1kyx88mqds8ap8g05kmw1b6dvxawkd7gq
+NarSize: 2144
+References: fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv lqy9wxf9qmfzkmx97dzhaqz12d1rv0aj-xnu-3789.70.16.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0ag7nnqqi3h6q3hv2fvih7jmqhw952p7b6ha0xsjrcxdz5wjdijg

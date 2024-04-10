@@ -1,0 +1,10 @@
+StorePath: /nix/store/5nb6y2s4c3plrn9an4485bf9kh8h6zmp-libiconv-50
+URL: nar/1z8ficfh3sfl65dj165kvbfc330asbvjly9k1l5hr4y3cwm7m6lx.nar.xz
+Compression: xz
+FileHash: sha256:1z8ficfh3sfl65dj165kvbfc330asbvjly9k1l5hr4y3cwm7m6lx
+FileSize: 526872
+NarHash: sha256:0s0im3w69p6803ycmm686sw1cw8cfv9a83x3fvhrpv4k50r7c2mz
+NarSize: 1101536
+References: 5nb6y2s4c3plrn9an4485bf9kh8h6zmp-libiconv-50
+Deriver: g2k1gay5f0ss9ffd78fxflqabihba7sm-libiconv-50.drv
+Sig: cache.nixos.org-1:/ywqtlqDAQc5D4LjHsEGvCqoZepl5SOeOAboVqZkfS+tOvDiUssbUfAR45MyQ2YZrc82neC7gceQ06nxW1YgBw==

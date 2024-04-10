@@ -1,0 +1,9 @@
+StorePath: /nix/store/5d1rfi81lqzvlp26lisg252c2awhy5yk-rake-13.2.1.drv
+URL: nar/0bva18gfgvqlp7ssk8pv4jk9cpzdq5y2a78fp94l91imarcl6h5r.nar.xz
+Compression: xz
+FileHash: sha256:0bva18gfgvqlp7ssk8pv4jk9cpzdq5y2a78fp94l91imarcl6h5r
+FileSize: 1204
+NarHash: sha256:12i8i3zrldzrs04p9wzx06bkxj26kc65rd1xr120jyiwrwirv94i
+NarSize: 2672
+References: cl91xc33mp4b4nxa9rppfb4qjaab0xs1-rake-13.2.1.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0fca5rp1cwxrd2a0n5s80hpn1jlwll10351i16wg871b0b1n8n3h

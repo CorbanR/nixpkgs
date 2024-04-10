@@ -1,9 +1,0 @@
-StorePath: /nix/store/amfbm6mz53ai4p4qfpb6ps92a2g6hz7s-revert-runpath.patch.drv
-URL: nar/19b2zwdqifvjpajv91l0b4jb42xj9rhi98pkp8adizmmc79pviw0.nar.xz
-Compression: xz
-FileHash: sha256:19b2zwdqifvjpajv91l0b4jb42xj9rhi98pkp8adizmmc79pviw0
-FileSize: 1924
-NarHash: sha256:1anygphnmmms4m9kg3bb4g5fqagyfj3i0pzhd6awjwnhzbd2bfy2
-NarSize: 4664
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh i8a31hfv8pz9l0z1y7iimdl6h04dga75-stdenv-linux.drv lr82zvprmf5m7q1p5hq0kmgd3645w3dx-curl-8.3.0.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv vryskm77rszka6hjmzn6g057c4jli8my-patchutils-0.3.3.drv zj04va6kfr8j44f34ya6ng6w2pdm87jg-mirrors-list.drv
-CA: text:sha256:0mx2vsf1sq6s814zkiyklkf40naajkw6diw0rynkkjrbg958pfrb

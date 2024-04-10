@@ -1,0 +1,9 @@
+StorePath: /nix/store/vsxq4qlpspc4h216x965q85rcs82yg19-apple-framework-QuartzCore.drv
+URL: nar/1n6fhmqpqbr0lgh4kwzkz99brxpk2kl87kq880yix28m9qrrrx84.nar.xz
+Compression: xz
+FileHash: sha256:1n6fhmqpqbr0lgh4kwzkz99brxpk2kl87kq880yix28m9qrrrx84
+FileSize: 2432
+NarHash: sha256:1rpzxgy56dnbn2i20nxck5i2asghxnqy6jg52iksbrn8k8bddsm0
+NarSize: 7840
+References: 0073gs10q87rjkajqq76qjgybggpffwb-objc4-709.1.drv 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv 5sd6ckkpwkqnyk4r12d9p4amjnlgw843-apple-framework-CoreVideo.drv 77rsvl37xp174nvk2wh9bxla5jzj7bca-bootstrap-stage1-sysctl-stdenv-darwin.drv 9ym9ahw9q4750wlpc13nhqg4ym306drd-apple-framework-CoreImage.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh b4wmhqpisrkcigk3hb5fwx8729ndw9b1-apple-framework-ApplicationServices.drv gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv igm605kcgpyqlqakvch98sqybc00w7f7-apple-framework-Metal.drv ihxi1pqa05vwlj8v5nicmifz3233gqnd-print-reexports.drv pbskdk0vxfkvjrw4r3is43bd25wyl5xl-MacOS_SDK-10.12.drv s17hpg8xi78nik37c6dba7vg5vp0iws4-apple-framework-OpenCL.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:14ji4jyav1lim76ilih0cnfx5w2sxpl76ar8hxan72ls69q8j4gg

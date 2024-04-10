@@ -1,0 +1,9 @@
+StorePath: /nix/store/9w0k8m353gkdp3srpiypb909s4s12mq1-go1.21.0.linux-amd64.tar.gz.drv
+URL: nar/082rabclw9wbdzhnpmchfnwd87ibc5d5rv7ybfzfjijb55xbg2ph.nar.xz
+Compression: xz
+FileHash: sha256:082rabclw9wbdzhnpmchfnwd87ibc5d5rv7ybfzfjijb55xbg2ph
+FileSize: 1268
+NarHash: sha256:0a8823adgq90jy5yfilw3pq9aqks0s3fz3h5vdiy02p7r4lsfjh7
+NarSize: 3040
+References: 54k11sjcal05q1cncw9fxsggdgk8awmf-curl-8.6.0.drv 6gp9fjlmrqlcz3mq8930f3pl0vjjj2hf-stdenv-linux.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv zy4m4n0jb3b89p43w9c2myly276dfa7n-mirrors-list.drv
+CA: text:sha256:15y4rp0hkmbxkv0v788wsnsrr3yxlpn66mgg4avwqjyq3g5naa9b

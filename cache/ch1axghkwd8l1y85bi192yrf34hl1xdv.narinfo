@@ -1,0 +1,9 @@
+StorePath: /nix/store/ch1axghkwd8l1y85bi192yrf34hl1xdv-apple-framework-LDAP.drv
+URL: nar/16jd25862iky4hsa4hr7fh3gfv9wsaaiv8a4hpcynkdrj6s0m7qa.nar.xz
+Compression: xz
+FileHash: sha256:16jd25862iky4hsa4hr7fh3gfv9wsaaiv8a4hpcynkdrj6s0m7qa
+FileSize: 1980
+NarHash: sha256:0pfrk70nsrdcn0xxwm5q1r6s08z765fqb56r3s7pcna7z2k50v2s
+NarSize: 6200
+References: 44drw7fqybpz5xjawlk0aqd15iyk41yf-MacOS_SDK-10.12.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv s6217j4bn9id4a3fwzq42a6z5h7ra58l-print-reexports.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:0w2x1aywlsn7c4886ppn287vi8gbl9jhg083mmrk8w688gqmp3qb

@@ -1,9 +1,0 @@
-StorePath: /nix/store/k26njk0lcvcn1mahpjgify40g08cg7cm-find-xml-catalogs-hook.drv
-URL: nar/03lbj03j4amn2bb9q9l09nz2sf09w676kxyqwxrswb0bx46i2r4d.nar.xz
-Compression: xz
-FileHash: sha256:03lbj03j4amn2bb9q9l09nz2sf09w676kxyqwxrswb0bx46i2r4d
-FileSize: 876
-NarHash: sha256:00i2c455y3dn25v3d1sz38mlwlk3b0sm7x6mylyipi3s13qvz86k
-NarSize: 2040
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 81gwh57vnrm6qpw3gxmdmrjsp26dxi7p-find-xml-catalogs.sh l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv mgz64lz144ajizlf3gylich35nmb7xzj-bootstrap-stage1-sysctl-stdenv-darwin.drv
-CA: text:sha256:0y5qacrz6v8yy341akknf9882fgbf8p63cjgalyr5iflk26jsjmm

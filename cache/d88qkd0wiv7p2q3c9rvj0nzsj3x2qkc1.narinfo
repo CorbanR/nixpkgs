@@ -1,9 +1,0 @@
-StorePath: /nix/store/d88qkd0wiv7p2q3c9rvj0nzsj3x2qkc1-libarchive-3.6.2.drv
-URL: nar/0qjwwxmjwj8ri0swy903140d4by56s9g7vdyb2msqna6p77k5ca8.nar.xz
-Compression: xz
-FileHash: sha256:0qjwwxmjwj8ri0swy903140d4by56s9g7vdyb2msqna6p77k5ca8
-FileSize: 1900
-NarHash: sha256:1z80b34r7xymgjy6l5wyhnpqfxan9pf0f39d0l3ml71vj38pi7af
-NarSize: 4712
-References: 23q4bqmy97d2qhcinp9zg2m7k31jmgxy-libxml2-2.11.5.drv 2xjik49hhblpam64wn1xgv2ghl4g8qhx-bzip2-1.0.8.drv 38rpix8s9w0xh332i0kba1d0avpi343n-001-only-add-iconv-to-pc-file-if-needed.patch.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 6zdl7x8hdldmyzfr9a8mvwvzq416irsl-pkg-config-wrapper-0.29.2.drv 8xnkzk02rg7rjwcwhzwlbmhrj04kxcp8-autoreconf-hook.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv a67p1g10lbdca0vqa5jd24kk18ya3qb2-lzo-2.10.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv j0vg5hbcnp2yy132nr551w812whh9b19-zstd-1.5.5.drv n64y6zff0sdzq4l3gy75qd4di7c3slmm-zlib-1.3.drv qsxiff6qzz2vf9ph0rianvbxy9zxc6pm-xz-5.4.4.drv vks2jdrfyvbr2a1k00jxiv8s268kwsm6-sharutils-4.15.2.drv yxqx1vh5dgkc6l5qqmdk5bsmi88a12ms-openssl-3.0.10.drv zh3yjvs22ja0kdn8qqxmm0c641xshncn-source.drv
-CA: text:sha256:0s9m1gsa7vxx29sbpdlc0gbvw3a8lnfgpk896d77xamhvnl7pyiv

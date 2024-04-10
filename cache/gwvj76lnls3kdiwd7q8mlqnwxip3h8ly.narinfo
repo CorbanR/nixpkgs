@@ -1,9 +1,0 @@
-StorePath: /nix/store/gwvj76lnls3kdiwd7q8mlqnwxip3h8ly-cacert-extra-certificates-bundle.crt.drv
-URL: nar/05lld8l3xr03swck3as9g9a94x2xqb1pvkj8zaqkvghv0dimh8fm.nar.xz
-Compression: xz
-FileHash: sha256:05lld8l3xr03swck3as9g9a94x2xqb1pvkj8zaqkvghv0dimh8fm
-FileSize: 940
-NarHash: sha256:09rdw90jlfwmmkfzi6mdqd844rswzcq9raag5szk4scw1mn5db9p
-NarSize: 2160
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv w12mifg34dx2l90mdc7gq9qirc9hn979-stdenv-darwin.drv
-CA: text:sha256:1hq5cgh34cf6spq53dhas9ys2hxw37zr33nwfx7n8fk16vahrfkz

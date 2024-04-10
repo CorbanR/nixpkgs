@@ -1,0 +1,9 @@
+StorePath: /nix/store/fnxis2r7aafkd8wbylxv8yv9gigjxp90-DarwinTools-1.drv
+URL: nar/07xkcq63al0yr3qj2ilf6l0vvcnyb6m0hnmm1ihxc7pk0m66kyxd.nar.xz
+Compression: xz
+FileHash: sha256:07xkcq63al0yr3qj2ilf6l0vvcnyb6m0hnmm1ihxc7pk0m66kyxd
+FileSize: 988
+NarHash: sha256:0kfpc68b9jkx27yv3yyhwi7rhqsa6pnqsvxk0swcihnxkfvbbd9j
+NarSize: 2256
+References: 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv 20h02nyn8y3ikbcz5m3nmbhih5h8p03y-sw_vers-CFPriv.patch acp97miwm1bjxaysr2zwj8i0wl0mprf2-DarwinTools-1.tar.gz.drv gg8747wkzyhi00w1g1nfqxvh4067q3q4-bootstrap-stage-xclang-stdenv-darwin.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0smv48g1nvl63ws4fjg4ry09xklg60n4cndb8m395fsylb2dj3wg

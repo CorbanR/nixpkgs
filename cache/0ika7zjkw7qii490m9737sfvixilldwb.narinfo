@@ -1,9 +1,0 @@
-StorePath: /nix/store/0ika7zjkw7qii490m9737sfvixilldwb-bootstrap-stage1-clang-wrapper-boot.drv
-URL: nar/0ga706c53s2gqfd6shk3fgk4nk3x7r9117a17y9mvnpbaibvnybx.nar.xz
-Compression: xz
-FileHash: sha256:0ga706c53s2gqfd6shk3fgk4nk3x7r9117a17y9mvnpbaibvnybx
-FileSize: 2648
-NarHash: sha256:195z2qbzwdicknsjw1mmhm5d19xsqfa25ky4ix0aw3svgyjah8zh
-NarSize: 8912
-References: 40wf5xf2dhfz46nijaay5zrdf2gni9hf-bootstrap-stage0-binutils-wrapper-boot.drv 47gspvwaxra868q4rsmva0g5nz7zac6p-add-clang-cc-cflags-before.sh 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7x1i3i212743sfbjgvmzhmlnr21x1gim-cc-wrapper.sh 8ph9wbjr7gl9hp612ppx7czdxlcaq67r-bootstrap-stage0-compiler-rt.drv c803q5iyvcr7mwjr48bj27gyjc79fpd7-bootstrap-stage0-Libsystem.drv d09xbx1axdfzasi9ddl2kjnwh661f76h-bootstrap-stage0-libcxxabi.drv g63hglp5fxyj2mkbbvi0q3hf2hs6bbr0-bootstrap-stage0-clang.drv ji2yrl1na00bwav65hh1vr0nc0s1xzvz-add-flags.sh kgcmpr4i443sdyszl1b7i4k86ddxbrwi-utils.bash mc5v0wg47gwj0m7f3smzs5mvpsgxrs3r-setup-hook.sh p4jpyr1vsixxl6sbkfy0r0398wwmqbci-bootstrap-stage0-stdenv-darwin.drv pwixm4vn8sl05ff6dmc21ymfm8hp7bzh-bootstrap-stage0-libcxx.drv v9034cqc4h5bm10z4vz3n1q2n55grv5y-role.bash wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv y7s34z2dkhvgjgjdb9zwm7zbzq1k0711-add-hardening.sh
-CA: text:sha256:01fr7cdkghmc7j4qd1py2piljlrs4ar40hn4x4dyya9i4wj7qprd

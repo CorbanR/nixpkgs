@@ -1,0 +1,9 @@
+StorePath: /nix/store/d11a17rf3f3fv38qinpxwlzv8rcs3rz6-man-db-2.12.0.drv
+URL: nar/1jksylczx8q093jfpy0bnvkvyybb98yqv7fz6c1600lisz7v0fqi.nar.xz
+Compression: xz
+FileHash: sha256:1jksylczx8q093jfpy0bnvkvyybb98yqv7fz6c1600lisz7v0fqi
+FileSize: 2124
+NarHash: sha256:0wyf63xvp6nfh2a64958d8lcsgfbhrfmzcax26b1lhyv5ffyby6x
+NarSize: 4704
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 6qgm3p3203h1803mm40lfw0gbhrxr9gd-groff-1.23.0.drv bi6dqphrr6n7578vnvyd4h70wjxcpgk8-pkg-config-wrapper-0.29.2.drv gd3pvyxakadc27hlv7zlxbhfhmxjx036-zstd-1.5.5.drv glfiarlznmsczgan1bxdq2ykc8ywq97x-make-shell-wrapper-hook.drv hv9r7np0ahynpswy1swja6xhl36c1w2v-libpipeline-1.5.7.drv ja0j0v80jmmycg78s2cqhrf0v9n600qa-gzip-1.13.drv l75lx8nsayhrlar3aypq30v51ciisjw5-glibc-iconv-2.39.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv spl6s672ix9rfl4mvjaxf7wkpdniix8r-systemwide-man-db-conf.patch spryins4rzr9c14g7p1nhn4ly5aqm8nl-autoreconf-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh w08fkzqxcmkjff3qsxxsvjxibf0kwpx5-man-db-2.12.0.tar.xz.drv za2g075rq71jd3p0a1iz493j8hibg1xk-db-5.3.28.drv
+CA: text:sha256:1m56yqdih6sqhlvvcay7sc4cssyrb3hwxqk8rh1jrrqmikdmk827

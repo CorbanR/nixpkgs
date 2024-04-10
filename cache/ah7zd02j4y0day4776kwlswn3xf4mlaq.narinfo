@@ -1,0 +1,9 @@
+StorePath: /nix/store/ah7zd02j4y0day4776kwlswn3xf4mlaq-ensure-newer-sources-hook.drv
+URL: nar/10c950aq14g7rdjn9zbazs4m9wkal06gl6s4idnx8d6w1rlalp7v.nar.xz
+Compression: xz
+FileHash: sha256:10c950aq14g7rdjn9zbazs4m9wkal06gl6s4idnx8d6w1rlalp7v
+FileSize: 792
+NarHash: sha256:0d1xirhsamvdijc09znxspc7mbih7cj4a6am54lhknc984f8c470
+NarSize: 1768
+References: 6gp9fjlmrqlcz3mq8930f3pl0vjjj2hf-stdenv-linux.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh ydr53slwnz718lgi9852ngwdv7p03r32-ensure-newer-sources-hook.sh.drv
+CA: text:sha256:11gqlf7p78nlwppkp4avs0mw3hb3kfbshg8rdng5b1pmfnlis8bp

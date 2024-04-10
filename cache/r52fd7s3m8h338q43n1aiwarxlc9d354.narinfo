@@ -1,0 +1,9 @@
+StorePath: /nix/store/r52fd7s3m8h338q43n1aiwarxlc9d354-pypa-install-hook.drv
+URL: nar/1aqz5a8vfkcxpwmxly371yhlkn3xgqs57rvqigch1miszlzafz0j.nar.xz
+Compression: xz
+FileHash: sha256:1aqz5a8vfkcxpwmxly371yhlkn3xgqs57rvqigch1miszlzafz0j
+FileSize: 1076
+NarHash: sha256:1bdxcd41mh4z8v95y97lk562my6qm40090ff7dnbhkyid591jja0
+NarSize: 2584
+References: 5ld1s9nynb9dj3scls7lk1iifaq83j4s-python3-3.11.8.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv ib3rz26ch1p4fjxiwkwvzrd4r7yw57l6-pypa-install-hook.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv n1nkq85mpiy1cgvlpkm98vfxh512s01d-python3.11-installer-0.7.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:114mhrwmxr6y7gda5wdwcwfwqwdwlnircjjgwk8pb1l40r65cr9g

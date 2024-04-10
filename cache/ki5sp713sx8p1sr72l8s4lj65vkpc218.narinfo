@@ -1,0 +1,9 @@
+StorePath: /nix/store/ki5sp713sx8p1sr72l8s4lj65vkpc218-flex-2.6.4.tar.gz.drv
+URL: nar/1pnsfzv55p2bwq7838rixxgrlrll2l17r6aakx41vcvinq7m6bpl.nar.xz
+Compression: xz
+FileHash: sha256:1pnsfzv55p2bwq7838rixxgrlrll2l17r6aakx41vcvinq7m6bpl
+FileSize: 1360
+NarHash: sha256:0qzxn44vcqqlz74zqzsay6rhc4lc6nc6i6c11s00sbicja31wgzb
+NarSize: 3264
+References: 9fb7876pspxqmf8756csxc1zwipig3q1-bootstrap-stage0-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zgh2kqjbwiiyh82327d197lcz6dipxlw-mirrors-list.drv
+CA: text:sha256:1r9clgil93fv4xqb0pw5pxvgxpqsjagaddhq39l00r9fsrwp0827

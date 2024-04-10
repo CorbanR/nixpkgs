@@ -1,9 +1,0 @@
-StorePath: /nix/store/16y1jbbpj8svkdxs2wikhdy7liapl69b-python3-3.10.12-env.drv
-URL: nar/1gdw1gc0y7bk97ba53qwzscharwbifq27l1gjv19nhamb10kdnbr.nar.xz
-Compression: xz
-FileHash: sha256:1gdw1gc0y7bk97ba53qwzscharwbifq27l1gjv19nhamb10kdnbr
-FileSize: 1492
-NarHash: sha256:0m9s9jpaz6smdfxd39d1ib67if4gvfbzbx0q52hv2g247ssz01wk
-NarSize: 3752
-References: 10jr013lhsfny309hwavyxnnarxsbfz9-make-binary-wrapper-hook.drv 17r5xp5b6i76msjnc3dq1qmcr51wiq0c-python3.10-six-1.16.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh c1c8x0p3nrj98plijqm8jx6zlnp00wnk-python3.10-gyp-unstable-2022-04-01.drv fbyjcpdqv92z8fc85plz3m6j4f0m2jv2-python3-3.10.12.drv i8a31hfv8pz9l0z1y7iimdl6h04dga75-stdenv-linux.drv jdrc1yvs32mgpdb0cb16za708npfml3b-builder.pl.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv y6kgq2whq4cg87w45ha2x0m2ndljqn94-perl-5.38.0.drv
-CA: text:sha256:1j50n2bmabgfqkwh84lb4fgz2w9aw34yk33jxzmxk0cgn262399a

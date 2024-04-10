@@ -1,9 +1,0 @@
-StorePath: /nix/store/f1l7g9nikg8pa52d2kj75mjbz65p0wjq-libcbor-unstable-2023-01-29.drv
-URL: nar/0v6ylal9sjjv10wl5p6h9rigb3agg79zgjvdxr5as10awqsf299m.nar.xz
-Compression: xz
-FileHash: sha256:0v6ylal9sjjv10wl5p6h9rigb3agg79zgjvdxr5as10awqsf299m
-FileSize: 988
-NarHash: sha256:0kp2bj4x9bfl6l87af61kcmf3qphx0s01b2rwsdm1s1m4smawc3x
-NarSize: 2176
-References: 0n02j2xhay378xnfm2glf1xmxi8qpgla-cmake-3.26.4.drv 1xqjr59frvmd8snv694cwz6x2i8bjas3-cmocka-1.1.7.drv 6q7v8l3snscgpz3dczszr8kxf435sxpx-source.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv
-CA: text:sha256:1s9sgk8pfv0d4infbmjxd36pf8pfb78ln1ysqkgzy0d5fy5ki6g7

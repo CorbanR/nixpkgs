@@ -1,9 +1,0 @@
-StorePath: /nix/store/jq11400pxm2cgan5vhvwqny6fqi29y32-rust-bindgen-unwrapped-0.66.1.drv
-URL: nar/08mgm5znvdx0l0kqp2z88y5ndjxmz19c7jciq1q84d1702iz80g9.nar.xz
-Compression: xz
-FileHash: sha256:08mgm5znvdx0l0kqp2z88y5ndjxmz19c7jciq1q84d1702iz80g9
-FileSize: 1840
-NarHash: sha256:168dm3jl42l9hl6gkn9y19kqghj0z0vh5c6321yib87skzxia7sb
-NarSize: 4256
-References: 2hypj7jii7w8l507fkfl1hl82dp1nrk4-cargo-check-hook.sh.drv 5viyims1xv929ll0z4zi733kfhbl2skq-cargo-setup-hook.sh.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 6xgvdcvyv6nry4zdiaac3cc5jkp5d4qa-cargo-install-hook.sh.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv bzwk6ac0sscj0jnhgskws2wdyhavg697-rust-bindgen-unwrapped-0.66.1-vendor.tar.gz.drv cnymb5y71a3mnz4mpmhvqskxb6fv2ghj-bindgen-cli-0.66.1.tar.gz.drv fzkmipfz4gm5k84ydvjx673xmpi31n1y-cargo-build-hook.sh.drv jw56292g2wdvmnjf19ds1ca5abp2s4wm-auditable-cargo-1.72.0.drv lvblsd5aldw0m5xakfnr75rpri3mnw0s-rustc-1.72.0.drv mgy1diy93qhcrljnws4028wk9mbx2p5n-clang-wrapper-11.1.0.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps pwiwfvnq3wibx1bxgzb2pri2xpz7wg30-libiconv-50.drv qddf01np1jbas8fi92qvx9aha4xbmzh2-clang-11.1.0.drv v1nw7wy56h8jj4hjczbcl89hi5ib6bby-rustfmt-nightly-1.72.0.drv
-CA: text:sha256:05q5rd6cn8b8sncxvf9s866am97k5r3ri2fchszv6x955wc1n5i6

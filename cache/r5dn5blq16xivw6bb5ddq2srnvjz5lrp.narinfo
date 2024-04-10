@@ -1,0 +1,9 @@
+StorePath: /nix/store/r5dn5blq16xivw6bb5ddq2srnvjz5lrp-libpsl-0.21.5.drv
+URL: nar/1in52ni4msl6j75kghgwjbl7ajy82hckfw135gxy416x77xl2wa4.nar.xz
+Compression: xz
+FileHash: sha256:1in52ni4msl6j75kghgwjbl7ajy82hckfw135gxy416x77xl2wa4
+FileSize: 1660
+NarHash: sha256:05bxcv1hm4hysybpljsqjcasdd3apsszxrlbb3als00451959m2d
+NarSize: 4088
+References: 046mgkkza8dppcjqi6l52szx5xrqiis4-libxslt-1.1.39.drv 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 1nwvamw0icvmh4n7fyqq52qfldhss2zm-libunistring-1.1.drv 4hqhv9jf1cd4f09qkzs253whp1yljiqi-libidn2-2.3.7.drv 5j0ps6dqw3s1wc31klckmqgma269nawb-libpsl-0.21.5.tar.lz.drv 6z4rnjjj3gdy8cczdpqh6kgfj2scg8bi-publicsuffix-list-0-unstable-2024-01-07.drv bi6dqphrr6n7578vnvyd4h70wjxcpgk8-pkg-config-wrapper-0.29.2.drv c1p132r8bc88kvz22rpp615m43sk93kz-lzip-1.24.1.drv g78kv6bcp7cscxzk3dj6xzs3b0wisngd-gtk-doc-1.33.2.drv h399silng0mchaghh7wrlln2rkx3nr96-docbook-xsl-nons-1.79.2.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv spryins4rzr9c14g7p1nhn4ly5aqm8nl-autoreconf-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh ylbfr7skliq9rwrdcscrs061j3kb8ys1-python3-3.11.8.drv zmln989cjqs370krh6s71wm5cszd67jg-docbook-xml-4.3.drv
+CA: text:sha256:02zqk6n4dki9dc91dgdr1x2y50vwy65zcqsa4yj8q92kawc84k5z

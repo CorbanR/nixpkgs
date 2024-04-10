@@ -1,0 +1,9 @@
+StorePath: /nix/store/v9r7pzvp4v7dl3c653q2iac3jkiq913h-autoconf-archive-2023.02.20.drv
+URL: nar/0snapm3xlg4cpf33k9hp6kp53pfbnzw0ahjy8w19q5rbs42ppp6i.nar.xz
+Compression: xz
+FileHash: sha256:0snapm3xlg4cpf33k9hp6kp53pfbnzw0ahjy8w19q5rbs42ppp6i
+FileSize: 808
+NarHash: sha256:1s66xynr62z3jf7nqrlqvvm1jqpnip64bf5fi5k2jimp8gcc4ids
+NarSize: 1832
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 2nqm56w67h51hhzx8id50az3jxgn9bs7-xz-5.4.6.drv 97x9qnkbdss9w6111670wxw228b4nbvm-autoconf-archive-2023.02.20.tar.xz.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0ns7jyffy47jphaagw4zd7p8a0glxvl7k1ikyh6v9qkgn3qlqfvh

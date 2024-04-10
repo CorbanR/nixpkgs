@@ -1,9 +1,0 @@
-StorePath: /nix/store/vabxdjqw1fkrd7mh1j1lw4cfk98rx5ss-getopt-1.1.6.tar.gz.drv
-URL: nar/11pvzaff96yqg2hs4dvd8mz8b2h36h4kfmvdjhxqw2brw6mk0lbc.nar.xz
-Compression: xz
-FileHash: sha256:11pvzaff96yqg2hs4dvd8mz8b2h36h4kfmvdjhxqw2brw6mk0lbc
-FileSize: 1328
-NarHash: sha256:16bah1jb6z7rs28q59pfldwmid02qma3dbhh527f4r9z1r7diamn
-NarSize: 3024
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh i8a31hfv8pz9l0z1y7iimdl6h04dga75-stdenv-linux.drv lr82zvprmf5m7q1p5hq0kmgd3645w3dx-curl-8.3.0.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv zj04va6kfr8j44f34ya6ng6w2pdm87jg-mirrors-list.drv
-CA: text:sha256:1mmimzakyhf7wl8nbxsx5p1ad68dfk6c798c2mga17zvfvh06f1x

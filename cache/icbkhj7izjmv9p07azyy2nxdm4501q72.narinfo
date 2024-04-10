@@ -1,0 +1,9 @@
+StorePath: /nix/store/icbkhj7izjmv9p07azyy2nxdm4501q72-python-catch-conflicts-hook.drv
+URL: nar/08hi2s8jh95d2z0z223mkbgvl6hqj3r639viifbklvhjngdkiv4y.nar.xz
+Compression: xz
+FileHash: sha256:08hi2s8jh95d2z0z223mkbgvl6hqj3r639viifbklvhjngdkiv4y
+FileSize: 1060
+NarHash: sha256:0vdy03dn6fm2anm11sb7hw6wa00m860alakfs0iwqzsyiqkppi7d
+NarSize: 2640
+References: 5ld1s9nynb9dj3scls7lk1iifaq83j4s-python3-3.11.8.drv abb5b3bp5b86j7bk7z13li9dhkxw6xsd-catch_conflicts.py fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv i28r7lhgz3chfj2vgff6igjjfhand637-python-catch-conflicts-hook.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0i71rq68nccna9kr9v274ikj21a9a17hngwb6y6lzj2xrvjphxad

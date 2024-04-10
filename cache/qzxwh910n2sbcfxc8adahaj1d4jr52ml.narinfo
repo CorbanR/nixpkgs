@@ -1,9 +1,0 @@
-StorePath: /nix/store/qzxwh910n2sbcfxc8adahaj1d4jr52ml-glibc-locales-2.37-8.drv
-URL: nar/13xmah2bpzbz0kb5clnpngc7bxw4m271561a3jjz4m68i8vhzrb0.nar.xz
-Compression: xz
-FileHash: sha256:13xmah2bpzbz0kb5clnpngc7bxw4m271561a3jjz4m68i8vhzrb0
-FileSize: 3200
-NarHash: sha256:0nk69av9pz472fyaavrbbcl89729zkzzglwwl3m2z354yx24h2q1
-NarSize: 7544
-References: 001gp43bjqzx60cg345n2slzg7131za8-nix-nss-open-files.patch 17yjw33i747j1v1md1fgi4s2i0hy8klq-locales-builder.sh 2ic3ks7mycm4l8dndbbpzp8m4giagbcp-binutils-2.40.drv 40vyq2g8plapc0d0l2wi5aabj7qrvxlz-glibc-2.37.tar.xz.drv 4i5hxklirx32dy5l9lp2s4i129bi6lnz-locales-setup-hook.sh.drv 4wpijqgsxi1xy655s2q9m30hcnj2qizf-linux-headers-6.5.drv 7kw224hdyxd7115lrqh9a4dv2x8msq2s-fix-x64-abi.patch 8haph3ng4mgsqr6p4024vj8k6kg3mqc4-nix-locale-archive.patch azax4isp5al7xw03n3sabylvh8x277g5-gcc-wrapper-12.3.0.drv b1w7zbvm39ff1i52iyjggyvw2rdxz104-dont-use-system-ld-so-cache.patch bx2nar4w6g27lmdbnfcp2v2m61rg17bn-libidn2-2.3.4.drv k06glk8f3dxj3k0m9b9y7ph2nbnd1ns0-0001-Revert-Remove-all-usage-of-BASH-or-BASH-in-installed.patch kvvbjlfz5jywnx961aypc86r4rpv2plr-glibc-2.37-8.drv mnglr8rr7nl444h7p50ysyq8qd0fm1lm-dont-use-system-ld-so-preload.patch p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv qvsqrm131g6nry8qd67af3a0a4v686bs-bison-3.8.2.drv rwnpifhbiky8wmzsfyzah2qpah1z1mzk-reenable_DT_HASH.patch sjr79wy0v8lj5zxjpszg2jsgfs3m0yws-2.37-master.patch.gz yzq50nzakw5c77q3m9rvk65siw6km5kx-python3-minimal-3.10.12.drv za0pg7fmysrcwrqcal26fnmzw6vycgdn-fix_path_attribute_in_getconf.patch
-CA: text:sha256:08n09nyyrxk65d8cpmcapx6my6lj5bf536zkaz0qa4a1ld6xnlv9

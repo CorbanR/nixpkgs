@@ -1,0 +1,9 @@
+StorePath: /nix/store/vps653llvhn6bhf00iz1vp48nj7fnyha-expat-2.6.2.drv
+URL: nar/17yb75bxnp1sqcqd02vd6mpq63zbkv06vql99ky2lml86z0c1av7.nar.xz
+Compression: xz
+FileHash: sha256:17yb75bxnp1sqcqd02vd6mpq63zbkv06vql99ky2lml86z0c1av7
+FileSize: 916
+NarHash: sha256:0ax7dgm93x6ndfgvy5v1jv87j5bhf6i710cc932mnvry7c80d9n7
+NarSize: 2048
+References: a3j815q87j167a1lkabj22b3cii2k8gk-expat-2.6.2.tar.xz.drv grlmm1f5z4lnjl21xxq4byrbk5slb35w-bootstrap-stage4-stdenv-linux.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1lsqnva17xjc3czbq78nss6lvrqyhv710yfnx2m00994xqxq10x6

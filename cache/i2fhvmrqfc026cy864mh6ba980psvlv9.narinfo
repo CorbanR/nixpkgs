@@ -1,0 +1,9 @@
+StorePath: /nix/store/i2fhvmrqfc026cy864mh6ba980psvlv9-unbound-1.19.2.drv
+URL: nar/084zps0dc6a8qn4dgb3v54jqinjy9qrj67x5wfjkk3lbncg7n8gz.nar.xz
+Compression: xz
+FileHash: sha256:084zps0dc6a8qn4dgb3v54jqinjy9qrj67x5wfjkk3lbncg7n8gz
+FileSize: 2188
+NarHash: sha256:0rsm5v655sd15wzxjv8i7wp54cia2y6ikmrgp9afj5qhmblqrg4l
+NarSize: 5912
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 1rc9dz3g1xpvs6mzx5n8xql5rmar2q0w-dns-root-data-2023-11-27.drv 782ycifl8bbafw6v9wcc304wl2whn5a2-3f5175584b0bb9ff7d417bc195ec6e4316ae58d3.patch.drv bi6dqphrr6n7578vnvyd4h70wjxcpgk8-pkg-config-wrapper-0.29.2.drv cx5ggzdl520a4q9rh0i19ka18a7yq4fm-bison-3.8.2.drv fhcw235w7bwdpp87qvlgbyczg125in9g-59d98b9ef64e597c331c27160715d7a1b40c8638.patch.drv glfiarlznmsczgan1bxdq2ykc8ywq97x-make-shell-wrapper-hook.drv j7wgjrfi3l578llfmb470alhz9wghalp-libevent-2.1.12.drv jygmbf7m1bsbcq0imgcl6fjhvh28mp2i-openssl-3.0.13.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv r32fcrfn1v07nwvy9zrrslbh0l2wp780-nettle-3.9.1.drv ry7ys63cc7fmrhlczbwr9jw21636qjm3-unbound-1.19.2.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh yc024n1d913mvngsr70biqj6350v49dg-expat-2.6.2.drv z74kgvp1yhaq0jvs7nbv7zvxbcg7m6rj-93490a0fc1bf9e62e6edcd6b69f1463c7ac410e9.patch.drv
+CA: text:sha256:0b34aywbmvdz1am1lmgpj4mflpwj77bsj87g3ix1c75c80icrqq8

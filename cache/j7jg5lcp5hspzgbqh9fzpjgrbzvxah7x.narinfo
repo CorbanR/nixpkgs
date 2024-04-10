@@ -1,9 +1,0 @@
-StorePath: /nix/store/j7jg5lcp5hspzgbqh9fzpjgrbzvxah7x-python3.10-filelock-3.12.2.drv
-URL: nar/1d9cl1r4w8dm7q3i9p34hdai8whb53x21qr3f5fhxniw08wkcmpp.nar.xz
-Compression: xz
-FileHash: sha256:1d9cl1r4w8dm7q3i9p34hdai8whb53x21qr3f5fhxniw08wkcmpp
-FileSize: 1892
-NarHash: sha256:17j9kq6caxbs7l4vxk1qsd7h9nsr7jy4mpmncrxq6wglay0ki6an
-NarSize: 4512
-References: 3pxnxyklpmmxwqma9zdks1yf38lyvn2c-python-output-dist-hook.drv 5bsbpwnnhbz5jni1283l2hsiql8ri6zq-python-remove-bin-bytecode-hook.drv 6v82wg9401iq3xyzdd521h8qzqpm0z2q-pypa-build-hook.sh.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7mr8f110hrbf0i2pk5wqpzc3s8l50f5d-pytest-check-hook.drv 9r6cc5r3nf8f6q70hrh18a56871hzxiv-wrap-python-hook.drv 9z0q2jafy807ksxb1ih61hz3182c18j6-python3.10-hatchling-1.18.0.drv a1gpahw8qbj83qkgs6z02h9kagj3x4jx-python3.10-pytest-mock-3.11.1.drv c2wrkw05xs3pi2s1y2266fsjkmwqn1xg-python-namespaces-hook.sh.drv dwp8vk21v6vb94vmf5aihzzd4y7ycw0x-python3.10-hatch-vcs-0.3.0.drv f6xa4hhgd2gbbg7rwphy10s18n53crpw-python-catch-conflicts-hook.drv h7rbqnncyy5z24d6cj41wccxwkzs31x9-ensure-newer-sources-hook.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv nq2h2c6fh57164l0xpv9923i25fc0rzn-python-remove-tests-dir-hook.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv r30v8xr0h0nrzdjhzy465633ybbj27cw-python3-3.10.12.drv s7rlkj5m29fg63xpgmvmqi317rcrisdd-filelock-3.12.2.tar.gz.drv s9zk4j4w8yawv45milnalbmipz6a3xl0-pypa-install-hook.drv wz4lr06pa42g5px6dakgbrc9fqlhz84m-python-imports-check-hook.sh.drv
-CA: text:sha256:1vap0kl5f81dw15mcdkv84iawcd2iwz1fgn7f01qgmv87qb9l44w

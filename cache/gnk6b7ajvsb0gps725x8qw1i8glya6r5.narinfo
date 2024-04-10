@@ -1,0 +1,9 @@
+StorePath: /nix/store/gnk6b7ajvsb0gps725x8qw1i8glya6r5-curl-8.6.0.drv
+URL: nar/02c418alnl2fp2i84r9bynm4dv64ad74wjwdh6dlwnz7k92m3mrb.nar.xz
+Compression: xz
+FileHash: sha256:02c418alnl2fp2i84r9bynm4dv64ad74wjwdh6dlwnz7k92m3mrb
+FileSize: 2060
+NarHash: sha256:04f4bq9j3rk3ps2gafx456ksycigag3kn7dz40hc0fqskgg5117i
+NarSize: 5144
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 12l2v3kmacnpmx14p2345kk41fpv31rw-separate-debug-info.sh 447rdi7lpqbw2jpwzg0lvj3zv99a2j2w-curl-8.6.0.tar.xz.drv 4hqhv9jf1cd4f09qkzs253whp1yljiqi-libidn2-2.3.7.drv 7n0k63csf3xrwnsvjchfgg8y8pj2xkhl-nghttp2-1.60.0.drv bi6dqphrr6n7578vnvyd4h70wjxcpgk8-pkg-config-wrapper-0.29.2.drv bnw2l92w2y042cwl6w982hddzacakrjd-perl-5.38.2.drv cba92r7iy04d2zcm6i355drsnyc9lg5p-libssh2-1.11.0.drv gd3pvyxakadc27hlv7zlxbhfhmxjx036-zstd-1.5.5.drv ja673f47sh9b2q518mjgn36lc8bssky9-zlib-1.3.1.drv jygmbf7m1bsbcq0imgcl6fjhvh28mp2i-openssl-3.0.13.drv q31kafxw5m6ms61788x00nj0nimmnma0-libkrb5-1.21.2.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv r5dn5blq16xivw6bb5ddq2srnvjz5lrp-libpsl-0.21.5.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wvkfz4p305ffz7m8g0x8ia1zpf3yld9g-brotli-1.1.0.drv
+CA: text:sha256:1wgbhpxb37ii102qb7a5497pqwkad81a8yawhh9h34m6aa7fzyz4

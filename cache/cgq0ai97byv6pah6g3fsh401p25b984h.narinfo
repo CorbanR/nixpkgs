@@ -1,0 +1,9 @@
+StorePath: /nix/store/cgq0ai97byv6pah6g3fsh401p25b984h-apple-framework-NetFS.drv
+URL: nar/07alymjjlhliqsj8s2fz86s1528lr8bwkg7dysn8pv81ixwa853x.nar.xz
+Compression: xz
+FileHash: sha256:07alymjjlhliqsj8s2fz86s1528lr8bwkg7dysn8pv81ixwa853x
+FileSize: 1980
+NarHash: sha256:0bv30zx1ifiz7v7gifsf2g0s4ydkw0gf59hfip8w81206ac14a6w
+NarSize: 6216
+References: 44drw7fqybpz5xjawlk0aqd15iyk41yf-MacOS_SDK-10.12.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv s6217j4bn9id4a3fwzq42a6z5h7ra58l-print-reexports.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:1zdwhd3ha8kwhm8kgcn52m9l7qli1fxj40kw9jsm4cdf42q7xqgw

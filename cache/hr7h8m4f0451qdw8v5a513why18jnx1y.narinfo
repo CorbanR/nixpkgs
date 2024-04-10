@@ -1,0 +1,9 @@
+StorePath: /nix/store/hr7h8m4f0451qdw8v5a513why18jnx1y-apple-framework-CoreVideo.drv
+URL: nar/054537jr48k6468n28yhqka9yqniw8b29q8spl7682ab6r7hs7f8.nar.xz
+Compression: xz
+FileHash: sha256:054537jr48k6468n28yhqka9yqniw8b29q8spl7682ab6r7hs7f8
+FileSize: 2280
+NarHash: sha256:09126d2xr48yxmkhsq6v9vgg95zgbl5n8mhsan2nwlw8xgadp2i7
+NarSize: 7336
+References: 0lwl1h1b729hfgysfxlgvnqpcl9hqi9k-apple-framework-ApplicationServices.drv 44drw7fqybpz5xjawlk0aqd15iyk41yf-MacOS_SDK-10.12.drv 9i0v18swxlr45f9r0833y02g0xaga7z9-apple-framework-CoreGraphics.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv hc1d8karv4fhnqlvpilcl14s144zgjzb-apple-framework-OpenGL.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv rgx5iyai7vv0rd8g83i4789cjxilj9km-apple-framework-IOSurface.drv s6217j4bn9id4a3fwzq42a6z5h7ra58l-print-reexports.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:1478na93f8ahv563c55pjdvkn5dhhvq8rcrj0pzq03lhs52h5w84

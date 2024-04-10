@@ -1,0 +1,9 @@
+StorePath: /nix/store/ngxjsbi0hda57zda44jj0isxm32323hg-icu4c-73.2.drv
+URL: nar/0v4mjhrc7vlf79fwbi1y4039fmcll3jqzzfgzjc13cymcf7azlxx.nar.xz
+Compression: xz
+FileHash: sha256:0v4mjhrc7vlf79fwbi1y4039fmcll3jqzzfgzjc13cymcf7azlxx
+FileSize: 1360
+NarHash: sha256:1j77h8ghzhvl3czigdilf3rdx8yf13aap8laaxrdyizlqy3cnz7n
+NarSize: 3176
+References: 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv c2hnv0ipin25grb2p5rvrb3k46j4w2id-icu4c-73_2-src.tgz.drv qzyw2scr13cl132304q90vk7di2y0fcq-fix-darwin-dylib-names-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:026nhzjg80mdw3gn8znjd377w53qia6sca47yhrpbwklq6rdzcic

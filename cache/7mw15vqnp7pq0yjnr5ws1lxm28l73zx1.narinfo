@@ -1,0 +1,9 @@
+StorePath: /nix/store/7mw15vqnp7pq0yjnr5ws1lxm28l73zx1-perl5.38.2-HTTP-CookieJar-0.014.drv
+URL: nar/1dxicirxqi7h134j207wy30cns0m9lvqkzb5i4nw5qj95vc8pch7.nar.xz
+Compression: xz
+FileHash: sha256:1dxicirxqi7h134j207wy30cns0m9lvqkzb5i4nw5qj95vc8pch7
+FileSize: 1320
+NarHash: sha256:1nzamixnjzqzk9m420qfhxk532a93bkb57dvz9pibc3fq7nhw317
+NarSize: 3192
+References: 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh fymb096rw63prh7s3ynhmma4bfqssi5z-perl5.38.2-Test-Deep-1.204.drv hxzvydywvfxxbwdbsi4swg3lh5gm3hhr-HTTP-CookieJar-0.014.tar.gz.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv imxny7nz7pnb9riagprwi1vmxpn5vxfh-perl-5.38.2.drv m974w3985qiqik2q5a22xcmhczl6cd8g-perl5.38.2-HTTP-Date-6.06.drv vdya7rpzh8ibpw0c04ycpfihv29j6h6y-perl5.38.2-URI-5.21.drv x1y7fgmdppsxsjvv64sxy2swv2dnhbbj-perl5.38.2-Test-Requires-0.11.drv y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:0z43j8gb4q7sdivm861xf1lmv6f6w614j6dmdb3ncbhc9wx0j3fi

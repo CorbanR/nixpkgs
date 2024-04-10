@@ -1,0 +1,9 @@
+StorePath: /nix/store/438628jq8m6zwhp2f7agb89p73cd8brl-bootstrap-stage1-sysctl-stdenv-darwin.drv
+URL: nar/10ccglhlbs2wbcl9rlmxskl5pf5vqbs68fa889x3n5l3qh3wddhr.nar.xz
+Compression: xz
+FileHash: sha256:10ccglhlbs2wbcl9rlmxskl5pf5vqbs68fa889x3n5l3qh3wddhr
+FileSize: 1720
+NarHash: sha256:0shfalgh9x1xc5kpc0ixb3rkr5mqim7hy27j4b35c8pd4p22qvdg
+NarSize: 4200
+References: 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv 5yzw0vhkyszf2d179m0qfkgxmp5wjjx4-move-docs.sh 6g5nwrf0jhrqmwf9nmqmaldhy5h03v14-setup.sh 902d8z5s14czba7mgprrd5mawdz5g8w7-adv_cmds-119.drv bbzdcgwaqzmssbhx12ffqmg9cwhqlzdc-bootstrap-stage1-sysctl-clang-wrapper-boot.drv cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh ckzrg0f0bdyx8rf703nc61r3hz5yys9q-builder.sh fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh h9lc1dpi14z7is86ffhl3ld569138595-audit-tmpdir.sh ilaf1w22bxi6jsi45alhmvvdgy4ly3zs-patch-shebangs.sh jivxp510zxakaaic7qkrb7v1dd2rdbw9-multiple-outputs.sh kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh ngg1cv31c8c7bcm2n8ww4g06nq7s4zhm-set-source-date-epoch-to-latest.sh nnfczzvqycvpvdrp3dzkq6a5ffvcbm2m-apple-framework-CoreFoundation-11.0.0.drv pag6l61paj1dc9sv15l7bm5c17xn5kyk-move-systemd-user-units.sh wgrbkkaldkrlrni33ccvm3b6vbxzb656-make-symlinks-relative.sh wmknncrif06fqxa16hpdldhixk95nds0-strip.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv xyff06pkhki3qy1ls77w10s0v79c9il0-reproducible-builds.sh
+CA: text:sha256:1ixv1nxf9hzmsk4v5rhhxwc7ngi7aml6x3jqgxcpfhs1gb33mqy1

@@ -1,0 +1,9 @@
+StorePath: /nix/store/5wvnw5cajazycmwq2j6s51c34xi8yzy4-fix-darwin-dylib-names-hook.drv
+URL: nar/0dk3iyk4958cyjynvjhlch3gb1d7ggqz6cwsh6kgxayqbxypzn3n.nar.xz
+Compression: xz
+FileHash: sha256:0dk3iyk4958cyjynvjhlch3gb1d7ggqz6cwsh6kgxayqbxypzn3n
+FileSize: 912
+NarHash: sha256:0n9z1fylz2nqc1bdq66madfsj5clrs9vjjrml636bs7mi9r94dcx
+NarSize: 2264
+References: 4rrj2d2vcm0q2fjqhs4rdbshm7ijv3ip-fix-darwin-dylib-names.sh fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:11585pk708jb3m1dnbw1fcb8n83x8syrypdg10ydy0w30ajxbpq7

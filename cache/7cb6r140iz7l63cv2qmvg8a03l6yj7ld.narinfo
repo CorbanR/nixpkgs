@@ -1,0 +1,9 @@
+StorePath: /nix/store/7cb6r140iz7l63cv2qmvg8a03l6yj7ld-ruby-3.1.4.drv
+URL: nar/0x1jl2j1agv9v6jyvkrjyyszi665havg52ppziam7ilaz1f7kjp8.nar.xz
+Compression: xz
+FileHash: sha256:0x1jl2j1agv9v6jyvkrjyyszi665havg52ppziam7ilaz1f7kjp8
+FileSize: 3660
+NarHash: sha256:1hsx847rn5wdk0rm8kppypq1wn8mj5cxpg6j32qs2v59j197vcxi
+NarSize: 8704
+References: 00zr90jjp8md7c0k3z32fjacnygmr3h8-groff-1.23.0.drv 27l586r2r0llmm3fhfzn0ki2fqz3vcn8-ruby-3.1.4.tar.gz.drv 2ims4p5chhyqv0y44nssjbwv1454nrqj-libffi-3.4.6.drv 8ca08sz0sz6pqfna36y09wa3zgmz34g9-ncurses-6.4.drv 94hwj9c8bkwzblf2zpwvsvsa8wsghwxa-gdbm-1.23.drv 97p08jaf00m8rxznl12imikj5spgpxkw-autoreconf-hook.drv a4n3jhhpg42nqvnimbdwlcv52l0h4vii-apple-framework-Foundation.drv b7ddkwg6zn329a4da2r15p38nj64dncw-libunwind-35.3.drv b7gwzg0g1nmhmfgf27z69jqaqrvagbxs-libiconv-50.drv by6ay5psma22za50rm5g5m9snjv49aq5-remove-references-to.drv c6d5gm3zc63zg49kanxf8w6cxfv69ibk-dont-refer-to-build-dir.patch d33lm37ch6kvgikn6snpbidwhn2z13br-openssl-3.0.13.drv dbpslq9v4n3hrqphxpbf2a4smhggd2am-zlib-1.3.1.drv dillapchdhqc74gjnyi11nm8rqcghb6i-source.drv g8d3vx14m9q7llnzw8087czr2r1sykyk-autoconf-2.72.drv hd6pyanharnbmnjdiyf6iwdh0mxxq1br-rubygems-3.5.6.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv l4bx83i7czn4a1v1iszdz53gxr0qygsv-readline-8.2p10.drv nzh47nz38129b9f1fn9fk9pa7109s4jd-objc4-709.1.drv rc50mpqyl5mbz1nvs7jhrvfg26vmfd4k-clang-wrapper-16.0.6.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wli86mkxc641g4bp31mc211x8pm13pyr-bison-3.8.2.drv wq7zxvl223s5s97y3dhc3gkyk5d6dw0w-rbconfig.rb y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv y5b93m7jc6v6xk0rknc2g91837fx8k9s-libyaml-0.2.5.drv
+CA: text:sha256:0gyg947z9qrn05w6hvpxn4jmvs32y6bfhm43jflk2wh1l9d1dd0z

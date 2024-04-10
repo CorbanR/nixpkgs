@@ -1,0 +1,9 @@
+StorePath: /nix/store/k4paxvxz6bxdkz3h71r62hhcfvzjq0hs-make-binary-wrapper-hook.drv
+URL: nar/1zk8192c8sjz5wjfl5j37x0l9vs29kn16wz9x3daw5cbj9qlbrhc.nar.xz
+Compression: xz
+FileHash: sha256:1zk8192c8sjz5wjfl5j37x0l9vs29kn16wz9x3daw5cbj9qlbrhc
+FileSize: 1048
+NarHash: sha256:1sb718g2pl6k6ai3xq4c3p4wva5vd2nys4v2g76a2nw8vmvkxrcm
+NarSize: 2512
+References: ahjprrhy8p84g0qr55hw03draw5f569k-die-hook.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv k9hn9c1hfxc72q3k8p15ij96d0fbizwj-make-binary-wrapper.sh rc50mpqyl5mbz1nvs7jhrvfg26vmfd4k-clang-wrapper-16.0.6.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1iyz8mhq9c6w9802ssmljh9yhn4qadrkj1r1k91j30bn6m860qcp

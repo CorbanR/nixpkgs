@@ -1,0 +1,9 @@
+StorePath: /nix/store/58p9vxaxj0y6frqmh7cqp3ralfqrcl90-openssl-3.0.13.drv
+URL: nar/05r8306d82dq68ynra7f76b8zn5vld7x0mfkk69r2bmdd4xahb6y.nar.xz
+Compression: xz
+FileHash: sha256:05r8306d82dq68ynra7f76b8zn5vld7x0mfkk69r2bmdd4xahb6y
+FileSize: 2020
+NarHash: sha256:1sljqqqczcl2h1z5wlkmsv994snjn47njs01ay4zbklimi5a13x4
+NarSize: 4888
+References: 2cqnhs2ds0gn7xrq0zcwbj7gsv6l5xr7-use-etc-ssl-certs-darwin.patch 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv asxk3wf1x5d0fiaihrfkd1y57jl6d2f6-coreutils-9.4.drv cklrwbwi889pp2fdsswdjvn12sdy5i5j-openssl-disable-kernel-detection.patch cvcjpfzr0pvindlrz5wgq38mh6937mwl-make-shell-wrapper-hook.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv sq4h6bqjx12v9whvm65pjss25hg1538q-nix-ssl-cert-file.patch v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wgwbq2g7jfr204npb98d39id7k9k35s2-perl-5.38.2.drv zh2da6b8wdigdfy5kbjf8r40vik258yj-openssl-3.0.13.tar.gz.drv
+CA: text:sha256:05i0ym3vha0bc0na5qk284jvgs7qm76zv6pk1m7sp5hncggla80c

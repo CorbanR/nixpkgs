@@ -1,0 +1,9 @@
+StorePath: /nix/store/mnzp3rvhm9ams2a9sy4gy29x5qd66d6f-muss-0.10-go-modules.drv
+URL: nar/1wz8v1qi1kgnmhpkslyc9i96h9cixhr67wmsfkgg5xb9sr24ywqh.nar.xz
+Compression: xz
+FileHash: sha256:1wz8v1qi1kgnmhpkslyc9i96h9cixhr67wmsfkgg5xb9sr24ywqh
+FileSize: 1572
+NarHash: sha256:0zazra5gxgsa08sbc0bvjx1yb60yqxx1haxbaykjasnhh4341nk3
+NarSize: 3312
+References: 6bbsq49kj3klm7bq20c1rhw8daik68mf-go-1.22.1.drv 6xa95nqwcq4162bqb479jznqswlx87ck-stdenv-darwin.drv g73d5ia4wdznqkcl2q9fg8xd9a9bhral-source.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv nzkb5b9gjg9n872j0sym5g2pw9rs29vx-git-2.44.0.drv rg6pqh9215vf5y8902hkffz1xxvcy48i-nss-cacert-3.98.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0h7x5il3kpcbw42la5z286zr8ydap4ln2r7r4vw8pg5kxy8k2qnn

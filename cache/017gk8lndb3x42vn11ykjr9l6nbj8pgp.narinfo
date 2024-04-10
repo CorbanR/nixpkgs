@@ -1,0 +1,9 @@
+StorePath: /nix/store/017gk8lndb3x42vn11ykjr9l6nbj8pgp-apr-util-1.6.3.drv
+URL: nar/1x5bhvm73z8lndkacpq2vrddn24l8n3np0nip8r2i0bjs13x0b3x.nar.xz
+Compression: xz
+FileHash: sha256:1x5bhvm73z8lndkacpq2vrddn24l8n3np0nip8r2i0bjs13x0b3x
+FileSize: 2024
+NarHash: sha256:18ka0s583sn5a2yxiqdhwjxfvc9xy10ryahzmklqkk5i0j5mhnr2
+NarSize: 4928
+References: 2c5rhhdpkwpii3mk9ahd8vbrgvkch123-expat-2.6.2.drv 41lzjhkmqxbhsln1y9vwhrqq7qpnchwx-clang-bdb.patch 5ay3ck22km0d5fxxdp5pg9iysfhn924q-openldap-2.6.7.drv 97p08jaf00m8rxznl12imikj5spgpxkw-autoreconf-hook.drv a7h9blc584skw4cpzgic6jsfk3anpniq-libxcrypt-4.4.36.drv b7gwzg0g1nmhmfgf27z69jqaqrvagbxs-libiconv-50.drv d33lm37ch6kvgikn6snpbidwhn2z13br-openssl-3.0.13.drv d5n9qjsfmb7rn7dc6x8p6dbhq3d5p9qj-fix-libxcrypt-build.patch dci6pryriiwmqp2a325l14ml6dp15q4i-gnused-4.9.drv fap69i7cp9lbnn1a0h6f456rc13326am-apr-1.7.4.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv m44yhwsn38hx5pkiyzr8ki4ywn0v4wgv-apr-util-1.6.3.tar.bz2.drv pnpjlraan6n4dqkjg7l0p7fya248p7mf-db-5.3.28.drv sdi3cd4g1xxka8dicpf615scxlxxad8w-make-shell-wrapper-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:0wqrciwca69yv47irmxyg26l6w5cz9b8l31lk037zqf02ic2vsip

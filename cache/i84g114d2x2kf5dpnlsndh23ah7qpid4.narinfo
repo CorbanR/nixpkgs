@@ -1,0 +1,9 @@
+StorePath: /nix/store/i84g114d2x2kf5dpnlsndh23ah7qpid4-libcbor-0.11.0.drv
+URL: nar/12r5m8r0x9mgcpln8qk9vh721rgxanqzflf3yh00m24s74lcr3xi.nar.xz
+Compression: xz
+FileHash: sha256:12r5m8r0x9mgcpln8qk9vh721rgxanqzflf3yh00m24s74lcr3xi
+FileSize: 1036
+NarHash: sha256:0z1xlal8ji5vd5f8pmn2kyh82xy1i1g53d8frzq8a5nl0833db32
+NarSize: 2344
+References: 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv abpl1ylhabpdmj6wzcg7bk2cgwzmf611-source.drv pypqb574a0qipwj1941p342xcma7lah3-cmake-minimal-3.28.3.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wk4h94xb5890078vy4sa1g59f7m33zp1-cmocka-1.1.7.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:0wmkh5j4pb8bgja7vbi1yjv843w1sbnnhf1k9w9mcm15c6idgqyw

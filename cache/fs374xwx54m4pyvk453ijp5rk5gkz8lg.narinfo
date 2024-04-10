@@ -1,0 +1,9 @@
+StorePath: /nix/store/fs374xwx54m4pyvk453ijp5rk5gkz8lg-compiler-rt-libc-16.0.6.drv
+URL: nar/1j087b0xs5jd208c6y066hpc61rsw05cshm50dpvrc8935hii4y1.nar.xz
+Compression: xz
+FileHash: sha256:1j087b0xs5jd208c6y066hpc61rsw05cshm50dpvrc8935hii4y1
+FileSize: 1836
+NarHash: sha256:050xbp5j5vq1rma81blnj60ywps90z6kl53cc2s81b36ifjnwndr
+NarSize: 4392
+References: 5j9ci9whzlpwmlka08gspfqnw4mnlapf-ninja-1.11.1.drv 84f1gslxqsg9b7jr3gpsms3pvbihr49y-compiler-rt-src-16.0.6.drv 8z4wq03gvjdyvpldnrl7x1sy14qfk1pk-gnu-install-dirs.patch bx6p2rkma3ws8m65xb3v16rw065jfdpx-python3-minimal-scproxy-3.11.8.drv dbapbg570sx4xsbp50s52azwh6agj40m-darwin-targetconditionals.patch fzj1jsga4j5bbh0ydrbrmlifm5zbgf01-llvm-16.0.6.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv iy4wp1wspv98nl2hlqn2w7y5pghfl9jh-normalize-var.patch j9lspxnlbkrcskxpxg7q6nb74wnn6v2b-darwin-plistbuddy-workaround.patch n5jjz4pvqzgv5cy1y9clb14lkzf47kjv-cctools-binutils-darwin-16.0.6-973.0.1.drv pypqb574a0qipwj1941p342xcma7lah3-cmake-minimal-3.28.3.drv qvyl9jgm1a1mlix44qbsgrd1ipwciamk-X86-support-extension.patch v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh w6r2005xblf4zbxdfp5y5qnf5y01q85d-bootstrap-stage2-CF-stdenv-darwin.drv x8av8vy0hzbz17dq0csans46kazkqrgf-xcrun.drv
+CA: text:sha256:14zqnl4myjdsv91lnvccdcd4im6gf614c62j93hzx4ljr053kwm9

@@ -1,9 +1,0 @@
-StorePath: /nix/store/bppar71djnmhdxkhpsdljy0yb3hxa2ak-python3.10-exceptiongroup-1.1.2.drv
-URL: nar/0cpv3dih6di557l1wsb7mwhp5crgxlqgy5yhy5fava6l7jca89wh.nar.xz
-Compression: xz
-FileHash: sha256:0cpv3dih6di557l1wsb7mwhp5crgxlqgy5yhy5fava6l7jca89wh
-FileSize: 1732
-NarHash: sha256:1snsf17aag0dqb1krscilx5f012jxrz14123m2vb0qzc3yjpjvq0
-NarSize: 4080
-References: 2jm4djh0jkdi9x45909rxh9chn8flw4w-python3.10-flit-scm-1.7.0.drv 3glqljk20iyhnzr5sz30k3p5gfj07r0v-python-remove-tests-dir-hook.drv 4gs2zap1s6lpvn9gd6lwj5yriafy8sxh-python3-3.10.12.drv 569ckkgdw05ayxxlvf0xdqw6kcdpj6fa-wrap-python-hook.drv 5v49yn6811xaz73581cmz6ds3md4n8lf-pypa-install-hook.drv 64spj723i0aflvkwff0vc625bh880nxz-python-remove-bin-bytecode-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8sw6wgkdgd3rna2s483dhshg284qqqgm-python-namespaces-hook.sh.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akpdvkkaqmk3fhw1kjpj42mnid6nb7mh-pypa-build-hook.sh.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv gcf9bcvf9ljxyy7m0vzln28k0fnqw6s7-source.drv pgv9c923jyjl2vsp7qlmmylglh09y4xx-python-output-dist-hook.drv pqg1r9r71h1b1qdlsh0klq2pb41xb1mv-ensure-newer-sources-hook.drv v9ij02aqnhsdapdw6b36h1y6spv49hkb-python-imports-check-hook.sh.drv y823dmnv8kgcg2lyvzx0g3m41x7pfyij-python-catch-conflicts-hook.drv
-CA: text:sha256:0m6bvbqgf1lv0yy57hp5dc65jp2kdz24knkb3dp71dl9r64r6xrs

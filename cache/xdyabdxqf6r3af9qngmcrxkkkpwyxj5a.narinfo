@@ -1,0 +1,9 @@
+StorePath: /nix/store/xdyabdxqf6r3af9qngmcrxkkkpwyxj5a-zlib-1.3.1.drv
+URL: nar/1d6k0fxhkf2yyrz4866ky4p2kjmffymxss2lpf2qikgazqfla1hc.nar.xz
+Compression: xz
+FileHash: sha256:1d6k0fxhkf2yyrz4866ky4p2kjmffymxss2lpf2qikgazqfla1hc
+FileSize: 1208
+NarHash: sha256:1w33x2kw3pfcbihjymk2law25qbxd24pa3zwyqafcm5mxlz9lihp
+NarSize: 2848
+References: 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv jcsssr36vsqyvni8qgd6mxihyjixf38x-zlib-1.3.1.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:1qqw6hvjpd717snhhhhjqbw1d852xm7lp347dizv69m3c78xds5l

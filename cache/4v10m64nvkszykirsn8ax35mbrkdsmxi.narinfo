@@ -1,9 +1,0 @@
-StorePath: /nix/store/4v10m64nvkszykirsn8ax35mbrkdsmxi-lld-11.1.0.drv
-URL: nar/0ij16kpl316f7pc6qrnzlcsihahcwhgnjg3vl60k32yxf12fbc01.nar.xz
-Compression: xz
-FileHash: sha256:0ij16kpl316f7pc6qrnzlcsihahcwhgnjg3vl60k32yxf12fbc01
-FileSize: 1180
-NarHash: sha256:0hpx6q526vl12by3w0kdbzcmfha9za7mr0854wp1z39y6n79swjh
-NarSize: 2776
-References: 00519fw2lzh5jwazgizirz575h8rvn6a-lld-11.1.0.src.tar.xz.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh a4b6ijqx9yi2q75zvskf6jwz76srz396-bootstrap-stage-xclang-stdenv-darwin.drv ggma1lqzlgwsv1biaw0zqx6mvilk4h81-cmake-boot-3.26.4.drv j9qwx6lmzb3qh9ic8ip106p4wsjxd03x-llvm-11.1.0.drv jl8qr1vbs7w1vhlv5478na4qxm8rkjda-libxml2-2.10.1.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv v3p7rmc9r5qwzvxsm6gq779dmw26i9qb-gnu-install-dirs.patch
-CA: text:sha256:1ypfrd8p2ca2m6803bdp5zigmi22f075a4qyv6milr5pgv05lx9x

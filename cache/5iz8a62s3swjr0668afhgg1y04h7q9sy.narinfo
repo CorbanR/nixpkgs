@@ -1,9 +1,0 @@
-StorePath: /nix/store/5iz8a62s3swjr0668afhgg1y04h7q9sy-dart-3.2.0-236.0.dev.drv
-URL: nar/1a0qhb3jh0xrdrq7v6ck954zi2rcpqxpm6f9kclwqdxc5g3pfqsb.nar.xz
-Compression: xz
-FileHash: sha256:1a0qhb3jh0xrdrq7v6ck954zi2rcpqxpm6f9kclwqdxc5g3pfqsb
-FileSize: 1096
-NarHash: sha256:0wjiy26vjjcrb498121p3jaskklbpmj6dlzc0hfrhjysw45ic9gs
-NarSize: 2368
-References: 4p7l1lagrk76c5wlyx9nl5w9pjmfl3nv-dartsdk-macos-x64-release.zip.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 704d414w1rfbcwpc0kmxiv5j4jwwx85v-dartlspserver.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv pxjs6s6rza53hsgdn33984m7lj1wixv4-unzip-6.0.drv
-CA: text:sha256:06hd22kqs9xr8y5qizb75cpgxsgdiwwd2r7lh0q7a0qlwxfziz35

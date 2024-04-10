@@ -1,9 +1,0 @@
-StorePath: /nix/store/jv5fkhlkn9v70arv8af8wzqwxp2n7fs7-apple-framework-CoreMIDI.drv
-URL: nar/0iasphahpd9igwblkprygc4mcs4i66pmp0fvhd9pg8b92g2vr1jc.nar.xz
-Compression: xz
-FileHash: sha256:0iasphahpd9igwblkprygc4mcs4i66pmp0fvhd9pg8b92g2vr1jc
-FileSize: 1980
-NarHash: sha256:0v0kicq3d9xslha4ib1kf4bpiph12nhw30f8vi0w9z8fsjj6ilda
-NarSize: 6136
-References: 2vdmb5gw9j5mvfw4flsqvm4px3fjf4ny-print-reexports.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh c3x71wkhbf94icbwyf9qpj40ccdq1i5s-MacOS_SDK-10.12.drv d5mn54hnbrc8y8p7kkj6d9j1d2hsnb0w-darwin-stubs-10.12.drv
-CA: text:sha256:1pi69pypkgh86hss40xnbr5dvm012f3qnbbv0aha15ag0fih3hjq

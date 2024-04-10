@@ -1,0 +1,9 @@
+StorePath: /nix/store/0c6bzbb1d35h36p8mfxj84479353qjkc-python-output-dist-hook.drv
+URL: nar/0rjpjl261zma31rbksgq7rx8hwnqq4cdyc56m4pmkz822w0j1qwl.nar.xz
+Compression: xz
+FileHash: sha256:0rjpjl261zma31rbksgq7rx8hwnqq4cdyc56m4pmkz822w0j1qwl
+FileSize: 868
+NarHash: sha256:10575qsg6pixdw1p9rdkpdnrzf8xzynfdhvbvr5iwbiindg2vqla
+NarSize: 2048
+References: j9d6pn50y7iyczn0l9mihmv8564vagnz-bootstrap-stage1-stdenv-darwin.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv yj4h9pz0nfqaf37zayxhfyl9sr2r8bl8-python-output-dist-hook.sh
+CA: text:sha256:1q2kj9x6jnv5hb4gdhapvwv7jp783104xj32qn3rwyja7q93kla8

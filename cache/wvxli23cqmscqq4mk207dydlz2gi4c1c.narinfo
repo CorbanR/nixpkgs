@@ -1,9 +1,0 @@
-StorePath: /nix/store/wvxli23cqmscqq4mk207dydlz2gi4c1c-texinfo-7.0.3.drv
-URL: nar/1y725kd9vvnzsg0sisv60q63n11wwy76abjdd87y5zzgjq4dryb3.nar.xz
-Compression: xz
-FileHash: sha256:1y725kd9vvnzsg0sisv60q63n11wwy76abjdd87y5zzgjq4dryb3
-FileSize: 1108
-NarHash: sha256:11fsbg31birjcsv776bpabmwb4f77vd3n5y13wix8dbf8b92b0vb
-NarSize: 2464
-References: 3xh9vrk1lvc5s88n455hcxwd3yrmz4fm-bash-5.2-p15.drv 4g5i55a4bibk0m014j3ajlc70qgxl8f7-perl-5.38.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh fd7x6bw5gp22rbin304hg75h6ik84j93-texinfo-7.0.3.tar.xz.drv ks6kir3vky8mb8zqpfhchwasn0rv1ix6-bootstrap-tools.drv wadsxmlifrw4qihcd8mf2x13z571n3lq-xz-5.4.4.drv xgrg042pahlzysir6rb6c39rqd8dgmv9-bootstrap-stage3-gcc-wrapper-12.3.0.drv z7ci9w86j80haqdhl7f7d4q75vp283sn-bootstrap-stage3-stdenv-linux.drv
-CA: text:sha256:1asv1ajnaqlvwspl0nhkfvbnxzd17nl3d9q3g3b5n09firmddnkx

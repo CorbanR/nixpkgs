@@ -1,9 +1,0 @@
-StorePath: /nix/store/cicm7crz86c4bf5nm5m0lrgxj53szl4d-perl5.38.0-IO-Socket-SSL-2.068.drv
-URL: nar/0sb4xkcsiqlziv6b7m8mksz9isgfbssyydpb69nlbj2w7i6ijnwl.nar.xz
-Compression: xz
-FileHash: sha256:0sb4xkcsiqlziv6b7m8mksz9isgfbssyydpb69nlbj2w7i6ijnwl
-FileSize: 1144
-NarHash: sha256:0ba9dfk7r32v855b0637lmx95wg7pnj1j5cybm2fvl4jy2m91jrc
-NarSize: 2648
-References: fv4fwas4jzcab16dm61dxs0rk507w69r-IO-Socket-SSL-2.068.tar.gz.drv h2vmyg30p30nvb5785yn068bdjqrzbg7-perl5.38.0-Mozilla-CA-20200520.drv hrly7gl9bmnc20fb3vicqm16pmnzfxwf-perl5.38.0-Net-SSLeay-1.92.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv vpnqz8y7xx5hbvljgrad2z914ndjhxfd-builder.sh y6kgq2whq4cg87w45ha2x0m2ndljqn94-perl-5.38.0.drv
-CA: text:sha256:1swhdw5dyjp1k8z1l0gdwwafpk1wpsl1l2v7hj7ppq62v2l42ybb

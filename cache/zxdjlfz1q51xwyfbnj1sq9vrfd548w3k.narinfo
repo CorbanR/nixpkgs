@@ -1,0 +1,9 @@
+StorePath: /nix/store/zxdjlfz1q51xwyfbnj1sq9vrfd548w3k-perl5.38.2-Digest-HMAC-1.04.drv
+URL: nar/0jaf2yqidfjcy741p1zgl6s1gk1yf0wcp8bsbgryxpvn6b3w0d17.nar.xz
+Compression: xz
+FileHash: sha256:0jaf2yqidfjcy741p1zgl6s1gk1yf0wcp8bsbgryxpvn6b3w0d17
+FileSize: 1052
+NarHash: sha256:0hz6j44m6ab0azpi8awh8ajrmymr17nq1kvvwy1fbds6904fgjcp
+NarSize: 2536
+References: 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv imxny7nz7pnb9riagprwi1vmxpn5vxfh-perl-5.38.2.drv m20q7jplaxdf69b9wa6j7g2vqsda1jmv-Digest-HMAC-1.04.tar.gz.drv y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:18n1757xb6gxq5dik14nxx6ks26jn7syzj7whicfwlvb42dzgpla

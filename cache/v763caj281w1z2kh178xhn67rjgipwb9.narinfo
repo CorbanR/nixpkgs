@@ -1,0 +1,10 @@
+StorePath: /nix/store/v763caj281w1z2kh178xhn67rjgipwb9-gnutls-3.8.4
+URL: nar/09ps5gyw56j98bchhkymbag3cq0hy1pp583pxrrd4qfiybjmjxa1.nar.xz
+Compression: xz
+FileHash: sha256:09ps5gyw56j98bchhkymbag3cq0hy1pp583pxrrd4qfiybjmjxa1
+FileSize: 912052
+NarHash: sha256:119fi1bsmiy48vsl5r7sh182znkgrsfzqnq8wl9qr18d7vf8cn0c
+NarSize: 3089640
+References: 30wwa14ljwnsh8wa1xm6h6jv9y2xs956-nettle-3.9.1 5nb6y2s4c3plrn9an4485bf9kh8h6zmp-libiconv-50 70mv2nxp9ga0ddfbwy60g6bkfs8saza5-zlib-1.3.1 8vh6l74rmw7m1i26yndc4g2mpfnz95iq-libcxx-16.0.6 8yfgcx3j5j7ingj049jb767nkrgrrafl-gettext-0.21.1 b47p2b5q3m023zlb2jm5vlfyr0axf4ab-libunistring-1.1 ca5kyrqd9za2jzhvpp4fr8vns67afi8x-p11-kit-0.25.3 i4f9riz4rh4vmh9cw7jsvvg3yhvrckik-libtasn1-4.19.0 iigp6lichfg30a2zm4icm33ljpkgbws9-dns-root-data-2023-11-27 pyfjwm7i5363znn54dzrx8d0y94418ry-gmp-with-cxx-6.3.0 v763caj281w1z2kh178xhn67rjgipwb9-gnutls-3.8.4 w17ah3369x1k1si8rhdav76pizvnvsyv-libidn2-2.3.7 w56k7piz1bpk375a4frpy71mai23464c-unbound-1.19.2-lib
+Deriver: cbmxy3fwi07fvyb6ji102a348x0hp1hi-gnutls-3.8.4.drv
+Sig: cache.nixos.org-1:E9bWsoAh2otjOQXVlRliL9TWuDvYEWGAGIBYFMBjJTCvPFsSc42VaqEMsXqoZGyYeGHZFfYimbdMXSpSned7Cw==

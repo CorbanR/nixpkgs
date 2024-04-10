@@ -1,9 +1,0 @@
-StorePath: /nix/store/vsw6r6ksal23x6x88y69idxf2dsw3a6s-apple-framework-CoreGraphics-11.0.0.drv
-URL: nar/0rqyfchzvzxip5iav0dpcznyjhwp6dz3inxfjcsgbjrlfl8q1m3q.nar.xz
-Compression: xz
-FileHash: sha256:0rqyfchzvzxip5iav0dpcznyjhwp6dz3inxfjcsgbjrlfl8q1m3q
-FileSize: 1512
-NarHash: sha256:1wr7d4jmjsvx77mzzccapkx6dxm9rkgg576i9cbpfadxxmhbvy0v
-NarSize: 4256
-References: 2r3sfgwa6l0wr8mr6jzaqvg7nh66pyrn-MacOSX-SDK-11.0.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv adf04syvigj8358xcxhprmxw3g8yfi37-apple-framework-CoreFoundation-11.0.0.drv dkmxr0h01w8vs7540xhjmn8p4hcm8rky-apple-framework-CoreFoundation-11.0.0.drv fndxv8rsvpj55lws08hsrbazsy6praa1-apple-framework-SystemConfiguration-11.0.0.drv igc5aff06xmsg3d7lxbs15v4llnxfdd0-apple-framework-IOKit-11.0.0.drv w12mifg34dx2l90mdc7gq9qirc9hn979-stdenv-darwin.drv yfijg7pa84mjm43g5948fbnp9qb4wp83-rewrite-tbd-unstable-2023-03-27.drv
-CA: text:sha256:1v0kyjadgq064zrl1flbvvwm4s2z53s9hk8msjkasvm171zmhgc1

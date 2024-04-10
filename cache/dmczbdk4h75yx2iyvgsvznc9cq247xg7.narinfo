@@ -1,0 +1,9 @@
+StorePath: /nix/store/dmczbdk4h75yx2iyvgsvznc9cq247xg7-wrap-python-hook.drv
+URL: nar/0g73y8nvpn5hs638nl9x59nrjwqxng7hni0aq10rrphxsczyklsn.nar.xz
+Compression: xz
+FileHash: sha256:0g73y8nvpn5hs638nl9x59nrjwqxng7hni0aq10rrphxsczyklsn
+FileSize: 1468
+NarHash: sha256:0zww4jq3vx3zx1x6rkjjjn924pgf4n683q499ajgb1bhzz6wynj0
+NarSize: 3552
+References: 1x8m520lxi7k8mi14ags76cgad318nja-python3-3.11.8.drv ag815hbmmkgk4flh7rj3nw90b45kik64-wrap.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv ql55giz36770a6fm895bzdivfpklj30s-make-shell-wrapper-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh xa2480ryxw1jv0dvgn701vm85swk0hrb-bootstrap-stage3-stdenv-darwin.drv
+CA: text:sha256:1sp5ibz5a5ahk0k23rdliamrp6gkw4p6xqv1sq7mhiwnhjzc8qgq

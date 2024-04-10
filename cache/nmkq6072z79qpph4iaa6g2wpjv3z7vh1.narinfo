@@ -1,9 +1,0 @@
-StorePath: /nix/store/nmkq6072z79qpph4iaa6g2wpjv3z7vh1-e2fsprogs-1.47.0.drv
-URL: nar/11jx16rsq6wx94ip01vngbvv7slzfjvd2spy4q7kf1czq6b6jfs5.nar.xz
-Compression: xz
-FileHash: sha256:11jx16rsq6wx94ip01vngbvv7slzfjvd2spy4q7kf1czq6b6jfs5
-FileSize: 1716
-NarHash: sha256:155ggxfld2hxw8p8f727ppf80zc8hv9dw8jm8rs8xcwjdaws35fj
-NarSize: 4160
-References: 0cc362ysav807k38i3lkmykv3218j4xy-e2fsprogs-1.47.0.tar.gz.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 708x5k47a93c556c7cv6dpmqk101bamh-pkg-config-wrapper-0.29.2.drv azax4isp5al7xw03n3sabylvh8x277g5-gcc-wrapper-12.3.0.drv fd4mjlw96bp2k06nacii1mhq4878ijar-fix-glibcism.patch.drv j71wrhxr9lgvfr7d7c8130fmdzc5f4lj-texinfo-7.0.3.drv ljv0r40d198m6g5c0qscxgb4xndms87q-mke2fs-avoid-incompatible-features.patch.drv m4ygjafaspijdgrybdlpkmxw5ds0k24k-fuse-2.9.9.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv qbl4p82vp3gk10aixanfvxkj48cfc1h9-util-linux-minimal-2.39.2.drv w3dzw03cjs637h6lgf8hip8ncclbsa1i-gettext-0.21.1.drv y6kgq2whq4cg87w45ha2x0m2ndljqn94-perl-5.38.0.drv
-CA: text:sha256:1h2r61i9hnlypi1379m9z7ghaqp6lx0z3glsjwmwqs2wj9nrksbp

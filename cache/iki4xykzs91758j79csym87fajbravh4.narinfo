@@ -1,0 +1,9 @@
+StorePath: /nix/store/iki4xykzs91758j79csym87fajbravh4-go-1.21.0-linux-amd64-bootstrap.drv
+URL: nar/1vggfp731jzigfbac75dq5n3hihhrcd3c7m9vzqn4v3b6995krqz.nar.xz
+Compression: xz
+FileHash: sha256:1vggfp731jzigfbac75dq5n3hihhrcd3c7m9vzqn4v3b6995krqz
+FileSize: 856
+NarHash: sha256:1fyq514ih6rfjllfaq54mdzdwd54a8zrn2hcja147pnyp6y24mcm
+NarSize: 1872
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 9w0k8m353gkdp3srpiypb909s4s12mq1-go1.21.0.linux-amd64.tar.gz.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh x7l3y96ghxxg3nnjqk8lq3nhmcv6qx9k-auto-patchelf-hook.drv
+CA: text:sha256:16kzdjihlrkcsm538ijx4xvgpgc7cspzqsh74jhg57z3l30phy0v

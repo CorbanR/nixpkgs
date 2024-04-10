@@ -1,9 +1,0 @@
-StorePath: /nix/store/2hypj7jii7w8l507fkfl1hl82dp1nrk4-cargo-check-hook.sh.drv
-URL: nar/03jwd0rsqv0k69f90m6ksdg9mpqb8izz7smb2gh89dnl1fkhch6s.nar.xz
-Compression: xz
-FileHash: sha256:03jwd0rsqv0k69f90m6ksdg9mpqb8izz7smb2gh89dnl1fkhch6s
-FileSize: 956
-NarHash: sha256:1kc76n2ym1sm8pfva7388s9x62z5ha3ghdfhyqwcrdakrdjjgag4
-NarSize: 2264
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv b7jvshpy1n3as2c1c7b45qc4fgp4nfh0-cargo-check-hook.sh j3gw44jbzc4vg9k7sjy8c6rwp5il34ga-cargo-1.72.0.drv w12mifg34dx2l90mdc7gq9qirc9hn979-stdenv-darwin.drv
-CA: text:sha256:0b16jgwsg1szsg0s6w4qydd3ycds8vmqf67l2wn483i5cxcapcp9

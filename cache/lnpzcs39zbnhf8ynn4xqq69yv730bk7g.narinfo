@@ -1,0 +1,9 @@
+StorePath: /nix/store/lnpzcs39zbnhf8ynn4xqq69yv730bk7g-binutils-patchelfed-ld-2.41.drv
+URL: nar/1cslsy611fzdl017rqlmdmjdxl81vvn62l0h6bprwyjmmkvdkybb.nar.xz
+Compression: xz
+FileHash: sha256:1cslsy611fzdl017rqlmdmjdxl81vvn62l0h6bprwyjmmkvdkybb
+FileSize: 944
+NarHash: sha256:19g7wa2wqxjdfy105awvqih6i6gxg01wjf8x6fsyps7bk7sydm62
+NarSize: 2168
+References: 8g89wpw8hgfz55g3qqyqjfx7nxkhcc4f-binutils-2.41.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv jszqnha7xnmjkn7x4bh18g03r6kg8bsl-bootstrap-stage2-stdenv-linux.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh zib7y8ps3vk3c6qxh74qyxs108620y9z-glibc-2.39-5.drv
+CA: text:sha256:0zh80bmq7r7x9rv96x4m351wmmw5yh1nk927hxfzdrfw4zp6p035

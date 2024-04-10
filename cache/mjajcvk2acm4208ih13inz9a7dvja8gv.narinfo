@@ -1,9 +1,0 @@
-StorePath: /nix/store/mjajcvk2acm4208ih13inz9a7dvja8gv-go-1.20.8.drv
-URL: nar/10n8zhymvlrqywd5vsn82rv71hkhlngbppl49qmjfyk4xj7nz658.nar.xz
-Compression: xz
-FileHash: sha256:10n8zhymvlrqywd5vsn82rv71hkhlngbppl49qmjfyk4xj7nz658
-FileSize: 1604
-NarHash: sha256:0k3xcf6kkin10kcb266amjvfm06wr5429mcsmsww6gcqn2hm7jsy
-NarSize: 3512
-References: 1cwv8hmzzn9s9b7rcvpymk6z6gm0c64p-go_no_vendor_checks-1.16.patch 34hpah50qprrpbfrnjwrjkncbf1xbnwk-mailcap-1.17.patch.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh ag8g76nc88mjm9cqrr9z1pa8mxrfvrfc-go1.20.8.src.tar.gz.drv h8zma0xrl8w0j85dmc58yw6lyl29m29z-tzdata-1.19.patch.drv kvvbjlfz5jywnx961aypc86r4rpv2plr-glibc-2.37-8.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv wsdrycx7ysab76yp59aawp6q3gfn4a0x-iana-etc-1.17.patch.drv x48d0s4gns4jrck6qkwrpqn7nh9ygpx6-remove-tools-1.11.patch ycaqyb2p2q49jkjpyyqzfjnj06v7jmnz-go-1.17.13-linux-amd64-bootstrap.drv
-CA: text:sha256:1hrmapkwifsy1niaq7rf2zcs0lpciq5dj0wdca23rz2x1qam65ci

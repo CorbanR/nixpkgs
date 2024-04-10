@@ -1,0 +1,9 @@
+StorePath: /nix/store/bfbamih4w39nn2hj4cfyl18snhjz7ihw-ninja-1.11.1.drv
+URL: nar/0d3s4xrginh8i5ygzlf5zyx8s0966zrd47kh8p0xbxi7fndrz2qm.nar.xz
+Compression: xz
+FileHash: sha256:0d3s4xrginh8i5ygzlf5zyx8s0966zrd47kh8p0xbxi7fndrz2qm
+FileSize: 1752
+NarHash: sha256:18sj8aq3csrzld667nxp3mxxnv0zq5ri2iv4n2n0wwsrhc9x2y0s
+NarSize: 3816
+References: 046mgkkza8dppcjqi6l52szx5xrqiis4-libxslt-1.1.39.drv 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 228zscy3kbkypbyxql7akd9frriv66d1-source.drv 45l9md35nfh63qlkv9dblnzp20m2mi37-gcc-wrapper-13.2.0.drv 76hvkdj47gim2razvb6v9iapha39r88w-docbook-xml-4.5.drv 7a36c2547ff9fdch6jllmzd8gxay6dvs-asciidoc-10.2.0.drv 7wvi7259j81yxrf553lvcidkv3yg0ckd-install-shell-files.drv a6a2wlf4zc01zn2zdpfjgp1cy79ldrn1-setup-hook.sh h399silng0mchaghh7wrlln2rkx3nr96-docbook-xsl-nons-1.79.2.drv k4f1yk4am320mb7zb3h8i1qq1l91j42h-re2c-3.1.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh ylbfr7skliq9rwrdcscrs061j3kb8ys1-python3-3.11.8.drv
+CA: text:sha256:1nrzs44566jlym1s0wd6lr8sa3k7k65mz0qgpajq5f5xaim0g7ky

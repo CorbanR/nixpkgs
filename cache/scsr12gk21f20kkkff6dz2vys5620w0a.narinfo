@@ -1,9 +1,0 @@
-StorePath: /nix/store/scsr12gk21f20kkkff6dz2vys5620w0a-libffi-3.4.4.drv
-URL: nar/07w0alnsxi7265gj8jm1ajmicsqzml1d56l52jrf4dzqpziicqby.nar.xz
-Compression: xz
-FileHash: sha256:07w0alnsxi7265gj8jm1ajmicsqzml1d56l52jrf4dzqpziicqby
-FileSize: 1052
-NarHash: sha256:00n1qqsf9i5svvwp9v97lvbm9m7glr54f3wi8b3l55a50kxv5xwr
-NarSize: 2512
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh ks6kir3vky8mb8zqpfhchwasn0rv1ix6-bootstrap-tools.drv m97ywjfd7x2dp4d1m0000f42ldhijnsf-bootstrap-stage2-stdenv-linux.drv w2ydywvfaxww3g2kg995vf3jdxy27ryi-libffi-3.4.4.tar.gz.drv
-CA: text:sha256:1zimvlyj90xkqp5jwslrk077c93jsbgiyrwy6cmqi7rdghbakj8h

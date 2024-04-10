@@ -1,0 +1,9 @@
+StorePath: /nix/store/si3ypqfivh2jd3dssqmxw8kakfw3ldry-cpio-2.15.drv
+URL: nar/0lsi19gicxm308fs9ikhzxmb7kzcgdz619iik9ks93zm8j47fs19.nar.xz
+Compression: xz
+FileHash: sha256:0lsi19gicxm308fs9ikhzxmb7kzcgdz619iik9ks93zm8j47fs19
+FileSize: 972
+NarHash: sha256:1s4nnv4i4x812gw6mjr0czhc9cr6b013pmibdj6xhgjrja7228kp
+NarSize: 2200
+References: 0jvy84fslc07wn534gcp38xjylkhg8h7-autoreconf-hook.drv 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv ispbg8ik4v5yvmddlxf5swl5f863dz6w-cpio-2.15.tar.bz2.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0a9hjnpy44iy3zf31m6slrifr75vcv4ha3x27sxbrk05nlwvs01j

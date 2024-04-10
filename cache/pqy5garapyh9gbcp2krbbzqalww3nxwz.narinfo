@@ -1,0 +1,9 @@
+StorePath: /nix/store/pqy5garapyh9gbcp2krbbzqalww3nxwz-cyrus-sasl-2.1.28.drv
+URL: nar/1x50zh67pw8vlynrzmi4hx4kgqv1v3fq9fx30y2mmfg81nimv6hk.nar.xz
+Compression: xz
+FileHash: sha256:1x50zh67pw8vlynrzmi4hx4kgqv1v3fq9fx30y2mmfg81nimv6hk
+FileSize: 1876
+NarHash: sha256:0p4lf4qdf3zpx2ppncnycc65f2lhqrgwfqa5vjszsh5favxls3kf
+NarSize: 4544
+References: 44r77kmvfrrh6pm5l1vi845150cvhrv7-gettext-0.21.1.drv 4cs2xpz2bw1z5irmzcrymc0jidcpp1hd-cyrus-sasl-ac-try-run-fix.patch 55d25r5qvq39ssk7kdhzmc9g5h0g97mc-prune-libtool-files.drv 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv av97mgizry68zs3764abq7lxh97rs7vl-autoreconf-hook.drv f5k2rp1l60f6kk7ah9ik7a5baiknzrh4-cyrus-sasl-2.1.28.tar.gz.drv gr82qixnqrqszrkwwlyi1x5hyjss9s3x-libkrb5-1.21.2.drv khzrwg1rrssb2w98134gqy9gv2xikdqi-cb549ef71c5bb646fe583697ebdcaba93267a237...dfaa62392e7caecc6ecf0097b4d73738ec4fc0a8.patch.drv nq6fdrh9rxfx50wq1jicz0hvxkchx806-bootstrap-stage1-clang-wrapper-boot.drv nwldz574yq75p9k29s13giw0i5nrgpgx-openssl-3.0.13.drv qzyw2scr13cl132304q90vk7di2y0fcq-fix-darwin-dylib-names-hook.drv sm8q2gxaq4ndk54g59kcgg53khyil8yb-libxcrypt-4.4.36.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv yjgvzp1nqc7nrcy2nqryf384snhbmdbf-db-5.3.28.drv
+CA: text:sha256:0kcrp89vylhfga8afzd5lsi5r4cd38cnp7cj03hscxd8dmbv74f5

@@ -1,9 +1,0 @@
-StorePath: /nix/store/26v32mjdcshlbgs2q2q54492majd0dh9-python3.10-html5lib-1.1.drv
-URL: nar/0nji9ssvwfrd69yy97fwr239hfgbrlaq4pb1n3gq1ahx94apgia9.nar.xz
-Compression: xz
-FileHash: sha256:0nji9ssvwfrd69yy97fwr239hfgbrlaq4pb1n3gq1ahx94apgia9
-FileSize: 1868
-NarHash: sha256:11qhrdg0zha9pw3d2c3wc2jdm2ijh507xk9flhwrvb9df4g1k2dn
-NarSize: 4384
-References: 0fp0wkd1bqnmn7dlp7qip9mgj000pjn0-python3.10-webencodings-0.5.1.drv 1y367gds8bvwgbi0jnsmv6nrr8vs0is2-2c19b9899ab3a3e8bd0ca35e5d78544334204169.patch.drv 2q5b31qbf71abcma4wsqkn50ncjh250d-setuptools-setup-hook.drv 3pxnxyklpmmxwqma9zdks1yf38lyvn2c-python-output-dist-hook.drv 5bsbpwnnhbz5jni1283l2hsiql8ri6zq-python-remove-bin-bytecode-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7m9jwfqsbiz8cvarg5bwabv3bmgb30ww-html5lib-1.1.tar.gz.drv 9r6cc5r3nf8f6q70hrh18a56871hzxiv-wrap-python-hook.drv a7mkys9mjni1dphajznjwsd1h8kdasnp-python3.10-six-1.16.0.drv c2wrkw05xs3pi2s1y2266fsjkmwqn1xg-python-namespaces-hook.sh.drv f6xa4hhgd2gbbg7rwphy10s18n53crpw-python-catch-conflicts-hook.drv h7rbqnncyy5z24d6cj41wccxwkzs31x9-ensure-newer-sources-hook.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv nq2h2c6fh57164l0xpv9923i25fc0rzn-python-remove-tests-dir-hook.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv r30v8xr0h0nrzdjhzy465633ybbj27cw-python3-3.10.12.drv s9zk4j4w8yawv45milnalbmipz6a3xl0-pypa-install-hook.drv wz4lr06pa42g5px6dakgbrc9fqlhz84m-python-imports-check-hook.sh.drv
-CA: text:sha256:1hnmld2zwmbgg4fh9pvmxfp7d8g9kgwpayjpihx0m2vl3n9s97rm

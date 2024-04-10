@@ -1,0 +1,9 @@
+StorePath: /nix/store/lifgx24ri1lb3g35hl7yj3h57cg50c28-apple-framework-Cocoa.drv
+URL: nar/0sgvb3z0dv1a9w9gdq2gkxfv790gf9vbiz3c9infxb7yhblnrfl0.nar.xz
+Compression: xz
+FileHash: sha256:0sgvb3z0dv1a9w9gdq2gkxfv790gf9vbiz3c9infxb7yhblnrfl0
+FileSize: 2136
+NarHash: sha256:0hw3zk8q72rwdslm3wxg4k6zcid98pvf3m2grx8nnxwd3jrkjwgc
+NarSize: 6744
+References: 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv 73sdl6r8ah2d7w2wn7rpx0xjh6kz37jx-apple-framework-AppKit.drv 7wzl406nsdj25vxmkqpz23dfddkw2a9l-apple-framework-CoreData.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v7jcqifji2sdni1bcvjnqqb66w31dx7i-MacOS_SDK-10.12.drv xgm4z1k5bcbw8466dajw7aryaym3wndw-print-reexports.drv
+CA: text:sha256:02cdki5b44g1vpfngi5kzrv200m19kpb99knw2in3zrmfvsx1k0h

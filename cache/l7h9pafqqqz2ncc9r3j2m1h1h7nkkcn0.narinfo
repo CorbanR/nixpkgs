@@ -1,0 +1,9 @@
+StorePath: /nix/store/l7h9pafqqqz2ncc9r3j2m1h1h7nkkcn0-28-cve-2022-0529-and-cve-2022-0530.patch.drv
+URL: nar/01g45bmjcjwxmjngsj0j1vyzm0nrsdd4ha8ir9b2n91mgnqpx339.nar.xz
+Compression: xz
+FileHash: sha256:01g45bmjcjwxmjngsj0j1vyzm0nrsdd4ha8ir9b2n91mgnqpx339
+FileSize: 1504
+NarHash: sha256:1dw6mjh0lgr0ahyx099lcxbdhhimz6slw4wzb7dq4xdqchw7p3kk
+NarSize: 3664
+References: 5w0vc855d00nrifm3vkmh37qsn58dgav-curl-8.6.0.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv sd1k3yj1bkaznkw4j7hqnm1psg6c74av-mirrors-list.drv
+CA: text:sha256:0q2q2drsak6y8rp2vn2ks6ydqsydmnck67sihy1nriwr4jmvsz24

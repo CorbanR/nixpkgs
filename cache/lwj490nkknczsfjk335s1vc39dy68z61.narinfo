@@ -1,9 +1,0 @@
-StorePath: /nix/store/lwj490nkknczsfjk335s1vc39dy68z61-libfido2-1.13.0.drv
-URL: nar/034w9d7n6nci91g49szsngkqq7dmp7bxb2ydjyspchdgymplqgsb.nar.xz
-Compression: xz
-FileHash: sha256:034w9d7n6nci91g49szsngkqq7dmp7bxb2ydjyspchdgymplqgsb
-FileSize: 1480
-NarHash: sha256:0w361xs6bwpwr5rvm37w58xkgqj97kyr3xwaa9qr02k22zi9ypxc
-NarSize: 3216
-References: 0n02j2xhay378xnfm2glf1xmxi8qpgla-cmake-3.26.4.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 6zdl7x8hdldmyzfr9a8mvwvzq416irsl-pkg-config-wrapper-0.29.2.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv ag84nwyrraaz6mzxd1f5l4dpk5yd1bpy-libfido2-1.13.0.tar.gz.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv f1l7g9nikg8pa52d2kj75mjbz65p0wjq-libcbor-unstable-2023-01-29.drv fan81b811szwli13s87lpahw943wpl0d-hidapi-0.14.0.drv n64y6zff0sdzq4l3gy75qd4di7c3slmm-zlib-1.3.drv yxqx1vh5dgkc6l5qqmdk5bsmi88a12ms-openssl-3.0.10.drv
-CA: text:sha256:02dwc5xarill8c3bd6lk3qq3g9ag4s2rv3gbp41ph6hsmvddbyqf

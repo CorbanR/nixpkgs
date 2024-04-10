@@ -1,0 +1,9 @@
+StorePath: /nix/store/m9x8l0alnmwi9f4mi6if19mz6w9c8d4r-libgcrypt-1.10.3.drv
+URL: nar/1jf6skffs77yprw0kk5hzp6l0362d7j7slix7y75cxqhpa5zdln2.nar.xz
+Compression: xz
+FileHash: sha256:1jf6skffs77yprw0kk5hzp6l0362d7j7slix7y75cxqhpa5zdln2
+FileSize: 1160
+NarHash: sha256:186kdhds7npp2dvjxrygyzs5rgkikjgh0wa2fp0a6bh14czsx5a2
+NarSize: 2800
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 45l9md35nfh63qlkv9dblnzp20m2mi37-gcc-wrapper-13.2.0.drv 9iq5qhvdqhl07saszx2fp002f27hd8g3-libgcrypt-1.10.3.tar.bz2.drv lhz2mjws7ks6y7gb1sjngk12nj9fsz9m-libgpg-error-1.48.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:04n9iag135bba0d4g93w1pmb96hipiaddppqald5wg1zrk6cyiy1

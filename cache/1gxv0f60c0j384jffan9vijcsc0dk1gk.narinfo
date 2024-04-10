@@ -1,0 +1,9 @@
+StorePath: /nix/store/1gxv0f60c0j384jffan9vijcsc0dk1gk-scons-4.5.2.drv
+URL: nar/1zkqjhdg20511jk89vhmdha07ag3hp7kslpaqhciwbhjj6s2rcrq.nar.xz
+Compression: xz
+FileHash: sha256:1zkqjhdg20511jk89vhmdha07ag3hp7kslpaqhciwbhjj6s2rcrq
+FileSize: 1868
+NarHash: sha256:0rdiig90dc6hq5g388b9fj6qyls2hvpyqg2xbamq2bgrh74kaik5
+NarSize: 4464
+References: 0c6bzbb1d35h36p8mfxj84479353qjkc-python-output-dist-hook.drv 66q7qqp126ddv19fg32arddv0c1sby2r-env.patch 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv 9svgv4nxfncpqair7jxgplivycmifcyv-setup-hook.sh cwby107739vxv8zm090aiz3ggclfzkzs-python-remove-bin-bytecode-hook.drv f3p0k4ha7qwl7c49ywvraqf8w07zyhl5-pypa-install-hook.drv iipfg9dr0v4i5lxhmdab4pv44a11dgq4-ensure-newer-sources-hook.drv k3a45z20mcdxp0a5balnjz27macbwcsa-wrap-python-hook.drv mixpc78shd06scm5wadxdb76armb5mwb-python-catch-conflicts-hook.drv r5s64qlhbm08787hn3a1pr1i2y4mnhkv-setuptools-setup-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vx9b833zxjpr5nlj08vkrsy6gv4z5l4g-python3-minimal-3.11.8.drv w2jvp5yb0b468pyzv6lz1w2nkg0psp83-python-namespaces-hook.sh.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv y4mhyrjipzyzvn4raz46wjkhn5kq5119-source.drv y7lbllj7m37r4s0i1nf6jrvcwr3csmx7-python-imports-check-hook.sh.drv z1nhp4wlgvnq9m0jf476p3x0475xkjxx-python-remove-tests-dir-hook.drv
+CA: text:sha256:1iykg2w61jz0bnmkqb37aw4w6alx8yr8jwlcdzg1jjgq8gv04408

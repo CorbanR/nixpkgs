@@ -1,0 +1,9 @@
+StorePath: /nix/store/v9q45hvlfzmpn6yb8zsqa19dhn2kl8y5-libuv-1.48.0.drv
+URL: nar/1jx3r9yl2qr079mqsgj3c838m3ywpb1d1a7w16vblrsf2yk4vsly.nar.xz
+Compression: xz
+FileHash: sha256:1jx3r9yl2qr079mqsgj3c838m3ywpb1d1a7w16vblrsf2yk4vsly
+FileSize: 1388
+NarHash: sha256:0xcn048pvq2am7cic8klj6zrhczp6ib4b2a8bakm33vm6vv0hdjr
+NarSize: 3128
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 0raxk806gcgfr0ip0sml19rm476z3a9j-libtool-2.4.7.drv 12l2v3kmacnpmx14p2345kk41fpv31rw-separate-debug-info.sh 6d9z5y724n4z3dk37z8p9pm8hgwspz1x-automake-1.16.5.drv bi6dqphrr6n7578vnvyd4h70wjxcpgk8-pkg-config-wrapper-0.29.2.drv j4x833vzrgy3spycq2hrhcy2npj61ssj-autoconf-2.72.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh zynrr9lh73rlwk7vj0wa3cpnyp40iy1h-source.drv
+CA: text:sha256:1j1nvjx712r12ibhccymgfzby234ab6jaxh0b70ybnjcl9n2p656

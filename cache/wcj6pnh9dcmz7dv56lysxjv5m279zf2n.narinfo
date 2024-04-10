@@ -1,0 +1,9 @@
+StorePath: /nix/store/wcj6pnh9dcmz7dv56lysxjv5m279zf2n-apple-framework-Accelerate.drv
+URL: nar/0c7ixby0x7vgfj8sglifsvy23ppyqr4x20ryn0dxzbs9cwsb6naf.nar.xz
+Compression: xz
+FileHash: sha256:0c7ixby0x7vgfj8sglifsvy23ppyqr4x20ryn0dxzbs9cwsb6naf
+FileSize: 2148
+NarHash: sha256:11mizjs97c20n26vx4d7msn6n1l3ndap5d1fg2nbin1wzyimykcj
+NarSize: 6832
+References: 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh dz4wa40pzcpb4k1yik69mlvs72a94l4a-apple-framework-IOBluetooth.drv gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v7jcqifji2sdni1bcvjnqqb66w31dx7i-MacOS_SDK-10.12.drv x9gq0ab69k5kwmvm2562h1k5k8v1drvn-apple-framework-CoreWLAN.drv xgm4z1k5bcbw8466dajw7aryaym3wndw-print-reexports.drv
+CA: text:sha256:1nfdsj37bmd063450rkk13h0d0c30jrymm8vwja4b90sdwmpq9am

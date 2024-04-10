@@ -1,9 +1,0 @@
-StorePath: /nix/store/5390qxbqcv5xm4jyqx66hfvfrgf82xx8-bootstrap-stage-xclang-stdenv-darwin.drv
-URL: nar/0z3fg1jch2f4gwapkz02c4xvcdczj4q4j9dks4s06bd8jpbdg33x.nar.xz
-Compression: xz
-FileHash: sha256:0z3fg1jch2f4gwapkz02c4xvcdczj4q4j9dks4s06bd8jpbdg33x
-FileSize: 1632
-NarHash: sha256:162dd3py356a5s15mz4g5yvrsq15a88hf6cwnky6qzwmq5gs23wd
-NarSize: 3976
-References: 5yzw0vhkyszf2d179m0qfkgxmp5wjjx4-move-docs.sh cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh ckzrg0f0bdyx8rf703nc61r3hz5yys9q-builder.sh cxds5n58jghpbqibx4f4zzijdf8kfp4g-adv_cmds-119.drv fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh h9lc1dpi14z7is86ffhl3ld569138595-audit-tmpdir.sh jivxp510zxakaaic7qkrb7v1dd2rdbw9-multiple-outputs.sh kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv m04bvwfx0iacgqwjji1d7pi01agra586-clang-wrapper-11.1.0.drv m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh ngg1cv31c8c7bcm2n8ww4g06nq7s4zhm-set-source-date-epoch-to-latest.sh nlnhvs1gqpnx47qjaf9qn0zmr7w8ggpc-setup.sh pag6l61paj1dc9sv15l7bm5c17xn5kyk-move-systemd-user-units.sh wgrbkkaldkrlrni33ccvm3b6vbxzb656-make-symlinks-relative.sh wmknncrif06fqxa16hpdldhixk95nds0-strip.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv wzdsbnv2ba3nj91aql8jjdddfmkkdh7h-patch-shebangs.sh xyff06pkhki3qy1ls77w10s0v79c9il0-reproducible-builds.sh
-CA: text:sha256:1qbmdk79hf3mnfr2fdcz2dcqc596nq2cbfjwngiisan5kl643yxw

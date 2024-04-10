@@ -1,0 +1,9 @@
+StorePath: /nix/store/9fsy6m9k7mcl9jrfp88m49lvgwm3j1a3-readline-8.2p10.drv
+URL: nar/0mnjppx5bwxry3d7c7nw0zgscvyikg1rbyqdci2b6kvbphf2a741.nar.xz
+Compression: xz
+FileHash: sha256:0mnjppx5bwxry3d7c7nw0zgscvyikg1rbyqdci2b6kvbphf2a741
+FileSize: 1720
+NarHash: sha256:1p48829gzyw1k9vn6wqk53yd04c8qfrvrp5rf4q4xcyskrn6pbvm
+NarSize: 4968
+References: 0v7w62jca8nw6w31zs4y2805jj670f6p-no-arch_only-8.2.patch 3ajp9hngg4z0rgfcbqmryyydmd1i2cgc-readline82-003.drv 8ca08sz0sz6pqfna36y09wa3zgmz34g9-ncurses-6.4.drv bhd1m5gj67gdldglzs17bp1kcydfyvci-readline82-001.drv bw6aa38615ww5karcn8kslsf5hxgz412-link-against-ncurses.patch chs7lc4s6x6jd7hc0ym5jxc7lqlqwqvm-readline82-005.drv g3i3dcd7xfi2mcfqd6yqdn7zaxkjpw2w-readline82-006.drv h9454wk1p234l677ilj0qb8aylwjqzah-readline82-010.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv jwjnig7sgmj1k1vv6kscmi8900j5k9k5-readline82-008.drv kliyvlzafrx3khz3kkcxcignl79vhwjl-readline82-009.drv q043mf96nvz99zdp02xc6r2iywgksv23-readline-8.2.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh w98pydy8vbj8h3qc9w383ryivz4wqknk-bootstrap-stage3-stdenv-darwin.drv xrz57h9nrq41xnd6pivdh6n1iwa55q2a-readline82-002.drv zdmh9zwbqppwwb6jaya6impjb81aa1kv-readline82-004.drv zlg4w1na9nlz3m415nw1hqxcbr1pr7mh-readline82-007.drv
+CA: text:sha256:0v96janp11hf5l9ikak4k8dk1x5szbzh32n7afmdrfsfkpv93nnf

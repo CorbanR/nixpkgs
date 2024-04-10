@@ -1,0 +1,9 @@
+StorePath: /nix/store/2lpxd7sxr2mkcmq6ypx2xqmaisph5ng0-apple-framework-IOKit.drv
+URL: nar/15j3dbq1fm56jvx9s5390i0a29h3k4fdmqq0vn7271xsgb5f0cy8.nar.xz
+Compression: xz
+FileHash: sha256:15j3dbq1fm56jvx9s5390i0a29h3k4fdmqq0vn7271xsgb5f0cy8
+FileSize: 1992
+NarHash: sha256:084qar0ncmgg30fyvxl4kw8mg2z0lhrryza086kkbmn84qij0zhr
+NarSize: 6248
+References: 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v7jcqifji2sdni1bcvjnqqb66w31dx7i-MacOS_SDK-10.12.drv xgm4z1k5bcbw8466dajw7aryaym3wndw-print-reexports.drv
+CA: text:sha256:11iyc423bzxdipbl7476ibwcrib22n0pdf3d0x4fiyw9xy5hy6dh

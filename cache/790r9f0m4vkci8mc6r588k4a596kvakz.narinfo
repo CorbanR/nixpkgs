@@ -1,0 +1,9 @@
+StorePath: /nix/store/790r9f0m4vkci8mc6r588k4a596kvakz-libcbor-0.11.0.drv
+URL: nar/01xx83scfv2nk4ymdw3b71chnhqsz9w5g0ipp3cfrjhznwcmsdmf.nar.xz
+Compression: xz
+FileHash: sha256:01xx83scfv2nk4ymdw3b71chnhqsz9w5g0ipp3cfrjhznwcmsdmf
+FileSize: 1060
+NarHash: sha256:0zi8r7jrv5n4j9xfcmkscwfhnbbnymcfkzggzl7wm4ax2zmsw2mz
+NarSize: 2400
+References: 288raajal3qw6l7fvjfka5vpn9y0fgfv-cmocka-1.1.7.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv pg8652sg29iwzgyvpk07065q3hkf5cs5-source.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wp4an4j45ccfbqxh1w5m2rfbak2xzgw7-cmake-3.28.3.drv y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:1dwn0nij755jq4y64wi6rll06c2valkg92ab21wnqvvjj5i3zjxs

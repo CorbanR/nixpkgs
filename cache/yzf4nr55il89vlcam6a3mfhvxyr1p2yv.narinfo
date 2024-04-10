@@ -1,0 +1,9 @@
+StorePath: /nix/store/yzf4nr55il89vlcam6a3mfhvxyr1p2yv-libobjc-11.0.0.drv
+URL: nar/1078wawf535h07hbhdwkkdvdxgd5aakn27fw1prh4qqhi0gh4krg.nar.xz
+Compression: xz
+FileHash: sha256:1078wawf535h07hbhdwkkdvdxgd5aakn27fw1prh4qqhi0gh4krg
+FileSize: 960
+NarHash: sha256:1f22vb4wd98f1p84xw3sr80r428vplif0vnprc8l8ydlr8lpl8py
+NarSize: 2360
+References: fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kzkv4g1p7rr7nd7vqdzq5zjb5gfy6sjz-MacOSX-SDK-11.0.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:11ia9pf4zsz22psmj286dvmcq7x6wa64vk99xskdqc13kmaj6sbq

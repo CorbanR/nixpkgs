@@ -1,0 +1,9 @@
+StorePath: /nix/store/n1x86h1p9b1k0wx50i76sycm0czn7044-libevent-2.1.12-stable.tar.gz.drv
+URL: nar/1cl95jsi2hwxhllgh3rhldmac46grglknr3fd9rfpnfq91pviqyb.nar.xz
+Compression: xz
+FileHash: sha256:1cl95jsi2hwxhllgh3rhldmac46grglknr3fd9rfpnfq91pviqyb
+FileSize: 1328
+NarHash: sha256:1a755v6a7pm24fmq6qlqjnd4x0xcl6v057sj2zryclzvis3p8kg5
+NarSize: 3096
+References: 54k11sjcal05q1cncw9fxsggdgk8awmf-curl-8.6.0.drv 6gp9fjlmrqlcz3mq8930f3pl0vjjj2hf-stdenv-linux.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv zy4m4n0jb3b89p43w9c2myly276dfa7n-mirrors-list.drv
+CA: text:sha256:1lipnr2fgkx8d8m7ilsqdbi9phc80ml7l4a54p556r26npj54i7p

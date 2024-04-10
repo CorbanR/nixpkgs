@@ -1,9 +1,0 @@
-StorePath: /nix/store/z62vr57aqvr510xiy33h3f5kbiz8j7f2-xcode-select.drv
-URL: nar/12pqc74kasxjkbmgvnr7gl440ria9ac8ajmhfc0jgm7q47x7lq76.nar.xz
-Compression: xz
-FileHash: sha256:12pqc74kasxjkbmgvnr7gl440ria9ac8ajmhfc0jgm7q47x7lq76
-FileSize: 1084
-NarHash: sha256:1a4dfz40xqwvh65y7abyz72v115xfw5wd7mkad56pdr0sz3wqxlj
-NarSize: 2496
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv w12mifg34dx2l90mdc7gq9qirc9hn979-stdenv-darwin.drv
-CA: text:sha256:0pdsd07ca7ili9p1sv54sakhlm5p7xhq5hnq7f04dsbbg6s84pqc

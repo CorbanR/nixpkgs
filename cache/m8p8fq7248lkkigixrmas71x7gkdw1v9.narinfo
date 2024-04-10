@@ -1,9 +1,0 @@
-StorePath: /nix/store/m8p8fq7248lkkigixrmas71x7gkdw1v9-linux-pam-1.5.2.drv
-URL: nar/0gwdlps0q28c45gs0ql94f20hr6h0q399p8pd1pcm067478j343w.nar.xz
-Compression: xz
-FileHash: sha256:0gwdlps0q28c45gs0ql94f20hr6h0q399p8pd1pcm067478j343w
-FileSize: 1360
-NarHash: sha256:1ifiwagjzac0bs4dlkd1xm1dlshqfdl8pzqmh68q5ryybw1zd83g
-NarSize: 3128
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7106793fyw4llfpa0mzvz77va5x6knxd-db-4.8.30.drv azax4isp5al7xw03n3sabylvh8x277g5-gcc-wrapper-12.3.0.drv i38iknfjrrmq3xmn4b7kk5xni1f6vm9p-libxcrypt-4.4.36.drv jpmi01spa8wh5wjw632wlcndxnb957fn-flex-2.6.4.drv kbwpibd2xfdjjw4hdrx2pk91ff8xz2sv-cracklib-2.9.11.drv kq3f8nispy8madn48imry1l3bp6afav2-suid-wrapper-path.patch p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv rm1n9sgjm7z7slr34plniikjv6gvjv26-Linux-PAM-1.5.2.tar.xz.drv rzfs7mikk0bryw7y9zvga29kwfs9fcwh-audit-3.1.2.drv
-CA: text:sha256:06dr79dzyhvp1j8sn4qsk93dzay82j0isjypw27raiiplk2h02l7

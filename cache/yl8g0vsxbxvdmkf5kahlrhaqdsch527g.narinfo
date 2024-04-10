@@ -1,0 +1,9 @@
+StorePath: /nix/store/yl8g0vsxbxvdmkf5kahlrhaqdsch527g-perl5.38.2-PadWalker-2.5.drv
+URL: nar/0pkv0fpa01dmllwalyby00ryz0sdmjxfaip0506l3c8ff6syhv6f.nar.xz
+Compression: xz
+FileHash: sha256:0pkv0fpa01dmllwalyby00ryz0sdmjxfaip0506l3c8ff6syhv6f
+FileSize: 1044
+NarHash: sha256:193pn7j3dikbzdlkmi952r443vf5z7fnjxp6a0ll5wmyavhbmn14
+NarSize: 2512
+References: 1ay2915b1q4rxxxa30y61lbfnzp1xgri-PadWalker-2.5.tar.gz.drv 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv imxny7nz7pnb9riagprwi1vmxpn5vxfh-perl-5.38.2.drv y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:0qbmc4mbcc7z97n69fv54lasxxv8jaalb3mwzcvkawbjqb22ghs2

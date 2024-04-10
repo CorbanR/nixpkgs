@@ -1,0 +1,9 @@
+StorePath: /nix/store/9b660xqhjnhddsk9xywnnzjmqlkq3hvr-zope.interface-5.5.2.tar.gz.drv
+URL: nar/1wkacph1yv8s9q4yh3jns7q6b5m41dkm8lbzxilkh4n7vlva27gz.nar.xz
+Compression: xz
+FileHash: sha256:1wkacph1yv8s9q4yh3jns7q6b5m41dkm8lbzxilkh4n7vlva27gz
+FileSize: 1344
+NarHash: sha256:1ns0h74xw8018s9s3rk2r7zlkqdqxbbp9msv9ai3xm3sv2gd2s89
+NarSize: 3248
+References: 9fb7876pspxqmf8756csxc1zwipig3q1-bootstrap-stage0-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zgh2kqjbwiiyh82327d197lcz6dipxlw-mirrors-list.drv
+CA: text:sha256:1jhs8b2s0sx84yn9sxa0dan41413wic59jij0msfs6nwc3r7qnak

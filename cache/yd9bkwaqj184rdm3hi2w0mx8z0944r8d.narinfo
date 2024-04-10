@@ -1,9 +1,0 @@
-StorePath: /nix/store/yd9bkwaqj184rdm3hi2w0mx8z0944r8d-libmd-1.1.0.tar.xz.drv
-URL: nar/1z46j7qi2kl7lx5a8sxw7as6dy5aqis3jpgxc53fazi1mxi9ghds.nar.xz
-Compression: xz
-FileHash: sha256:1z46j7qi2kl7lx5a8sxw7as6dy5aqis3jpgxc53fazi1mxi9ghds
-FileSize: 1344
-NarHash: sha256:1x39l67w2sr941msq37k32b4x3chb7rirzl2sx43wvrarinvqkh4
-NarSize: 3064
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh i8a31hfv8pz9l0z1y7iimdl6h04dga75-stdenv-linux.drv lr82zvprmf5m7q1p5hq0kmgd3645w3dx-curl-8.3.0.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv zj04va6kfr8j44f34ya6ng6w2pdm87jg-mirrors-list.drv
-CA: text:sha256:1f6vjxnw0vclqhlkav9cbf2wm75dyjj18dkq3c5r9141ljnz6vp9

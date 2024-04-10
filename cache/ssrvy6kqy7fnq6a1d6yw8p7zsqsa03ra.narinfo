@@ -1,9 +1,0 @@
-StorePath: /nix/store/ssrvy6kqy7fnq6a1d6yw8p7zsqsa03ra-libuv-1.46.0.drv
-URL: nar/1cgcd62yajyli4vi01zzvgwbycx7a0vsxqa76cnna3v16i4106qf.nar.xz
-Compression: xz
-FileHash: sha256:1cgcd62yajyli4vi01zzvgwbycx7a0vsxqa76cnna3v16i4106qf
-FileSize: 1872
-NarHash: sha256:0znfggxh3xk34q53khhlgs8b2s3rciy6qab36955pb2mv5fnqnx3
-NarSize: 4360
-References: 5j67fbyigvfdnl833s7z6xszmrnp9saj-source.drv 671j5g0h709s6k1j15zjyr095x1chgsm-apple-framework-ApplicationServices.drv 688j5ml68wqa4p7zydwfl8ld9358l9bv-libtool-2.4.7.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 6zdl7x8hdldmyzfr9a8mvwvzq416irsl-pkg-config-wrapper-0.29.2.drv 7czfy9bp8d6xmf35b29i7i9via7rdzy7-autoconf-2.71.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv hwqxbrq2r8kp6h3ccl04rh9g40gk2vgg-apple-framework-CoreServices.drv mkjmpnq4rxngqpzq8a50ff2kd9kng4cq-automake-1.16.5.drv
-CA: text:sha256:1ixpv13zjvvb2frkibkj0d1c73nrmhfdlnmc2xj5n3qbp5x5klp7

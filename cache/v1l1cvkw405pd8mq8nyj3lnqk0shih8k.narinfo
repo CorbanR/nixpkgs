@@ -1,9 +1,0 @@
-StorePath: /nix/store/v1l1cvkw405pd8mq8nyj3lnqk0shih8k-future-0.18.3.tar.gz.drv
-URL: nar/0nqz0fyhwx45i150anh0xrrn2jfjyg1g3ar5jmxhbrqsqsmdm3xc.nar.xz
-Compression: xz
-FileHash: sha256:0nqz0fyhwx45i150anh0xrrn2jfjyg1g3ar5jmxhbrqsqsmdm3xc
-FileSize: 1340
-NarHash: sha256:148mixbyji0jccbls7h9xsa8ans8r2b1wgxda0a4kdf1yxq3lqg0
-NarSize: 3200
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh p4jpyr1vsixxl6sbkfy0r0398wwmqbci-bootstrap-stage0-stdenv-darwin.drv pfc1kmyhx8lkwakqlc0yarb8p5nldl4f-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:0d7q9i1pvx2zgkxd248z6b7dy1m8xfvnvwx4ajclpw00kqfsiql2

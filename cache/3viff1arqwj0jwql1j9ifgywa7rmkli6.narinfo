@@ -1,0 +1,9 @@
+StorePath: /nix/store/3viff1arqwj0jwql1j9ifgywa7rmkli6-MacOS_SDK-10.12.drv
+URL: nar/136y015za76falsb8zg4l2abk26ng76x1bf1x6nbq5nzi492pbid.nar.xz
+Compression: xz
+FileHash: sha256:136y015za76falsb8zg4l2abk26ng76x1bf1x6nbq5nzi492pbid
+FileSize: 1260
+NarHash: sha256:0x20dwjr0r54f3qqbf01s92gc35js044lwv3iv3xpncjw6g93kg9
+NarSize: 2944
+References: 5ph6aqwy3mk2sw7bbj5xys9gi7111rxc-cpio-2.15.drv 8106lywf5llcgzf0p9hazjkdq7g9m3ab-bootstrap-stage2-CF-stdenv-darwin.drv 8y67az4hhmp8ghy7vmk8cv6hixlb02ax-DevSDK_OSX1012.pkg.drv gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv iz4gpikia9bdpxawrgjnhlhikdxysicl-pbzx-1.0.2.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1iw690y1r779ijnfq47a7kdss9j796m5ngv3myhzna97y6k5f6k5

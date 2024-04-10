@@ -1,0 +1,9 @@
+StorePath: /nix/store/bnw2l92w2y042cwl6w982hddzacakrjd-perl-5.38.2.drv
+URL: nar/1pfjv2xy9hwwgvwqch0rymrbvrs73vfalddf3rzjbyd48v9jqhr4.nar.xz
+Compression: xz
+FileHash: sha256:1pfjv2xy9hwwgvwqch0rymrbvrs73vfalddf3rzjbyd48v9jqhr4
+FileSize: 2048
+NarHash: sha256:00wym4kkcjhq7644g5dwmxrq56ws9m63wsyzgv96rs8q3dm2hjxm
+NarSize: 4808
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 45l9md35nfh63qlkv9dblnzp20m2mi37-gcc-wrapper-13.2.0.drv 55lbvcqz3z97jcqf2zxqwav58wq52z8l-no-sys-dirs-5.38.0.patch dm81j9qdcdr4c458pqbc9wvq9ymgzk4m-setup-hook.sh ja673f47sh9b2q518mjgn36lc8bssky9-zlib-1.3.1.drv jmp1awmbs8sjcp7nvv5r050nmmrzmqga-gcc-13.2.0.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv s6h9qyfqjlk9cnx3kr4n6annw1vmrk02-perl-5.38.2.tar.gz.drv snsswq08iaxavism8r6akfsw50jw136k-libxcrypt-4.4.36.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh zib7y8ps3vk3c6qxh74qyxs108620y9z-glibc-2.39-5.drv
+CA: text:sha256:0lj4cwfr5fnvdrdfg14sgs93g350k7xlvx882pcfrg8ng7dlg22k

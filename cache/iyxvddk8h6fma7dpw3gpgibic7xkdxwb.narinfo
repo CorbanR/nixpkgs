@@ -1,0 +1,9 @@
+StorePath: /nix/store/iyxvddk8h6fma7dpw3gpgibic7xkdxwb-openldap-2.6.7.drv
+URL: nar/0z2dacggynkz0r6dsifg9rnv2sfclgn8gysvpxw6b4nfcsjj2nqh.nar.xz
+Compression: xz
+FileHash: sha256:0z2dacggynkz0r6dsifg9rnv2sfclgn8gysvpxw6b4nfcsjj2nqh
+FileSize: 1884
+NarHash: sha256:0w0rx83nqiync4l8xdhhr90b1805ingkizdd7yczdiaa9aqv5s4j
+NarSize: 4600
+References: 4agpxhyknhmmnzzzmbnrr3n4qi87lb6p-groff-1.23.0.drv 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv l683i2q4y10aglg26jjq9h6813qlxlkj-openldap-2.6.7.tgz.drv nwldz574yq75p9k29s13giw0i5nrgpgx-openssl-3.0.13.drv pqy5garapyh9gbcp2krbbzqalww3nxwz-cyrus-sasl-2.1.28.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh w18k3mxwqq0y5881yb9p2q27nxh9rd5k-libsodium-1.0.19.drv w2q8yxgjsk42yz3xk7kl7p36cpdgm67m-libtool-2.4.7.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:0dg0mpch3zql2jrvpp0riffx5im9bsk255vpl7k1bddf6afx4m66

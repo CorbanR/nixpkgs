@@ -1,0 +1,9 @@
+StorePath: /nix/store/2dkys4bg9mjpk6vi800i68g6mm6m2z5w-lld-16.0.6.drv
+URL: nar/14q13zr1l3dbbcyp9fr5hl073nniyrz50sl8q8zr3k6bibdc398g.nar.xz
+Compression: xz
+FileHash: sha256:14q13zr1l3dbbcyp9fr5hl073nniyrz50sl8q8zr3k6bibdc398g
+FileSize: 1380
+NarHash: sha256:1y7kggkkihay5kqfr90kdjdxk8hj2gkbqkgarnhsc7f3cyxb9dn6
+NarSize: 3184
+References: 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv 5j9ci9whzlpwmlka08gspfqnw4mnlapf-ninja-1.11.1.drv bn8iwg2vsw2zfqv9xnmdfziibsj3jc3d-gnu-install-dirs.patch frn3apvz2bz6lk9srbji0rxiqlrkr1g6-add-table-base.patch fzj1jsga4j5bbh0ydrbrmlifm5zbgf01-llvm-16.0.6.drv g3a3yqksbq01ffjkhb3k62fqn2gpddan-lld-src-16.0.6.drv gg8747wkzyhi00w1g1nfqxvh4067q3q4-bootstrap-stage-xclang-stdenv-darwin.drv pypqb574a0qipwj1941p342xcma7lah3-cmake-minimal-3.28.3.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh zkbh58ar2d4i1qmy5nf0wbx1aqk0f8mb-libxml2-2.12.6.drv
+CA: text:sha256:0229xp741jq47yxw548kfy51j4qmhxhxr2sh3pvmq961pba8xlxn

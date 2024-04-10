@@ -1,0 +1,9 @@
+StorePath: /nix/store/w0fgmdnyqvzmv5jahlmcyk2cxrm8kjdz-xcbuild-0.1.2-pre.drv
+URL: nar/18l46c0302yr3vyzvfx9xmm6g9vdcw3h8bsqj07jkar030w9ljp5.nar.xz
+Compression: xz
+FileHash: sha256:18l46c0302yr3vyzvfx9xmm6g9vdcw3h8bsqj07jkar030w9ljp5
+FileSize: 1824
+NarHash: sha256:0dbisxrrfqpk15x1lcq3xsqns9ag5nbqbgw2191hdp04jmybs9xh
+NarSize: 3960
+References: 04ms3fvm0ss3rcr939z0bq0sal5a49jx-source.drv 0kdrsw49yb4brc4ivy0r2xfpnvg1hj5z-apple-framework-CoreServices.drv 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv 0yqqwxzd126q8ad95hijjnaa9zh3yv1n-libpng-apng-1.6.43.drv 5j9ci9whzlpwmlka08gspfqnw4mnlapf-ninja-1.11.1.drv 6j2jbrlxwsa6wn9qs7q8qpf7zsb63jnp-source.drv 77rsvl37xp174nvk2wh9bxla5jzj7bca-bootstrap-stage1-sysctl-stdenv-darwin.drv 7zb3pvzfh31a5vwv72mg6qy32abdybii-apple-framework-CoreGraphics.drv 810w1gii8fmqzlmdyfkzrggjb75ygad2-source.drv cvmpalscm0shapg2m59armmd9ah3h0ms-apple-framework-ImageIO.drv h5w1irii5ysndzw79svj87llmxhj0k7a-includes.patch pypqb574a0qipwj1941p342xcma7lah3-cmake-minimal-3.28.3.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh xdyabdxqf6r3af9qngmcrxkkkpwyxj5a-zlib-1.3.1.drv zkbh58ar2d4i1qmy5nf0wbx1aqk0f8mb-libxml2-2.12.6.drv
+CA: text:sha256:13bx9bng3w54dgjrq6wvx9l75wq43jpqc447scj83d7nic51qgdb

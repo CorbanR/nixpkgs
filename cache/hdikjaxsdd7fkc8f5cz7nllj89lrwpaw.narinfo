@@ -1,0 +1,9 @@
+StorePath: /nix/store/hdikjaxsdd7fkc8f5cz7nllj89lrwpaw-cctools-port-973.0.1.drv
+URL: nar/1har195gi9j0cmp1ibyvv5apgg6lk05m03madvhn5gjh7afpqkn9.nar.xz
+Compression: xz
+FileHash: sha256:1har195gi9j0cmp1ibyvv5apgg6lk05m03madvhn5gjh7afpqkn9
+FileSize: 2536
+NarHash: sha256:0626xwsh56cvcf5rjd7qabas0ikp9p2hjm4217rxlvd2pbgrlwp2
+NarSize: 7040
+References: 7ngby35f9m9b0x71rrf64vlf19a7hck2-darwin-memstream.patch 8106lywf5llcgzf0p9hazjkdq7g9m3ab-bootstrap-stage2-CF-stdenv-darwin.drv 9hhq2gjfp57y0qldk1baw5c14l7sh905-source.drv 9jhx7qnd8h0w1nah38azvncx5z8fvi11-025899b7b3593dedb0c681e689e57c0e7bbd9b80.patch.drv bryp6l8wik2afph6110xz50fvpl2ld0v-autoreconf-hook.drv f5rp2hc73gaqsa451g0d3rnq4ji3ggjs-4a734070cd2838e49658464003de5b92271d8b9e.patch.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv nzh47nz38129b9f1fn9fk9pa7109s4jd-objc4-709.1.drv pfn1rwb4d6dd1wf7pdwi2yld4zvqrp9j-autoconf-2.72.drv pqdln15iiqd7vifawdvf34wfkmc9arh5-install-shell-files.drv q2765xhwmjd98lfczqfd40h3vpm7hxrq-automake-1.16.5.drv qph75jbbx415qhz2s7vas5zn3p8b9cim-memstream-hook.drv r9iy2wdkq3w0n1hbyg92c2sqg3vcbkhl-ld-ignore-rpath-link.patch v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh w2q8yxgjsk42yz3xk7kl7p36cpdgm67m-libtool-2.4.7.drv ykxfil2clzayhjpp60f6p0zfpz7hcn9v-libtapi-1100.0.11.drv zr59kiajvksmks3vl1hja2ybix9z2zqk-ld-rpath-nonfinal.patch
+CA: text:sha256:1wf86b78h3yir1vfddf1wvgwk5xhkjs9mlrxq5i8s79fq0r2yj4y

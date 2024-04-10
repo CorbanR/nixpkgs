@@ -1,0 +1,9 @@
+StorePath: /nix/store/ygjllivdaasimn6sfa6ikcxs7pbnlz64-llvm-binutils-16.0.6.drv
+URL: nar/1fqzxi7inz9xa9c6hwwksvxjls0bw8r8pkyj3ff5hmv30v4qabfr.nar.xz
+Compression: xz
+FileHash: sha256:1fqzxi7inz9xa9c6hwwksvxjls0bw8r8pkyj3ff5hmv30v4qabfr
+FileSize: 1272
+NarHash: sha256:1lbnl8cd6j7zsnkpg5c7ly856nfsz3412w6fgh1m1zh4nlcn3yyb
+NarSize: 3344
+References: 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv 2dkys4bg9mjpk6vi800i68g6mm6m2z5w-lld-16.0.6.drv fzj1jsga4j5bbh0ydrbrmlifm5zbgf01-llvm-16.0.6.drv ryf113a6way7z93bgwx69d0il6bg6qj3-bootstrap-stage-xclang-stdenv-darwin.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0324r1h52yxv7z7g2zg9q5i0xl2ackjd0nlqv8dchxbvpmpmmivc

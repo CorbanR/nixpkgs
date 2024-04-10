@@ -1,0 +1,9 @@
+StorePath: /nix/store/dgxqk3lwa8grsmbfj5z35zp0gzjqsgvn-tcl-8.6.13.drv
+URL: nar/0zlg7xzm7aqv8qfjm16mfk1kb8jbqrbn65x547hbirri0hqyp4l8.nar.xz
+Compression: xz
+FileHash: sha256:0zlg7xzm7aqv8qfjm16mfk1kb8jbqrbn65x547hbirri0hqyp4l8
+FileSize: 1116
+NarHash: sha256:1mcg88rd9ks8mfkwzh1r9isp6q3hg6nzzv7q15xgbggs2ijjg4jh
+NarSize: 2504
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv fw33iddpwz1bqliv131hh3sgjhzsc89j-tcl8.6.13-src.tar.gz.drv ph1icliscldh4ca5yl39mqamqy0187b6-tzdata-2024a.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:08b6swcxng98j7aasklpp4g1ms9f3w66lapm28miwnnw9d4aq8f7

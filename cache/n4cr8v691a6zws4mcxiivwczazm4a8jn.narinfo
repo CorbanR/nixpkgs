@@ -1,9 +1,0 @@
-StorePath: /nix/store/n4cr8v691a6zws4mcxiivwczazm4a8jn-python3.10-setuptools-scm-7.1.0.drv
-URL: nar/19vjmv58p0l56q2h2bjxn26s6jc5vywmis09ln6mw4k7c5xrdl7n.nar.xz
-Compression: xz
-FileHash: sha256:19vjmv58p0l56q2h2bjxn26s6jc5vywmis09ln6mw4k7c5xrdl7n
-FileSize: 1904
-NarHash: sha256:0gmydif7hdv9miql4qj0ag817gff8gvajwfja7b3g6snwq6pki09
-NarSize: 4784
-References: 3glqljk20iyhnzr5sz30k3p5gfj07r0v-python-remove-tests-dir-hook.drv 3i82dc5k28zl92qnjyi7ppw4vx4myv13-python3.10-typing-extensions-4.7.1.drv 4gs2zap1s6lpvn9gd6lwj5yriafy8sxh-python3-3.10.12.drv 569ckkgdw05ayxxlvf0xdqw6kcdpj6fa-wrap-python-hook.drv 5v49yn6811xaz73581cmz6ds3md4n8lf-pypa-install-hook.drv 64spj723i0aflvkwff0vc625bh880nxz-python-remove-bin-bytecode-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7cgy03vlwp4r3bzyx9sjxbjxqrfws2ld-python3.10-tomli-2.0.1.drv 8sw6wgkdgd3rna2s483dhshg284qqqgm-python-namespaces-hook.sh.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akpdvkkaqmk3fhw1kjpj42mnid6nb7mh-pypa-build-hook.sh.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv d6mrhfmczivqikqf29icnvah8ldxjxhw-setuptools_scm-7.1.0.tar.gz.drv dgv1x13fgvb9il09jr17plv29n3avjl5-python3.10-setuptools-68.0.0.drv mlv0ljd3g00dqh3w7cngf3h58asip2mg-python3.10-packaging-23.1.drv pgv9c923jyjl2vsp7qlmmylglh09y4xx-python-output-dist-hook.drv pqg1r9r71h1b1qdlsh0klq2pb41xb1mv-ensure-newer-sources-hook.drv v9ij02aqnhsdapdw6b36h1y6spv49hkb-python-imports-check-hook.sh.drv y823dmnv8kgcg2lyvzx0g3m41x7pfyij-python-catch-conflicts-hook.drv
-CA: text:sha256:0rp5nd3nrwnjjz12za2k8n3w5g6h8myyrmshh8k9m0bwkl1sslxp

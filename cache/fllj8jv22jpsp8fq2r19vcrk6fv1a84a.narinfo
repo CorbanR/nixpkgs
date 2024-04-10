@@ -1,9 +1,0 @@
-StorePath: /nix/store/fllj8jv22jpsp8fq2r19vcrk6fv1a84a-go-1.17.13-darwin-amd64-bootstrap.drv
-URL: nar/05cyrj7vdcc2vcypidnfrrkv5rzc3vdw3j7z4mzn3kvz0q9avkms.nar.xz
-Compression: xz
-FileHash: sha256:05cyrj7vdcc2vcypidnfrrkv5rzc3vdw3j7z4mzn3kvz0q9avkms
-FileSize: 892
-NarHash: sha256:0lqz8wf5wxbxlbks5cmn96hzdc71z4h8x8iwk2yxml8qxsi0jm5h
-NarSize: 2008
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv bjrzlisgv25qip8lanafrbnb85agkjmp-go1.17.13.darwin-amd64.tar.gz.drv
-CA: text:sha256:0d52lj06xwdg1vzbrwhwgr4x65sn4zwp3wrmdd2llm9wnyc1sf2r

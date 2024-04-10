@@ -1,0 +1,9 @@
+StorePath: /nix/store/4g65dll98b6j0dfn3q2gpnj2swydwlb2-gnutls-3.8.4.drv
+URL: nar/1xn51xg9aygna3j5kndyl1qgjsp43012pkijy4bcqnznad409lzm.nar.xz
+Compression: xz
+FileHash: sha256:1xn51xg9aygna3j5kndyl1qgjsp43012pkijy4bcqnznad409lzm
+FileSize: 3008
+NarHash: sha256:09s51yx398jw6am14nly8mk4vk3ay39g6p5kq1kkm6mglx20nim4
+NarSize: 6912
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 15148br4qiyqw9qj3nnbbqvrb2ic6r5j-util-linux-minimal-2.39.3.drv 1nwvamw0icvmh4n7fyqq52qfldhss2zm-libunistring-1.1.drv 1rc9dz3g1xpvs6mzx5n8xql5rmar2q0w-dns-root-data-2023-11-27.drv 2b01vvcl6149ym13wgbid01kdfyjd4aq-autoconf-2.69.drv 4hqhv9jf1cd4f09qkzs253whp1yljiqi-libidn2-2.3.7.drv 6d9z5y724n4z3dk37z8p9pm8hgwspz1x-automake-1.16.5.drv 7r6hw9ya7y5r21zn3xsd2kas48w3db5z-which-2.21.drv 9569s3dvh1k24s1gcwbw39i1iq6q2vz1-libtasn1-4.19.0.drv bi6dqphrr6n7578vnvyd4h70wjxcpgk8-pkg-config-wrapper-0.29.2.drv bnw2l92w2y042cwl6w982hddzacakrjd-perl-5.38.2.drv c1p132r8bc88kvz22rpp615m43sk93kz-lzip-1.24.1.drv cdwv8pwb40wxa70pdg7wndmxv583qn8y-texinfo-7.0.3.drv cf2pchjyyjw1x79yvypb3d9z1vip6my1-p11-kit-0.25.3.drv f10fxjkkxp0wnqwixifay3jw00ixnhsq-net-tools-2.10.drv fb56szw1cn21s5py4av2vnc7rjxbna7w-nix-ssl-cert-file.patch g967mfh4pz9y8bcf1jq5r774w8zzhlzw-gnutls-3.8.4.tar.xz.drv i2fhvmrqfc026cy864mh6ba980psvlv9-unbound-1.19.2.drv ja673f47sh9b2q518mjgn36lc8bssky9-zlib-1.3.1.drv k0alq44vgbq9ap8x9rmf6gwccqq1lby8-gettext-0.21.1.drv l75lx8nsayhrlar3aypq30v51ciisjw5-glibc-iconv-2.39.drv lly30h5fxw2gs284gm50fj9m7lvjx92g-revert-dlopen-compression.patch.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv r04lfxvagvs536dax5vnxhdi4lbvh7wf-lzo-2.10.drv r32fcrfn1v07nwvy9zrrslbh0l2wp780-nettle-3.9.1.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wfnw2gdabjyr24qjwrwa9rs2p7da1mc8-dummy.crt x1f524556jmvi43m8w23gq4lz5pn38v3-gmp-with-cxx-6.3.0.drv
+CA: text:sha256:1i34vwds94ds2za4isr3ba787qbak3mvyaf4x21b71lkbffxc73d

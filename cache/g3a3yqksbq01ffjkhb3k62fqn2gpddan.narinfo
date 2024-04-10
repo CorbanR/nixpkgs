@@ -1,0 +1,9 @@
+StorePath: /nix/store/g3a3yqksbq01ffjkhb3k62fqn2gpddan-lld-src-16.0.6.drv
+URL: nar/0rj1iijmknnxs3m6ynmp9iawwkv4vfcgib31mpdq78iqhlkinbdq.nar.xz
+Compression: xz
+FileHash: sha256:0rj1iijmknnxs3m6ynmp9iawwkv4vfcgib31mpdq78iqhlkinbdq
+FileSize: 944
+NarHash: sha256:0g3p678pij6lajsg59bfvi64gjiq0dhvy6in8scbclf24blqij7y
+NarSize: 2288
+References: 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv pz6pq5gsccjgdy69v94vr19pjfr0d30g-source.drv ryf113a6way7z93bgwx69d0il6bg6qj3-bootstrap-stage-xclang-stdenv-darwin.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0akj2f7svc0j4csjsbv4zmh4l0dg7xi5v8jfpx3i7kw01d2vn3xi

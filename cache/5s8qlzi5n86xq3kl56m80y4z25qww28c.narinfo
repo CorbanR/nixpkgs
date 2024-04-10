@@ -1,9 +1,0 @@
-StorePath: /nix/store/5s8qlzi5n86xq3kl56m80y4z25qww28c-llvm-binutils-11.1.0.drv
-URL: nar/0s4wsb13695z0r9x0f9caivbicysl9ayg3rjgvzv3zc7vclz0v8r.nar.xz
-Compression: xz
-FileHash: sha256:0s4wsb13695z0r9x0f9caivbicysl9ayg3rjgvzv3zc7vclz0v8r
-FileSize: 1220
-NarHash: sha256:0y7gcnh6vqbr5vz7pfqpl3pyvccjz9acyvx478v668p82g92vikj
-NarSize: 3176
-References: 5w5k8lncrgjclza3fa8zrm11d13rdh1h-lld-11.1.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv rf11ygdlnl59wp3yg10750c6y0rjwy17-llvm-11.1.0.drv v7r9cna9nbwb4w44vh7yx34axvi14vc9-bootstrap-stage4-stdenv-darwin.drv
-CA: text:sha256:04a1mq6vn50p84y82ng23palsrh8axfcbk1i43c480hjf2ii0vy7

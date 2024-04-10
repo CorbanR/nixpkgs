@@ -1,9 +1,0 @@
-StorePath: /nix/store/slr2bz169j7b8d0vpnr8bmsp81b70747-xnu-3789.70.16.drv
-URL: nar/114crbw4isjzf34578905nnxr3j945ivv42crk9ixppqkckhlvh3.nar.xz
-Compression: xz
-FileHash: sha256:114crbw4isjzf34578905nnxr3j945ivv42crk9ixppqkckhlvh3
-FileSize: 8624
-NarHash: sha256:13qv59j2dmjbkd8ifvzh41cq11ck4s32pkgdd5iifswcfh4lxhv2
-NarSize: 38224
-References: 0ika7zjkw7qii490m9737sfvixilldwb-bootstrap-stage1-clang-wrapper-boot.drv 3gfc07yldacqdklhpmiis86issdbld9h-bootstrap_cmds-121.drv 555kbhyjc99v2zlkyl33xj3vx7dd60vm-gnum4-1.4.19.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 7451lc440slh3zjdi5lk0xcggm4mf0vi-flex-2.6.4.drv b2q065860syhm668gd5zvydshis7dilj-perl-5.38.0.drv cj5fnwliv8v3a7i8vkgfjf94838ksri5-bootstrap-stage1-stdenv-darwin.drv dj0qw842dlp209rycdfnv0gv9abrn9wc-python3-minimal-3.10.12.drv msdg8kr9r0gphwcgwvlk4r6da6q4jdgx-unifdef-2.12.drv psn95pj18ss8rcfvavbp764m2c10akw3-xnu-3789.70.16.tar.gz.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv yhhwdxmfjs0xvqmyqnlibkhxpcbyp3h9-python3.patch yzp5hk1mbp1jbhj9hhxlcx7d92kpjqhj-bison-3.8.2.drv
-CA: text:sha256:1kg0wkk51mxaaanlynv67d6b1f3h9zd5d5q5qnhdl94c5nf2j4yn

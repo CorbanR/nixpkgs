@@ -1,0 +1,9 @@
+StorePath: /nix/store/6dr4vi4djby40h80qx6492z992f8wpsb-python3.11-bootstrap-flit-core-3.9.0.drv
+URL: nar/06jlh0m4hn9crc8c0v52mmfq3vxiliz2brfafscpdivdy1qvsjnn.nar.xz
+Compression: xz
+FileHash: sha256:06jlh0m4hn9crc8c0v52mmfq3vxiliz2brfafscpdivdy1qvsjnn
+FileSize: 1064
+NarHash: sha256:05ii6x3pnmzmvffdf2zl93k641ky6g8sikqhi2prpn24sza2zdhn
+NarSize: 2496
+References: 5ld1s9nynb9dj3scls7lk1iifaq83j4s-python3-3.11.8.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv y94gk0avwdnmcyg7ya6j8vhf6h3m8x1w-source.drv
+CA: text:sha256:0k2nbyj7q2xv101xqw3mb51ymdl1mlnv67ykbabv85r89rqqys70

@@ -1,0 +1,9 @@
+StorePath: /nix/store/3ydn6xn0rv8gz74lx87pcb5zf1fm7svr-perl5.38.2-File-ShareDir-Install-0.14.drv
+URL: nar/01y94n0vw9jmxdwsfgdmbh9a1y431w1gz2jmsx70sgwg292ignni.nar.xz
+Compression: xz
+FileHash: sha256:01y94n0vw9jmxdwsfgdmbh9a1y431w1gz2jmsx70sgwg292ignni
+FileSize: 1056
+NarHash: sha256:0flcm4ry24z3vq98dpljpfl4spapzr0z19pszwl35yaapabkxx8d
+NarSize: 2616
+References: 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh a50618qndxb42w1bl9xm3zwb5jm9kkmc-File-ShareDir-Install-0.14.tar.gz.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv imxny7nz7pnb9riagprwi1vmxpn5vxfh-perl-5.38.2.drv y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:0zwcgab7idw37yzn84gwyb1ifi25ks2z3cc9r27wajyl90crrljc

@@ -1,9 +1,0 @@
-StorePath: /nix/store/v2xjmdwxfrwnav1ip34lblrqhzv28wvg-python3.10-attrs-23.1.0.drv
-URL: nar/17ldp1rl8qrxxi96pfwc5qk30lyi8pq45j1grh79drddwprngd4q.nar.xz
-Compression: xz
-FileHash: sha256:17ldp1rl8qrxxi96pfwc5qk30lyi8pq45j1grh79drddwprngd4q
-FileSize: 1892
-NarHash: sha256:0jzj5kwib2ai6dk66fsplh6slkjkmpfmgblxyxswmhwwmksbv2m0
-NarSize: 4552
-References: 3pxnxyklpmmxwqma9zdks1yf38lyvn2c-python-output-dist-hook.drv 5bsbpwnnhbz5jni1283l2hsiql8ri6zq-python-remove-bin-bytecode-hook.drv 6v82wg9401iq3xyzdd521h8qzqpm0z2q-pypa-build-hook.sh.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9r6cc5r3nf8f6q70hrh18a56871hzxiv-wrap-python-hook.drv 9z0q2jafy807ksxb1ih61hz3182c18j6-python3.10-hatchling-1.18.0.drv a844kpdm51z1vk4c8nlzrdkz1j9ba13c-attrs-23.1.0.tar.gz.drv c2wrkw05xs3pi2s1y2266fsjkmwqn1xg-python-namespaces-hook.sh.drv f6xa4hhgd2gbbg7rwphy10s18n53crpw-python-catch-conflicts-hook.drv h7rbqnncyy5z24d6cj41wccxwkzs31x9-ensure-newer-sources-hook.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv nq2h2c6fh57164l0xpv9923i25fc0rzn-python-remove-tests-dir-hook.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv qf0xxfnvmwqmab979b2lz3wn1jn39sfd-remove-hatch-plugins.patch r30v8xr0h0nrzdjhzy465633ybbj27cw-python3-3.10.12.drv s9zk4j4w8yawv45milnalbmipz6a3xl0-pypa-install-hook.drv wz4lr06pa42g5px6dakgbrc9fqlhz84m-python-imports-check-hook.sh.drv
-CA: text:sha256:181xv9nyrngxhsdm3z9ajc48hdhlxmi3cp79agpx62xsya7ni7f4

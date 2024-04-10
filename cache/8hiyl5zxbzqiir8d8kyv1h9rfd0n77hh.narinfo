@@ -1,9 +1,0 @@
-StorePath: /nix/store/8hiyl5zxbzqiir8d8kyv1h9rfd0n77hh-PySocks-1.7.1.tar.gz.drv
-URL: nar/0jl00nx8jndrfna8w9fprvn8sblkkwmz0p6xqvfk55blvkz0y584.nar.xz
-Compression: xz
-FileHash: sha256:0jl00nx8jndrfna8w9fprvn8sblkkwmz0p6xqvfk55blvkz0y584
-FileSize: 1344
-NarHash: sha256:1gxba13x8441zyashz1jdj9ra3aazxsjbj0wj7l6jn76pwi4kcxm
-NarSize: 3232
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh p4jpyr1vsixxl6sbkfy0r0398wwmqbci-bootstrap-stage0-stdenv-darwin.drv pfc1kmyhx8lkwakqlc0yarb8p5nldl4f-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:10xkbyykn4zgvm5vk5cbvqql42zicbrmbwrnxhgll8ahcnmifs8f

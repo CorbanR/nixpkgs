@@ -1,0 +1,9 @@
+StorePath: /nix/store/rg6pqh9215vf5y8902hkffz1xxvcy48i-nss-cacert-3.98.drv
+URL: nar/1d59yai10dhqvs5a44ld0lld8jx7yrmyvsnc4f6yi8hz1h2sn4az.nar.xz
+Compression: xz
+FileHash: sha256:1d59yai10dhqvs5a44ld0lld8jx7yrmyvsnc4f6yi8hz1h2sn4az
+FileSize: 1448
+NarHash: sha256:0g6gmga6pgpmsvvq5p79lkxh49sajzn8jv2f6ygs4gxcfssx1q9s
+NarSize: 3648
+References: 6ah695nfqw1j2arxspgrvz00dq17xv5s-python3.11-buildcatrust-0.3.0.drv 726j7rxpqv2cfzal39qw0lnv2ll3wq66-nss-cacert-certdata-3.98.drv 8h7zv0ijkb2pfp6i41jy1s882sq5jami-cacert-blocklist.txt.drv bdlmgvr1gmlm8gqlj8vdb68nl6dwwp6a-cacert-extra-certificates-bundle.crt.drv d8nly91nc3h5gs1rlhfkxdwxr4jvqd49-setup-hook.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:143vw0ns8wq7pr31l50wl1yn7csavdg8911kvshy3brpmmikygfk

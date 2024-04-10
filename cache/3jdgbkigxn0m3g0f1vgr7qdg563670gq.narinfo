@@ -1,0 +1,9 @@
+StorePath: /nix/store/3jdgbkigxn0m3g0f1vgr7qdg563670gq-unbound-1.19.2.drv
+URL: nar/0l7npv1f0jlz56i93j0rvqkssz0swcnq7mfjyh8484vm2gnqny54.nar.xz
+Compression: xz
+FileHash: sha256:0l7npv1f0jlz56i93j0rvqkssz0swcnq7mfjyh8484vm2gnqny54
+FileSize: 2252
+NarHash: sha256:0nxcs820347h3wf1rkdc7zwvh2jf9zncbrzp7lc615xa3bh0r6m6
+NarSize: 6064
+References: 078i45s9c4jqmczknaxkzzq6c63dsx0q-unbound-1.19.2.tar.gz.drv 2c5rhhdpkwpii3mk9ahd8vbrgvkch123-expat-2.6.2.drv d33lm37ch6kvgikn6snpbidwhn2z13br-openssl-3.0.13.drv h1wfrbdixc8za0y57kq45ndvnb933m45-nettle-3.9.1.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kcghapdzkayqikq8wfk80bw5s1pshyd6-3f5175584b0bb9ff7d417bc195ec6e4316ae58d3.patch.drv niyzjxiw81q7979166bh0l1n4bb7gcsv-59d98b9ef64e597c331c27160715d7a1b40c8638.patch.drv sdi3cd4g1xxka8dicpf615scxlxxad8w-make-shell-wrapper-hook.drv sz8qygp5wqpb9nalv76spwjhkpmmjkly-93490a0fc1bf9e62e6edcd6b69f1463c7ac410e9.patch.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wli86mkxc641g4bp31mc211x8pm13pyr-bison-3.8.2.drv x53pwcgq3wqsxzf8cr9ywia2zh5s6h63-pkg-config-wrapper-0.29.2.drv xiiyyq0lhjmy0s27hplmczx00dxi2yg0-libevent-2.1.12.drv y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv yy21hvs7hpwm2g5ksbk1mxbq8kmqnaz2-dns-root-data-2023-11-27.drv
+CA: text:sha256:06rnyza4rgb48cm4vaqmin71pifrpxj4zdm0307d6c40nb1g80lb

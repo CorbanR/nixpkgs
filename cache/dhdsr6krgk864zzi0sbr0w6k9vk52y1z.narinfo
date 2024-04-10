@@ -1,0 +1,9 @@
+StorePath: /nix/store/dhdsr6krgk864zzi0sbr0w6k9vk52y1z-mpdecimal-4.0.0.drv
+URL: nar/0hjv28sbrq6as59vplxafgw8hqagmbib48vf9xz6mxrgpaqixsyw.nar.xz
+Compression: xz
+FileHash: sha256:0hjv28sbrq6as59vplxafgw8hqagmbib48vf9xz6mxrgpaqixsyw
+FileSize: 1060
+NarHash: sha256:08jgm9hsm89fl210dyzvwgfg61sia5pjl1ncvzb9m60fp88r3z1b
+NarSize: 2592
+References: 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv a9n78rpkig0k0glwbq7flx5nmlacq9sy-mpdecimal-4.0.0.tar.gz.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0fyfh6iwizd6ak5szxml35ghlp2nq1wp3yb8149wszs3yq6w5mfy

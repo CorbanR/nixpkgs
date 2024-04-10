@@ -1,9 +1,0 @@
-StorePath: /nix/store/hl74fb3gpklgkxxr701cmmy8k10dcxf8-deterministic-libnet.cfg.drv
-URL: nar/0y64xcsc7sxxxfyzn4b9crmrikf2bf735im269k6knvhm80wpvax.nar.xz
-Compression: xz
-FileHash: sha256:0y64xcsc7sxxxfyzn4b9crmrikf2bf735im269k6knvhm80wpvax
-FileSize: 1952
-NarHash: sha256:09yn5fjl3lbvybn12vz3viapxnnpzqmdh3aagixb17sqy5gyrgc2
-NarSize: 4784
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh p4jpyr1vsixxl6sbkfy0r0398wwmqbci-bootstrap-stage0-stdenv-darwin.drv pfc1kmyhx8lkwakqlc0yarb8p5nldl4f-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zkjblcpkkryd3lydvrysrnc6gwgp4dlw-patchutils-0.3.3.drv
-CA: text:sha256:17khwqix07j06mwyl5c7pqq308qzk71adb7pgmp7zmrmhq933dfw

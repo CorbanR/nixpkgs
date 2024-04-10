@@ -1,9 +1,0 @@
-StorePath: /nix/store/7rvqkinyzmz0m3k347610pb6nai2wc9h-python3.10-buildcatrust-0.1.3.drv
-URL: nar/1svzdhphp9lwvvvmg3f7szilavj0qpcgcn0h44768zzx0gxvszb5.nar.xz
-Compression: xz
-FileHash: sha256:1svzdhphp9lwvvvmg3f7szilavj0qpcgcn0h44768zzx0gxvszb5
-FileSize: 1688
-NarHash: sha256:0ylykm9vs16kqvgjlqzn119kjygjjkkq0jm94zm7sk4p0g1mjk7p
-NarSize: 4016
-References: 13cyxa5v1syj13xmzsccs0s9bq98gxcg-python-remove-tests-dir-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 762qm62g5kf1iwgmxcj4xcd31w426qzb-pypa-install-hook.drv 9ch8hyg0zjccvav10pmrs92a7lkswmrl-python-remove-bin-bytecode-hook.drv 9xwap8ahnx63rf4zarw1c702vhj9r3hd-setuptools-setup-hook.drv dli1sw8mp5kh8ic29rswaglf3kvmim5c-python-imports-check-hook.sh.drv fbyjcpdqv92z8fc85plz3m6j4f0m2jv2-python3-3.10.12.drv ipxz7lkjp6jjr6xkcvz33jal354154gh-wrap-python-hook.drv k5hrh9x2a22kpkiw84fri4dndsnxgd40-pytest-check-hook.drv kxlpr3barrd5fsmd9izn7cmj9xmzf4bg-python-namespaces-hook.sh.drv lccp0p6787yz6j98d3ikn7kq1qjm74bl-setuptools-check-hook.drv nyg3d3s05ljvsyk1sbrdsax01fl7dwgn-python-catch-conflicts-hook.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv sn874mnvvsf75sg29plpg3aalyg1yjdl-buildcatrust-0.1.3.tar.gz.drv wmcf492qb380drizrhjnzzdhlczykfr8-python-output-dist-hook.drv yrb198d2sygj8f2hcraprfkxjxfx5j3z-ensure-newer-sources-hook.drv
-CA: text:sha256:0s4s0p2h1hdkvjdmx852vzffg3b5wxwk4lrasacbk6qdjlljcqq1

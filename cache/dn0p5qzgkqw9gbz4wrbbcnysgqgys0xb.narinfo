@@ -1,9 +1,0 @@
-StorePath: /nix/store/dn0p5qzgkqw9gbz4wrbbcnysgqgys0xb-libxslt-1.1.38.drv
-URL: nar/0jxlaz9jnc3p73r7xdwjw39kq9c4ds4qlv4qv419m5wl9dwb2qql.nar.xz
-Compression: xz
-FileHash: sha256:0jxlaz9jnc3p73r7xdwjw39kq9c4ds4qlv4qv419m5wl9dwb2qql
-FileSize: 1480
-NarHash: sha256:0smdyg27mis4mz15ppskqw7cg7l0154kblbh5sgxrh73qw6r2jph
-NarSize: 3544
-References: 1lvzq9xb1ip4s38fnwy5cjnfyfaqn3gh-autoreconf-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh b5m75wik8ss54wbar0migjl961wmk60f-libxslt-1.1.38.tar.xz.drv j6y4j288dplx2gdwv4gdzk95czycx715-libxcrypt-4.4.36.drv jl8qr1vbs7w1vhlv5478na4qxm8rkjda-libxml2-2.10.1.drv k26njk0lcvcn1mahpjgify40g08cg7cm-find-xml-catalogs-hook.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv pddxgkj7yfs28agn97awlmhmwzy02xj4-gettext-0.21.1.drv yha5cfc812n0lj8f89r3vzi3z1yk2xaa-pkg-config-wrapper-0.29.2.drv
-CA: text:sha256:0j66i423b89gab9mccq04gmrmid3q54xh3mqhrhz6znghlq798l3

@@ -1,9 +1,0 @@
-StorePath: /nix/store/hf38mhhd96h1mih822y9vjlzba7z3kc4-python3.10-alabaster-0.7.13.drv
-URL: nar/13ig55x3qn4ggwwl20xayswf0n53n3anmhjwcf2f8wgmxmi7139l.nar.xz
-Compression: xz
-FileHash: sha256:13ig55x3qn4ggwwl20xayswf0n53n3anmhjwcf2f8wgmxmi7139l
-FileSize: 1716
-NarHash: sha256:1brbvqy1dr9nqppf01j75r2i87g2xrz2qpjrxcx5xsdqgdync4jd
-NarSize: 4064
-References: 1g26ys8yisvz3v2rwa54vzw723qzbx4j-alabaster-0.7.13.tar.gz.drv 2q5b31qbf71abcma4wsqkn50ncjh250d-setuptools-setup-hook.drv 3pxnxyklpmmxwqma9zdks1yf38lyvn2c-python-output-dist-hook.drv 5bsbpwnnhbz5jni1283l2hsiql8ri6zq-python-remove-bin-bytecode-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9r6cc5r3nf8f6q70hrh18a56871hzxiv-wrap-python-hook.drv c2wrkw05xs3pi2s1y2266fsjkmwqn1xg-python-namespaces-hook.sh.drv f6xa4hhgd2gbbg7rwphy10s18n53crpw-python-catch-conflicts-hook.drv h7rbqnncyy5z24d6cj41wccxwkzs31x9-ensure-newer-sources-hook.drv i3xrnimj9wjb79h3l40qid30pd0sqpdj-python3.10-pygments-2.15.1.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv nq2h2c6fh57164l0xpv9923i25fc0rzn-python-remove-tests-dir-hook.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv r30v8xr0h0nrzdjhzy465633ybbj27cw-python3-3.10.12.drv s9zk4j4w8yawv45milnalbmipz6a3xl0-pypa-install-hook.drv wz4lr06pa42g5px6dakgbrc9fqlhz84m-python-imports-check-hook.sh.drv
-CA: text:sha256:1bhd8vimr0h34091cgbiaqag6qb5jhwzd30n6i53dnziyjvp9bzz

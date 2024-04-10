@@ -1,0 +1,9 @@
+StorePath: /nix/store/w7mggky27ij6mbqlwdbvakh2cl2143ay-subversion-1.14.3.drv
+URL: nar/0vm973iixq139jhj7gna7clqxw08qsfx3vb94m1z65kmf49fnwv3.nar.xz
+Compression: xz
+FileHash: sha256:0vm973iixq139jhj7gna7clqxw08qsfx3vb94m1z65kmf49fnwv3
+FileSize: 2284
+NarHash: sha256:1l36820rhfh90gdcbvk9d8bq673whriin5kakrh2gbxhxgqcx4a5
+NarSize: 5896
+References: 017gk8lndb3x42vn11ykjr9l6nbj8pgp-apr-util-1.6.3.drv 12kxxbj4iz36wl9ph3pjrycd63k17ra0-lz4-1.9.4.drv 2c5rhhdpkwpii3mk9ahd8vbrgvkch123-expat-2.6.2.drv 6jfpmdfj3kirsbkgqs117c3kfmxxwkms-utf8proc-2.9.0.drv caqvkvcz4vzxg4dcvvb315nfshpk1wr9-apple-framework-Security.drv d33lm37ch6kvgikn6snpbidwhn2z13br-openssl-3.0.13.drv dbpslq9v4n3hrqphxpbf2a4smhggd2am-zlib-1.3.1.drv dcfplizjspx00k8fib22pg34drgnayhp-sqlite-3.45.2.drv fap69i7cp9lbnn1a0h6f456rc13326am-apr-1.7.4.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv nbckk6sk9jrjs2c7fjx7kdap6rrm91m0-apple-framework-CoreServices.drv pqsnx4rkkndh6x3rmizbimm509al3fka-subversion-1.14.3.tar.bz2.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh x4hlki4l024d4hrm9jz3i0pxhpsb8kg5-serf-1.3.10.drv y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv y2pxmsc6py9zpqzikz4zr061rbphs478-apr-1.patch
+CA: text:sha256:1npb1dajrx1kjd4kr81gavvs23c2fj56alj3zgi6pckwqvgj50vd

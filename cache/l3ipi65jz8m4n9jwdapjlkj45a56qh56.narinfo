@@ -1,9 +1,0 @@
-StorePath: /nix/store/l3ipi65jz8m4n9jwdapjlkj45a56qh56-cctools-llvm-11.1.0-973.0.1.drv
-URL: nar/1gga9dp3019jbdzhqkknxly58r54w2vjxvq5nbfn6pv2dczr5mbn.nar.xz
-Compression: xz
-FileHash: sha256:1gga9dp3019jbdzhqkknxly58r54w2vjxvq5nbfn6pv2dczr5mbn
-FileSize: 1584
-NarHash: sha256:1vi2az9nq7qwgar108kwjkr2gmfzd47h383762mk74jlrra89am4
-NarSize: 4672
-References: 5s8qlzi5n86xq3kl56m80y4z25qww28c-llvm-binutils-11.1.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv mh8jh4h4w1chckxhc46f09gnrx9n4ajc-cctools-port-973.0.1.drv r22pxsixr7120fv0k28n2mdqp4lzcik8-bootstrap-stage4-stdenv-darwin.drv rf11ygdlnl59wp3yg10750c6y0rjwy17-llvm-11.1.0.drv v1jvpg63lyhf89x8r4grji34qqnlyn2h-llvm-manpages-11.1.0.drv xz8h3h35v0miw8zsvbf8q0h19fxmz5sk-make-shell-wrapper-hook.drv
-CA: text:sha256:13s0067z3d3pr9b1wwr886q72q3i1n3aczpc4m98b44rcnjywwyq

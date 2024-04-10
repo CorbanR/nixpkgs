@@ -1,0 +1,9 @@
+StorePath: /nix/store/mv2i98n6vr0gz32gp0xk9rbga9sqh30r-indent-2.2.13.drv
+URL: nar/1c3xssn9cliamzfbz65l91z6ac6y2vpjn59wc7b4vafwaz0fywjf.nar.xz
+Compression: xz
+FileHash: sha256:1c3xssn9cliamzfbz65l91z6ac6y2vpjn59wc7b4vafwaz0fywjf
+FileSize: 1404
+NarHash: sha256:09yl2ildqm9hbhx5fnk3ma7rxy6zkznxj3bc9vpl52aci90rfzqh
+NarSize: 3080
+References: 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv 44r77kmvfrrh6pm5l1vi845150cvhrv7-gettext-0.21.1.drv 51vyn0wa2xzrajk01sqymn4wqy1qdyjw-CVE-2023-40305.part-1.patch.drv 6n6a648afm6pds4kpswfnzqj2i9i452y-bootstrap-stage1-sysctl-clang-wrapper-boot.drv 77rsvl37xp174nvk2wh9bxla5jzj7bca-bootstrap-stage1-sysctl-stdenv-darwin.drv j6fa56ca8vgdhdr952krn3snf8kk4bh9-texinfo-7.0.3.drv rbcw3ic7sngf0nvrq98fm7hbb66zxck8-indent-2.2.13.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh x4xmd26zi55rabkrqffqg4dbmpxcxkpl-CVE-2023-40305.part-2.patch.drv
+CA: text:sha256:0r1w64gy8836122zx07csjyzry890jhzlgywxlbi066r9aqbxfik

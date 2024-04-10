@@ -1,9 +1,0 @@
-StorePath: /nix/store/18kyfc6pcp9cjznm3xqfq1wqm3121fkg-groff-1.23.0.drv
-URL: nar/1nl858kmb4d8n14mjdrl72m7fa4a8p4g7mwcgfvl2qk54jcnaj9d.nar.xz
-Compression: xz
-FileHash: sha256:1nl858kmb4d8n14mjdrl72m7fa4a8p4g7mwcgfvl2qk54jcnaj9d
-FileSize: 1664
-NarHash: sha256:0c5hjh6av1gv91r3w409ks05i3g187pq3gip6l160d7a72m6zzcm
-NarSize: 4360
-References: 5ydhr8g6qz3pbl6mf5br8z4v0ksrkmyh-groff-1.23.0.tar.gz.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 708x5k47a93c556c7cv6dpmqk101bamh-pkg-config-wrapper-0.29.2.drv j71wrhxr9lgvfr7d7c8130fmdzc5f4lj-texinfo-7.0.3.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv qb1863mh6w24fwk0xy4359211msvpm3x-autoreconf-hook.drv wb7clyvk9lsr4rkay1l8bqixpri7vx5k-site.tmac y6kgq2whq4cg87w45ha2x0m2ndljqn94-perl-5.38.0.drv
-CA: text:sha256:0h03px7bxx6mgl75afb65jrdxda6fkz7f4sswmi0fmzsgcbr3q4x

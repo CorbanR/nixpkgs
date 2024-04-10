@@ -1,0 +1,9 @@
+StorePath: /nix/store/cfv0wvpkbl4v10nyjplgxqdjm3x2x2ls-cctools-binutils-darwin-wrapper-16.0.6-973.0.1.drv
+URL: nar/063fbbvv3n8cnkwkqyz0qk38xpwg1iiyfhbh3gf81hdnccimmqws.nar.xz
+Compression: xz
+FileHash: sha256:063fbbvv3n8cnkwkqyz0qk38xpwg1iiyfhbh3gf81hdnccimmqws
+FileSize: 2680
+NarHash: sha256:0jrwp3hr89p4y6g8i07l9qzja8ykysi72kqw6xik7yjzy39zq2sb
+NarSize: 7720
+References: 06sc8s0rwf5y9rwv7lw9sxkm39pm5ykj-libSystem-11.0.0.drv 0zmg36dmrb9v7bc7b7igmi434nhi1qp9-setup-hook.sh 5s6n6nj5fjvhh6vwn1vaxmr23iw1cdfh-gnugrep-3.11.drv 9rq2ab2wl3ia1ism6zjvdxcnpv9s9rgn-add-hardening.sh abz13jsznzpvyfw4q91wxkagqx8sxdan-coreutils-9.4.drv b311hl9l4bpqjdb9xb08mjjwnkrk5j3c-expand-response-params.drv bybz12bxjbk94hm58zc70sc0xhj2dxif-add-darwin-ldflags-before.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kgcmpr4i443sdyszl1b7i4k86ddxbrwi-utils.bash madh2pikg5aj70yiadlp7w5jab7hjipz-cctools-binutils-darwin-16.0.6-973.0.1.drv mrzpfh0ml9k07sw019ydagbb2z1q4sxz-add-flags.sh p2ynpdqzm8lfdq6xywa8igkjp56b8q65-ld-wrapper.sh rb7fzg5xcyi2ssqas5si81vhyki21lz7-bootstrap-stage4-stdenv-darwin.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v9034cqc4h5bm10z4vz3n1q2n55grv5y-role.bash
+CA: text:sha256:1fviwd9mn991ignyib85jqxfpxdyc43scslmar4l5qw7kkrwjn16

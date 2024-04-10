@@ -1,9 +1,0 @@
-StorePath: /nix/store/qp14mwgc395gv43zyl88xm70g6aiakmz-gawk-5.2.2.drv
-URL: nar/111l73bnjr2h9zvj21vbhippz0k69k0r8hk527mz401ldz8i9di6.nar.xz
-Compression: xz
-FileHash: sha256:111l73bnjr2h9zvj21vbhippz0k69k0r8hk527mz401ldz8i9di6
-FileSize: 1220
-NarHash: sha256:0q9dz0820fc2v8dfnr0kjr19dbdn4m7cnwp1l27ycrcrj2iaav82
-NarSize: 2680
-References: 1lvzq9xb1ip4s38fnwy5cjnfyfaqn3gh-autoreconf-hook.drv 6krh70g9hg6mpcdscp556fl4b15gvm7y-gawk-5.2.2.tar.xz.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh cxds5n58jghpbqibx4f4zzijdf8kfp4g-adv_cmds-119.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv
-CA: text:sha256:0gkikk8i9bm3by9md51cqvnhrm3y8s1sqax8l6d89ns5x2iql79w

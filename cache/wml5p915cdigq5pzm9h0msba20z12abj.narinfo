@@ -1,0 +1,9 @@
+StorePath: /nix/store/wml5p915cdigq5pzm9h0msba20z12abj-xz-5.4.6.drv
+URL: nar/034n9dfh8y0614b4hhwljn0ax5nzmdfy64j6mm2z03a4qm6pw564.nar.xz
+Compression: xz
+FileHash: sha256:034n9dfh8y0614b4hhwljn0ax5nzmdfy64j6mm2z03a4qm6pw564
+FileSize: 1124
+NarHash: sha256:199nazlr26xb1wcvvasjjxj0a7r7667x4yskbmzyr6h0pwkbrxmy
+NarSize: 2744
+References: 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv np5fnc3japfk83v510f6g7dpqla62d8w-xz-5.4.6.tar.bz2.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1l1l1s6gi967c0m2c6d6j8rgpzfqd8jsmz6hb1xp713v25gjf6jq

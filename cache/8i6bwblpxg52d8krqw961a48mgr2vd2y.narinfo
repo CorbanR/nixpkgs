@@ -1,9 +1,0 @@
-StorePath: /nix/store/8i6bwblpxg52d8krqw961a48mgr2vd2y-pycparser-2.21.tar.gz.drv
-URL: nar/0p825nd5gx1gdv7k1nk7ka3ll6fiaskmvqw89pgv6anskd038rzq.nar.xz
-Compression: xz
-FileHash: sha256:0p825nd5gx1gdv7k1nk7ka3ll6fiaskmvqw89pgv6anskd038rzq
-FileSize: 1308
-NarHash: sha256:1af2hbypf4p7lc179azchzid5r8pqsz58a33ksq383dcbih18gal
-NarSize: 3248
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh p4jpyr1vsixxl6sbkfy0r0398wwmqbci-bootstrap-stage0-stdenv-darwin.drv pfc1kmyhx8lkwakqlc0yarb8p5nldl4f-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:0m66vcwz04ifm9c6nc3bjhifrbzqhmla4z7sv99p9x7wgf8v8kf5

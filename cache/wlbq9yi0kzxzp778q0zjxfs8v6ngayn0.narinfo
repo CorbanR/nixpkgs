@@ -1,0 +1,9 @@
+StorePath: /nix/store/wlbq9yi0kzxzp778q0zjxfs8v6ngayn0-cmake-3.28.3.drv
+URL: nar/1nxi2ppcqsyhbfm1fhpzc6xsyj757ym2f7izx97bk4phh2gy477q.nar.xz
+Compression: xz
+FileHash: sha256:1nxi2ppcqsyhbfm1fhpzc6xsyj757ym2f7izx97bk4phh2gy477q
+FileSize: 2344
+NarHash: sha256:10g81ask9wm6c2z4c6l3914d3lb6awlvcs27qbx6ys14vfwvq2gj
+NarSize: 5616
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 12l2v3kmacnpmx14p2345kk41fpv31rw-separate-debug-info.sh 2nqm56w67h51hhzx8id50az3jxgn9bs7-xz-5.4.6.drv 45l9md35nfh63qlkv9dblnzp20m2mi37-gcc-wrapper-13.2.0.drv 4z3knm8j06lpsghpkcscsw8084l34pq6-binutils-2.41.drv 508gn2w9g1giizvavs3qyb1kckja8z43-bzip2-1.0.8.drv 76p3dpiqfwyfvf0q609q7y3xdlg0klm0-cmake-3.28.3.tar.gz.drv 7yjka9xvfmk5s2cn1alkqlmkbqifcgv6-002-application-services.diff 997f647kixzwsdzy0iikbffyc2pwjbsx-curl-8.6.0.drv ar1p4gcvlqf8dwbkfrcb01srbywinaj5-check-pc-files-hook.sh bi6dqphrr6n7578vnvyd4h70wjxcpgk8-pkg-config-wrapper-0.29.2.drv c8h9az20l30bx3xas87xyawswr28ndxc-rhash-1.4.4.drv ja673f47sh9b2q518mjgn36lc8bssky9-zlib-1.3.1.drv jygmbf7m1bsbcq0imgcl6fjhvh28mp2i-openssl-3.0.13.drv k0qj9nfiy76y67ga43pszjqdk8f3915i-001-search-path.diff mf3bdryqkpb2zrwmgynximfywj44ynxh-setup-hook.sh qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv rq41inv92jszcs5x62nc5cci5hapbjpw-003-libuv-application-services.diff v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v9q45hvlfzmpn6yb8zsqa19dhn2kl8y5-libuv-1.48.0.drv x4jnj7z6j1vnwqmdy3hpyi4fhhbx9f8w-libarchive-3.7.2.drv yc024n1d913mvngsr70biqj6350v49dg-expat-2.6.2.drv zib7y8ps3vk3c6qxh74qyxs108620y9z-glibc-2.39-5.drv
+CA: text:sha256:1b6zhnd8k6lr5xr0rbnagf04j85qgqfb412scnq7p32ybyxzccdz

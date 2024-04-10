@@ -1,0 +1,9 @@
+StorePath: /nix/store/nzyn6hniwbviarjvkwip2zv3pgjqklkl-python3.11-setuptools-69.1.1.drv
+URL: nar/0l08kxjf4wdyf34y51xvp43ash2x0a2gyhg2dl9vzhfnpm3lv920.nar.xz
+Compression: xz
+FileHash: sha256:0l08kxjf4wdyf34y51xvp43ash2x0a2gyhg2dl9vzhfnpm3lv920
+FileSize: 1704
+NarHash: sha256:1pxlk31zf7qry4bna52krm9xa8xm7r76q35ig63ysdqmbcdmmmgl
+NarSize: 4056
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 0qzs4kq2lvl09k80nf54bl00hd2ylfam-tag-date.patch 1dkbgvlzxn8chr8yz8c5adlyky95sn5v-python-remove-bin-bytecode-hook.drv 1flgqk7gp4jzlvz6pzn7xlcl4wlhmf3f-setuptools-distutils-C++.patch 9div2ixpnn1r95padil53wy4va1hpmnm-python-remove-tests-dir-hook.drv ah7zd02j4y0day4776kwlswn3xf4mlaq-ensure-newer-sources-hook.drv blnb5m9lgphyar84pl0xwin7pir68bif-python-output-dist-hook.drv bx8yqcv2igh4m3apqp27gzr1826kasis-wrap-python-hook.drv fy1cbzc17j4bnlb8z7lpsr5p43l596dj-pypa-build-hook.sh.drv h9d89n4m8d72xb7nx4bik5dv4wkw5bb1-python-namespaces-hook.sh.drv i5nj8p9qvr4ri2lzrazaj7s562q8nw7g-python3.11-wheel-0.42.0.drv kbdij337rf09hn9dkdzf47qq029wq7qv-pypa-install-hook.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vcwgdrks6rdjhzjwd36rdmgfkgdn3vya-python-imports-check-hook.sh.drv wgi3sjkvyjwilkpflfp4hhqh4ng7c8bf-source.drv y4a47q1fkjb8f5mm14wv2bwqrd9706sh-python-runtime-deps-check-hook.sh.drv ylbfr7skliq9rwrdcscrs061j3kb8ys1-python3-3.11.8.drv
+CA: text:sha256:1yb9j3sxms2i79v61k98s6wzy2dj4gv08imdljmn03k779098qlk

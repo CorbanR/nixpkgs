@@ -1,0 +1,9 @@
+StorePath: /nix/store/1dkbgvlzxn8chr8yz8c5adlyky95sn5v-python-remove-bin-bytecode-hook.drv
+URL: nar/0gp9ngq51qv9az37fy28fcnkz8yxlc7335ml66xvb9bc3dlax6fp.nar.xz
+Compression: xz
+FileHash: sha256:0gp9ngq51qv9az37fy28fcnkz8yxlc7335ml66xvb9bc3dlax6fp
+FileSize: 764
+NarHash: sha256:08v3n00yz6bkaab7wpygpfbs2zi0cn9f33l7azd2yn186bpdqx3x
+NarSize: 1784
+References: 6gp9fjlmrqlcz3mq8930f3pl0vjjj2hf-stdenv-linux.drv k1ghspzg0mjcx44wp1q2fj7dzr1m1w17-python-remove-bin-bytecode-hook.sh qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0l7cyj1cmchj5vvbx7a9ck2qq112pyf60hdnnvb523022jryjq3m

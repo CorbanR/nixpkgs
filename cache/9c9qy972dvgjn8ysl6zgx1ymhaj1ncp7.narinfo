@@ -1,9 +1,0 @@
-StorePath: /nix/store/9c9qy972dvgjn8ysl6zgx1ymhaj1ncp7-unittest-check-hook.drv
-URL: nar/1r3b2sdgf1vs5rk195p0dwd98lqapws70c5v11g1phhz40m40nq2.nar.xz
-Compression: xz
-FileHash: sha256:1r3b2sdgf1vs5rk195p0dwd98lqapws70c5v11g1phhz40m40nq2
-FileSize: 956
-NarHash: sha256:137dy49d0lkgwkqjcawlhsqlakail9314cf25wns4bia1py70sz3
-NarSize: 2280
-References: 4gs2zap1s6lpvn9gd6lwj5yriafy8sxh-python3-3.10.12.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv irx05yvi5lrzya7klgshmgzrp5r7sisz-unittest-check-hook.sh w12mifg34dx2l90mdc7gq9qirc9hn979-stdenv-darwin.drv
-CA: text:sha256:0p92jsziqfdfhv0pgrbv6r9c0glh7gmb0ilpwqm1g36c0bzp27rz

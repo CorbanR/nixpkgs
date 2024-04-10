@@ -1,9 +1,0 @@
-StorePath: /nix/store/dgrl6c5bdmb5l352zrk8i09jakg21av3-ninja-1.11.1.drv
-URL: nar/10zinqfksjqan78v7m12rf9am7505c2jz8884pq9jp5pkv20h2a1.nar.xz
-Compression: xz
-FileHash: sha256:10zinqfksjqan78v7m12rf9am7505c2jz8884pq9jp5pkv20h2a1
-FileSize: 1864
-NarHash: sha256:14bp1zkz75pzxya61an6kkcis6ci4m17k70f2ys6inzvhm7sdfii
-NarSize: 4088
-References: 1lgbrl3vczmfr6zh2qb1pwick6qydx4f-libxslt-1.1.38.drv 4gs2zap1s6lpvn9gd6lwj5yriafy8sxh-python3-3.10.12.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv 9j87c295vz50kai648qqbma24caxp5w6-source.drv a6a2wlf4zc01zn2zdpfjgp1cy79ldrn1-setup-hook.sh akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv ja3fdx91kf8z458dja4ai46g9ycd31ba-asciidoc-10.2.0.drv k9w2fhq8vbi4ni6k6c7lnjcqxf0vr8hs-re2c-3.1.drv mgy1diy93qhcrljnws4028wk9mbx2p5n-clang-wrapper-11.1.0.drv rg6b3wylk3c5zshw120cvj7akpxvcgyv-docbook-xml-4.5.drv wa2jribval0q4iapr80s3s0nyn6355g8-install-shell-files.drv y20rgngvvyqflrgqs2gfy9hc5s0ih1zd-docbook-xsl-nons-1.79.2.drv
-CA: text:sha256:1vz2mrn2gq0861qk6r8vhc7d4zrn37zg3hnyd9wqkmkyfy8l7wwv

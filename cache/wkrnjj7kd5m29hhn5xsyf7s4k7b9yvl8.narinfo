@@ -1,0 +1,9 @@
+StorePath: /nix/store/wkrnjj7kd5m29hhn5xsyf7s4k7b9yvl8-libxslt-1.1.39.tar.xz.drv
+URL: nar/11vsigp8yyzf1b9apyqi3d70b2xbdh1yaqghgfhrvjivf61qmpwq.nar.xz
+Compression: xz
+FileHash: sha256:11vsigp8yyzf1b9apyqi3d70b2xbdh1yaqghgfhrvjivf61qmpwq
+FileSize: 1344
+NarHash: sha256:1pfkczfw5j6ri9l9jr08dqylray0kh00mrzh9s1cryj0hx66128k
+NarSize: 3232
+References: 9fb7876pspxqmf8756csxc1zwipig3q1-bootstrap-stage0-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zgh2kqjbwiiyh82327d197lcz6dipxlw-mirrors-list.drv
+CA: text:sha256:0f9rr4ngdy38r69bsvchf55gpypkkg63zxklxp941f55m40p8k4p

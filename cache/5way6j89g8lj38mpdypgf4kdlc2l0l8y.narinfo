@@ -1,9 +1,0 @@
-StorePath: /nix/store/5way6j89g8lj38mpdypgf4kdlc2l0l8y-findutils-4.9.0.drv
-URL: nar/1r20zqvgnkvccf4f034r1qddsyrmmlx2fdix1zczx50sy1i0ic9b.nar.xz
-Compression: xz
-FileHash: sha256:1r20zqvgnkvccf4f034r1qddsyrmmlx2fdix1zczx50sy1i0ic9b
-FileSize: 1244
-NarHash: sha256:0w14yvwilmxm3zijh9dnpscsfqprrn33jl5621vm571skvrksls5
-NarSize: 3152
-References: 4r8s8hcwyvvvnpcncps09zscqkh5qapx-no-install-statedir.patch 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh a1ix0wlwv1nwfiwsifqiqcm9gijz994q-findutils-4.9.0.tar.xz.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:1ag9zy71bsm19m6psifkmv8jwz70q9cxw05ib0k66fp2dnjn0nzw

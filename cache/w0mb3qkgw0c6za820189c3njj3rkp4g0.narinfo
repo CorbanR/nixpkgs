@@ -1,0 +1,9 @@
+StorePath: /nix/store/w0mb3qkgw0c6za820189c3njj3rkp4g0-go1.21.0.darwin-amd64.tar.gz.drv
+URL: nar/0f3cil4qpwclszyda0yc9m1j19zfaskjrd8g0ffy50r96zm80ij9.nar.xz
+Compression: xz
+FileHash: sha256:0f3cil4qpwclszyda0yc9m1j19zfaskjrd8g0ffy50r96zm80ij9
+FileSize: 1408
+NarHash: sha256:0hmw17v72y60cpcg61501gmaw9r6fsdfx4f5krrlv1v5pd5s36ig
+NarSize: 3424
+References: 5w0vc855d00nrifm3vkmh37qsn58dgav-curl-8.6.0.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv sd1k3yj1bkaznkw4j7hqnm1psg6c74av-mirrors-list.drv
+CA: text:sha256:0m14mbx3ip480r9kdi0fa1jlca9kgnj0mx0zz0si12p915n8156q

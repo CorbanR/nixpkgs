@@ -1,0 +1,9 @@
+StorePath: /nix/store/d4yp0g6c0dkyxryna9nagmy5ziginj59-revert-dlopen-compression.patch.drv
+URL: nar/019hkhhy0bxn0pgzn9m6k9pwvb4qfvyqpcmf0haxaky5zlclc7gv.nar.xz
+Compression: xz
+FileHash: sha256:019hkhhy0bxn0pgzn9m6k9pwvb4qfvyqpcmf0haxaky5zlclc7gv
+FileSize: 2064
+NarHash: sha256:0chsdnda3j4kv50pb3sxcxhsn6pq4qvr3s8xlbd6kz2rq4i8xzlp
+NarSize: 5096
+References: 5w0vc855d00nrifm3vkmh37qsn58dgav-curl-8.6.0.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv k8gvwh8vh57hwwy2n6lg13x52ddsmx2g-patchutils-0.4.2.drv sd1k3yj1bkaznkw4j7hqnm1psg6c74av-mirrors-list.drv
+CA: text:sha256:1cdy3af9l9lymc4gl4phzdma2wqdfvf6kg9lz2gkjdy42qhkjvk9

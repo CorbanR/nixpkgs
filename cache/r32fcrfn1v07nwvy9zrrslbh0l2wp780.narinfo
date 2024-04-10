@@ -1,0 +1,9 @@
+StorePath: /nix/store/r32fcrfn1v07nwvy9zrrslbh0l2wp780-nettle-3.9.1.drv
+URL: nar/0q9pzafaxh9bqmgwlarpp7rz2hr9zlfv556brsnq9s4c6y353r96.nar.xz
+Compression: xz
+FileHash: sha256:0q9pzafaxh9bqmgwlarpp7rz2hr9zlfv556brsnq9s4c6y353r96
+FileSize: 996
+NarHash: sha256:0cp1qj6k5a147k2178zhkxx2hy79z79iyknfpr2qwdyhh7qzp8zj
+NarSize: 2216
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 45l9md35nfh63qlkv9dblnzp20m2mi37-gcc-wrapper-13.2.0.drv 5rlajr0amf6cddid2sp8kgziy7zfl87p-nettle-3.9.1.tar.gz.drv g18v7s1q1vr4qfdcq42m017wai423971-gnum4-1.4.19.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh x1f524556jmvi43m8w23gq4lz5pn38v3-gmp-with-cxx-6.3.0.drv
+CA: text:sha256:1jji18a2xrxjjbgq60vplmmw3a6d84vslr2sfcr516kxzpfqm7iw

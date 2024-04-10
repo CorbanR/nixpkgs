@@ -1,0 +1,9 @@
+StorePath: /nix/store/vpkghbzpz2nigyy1crh2ljjhc09k0ik7-curl-8.6.0.drv
+URL: nar/1yxayj2qbb3jganp500am9jnb1xyg7aj28dzf4k881dlgkqw5qwq.nar.xz
+Compression: xz
+FileHash: sha256:1yxayj2qbb3jganp500am9jnb1xyg7aj28dzf4k881dlgkqw5qwq
+FileSize: 2388
+NarHash: sha256:0dj2ri4mrb9lkv33il1v0cd7bfkd2bpm5fc6d4ii8v0mdn7dvny3
+NarSize: 5904
+References: 23cirr6is10pfk66yb52dnsqzb6p39p4-libpsl-0.21.5.drv 2pq087b510ghqlzbz10x82vadnbcvx4q-nghttp2-1.60.0.drv 3fsvnzv130gz6n5j7qifnqcqwigb4fd7-zstd-1.5.5.drv 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv 5s3wi9wwh8gqndqdy24cqcc4rn5ysxyj-libssh2-1.11.0.drv 88sypyhsgnnpdc1d5shcgksysv88b9gm-apple-framework-CoreServices.drv d33lm37ch6kvgikn6snpbidwhn2z13br-openssl-3.0.13.drv d6v4p62520vgz4953gj6skggvrkdffih-perl-5.38.2.drv dbpslq9v4n3hrqphxpbf2a4smhggd2am-zlib-1.3.1.drv f5ddz9lv5n34r6x7jkc5cxacymp2hz80-apple-framework-SystemConfiguration.drv h9wlli8q1say5r62399xm9hf8c44z13a-brotli-1.1.0.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kjrzapfa7b2fcqwjchjhfqz475r6f1qs-libidn2-2.3.7.drv kmk193n9pnw7xs8ksrmaryhqwzxrqcnc-curl-8.6.0.tar.xz.drv lwxm3fbgbh9lxalgbn7a93l7dgv1mka6-apple-framework-CoreFoundation.drv nmgblikv5fnydsy5jg3rhy7g101vvmh0-pkg-config-wrapper-0.29.2.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v8sgc97wdpxmwakf5w5v044g4h1asgv6-libkrb5-1.21.2.drv
+CA: text:sha256:1jr2srlzi0dhrvqbkng3k32pjsbdhcw9bb9kxla9j11xx9wnrcjj

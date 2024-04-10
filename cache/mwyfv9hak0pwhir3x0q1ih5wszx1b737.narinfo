@@ -1,0 +1,9 @@
+StorePath: /nix/store/mwyfv9hak0pwhir3x0q1ih5wszx1b737-python3.11-recommonmark-0.7.1.drv
+URL: nar/180fv2vl95338j62fl1rngq7a9q91akqjj0czsx6r8v6g6hlrbck.nar.xz
+Compression: xz
+FileHash: sha256:180fv2vl95338j62fl1rngq7a9q91akqjj0czsx6r8v6g6hlrbck
+FileSize: 1912
+NarHash: sha256:1nksjywxvvfdnjr2ip7l4j9ihx0rm16xc0lr5ln6479v39inw6y7
+NarSize: 4568
+References: 1x8m520lxi7k8mi14ags76cgad318nja-python3-3.11.8.drv 2xfy6zx3kaa5f0gabc1355nbnwf4jccl-python3.11-commonmark-0.9.1.drv 46d08420bh83lij55cbj0rxpd3g290i6-python-imports-check-hook.sh.drv 562s7fm1vzk7jqvvlnpy3k0ryq61mhxr-setuptools-setup-hook.drv 7flcgadzsl7pidysz7y2j01fr1szmkad-python-namespaces-hook.sh.drv 9fqq2v5knc35i8rlhv4qf8l9ayab760y-source.drv bpasqnadfnkxblixjgi13z1dq6dnzjp3-pypa-install-hook.drv dmczbdk4h75yx2iyvgsvznc9cq247xg7-wrap-python-hook.drv fd9w1ma7hphgl81f4ncn8hgmq2jylwfw-python3.11-sphinx-7.2.6.drv hxaax8irvw5m0dlj28xry5na9ibcdbpy-python-catch-conflicts-hook.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kzhraibfkbrwq2gz1r94yk1n8bq6y94d-python-remove-bin-bytecode-hook.drv nafwgg3kjjssr20ik4b5w2f6xr3j4vjq-python3.11-docutils-0.20.1.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vvpk5gcslwkzmnhfkz3s2nii7bqfi5sb-python-remove-tests-dir-hook.drv w98pydy8vbj8h3qc9w383ryivz4wqknk-bootstrap-stage3-stdenv-darwin.drv wa0m792wbiv7k1im2xz2n83vrbpr3yxh-ensure-newer-sources-hook.drv zwhrsbig75c0qsy6bcf4n4wsv9ixmsy2-python-output-dist-hook.drv
+CA: text:sha256:1caly4kriqa26a7wm83fijfrk69q7gzj2059ygcrz6gnf99vdlzs

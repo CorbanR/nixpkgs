@@ -1,0 +1,9 @@
+StorePath: /nix/store/1gsib1bx3smicnc7q9vxcrbnmsg0d4hx-mpdecimal-4.0.0.drv
+URL: nar/06h84n8p75a6jppwdrd9ga4lkwc8v65qfwlyfagaxz1chpyyf77v.nar.xz
+Compression: xz
+FileHash: sha256:06h84n8p75a6jppwdrd9ga4lkwc8v65qfwlyfagaxz1chpyyf77v
+FileSize: 912
+NarHash: sha256:16jimsdgwaywm4zhkalqsk9dvpxqw1p48b5n8fv409931h19bqnn
+NarSize: 2216
+References: czgzq4viby3xkqf6lp0xi19msls8vja5-mpdecimal-4.0.0.tar.gz.drv grlmm1f5z4lnjl21xxq4byrbk5slb35w-bootstrap-stage4-stdenv-linux.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1s9swn2ax5dp3hpqs87rc7k65s6jwpyhn78li2ycr6qpvqgqknl9

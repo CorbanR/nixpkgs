@@ -1,0 +1,9 @@
+StorePath: /nix/store/5qxhf1v38sx607rgxr2dqqhhilbjyjhk-bison-3.8.2.tar.gz.drv
+URL: nar/01m1svcsizh4b8a2wdp24v4xfawxi2ids80khhvwixymrif1vw7j.nar.xz
+Compression: xz
+FileHash: sha256:01m1svcsizh4b8a2wdp24v4xfawxi2ids80khhvwixymrif1vw7j
+FileSize: 1344
+NarHash: sha256:1zpw0cg77kq6y6zrarbcjzq346s6fcw6w71w19dkss0fzgbai95x
+NarSize: 3232
+References: 9fb7876pspxqmf8756csxc1zwipig3q1-bootstrap-stage0-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zgh2kqjbwiiyh82327d197lcz6dipxlw-mirrors-list.drv
+CA: text:sha256:0kg46wa13nlap2bx1shj8sx71vfv7ffrsyrka441lw8l77cs76w6

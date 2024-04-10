@@ -1,0 +1,9 @@
+StorePath: /nix/store/ji7xx5njh5609alrzpbinsvfika4bm81-perl5.38.2-Exporter-Tiny-1.006002.drv
+URL: nar/1dkqmxjp78gzkrvlrq3mz72lr5aq5s8q37bkibzsp140w9vgqwk6.nar.xz
+Compression: xz
+FileHash: sha256:1dkqmxjp78gzkrvlrq3mz72lr5aq5s8q37bkibzsp140w9vgqwk6
+FileSize: 1056
+NarHash: sha256:00qy30lh3skx8gmq41fk2cg88b3i2zbgxw9584l84r6vq95y4cr0
+NarSize: 2584
+References: 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh dyrblif2j5c29y26swwy8arkxhq3kknb-Exporter-Tiny-1.006002.tar.gz.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv imxny7nz7pnb9riagprwi1vmxpn5vxfh-perl-5.38.2.drv y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:0vsrxdvhlw6a7iwxx3chhsarxf8m08gm0laxfw6lw4ksflb65d16

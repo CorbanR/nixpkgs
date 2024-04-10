@@ -1,0 +1,9 @@
+StorePath: /nix/store/bjpx97apv0lncbr68zwg5x3y3f6idhiw-libstemmer-2.2.0.drv
+URL: nar/1mymgw7ydqln645s3j66v4fxmw313y97crzy3m3q84s9rw8c5z04.nar.xz
+Compression: xz
+FileHash: sha256:1mymgw7ydqln645s3j66v4fxmw313y97crzy3m3q84s9rw8c5z04
+FileSize: 1028
+NarHash: sha256:1anqwpyd5syryhrrwyxy93y8n8zzw90gq7xpzvz7maa7xgq5splp
+NarSize: 2304
+References: d6v4p62520vgz4953gj6skggvrkdffih-perl-5.38.2.drv dyp2b6w0gk4rc2g610sfpzmgjrjhhsds-source.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh w98pydy8vbj8h3qc9w383ryivz4wqknk-bootstrap-stage3-stdenv-darwin.drv
+CA: text:sha256:06p525fnlpnhr0phd4dpzn1qhsh03c9lly0hkdkvj9s7452h596s

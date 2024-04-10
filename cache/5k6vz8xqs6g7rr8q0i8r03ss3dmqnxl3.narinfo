@@ -1,9 +1,0 @@
-StorePath: /nix/store/5k6vz8xqs6g7rr8q0i8r03ss3dmqnxl3-HTTP-Daemon-CVE-2022-3108-pre.patch.drv
-URL: nar/0fkqyzk9iizrdb67xz1qnpk5k1lab5x2wvvdf4iy4bs1dq3jjys7.nar.xz
-Compression: xz
-FileHash: sha256:0fkqyzk9iizrdb67xz1qnpk5k1lab5x2wvvdf4iy4bs1dq3jjys7
-FileSize: 1920
-NarHash: sha256:08w933xvb7bg1pnisc1vnapqk9qc974md33s434i7br2wj82jrq6
-NarSize: 4584
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh i8a31hfv8pz9l0z1y7iimdl6h04dga75-stdenv-linux.drv lr82zvprmf5m7q1p5hq0kmgd3645w3dx-curl-8.3.0.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv vryskm77rszka6hjmzn6g057c4jli8my-patchutils-0.3.3.drv zj04va6kfr8j44f34ya6ng6w2pdm87jg-mirrors-list.drv
-CA: text:sha256:0rrkjq3c93hp9dizdf0vl0819s6y2sik1avskkyhgisj9adrpm1q

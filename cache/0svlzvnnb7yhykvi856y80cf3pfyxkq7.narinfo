@@ -1,9 +1,0 @@
-StorePath: /nix/store/0svlzvnnb7yhykvi856y80cf3pfyxkq7-perl5.38.0-HTTP-Daemon-6.14.drv
-URL: nar/1snsb9jx5d29awkf8xn0nz3i87qy93zqw3crdwnpbsv98hxicn9m.nar.xz
-Compression: xz
-FileHash: sha256:1snsb9jx5d29awkf8xn0nz3i87qy93zqw3crdwnpbsv98hxicn9m
-FileSize: 1308
-NarHash: sha256:1na6g4hfc6mr2j7yxfp97y0kywfp7pf141qmdrhflzfkv8z573ri
-NarSize: 3176
-References: 159w6085qz5bwxr5zpbpbcysi92ypivm-HTTP-Daemon-6.14.tar.gz.drv 50x3wgjh8qjs5m2cbrgqynmhfpqz08qj-perl5.38.0-Test-Needs-0.002006.drv 5k6vz8xqs6g7rr8q0i8r03ss3dmqnxl3-HTTP-Daemon-CVE-2022-3108-pre.patch.drv i6dc1cg22vs7y2bgdwmmqllkc6z0ix8w-perl5.38.0-Module-Build-Tiny-0.039.drv l0wpccm541za6ak4zklzrrcwbscy438d-HTTP-Daemon-CVE-2022-3108-1.patch.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv q8l4jdc25apfq5655l9wwf2qpmk5qzbc-HTTP-Daemon-CVE-2022-3108-2.patch.drv vpnqz8y7xx5hbvljgrad2z914ndjhxfd-builder.sh y6kgq2whq4cg87w45ha2x0m2ndljqn94-perl-5.38.0.drv z4f5292ajl24ylizfbslfzan4jvfr7nl-perl5.38.0-HTTP-Message-6.26.drv
-CA: text:sha256:0pzsjzqkiri5rpcfvfd8b6pj7w8dw7blaqym3k70wy0rhljkasq1

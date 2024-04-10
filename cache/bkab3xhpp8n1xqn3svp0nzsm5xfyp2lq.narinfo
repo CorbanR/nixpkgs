@@ -1,0 +1,9 @@
+StorePath: /nix/store/bkab3xhpp8n1xqn3svp0nzsm5xfyp2lq-python3.11-trove-classifiers-2024.3.3.drv
+URL: nar/1pym6pmkscnvmfgjy5r592dr2247ai2sampzybjkgs72rvqr3188.nar.xz
+Compression: xz
+FileHash: sha256:1pym6pmkscnvmfgjy5r592dr2247ai2sampzybjkgs72rvqr3188
+FileSize: 1948
+NarHash: sha256:13zyhbkl56nl8h7n7afl93gdgq7brsagdmc7wfy216rnb571g6jc
+NarSize: 4712
+References: 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv 5218qqpbp63rqblrgycch02hdn0gn3il-python3.11-calver-2022.06.26.drv 77rsvl37xp174nvk2wh9bxla5jzj7bca-bootstrap-stage1-sysctl-stdenv-darwin.drv 7sx71wg2zfkig9xqrdd6hc3lbzv4cm20-python-output-dist-hook.drv 8m16h1shj3kgk2vyj1nzn513dyssf3b1-python-namespaces-hook.sh.drv cmssp8jy5xl53w9fmr78va6am58ys4l6-python-imports-check-hook.sh.drv crqldcvwg79wzlbd0nhh4jq0qpk65fvz-python-remove-bin-bytecode-hook.drv cz47j36sh0n8d7niy65zhv8qadghn8np-pypa-install-hook.drv dkyixyh8ln5pw52d1csppi0lyr0dzg1r-ensure-newer-sources-hook.drv f30c3iza783s5yv79bgznf3al3r1pmrl-python-catch-conflicts-hook.drv g72qxp1895jgjhdwqpwa66v5wsdi5ah7-pypa-build-hook.sh.drv gfp7a0shjd5khapjh6zkgdx0mj9v51sm-python-runtime-deps-check-hook.sh.drv i9hl4cwxv2zij82j9gscn7g3jhdnpjwm-wrap-python-hook.drv pljaa2k65xdmi5lywm48iklj4lvwp85z-python-remove-tests-dir-hook.drv rc10xn1pjh8py0c248qg3pk0ma3v1bhn-trove-classifiers-2024.3.3.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vvbnn7lg5ia8zjcibvvwhh1sq9isgp96-python3.11-setuptools-69.1.1.drv y203q8pn6c7sb77kxmfkx2q9kzqhax12-python3-3.11.8.drv
+CA: text:sha256:1bsrambzd7lcg6zkq7ql1h2zz0vsypdw20rc035zd93h9fxy1brv

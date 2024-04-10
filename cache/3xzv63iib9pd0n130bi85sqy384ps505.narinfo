@@ -1,9 +1,0 @@
-StorePath: /nix/store/3xzv63iib9pd0n130bi85sqy384ps505-Authen-SASL-2.16.tar.gz.drv
-URL: nar/0cs7bx0vm73ryyclcbc6a0qcav874djyw7rriiphxn1wzxipvj08.nar.xz
-Compression: xz
-FileHash: sha256:0cs7bx0vm73ryyclcbc6a0qcav874djyw7rriiphxn1wzxipvj08
-FileSize: 1412
-NarHash: sha256:06nzp1fjjnk21inv81q9gd6654ad0qnfndshbib9dbi0ihivj81a
-NarSize: 3248
-References: 1y4dpnbygkhb7xkd2iajjq9j0y5glmld-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh 6cl94yz7awlxs83hvfr4pryxnnxmfa12-curl-8.3.0.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv w12mifg34dx2l90mdc7gq9qirc9hn979-stdenv-darwin.drv
-CA: text:sha256:0q7yrhmdfcr5xqg4bh27v3lpr3qf6h5pi6k94p53rjkmvblhkxnv

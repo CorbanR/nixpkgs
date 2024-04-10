@@ -1,0 +1,9 @@
+StorePath: /nix/store/v8sgc97wdpxmwakf5w5v044g4h1asgv6-libkrb5-1.21.2.drv
+URL: nar/0li2nlh0yvhj4sc71860nplfp5nqpnwq24728r8vyyd7y68qn4ih.nar.xz
+Compression: xz
+FileHash: sha256:0li2nlh0yvhj4sc71860nplfp5nqpnwq24728r8vyyd7y68qn4ih
+FileSize: 1644
+NarHash: sha256:0mhi94ld5dgkj0abf3dmliyvlvplivlfzrzsdxz0wcv0hxc080yh
+NarSize: 3688
+References: 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv 701ckcg30bc3cpjixlai13s0lp9ysvy1-krb5-1.21.2.tar.gz.drv bnd66nk8x1aapmsf0k7fc8l0nb4y8ly0-bootstrap_cmds-121.drv d33lm37ch6kvgikn6snpbidwhn2z13br-openssl-3.0.13.drv d6v4p62520vgz4953gj6skggvrkdffih-perl-5.38.2.drv d8yxx9sdvxswjp9f7kgj20zii6q85rk0-apple-framework-Kerberos.drv da2dwvrv4src2layyfig0rdm5fd27wnv-apple-lib-xpc.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv nmgblikv5fnydsy5jg3rhy7g101vvmh0-pkg-config-wrapper-0.29.2.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0ap2vwvjrl3mrn93q1fawhpqw79qh13yk2cnhxna67msfbm2cwrh

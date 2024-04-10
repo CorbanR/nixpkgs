@@ -1,9 +1,0 @@
-StorePath: /nix/store/nyhmpn929psnn2w4y45h91s4596lfi8x-perl5.38.0-libnet-3.12.drv
-URL: nar/1wwz5v2ag7vkqxs0frpbc40mpvl2xjcbj81gl50mi3b1m342qb99.nar.xz
-Compression: xz
-FileHash: sha256:1wwz5v2ag7vkqxs0frpbc40mpvl2xjcbj81gl50mi3b1m342qb99
-FileSize: 972
-NarHash: sha256:0p0v2d89sf2nkii3ib3k8qy9mr8jqf7rsdd9gxvqhlfwzhd8b1ic
-NarSize: 2272
-References: k9nb2z5s7b9z8i2nxqgfyd08aj7g370q-deterministic-libnet.cfg.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv vpnqz8y7xx5hbvljgrad2z914ndjhxfd-builder.sh y6kgq2whq4cg87w45ha2x0m2ndljqn94-perl-5.38.0.drv z7zr75z05z54j0p0s4pmsvldkiqg968n-libnet-3.13.tar.gz.drv
-CA: text:sha256:1ib6wc8ll7f9a5n53cz5nvhnnywcr8yxkfa75shphcvm7s4p8z74

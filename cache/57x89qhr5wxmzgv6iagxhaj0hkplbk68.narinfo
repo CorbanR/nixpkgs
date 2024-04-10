@@ -1,0 +1,9 @@
+StorePath: /nix/store/57x89qhr5wxmzgv6iagxhaj0hkplbk68-ncurses-6.4.tar.gz.drv
+URL: nar/0gqi7p3y1452mpjqyhsgpyj4dgkh586jic7kjgw2wkaw6j0n6vxq.nar.xz
+Compression: xz
+FileHash: sha256:0gqi7p3y1452mpjqyhsgpyj4dgkh586jic7kjgw2wkaw6j0n6vxq
+FileSize: 1356
+NarHash: sha256:0bsmxr9mhifq9shdmr3kzn0y54bizyl2i783fji05k3n3lrvb8z1
+NarSize: 3232
+References: 9fb7876pspxqmf8756csxc1zwipig3q1-bootstrap-stage0-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zgh2kqjbwiiyh82327d197lcz6dipxlw-mirrors-list.drv
+CA: text:sha256:1lv8cc734pf8vz3wmdq5x4862pr2wbbq8j3wim6qsknivvsim1xz

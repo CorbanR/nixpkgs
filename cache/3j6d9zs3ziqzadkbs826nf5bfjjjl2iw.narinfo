@@ -1,9 +1,0 @@
-StorePath: /nix/store/3j6d9zs3ziqzadkbs826nf5bfjjjl2iw-python3.10-pluggy-1.2.0.drv
-URL: nar/1b03nwa6ka7wf098hrg2y1hgqh6z5c5iv74rm3bz5spgjs15nh8q.nar.xz
-Compression: xz
-FileHash: sha256:1b03nwa6ka7wf098hrg2y1hgqh6z5c5iv74rm3bz5spgjs15nh8q
-FileSize: 1724
-NarHash: sha256:0shzp9pgi7cfyygkaf0fp89vmaznbds3nliq554n35fk226daalh
-NarSize: 4008
-References: 3glqljk20iyhnzr5sz30k3p5gfj07r0v-python-remove-tests-dir-hook.drv 4gs2zap1s6lpvn9gd6lwj5yriafy8sxh-python3-3.10.12.drv 569ckkgdw05ayxxlvf0xdqw6kcdpj6fa-wrap-python-hook.drv 5v49yn6811xaz73581cmz6ds3md4n8lf-pypa-install-hook.drv 64spj723i0aflvkwff0vc625bh880nxz-python-remove-bin-bytecode-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 8sw6wgkdgd3rna2s483dhshg284qqqgm-python-namespaces-hook.sh.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akpdvkkaqmk3fhw1kjpj42mnid6nb7mh-pypa-build-hook.sh.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv n4cr8v691a6zws4mcxiivwczazm4a8jn-python3.10-setuptools-scm-7.1.0.drv p9hzg0bzbbblkxj2mfxzbkdv5616y6za-source.drv pgv9c923jyjl2vsp7qlmmylglh09y4xx-python-output-dist-hook.drv pqg1r9r71h1b1qdlsh0klq2pb41xb1mv-ensure-newer-sources-hook.drv v9ij02aqnhsdapdw6b36h1y6spv49hkb-python-imports-check-hook.sh.drv y823dmnv8kgcg2lyvzx0g3m41x7pfyij-python-catch-conflicts-hook.drv
-CA: text:sha256:0q4s9wal4lh7mil48pw431667bc3zfapdimxdwsfyn5k8gkrflac

@@ -1,0 +1,9 @@
+StorePath: /nix/store/1xjcg76knxzhljhp81iagcvz0qvjvagn-pypa-install-hook.drv
+URL: nar/1mc6g7v62yqm0ys9y5bp55d5z5blf8g6k95my7hnfidxzj92a5b2.nar.xz
+Compression: xz
+FileHash: sha256:1mc6g7v62yqm0ys9y5bp55d5z5blf8g6k95my7hnfidxzj92a5b2
+FileSize: 1084
+NarHash: sha256:1pv5378sxzmhs841kk31qizi1a3a2wsxbkccpv8bi4m2macablkn
+NarSize: 2608
+References: 5ld1s9nynb9dj3scls7lk1iifaq83j4s-python3-3.11.8.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv ib3rz26ch1p4fjxiwkwvzrd4r7yw57l6-pypa-install-hook.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv rd1lzdwf92gsm8q0kdxczavis1p5gzfr-python3.11-bootstrap-installer-0.7.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1raidh2ismm7d19nyb79rkrdfikz17nbmm3isa6spvklxc7jk0ik

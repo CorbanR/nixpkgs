@@ -1,0 +1,9 @@
+StorePath: /nix/store/rbcw3ic7sngf0nvrq98fm7hbb66zxck8-indent-2.2.13.tar.gz.drv
+URL: nar/03q7dh2wqn5bnj448r7mjmhrqp42sfcghadmd7ljmxzs8pxrjqzp.nar.xz
+Compression: xz
+FileHash: sha256:03q7dh2wqn5bnj448r7mjmhrqp42sfcghadmd7ljmxzs8pxrjqzp
+FileSize: 1340
+NarHash: sha256:0738pwhfaxw2zwhmdf9v8rqkl5d236wbh4161cvdb4blhai14kvm
+NarSize: 3216
+References: 9fb7876pspxqmf8756csxc1zwipig3q1-bootstrap-stage0-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zgh2kqjbwiiyh82327d197lcz6dipxlw-mirrors-list.drv
+CA: text:sha256:0rjrg1ng1il738ybsbhfdq4lxq4db98x74sl7dl0w2cb3dpcjn0z

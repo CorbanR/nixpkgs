@@ -1,9 +1,0 @@
-StorePath: /nix/store/sr2zbl0r99mzr96ivzp59g6cvkd62dbc-python3.10-recommonmark-0.7.1.drv
-URL: nar/1yinglsinxqkfj30yip2l1yh51y637j12x4lsl7l1xz59abkgg2g.nar.xz
-Compression: xz
-FileHash: sha256:1yinglsinxqkfj30yip2l1yh51y637j12x4lsl7l1xz59abkgg2g
-FileSize: 1880
-NarHash: sha256:0y90ikyxv6ygsd2djjxc1xz9ap4y1mscygdiymppa0nadgi48x27
-NarSize: 4464
-References: 2h9jyby2f2c440rwikmncscf7ha7s4pj-python3.10-sphinx-5.3.0.drv 2q5b31qbf71abcma4wsqkn50ncjh250d-setuptools-setup-hook.drv 3pxnxyklpmmxwqma9zdks1yf38lyvn2c-python-output-dist-hook.drv 5bsbpwnnhbz5jni1283l2hsiql8ri6zq-python-remove-bin-bytecode-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9r6cc5r3nf8f6q70hrh18a56871hzxiv-wrap-python-hook.drv bk3viwsg97p21q8cdc40g3xcfd18qrx9-python3.10-docutils-0.19.drv c2wrkw05xs3pi2s1y2266fsjkmwqn1xg-python-namespaces-hook.sh.drv f6xa4hhgd2gbbg7rwphy10s18n53crpw-python-catch-conflicts-hook.drv g98w2p4mwjqgb2sv2mcdlsrxnydyl2bf-source.drv h7rbqnncyy5z24d6cj41wccxwkzs31x9-ensure-newer-sources-hook.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv nq2h2c6fh57164l0xpv9923i25fc0rzn-python-remove-tests-dir-hook.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv pxky6l38f1lhv5191cy5b755hnl3sbn2-python3.10-commonmark-0.9.1.drv r30v8xr0h0nrzdjhzy465633ybbj27cw-python3-3.10.12.drv s9zk4j4w8yawv45milnalbmipz6a3xl0-pypa-install-hook.drv wz4lr06pa42g5px6dakgbrc9fqlhz84m-python-imports-check-hook.sh.drv
-CA: text:sha256:0w1clhzs23h9k1gbxvhh6j2apzgs22zf051il2dd7vw863cak2mb

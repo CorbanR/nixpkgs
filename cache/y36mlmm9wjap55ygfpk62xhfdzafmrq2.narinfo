@@ -1,0 +1,9 @@
+StorePath: /nix/store/y36mlmm9wjap55ygfpk62xhfdzafmrq2-libxml2-2.12.6.tar.xz.drv
+URL: nar/1j5w3kglh29qxd7ch671n72mg3kw11h7107qwj01bwy705398sv7.nar.xz
+Compression: xz
+FileHash: sha256:1j5w3kglh29qxd7ch671n72mg3kw11h7107qwj01bwy705398sv7
+FileSize: 1348
+NarHash: sha256:13drw62hbrbr4k4lp1naw1k0ln6vqpwdamw6imdnrjmz5cwnyn12
+NarSize: 3232
+References: 9fb7876pspxqmf8756csxc1zwipig3q1-bootstrap-stage0-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zgh2kqjbwiiyh82327d197lcz6dipxlw-mirrors-list.drv
+CA: text:sha256:18j2f0dsx4i9r1rgrglmm1jjxfn8gjvayf1dpq1al6lf47sb684z

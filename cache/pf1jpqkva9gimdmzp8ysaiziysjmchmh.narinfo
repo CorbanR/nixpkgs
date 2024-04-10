@@ -1,0 +1,9 @@
+StorePath: /nix/store/pf1jpqkva9gimdmzp8ysaiziysjmchmh-source.drv
+URL: nar/0pfs431j6f83hfspmydgxy8hsqm8p031dl9m2nqi99gpwv2rimvh.nar.xz
+Compression: xz
+FileHash: sha256:0pfs431j6f83hfspmydgxy8hsqm8p031dl9m2nqi99gpwv2rimvh
+FileSize: 1260
+NarHash: sha256:0rqnx33l9yrlpgl847q6bg14rx9ff0ild3a43cl36l3h1p9fr4fb
+NarSize: 2664
+References: 0r19zbjxmh7da38s9g6xdaxx1ndxxgs2-nix-prefetch-git fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv gvj0pw7rzpf0r26sanh23kq34dab89ch-git-minimal-2.44.0.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv qkmrvp7kijcp8ky6isxkmxxbbsljhxmg-builder.sh rg6pqh9215vf5y8902hkffz1xxvcy48i-nss-cacert-3.98.drv
+CA: text:sha256:1qdql96gmg131wxpz0h24xl2yg2f8zbky739vgmam39whqwzrmn7

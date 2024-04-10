@@ -1,0 +1,9 @@
+StorePath: /nix/store/lbqv1aasvkw9y5pvq9ad2f14d1fmsian-glibc-locales-2.39-5.drv
+URL: nar/1hhppp9w18936ddh5aaykh1bylf04h65290h6ih0f3k03z37y9lj.nar.xz
+Compression: xz
+FileHash: sha256:1hhppp9w18936ddh5aaykh1bylf04h65290h6ih0f3k03z37y9lj
+FileSize: 3004
+NarHash: sha256:07xisl2h6md2mbf8lw4wmv0mwl3v4wg09mcxvywknnmh85r71ifa
+NarSize: 7000
+References: 001gp43bjqzx60cg345n2slzg7131za8-nix-nss-open-files.patch 3s5c3kn2blrvjca19g8w6iv77mp4jxdx-libidn2-2.3.7.drv 7kw224hdyxd7115lrqh9a4dv2x8msq2s-fix-x64-abi.patch 8haph3ng4mgsqr6p4024vj8k6kg3mqc4-nix-locale-archive.patch a146wwc4n5ngkvsyj3rl3qky183hwlyh-bootstrap-stage4-gcc-wrapper-13.2.0.drv b1w7zbvm39ff1i52iyjggyvw2rdxz104-dont-use-system-ld-so-cache.patch cx63ws8cdspziq3hw1456kzr7cz2x0lj-locales-builder.sh grlmm1f5z4lnjl21xxq4byrbk5slb35w-bootstrap-stage4-stdenv-linux.drv gxv8zyycd4g400h51gfzpg0isk3b7qqd-glibc-2.39.tar.xz.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv hjxijspz5dyrqi9nsqc85c6lc87sixbx-python3-minimal-3.11.8.drv k3c9f0b09y4hfldvlak68pcbpv790nii-bison-3.8.2.drv lnpzcs39zbnhf8ynn4xqq69yv730bk7g-binutils-patchelfed-ld-2.41.drv mcacmjbp4j1j9adgj01i0z3q0g3gzf8q-locales-setup-hook.sh.drv mnglr8rr7nl444h7p50ysyq8qd0fm1lm-dont-use-system-ld-so-preload.patch pcpx2ayccijipfl32zchx0mg7rzvj6zx-0001-Revert-Remove-all-usage-of-BASH-or-BASH-in-installed.patch qy2djzi4v1hxgqdmrhj2pa5a86l3bhd3-2.39-master.patch sj0qllprnrmk1cqnnk57vvn2cqgjynbx-reenable_DT_HASH.patch za0pg7fmysrcwrqcal26fnmzw6vycgdn-fix_path_attribute_in_getconf.patch zib7y8ps3vk3c6qxh74qyxs108620y9z-glibc-2.39-5.drv zvqiq5k7lif1m4fl4llpwzwr9wjiwhcy-linux-headers-6.7.drv
+CA: text:sha256:04cg0m4s4f06jrnw608fv1hxjyxf0azixbsrg8zwxz0ddpjamiwf

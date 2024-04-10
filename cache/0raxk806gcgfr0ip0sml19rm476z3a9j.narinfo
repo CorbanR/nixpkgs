@@ -1,0 +1,9 @@
+StorePath: /nix/store/0raxk806gcgfr0ip0sml19rm476z3a9j-libtool-2.4.7.drv
+URL: nar/1bhbqkvx6rxfxjcf20l81kh35cf456zxrr3bx2s7l99ycrxkaq3i.nar.xz
+Compression: xz
+FileHash: sha256:1bhbqkvx6rxfxjcf20l81kh35cf456zxrr3bx2s7l99ycrxkaq3i
+FileSize: 1072
+NarHash: sha256:0c26m6fh008xl1jfmq529v2sl0b8cg3adyxsgmdmi19rdyvikgx0
+NarSize: 2512
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv dclyf99l8vj3sli21ykhwrwfpa40ccbw-libtool-2.4.7.tar.gz.drv g18v7s1q1vr4qfdcq42m017wai423971-gnum4-1.4.19.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv v2d6l3yghw1gaqcicp3n16wsdafh94dm-file-5.45.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1xhnhvl1p3kfqg5j45r5bglmp6kwq7d7mn7mnq3031kalwyayx46

@@ -1,9 +1,0 @@
-StorePath: /nix/store/0jhf9ikqd3x1gdbwxi2mx4bvzri2hpi7-groff-1.23.0.drv
-URL: nar/1zmsyxdhb65jfcxg0rjbvrz83zy652ifg11z5734zvncg2kxkx68.nar.xz
-Compression: xz
-FileHash: sha256:1zmsyxdhb65jfcxg0rjbvrz83zy652ifg11z5734zvncg2kxkx68
-FileSize: 1832
-NarHash: sha256:0c6cx779gqk9xfb72xqgdf6adym3k1fc4m9awd5am3digf5spwhz
-NarSize: 4752
-References: 5gi4w3na59n6man7x4gizcadsncf7n8s-bison-3.8.2.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 6zdl7x8hdldmyzfr9a8mvwvzq416irsl-pkg-config-wrapper-0.29.2.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv fpl8vlnrky422bk7x8nk9ygqxvxf0hdl-texinfo-7.0.3.drv kamvpzy6qadaqf52ibfs6ks5jz7lalg1-groff-1.23.0.tar.gz.drv rdqwgwfy0s1fgzfk0w4xdqy1vfp7d49k-autoreconf-hook.drv szz76xqzbb3i6fdyna5j9hqk1bj6mzhv-perl-5.38.0.drv wb7clyvk9lsr4rkay1l8bqixpri7vx5k-site.tmac
-CA: text:sha256:0l6c4q45n5b92y9hb08s1yyxq2kakhqnhm75ff79fd9xwpxdfrrc

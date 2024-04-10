@@ -1,0 +1,9 @@
+StorePath: /nix/store/j057pv3wdhzjxj40saixmbhq3fg8l8r0-llvm-manpages-16.0.6.drv
+URL: nar/07iljnbh2w6w351qvbja8vy6z8sg4yk9qj7azkifmaz9d5l5c7nv.nar.xz
+Compression: xz
+FileHash: sha256:07iljnbh2w6w351qvbja8vy6z8sg4yk9qj7azkifmaz9d5l5c7nv
+FileSize: 2328
+NarHash: sha256:0vgkwi3j0mcn4mc17djbi3bm2cd414avja2b2hmdaiga3bc364ps
+NarSize: 5312
+References: 2ims4p5chhyqv0y44nssjbwv1454nrqj-libffi-3.4.6.drv 5j9ci9whzlpwmlka08gspfqnw4mnlapf-ninja-1.11.1.drv 9n1ra2lsgigni16j00nhh2v0zfrq4mwi-libxml2-2.12.6.drv cf81k34hxdj4hnwpmm7v9z8jpn9mj2h5-gnu-install-dirs.patch fd9w1ma7hphgl81f4ncn8hgmq2jylwfw-python3.11-sphinx-7.2.6.drv fz3v80xsb49pnj0va588vg40z4vpjpwr-python3-3.11.8-env.drv gr73nf6sca9nyzl88x58y3qxrav04yhd-polly-lit-cfg-add-libs-to-dylib-path.patch im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv lzwpi2h5bwgjl91d7csfcm5vvrz88bf9-lit-shell-script-runner-set-dyld-library-path.patch mwyfv9hak0pwhir3x0q1ih5wszx1b737-python3.11-recommonmark-0.7.1.drv pypqb574a0qipwj1941p342xcma7lah3-cmake-minimal-3.28.3.drv rcdzyb4rkml4hhjdg3xbscipaz94v3jk-gnu-install-dirs-polly.patch syssfm9j83s7hlyhxgsn7bn2lbkh5rdz-llvm-lit-cfg-add-libs-to-dylib-path.patch v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh w98pydy8vbj8h3qc9w383ryivz4wqknk-bootstrap-stage3-stdenv-darwin.drv y1ifxxwpjn7ggwg3lk6ncbmcakfpn57z-llvm-src-16.0.6.drv
+CA: text:sha256:1fj1zarl8amd80c6298an04rzi1jq49h1sivx7p14g1fg15735p7

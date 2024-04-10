@@ -1,0 +1,9 @@
+StorePath: /nix/store/l63d8zsy13zsqizxxdn5s2zdbqzaycx9-nspr-4.35.drv
+URL: nar/1fnmd1jrqqbbs0s68jsn9l4ahgmwi7axhl86fankkjj6yibg7mw1.nar.xz
+Compression: xz
+FileHash: sha256:1fnmd1jrqqbbs0s68jsn9l4ahgmwi7axhl86fankkjj6yibg7mw1
+FileSize: 1308
+NarHash: sha256:0m10qlsppgj0fkr6dkz8n15d3l97slbflp27115y43albjggwfzz
+NarSize: 3008
+References: 3qz4ad4h85amlqsj2pvhvxpsq1qrafw2-nspr-4.35.tar.gz.drv a673jwsbj6al9war53yvzrg6cjdgk298-0001-Makefile-use-SOURCE_DATE_EPOCH-for-reproducibility.patch im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv nbckk6sk9jrjs2c7fjx7kdap6rrm91m0-apple-framework-CoreServices.drv rc50mpqyl5mbz1nvs7jhrvfg26vmfd4k-clang-wrapper-16.0.6.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:1mmxr67n6dg285c0vlxm25nzflcvwb103p2skpbplri09ikyrfdv

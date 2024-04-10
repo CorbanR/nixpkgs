@@ -1,9 +1,0 @@
-StorePath: /nix/store/fml0ils5310vqyca5mqxv6r57vlbd1in-python3.10-pytest-asyncio-0.21.1.drv
-URL: nar/0ghx43zmm4bprqfh15jmd7g9cmlmmj8l1i8ap2cd7qar5cia9f9g.nar.xz
-Compression: xz
-FileHash: sha256:0ghx43zmm4bprqfh15jmd7g9cmlmmj8l1i8ap2cd7qar5cia9f9g
-FileSize: 1884
-NarHash: sha256:13r795rpwacx1z1abgj1h1gnkhm1kq65br2r9cnlxhy21zlv45lk
-NarSize: 4576
-References: 3pxnxyklpmmxwqma9zdks1yf38lyvn2c-python-output-dist-hook.drv 5bsbpwnnhbz5jni1283l2hsiql8ri6zq-python-remove-bin-bytecode-hook.drv 6v82wg9401iq3xyzdd521h8qzqpm0z2q-pypa-build-hook.sh.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 92q6dhikdlwjj65a4m532pgflidf4n55-source.drv 9r6cc5r3nf8f6q70hrh18a56871hzxiv-wrap-python-hook.drv c2wrkw05xs3pi2s1y2266fsjkmwqn1xg-python-namespaces-hook.sh.drv f6xa4hhgd2gbbg7rwphy10s18n53crpw-python-catch-conflicts-hook.drv h7rbqnncyy5z24d6cj41wccxwkzs31x9-ensure-newer-sources-hook.drv jh5nkqyv4dyy0xg3kc0pbxplj1criyqn-python3.10-pytest-7.4.0.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv nq2h2c6fh57164l0xpv9923i25fc0rzn-python-remove-tests-dir-hook.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv r30v8xr0h0nrzdjhzy465633ybbj27cw-python3-3.10.12.drv s9zk4j4w8yawv45milnalbmipz6a3xl0-pypa-install-hook.drv sdxbnjar650fkvqymp7wd8d9xyvadl83-python3.10-setuptools-scm-7.1.0.drv wz4lr06pa42g5px6dakgbrc9fqlhz84m-python-imports-check-hook.sh.drv
-CA: text:sha256:1b0k24m8srpcdvfgmav8q99vzd5d7rc3cj6zpwiqy9i468gwax2q

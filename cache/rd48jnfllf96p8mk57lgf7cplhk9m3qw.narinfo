@@ -1,0 +1,9 @@
+StorePath: /nix/store/rd48jnfllf96p8mk57lgf7cplhk9m3qw-greenlet-3.0.3.tar.gz.drv
+URL: nar/101qpmv74idm5kw9c4lydkznay8hpgy4jqpjxcc65xdmm7njhdqg.nar.xz
+Compression: xz
+FileHash: sha256:101qpmv74idm5kw9c4lydkznay8hpgy4jqpjxcc65xdmm7njhdqg
+FileSize: 1344
+NarHash: sha256:01rrnj3x37srw313lp2hylnznhj84raf2m1y3gbppycfkxdnfy6b
+NarSize: 3224
+References: 9fb7876pspxqmf8756csxc1zwipig3q1-bootstrap-stage0-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zgh2kqjbwiiyh82327d197lcz6dipxlw-mirrors-list.drv
+CA: text:sha256:15xcaqfli74bjlagl83azh0bpvjnjjlpklabmpzqmk69zggz8y04

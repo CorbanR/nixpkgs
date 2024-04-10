@@ -1,9 +1,0 @@
-StorePath: /nix/store/2hsm5w6a690qhfmf5sjqfv2kzcpjg5ai-Architectures.xcspec.drv
-URL: nar/1mkjxaxhz1lq8smxi0lw4i4ph5cjdlpdzdyd67n3r8b45zwkhjnj.nar.xz
-Compression: xz
-FileHash: sha256:1mkjxaxhz1lq8smxi0lw4i4ph5cjdlpdzdyd67n3r8b45zwkhjnj
-FileSize: 1368
-NarHash: sha256:1vqigfs7pg36a71r4prvpycair88659i819jnvcrsmpm7zkq4079
-NarSize: 4576
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv jzwqkk0jlgahb7c90xwbimmx1qsi7dq1-bootstrap-stage2-CF-stdenv-darwin.drv
-CA: text:sha256:1cwaz7w48wsfdsafy0d6mp121nzf5qkzc3ay339g6snbq894ngq1

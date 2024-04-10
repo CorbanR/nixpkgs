@@ -1,0 +1,9 @@
+StorePath: /nix/store/lnrmksjvk60kpvrh8pqmq88zxhllpqji-libdispatch-442.1.4.drv
+URL: nar/1wfv4380npbavgjv8hz7b931amkgx0hbsbgfsbm381zyi23k8js9.nar.xz
+Compression: xz
+FileHash: sha256:1wfv4380npbavgjv8hz7b931amkgx0hbsbgfsbm381zyi23k8js9
+FileSize: 1472
+NarHash: sha256:00bdarj7z4ppijs10dihwblgybss841hrqz5har0cgk1hg2jhnb3
+NarSize: 3672
+References: j9d6pn50y7iyczn0l9mihmv8564vagnz-bootstrap-stage1-stdenv-darwin.drv v4r86mjmq83a8j1vfbv9ixskhv7wys07-libdispatch-442.1.4.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:1wjcmqrpgmfvjrqfgs6l5vbbhg24j86r78x27sq3dwipk4wj1vcp

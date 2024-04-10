@@ -1,9 +1,0 @@
-StorePath: /nix/store/5z9s2fwa562cql2w5mwn9klfl12a1qpv-cffi-1.15.1.tar.gz.drv
-URL: nar/0zs6qq8nqdw4pzzgkbln56pbhs4b9kjg6riqanclj358md5vaskr.nar.xz
-Compression: xz
-FileHash: sha256:0zs6qq8nqdw4pzzgkbln56pbhs4b9kjg6riqanclj358md5vaskr
-FileSize: 1340
-NarHash: sha256:04mw5saa7va8mgfm5h19a3pnjils4hm9zjlxd91xv15wamy57l5j
-NarSize: 3192
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh p4jpyr1vsixxl6sbkfy0r0398wwmqbci-bootstrap-stage0-stdenv-darwin.drv pfc1kmyhx8lkwakqlc0yarb8p5nldl4f-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:1kw59jv9pam60bydj4dy1a1r2p4n755r2h1cygfiq453x59n1m92

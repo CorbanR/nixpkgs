@@ -1,0 +1,9 @@
+StorePath: /nix/store/b7gwzg0g1nmhmfgf27z69jqaqrvagbxs-libiconv-50.drv
+URL: nar/0bk3yp0fsh0w9b1z5vi3vvwf47xi8qcpkpinrs632jfvrca6as7s.nar.xz
+Compression: xz
+FileHash: sha256:0bk3yp0fsh0w9b1z5vi3vvwf47xi8qcpkpinrs632jfvrca6as7s
+FileSize: 1432
+NarHash: sha256:1ibmn4qsm2880sjvk218pn155p8r24wx927mrnrx4k7qklqb87d5
+NarSize: 3248
+References: 8106lywf5llcgzf0p9hazjkdq7g9m3ab-bootstrap-stage2-CF-stdenv-darwin.drv 9pw2p1p1n20zi65xdfip22gfifrzbzv0-libiconv-50.tar.gz.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v9034cqc4h5bm10z4vz3n1q2n55grv5y-role.bash xrvbfm0ahaiik1vlxzn3vsp5gyhksy2n-setup-hook.sh
+CA: text:sha256:1xp11kj3fszy3mh0m8hiy5a6ahvh7wykfyq1giyz2rqx9lad3jvw

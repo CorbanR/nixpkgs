@@ -1,9 +1,0 @@
-StorePath: /nix/store/40dv5c07qbmqxg6rvlv9fb01rmbj61kv-python3.10-imagesize-1.4.1.drv
-URL: nar/1fyrdmcg808chilk5k8ja5kfqm6afy9pszsp18q6lbq1jf8n652i.nar.xz
-Compression: xz
-FileHash: sha256:1fyrdmcg808chilk5k8ja5kfqm6afy9pszsp18q6lbq1jf8n652i
-FileSize: 1700
-NarHash: sha256:1m4abd1xxx2rvy86hwn5nylqgzlwm3zfyl5h8hp99nni012xxar4
-NarSize: 4048
-References: 2q5b31qbf71abcma4wsqkn50ncjh250d-setuptools-setup-hook.drv 3pxnxyklpmmxwqma9zdks1yf38lyvn2c-python-output-dist-hook.drv 5bsbpwnnhbz5jni1283l2hsiql8ri6zq-python-remove-bin-bytecode-hook.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9r6cc5r3nf8f6q70hrh18a56871hzxiv-wrap-python-hook.drv c2wrkw05xs3pi2s1y2266fsjkmwqn1xg-python-namespaces-hook.sh.drv f6xa4hhgd2gbbg7rwphy10s18n53crpw-python-catch-conflicts-hook.drv h7rbqnncyy5z24d6cj41wccxwkzs31x9-ensure-newer-sources-hook.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv ljrs6yz9wwabsbn7xm4by5p4554d5m7d-imagesize-1.4.1.tar.gz.drv nq2h2c6fh57164l0xpv9923i25fc0rzn-python-remove-tests-dir-hook.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv q34g5qlybml3jnrvwwj43512vljns7fq-setuptools-check-hook.drv r30v8xr0h0nrzdjhzy465633ybbj27cw-python3-3.10.12.drv s9zk4j4w8yawv45milnalbmipz6a3xl0-pypa-install-hook.drv wz4lr06pa42g5px6dakgbrc9fqlhz84m-python-imports-check-hook.sh.drv
-CA: text:sha256:0mq47xlh4l6h60y4r2fmx5lhblk7vzm1krkk9ragn75j668nzprs

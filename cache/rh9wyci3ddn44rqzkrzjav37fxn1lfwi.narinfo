@@ -1,9 +1,0 @@
-StorePath: /nix/store/rh9wyci3ddn44rqzkrzjav37fxn1lfwi-Test-Needs-0.002006.tar.gz.drv
-URL: nar/073ynrn105k1q696l2yvmvjfm3sn96kq46jsfnrmh9zvdg9l9qbb.nar.xz
-Compression: xz
-FileHash: sha256:073ynrn105k1q696l2yvmvjfm3sn96kq46jsfnrmh9zvdg9l9qbb
-FileSize: 1424
-NarHash: sha256:02y5n0vacyqfz1a4d536836dcir85yr7svgs6ml19a3dmv99i0ld
-NarSize: 3264
-References: 1y4dpnbygkhb7xkd2iajjq9j0y5glmld-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh 6cl94yz7awlxs83hvfr4pryxnnxmfa12-curl-8.3.0.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv w12mifg34dx2l90mdc7gq9qirc9hn979-stdenv-darwin.drv
-CA: text:sha256:0yrbvfz6gkp6jf1incw54hw80b06bf5gl11ibwhmmmv3r55hcip6

@@ -1,0 +1,9 @@
+StorePath: /nix/store/ass7lr30niq1gxcwyfhcymq5lzbwhv84-gmp-with-cxx-6.3.0.drv
+URL: nar/0nbmryys30plybkgw8jrrb0m7nxj8baqwrc8r5d6zjglxvwmiam0.nar.xz
+Compression: xz
+FileHash: sha256:0nbmryys30plybkgw8jrrb0m7nxj8baqwrc8r5d6zjglxvwmiam0
+FileSize: 1020
+NarHash: sha256:1h4971kc5hjdr18vgjibfmh88bj1jvfikmjxidbxp3x0zfzyb340
+NarSize: 2416
+References: a146wwc4n5ngkvsyj3rl3qky183hwlyh-bootstrap-stage4-gcc-wrapper-13.2.0.drv grlmm1f5z4lnjl21xxq4byrbk5slb35w-bootstrap-stage4-stdenv-linux.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv ksfh7jvbjrxhvh25jln6hrnqkkssihq6-gnum4-1.4.19.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh z4x4wa4ahsc6xn40j847dsrnagxd41w0-gmp-6.3.0.tar.bz2.drv
+CA: text:sha256:0g7kfcf28y1cpbx3rhrffri1ywrd9mi5xn43cnmyy1v5n8fdyn8d

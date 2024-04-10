@@ -1,9 +1,0 @@
-StorePath: /nix/store/g848gd118jf0v7dzzgs02kh7b0w8mvpb-python3.10-bootstrap-build-0.10.0.drv
-URL: nar/1cwkjlk6llrvn45f4gki4l5w0hzdca0cijvm2vb9avr4krnin1w1.nar.xz
-Compression: xz
-FileHash: sha256:1cwkjlk6llrvn45f4gki4l5w0hzdca0cijvm2vb9avr4krnin1w1
-FileSize: 1480
-NarHash: sha256:1v8q23m5mi2w0c0z1i7fnyb918j1sqx4hnylrrdwxl2dlgs79ad8
-NarSize: 3760
-References: 5nn9i0azqgs4g546gb2hs354xac41mg8-python3.10-bootstrap-flit-core-3.9.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 85y9qfn2h8h7c24d7ss2ndxd82x8yk1q-make-shell-wrapper-hook.drv bndv8qpn9yrw6sip493238iisa8hrk3a-python3.10-bootstrap-pyproject-hooks-1.0.0.drv c3mdskwhmmshjz9r3kddvcqgvk63kp7c-python3.10-bootstrap-tomli-2.0.1.drv iiycrcm2wm91yqxbhppjvj39mh0kjyk6-python3.10-bootstrap-installer-0.7.0.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv l9kfnfjcn3gvxl7l9glx6vm78rbm8hxy-python3.10-bootstrap-packaging-23.1.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv p9sdjzavxg92l1mn201v8hwgw6msj8k9-source.drv r30v8xr0h0nrzdjhzy465633ybbj27cw-python3-3.10.12.drv
-CA: text:sha256:0yfx8c6j470ymrgq2lng2vjdbp90lxkmgnq33fzpzx7y6pb3b4p2

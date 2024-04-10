@@ -1,0 +1,9 @@
+StorePath: /nix/store/fap69i7cp9lbnn1a0h6f456rc13326am-apr-1.7.4.drv
+URL: nar/1wdxsjk20ncb34sy7jkrpf7qsgwn41avgwrffwmbjp8b8cjdagjp.nar.xz
+Compression: xz
+FileHash: sha256:1wdxsjk20ncb34sy7jkrpf7qsgwn41avgwrffwmbjp8b8cjdagjp
+FileSize: 1108
+NarHash: sha256:0mnp84xl55ldni469d4d72iffvfwf1ixkys6fhm5kmvwsx4y67hp
+NarSize: 2576
+References: 4x9na72pk0pfxixhqrmvd62w6c7drpi0-autoreconf-hook.drv cn0nzb4wdfvikjjwwh9y9zx9ixwkvkal-cross-assume-dev-zero-mmappable.patch im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv pikxx5k448zca1scsc8hd2pq3yysyqql-apr-1.7.4.tar.bz2.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:0lbljn77m60x9r68114k1a38i81qjg8hq4wk1nyvf10q668qws84

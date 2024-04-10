@@ -1,0 +1,9 @@
+StorePath: /nix/store/7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv
+URL: nar/1m8gh0d98ps0bpd4prsiaf5vm6g5sl0gw3qbxvmjqs7gsj1fvgqk.nar.xz
+Compression: xz
+FileHash: sha256:1m8gh0d98ps0bpd4prsiaf5vm6g5sl0gw3qbxvmjqs7gsj1fvgqk
+FileSize: 1636
+NarHash: sha256:0ricaimnj77vkhyhiwj9y46winnwn28cj0sj066xdx2z9j2p5i2v
+NarSize: 4072
+References: 5yzw0vhkyszf2d179m0qfkgxmp5wjjx4-move-docs.sh 6g5nwrf0jhrqmwf9nmqmaldhy5h03v14-setup.sh cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh ckzrg0f0bdyx8rf703nc61r3hz5yys9q-builder.sh fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh h9lc1dpi14z7is86ffhl3ld569138595-audit-tmpdir.sh ilaf1w22bxi6jsi45alhmvvdgy4ly3zs-patch-shebangs.sh jivxp510zxakaaic7qkrb7v1dd2rdbw9-multiple-outputs.sh kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh kij07id1va6k6ki21q5qby55fc7av3yn-bootstrap-stage0-locale.drv m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh ngg1cv31c8c7bcm2n8ww4g06nq7s4zhm-set-source-date-epoch-to-latest.sh nq6fdrh9rxfx50wq1jicz0hvxkchx806-bootstrap-stage1-clang-wrapper-boot.drv pag6l61paj1dc9sv15l7bm5c17xn5kyk-move-systemd-user-units.sh wgrbkkaldkrlrni33ccvm3b6vbxzb656-make-symlinks-relative.sh wmknncrif06fqxa16hpdldhixk95nds0-strip.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv xyff06pkhki3qy1ls77w10s0v79c9il0-reproducible-builds.sh
+CA: text:sha256:03b2ixr21zffzgp83v7x8q1hvmbjxicknf535wn5hnsx3wjaxb03

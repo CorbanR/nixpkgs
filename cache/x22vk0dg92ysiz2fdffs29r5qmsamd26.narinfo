@@ -1,9 +1,0 @@
-StorePath: /nix/store/x22vk0dg92ysiz2fdffs29r5qmsamd26-perl5.38.0-CPAN-Meta-Check-0.014.drv
-URL: nar/1kvrif07bdpy734kaz24iabgr632jbd899hdxxlwvffrns29m9lh.nar.xz
-Compression: xz
-FileHash: sha256:1kvrif07bdpy734kaz24iabgr632jbd899hdxxlwvffrns29m9lh
-FileSize: 1108
-NarHash: sha256:1hwzw9hcn48cd850nyy06jmbhb2d91pd1gvp9ifqgqz8hcwy0ik4
-NarSize: 2664
-References: c0jaslrw3lpn8g45q96nyz4j86qsfjyy-CPAN-Meta-Check-0.014.tar.gz.drv l8g2z7ld1i63nfx29rvsv20dqcn1zpr2-bash-5.2-p15.drv nnzqmj4q6mhfjch8viqsbcfdrwl9zm7b-perl5.38.0-Test-Deep-1.130.drv nwy0x6wpgds9gdibz2bbskwlrlzgqrgw-bootstrap-stage1-sysctl-stdenv-darwin.drv vpnqz8y7xx5hbvljgrad2z914ndjhxfd-builder.sh zy21fipzsrrn3rc231m7nk6bjc65d7p0-perl-5.38.0.drv
-CA: text:sha256:1c7v3fpxrf4cyr7hn2h43lsva3ihizwmpzivms8fcnsf1q4rqyjw

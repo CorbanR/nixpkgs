@@ -1,0 +1,9 @@
+StorePath: /nix/store/1iyc7wagdpbwbc7g9c7a08qfxynsr2m1-libmalloc-116.50.8.tar.gz.drv
+URL: nar/1wppvsf190r5b9sz5ia0fra6083cxhhgk3il7j3wgnfd08c47r90.nar.xz
+Compression: xz
+FileHash: sha256:1wppvsf190r5b9sz5ia0fra6083cxhhgk3il7j3wgnfd08c47r90
+FileSize: 1476
+NarHash: sha256:1bkxhsbl5nk2magi08arb5lw895y7xw6kmy4yh3av98nkcy5kvyn
+NarSize: 3456
+References: 5w0vc855d00nrifm3vkmh37qsn58dgav-curl-8.6.0.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv sd1k3yj1bkaznkw4j7hqnm1psg6c74av-mirrors-list.drv
+CA: text:sha256:0nbrgbmvl8l6rr6x8fqg17b0am8wq0j2i17pw1l5mfvwrw5c7ap9

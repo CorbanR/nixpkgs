@@ -1,9 +1,0 @@
-StorePath: /nix/store/mvk8d2dlh51ddjbj03mligx41iq4x3qi-apple-framework-UIFoundation.drv
-URL: nar/0n0qkmnbb43fwdr63gmbbv40clxdw9bm37jq2vgms1i1mfqjrykq.nar.xz
-Compression: xz
-FileHash: sha256:0n0qkmnbb43fwdr63gmbbv40clxdw9bm37jq2vgms1i1mfqjrykq
-FileSize: 1092
-NarHash: sha256:07dqj6imv9r3a55gy9qg1418nq8ssbh8n9hkvp08hfblzks1zhyc
-NarSize: 2344
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv d5mn54hnbrc8y8p7kkj6d9j1d2hsnb0w-darwin-stubs-10.12.drv
-CA: text:sha256:02znzpha0b6xyjsq2jplkyl0p9hfrsl8h4cjhr6vy64sp0wm81c4

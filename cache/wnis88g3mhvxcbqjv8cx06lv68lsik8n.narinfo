@@ -1,0 +1,9 @@
+StorePath: /nix/store/wnis88g3mhvxcbqjv8cx06lv68lsik8n-swift-corelibs-foundation-private.drv
+URL: nar/06wqlv4zbwhgxwm5p18x2x5srg9hql6ikicinsd14aq6did99qbg.nar.xz
+Compression: xz
+FileHash: sha256:06wqlv4zbwhgxwm5p18x2x5srg9hql6ikicinsd14aq6did99qbg
+FileSize: 940
+NarHash: sha256:1q949xnawh46abp9xd0xs0qk9vkxpns9g8pcnpg0fw681lhiav3w
+NarSize: 2248
+References: 5y7804yaz45782vrmd8v5qh7hwd7vlxg-swift-corefoundation-unstable-2018-09-14.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:13pfnl67ksqxar5qxkqsndvws4xzf4pkgrps6vz74x8285z4ysm2

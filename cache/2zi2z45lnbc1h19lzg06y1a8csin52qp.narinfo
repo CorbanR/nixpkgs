@@ -1,9 +1,0 @@
-StorePath: /nix/store/2zi2z45lnbc1h19lzg06y1a8csin52qp-system_cmds-550.6.drv
-URL: nar/0sd8hq1939yfyybqz4alqc6x0j2q1gjxsq9fkf89xcnqbw3lyca8.nar.xz
-Compression: xz
-FileHash: sha256:0sd8hq1939yfyybqz4alqc6x0j2q1gjxsq9fkf89xcnqbw3lyca8
-FileSize: 2384
-NarHash: sha256:14s3bar9m1r1lgjajgl5igagvipncy4xpws4xssn7gqss2vd7219
-NarSize: 5720
-References: 217kg8cyzbi7blrz8nqglh35g8nmq1lk-system_cmds-550.6.tar.gz.drv 6cy65sxwjpsvkx45wflkppl7kmybc58w-apple-framework-IOKit.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv bsvl4sqjgs5asjgram502wh6vskhxaiz-swift-corefoundation-unstable-2018-09-14.drv kd5cxgknmnp5nib85k9fw4qbgzsyfnrk-Librpcsvc-26.drv l4913ihi39f7z1xcz5wv0b75cggmw0gv-openbsm-1.1.drv lakzibmqycz4mhxp0q4md5csd7fb3x9r-fix-implicit-declarations.patch ldfvg3ih6cqzwqllhfpp7fg8wd1yj3h4-apple-framework-OpenDirectory.drv r554mbmnikqpvjzicmwz29mg5dmmhj3x-libutil-47.30.1.drv spx0xy1sph3f262ckw6m2k7plwj8fjdd-openpam-20170430.drv
-CA: text:sha256:05vzcbfl7qaqmlh14px4md3vrcgkkd1rvvfcyi470nvx8hwqwf36

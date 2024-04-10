@@ -1,0 +1,9 @@
+StorePath: /nix/store/zj2a8wx6pdy50nfms8dcagdgwnhr7rs9-cctools-port-973.0.1.drv
+URL: nar/1jm62srxj8hcinr6ycsxkwaia1llf113r6rs1qc0ciba30syc1cv.nar.xz
+Compression: xz
+FileHash: sha256:1jm62srxj8hcinr6ycsxkwaia1llf113r6rs1qc0ciba30syc1cv
+FileSize: 2524
+NarHash: sha256:1gk90kms2ay41lrff10kgalwi5rcmivn7pdjkfb5xghldwnfgiyv
+NarSize: 7048
+References: 0073gs10q87rjkajqq76qjgybggpffwb-objc4-709.1.drv 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv 7ngby35f9m9b0x71rrf64vlf19a7hck2-darwin-memstream.patch 9hhq2gjfp57y0qldk1baw5c14l7sh905-source.drv av97mgizry68zs3764abq7lxh97rs7vl-autoreconf-hook.drv ddw8gss1nf0rg7ly5raxwwvs8gzwdrn8-libtapi-1100.0.11.drv ic7swv00n6krgph37d3443prr7pfrahq-memstream-hook.drv n0id31dvnfdabiaj8m4pzd2ba804bjvn-025899b7b3593dedb0c681e689e57c0e7bbd9b80.patch.drv pfn1rwb4d6dd1wf7pdwi2yld4zvqrp9j-autoconf-2.72.drv q2765xhwmjd98lfczqfd40h3vpm7hxrq-automake-1.16.5.drv qsayyrp7ivqsgbd2rl280xphygb0v9ih-install-shell-files.drv r9iy2wdkq3w0n1hbyg92c2sqg3vcbkhl-ld-ignore-rpath-link.patch v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh w2q8yxgjsk42yz3xk7kl7p36cpdgm67m-libtool-2.4.7.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv wxsr1fg140qvyd4x61msv9xayhz746am-4a734070cd2838e49658464003de5b92271d8b9e.patch.drv zr59kiajvksmks3vl1hja2ybix9z2zqk-ld-rpath-nonfinal.patch
+CA: text:sha256:15lrr31f4hf3fkzgayvicb4k9dnlvd98v5x883rfhr3d5iqrk2wn

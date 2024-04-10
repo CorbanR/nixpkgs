@@ -1,0 +1,9 @@
+StorePath: /nix/store/ndvx55zdjcq8580m2kscwr6hrcq87dm6-xcbuild-hook.drv
+URL: nar/1hmdb8z0sqf2j528wymqx6pp0l3m02q0m60fgjrib31lxa8j481s.nar.xz
+Compression: xz
+FileHash: sha256:1hmdb8z0sqf2j528wymqx6pp0l3m02q0m60fgjrib31lxa8j481s
+FileSize: 956
+NarHash: sha256:1d36ma0475iqkzxafdr7gksni13isrb58cbv4hrw5lqvgq01129w
+NarSize: 2208
+References: fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv mai7z7lpaw2mq4449lr8blqjrgd6iwi4-xcodebuild-0.1.2-pre.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh zldvl3s44wmf3azz9xdlpv9hw37q55hv-setup-hook.sh
+CA: text:sha256:0wyc4jdbhkrziabrm2x53f3n08wcx8gmprfx4mnq596iq4zvfr1h

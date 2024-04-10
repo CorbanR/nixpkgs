@@ -1,0 +1,9 @@
+StorePath: /nix/store/xibnnlrkvqljm8rinxhizih1l70p275k-cyrus-sasl-2.1.28.drv
+URL: nar/1qsm8cmdjvd62jygma7l8nw29ib83h73ixnfj17r7pzs3922snr0.nar.xz
+Compression: xz
+FileHash: sha256:1qsm8cmdjvd62jygma7l8nw29ib83h73ixnfj17r7pzs3922snr0
+FileSize: 1884
+NarHash: sha256:0y0wpc0ki67f5ca6bgqci4gxqlq406sn3jdlb27jsrxabrbdhxm6
+NarSize: 4584
+References: 0yha3804n7j78fpcb0mkzznyqd1vw35x-gettext-0.21.1.drv 4cs2xpz2bw1z5irmzcrymc0jidcpp1hd-cyrus-sasl-ac-try-run-fix.patch 5wvnw5cajazycmwq2j6s51c34xi8yzy4-fix-darwin-dylib-names-hook.drv 83adchnqgrwyrdh1phsrl4j43v3gwp8y-libkrb5-1.21.2.drv 97p08jaf00m8rxznl12imikj5spgpxkw-autoreconf-hook.drv a7h9blc584skw4cpzgic6jsfk3anpniq-libxcrypt-4.4.36.drv d33lm37ch6kvgikn6snpbidwhn2z13br-openssl-3.0.13.drv d832l7gigydlbixyqf590sdypy05650z-cyrus-sasl-2.1.28.tar.gz.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv pnpjlraan6n4dqkjg7l0p7fya248p7mf-db-5.3.28.drv rc50mpqyl5mbz1nvs7jhrvfg26vmfd4k-clang-wrapper-16.0.6.drv rw31j6fhikbpzqq8vmi1ai2qdd7aqxj2-prune-libtool-files.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv zbwcz77whdkkk8iqly5cps548chh87lg-cb549ef71c5bb646fe583697ebdcaba93267a237...dfaa62392e7caecc6ecf0097b4d73738ec4fc0a8.patch.drv
+CA: text:sha256:0ab1sdvsmi89dbazs10bmvzlvcfhik51l6bz8xyg1yc3dqyafx0q

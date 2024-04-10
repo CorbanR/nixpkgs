@@ -1,0 +1,9 @@
+StorePath: /nix/store/6k5rk91xglwv05wkplx1my1ws6il3mrz-apple-framework-UIFoundation.drv
+URL: nar/1kvsrms6b9jrn8092dn5yl905hlhjrr5173yshdg8rax9i0pr9rg.nar.xz
+Compression: xz
+FileHash: sha256:1kvsrms6b9jrn8092dn5yl905hlhjrr5173yshdg8rax9i0pr9rg
+FileSize: 1116
+NarHash: sha256:0z89cgn5jcjaq2rx1gkpdlsb6djrls0ch4isnhvs0yg5xjnf11n0
+NarSize: 2496
+References: 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0qvywvndfyllsn5yps3is71k2jdf5rph4n5j4xikfpi7rq0171ni

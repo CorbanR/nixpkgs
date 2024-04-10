@@ -1,9 +1,0 @@
-StorePath: /nix/store/ildqwl18s28np8r9d9jcjmkmqm47qwhx-ncurses-6.4.drv
-URL: nar/1pfwzf2wa6g0vdnvp62rzrlxa2r6wp5m3pbdhjra7vb3d6kliyzs.nar.xz
-Compression: xz
-FileHash: sha256:1pfwzf2wa6g0vdnvp62rzrlxa2r6wp5m3pbdhjra7vb3d6kliyzs
-FileSize: 1964
-NarHash: sha256:1bpmxgnpspvac1awix0gxnq2l0jkfpgcz7s9dxzpkqmml4hb3jcq
-NarSize: 5288
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 708x5k47a93c556c7cv6dpmqk101bamh-pkg-config-wrapper-0.29.2.drv azax4isp5al7xw03n3sabylvh8x277g5-gcc-wrapper-12.3.0.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv p5ji36b0k54am71754rxilkk9gvvzyjv-ncurses-6.4.tar.gz.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv
-CA: text:sha256:0dv9mc66bk5mirc8hdhgaz96l27bvqz3n5izmzyp2xfw23f2mydm

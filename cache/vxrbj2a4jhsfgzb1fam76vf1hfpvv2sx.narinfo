@@ -1,0 +1,9 @@
+StorePath: /nix/store/vxrbj2a4jhsfgzb1fam76vf1hfpvv2sx-apple-framework-DiskArbitration.drv
+URL: nar/0dwdm6kgs15vdigvyamiq5724dysjl7zrhwshpkr515mzm1qk5d4.nar.xz
+Compression: xz
+FileHash: sha256:0dwdm6kgs15vdigvyamiq5724dysjl7zrhwshpkr515mzm1qk5d4
+FileSize: 2076
+NarHash: sha256:1v9p82m88js5d2a4lir2crlwv58shp8ai11b82i1fm3dncsygs5k
+NarSize: 6624
+References: 2lpxd7sxr2mkcmq6ypx2xqmaisph5ng0-apple-framework-IOKit.drv 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v7jcqifji2sdni1bcvjnqqb66w31dx7i-MacOS_SDK-10.12.drv xgm4z1k5bcbw8466dajw7aryaym3wndw-print-reexports.drv
+CA: text:sha256:09n3hwmqz7dsib30r3aiyv9d0hxi2wlhffgklkh7z6ax0h8g39qp

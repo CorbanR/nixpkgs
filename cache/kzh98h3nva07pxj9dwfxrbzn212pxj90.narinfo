@@ -1,0 +1,9 @@
+StorePath: /nix/store/kzh98h3nva07pxj9dwfxrbzn212pxj90-audit-3.1.2.drv
+URL: nar/09xslhb2gdybj2wrng7i1ca2afk7b6qphvlkfhm7li4a8vq9vcky.nar.xz
+Compression: xz
+FileHash: sha256:09xslhb2gdybj2wrng7i1ca2afk7b6qphvlkfhm7li4a8vq9vcky
+FileSize: 1328
+NarHash: sha256:0cbvfiy3xg5iszbhn963b15wp1hrcyw3kg35n6vfjgriq0zgbswm
+NarSize: 3024
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 45l9md35nfh63qlkv9dblnzp20m2mi37-gcc-wrapper-13.2.0.drv j258giacjpfjm7wn8i2k8z115w3pl8gr-audit-3.1.2.tar.gz.drv lylpfbzq995452a9hdx8m3znax6s7292-linux-headers-6.7.drv m9fip76p4r65hlqmpcrlsp7q8g7k5d5b-swig-3.0.12.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv spryins4rzr9c14g7p1nhn4ly5aqm8nl-autoreconf-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh ylbfr7skliq9rwrdcscrs061j3kb8ys1-python3-3.11.8.drv
+CA: text:sha256:0gj084pnnd78w3p7ygrx4vv81rkxnccnmhj5a1w5ygwwzllivs2k

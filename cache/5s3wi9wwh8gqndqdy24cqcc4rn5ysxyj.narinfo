@@ -1,0 +1,9 @@
+StorePath: /nix/store/5s3wi9wwh8gqndqdy24cqcc4rn5ysxyj-libssh2-1.11.0.drv
+URL: nar/0ypf0bb1cfpz572wi5s0d413zp6pzrvj2gbvw5l3jny5za4hfpqy.nar.xz
+Compression: xz
+FileHash: sha256:0ypf0bb1cfpz572wi5s0d413zp6pzrvj2gbvw5l3jny5za4hfpqy
+FileSize: 1116
+NarHash: sha256:0cpbihn9rnsj2kwzmhn64l73jkm6j97ibk55varnrfy8lpgx3zv1
+NarSize: 2672
+References: 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv c68y517rrcaig5pzygi8h7pyxvxbvri2-libssh2-1.11.0.tar.gz.drv d33lm37ch6kvgikn6snpbidwhn2z13br-openssl-3.0.13.drv dbpslq9v4n3hrqphxpbf2a4smhggd2am-zlib-1.3.1.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv mf8knl8ljf0ia6c7fxy1mlqk2gbpca8y-CVE-2023-48795.patch v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1jjdr3gdiiw2pxyw5vd0x226hfi9b6c41f0bzscna5psxx2h384y

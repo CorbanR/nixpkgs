@@ -1,0 +1,9 @@
+StorePath: /nix/store/437lv53fld94zs8dzhq1va1qpnzxf3hg-libresolv-64.drv
+URL: nar/082pc7ddk97fvy902x4gkd99vnhk7yglpxmx0l71id619dflqwxx.nar.xz
+Compression: xz
+FileHash: sha256:082pc7ddk97fvy902x4gkd99vnhk7yglpxmx0l71id619dflqwxx
+FileSize: 1160
+NarHash: sha256:1dq2jhbgkh33a8mdkip6q2p7p6d53z58ffdz7jcazin0sjmknmjp
+NarSize: 2616
+References: j9d6pn50y7iyczn0l9mihmv8564vagnz-bootstrap-stage1-stdenv-darwin.drv nfs34wm7s7zagkg8kisdn8j058rpkac1-libresolv-64.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
+CA: text:sha256:18jvyqlyl8caqwmyxzvj8a1yy7phyxnb537wz5r9gihz6cin79fq

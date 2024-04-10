@@ -1,9 +1,0 @@
-StorePath: /nix/store/ni38in011jksdza7glwkrwi4hs265iv4-perl5.38.0-CGI-4.51.drv
-URL: nar/0mq35ynv2j6mn0rqjqxik7crdbgb536drm6jxwq5yy5bhpvly90q.nar.xz
-Compression: xz
-FileHash: sha256:0mq35ynv2j6mn0rqjqxik7crdbgb536drm6jxwq5yy5bhpvly90q
-FileSize: 1280
-NarHash: sha256:0388fblbsg7hwmbgzqq7ms22n75fzqvd0ajd9sm1yyk06kidqm5k
-NarSize: 3000
-References: 1czg684nc40dk6rhih8z0y5wff04zr7p-perl5.38.0-Test-Warn-0.36.drv 7y4ih91h8fqn9cq8l6zq32rzc6nh97zi-perl5.38.0-Test-NoWarnings-1.04.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv a3b75xw26112pph0kxxkgml2hn3xdlri-perl5.38.0-HTML-Parser-3.75.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv cf6kslz0q1bv5yr0ixvbwa8bpyrg7qsn-CGI-4.51.tar.gz.drv srd49blv8xsmwy01vkp1b7qgsz2ci9wr-perl5.38.0-Test-Deep-1.130.drv szz76xqzbb3i6fdyna5j9hqk1bj6mzhv-perl-5.38.0.drv vpnqz8y7xx5hbvljgrad2z914ndjhxfd-builder.sh
-CA: text:sha256:1z3ba0svcdrjrhkhcyss5dg87w481dqcmnd94kwixcqn7m43yjl1

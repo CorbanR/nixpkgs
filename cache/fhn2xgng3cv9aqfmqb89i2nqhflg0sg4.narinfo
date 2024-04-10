@@ -1,0 +1,9 @@
+StorePath: /nix/store/fhn2xgng3cv9aqfmqb89i2nqhflg0sg4-clang-16.0.6.drv
+URL: nar/0ppnszd85n5flq2yrrc652kfvjq8f1gm493nivz4zdvb6sbqdn8k.nar.xz
+Compression: xz
+FileHash: sha256:0ppnszd85n5flq2yrrc652kfvjq8f1gm493nivz4zdvb6sbqdn8k
+FileSize: 2064
+NarHash: sha256:0lj5y1frix91d44yis5rc6a5vg12lx4mn0igglh0hlz2b2s09bff
+NarSize: 4920
+References: 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv 5j9ci9whzlpwmlka08gspfqnw4mnlapf-ninja-1.11.1.drv bm0bv6xr1k57fl46q52h78d2qzrskg9s-gnu-install-dirs.patch bx6p2rkma3ws8m65xb3v16rw065jfdpx-python3-minimal-scproxy-3.11.8.drv d1d9w01hv4ys6pjvbkb48h5ykks08jw3-clang-src-16.0.6.drv fnv5wd44fbmj7y2l5rsvjjwlf1l9s5f0-purity.patch fzj1jsga4j5bbh0ydrbrmlifm5zbgf01-llvm-16.0.6.drv gg8747wkzyhi00w1g1nfqxvh4067q3q4-bootstrap-stage-xclang-stdenv-darwin.drv gxqzh9x4wmiv4jpbvla3z7i26zkkacqd-add-nostdlibinc-flag.patch pypqb574a0qipwj1941p342xcma7lah3-cmake-minimal-3.28.3.drv q5320zqgm5mps0aphvr7gfp1cqfvc9r1-clang-at-least-16-LLVMgold-path.patch.drv rjr3f45i0h67wn0cbv91s06xkh6wk7k0-fix-darwin-dylib-names-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh zkbh58ar2d4i1qmy5nf0wbx1aqk0f8mb-libxml2-2.12.6.drv
+CA: text:sha256:1sjqv9v3ylh8wr1j758k86ysnrnyf5dgx2jn60r805nfn47vvgx8

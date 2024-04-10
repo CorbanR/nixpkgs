@@ -1,0 +1,9 @@
+StorePath: /nix/store/sxn4qyg102f4mydjsb61hyxbdnj9psm5-auditable-cargo-1.76.0.drv
+URL: nar/0f468s9p948lkab2hapfmvzl87g1l3p9yx5dw01wxi6bmdpyvkqj.nar.xz
+Compression: xz
+FileHash: sha256:0f468s9p948lkab2hapfmvzl87g1l3p9yx5dw01wxi6bmdpyvkqj
+FileSize: 1120
+NarHash: sha256:1nbbq3qyvc5cc662ylp6mcj6v313vly6ywlaxka63bkwxnsvkivw
+NarSize: 2536
+References: fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv hh1lbi7pjnhj8xpn2x0nl5cbfhj8607i-cargo-auditable-0.6.2.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv k4paxvxz6bxdkz3h71r62hhcfvzjq0hs-make-binary-wrapper-hook.drv nfwxdpjsky78vqvf54g2kqrd42b98yx2-cargo-1.76.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:12xsrn84vvr5j0qbv91z2xj5921vk3mhfcdza5xgc95b5rwabmhn

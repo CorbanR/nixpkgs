@@ -1,9 +1,0 @@
-StorePath: /nix/store/4hcdpxjmr4nh625ry840g70xp00vdf5a-2.71-fix-race.patch
-URL: nar/0ira98zsj83m3042rih9jyfj5i39r16c8qjl6bc8kqlrak9qkqvs.nar.xz
-Compression: xz
-FileHash: sha256:0ira98zsj83m3042rih9jyfj5i39r16c8qjl6bc8kqlrak9qkqvs
-FileSize: 640
-NarHash: sha256:0hbazlllcb7jh9w1zs4c90snhxaw4w6nl8pgkygxiwlh3gga97fq
-NarSize: 936
-References: 
-CA: fixed:r:sha256:0hbazlllcb7jh9w1zs4c90snhxaw4w6nl8pgkygxiwlh3gga97fq

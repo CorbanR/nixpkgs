@@ -1,0 +1,9 @@
+StorePath: /nix/store/130hqj0k6p91ffc51hfmhydji8b9r94q-python3.11-psutil-5.9.8.drv
+URL: nar/03p1vdgj2fzvywqz5pzny9fayabyrvdgmsg50r7ir08ahy1i0nz0.nar.xz
+Compression: xz
+FileHash: sha256:03p1vdgj2fzvywqz5pzny9fayabyrvdgmsg50r7ir08ahy1i0nz0
+FileSize: 2056
+NarHash: sha256:17xqbdyljix5gyfppfky0ah9wdwv8lac6ykhw2x85iwig270n9g2
+NarSize: 4696
+References: 0x3g20m6kgifwd7n8cbfbapg54hr8zik-apple-framework-IOKit-11.0.0.drv 105p8790kpnd11chxn2p4pgcakq2mks0-psutil-5.9.8.tar.gz.drv 2varlhppvnsxqz2b2138j454whwcvfpl-apple-framework-CoreFoundation-11.0.0.drv 555ybabqdbygjpxnrpyayk4p4cv13xxz-python-remove-tests-dir-hook.drv 5ld1s9nynb9dj3scls7lk1iifaq83j4s-python3-3.11.8.drv 6iavp8j9fdc8gd7nfzp0v1539vwcpq9y-python-namespaces-hook.sh.drv 6xa95nqwcq4162bqb479jznqswlx87ck-stdenv-darwin.drv 90s56173xvn2lmnkxzb8d45wn468qr9a-ensure-newer-sources-hook.drv icbkhj7izjmv9p07azyy2nxdm4501q72-python-catch-conflicts-hook.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv jvr8x6hrw53iqjzj55b2sjyddj06rvnc-wrap-python-hook.drv ldy14lfxf8m3d3mxgrdf33fb3pprcgfq-python-output-dist-hook.drv nf5nnpijfv9xdkvbzslhil0q7q4ifjr1-python-imports-check-hook.sh.drv qg9n2y13gwgq1459r1cwz8m3lyai8z9k-python-remove-bin-bytecode-hook.drv qp0z18ffxj9aamasgnmxnkgkfgjffmnh-setuptools-setup-hook.drv r52fd7s3m8h338q43n1aiwarxlc9d354-pypa-install-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:19gzb3qvg0d8qinw2b5isxrmlzbdhr7l3n6vx77b4vpsp47s3hhn

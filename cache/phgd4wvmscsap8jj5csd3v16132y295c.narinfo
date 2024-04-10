@@ -1,0 +1,9 @@
+StorePath: /nix/store/phgd4wvmscsap8jj5csd3v16132y295c-apple-framework-AppKit.drv
+URL: nar/06lfqzh7cynpzlrib22jh8ja5q5nr5yj60k5n5xvwkm2714pr0yp.nar.xz
+Compression: xz
+FileHash: sha256:06lfqzh7cynpzlrib22jh8ja5q5nr5yj60k5n5xvwkm2714pr0yp
+FileSize: 2420
+NarHash: sha256:08i8hzk7vpzq9l92fa9x2pz65lbq5zs46647c685d7saxml0yavs
+NarSize: 7768
+References: 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh bps6br5qyg5w8kdmidkn3mpnbxw676wd-apple-framework-AudioUnit.drv cgb47rk9g8gdc3isr90jm2awyfaq50iz-apple-framework-QuartzCore.drv gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv ihxi1pqa05vwlj8v5nicmifz3233gqnd-print-reexports.drv njlahgk71mxnacv11cra72vimk4k1dd5-apple-framework-Foundation.drv nsjysdia0mknjxr55l003ar31g2j6r81-apple-framework-AudioToolbox.drv ny6aqzblxl4asjkj7v3g5afs0bn39v73-apple-framework-UIFoundation.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv wqszyhrhfbxdcvgn0lk5v9hzbch6dnlh-apple-framework-ApplicationServices.drv ysdarccdh2vf1fnkczhlmrqaqxq1ck96-MacOS_SDK-10.12.drv
+CA: text:sha256:15c8vlph28vk0hgcxrp7abp302am5c74a86xbi4wdzxz5kqvsfg3

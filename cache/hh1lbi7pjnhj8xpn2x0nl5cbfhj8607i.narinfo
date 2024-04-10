@@ -1,0 +1,9 @@
+StorePath: /nix/store/hh1lbi7pjnhj8xpn2x0nl5cbfhj8607i-cargo-auditable-0.6.2.drv
+URL: nar/18vchk9jhjd3r8swf1xqyvyp3r0wygwdp1zz09sibxrkj9q2hsnk.nar.xz
+Compression: xz
+FileHash: sha256:18vchk9jhjd3r8swf1xqyvyp3r0wygwdp1zz09sibxrkj9q2hsnk
+FileSize: 1560
+NarHash: sha256:05hr84x1495py5q8vx7vpvn9j0qy95rxqmb3gw6nnfspksmcbyi9
+NarSize: 3584
+References: 7kggj3xr01w0s796hyqdcjgfijaspm0c-rustc-wrapper-1.76.0.drv 82vrqvn4174rm8si80zpavn73lkvzgap-cargo-setup-hook.sh.drv 8klw5cahc23gbccnsjz131x6b9xw265b-source.drv b7gwzg0g1nmhmfgf27z69jqaqrvagbxs-libiconv-50.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv m7mw35bh5a1l5nlls8bjl6lfrybc6qh0-cargo-auditable-0.6.2-vendor.tar.gz.drv nk6b2ckznjic5wj8ddw0wgdrn4mbz3lg-patch-registry-deps nmrssxkysvrzc7b8k2awg0wrhmkazxva-cargo-check-hook.sh.drv pb79r21dyc10l8mrgr61cqaiywg7kphp-cargo-install-hook.sh.drv v24mj95yyy48c7cih962g0k5hlpcb3pj-cargo-build-hook.sh.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:0jrrr2yv1yw0lvs17q282y2d90rc9lp0s0mai2xhn50qjgz68r6l

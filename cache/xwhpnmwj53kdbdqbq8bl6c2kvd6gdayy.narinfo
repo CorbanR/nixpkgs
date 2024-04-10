@@ -1,9 +1,0 @@
-StorePath: /nix/store/xwhpnmwj53kdbdqbq8bl6c2kvd6gdayy-docbook-xsl-ns-1.79.2.drv
-URL: nar/01p2a8izzcpbxhv428czxgw7bpiihx4gyllq43kjsvv3zq2psq93.nar.xz
-Compression: xz
-FileHash: sha256:01p2a8izzcpbxhv428czxgw7bpiihx4gyllq43kjsvv3zq2psq93
-FileSize: 1228
-NarHash: sha256:114i0gbysiw3pc62b0j5j67p4rwx55bcqw58j5jc2zyysg04ixd0
-NarSize: 2672
-References: 2wv3f6wn8cly84i9b2j7212yksk60pah-find-xml-catalogs-hook.drv 5lsv830f3g4cpj6vl78yhx5phbk5af09-docbook-style-xsl-non-recursive-string-subst.patch.drv 6gaf14nnipws6z319x417xfk19amrxyd-catalog-legacy-uris.patch.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh g1zkk5zgxpi9888q4y7bd60dw83qrs65-07631601e6602bc49b8eac3aab9d2b35968d3e7a.patch.drv gh7dzwb7l1yl1svvicsxfbcijg4dsq3b-docbook-xsl-1.79.2.tar.bz2.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv pz6dilk87jrm5aa43h7brfdxz28brfg9-stdenv-linux.drv
-CA: text:sha256:144wmxxn55vw4r53x54466s5qqfvwkj6662vfmv4n56nqk26bw9y

@@ -1,9 +1,0 @@
-StorePath: /nix/store/a0q5dbr15lbqk5wnx0mwinp562g14zcy-tzdata2023c.tar.gz.drv
-URL: nar/0bd1hk3xn27b9ziqmw81fm178n8nyh6wawsgjqf7c7fz4czs2kk4.nar.xz
-Compression: xz
-FileHash: sha256:0bd1hk3xn27b9ziqmw81fm178n8nyh6wawsgjqf7c7fz4czs2kk4
-FileSize: 1312
-NarHash: sha256:1vx8p96ap5ldrnpq7snh1jz4k1ra3vl4j4c0f7h3dcap31l3f72n
-NarSize: 2976
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh i8a31hfv8pz9l0z1y7iimdl6h04dga75-stdenv-linux.drv lr82zvprmf5m7q1p5hq0kmgd3645w3dx-curl-8.3.0.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv zj04va6kfr8j44f34ya6ng6w2pdm87jg-mirrors-list.drv
-CA: text:sha256:1v5hqipmjw99739c87f8fh8q1hyds5bnlhvldbk6mdaq50ga4b2i

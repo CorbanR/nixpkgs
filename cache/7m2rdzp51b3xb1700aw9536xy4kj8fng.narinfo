@@ -1,9 +1,0 @@
-StorePath: /nix/store/7m2rdzp51b3xb1700aw9536xy4kj8fng-mailcap-2.1.53.drv
-URL: nar/05d7hhh9b8zh65an4k7ccb73ch9am0gqh51ji5xsrpqhdr434ips.nar.xz
-Compression: xz
-FileHash: sha256:05d7hhh9b8zh65an4k7ccb73ch9am0gqh51ji5xsrpqhdr434ips
-FileSize: 964
-NarHash: sha256:099d4i42iss402jjwqrm7jrj4vpi6f927gjdl4ahpgr3gshymrw3
-NarSize: 2152
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv akx85vklg2fbm0dniw6xh3lzcip98by5-stdenv-darwin.drv wx16wiz75nfxs8d4fr2smph8i38dzgx0-mailcap-2.1.53.tar.xz.drv
-CA: text:sha256:119z42i8rplk7y09v6lq860agr7pjhsq8ipwipd9s0ds7899kv92

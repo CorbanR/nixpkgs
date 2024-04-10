@@ -1,0 +1,9 @@
+StorePath: /nix/store/nn4bdvhpm4qck0y4n89jkq7himhgs1h8-gnutls-3.8.4.drv
+URL: nar/1kxhzb3j4hw05k6nkx39dq58dyzfqadjf66icn63xk1vfarbl3xj.nar.xz
+Compression: xz
+FileHash: sha256:1kxhzb3j4hw05k6nkx39dq58dyzfqadjf66icn63xk1vfarbl3xj
+FileSize: 2912
+NarHash: sha256:1a1q7mb518y4hxbqyj99pf567pbnc6b5z4w3kafpigaxzcxriry8
+NarSize: 6600
+References: 00w9bq2ndkwm6mhq0a36jmf4qkc185qp-autoconf-2.69.drv 0yha3804n7j78fpcb0mkzznyqd1vw35x-gettext-0.21.1.drv 3jdgbkigxn0m3g0f1vgr7qdg563670gq-unbound-1.19.2.drv 85n664h6pbca3cbjnnsjfyjw3ayf5li5-libunistring-1.1.drv b7gwzg0g1nmhmfgf27z69jqaqrvagbxs-libiconv-50.drv caqvkvcz4vzxg4dcvvb315nfshpk1wr9-apple-framework-Security.drv d4yp0g6c0dkyxryna9nagmy5ziginj59-revert-dlopen-compression.patch.drv dbpslq9v4n3hrqphxpbf2a4smhggd2am-zlib-1.3.1.drv fb56szw1cn21s5py4av2vnc7rjxbna7w-nix-ssl-cert-file.patch fbp1x0f5yyinmdqklw66y0q1icxqq9qq-automake-1.16.5.drv fp6s1928vwa05j940z87j9sc5mnx4hp0-libtasn1-4.19.0.drv h1wfrbdixc8za0y57kq45ndvnb933m45-nettle-3.9.1.drv hikzccyzli0sna84sv2j5azbpxrhixk8-lzip-1.24.1.drv hvszlkzml88krs99xd4ks3lv7vqljbnz-lzo-2.10.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv imxny7nz7pnb9riagprwi1vmxpn5vxfh-perl-5.38.2.drv kblkfwgw33gdjdmchmqg1wql4chi73ia-p11-kit-0.25.3.drv kjrzapfa7b2fcqwjchjhfqz475r6f1qs-libidn2-2.3.7.drv m23p5vj11hb3p170yk763mcgsjka82id-gnutls-3.8.4.tar.xz.drv rh6w7793dszm5xf3a2m82x155b981m1k-texinfo-7.0.3.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wfnw2gdabjyr24qjwrwa9rs2p7da1mc8-dummy.crt x53pwcgq3wqsxzf8cr9ywia2zh5s6h63-pkg-config-wrapper-0.29.2.drv y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv ypkf9kas8jdb5qhrmwi347va5cvmn9pl-gmp-with-cxx-6.3.0.drv yy21hvs7hpwm2g5ksbk1mxbq8kmqnaz2-dns-root-data-2023-11-27.drv
+CA: text:sha256:05c2rrxyhjj76ynkrhdymgqv9k2xbrgcx5aq3d014pzgifj8i536

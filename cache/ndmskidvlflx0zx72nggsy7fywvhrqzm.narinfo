@@ -1,9 +1,0 @@
-StorePath: /nix/store/ndmskidvlflx0zx72nggsy7fywvhrqzm-expat-2.5.0.drv
-URL: nar/0hrzdq0nap9kl77sddid2nz1j70imyz13gm6vsqfinpiy98i25sh.nar.xz
-Compression: xz
-FileHash: sha256:0hrzdq0nap9kl77sddid2nz1j70imyz13gm6vsqfinpiy98i25sh
-FileSize: 916
-NarHash: sha256:0f536vgi83d1h44739qwq2dpvjn21dbk2z0ncakgp2wr525yj3f0
-NarSize: 2056
-References: 0ywib4ygzvcwl488462js89r97iah00s-expat-2.5.0.tar.xz.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh ks6kir3vky8mb8zqpfhchwasn0rv1ix6-bootstrap-tools.drv m97ywjfd7x2dp4d1m0000f42ldhijnsf-bootstrap-stage2-stdenv-linux.drv
-CA: text:sha256:0axmdj6piy8k3yzxinq3fzmsvsjk89wna2mpcj7m80my4alx7mmv

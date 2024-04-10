@@ -1,0 +1,9 @@
+StorePath: /nix/store/0svgag4i7vzj2w4ciyv46acidlazw9mk-lld-16.0.6.drv
+URL: nar/1pvw9im6467y6q54pw18hi5577fgmm9p58v4sbrvlplfd1n7in9z.nar.xz
+Compression: xz
+FileHash: sha256:1pvw9im6467y6q54pw18hi5577fgmm9p58v4sbrvlplfd1n7in9z
+FileSize: 1372
+NarHash: sha256:1j9zrshs31ff1ps12q4c5yad452rfjadxq7ffyvh4lgp6yi772cs
+NarSize: 3168
+References: 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv 5j9ci9whzlpwmlka08gspfqnw4mnlapf-ninja-1.11.1.drv 9n1ra2lsgigni16j00nhh2v0zfrq4mwi-libxml2-2.12.6.drv bn8iwg2vsw2zfqv9xnmdfziibsj3jc3d-gnu-install-dirs.patch frn3apvz2bz6lk9srbji0rxiqlrkr1g6-add-table-base.patch im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kzckb5qmwh08p02ha81x764qbrgbxpsv-llvm-16.0.6.drv pypqb574a0qipwj1941p342xcma7lah3-cmake-minimal-3.28.3.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh ypqfwvhd5zas1m2z4y9xvih364xkbgk2-lld-src-16.0.6.drv
+CA: text:sha256:0vr6c7hk4l7bvj2jgs88m77hyn1f7k5cadmx9519bls9fnsl4d66

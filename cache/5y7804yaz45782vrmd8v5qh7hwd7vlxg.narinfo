@@ -1,0 +1,9 @@
+StorePath: /nix/store/5y7804yaz45782vrmd8v5qh7hwd7vlxg-swift-corefoundation-unstable-2018-09-14.drv
+URL: nar/0adn5vh79pcgax0kwsiym86rs4xslyls9z64rhr8cnmf3sfrzp51.nar.xz
+Compression: xz
+FileHash: sha256:0adn5vh79pcgax0kwsiym86rs4xslyls9z64rhr8cnmf3sfrzp51
+FileSize: 2404
+NarHash: sha256:0y20ygqzrm9m3x4f9hq6p12qmiczrgiig4a237yck3np8ls94lj2
+NarSize: 5856
+References: 1c8snjq86c5aazjbc334wg1hs36ixfvw-0005-Fix-framework-installation-path.patch 34mamaj6n15kp2r5nldim9s44hzxzbf5-0008-Dont-link-libcurl.patch 53hnzfibqndnbs0mh19h9acpy70pximy-0007-Use-nixpkgs-icu.patch 5mjnhgwr0iykix1spnybb9zry61g2vhi-0004-Fix-Darwin-cmake-build.patch 8afz94i1dy5l8vvp6ym57l82w94snk55-libdispatch-442.1.4.drv 8qbxpi8ffbi1awbp59xbjgixx6r67mrb-objc4-709.1.drv 9n1ra2lsgigni16j00nhh2v0zfrq4mwi-libxml2-2.12.6.drv a62slfka87wcx99ijiq0khsnzac18460-icu4c-73.2.drv afify5w784y82mm2ipj75zkrlm14zihw-0006-System-CF-framework-compatibility.patch afwqxlr1abxy2c2b9g5cdn9mbq2c891p-python3-minimal-3.11.8.drv cihjsncyvhl1zphr2ikcpz89bzp658s1-launchd-842.92.1.drv ckhd33f656hjrgw49ijrkky8iym77g1r-0002-Add-missing-launchd-header.patch im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv k2gpzcab2w77f1q7cz4j38z1jgc6gajn-0003-Fix-incompatible-pointer-conversion.patch l3173a1m6qmzykb4c0arl1m04phb1c53-0001-Add-missing-TARGET_OS_-defines.patch nsayhkrm2i9v023fdlgzgi29ry77xilq-CFSystemDirectories.c.drv v2arpy81riwr33kjdbv09wn10y8vch0l-source.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wp4an4j45ccfbqxh1w5m2rfbak2xzgw7-cmake-3.28.3.drv x53pwcgq3wqsxzf8cr9ywia2zh5s6h63-pkg-config-wrapper-0.29.2.drv xf682ivbcfd0ibr5qyr99nb2c9j3hwzi-pure-corefoundation-hook.sh y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:1gbms37dj05iwyh2n1d2ca4198pd7i65j16dr36nlrm2v92xwvyg

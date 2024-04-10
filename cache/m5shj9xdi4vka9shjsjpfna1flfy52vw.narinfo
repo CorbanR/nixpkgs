@@ -1,0 +1,9 @@
+StorePath: /nix/store/m5shj9xdi4vka9shjsjpfna1flfy52vw-libnet-3.15.tar.gz.drv
+URL: nar/10l31nn4y0y349m4b1zgcp1y3rw44i2v0x2x05v28nv9vmbfp3n5.nar.xz
+Compression: xz
+FileHash: sha256:10l31nn4y0y349m4b1zgcp1y3rw44i2v0x2x05v28nv9vmbfp3n5
+FileSize: 1448
+NarHash: sha256:0c6fr192smpjy20n5dxjkdzv0ly7sf0pwhda9is6yyv9jp64vwh9
+NarSize: 3360
+References: 5w0vc855d00nrifm3vkmh37qsn58dgav-curl-8.6.0.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv g0gn91m56b267ncx05w93kihyqia39cm-builder.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv sd1k3yj1bkaznkw4j7hqnm1psg6c74av-mirrors-list.drv
+CA: text:sha256:0kvigay5a9f3xrysf3423x4iv0a9d6s83wvs5jxpq0rzl9anmkmn

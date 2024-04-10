@@ -1,9 +1,0 @@
-StorePath: /nix/store/7cxs3nm9dfz6y39fzic41lii1jj9bry9-sharutils-4.15.2-Do-not-include-lib-md5.c-into-src-shar.c.patch.drv
-URL: nar/1i7gwg7bp38awjrpr0r6af0jlyyfdb9yg1psfr6nqq6mg1w6j9sl.nar.xz
-Compression: xz
-FileHash: sha256:1i7gwg7bp38awjrpr0r6af0jlyyfdb9yg1psfr6nqq6mg1w6j9sl
-FileSize: 1928
-NarHash: sha256:0p9dnbp2i9vfj1ica9ns7hlj27lyh9q2d6lrifv8al802xhxszlp
-NarSize: 4672
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh i8a31hfv8pz9l0z1y7iimdl6h04dga75-stdenv-linux.drv lr82zvprmf5m7q1p5hq0kmgd3645w3dx-curl-8.3.0.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv vryskm77rszka6hjmzn6g057c4jli8my-patchutils-0.3.3.drv zj04va6kfr8j44f34ya6ng6w2pdm87jg-mirrors-list.drv
-CA: text:sha256:18m202f5r78iykcygfh70vlknkiwff0pxaic4af357bj283i5xzx

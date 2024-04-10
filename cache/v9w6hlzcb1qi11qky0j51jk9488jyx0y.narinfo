@@ -1,9 +1,0 @@
-StorePath: /nix/store/v9w6hlzcb1qi11qky0j51jk9488jyx0y-001-only-add-iconv-to-pc-file-if-needed.patch.drv
-URL: nar/0vsvfjh1xfbfxmlgxnmgdx6a5xi2gz96hla70arqny76s6jvn29m.nar.xz
-Compression: xz
-FileHash: sha256:0vsvfjh1xfbfxmlgxnmgdx6a5xi2gz96hla70arqny76s6jvn29m
-FileSize: 1920
-NarHash: sha256:1cx99h77vrrhdq8aysa4xkm5ii37vlj1qbmmk5l151vkfh8qp1l8
-NarSize: 4608
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh i8a31hfv8pz9l0z1y7iimdl6h04dga75-stdenv-linux.drv lr82zvprmf5m7q1p5hq0kmgd3645w3dx-curl-8.3.0.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv vryskm77rszka6hjmzn6g057c4jli8my-patchutils-0.3.3.drv zj04va6kfr8j44f34ya6ng6w2pdm87jg-mirrors-list.drv
-CA: text:sha256:0vglf5441n32llfhqfa9fw7s0dfakphxh8bs8qvkzlbwj68dxdlq

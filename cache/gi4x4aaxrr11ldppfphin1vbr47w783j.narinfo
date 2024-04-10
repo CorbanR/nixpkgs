@@ -1,9 +1,0 @@
-StorePath: /nix/store/gi4x4aaxrr11ldppfphin1vbr47w783j-apple-framework-ImageIO-11.0.0.drv
-URL: nar/0bjv3cvdqiq28z1cv5nnav2yiyyd4gr3qbqf40mznb0380ybigri.nar.xz
-Compression: xz
-FileHash: sha256:0bjv3cvdqiq28z1cv5nnav2yiyyd4gr3qbqf40mznb0380ybigri
-FileSize: 1436
-NarHash: sha256:1kfq9n2lfzf2an8as3zz5qy9iq8clsbzrwg8xch52wq6ycini8sg
-NarSize: 3848
-References: 2r3sfgwa6l0wr8mr6jzaqvg7nh66pyrn-MacOSX-SDK-11.0.0.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv adf04syvigj8358xcxhprmxw3g8yfi37-apple-framework-CoreFoundation-11.0.0.drv dkmxr0h01w8vs7540xhjmn8p4hcm8rky-apple-framework-CoreFoundation-11.0.0.drv vsw6r6ksal23x6x88y69idxf2dsw3a6s-apple-framework-CoreGraphics-11.0.0.drv w12mifg34dx2l90mdc7gq9qirc9hn979-stdenv-darwin.drv yfijg7pa84mjm43g5948fbnp9qb4wp83-rewrite-tbd-unstable-2023-03-27.drv
-CA: text:sha256:07msgdyh70p6w2mk6r1wynslzn355vaqq0z1216ccl4b0a52hf8v

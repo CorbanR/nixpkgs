@@ -1,0 +1,9 @@
+StorePath: /nix/store/9pnk7j1ssg6pfc1fbi75k70gsbvcqh7y-apple-framework-Metal.drv
+URL: nar/1dwrvc4v6ac1fp7z6m6gjk10q06shddxfk8sbvq7w0yskmhhmiyv.nar.xz
+Compression: xz
+FileHash: sha256:1dwrvc4v6ac1fp7z6m6gjk10q06shddxfk8sbvq7w0yskmhhmiyv
+FileSize: 1980
+NarHash: sha256:1amdmgz3lavjbsikdalcvxqlxhhs2hj358n37zx9s2y9y831w3b1
+NarSize: 6216
+References: 44drw7fqybpz5xjawlk0aqd15iyk41yf-MacOS_SDK-10.12.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv s6217j4bn9id4a3fwzq42a6z5h7ra58l-print-reexports.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y26gr8ihc5dcam2n59qknhj47caj8gk8-stdenv-darwin.drv
+CA: text:sha256:0dhz27py6wz52p2a3y2yv3d763g4xdnxch137dia0ijpc6vlmamc

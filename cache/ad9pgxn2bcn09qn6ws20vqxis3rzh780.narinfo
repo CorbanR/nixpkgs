@@ -1,0 +1,9 @@
+StorePath: /nix/store/ad9pgxn2bcn09qn6ws20vqxis3rzh780-python3.11-bootstrap-build-1.1.1.drv
+URL: nar/0f4wm6smi4wg941x685d393cl82xjca0hnqz9n9i8dvqfsmlhm0c.nar.xz
+Compression: xz
+FileHash: sha256:0f4wm6smi4wg941x685d393cl82xjca0hnqz9n9i8dvqfsmlhm0c
+FileSize: 1500
+NarHash: sha256:184wl0w9rr5m2agc5xa3h9hv82ws80sxxiklj8xbsyds5zcnyrhh
+NarSize: 3856
+References: 15m49b9chylnmizphxavvzazp93vi6ll-python3.11-bootstrap-flit-core-3.9.0.drv 1x8m520lxi7k8mi14ags76cgad318nja-python3-3.11.8.drv dn8vdcv7xyzd4yrvxmm23frymxawfcc1-python3.11-bootstrap-tomli-2.0.1.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv jpgvr7a569z24b7lypgxa1vi91cj5jx2-source.drv nikz0mniam7c55nr0narzf2b1ib8gmf1-python3.11-bootstrap-packaging-24.0.drv q07kh8k2j1xszg173w019hnm33hp44yj-python3.11-bootstrap-installer-0.7.0.drv ql55giz36770a6fm895bzdivfpklj30s-make-shell-wrapper-hook.drv rgw5snd7zcdpmvy0xym01j6yzh78zbqs-python3.11-bootstrap-pyproject-hooks-1.0.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh w98pydy8vbj8h3qc9w383ryivz4wqknk-bootstrap-stage3-stdenv-darwin.drv
+CA: text:sha256:19is6xc7pzj0vz55z9bwm1amrrglp2gclp5f3323jy0976vhddbk

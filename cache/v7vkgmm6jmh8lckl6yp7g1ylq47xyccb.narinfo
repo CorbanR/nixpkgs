@@ -1,0 +1,9 @@
+StorePath: /nix/store/v7vkgmm6jmh8lckl6yp7g1ylq47xyccb-SDKSettings.json.drv
+URL: nar/0kdsxm3w6bbvja95c65pqyfwpvwrbqb8b24nlwggrhnxnjvcppf2.nar.xz
+Compression: xz
+FileHash: sha256:0kdsxm3w6bbvja95c65pqyfwpvwrbqb8b24nlwggrhnxnjvcppf2
+FileSize: 1080
+NarHash: sha256:1iy3s5mzasqzznzpzdp6x4j5lwv77clyxl6zw7372qk2r27q69zs
+NarSize: 2424
+References: fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:08dj187r5r0phb4c7qhgx3ag6a8jb72q5r25vqpgidzf4qhlz915

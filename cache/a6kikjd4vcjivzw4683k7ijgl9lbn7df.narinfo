@@ -1,9 +1,0 @@
-StorePath: /nix/store/a6kikjd4vcjivzw4683k7ijgl9lbn7df-avoid-translation-fallout-from-lexgrog-fix.drv
-URL: nar/0czslpqknf5idkq8p0iwnliz18wvd7hfpx29bxm5qhzic4p03cim.nar.xz
-Compression: xz
-FileHash: sha256:0czslpqknf5idkq8p0iwnliz18wvd7hfpx29bxm5qhzic4p03cim
-FileSize: 1932
-NarHash: sha256:0msr9yd6nvrjjpbw2g0clyjf0qq8fddkhyfpbqrb7nb6k2ccn1l0
-NarSize: 4800
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh p4jpyr1vsixxl6sbkfy0r0398wwmqbci-bootstrap-stage0-stdenv-darwin.drv pfc1kmyhx8lkwakqlc0yarb8p5nldl4f-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv zkjblcpkkryd3lydvrysrnc6gwgp4dlw-patchutils-0.3.3.drv
-CA: text:sha256:1jv1fij1m43z4gzsh2d3ljx1mmgql88v1nirwyqpzghgh25arph3

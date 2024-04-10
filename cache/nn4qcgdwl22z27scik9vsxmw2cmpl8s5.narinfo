@@ -1,0 +1,9 @@
+StorePath: /nix/store/nn4qcgdwl22z27scik9vsxmw2cmpl8s5-gnumake-4.4.1.drv
+URL: nar/1ihn2jnkpsjvylvdyxirv1wr6z1lhrviwai220w9wgdmicpwxhp0.nar.xz
+Compression: xz
+FileHash: sha256:1ihn2jnkpsjvylvdyxirv1wr6z1lhrviwai220w9wgdmicpwxhp0
+FileSize: 980
+NarHash: sha256:0xk4cvxn3hbrxj27fhdzsffmka6v5gng19wkvxq1s2l9vn2jpgql
+NarSize: 2504
+References: 12l2v3kmacnpmx14p2345kk41fpv31rw-separate-debug-info.sh 2k52bklbjhhq47dn35gm833vlh06fgfn-0001-No-impure-bin-sh.patch 6cc64ayl3fd2nc28ffw47cqsqi2bg1sn-0002-remove-impure-dirs.patch cxh8cwlp0z4a7xl6bk7zsqr7ci1hzdq6-make-4.4.1.tar.gz.drv grlmm1f5z4lnjl21xxq4byrbk5slb35w-bootstrap-stage4-stdenv-linux.drv h3nkdqxk105rmz1i7ckj2swnj77h8fmr-bootstrap-tools.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:10lsggvrfn43pg4x7y947sp2s0vjq2lrfi3yk2wvd6jh8vkj9r01

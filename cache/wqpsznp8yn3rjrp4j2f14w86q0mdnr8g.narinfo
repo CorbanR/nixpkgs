@@ -1,0 +1,9 @@
+StorePath: /nix/store/wqpsznp8yn3rjrp4j2f14w86q0mdnr8g-python3.11-pystemmer-2.2.0.drv
+URL: nar/14b5gqvciq1h2md8z7gpk08axqlj7dpanxpw4qs98sk6ijvl5w2q.nar.xz
+Compression: xz
+FileHash: sha256:14b5gqvciq1h2md8z7gpk08axqlj7dpanxpw4qs98sk6ijvl5w2q
+FileSize: 2160
+NarHash: sha256:1ii9iixzhhc8rvhji6rpznkg9z849d7p79d3lqhhd0rn46jwjxvc
+NarSize: 5240
+References: 1x8m520lxi7k8mi14ags76cgad318nja-python3-3.11.8.drv 46d08420bh83lij55cbj0rxpd3g290i6-python-imports-check-hook.sh.drv 562s7fm1vzk7jqvvlnpy3k0ryq61mhxr-setuptools-setup-hook.drv 6m18h15mydpx5ms768mmvxgnyfdhkqih-2f52b4b2ff113fe6c33cebe14ed4fd4388bb1742.patch.drv 7flcgadzsl7pidysz7y2j01fr1szmkad-python-namespaces-hook.sh.drv 9wlb7c2kx4dsrs5kn875zx8wnka3s998-setuptools-check-hook.drv bjpx97apv0lncbr68zwg5x3y3f6idhiw-libstemmer-2.2.0.drv bpasqnadfnkxblixjgi13z1dq6dnzjp3-pypa-install-hook.drv dmczbdk4h75yx2iyvgsvznc9cq247xg7-wrap-python-hook.drv hxaax8irvw5m0dlj28xry5na9ibcdbpy-python-catch-conflicts-hook.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kzhraibfkbrwq2gz1r94yk1n8bq6y94d-python-remove-bin-bytecode-hook.drv nhvkqc51b2q2hczc13v377paib7pfxb2-b2826f19fe8ba65238b5f3b4cee7096a698f048e.patch.drv q83sj619ajvqprys31l5spv45glvw0kp-source.drv r8b1jhz3g9finh2vybwwj21w5h4hwf90-python3.11-cython-0.29.36.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vvpk5gcslwkzmnhfkz3s2nii7bqfi5sb-python-remove-tests-dir-hook.drv w98pydy8vbj8h3qc9w383ryivz4wqknk-bootstrap-stage3-stdenv-darwin.drv wa0m792wbiv7k1im2xz2n83vrbpr3yxh-ensure-newer-sources-hook.drv zwhrsbig75c0qsy6bcf4n4wsv9ixmsy2-python-output-dist-hook.drv
+CA: text:sha256:09jq3m3wx01y76yqqg32jxi8hmdrvj4a4vx5lk28hsmamfnrbzyh

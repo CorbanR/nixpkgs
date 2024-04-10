@@ -1,0 +1,9 @@
+StorePath: /nix/store/c51n6w0nzy4k5dc339jrx9vmd82y3l3r-python3.11-snowballstemmer-2.2.0.drv
+URL: nar/13qr8i7wi7fvibga8jbykvxkibm8vxqgzs14z24vqmpb5k3p3sv7.nar.xz
+Compression: xz
+FileHash: sha256:13qr8i7wi7fvibga8jbykvxkibm8vxqgzs14z24vqmpb5k3p3sv7
+FileSize: 1744
+NarHash: sha256:0zg25mfv5hqfa0plms81pv8xgf23s1rp1m5qsmwblc7r5xny4nzv
+NarSize: 4200
+References: 1x8m520lxi7k8mi14ags76cgad318nja-python3-3.11.8.drv 46d08420bh83lij55cbj0rxpd3g290i6-python-imports-check-hook.sh.drv 562s7fm1vzk7jqvvlnpy3k0ryq61mhxr-setuptools-setup-hook.drv 5dqrsrcl0j65mr0ix3xfy6s5rggarfjd-snowballstemmer-2.2.0.tar.gz.drv 7flcgadzsl7pidysz7y2j01fr1szmkad-python-namespaces-hook.sh.drv bpasqnadfnkxblixjgi13z1dq6dnzjp3-pypa-install-hook.drv dmczbdk4h75yx2iyvgsvznc9cq247xg7-wrap-python-hook.drv hxaax8irvw5m0dlj28xry5na9ibcdbpy-python-catch-conflicts-hook.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kzhraibfkbrwq2gz1r94yk1n8bq6y94d-python-remove-bin-bytecode-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vvpk5gcslwkzmnhfkz3s2nii7bqfi5sb-python-remove-tests-dir-hook.drv w98pydy8vbj8h3qc9w383ryivz4wqknk-bootstrap-stage3-stdenv-darwin.drv wa0m792wbiv7k1im2xz2n83vrbpr3yxh-ensure-newer-sources-hook.drv wqpsznp8yn3rjrp4j2f14w86q0mdnr8g-python3.11-pystemmer-2.2.0.drv zwhrsbig75c0qsy6bcf4n4wsv9ixmsy2-python-output-dist-hook.drv
+CA: text:sha256:179ksric1awh7db1ayrj0h0qdz3w1x9m44h76p9y5yvlhzndnx3l

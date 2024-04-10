@@ -1,0 +1,9 @@
+StorePath: /nix/store/2lfwwh8m8wmgqfi7ysq656jy0ik2dc7h-python3.11-setuptools-scm-8.0.4.drv
+URL: nar/0rf2rii3lf702n691z6f0s924y91sssfqm5cy9bkx6b7d8nfj5z2.nar.xz
+Compression: xz
+FileHash: sha256:0rf2rii3lf702n691z6f0s924y91sssfqm5cy9bkx6b7d8nfj5z2
+FileSize: 1988
+NarHash: sha256:1bsmiy922dmk5cfcfz5s867jmhkd1jlfyss03h3azxr8bbjrmp9b
+NarSize: 4944
+References: 06vg5m4hyk8qsw92zwpvrc658yr5i9lx-python3.11-packaging-24.0.drv 1x8m520lxi7k8mi14ags76cgad318nja-python3-3.11.8.drv 46d08420bh83lij55cbj0rxpd3g290i6-python-imports-check-hook.sh.drv 7flcgadzsl7pidysz7y2j01fr1szmkad-python-namespaces-hook.sh.drv b6c3y21lhik4fm1q26sd9aaz3m3l8995-python-runtime-deps-check-hook.sh.drv bpasqnadfnkxblixjgi13z1dq6dnzjp3-pypa-install-hook.drv dmczbdk4h75yx2iyvgsvznc9cq247xg7-wrap-python-hook.drv hxaax8irvw5m0dlj28xry5na9ibcdbpy-python-catch-conflicts-hook.drv i3xdbk84acll52bvqrph50lrfs7gqh7i-setuptools-scm-8.0.4.tar.gz.drv i8cwdyy6qizqj4g531jyb34wcf03qkii-setup-hook.sh im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv jpx5w88lm7p8gn1xzisy6zds14ibw9r7-python3.11-typing-extensions-4.10.0.drv kzhraibfkbrwq2gz1r94yk1n8bq6y94d-python-remove-bin-bytecode-hook.drv r9ac0v66fi0x1xilq089qmj5sgwi3vkh-pypa-build-hook.sh.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vvpk5gcslwkzmnhfkz3s2nii7bqfi5sb-python-remove-tests-dir-hook.drv w98pydy8vbj8h3qc9w383ryivz4wqknk-bootstrap-stage3-stdenv-darwin.drv wa0m792wbiv7k1im2xz2n83vrbpr3yxh-ensure-newer-sources-hook.drv yxnm9z8yqd3cih441y92jxbc2cd6d53m-python3.11-setuptools-69.1.1.drv zwhrsbig75c0qsy6bcf4n4wsv9ixmsy2-python-output-dist-hook.drv
+CA: text:sha256:0vmf5z8mdi66mh214glqjr44y8n09y2146jq3jxnad4hjx9j4lk2

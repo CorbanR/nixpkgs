@@ -1,0 +1,9 @@
+StorePath: /nix/store/224d8g9mh0rs7yhz2ym99xbiq6cg3zvk-python3.11-bootstrap-installer-0.7.0.drv
+URL: nar/02qnil0kv56i5d2sblf079sf3a5b1r4gsv0i7zq32a8pk8bdy18y.nar.xz
+Compression: xz
+FileHash: sha256:02qnil0kv56i5d2sblf079sf3a5b1r4gsv0i7zq32a8pk8bdy18y
+FileSize: 1140
+NarHash: sha256:0zkrjzq08xzrgd462sk9xw7qvkmj6hlkrbnfzvm8s7b6smr0ysri
+NarSize: 2704
+References: 0v13wq04r269lp91pzcik11il8zlcn28-bash-5.2p26.drv 1306h65lkvcxrzdvadgr6b6iv6gga495-source.drv 77rsvl37xp174nvk2wh9bxla5jzj7bca-bootstrap-stage1-sysctl-stdenv-darwin.drv k84cqp32vsbq1fhw7skncgqn4dis7p1q-python3.11-bootstrap-flit-core-3.9.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh y203q8pn6c7sb77kxmfkx2q9kzqhax12-python3-3.11.8.drv
+CA: text:sha256:0gcqx0jkcclvmq017d97vvxfhpr8q08dz55q1sfin3sxp7x91w9n

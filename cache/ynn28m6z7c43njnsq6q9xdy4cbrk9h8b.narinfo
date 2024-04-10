@@ -1,0 +1,9 @@
+StorePath: /nix/store/ynn28m6z7c43njnsq6q9xdy4cbrk9h8b-perl5.38.2-Net-SSLeay-1.92.drv
+URL: nar/0pzpbnwls3kqncy5cjmw91n2gp8955zkivz77j5098lmhb74cx7d.nar.xz
+Compression: xz
+FileHash: sha256:0pzpbnwls3kqncy5cjmw91n2gp8955zkivz77j5098lmhb74cx7d
+FileSize: 1188
+NarHash: sha256:1d5mrjmj8annmjk7kxz2vvz2fzc9h3z80nmchb6q35jdskp2y8wm
+NarSize: 2752
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 5lp47g91i9y0w0pax3sgja8hv7prsp7w-builder.sh bnw2l92w2y042cwl6w982hddzacakrjd-perl-5.38.2.drv ja673f47sh9b2q518mjgn36lc8bssky9-zlib-1.3.1.drv jygmbf7m1bsbcq0imgcl6fjhvh28mp2i-openssl-3.0.13.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv w3cxq1703lgvawkya12yqrcgmdr86ymg-Net-SSLeay-1.92.tar.gz.drv
+CA: text:sha256:0zp7w6rg0yrarww09fz1dvha8m56jcbqrkfs5kyp7jqkhzmk6k6k

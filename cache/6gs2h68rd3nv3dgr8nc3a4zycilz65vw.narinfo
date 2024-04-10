@@ -1,0 +1,9 @@
+StorePath: /nix/store/6gs2h68rd3nv3dgr8nc3a4zycilz65vw-dart-3.3.3.drv
+URL: nar/087c61dyzhv9sqyqphvch2piw0zdqyz5yc2bnhjsbz09h4rjrmac.nar.xz
+Compression: xz
+FileHash: sha256:087c61dyzhv9sqyqphvch2piw0zdqyz5yc2bnhjsbz09h4rjrmac
+FileSize: 988
+NarHash: sha256:0nnx4n3yq9y4vknizax6h7z9hn7ydlxjdfvs39anp9w671c7gkkm
+NarSize: 2008
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 29sp3jf2y0p0y72h0fpvb8an3x4w2ggx-dartsdk-linux-x64-release.zip.drv hnwgqzydfasavc4ap0q2djsshdfryy4h-unzip-6.0.drv jmp1awmbs8sjcp7nvv5r050nmmrzmqga-gcc-13.2.0.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0gr4shff9yma8vjwzazhr66v81yhykiiry9rjj0la7zrinvwacnd

@@ -1,0 +1,9 @@
+StorePath: /nix/store/wnzl789kdnq5wrarcsj0wmi8lvxa0nlv-apple-framework-CoreImage.drv
+URL: nar/04b5afl1xzb9mjab0bqrlilg13nci5pk83db1kiahjcjs4vp505j.nar.xz
+Compression: xz
+FileHash: sha256:04b5afl1xzb9mjab0bqrlilg13nci5pk83db1kiahjcjs4vp505j
+FileSize: 1992
+NarHash: sha256:1347pcng6npmn5b81svm8aizc2iz2shzjz8jmw4wsnb0v6vqci2n
+NarSize: 6200
+References: 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv ihxi1pqa05vwlj8v5nicmifz3233gqnd-print-reexports.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv ysdarccdh2vf1fnkczhlmrqaqxq1ck96-MacOS_SDK-10.12.drv
+CA: text:sha256:12jkihsq4dq1mgdlbr28lrz78x99fkk16586iyq24l597szzkrpm

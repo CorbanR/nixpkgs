@@ -1,0 +1,9 @@
+StorePath: /nix/store/d46fw85304xxs19xavzrj3d8k29p8k5w-apr-util-1.6.3.drv
+URL: nar/12skxqbg7j6n3kzsnnkzmn2mdmz5m6gjgh0q4pbmis6sdwb9ry49.nar.xz
+Compression: xz
+FileHash: sha256:12skxqbg7j6n3kzsnnkzmn2mdmz5m6gjgh0q4pbmis6sdwb9ry49
+FileSize: 2000
+NarHash: sha256:0m6b3zxbk5hj2q4aj2zbmhb0ihpcy6kdddnh7d7gkribxgaqdh5d
+NarSize: 4856
+References: 41lzjhkmqxbhsln1y9vwhrqq7qpnchwx-clang-bdb.patch 5ha61k7x9ih3x2v12cy1rlvxrbv7i5w1-expat-2.6.2.drv 7g37wmhdv8z76ggbgn51kcz0fszc3dkj-gnused-4.9.drv 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv 988hwsccxyi0fqv0bc9bzkramfr0nzhm-apr-1.7.4.drv av97mgizry68zs3764abq7lxh97rs7vl-autoreconf-hook.drv d5n9qjsfmb7rn7dc6x8p6dbhq3d5p9qj-fix-libxcrypt-build.patch fjb3jg3mvzpycccxf42h0psmbbxdgfpg-libiconv-50.drv i63bxzf2lvfr0p03q83l0dlrihlyixy6-make-shell-wrapper-hook.drv iyxvddk8h6fma7dpw3gpgibic7xkdxwb-openldap-2.6.7.drv nwldz574yq75p9k29s13giw0i5nrgpgx-openssl-3.0.13.drv sm8q2gxaq4ndk54g59kcgg53khyil8yb-libxcrypt-4.4.36.drv spw6gqixpxw23rxx5ligg25spw9hq7wa-apr-util-1.6.3.tar.bz2.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv yjgvzp1nqc7nrcy2nqryf384snhbmdbf-db-5.3.28.drv
+CA: text:sha256:1r4v18njnr9vpi91l0rqjq4ncgdq95ap5d5rl4avrsgikmfinllp

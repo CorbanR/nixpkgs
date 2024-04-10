@@ -1,0 +1,9 @@
+StorePath: /nix/store/nz4a95pdg18bjl0zd0ikkibr2gcnfznz-apple-lib-libDER.drv
+URL: nar/1xx9ai29vw6x5nh4lbjcpp15y1fbqvqkxyqb9za9hpnx9qpmmqad.nar.xz
+Compression: xz
+FileHash: sha256:1xx9ai29vw6x5nh4lbjcpp15y1fbqvqkxyqb9za9hpnx9qpmmqad
+FileSize: 888
+NarHash: sha256:0jdg2yngi7m6jwzb1fyxd2bs2k221wpprvhj198i23ml08pxp6zg
+NarSize: 1968
+References: fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kzkv4g1p7rr7nd7vqdzq5zjb5gfy6sjz-MacOSX-SDK-11.0.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0n72kjgkpmqr983f27hyyyjhgw4s31nj1drqbmhy68csbdirrkah

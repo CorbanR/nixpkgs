@@ -1,0 +1,9 @@
+StorePath: /nix/store/ijsqcnq4zbpv3l6bcycjrwgv7q76dnyy-sharutils-4.15.2.drv
+URL: nar/13wnjsyrp2zw6y8nixq850z3yhgladllq9wq9sj4hqkla23m894h.nar.xz
+Compression: xz
+FileHash: sha256:13wnjsyrp2zw6y8nixq850z3yhgladllq9wq9sj4hqkla23m894h
+FileSize: 1376
+NarHash: sha256:0rw97j38zsgj6p9i36p17xniqsplzg68nbyafxn3amlf4nh3w4k3
+NarSize: 3040
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 1wph8b726k2h8gj40rvk7flivfsn8qal-sharutils-4.15.2-Fix-building-with-GCC-10.patch.drv 50qzy0vmd3la7bwjaf6kafv6ffigl1pk-sharutils-4.15.2-Do-not-include-lib-md5.c-into-src-shar.c.patch.drv 87d3l0qisvj78dfrb6d0wjcz6ihafl0b-sharutils-4.15.2.tar.xz.drv anqn1bi6n9rrlvk9n2j2ykbbjpbnaycb-coreutils-9.4.drv b2z0qa86msdnzl3ff66k31mnq1jmy0bw-01-fix-heap-buffer-overflow-cve-2018-1000097.patch.drv g8r81qp3khfb2ziw1y6gh54bcrfzj40n-02-fix-ftbfs-with-glibc-2.28.patch.drv k0alq44vgbq9ap8x9rmf6gwccqq1lby8-gettext-0.21.1.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1v80axcrna0ig60ksgpxhcx6900b69in97wxw0iw0qf4n181l6ps

@@ -1,9 +1,0 @@
-StorePath: /nix/store/9rxq05vgpkzfbxwb38z4y1rn8x488p8k-diffutils-3.10.tar.xz.drv
-URL: nar/0c9ihknr1zq9zkswbajyl221czr1ryf9rapmd7fp3pdirywvk1kx.nar.xz
-Compression: xz
-FileHash: sha256:0c9ihknr1zq9zkswbajyl221czr1ryf9rapmd7fp3pdirywvk1kx
-FileSize: 1340
-NarHash: sha256:0lmrr3ry318sgn5sns62v6dh2530kiki46clc2w2zbyp0fk8wxmg
-NarSize: 3200
-References: 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh p4jpyr1vsixxl6sbkfy0r0398wwmqbci-bootstrap-stage0-stdenv-darwin.drv pfc1kmyhx8lkwakqlc0yarb8p5nldl4f-mirrors-list.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv
-CA: text:sha256:07p14a1a0qk6hw69azypas7frm2agak47pvk4a4ran90ynlf5lpb

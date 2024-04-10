@@ -1,9 +1,0 @@
-StorePath: /nix/store/5l9gn9w99z55jdqk03gzd1j6d5l67fyf-bash-5.2-p15.drv
-URL: nar/0c1d8pf67c69z2f74sd6kvppjx658846vwyjzh1j9vhy6rb4jby2.nar.xz
-Compression: xz
-FileHash: sha256:0c1d8pf67c69z2f74sd6kvppjx658846vwyjzh1j9vhy6rb4jby2
-FileSize: 2364
-NarHash: sha256:05zn0m8pmkm0xaskbdgqrwv454lk7j3bfwgms2hdrynbanl1vp2n
-NarSize: 5712
-References: 1cwqp9msvi5z8517czfl88dd42yhrdwg-separate-debug-info.sh 1rfn1ylygzdbca5b54qjs6n4vnnsx85f-bash52-006.drv 3nsxf1f3ab96g3661f6f9vkz8ycrcfj2-bison-3.8.2.drv 4g210kbfqlj90cpd4imh1va5rj13p1si-bootstrap-stage1-gcc-wrapper-.drv 5jrd75v747s76s16zxk59384xfcjqn58-bash-5.2.tar.gz.drv 6k05dfl68y2m382xd5hanfvj7j8c73p1-bash52-003.drv 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 6xwbrn3wdxwyphpj64rphhms41vxvqxb-bash52-009.drv 7j0r588ymbv6dq8c98wvzklcsk42wvpb-bash52-014.drv a68j9bys24cr3m1bixy4bz92q27bmx7k-bash52-005.drv ag9cnvb4pcgcj0rbkzva6qdz54fnr8fg-bash52-012.drv ah8jsm934168mfnmkf54fh0ms38k6nsm-bash52-015.drv f9hs49y4q8bvg4ffdiycbafd5r1gb13r-bash52-008.drv j2zlvksmwzs79zvsqmz45jn39zsyr31f-bash52-002.drv j7yk5caljxg94g6kn285hz5ysiyv1bmi-parallel.patch ks6kir3vky8mb8zqpfhchwasn0rv1ix6-bootstrap-tools.drv kssqadrh4044p2na6fclnyh6pv3r9l5s-bash52-013.drv l81h2pb34h1hrgf8hgayzl28zzmqnfm0-bash52-010.drv lzj43l6bg1n2adj3dij7f3dwhz05n3sx-bootstrap-stage1-stdenv-linux.drv nb8wd3xgfp34vic7xw7rkb186pq7hwfh-bash52-001.drv nsw82ybp208qkgs87s5b2h74978lrgd8-bash52-011.drv pk6bdyws4n421ak7mwvk5nkg0li7cvq2-bash52-004.drv rz74q7y5r38in9zdzq9r2brf5yh6lpy5-bash52-007.drv sjlm8agj6m3cpglc5v11d40cj7j6kin2-fix-static.patch.drv yq0lz1byj4v2rym2ng23a3nj4n6pvqdj-pgrp-pipe-5.patch
-CA: text:sha256:0008ayh2h39z9iigyfjr4lxj0qimmasaw7dam1gihq7ycirymm35

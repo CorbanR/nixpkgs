@@ -1,0 +1,9 @@
+StorePath: /nix/store/82sjhsvghpbj9719a1mvdr26wvr62bfs-unzip-6.0.drv
+URL: nar/0pvjmiwii6bm9g3r0kda8lr32h69120phdiprlrk4hrc36yngwng.nar.xz
+Compression: xz
+FileHash: sha256:0pvjmiwii6bm9g3r0kda8lr32h69120phdiprlrk4hrc36yngwng
+FileSize: 1964
+NarHash: sha256:0fzpmbha3zc4617c0y03x3higyqvwyxjkwgb3jq10lmspsaa3pkd
+NarSize: 4904
+References: 11hf5dgfnk06gz2fhdhj1150bjjicd7g-06-initialize-the-symlink-flag.patch.drv 1k1wn8807yizgz3ghnbd4k6zsc0dzfkr-CVE-2014-9913.patch 2cq4hsc1v8ylccspw8351r72s56w1fia-CVE-2015-7697.diff 3h0jg8f69bl716754amw53q9vqp6vpy3-CVE-2019-13232-2.patch.drv 3vm6v9li75vfly3zw0pnqn98246h49n2-bzip2-1.0.8.drv 4bcg34p5cbag8yw3gyw53fxgqf53x5si-unzip60.tar.gz.drv 6np2acjv1nxcg0xzsv9a76wyrpxznkna-CVE-2014-8141.diff 6zqn6w9rwkgfa6z1hpagnh5xhz2dag6m-CVE-2015-7696.diff 705g035ind4dzrnxwjaw5gp6wy32bkar-implicit-declarations-fix.patch 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv 97d26l91h0db8h0qkmhxwi5d8shrilv6-CVE-2016-9844.patch 9vmlzd22a144mb56d9ba9hkvgbyv9n91-CVE-2019-13232-3.patch.drv cciw7lgkldvx25d77cxpjhh1iw4xghd9-setup-hook.sh d9b2qrrq32jzdsdx4y33inzrra5n5z5n-CVE-2014-8140.diff k9cviabpg7imfcd8qhmf1wf7kh60ga1x-28-cve-2022-0529-and-cve-2022-0530.patch.drv p46prhgmv7ibjh9igfkbc6zfxbbi6sk5-dont-hardcode-cc.patch p55a764pi2f4kkx3adb43bxb2dnb4z6r-CVE-2018-18384.patch pdcj2chp5c2gvm2jc3shbajfc62kbx1i-CVE-2014-9636.diff rdkdki1f24q8mqgnbsyk7gmh28c027ks-CVE-2014-8139.diff v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv z7l3cqa190fbzvmj1iz5f170q5gy8gcs-CVE-2019-13232-1.patch.drv
+CA: text:sha256:1g8jv4bblaick8g6mrgvxjfmy20lp2ilnjmmvsrd0nbm80wbrrp6

@@ -1,9 +1,0 @@
-StorePath: /nix/store/swvv9pkpf8picky83dv4n8fb3sl0hds3-nuke-references.drv
-URL: nar/0nzqqp560asmd41rncxs3w769p4ki4w632bkfhvypd3ga2m9d9pp.nar.xz
-Compression: xz
-FileHash: sha256:0nzqqp560asmd41rncxs3w769p4ki4w632bkfhvypd3ga2m9d9pp
-FileSize: 852
-NarHash: sha256:1q7rb3mcymwy9i6pfjkwv8va6wg55axrqw2d9lfnkjqwxb46lb1q
-NarSize: 2000
-References: 6xg259477c90a229xwmb53pdfkn6ig3g-default-builder.sh 9m54l1bi5814x9cqznwlga7yfs5ipi6h-nuke-refs.sh i8a31hfv8pz9l0z1y7iimdl6h04dga75-stdenv-linux.drv p3jc8aw45dza6h52v81j7lk69khckmcj-bash-5.2-p15.drv y6kgq2whq4cg87w45ha2x0m2ndljqn94-perl-5.38.0.drv
-CA: text:sha256:1adi7njg277psnri1y83v624r4rfgkc0f59i11wl1rcnff9mcwqz

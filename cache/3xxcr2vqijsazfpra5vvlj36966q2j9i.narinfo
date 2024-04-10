@@ -1,0 +1,9 @@
+StorePath: /nix/store/3xxcr2vqijsazfpra5vvlj36966q2j9i-python3.11-pysocks-1.7.1.drv
+URL: nar/04i6d74lbfvqmsbl4var3b1hyg17rd6hd5ljcfr9rrf7m9vz8byc.nar.xz
+Compression: xz
+FileHash: sha256:04i6d74lbfvqmsbl4var3b1hyg17rd6hd5ljcfr9rrf7m9vz8byc
+FileSize: 1688
+NarHash: sha256:08b3wf79gh0fz080bpwg51cybrd5vly59kzdi6ky35hl0ab5lna4
+NarSize: 3984
+References: 1x8m520lxi7k8mi14ags76cgad318nja-python3-3.11.8.drv 46d08420bh83lij55cbj0rxpd3g290i6-python-imports-check-hook.sh.drv 562s7fm1vzk7jqvvlnpy3k0ryq61mhxr-setuptools-setup-hook.drv 7flcgadzsl7pidysz7y2j01fr1szmkad-python-namespaces-hook.sh.drv bpasqnadfnkxblixjgi13z1dq6dnzjp3-pypa-install-hook.drv dmczbdk4h75yx2iyvgsvznc9cq247xg7-wrap-python-hook.drv hxaax8irvw5m0dlj28xry5na9ibcdbpy-python-catch-conflicts-hook.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kzhraibfkbrwq2gz1r94yk1n8bq6y94d-python-remove-bin-bytecode-hook.drv lw9y9rb90yrm3832mwavww6dlzdy28rl-PySocks-1.7.1.tar.gz.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vvpk5gcslwkzmnhfkz3s2nii7bqfi5sb-python-remove-tests-dir-hook.drv w98pydy8vbj8h3qc9w383ryivz4wqknk-bootstrap-stage3-stdenv-darwin.drv wa0m792wbiv7k1im2xz2n83vrbpr3yxh-ensure-newer-sources-hook.drv zwhrsbig75c0qsy6bcf4n4wsv9ixmsy2-python-output-dist-hook.drv
+CA: text:sha256:1mfbxl6qn1cr5zvc8mbrh7ggg086gd556445iklyfg335w4plsz4

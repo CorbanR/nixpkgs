@@ -1,0 +1,9 @@
+StorePath: /nix/store/dv0f5bah1x4433fpxkrh6i081mflwapi-sysctl-system_cmds-970.0.4.drv
+URL: nar/1pfw2y02aya6rfa9wv5amdl4na9sqa9n9an0h6qg0l7yzja8s4cq.nar.xz
+Compression: xz
+FileHash: sha256:1pfw2y02aya6rfa9wv5amdl4na9sqa9n9an0h6qg0l7yzja8s4cq
+FileSize: 1008
+NarHash: sha256:0cpr7dqvcdz3s8a8hm1k7q05y0dg1klz88mcany3myb9kgp8q58s
+NarSize: 2544
+References: fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv nvg7l61g6cxbdqizinyln04jifx15585-system_cmds-970.0.4.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:1j135zhnxc6brl1prmfscqh58z4wppf1np2vm8q84ags612gq75z

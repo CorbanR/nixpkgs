@@ -1,0 +1,9 @@
+StorePath: /nix/store/046mgkkza8dppcjqi6l52szx5xrqiis4-libxslt-1.1.39.drv
+URL: nar/0d9jpqss3ggl3ri09gj6kp1vbwz02bjh7kslwn570z54s0crrj6a.nar.xz
+Compression: xz
+FileHash: sha256:0d9jpqss3ggl3ri09gj6kp1vbwz02bjh7kslwn570z54s0crrj6a
+FileSize: 1584
+NarHash: sha256:0i1jsxhqrpcwysh3bqdvjk4c470zl5pywfmsb5c1jl41532csz55
+NarSize: 3936
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 3kwycdz7ia88dq40p64pm2hxazzxz7v4-ncurses-6.4.drv bi6dqphrr6n7578vnvyd4h70wjxcpgk8-pkg-config-wrapper-0.29.2.drv d9d5y70fm09q71iv9h15aq03lp086a6x-find-xml-catalogs-hook.drv mmmhqpc9drfjvhx5l95ddjjp5gys0x91-libxslt-1.1.39.tar.xz.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv qwk4hh2zaj5agzw6mhn2pmydf5cvsrcj-libxml2-2.12.6.drv snsswq08iaxavism8r6akfsw50jw136k-libxcrypt-4.4.36.drv spryins4rzr9c14g7p1nhn4ly5aqm8nl-autoreconf-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh ylbfr7skliq9rwrdcscrs061j3kb8ys1-python3-3.11.8.drv
+CA: text:sha256:0naxkkpjbmm9c7qwyzzayaxzknij12igfckx6lrc6zgcxppiisfk

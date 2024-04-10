@@ -1,0 +1,9 @@
+StorePath: /nix/store/8mja2yphp7m3fna1vilppl93mcshyhmh-apple-framework-CoreFoundation-11.0.0.drv
+URL: nar/0kmz9nd12n3ik8k6lrkjg33dqs8ql078qjw0mdia9svcb1k6xcyw.nar.xz
+Compression: xz
+FileHash: sha256:0kmz9nd12n3ik8k6lrkjg33dqs8ql078qjw0mdia9svcb1k6xcyw
+FileSize: 1332
+NarHash: sha256:1rryqqpb5q7c1qfff86xxmiybf3diinksz3p7h7hjhnh0i0il9nm
+NarSize: 3600
+References: 2py99219sqcb2g21zjgx5vgb25nawwhj-rewrite-tbd-unstable-2023-03-27.drv fv40kyrd2li6jg1q693nnzdj0520m23q-stdenv-darwin.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv kzkv4g1p7rr7nd7vqdzq5zjb5gfy6sjz-MacOSX-SDK-11.0.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh yzf4nr55il89vlcam6a3mfhvxyr1p2yv-libobjc-11.0.0.drv
+CA: text:sha256:11dxhphvwj8bd4qghjpczzbq9z5jz52hvf0d1ncncw5jmbg34f59

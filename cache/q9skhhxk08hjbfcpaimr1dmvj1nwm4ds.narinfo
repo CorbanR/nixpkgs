@@ -1,9 +1,0 @@
-StorePath: /nix/store/q9skhhxk08hjbfcpaimr1dmvj1nwm4ds-opensp-1.5.2-c11-using.patch?id=688d9675782dfc162d4e6cff04c668f7516118d0.drv
-URL: nar/1yfnswavp1cpahn15i52am33q7gip4wxsp024kiak0l5rj97p2px.nar.xz
-Compression: xz
-FileHash: sha256:1yfnswavp1cpahn15i52am33q7gip4wxsp024kiak0l5rj97p2px
-FileSize: 2028
-NarHash: sha256:1a8fyaklgh8h4m3nqwcpawb3s40dfvbml6j8zmmsgzqcc2s5idrm
-NarSize: 5032
-References: 1y4dpnbygkhb7xkd2iajjq9j0y5glmld-mirrors-list.drv 57620l1168piiia2bmmsxxhh7sjb2n40-builder.sh 6cl94yz7awlxs83hvfr4pryxnnxmfa12-curl-8.3.0.drv 6y6nnfz830sjyf4qn2wcza51f87zpqam-patchutils-0.3.3.drv 9c4h09jfbr23crdyv293cvxlws3bdp1l-bash-5.2-p15.drv w12mifg34dx2l90mdc7gq9qirc9hn979-stdenv-darwin.drv
-CA: text:sha256:0rg2wv1qq98rmjmxbpxdldc3bnypyzi7ckq0fs1bjpqaania6hrl

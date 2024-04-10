@@ -1,0 +1,9 @@
+StorePath: /nix/store/rgk0jp4n0w19cbfiz3yyb7ilv8gbily3-flex-2.6.4.drv
+URL: nar/010737k9xv0g26dh35fy0srqhy6z55r1v5sg7hk82a482m8fpjm7.nar.xz
+Compression: xz
+FileHash: sha256:010737k9xv0g26dh35fy0srqhy6z55r1v5sg7hk82a482m8fpjm7
+FileSize: 1160
+NarHash: sha256:0fyff2y3c7s5ir4nvnjc9x3kmj58jiq2x2q6b7l305nnjnjwywy1
+NarSize: 2472
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 45l9md35nfh63qlkv9dblnzp20m2mi37-gcc-wrapper-13.2.0.drv a3b3iw82wvp1bvphwplswars439j1aqb-flex-2.6.4.tar.gz.drv cx5ggzdl520a4q9rh0i19ka18a7yq4fm-bison-3.8.2.drv f4hmaki3plkmis5mzcl2d5m6vpc2yn0z-help2man-1.49.3.drv g18v7s1q1vr4qfdcq42m017wai423971-gnum4-1.4.19.drv nhh3xa1m7ryhcfic81vkjrq6gsr9yfzi-glibc-2.26.patch.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv spryins4rzr9c14g7p1nhn4ly5aqm8nl-autoreconf-hook.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:18ic670vlgq33p2fy83s5zbcpzw1z0052r0ib5dcblp13lziwa4a

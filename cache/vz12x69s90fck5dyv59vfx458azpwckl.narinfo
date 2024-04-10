@@ -1,0 +1,9 @@
+StorePath: /nix/store/vz12x69s90fck5dyv59vfx458azpwckl-apple-framework-Carbon.drv
+URL: nar/1m11c338jh8mb9cv1ny0db449gf8028zasfj3jppgi9ffxc5zmgv.nar.xz
+Compression: xz
+FileHash: sha256:1m11c338jh8mb9cv1ny0db449gf8028zasfj3jppgi9ffxc5zmgv
+FileSize: 2512
+NarHash: sha256:0r1mwi044skzrfvgl36dx2vrvbfg0xfv8azjy0vmqgazimsgsna9
+NarSize: 8024
+References: 0073gs10q87rjkajqq76qjgybggpffwb-objc4-709.1.drv 77vbzi7s0bg8yc2d59jdyz0dzc8i63jr-apple-framework-Security.drv 7h9dkkdav9zwc06341lb43x26jllp8f1-bootstrap-stage1-stdenv-darwin.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh cgb47rk9g8gdc3isr90jm2awyfaq50iz-apple-framework-QuartzCore.drv gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv hvqjqm0hi7f4vfj0psywn4cl1znm2w37-apple-framework-IOKit.drv ihxi1pqa05vwlj8v5nicmifz3233gqnd-print-reexports.drv njlahgk71mxnacv11cra72vimk4k1dd5-apple-framework-Foundation.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh vjxracxb3v1v2a83njrkjhz5wwg4234p-apple-framework-CoreServices.drv wn8fif83s2lwxl8n4s7916c3pj8lli6l-bootstrap-tools.drv wqszyhrhfbxdcvgn0lk5v9hzbch6dnlh-apple-framework-ApplicationServices.drv ysdarccdh2vf1fnkczhlmrqaqxq1ck96-MacOS_SDK-10.12.drv
+CA: text:sha256:0x9w6hqpjqr9c27h4kn9w51p7s321fcyhlgp43s4pa1vaijwx06z

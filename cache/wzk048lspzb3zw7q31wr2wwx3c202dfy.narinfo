@@ -1,0 +1,9 @@
+StorePath: /nix/store/wzk048lspzb3zw7q31wr2wwx3c202dfy-python3.11-bootstrap-tomli-2.0.1.drv
+URL: nar/0wcp77kh0lxws0m2r1aqzhljyvla5in90sqc6niva355j30cnhv6.nar.xz
+Compression: xz
+FileHash: sha256:0wcp77kh0lxws0m2r1aqzhljyvla5in90sqc6niva355j30cnhv6
+FileSize: 1124
+NarHash: sha256:11f19drhar7qm6f6cmjv2kcyfrzyjm7vpgjjm9myzvm1nlmhqx79
+NarSize: 2616
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 4y21z55ycbyjbwrrkrz39mfdybq21ggj-source.drv glfiarlznmsczgan1bxdq2ykc8ywq97x-make-shell-wrapper-hook.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv s935r4ahkhnq0f1dzz734hk134w19jbi-python3.11-bootstrap-flit-core-3.9.0.drv srjz10ac6r3qnln9cawn9pcr276z3irg-python3.11-bootstrap-installer-0.7.0.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh ylbfr7skliq9rwrdcscrs061j3kb8ys1-python3-3.11.8.drv
+CA: text:sha256:0jrgfg54xm8z4x9mf445cmii4xwprchb44f655igl7gw8an69wiw

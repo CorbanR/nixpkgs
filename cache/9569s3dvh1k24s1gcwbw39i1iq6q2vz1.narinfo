@@ -1,0 +1,9 @@
+StorePath: /nix/store/9569s3dvh1k24s1gcwbw39i1iq6q2vz1-libtasn1-4.19.0.drv
+URL: nar/06ww0pbc3920lpczc9xbnc3phlfym04808ifajbz6q639hgmy4mz.nar.xz
+Compression: xz
+FileHash: sha256:06ww0pbc3920lpczc9xbnc3phlfym04808ifajbz6q639hgmy4mz
+FileSize: 928
+NarHash: sha256:0bhib80jw5p4wwvcar455wd19zw1606431sj424m8z1pbfx0055d
+NarSize: 2152
+References: 0c983id41frc440gzr45y3sm5hfpx4lb-stdenv-linux.drv 36iv9ka8gk721hjrmmijx52xcplqmzsx-libtasn1-4.19.0.tar.gz.drv bnw2l92w2y042cwl6w982hddzacakrjd-perl-5.38.2.drv cdwv8pwb40wxa70pdg7wndmxv583qn8y-texinfo-7.0.3.drv qkh75fn6sickg70qhdn7j1486ydzfb9i-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh
+CA: text:sha256:0rvfnjkna9kdcy9slwparjd4zlnx6fcp4kmh7nk7pm42jqvws495

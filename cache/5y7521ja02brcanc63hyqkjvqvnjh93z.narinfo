@@ -1,0 +1,9 @@
+StorePath: /nix/store/5y7521ja02brcanc63hyqkjvqvnjh93z-apple-framework-OpenGL.drv
+URL: nar/0ka1qyls19xhf8dhr8z2zc57i9bif3qlnp2ppwci5j53pgp5sfgm.nar.xz
+Compression: xz
+FileHash: sha256:0ka1qyls19xhf8dhr8z2zc57i9bif3qlnp2ppwci5j53pgp5sfgm
+FileSize: 1996
+NarHash: sha256:18hg3z3i5f9fzndfbfgk3hbwv1b61a1msanhga1zqr2ng8bkrxbd
+NarSize: 6264
+References: 499fvdvizlph84qkal46b08z5x6p0kf1-bootstrap-stage4-stdenv-darwin.drv aqk7x04dy8v81inddd13zyaikry2dbxv-framework-setup-hook.sh gfx1cbx4ravbin2il644mbg7f8wps6ss-darwin-stubs-10.12.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh v7jcqifji2sdni1bcvjnqqb66w31dx7i-MacOS_SDK-10.12.drv xgm4z1k5bcbw8466dajw7aryaym3wndw-print-reexports.drv
+CA: text:sha256:0z2kvl7y0nfx16k0q1fndr8w719w4vhz82fkw682nqwwh7x33g4y

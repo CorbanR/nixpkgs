@@ -1,0 +1,9 @@
+StorePath: /nix/store/3l4vswawl7c16fkj230siabdwj0d6290-gdbm-1.23.drv
+URL: nar/03gdc8mxa34li3yvkldk29zlv1nlr83pqi52463z6k6vnxw71z8r.nar.xz
+Compression: xz
+FileHash: sha256:03gdc8mxa34li3yvkldk29zlv1nlr83pqi52463z6k6vnxw71z8r
+FileSize: 964
+NarHash: sha256:0q98i1rw2xk4v95z7ixfl19fmn6y73zsn9bkyicg87s5nxkr311r
+NarSize: 2216
+References: i66nbpicxn6hxq5gir6wjv8rz81zlirq-gdbm-1.23.tar.gz.drv im0b6p79gpcl2anwfbfrwvl7s3lgmpz3-bash-5.2p26.drv v6x3cs394jgqfbi0a42pam708flxaphh-default-builder.sh w98pydy8vbj8h3qc9w383ryivz4wqknk-bootstrap-stage3-stdenv-darwin.drv
+CA: text:sha256:10hgllv206x5xjg7xq9083jhsx0bj90nzdd1818j2ps780wmjhry
