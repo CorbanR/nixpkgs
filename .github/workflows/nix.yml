@@ -137,14 +137,14 @@ jobs:
 
       #v2.0.10
     - name: Download linux artifacts
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4.1.7
       with:
         name: nix-cache-ubuntu-22.04-${{ github.sha }}
         path: nix-cache-ubuntu-22.04-${{ github.sha }}
 
       #v2.0.8
     - name: Download mac artifacts
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4.1.7
       with:
         name: nix-cache-macos-12-${{ github.sha }}
         path: nix-cache-macos-12-${{ github.sha }}
